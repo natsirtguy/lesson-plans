@@ -16,46 +16,26 @@ https://natsirtguy.github.io/lesson-plans/
 
 ## 🔄 How It Works
 
-1. **Master branch** contains full project (code, docs, research)
-2. **gh-pages branch** contains only the app files (for deployment)
-3. GitHub Pages serves from gh-pages branch
-4. Every push to gh-pages triggers automatic redeployment
+1. **Master branch** contains full project (code, docs, research, app)
+2. **App files** live in `/docs` folder
+3. GitHub Pages serves from `/docs` folder on master branch
+4. Every push to master automatically redeploys the app
 
 ## 📝 Future Deployments
 
 When you make changes to the app:
 
 ```bash
-# 1. Make changes in master branch
+# 1. Edit files in /docs folder
 cd /Users/tristanmckinney/Projects/lesson-plans
-# Edit app/index.html or other files
+nano docs/index.html  # or use your editor
 
-# 2. Commit to master
-git add app/
+# 2. Commit and push
+git add docs/
 git commit -m "Update app"
 git push origin master
 
-# 3. Deploy to gh-pages
-git checkout gh-pages
-git checkout master -- app/
-mv app/* .
-git add .
-git commit -m "Deploy updates"
-git push origin gh-pages
-git checkout master
-```
-
-Or use this one-liner:
-
-```bash
-# Quick deploy script
-git checkout gh-pages && \
-git checkout master -- app/ && \
-mv app/* . 2>/dev/null ; \
-git add . && \
-git commit -m "Deploy: $(date +%Y-%m-%d)" && \
-git push origin gh-pages && \
-git checkout master
+# That's it! Auto-deploys in ~30 seconds
 ```
 
 ## 🧪 Testing Deployment
