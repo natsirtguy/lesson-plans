@@ -3,7 +3,8 @@
     "allow": [
       "Bash(mkdir:*)",
       "WebSearch",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   },
   "enabledMcpjsonServers": [
