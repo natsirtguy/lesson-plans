@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "serena": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@oraios/serena"
+      ],
+      "env": {}
+    },
+    "context7": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@upstash/context7"
+      ],
+      "env": {}
+    }
+  }
+}
