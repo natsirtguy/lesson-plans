@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#4F46E5">
+
+    <title>Daily Lesson Plans</title>
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Alpine.js via CDN -->
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
+
+    <style>
+        /* Custom touch feedback */
+        .btn-touch:active {
+            transform: scale(0.98);
+        }
+
+        /* Smooth transitions */
+        * {
+            transition: background-color 0.15s ease;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen" x-data="lessonPlanApp()" x-init="init()">
+
+    <!-- Header -->
+    <header class="bg-indigo-600 text-white shadow-lg sticky top-0 z-10">
+        <div class="max-w-4xl mx-auto px-4 py-4">
+            <div class="flex justify-between items-center">
+                <h1 class="text-2xl font-bold">📚 Daily Lesson Plans</h1>
+                <button
+                    @click="showMenu = !showMenu"
+                    class="p-2 rounded-lg hover:bg-indigo-700 active:bg-indigo-800">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Menu Overlay -->
+    <div x-show="showMenu"
+         x-transition:enter="transition ease-out duration-200"
+         x-transition:enter-start="opacity-0"
+         x-transition:enter-end="opacity-100"
+         x-transition:leave="transition ease-in duration-150"
+         x-transition:leave-start="opacity-100"
+         x-transition:leave-end="opacity-0"
+         @click.self="showMenu = false"
+         class="fixed inset-0 bg-black bg-opacity-50 z-20"
+         style="display: none;">
+
+        <div class="fixed top-0 right-0 h-full w-80 bg-white shadow-xl p-6">
+            <div class="flex justify-between items-center mb-6">
+                <h2 class="text-xl font-bold">Menu</h2>
+                <button @click="showMenu = false" class="p-2 hover:bg-gray-100 rounded">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+
+            <div class="space-y-3">
+                <button @click="exportData(); showMenu = false"
+                        class="w-full px-4 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 active:bg-blue-700 btn-touch text-left">
+                    📥 Export Data
+                </button>
+
+                <button @click="$refs.importFile.click(); showMenu = false"
+                        class="w-full px-4 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 active:bg-green-700 btn-touch text-left">
+                    📤 Import Data
+                </button>
+
+                <button @click="viewHistory(); showMenu = false"
+                        class="w-full px-4 py-3 bg-purple-500 text-white rounded-lg hover:bg-purple-600 active:bg-purple-700 btn-touch text-left">
+                    📜 View History
+                </button>
+
+                <button @click="viewDevelopment(); showMenu = false"
+                        class="w-full px-4 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 active:bg-yellow-700 btn-touch text-left">
+                    🔧 Development Queue
+                </button>
+
+                <hr class="my-4">
+
+                <button @click="resetAllData(); showMenu = false"
+                        class="w-full px-4 py-3 bg-red-500 text-white rounded-lg hover:bg-red-600 active:bg-red-700 btn-touch text-left">
+                    🔄 Reset All Data
+                </button>
+            </div>
+
+            <div class="mt-8 pt-8 border-t text-sm text-gray-600">
+                <p>Completed Today: <strong x-text="completedToday.length"></strong></p>
+                <p>Total Completed: <strong x-text="data.completed.length"></strong></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Hidden file input for import -->
+    <input type="file" x-ref="importFile" @change="importData($event)" accept=".json" class="hidden">
+
+    <!-- Main Content -->
+    <main class="max-w-4xl mx-auto px-4 py-6 pb-20">
+
+        <!-- Queue Cards -->
+        <div class="space-y-6">
+
+            <!-- Arts & Culture Queue -->
+            <div class="bg-white rounded-xl shadow-lg p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-bold text-pink-600">🎨 Arts & Culture</h2>
+                    <span class="text-sm text-gray-500" x-text="getQueuePosition('arts')"></span>
+                </div>
+
+                <template x-if="getCurrentTopic('arts')">
+                    <div>
+                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('arts').name"></p>
+                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('arts').category"></p>
+
+                        <div class="flex flex-col space-y-2">
+                            <button @click="selectTopic('arts')"
+                                    class="w-full py-4 px-6 bg-pink-500 text-white rounded-lg hover:bg-pink-600 active:bg-pink-700 btn-touch text-lg font-medium">
+                                ✓ Select This
+                            </button>
+                            <div class="grid grid-cols-2 gap-2">
+                                <button @click="skipTopic('arts')"
+                                        class="py-3 px-4 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch">
+                                    ⏭️ Skip
+                                </button>
+                                <button @click="flagForDevelopment('arts')"
+                                        class="py-3 px-4 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch">
+                                    🔧 Needs Work
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </template>
+
+                <template x-if="!getCurrentTopic('arts')">
+                    <p class="text-gray-500 italic">Queue empty - refilling...</p>
+                </template>
+            </div>
+
+            <!-- Knowledge & Skills Queue -->
+            <div class="bg-white rounded-xl shadow-lg p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-bold text-blue-600">🧠 Knowledge & Skills</h2>
+                    <span class="text-sm text-gray-500" x-text="getQueuePosition('knowledge')"></span>
+                </div>
+
+                <template x-if="getCurrentTopic('knowledge')">
+                    <div>
+                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('knowledge').name"></p>
+                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('knowledge').category"></p>
+
+                        <div class="flex flex-col space-y-2">
+                            <button @click="selectTopic('knowledge')"
+                                    class="w-full py-4 px-6 bg-blue-500 text-white rounded-lg hover:bg-blue-600 active:bg-blue-700 btn-touch text-lg font-medium">
+                                ✓ Select This
+                            </button>
+                            <div class="grid grid-cols-2 gap-2">
+                                <button @click="skipTopic('knowledge')"
+                                        class="py-3 px-4 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch">
+                                    ⏭️ Skip
+                                </button>
+                                <button @click="flagForDevelopment('knowledge')"
+                                        class="py-3 px-4 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch">
+                                    🔧 Needs Work
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </template>
+
+                <template x-if="!getCurrentTopic('knowledge')">
+                    <p class="text-gray-500 italic">Queue empty - refilling...</p>
+                </template>
+            </div>
+
+            <!-- Physical Activities Queue -->
+            <div class="bg-white rounded-xl shadow-lg p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-bold text-green-600">⚽ Physical Activities</h2>
+                    <span class="text-sm text-gray-500" x-text="getQueuePosition('physical')"></span>
+                </div>
+
+                <template x-if="getCurrentTopic('physical')">
+                    <div>
+                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('physical').name"></p>
+                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('physical').category"></p>
+
+                        <div class="flex flex-col space-y-2">
+                            <button @click="selectTopic('physical')"
+                                    class="w-full py-4 px-6 bg-green-500 text-white rounded-lg hover:bg-green-600 active:bg-green-700 btn-touch text-lg font-medium">
+                                ✓ Select This
+                            </button>
+                            <div class="grid grid-cols-2 gap-2">
+                                <button @click="skipTopic('physical')"
+                                        class="py-3 px-4 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch">
+                                    ⏭️ Skip
+                                </button>
+                                <button @click="flagForDevelopment('physical')"
+                                        class="py-3 px-4 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch">
+                                    🔧 Needs Work
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </template>
+
+                <template x-if="!getCurrentTopic('physical')">
+                    <p class="text-gray-500 italic">Queue empty - refilling...</p>
+                </template>
+            </div>
+
+        </div>
+
+    </main>
+
+    <!-- Alpine.js App Logic -->
+    <script>
+        function lessonPlanApp() {
+            return {
+                data: {
+                    masterLists: { arts: [], knowledge: [], physical: [] },
+                    queues: { arts: [], knowledge: [], physical: [] },
+                    completed: [],
+                    development: [],
+                    cycles: { arts: 1, knowledge: 1, physical: 1 },
+                    version: '1.0'
+                },
+                showMenu: false,
+                completedToday: [],
+
+                async init() {
+                    // Load data from localStorage or initial file
+                    const savedData = localStorage.getItem('lessonPlanData');
+
+                    if (savedData) {
+                        this.data = JSON.parse(savedData);
+                        console.log('✅ Loaded data from localStorage');
+                    } else {
+                        // Load initial data from JSON file
+                        try {
+                            const response = await fetch('initial-data.json');
+                            this.data = await response.json();
+                            this.saveData();
+                            console.log('✅ Loaded initial data from file');
+                        } catch (error) {
+                            console.error('❌ Error loading initial data:', error);
+                            alert('Error loading data. Please refresh the page.');
+                        }
+                    }
+
+                    // Calculate completed today
+                    const today = new Date().toISOString().split('T')[0];
+                    this.completedToday = this.data.completed.filter(c => c.date === today);
+                },
+
+                saveData() {
+                    localStorage.setItem('lessonPlanData', JSON.stringify(this.data));
+                },
+
+                getCurrentTopic(queueName) {
+                    const queue = this.data.queues[queueName];
+                    if (!queue || queue.length === 0) return null;
+
+                    const topicId = queue[0];
+                    return this.data.masterLists[queueName].find(t => t.id === topicId);
+                },
+
+                getQueuePosition(queueName) {
+                    const queue = this.data.queues[queueName];
+                    const total = this.data.masterLists[queueName].length;
+                    const remaining = queue.length;
+                    const current = total - remaining + 1;
+
+                    return `${current} of ${total} (Cycle ${this.data.cycles[queueName]})`;
+                },
+
+                selectTopic(queueName) {
+                    const topic = this.getCurrentTopic(queueName);
+                    if (!topic) return;
+
+                    // Add to completed log
+                    this.data.completed.push({
+                        topicId: topic.id,
+                        queue: queueName,
+                        date: new Date().toISOString().split('T')[0],
+                        topicName: topic.name
+                    });
+
+                    // Remove from queue
+                    this.data.queues[queueName].shift();
+
+                    // Check if queue is empty, refill if needed
+                    if (this.data.queues[queueName].length === 0) {
+                        this.refillQueue(queueName);
+                    }
+
+                    this.saveData();
+                    this.updateCompletedToday();
+
+                    // Show feedback
+                    this.showNotification(`✓ Selected: ${topic.name}`, 'success');
+                },
+
+                skipTopic(queueName) {
+                    const queue = this.data.queues[queueName];
+                    if (queue.length === 0) return;
+
+                    // Move first item to end
+                    const topicId = queue.shift();
+                    queue.push(topicId);
+
+                    this.saveData();
+                    this.showNotification('⏭️ Topic skipped to end of queue', 'info');
+                },
+
+                flagForDevelopment(queueName) {
+                    const topic = this.getCurrentTopic(queueName);
+                    if (!topic) return;
+
+                    const reason = prompt('Why does this topic need work?', 'Needs revision');
+                    if (reason === null) return; // User cancelled
+
+                    // Add to development queue
+                    this.data.development.push({
+                        topicId: topic.id,
+                        originalQueue: queueName,
+                        reason: reason,
+                        dateFlagged: new Date().toISOString().split('T')[0],
+                        topicName: topic.name,
+                        category: topic.category
+                    });
+
+                    // Remove from active queue
+                    this.data.queues[queueName].shift();
+
+                    // Check if queue is empty
+                    if (this.data.queues[queueName].length === 0) {
+                        this.refillQueue(queueName);
+                    }
+
+                    this.saveData();
+                    this.showNotification(`🔧 Moved to development queue: ${topic.name}`, 'warning');
+                },
+
+                refillQueue(queueName) {
+                    // Get all topic IDs from master list
+                    const allTopicIds = this.data.masterLists[queueName].map(t => t.id);
+
+                    // Shuffle for randomization
+                    const shuffled = [...allTopicIds].sort(() => Math.random() - 0.5);
+
+                    // Refill queue
+                    this.data.queues[queueName] = shuffled;
+
+                    // Increment cycle
+                    this.data.cycles[queueName]++;
+
+                    console.log(`🔄 Refilled ${queueName} queue (Cycle ${this.data.cycles[queueName]})`);
+                    this.showNotification(`🎉 ${queueName.charAt(0).toUpperCase() + queueName.slice(1)} queue completed! Starting new cycle.`, 'success');
+                },
+
+                exportData() {
+                    const dataStr = JSON.stringify(this.data, null, 2);
+                    const blob = new Blob([dataStr], { type: 'application/json' });
+                    const url = URL.createObjectURL(blob);
+                    const link = document.createElement('a');
+                    const date = new Date().toISOString().split('T')[0];
+                    link.href = url;
+                    link.download = `lesson-plan-data-${date}.json`;
+                    link.click();
+                    URL.revokeObjectURL(url);
+
+                    this.showNotification('📥 Data exported successfully!', 'success');
+                },
+
+                importData(event) {
+                    const file = event.target.files[0];
+                    if (!file) return;
+
+                    const reader = new FileReader();
+                    reader.onload = (e) => {
+                        try {
+                            const imported = JSON.parse(e.target.result);
+
+                            // Validate data structure
+                            if (!imported.masterLists || !imported.queues || !imported.completed) {
+                                throw new Error('Invalid data format');
+                            }
+
+                            // Confirm import
+                            if (confirm('Import this data? This will replace all current data.')) {
+                                this.data = imported;
+                                this.saveData();
+                                this.updateCompletedToday();
+                                this.showNotification('📤 Data imported successfully!', 'success');
+                                window.location.reload();
+                            }
+                        } catch (error) {
+                            console.error('Import error:', error);
+                            alert('Error importing data. Please check the file format.');
+                        }
+                    };
+                    reader.readAsText(file);
+                },
+
+                viewHistory() {
+                    const total = this.data.completed.length;
+                    const today = this.completedToday.length;
+                    alert(`Completion History\n\nCompleted Today: ${today}\nTotal Completed: ${total}\n\nUse Export Data to save your full history.`);
+                },
+
+                viewDevelopment() {
+                    const count = this.data.development.length;
+                    if (count === 0) {
+                        alert('Development Queue is empty!\n\nTopics flagged as "Needs Work" will appear here.');
+                    } else {
+                        const list = this.data.development.map((item, i) =>
+                            `${i + 1}. ${item.topicName}\n   Reason: ${item.reason}`
+                        ).join('\n\n');
+                        alert(`Development Queue (${count} items)\n\n${list}\n\nUse Export Data to manage these items.`);
+                    }
+                },
+
+                resetAllData() {
+                    if (confirm('⚠️ Reset ALL data to initial state?\n\nThis will:\n- Clear all completed topics\n- Clear development queue\n- Reset all queues to beginning\n- Cannot be undone!')) {
+                        if (confirm('Are you REALLY sure? This cannot be undone!')) {
+                            localStorage.removeItem('lessonPlanData');
+                            window.location.reload();
+                        }
+                    }
+                },
+
+                updateCompletedToday() {
+                    const today = new Date().toISOString().split('T')[0];
+                    this.completedToday = this.data.completed.filter(c => c.date === today);
+                },
+
+                showNotification(message, type) {
+                    // Simple notification (could be enhanced with a toast library later)
+                    console.log(`[${type.toUpperCase()}] ${message}`);
+                    // Could add a toast notification here in the future
+                }
+            };
+        }
+
+        // Register service worker for PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('✅ Service Worker registered'))
+                    .catch(err => console.log('❌ Service Worker registration failed:', err));
+            });
+        }
+    </script>
+
+</body>
+</html>
