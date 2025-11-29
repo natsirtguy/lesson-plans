@@ -38,15 +38,15 @@
 
 📂 KEY FILES:
 
-  app/index.html              → Main PWA (756 lines of code)
-  app/initial-data.json       → Your 433 topics
-  app/manifest.json           → PWA configuration
-  app/sw.js                   → Service worker (offline support)
+  docs/index.html              → Main PWA (756 lines of code)
+  docs/initial-data.json       → Your 433 topics
+  docs/manifest.json           → PWA configuration
+  docs/sw.js                   → Service worker (offline support)
   
   README.md                   → Project overview
   DEPLOY.md                   → Deployment instructions
   IMPLEMENTATION_SUMMARY.md   → Complete implementation details
-  app/README.md               → User guide for the app
+  docs/README.md               → User guide for the app
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -99,7 +99,7 @@
     • Clear browser cache
   
   Can't see topics?
-    • Ensure initial-data.json is in app/ folder
+    • Ensure initial-data.json is in docs/ folder
     • Check browser console for errors
     • Try reloading the page
 
@@ -211,7 +211,7 @@ Questions? Check the documentation:
   • README.md - Project overview
   • DEPLOY.md - Deployment guide
   • IMPLEMENTATION_SUMMARY.md - Technical details
-  • app/README.md - User guide
+  • docs/README.md - User guide
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

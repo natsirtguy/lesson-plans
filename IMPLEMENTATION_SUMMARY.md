@@ -42,7 +42,7 @@ A complete, production-ready Progressive Web App for daily lesson plan managemen
 
 ```
 lesson-plans/
-├── app/                           # ← Deploy this folder
+├── docs/                           # ← Deploy this folder
 │   ├── index.html                 # Main PWA (756 lines, fully functional)
 │   ├── manifest.json              # PWA configuration
 │   ├── sw.js                      # Service worker for offline
@@ -416,12 +416,12 @@ From REQUIREMENTS.md:
 
 - **Single-file app:** All logic in `index.html`
 - **Alpine.js component:** Global `lessonPlanApp()` function
-- **localStorage schema:** See `app/README.md`
+- **localStorage schema:** See `docs/README.md`
 - **No dependencies:** Everything via CDN
 
 ### Making Changes
 
-1. Edit `app/index.html`
+1. Edit `docs/index.html`
 2. Test locally: `python3 -m http.server 8000`
 3. Commit: `git commit -m "Description"`
 4. Push: `git push` (auto-deploys if using GitHub/Cloudflare/Netlify)
@@ -430,7 +430,7 @@ From REQUIREMENTS.md:
 
 1. Edit `topics.py`
 2. Run `python3 convert_topics.py`
-3. Copy new `app/initial-data.json` to production
+3. Copy new `docs/initial-data.json` to production
 4. Users import new data or reset app
 
 ---
@@ -453,7 +453,7 @@ From REQUIREMENTS.md:
 If issues arise:
 
 1. Check browser console for errors
-2. Review `app/README.md` for troubleshooting
+2. Review `docs/README.md` for troubleshooting
 3. Review `DEPLOY.md` for deployment issues
 4. Check GitHub Issues
 5. Export data regularly as backup!

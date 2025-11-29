@@ -79,7 +79,7 @@ def convert_topics():
     }
 
     # Write to file
-    with open('app/initial-data.json', 'w') as f:
+    with open('docs/initial-data.json', 'w') as f:
         json.dump(data, f, indent=2)
 
     # Print statistics
@@ -87,7 +87,7 @@ def convert_topics():
     print(f"✅ Converted {len(knowledge_topics)} knowledge topics")
     print(f"✅ Converted {len(physical_topics)} physical topics")
     print(f"📦 Total: {len(arts_topics) + len(knowledge_topics) + len(physical_topics)} topics")
-    print(f"💾 Saved to app/initial-data.json")
+    print(f"💾 Saved to docs/initial-data.json")
 
 if __name__ == "__main__":
     convert_topics()

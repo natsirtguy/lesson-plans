@@ -54,8 +54,8 @@ Choose one based on your preference:
 
 1. Add CNAME file:
    ```bash
-   echo "lessons.yourdomain.com" > app/CNAME
-   git add app/CNAME
+   echo "lessons.yourdomain.com" > docs/CNAME
+   git add docs/CNAME
    git commit -m "Add custom domain"
    git push
    ```
@@ -148,7 +148,7 @@ Choose one based on your preference:
 
 1. **Copy files to web root:**
    ```bash
-   sudo cp -r app/* /var/www/html/lesson-plans/
+   sudo cp -r docs/* /var/www/html/lesson-plans/
    ```
 
 2. **Ensure .htaccess is enabled:**
@@ -174,7 +174,7 @@ Choose one based on your preference:
 
 1. **Copy files:**
    ```bash
-   sudo cp -r app/* /var/www/html/lesson-plans/
+   sudo cp -r docs/* /var/www/html/lesson-plans/
    ```
 
 2. **Configure Nginx:**
@@ -287,8 +287,8 @@ After deploying, test these critical features:
 All three platforms (GitHub Pages, Cloudflare Pages, Netlify) automatically deploy when you push to the main branch:
 
 ```bash
-# Make changes to app/index.html
-git add app/index.html
+# Make changes to docs/index.html
+git add docs/index.html
 git commit -m "Update UI"
 git push
 
@@ -426,7 +426,7 @@ Chrome DevTools → Application → Clear Storage → Clear site data
 
 Before first deployment:
 
-- [ ] All files in `app/` directory
+- [ ] All files in `docs/` directory
 - [ ] `initial-data.json` present and valid
 - [ ] Test locally with Python server
 - [ ] Git repository created and pushed
@@ -450,7 +450,7 @@ After deployment:
 4. Use daily and provide feedback
 5. Export data regularly as backup
 
-**Questions?** Check `app/README.md` or open an issue.
+**Questions?** Check `docs/README.md` or open an issue.
 
 ---
 

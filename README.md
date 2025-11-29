@@ -4,7 +4,7 @@ A simple, mobile-first Progressive Web App (PWA) for managing daily learning top
 
 ## 📱 Live Demo
 
-**Test it now:** Open `app/index.html` in your browser or visit the deployed version.
+**Test it now:** Open `docs/index.html` in your browser or visit the deployed version.
 
 ## ✨ Features
 
@@ -41,7 +41,7 @@ A simple, mobile-first Progressive Web App (PWA) for managing daily learning top
 ### Option 1: Run Locally
 
 ```bash
-cd app
+cd docs
 python3 -m http.server 8000
 # Open http://localhost:8000 in your browser
 ```
@@ -50,14 +50,14 @@ python3 -m http.server 8000
 
 1. Push this repository to GitHub
 2. Go to repo Settings → Pages
-3. Select branch `master` and folder `/app`
+3. Select branch `master` and folder `/docs`
 4. Save and wait ~1 minute
 5. Access at `https://yourusername.github.io/lesson-plans/`
 
 ### Option 3: Deploy to Cloudflare Pages
 
 1. Connect your GitHub repository
-2. Set build directory: `app`
+2. Set build directory: `docs`
 3. Leave build command empty (static files)
 4. Deploy!
 
@@ -65,7 +65,7 @@ python3 -m http.server 8000
 
 ```
 lesson-plans/
-├── app/                      # PWA application (deploy this folder)
+├── docs/                      # PWA application (deploy this folder)
 │   ├── index.html           # Main app
 │   ├── manifest.json        # PWA manifest
 │   ├── sw.js               # Service worker
@@ -103,7 +103,7 @@ lesson-plans/
 
 ### Initial Setup
 ```
-topics.py → convert_topics.py → app/initial-data.json
+topics.py → convert_topics.py → docs/initial-data.json
                                         ↓
                                   localStorage
                                         ↓
@@ -176,7 +176,7 @@ If you update `topics.py`:
 python3 convert_topics.py
 ```
 
-This regenerates `app/initial-data.json`.
+This regenerates `docs/initial-data.json`.
 
 ### Add New Topics
 
@@ -187,7 +187,7 @@ This regenerates `app/initial-data.json`.
 
 ### Modify UI
 
-Edit `app/index.html` directly:
+Edit `docs/index.html` directly:
 - Alpine.js logic is in `<script>` at bottom
 - Tailwind classes are inline
 - No build step needed - just refresh browser
@@ -243,7 +243,7 @@ Before deploying to production:
 
 ## 📖 Documentation
 
-- **App Usage**: See `app/README.md`
+- **App Usage**: See `docs/README.md`
 - **Requirements**: See `REQUIREMENTS.md`
 - **Research**: See `planning/research/static-pwa-architecture.md`
 - **Claude Code Guide**: See `CLAUDE.md`
