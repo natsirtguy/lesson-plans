@@ -1,7 +1,7 @@
 # Daily Lesson Plan Queue System - Requirements Document
 
-Version: 1.0  
-Date: November 26, 2024  
+Version: 1.1
+Date: November 28, 2024
 Author: System Requirements Team
 
 ---
@@ -55,14 +55,12 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 
 **REQ-QD-003**: The system SHALL indicate when a queue is empty.
 
-**REQ-QD-004**: The system SHALL display the next upcoming item in each queue (preview). <!-- don't need a preview -->
-
 #### 3.1.2 Item Selection
 **REQ-SEL-001**: Users SHALL be able to mark the current item in any queue as "selected" (completed).
 
 **REQ-SEL-002**: When an item is selected, the system SHALL:
 - Remove it from the active queue
-- Record it in the completion log with timestamp <!-- we don't really need to log timestamps, just completion -->
+- Record it in the completion log
 - Advance the queue to show the next item
 
 **REQ-SEL-003**: Users SHALL be able to select items from multiple queues independently (selecting from one queue does not affect others).
@@ -82,11 +80,9 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 #### 3.1.4 Queue Refill and Cycling
 **REQ-REFILL-001**: When the last item in a queue is selected, the system SHALL automatically refill the queue with all items from the master list.
 
-**REQ-REFILL-002**: The system SHALL track the number of complete cycles through each queue. <!-- don't need this -->
+**REQ-REFILL-002**: The system SHALL notify users when a queue has been refilled and a new cycle has begun.
 
-**REQ-REFILL-003**: The system SHALL notify users when a queue has been refilled and a new cycle has begun.
-
-**REQ-REFILL-004**: Queue refill SHALL restore items in their original order or in a randomized order (configuration option). <!-- let's do randomized, no reason to maintain order -->
+**REQ-REFILL-003**: Queue refill SHALL restore items in randomized order.
 
 ### 3.2 Development Queue (Needs Rework)
 
@@ -105,7 +101,6 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 - Original queue (Arts, Knowledge, or Physical)
 - Reason for flagging
 - Date added to Development Queue
-- User who flagged it (if multi-user system) <!-- don't need this, treat everyone as one user -->
 
 **REQ-DEV-006**: Users SHALL be able to:
 - Edit items in the Development Queue
@@ -123,76 +118,41 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 - Topic/activity name (required)
 - Category or subcategory (optional)
 - Description or notes (optional)
-- Source of inspiration (optional - e.g., "Saw this in a video", "Child showed interest in X") <!-- don't need this -->
 
-**REQ-IDEA-003**: The system SHALL timestamp all new idea submissions. <!-- no -->
-
-**REQ-IDEA-004**: The system SHALL allow quick idea capture with minimal required fields (just topic name and queue selection).
+**REQ-IDEA-003**: The system SHALL allow quick idea capture with minimal required fields (just topic name and queue selection).
 
 #### 3.3.2 Ideas Queue Management
-**REQ-IDEA-005**: The system SHALL maintain three separate Ideas Queues (one per main queue). <!-- let's just dump new ideas directly into the appropriate queue, at the beginnging (next up) by default. don't need separate queues at all then, just and ideas "tab" -->
+**REQ-IDEA-004**: When an idea is submitted, the system SHALL:
+- Add it directly to the master list for the specified queue
+- Add it to the beginning (next up position) of the active queue by default
 
-**REQ-IDEA-006**: Each Ideas Queue SHALL display all pending ideas with their submission details.
-
-**REQ-IDEA-007**: Users SHALL be able to:
-- Review all ideas in each Ideas Queue
-- Approve an idea (moves it to the master list for that queue)
-- Edit an idea before approval
-- Reject/delete an idea
-- Merge similar ideas
-- Reorder ideas by priority or date
-
-**REQ-IDEA-008**: When an idea is approved, the system SHALL: <!-- remove this whole approve idea  -->
-- Add it to the master list for that queue
-- Add it to the active queue at the appropriate position (end of current cycle or beginning of next cycle - configurable)
-- Remove it from the Ideas Queue
-
-**REQ-IDEA-009**: The system SHALL indicate the count of pending ideas for each queue.
+**REQ-IDEA-005**: Users SHALL be able to view recently added ideas within the system (via an ideas tab or similar interface).
 
 ### 3.4 Completion Logging
 
 #### 3.4.1 Completion Records
-**REQ-LOG-001**: The system SHALL maintain a permanent log of all completed items. <!-- what does permanent mean here? -->
+**REQ-LOG-001**: The system SHALL maintain a log of all completed items (persisted unless manually removed).
 
 **REQ-LOG-002**: Each completion record SHALL include:
 - Topic/activity name
 - Queue type (Arts, Knowledge, or Physical)
-- Date and time of selection
-- User who selected it (if multi-user tracking enabled)
-- Cycle number (which iteration through the queue)
+- Date of selection
 
 **REQ-LOG-003**: Completion records SHALL NOT be automatically deleted.
 
-**REQ-LOG-004**: Users SHALL be able to manually remove completion records if needed (e.g., accidental selection). <!-- let's just add the ability to return items from completed "pile" without having to reset the whole queue, seems easier. -->
-
-#### 3.4.2 History and Analytics
-**REQ-LOG-005**: The system SHALL provide views of completion history: <!-- nah, don't need this. keep it lightweight -->
-- All completions chronologically
-- Completions by queue
-- Completions by date range
-- Completions by cycle
-
-**REQ-LOG-006**: The system SHALL display statistics including: <!-- no -->
-- Total items completed per queue
-- Total items completed overall
-- Current cycle number for each queue
-- Items remaining in each queue
-- Average items completed per week
-- Most recently completed items
-
-**REQ-LOG-007**: The system SHALL support searching and filtering completion history. <!-- no -->
+**REQ-LOG-004**: Users SHALL be able to return individual items from the completed pile back to their active queue without resetting the entire queue.
 
 ### 3.5 Master Lists Management
 
 #### 3.5.1 Master List Storage
-**REQ-MASTER-001**: The system SHALL maintain master lists for each queue containing all approved topics. <!-- just assume all topics are approved -->
+**REQ-MASTER-001**: The system SHALL maintain master lists for each queue containing all topics.
 
 **REQ-MASTER-002**: Master lists SHALL persist independently of active queues.
 
 **REQ-MASTER-003**: Master lists SHALL be used to refill active queues when cycles complete.
 
 #### 3.5.2 Master List Editing
-**REQ-MASTER-004**: Users SHALL be able to view and edit master lists. <!-- I'm not sure we even need this master list concept, talk through it with me. -->
+**REQ-MASTER-004**: Users SHALL be able to view and edit master lists.
 
 **REQ-MASTER-005**: Users SHALL be able to:
 - Add new topics to master lists
@@ -222,8 +182,8 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 
 **REQ-RESET-004**: The system SHALL log manual resets with timestamp and user.
 
-#### 3.6.2 Queue Reordering
-**REQ-REORDER-001**: Users SHALL be able to manually reorder items in active queues. <!-- okay, but lower priority -->
+#### 3.6.2 Queue Reordering (Lower Priority)
+**REQ-REORDER-001**: Users SHALL be able to manually reorder items in active queues.
 
 **REQ-REORDER-002**: Users SHALL be able to move specific items to the front or back of a queue.
 
@@ -274,15 +234,13 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 
 **REQ-NFR-016**: The system SHALL perform adequately with up to 1000 completion log entries.
 
-**REQ-NFR-017**: The system SHALL support at least 5 concurrent users without performance degradation. <!-- we don't *really* need separate users, it's just for my child. my wife and I will both use it but we don't need separate identities within the system -->
+**REQ-NFR-017**: The system SHALL support at least 2-3 concurrent users without performance degradation (note: separate user identities are not required).
 
 ### 4.4 Accessibility
 
 **REQ-NFR-018**: The system SHALL be usable by caregivers with varying levels of technical expertise.
 
 **REQ-NFR-019**: The system SHALL support multiple languages (optional, nice-to-have).
-
-**REQ-NFR-020**: The system SHALL be accessible via assistive technologies where feasible. <!-- we don't need this -->
 
 ### 4.5 Cost
 
@@ -302,27 +260,22 @@ Attributes:
 - Name/title (required)
 - Description (optional)
 - Category classification (optional)
-- Source category (from original import) <!-- don't need this really -->
 - Queue assignment (Arts, Knowledge, or Physical)
 - Date added
-- Status (Active, Development, Ideas, Deleted)
+- Status (Active, Development, Deleted)
 
 #### 5.1.2 Queue State
 Attributes:
 - Queue type (Arts, Knowledge, Physical)
 - Current order of items
 - Current position (which item is at the top)
-- Cycle number
-- Last modified timestamp <!-- don't need it -->
 
 #### 5.1.3 Completion Record
 Attributes:
 - Unique identifier
 - Topic reference
 - Queue type
-- Completion timestamp
-- User identifier (optional)
-- Cycle number
+- Completion date
 - Notes (optional)
 
 #### 5.1.4 Development Queue Entry
@@ -332,28 +285,7 @@ Attributes:
 - Original queue
 - Reason/issue description
 - Date flagged
-- User who flagged
 - Status (Pending Review, In Progress, Resolved)
-
-#### 5.1.5 Idea Entry
-Attributes:
-- Unique identifier
-- Proposed topic name
-- Target queue
-- Description/notes
-- Source/inspiration
-- Submission date
-- Submitted by (user)
-- Status (Pending, Approved, Rejected)
-- Priority (optional)
-
-#### 5.1.6 User (if multi-user tracking enabled) <!-- no -->
-Attributes:
-- Unique identifier
-- Name/display name
-- Email (optional)
-- Role (Primary, Secondary, Admin)
-- Last active timestamp
 
 ### 5.2 Data Relationships
 
@@ -366,8 +298,6 @@ Attributes:
 **REQ-DATA-004**: Each queue state SHALL reference an ordered list of topics.
 
 **REQ-DATA-005**: Development Queue entries SHALL reference topics that may or may not exist in active queues.
-
-**REQ-DATA-006**: Idea entries SHALL be independent until approved and converted to topics.
 
 ### 5.3 Data Integrity
 
@@ -402,38 +332,24 @@ Attributes:
 - Queue name/icon
 - Current topic
 - Position indicator
-- Preview of next topic
 - Action buttons (Select, Skip, Needs Work)
 
 **REQ-UI-004**: Action buttons SHALL be clearly labeled and distinctly colored.
 
 **REQ-UI-005**: The view SHALL display last update timestamp.
 
-**REQ-UI-006**: The view SHALL provide quick access to Ideas Queue and Statistics.
+**REQ-UI-006**: The view SHALL provide quick access to Ideas submission interface.
 
-#### 6.1.2 Individual Queue View <!-- do we need this? why? -->
-**REQ-UI-007**: Users SHALL be able to view the full list of items in each active queue.
+#### 6.1.2 Individual Queue View (Optional - for review/reordering)
+**REQ-UI-007**: Users MAY be able to view the full list of items in each active queue.
 
 **REQ-UI-008**: The queue view SHALL display items in order with position numbers.
 
 **REQ-UI-009**: The queue view SHALL allow reordering items (drag-and-drop or up/down buttons).
 
-**REQ-UI-010**: The queue view SHALL show queue statistics (total items, cycle number, progress).
+**REQ-UI-010**: The queue view SHALL show queue statistics (total items, progress).
 
-#### 6.1.3 Completion History View <!-- drop -->
-**REQ-UI-011**: The Completion History view SHALL display all completed items in reverse chronological order by default.
-
-**REQ-UI-012**: The view SHALL support filtering by:
-- Queue type
-- Date range
-- Cycle number
-- User (if applicable)
-
-**REQ-UI-013**: The view SHALL support searching by topic name or keyword.
-
-**REQ-UI-014**: The view SHALL display summary statistics at the top.
-
-#### 6.1.4 Development Queue View
+#### 6.1.3 Development Queue View
 **REQ-UI-015**: The Development Queue view SHALL display all flagged items grouped or filterable by original queue.
 
 **REQ-UI-016**: For each item, the view SHALL show:
@@ -447,30 +363,25 @@ Attributes:
 
 **REQ-UI-018**: The view SHALL indicate the count of pending development items.
 
-#### 6.1.5 Ideas Queue View <!-- just need new idea submission "tab" or whatever, keep it lightweight -->
-**REQ-UI-019**: The Ideas Queue view SHALL display pending ideas for all three queues.
+#### 6.1.4 Ideas Submission Interface
+**REQ-UI-019**: The system SHALL provide a simple interface for submitting new ideas.
 
-**REQ-UI-020**: The view SHALL allow filtering/grouping by target queue.
+**REQ-UI-020**: The interface SHALL allow specifying:
+- Target queue (Arts, Knowledge, or Physical)
+- Topic name
+- Optional description
 
-**REQ-UI-021**: For each idea, the view SHALL show:
-- Proposed topic
-- Target queue
-- Description
-- Submission date
-- Submitter
+**REQ-UI-021**: The interface SHALL support quick-add functionality with minimal required fields.
 
-**REQ-UI-022**: The view SHALL provide actions: Approve, Edit, Reject/Delete.
-
-**REQ-UI-023**: The view SHALL provide quick-add functionality for new ideas.
-
-#### 6.1.6 Master Lists View
+#### 6.1.5 Master Lists View
 **REQ-UI-024**: The Master Lists view SHALL allow viewing and editing master lists for each queue.
 
 **REQ-UI-025**: The view SHALL support bulk operations (add multiple, delete selected, reorder).
 
 **REQ-UI-026**: The view SHALL show master list statistics (total items, last modified).
 
-### 6.2 User Actions and Interactions <!-- doesn't need to be fancy, functionality first (although if something is easy, do it) -->
+### 6.2 User Actions and Interactions
+Note: Focus on functionality first; visual polish is secondary (implement if easy).
 
 #### 6.2.1 Action Buttons
 **REQ-UI-027**: Action buttons SHALL provide clear visual feedback when pressed (state change, animation).
@@ -541,54 +452,31 @@ Attributes:
 
 ### 7.2 Adding New Topic Ideas
 
-**Actor**: Secondary Caregiver  
+**Actor**: Secondary Caregiver
 **Goal**: Capture inspiration for new learning topics while out
 
 **Main Success Scenario**:
 1. User observes child showing interest in construction vehicles at a park
 2. User opens system on mobile device
-3. User navigates to Ideas Queue
-4. User clicks "Add New Idea"
-5. User selects "Knowledge & Skills" as target queue
-6. User enters topic: "Construction vehicles and equipment"
-7. User optionally adds note: "Child fascinated by bulldozer at park"
-8. User submits idea
-9. System saves idea with timestamp and submitter
-10. System confirms submission and returns to Ideas Queue view
-11. User sees new idea in pending list
+3. User navigates to Ideas submission interface
+4. User selects "Knowledge & Skills" as target queue
+5. User enters topic: "Construction vehicles and equipment"
+6. User optionally adds note: "Child fascinated by bulldozer at park"
+7. User submits idea
+8. System adds topic directly to Knowledge & Skills master list
+9. System adds topic to beginning of Knowledge & Skills active queue (next up)
+10. System confirms submission
+11. User closes system
 
 **Alternate Scenarios**:
 - 4a. User uses quick-add widget/shortcut
   - 4a1. Widget shows minimal form (just topic name and queue dropdown)
   - 4a2. Faster capture for on-the-go ideas
 
-**Frequency**: Weekly  
+**Frequency**: Weekly
 **Priority**: High
 
-### 7.3 Reviewing and Approving Ideas <!-- drop this flow as discussed above -->
-
-**Actor**: Primary Caregiver (Administrator)  
-**Goal**: Review submitted ideas and add appropriate ones to master lists
-
-**Main Success Scenario**:
-1. User notices notification of pending ideas
-2. User navigates to Ideas Queue
-3. System displays 5 pending ideas across different queues
-4. User reviews first idea: "Shadow puppets" for Arts queue
-5. User clicks "Approve"
-6. System adds to Arts master list and active queue
-7. System removes from Ideas Queue
-8. User reviews second idea: "Dinosaur fossils" for Knowledge
-9. User edits to change to "Dinosaurs and fossils"
-10. User approves edited version
-11. User reviews third idea, decides it's a duplicate
-12. User deletes/rejects the idea
-13. System updates Ideas Queue count
-
-**Frequency**: Weekly or bi-weekly  
-**Priority**: Medium
-
-### 7.4 Managing Development Queue
+### 7.3 Managing Development Queue
 
 **Actor**: Primary Caregiver  
 **Goal**: Review and fix flagged topics that need rework
@@ -606,10 +494,10 @@ Attributes:
 10. User deletes item permanently
 11. User continues reviewing remaining items
 
-**Frequency**: Monthly  
+**Frequency**: Monthly
 **Priority**: Medium
 
-### 7.5 Reviewing Learning History
+### 7.4 Reviewing Learning History
 
 **Actor**: Primary Caregiver  
 **Goal**: Reflect on learning activities over the past month
@@ -627,10 +515,10 @@ Attributes:
 7. User notes patterns (certain categories more frequently selected)
 8. User uses insights to plan future topic additions
 
-**Frequency**: Monthly  
+**Frequency**: Monthly
 **Priority**: Low
 
-### 7.6 Cycle Completion
+### 7.5 Cycle Completion
 
 **Actor**: System (automated), User (notified)  
 **Goal**: Complete a queue cycle and start fresh
@@ -639,11 +527,10 @@ Attributes:
 1. User selects the last item in Arts queue (item 68 of 68)
 2. System marks item as completed
 3. System detects queue is now empty
-4. System automatically refills queue from Arts master list
-5. System increments Arts cycle counter from 1 to 2
-6. System displays notification: "Arts & Culture queue complete! Starting Cycle 2."
-7. System shows first topic from new cycle
-8. User acknowledges and continues
+4. System automatically refills queue from Arts master list (randomized order)
+5. System displays notification: "Arts & Culture queue complete! Starting new cycle."
+6. System shows first topic from new cycle
+7. User acknowledges and continues
 
 **Frequency**: Varies by queue (Arts: ~2-3 months, Knowledge: ~8 months, Physical: ~4 months)  
 **Priority**: High
@@ -657,10 +544,11 @@ Attributes:
 - Estimated storage: 100-500 KB for all data
 - Data should be easily exportable and importable
 
-### 8.2 Authentication and Authorization <!-- single user only -->
-- Single-user mode: No authentication required
-- Multi-user mode: Basic authentication to identify users for logging purposes
-- Shared access: All authenticated users have full access (no role-based restrictions in v1)
+### 8.2 Authentication and Authorization
+- System is designed for single household use
+- No authentication required (or minimal authentication if hosted publicly)
+- No separate user identities needed - all users have full access
+- Multiple people can use the system, but no need to track who made each action
 
 ### 8.3 Synchronization
 - Multi-device access requires synchronization mechanism
@@ -730,10 +618,10 @@ Attributes:
 The system SHALL be considered complete for v1 when:
 - ✅ All three queues are functional (Arts, Knowledge, Physical)
 - ✅ Users can select, skip, and flag topics
-- ✅ Completion log records all selections with timestamps
+- ✅ Completion log records all selections
 - ✅ Development queue stores flagged topics with reasons
-- ✅ Ideas queue allows submission and approval of new topics
-- ✅ Queues automatically refill when cycles complete
+- ✅ New ideas can be submitted and are added directly to queues
+- ✅ Queues automatically refill (randomized) when cycles complete
 - ✅ System is accessible via mobile device
 - ✅ Multiple users can access simultaneously without conflicts
 - ✅ Initial data (433 items) successfully imported
@@ -759,11 +647,9 @@ The system SHALL be considered successful when:
 
 **Development Queue**: A holding area for topics that need revision, editing, or removal. Topics here are not part of active queues.
 
-**Ideas Queue**: A collection of proposed new topics submitted by users but not yet approved for inclusion in master lists.
+**Master List**: The authoritative collection of all topics for each queue. Used to refill active queues when cycles complete.
 
-**Master List**: The authoritative collection of all approved topics for each queue. Used to refill active queues when cycles complete.
-
-**Queue**: An ordered list of topics or activities. The system has three main queues (Arts, Knowledge, Physical) plus auxiliary queues (Development, Ideas).
+**Queue**: An ordered list of topics or activities. The system has three main queues (Arts, Knowledge, Physical) plus the Development Queue.
 
 **Select**: Mark a topic as completed for the day. Removes it from the active queue and logs it in completion history.
 
@@ -778,6 +664,7 @@ The system SHALL be considered successful when:
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | 2024-11-26 | System Requirements Team | Initial requirements document |
+| 1.1 | 2024-11-28 | System Requirements Team | Updated based on inline comments: Simplified ideas workflow (direct to queues), removed cycle tracking, simplified logging (date only, no timestamps), removed user tracking, streamlined UI requirements, clarified single-user focus |
 
 ---
 
