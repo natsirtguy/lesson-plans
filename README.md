@@ -4,7 +4,9 @@ A simple, mobile-first Progressive Web App (PWA) for managing daily learning top
 
 ## 📱 Live Demo
 
-**Test it now:** Open `docs/index.html` in your browser or visit the deployed version.
+**🌐 https://natsirtguy.github.io/lesson-plans/**
+
+Or test locally: `cd docs && python3 -m http.server 8000`
 
 ## ✨ Features
 
