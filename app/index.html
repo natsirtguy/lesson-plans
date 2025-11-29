@@ -130,21 +130,19 @@
                         <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('arts').name"></p>
                         <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('arts').category"></p>
 
-                        <div class="flex flex-col space-y-2">
+                        <div class="grid grid-cols-3 gap-2">
                             <button @click="selectTopic('arts')"
-                                    class="w-full py-4 px-6 bg-pink-500 text-white rounded-lg hover:bg-pink-600 active:bg-pink-700 btn-touch text-lg font-medium">
-                                ✓ Select This
+                                    class="py-3 px-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 active:bg-pink-700 btn-touch text-sm font-medium">
+                                ✓ Select
                             </button>
-                            <div class="grid grid-cols-2 gap-2">
-                                <button @click="skipTopic('arts')"
-                                        class="py-3 px-4 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch">
-                                    ⏭️ Skip
-                                </button>
-                                <button @click="flagForDevelopment('arts')"
-                                        class="py-3 px-4 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch">
-                                    🔧 Needs Work
-                                </button>
-                            </div>
+                            <button @click="skipTopic('arts')"
+                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                ⏭️ Skip
+                            </button>
+                            <button @click="flagForDevelopment('arts')"
+                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                🔧 Work
+                            </button>
                         </div>
                     </div>
                 </template>
@@ -166,21 +164,19 @@
                         <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('knowledge').name"></p>
                         <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('knowledge').category"></p>
 
-                        <div class="flex flex-col space-y-2">
+                        <div class="grid grid-cols-3 gap-2">
                             <button @click="selectTopic('knowledge')"
-                                    class="w-full py-4 px-6 bg-blue-500 text-white rounded-lg hover:bg-blue-600 active:bg-blue-700 btn-touch text-lg font-medium">
-                                ✓ Select This
+                                    class="py-3 px-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 active:bg-blue-700 btn-touch text-sm font-medium">
+                                ✓ Select
                             </button>
-                            <div class="grid grid-cols-2 gap-2">
-                                <button @click="skipTopic('knowledge')"
-                                        class="py-3 px-4 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch">
-                                    ⏭️ Skip
-                                </button>
-                                <button @click="flagForDevelopment('knowledge')"
-                                        class="py-3 px-4 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch">
-                                    🔧 Needs Work
-                                </button>
-                            </div>
+                            <button @click="skipTopic('knowledge')"
+                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                ⏭️ Skip
+                            </button>
+                            <button @click="flagForDevelopment('knowledge')"
+                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                🔧 Work
+                            </button>
                         </div>
                     </div>
                 </template>
@@ -202,21 +198,19 @@
                         <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('physical').name"></p>
                         <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('physical').category"></p>
 
-                        <div class="flex flex-col space-y-2">
+                        <div class="grid grid-cols-3 gap-2">
                             <button @click="selectTopic('physical')"
-                                    class="w-full py-4 px-6 bg-green-500 text-white rounded-lg hover:bg-green-600 active:bg-green-700 btn-touch text-lg font-medium">
-                                ✓ Select This
+                                    class="py-3 px-2 bg-green-500 text-white rounded-lg hover:bg-green-600 active:bg-green-700 btn-touch text-sm font-medium">
+                                ✓ Select
                             </button>
-                            <div class="grid grid-cols-2 gap-2">
-                                <button @click="skipTopic('physical')"
-                                        class="py-3 px-4 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch">
-                                    ⏭️ Skip
-                                </button>
-                                <button @click="flagForDevelopment('physical')"
-                                        class="py-3 px-4 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch">
-                                    🔧 Needs Work
-                                </button>
-                            </div>
+                            <button @click="skipTopic('physical')"
+                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                ⏭️ Skip
+                            </button>
+                            <button @click="flagForDevelopment('physical')"
+                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                🔧 Work
+                            </button>
                         </div>
                     </div>
                 </template>
