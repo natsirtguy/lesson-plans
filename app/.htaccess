@@ -1,0 +1,26 @@
+# Apache configuration for PWA
+# Enables proper MIME types and caching
+
+# Service Worker
+<FilesMatch "sw\.js$">
+  Header set Service-Worker-Allowed "/"
+  Header set Cache-Control "no-cache"
+</FilesMatch>
+
+# Manifest
+<FilesMatch "manifest\.json$">
+  Header set Content-Type "application/manifest+json"
+</FilesMatch>
+
+# Enable compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Cache static assets
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType application/json "access plus 0 seconds"
+  ExpiresByType image/svg+xml "access plus 1 month"
+</IfModule>
