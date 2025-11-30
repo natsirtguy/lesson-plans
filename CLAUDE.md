@@ -50,6 +50,52 @@ Topics preserve their original source categories as metadata:
 - Activities: Cross-Domain Foundational, Visual/Performing/Literary Arts, Crafts, Digital Creation, Culinary Arts, Interpersonal/Group/Cultural Practices, Community Service, Communication, Teaching, Formal Learning, Games/Puzzles, Exploration, Cognitive Challenges, Research, Collecting, Household/Economic/Work/Maintenance/Planning/Safety/Transportation activities
 - Physical: Individual/Team Sports, Individual Physical, Outdoor Adventure, Aquatic/Winter/Combat Sports, Mind-Body Activities, Performance Arts, Motor Skills
 
+## Lesson Plan Backfill
+
+### Current Status
+- **Total topics**: 433
+- **Lesson plans completed**: ~8 (as of Nov 2025)
+- **Remaining**: ~425 lesson plans to generate
+
+### Custom Subagents for Generation
+Three specialized Claude Code subagents have been created for efficient lesson plan generation:
+
+1. **knowledge-lesson-generator** (`.claude/agents/knowledge-lesson-generator.md`)
+   - Generates Knowledge & Skills lesson plans
+   - Output: `docs/lessons/knowledge/[topic-name].md`
+   - Includes: vocabulary focus, learning song, hands-on activities, age adaptations
+
+2. **arts-culture-lesson-generator** (`.claude/agents/arts-culture-lesson-generator.md`)
+   - Generates Arts & Culture lesson plans
+   - Output: `docs/lessons/arts/[activity-name].md`
+   - Includes: materials, step-by-step setup, session structure, cultural context
+
+3. **physical-lesson-generator** (`.claude/agents/physical-lesson-generator.md`)
+   - Generates Physical Activities lesson plans
+   - Output: `docs/lessons/physical/[activity-name].md`
+   - Includes: equipment, space setup, warm-up/cool-down, safety considerations
+
+### Usage Approach
+**Model**: All subagents configured to use Haiku for cost-efficiency
+**Token usage**: ~3,500-4,000 tokens per lesson plan (tested)
+**Total estimated cost**: ~1.5M tokens for 425 lessons (within Claude Pro limits)
+
+**Bulk generation process**:
+1. Use Task tool with appropriate subagent type
+2. Pass topic/activity name in prompt
+3. Subagent generates comprehensive lesson plan following template
+4. Review output quality periodically
+
+**Note on Write operations**: Subagents may require approval for Write tool use depending on Claude Code settings. If auto-approval is not enabled, lesson plan content will need to be extracted from subagent output and saved manually.
+
+### Lesson Plan Structure
+All lesson plans follow age-appropriate educational design (ages 2-4+):
+- Activity summaries with duration and materials
+- Age-specific adaptations (2-3 years vs 3-4+ years)
+- Common challenges with developmental explanations and solutions
+- Safety considerations and parent/caregiver guidance
+- Extension ideas for repeat engagement
+
 ## Implementation Considerations
 
 ### Technology Stack (To Be Determined)
