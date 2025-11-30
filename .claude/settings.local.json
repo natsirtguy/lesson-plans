@@ -6,11 +6,11 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(python3:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "mcp__serena__check_onboarding_performed",
+      "mcp__serena__onboarding",
+      "mcp__serena__list_dir",
+      "mcp__serena__write_memory"
     ]
-  },
-  "enabledMcpjsonServers": [
-    "serena",
-    "context7"
-  ]
+  }
 }

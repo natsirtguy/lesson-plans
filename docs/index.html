@@ -204,12 +204,26 @@
                 <!-- Lesson Content -->
                 <div x-show="!lessonLoading && !lessonError" class="lesson-content" x-html="lessonContent"></div>
 
-                <!-- Bottom Back Button -->
-                <button @click="closeLessonPlan()"
-                        x-show="!lessonLoading"
-                        class="mt-6 w-full px-4 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 active:bg-indigo-800 btn-touch font-medium">
-                    ← Back to Queues
-                </button>
+                <!-- Action Buttons -->
+                <div x-show="!lessonLoading" class="mt-6 space-y-3">
+                    <!-- Mark Complete Button -->
+                    <button @click="markTopicComplete()"
+                            class="w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 active:bg-green-800 btn-touch font-medium">
+                        ✓ Mark Complete & Return
+                    </button>
+
+                    <!-- Skip to End Button -->
+                    <button @click="skipTopicFromLesson()"
+                            class="w-full px-4 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 active:bg-yellow-700 btn-touch font-medium">
+                        ⏭️ Skip to End of Queue
+                    </button>
+
+                    <!-- Back Button (no queue modification) -->
+                    <button @click="closeLessonPlan()"
+                            class="w-full px-4 py-3 bg-gray-500 text-white rounded-lg hover:bg-gray-600 active:bg-gray-700 btn-touch font-medium">
+                        ← Back to Queues (Don't Change Queue)
+                    </button>
+                </div>
             </div>
         </div>
 
@@ -401,8 +415,14 @@
                     // Store topic info for lesson plan view
                     this.currentLessonTopic = { topic, queueName };
 
-                    // Show lesson plan
+                    // Show lesson plan WITHOUT modifying queue
                     await this.showLessonPlan(topic.name, queueName);
+                },
+
+                markTopicComplete() {
+                    if (!this.currentLessonTopic) return;
+
+                    const { topic, queueName } = this.currentLessonTopic;
 
                     // Add to completed log
                     this.data.completed.push({
@@ -423,8 +443,28 @@
                     this.saveData();
                     this.updateCompletedToday();
 
+                    // Close lesson and return to queue
+                    this.closeLessonPlan();
+
                     // Show feedback
-                    this.showNotification(`✓ Selected: ${topic.name}`, 'success');
+                    this.showNotification(`✓ Marked complete: ${topic.name}`, 'success');
+                },
+
+                skipTopicFromLesson() {
+                    if (!this.currentLessonTopic) return;
+
+                    const { queueName } = this.currentLessonTopic;
+
+                    // Move first item to end
+                    const topicId = this.data.queues[queueName].shift();
+                    this.data.queues[queueName].push(topicId);
+
+                    this.saveData();
+
+                    // Close lesson and return to queue
+                    this.closeLessonPlan();
+
+                    this.showNotification('⏭️ Topic skipped to end of queue', 'info');
                 },
 
                 async showLessonPlan(topicName, queueName) {
