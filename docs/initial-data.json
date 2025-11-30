@@ -2,3048 +2,2615 @@
   "masterLists": {
     "arts": [
       {
-        "id": 164,
-        "name": "3D construction and building",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 294,
-        "name": "Restoration and refinishing projects",
-        "category": "Practical and Productive - Maintenance and Repair",
-        "sourceCategory": "Practical and Productive - Maintenance and Repair"
-      },
-      {
-        "id": 215,
-        "name": "Sign language and gesture games",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 309,
-        "name": "Water safety instruction",
-        "category": "Practical and Productive - Safety and Security",
-        "sourceCategory": "Practical and Productive - Safety and Security"
-      },
-      {
-        "id": 295,
-        "name": "Troubleshooting and problem-solving",
-        "category": "Practical and Productive - Maintenance and Repair",
-        "sourceCategory": "Practical and Productive - Maintenance and Repair"
-      },
-      {
-        "id": 268,
-        "name": "Object collecting and organizing",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 187,
-        "name": "Mentoring younger children",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
-      },
-      {
-        "id": 223,
-        "name": "Knowledge sharing games",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 262,
-        "name": "Fact-checking and verification activities",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 135,
-        "name": "Painting with various materials",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 264,
-        "name": "Interview and field research simulation",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 181,
-        "name": "Cultural cuisine exploration",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 238,
-        "name": "Word games and language puzzles",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 202,
-        "name": "Language and cultural exchange",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 274,
-        "name": "Historical preservation games",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 233,
-        "name": "Board games and strategy play",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 178,
-        "name": "Food styling and presentation",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 137,
-        "name": "Photography and picture-taking",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 155,
-        "name": "Script creation for plays",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 199,
-        "name": "Traditional games and activities",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 129,
-        "name": "Teaching and demonstration (physical skills, creative techniques, social behaviors, learning concepts)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 176,
-        "name": "Cooking and recipe following",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 127,
-        "name": "Organization and categorization (physical spaces, creative materials, social groups, learning information)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 141,
-        "name": "Art installation and display",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 191,
-        "name": "Party planning and hosting",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 171,
-        "name": "Basic web design concepts",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 231,
-        "name": "Research project games",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 140,
-        "name": "Simple jewelry making",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 283,
-        "name": "Business creation and entrepreneurship play",
-        "category": "Practical and Productive - Economic Activities",
-        "sourceCategory": "Practical and Productive - Economic Activities"
-      },
-      {
-        "id": 159,
-        "name": "Letter writing and calligraphy",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 179,
-        "name": "Taste testing and flavor exploration",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 306,
-        "name": "First aid and medical response play",
-        "category": "Practical and Productive - Safety and Security",
-        "sourceCategory": "Practical and Productive - Safety and Security"
-      },
-      {
-        "id": 172,
-        "name": "Game creation and rule-making",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 146,
-        "name": "Choreography and dance creation",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 203,
-        "name": "Heritage exploration activities",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 303,
-        "name": "Strategic planning and goal setting",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
-      },
-      {
-        "id": 265,
-        "name": "Library and book exploration",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 259,
-        "name": "Logic and reasoning puzzles",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 134,
-        "name": "Drawing, sketching, and scribbling",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 182,
-        "name": "Food preservation games",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 212,
-        "name": "Letter writing and correspondence",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 275,
-        "name": "Photography collection and albums",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 289,
-        "name": "Project management games",
-        "category": "Practical and Productive - Work and Career",
-        "sourceCategory": "Practical and Productive - Work and Career"
-      },
-      {
-        "id": 209,
-        "name": "Animal care and rescue games",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 234,
-        "name": "Card games and simple gambling games",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 247,
-        "name": "Sensory exploration activities",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 273,
-        "name": "Art appreciation and curation",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 253,
-        "name": "Attention and focus activities",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 124,
-        "name": "Pattern recognition and creation (physical rhythms, creative designs, social sequences, learning systems)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 151,
-        "name": "Creative storytelling and narrative",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 144,
-        "name": "Song creation and composition",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
+        "id": 119,
+        "name": "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)",
+        "category": "Cross-Domain Foundational Activities"
       },
       {
         "id": 120,
         "name": "Exploration and investigation (physical world discovery, creative materials, social interactions, learning environments)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 192,
-        "name": "Group celebrations and ceremonies",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 219,
-        "name": "Instructional games and teaching play",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 285,
-        "name": "Investment and savings games",
-        "category": "Practical and Productive - Economic Activities",
-        "sourceCategory": "Practical and Productive - Economic Activities"
-      },
-      {
-        "id": 210,
-        "name": "Community garden and clean-up activities",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 207,
-        "name": "Disaster relief for toys/dolls",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 125,
-        "name": "Construction and deconstruction (physical building, creative making, social structures, learning concepts)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 250,
-        "name": "Space and astronomy exploration",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 272,
-        "name": "Book and media collection",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 142,
-        "name": "Singing and vocal play",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 236,
-        "name": "Puzzle solving activities",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 278,
-        "name": "Laundry and clothing care practice",
-        "category": "Practical and Productive - Household Management",
-        "sourceCategory": "Practical and Productive - Household Management"
-      },
-      {
-        "id": 243,
-        "name": "Science experiments and discovery",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 156,
-        "name": "Public speaking and presentation",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 232,
-        "name": "Study and homework play",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 229,
-        "name": "Skill practice and training",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 169,
-        "name": "Simple video creation and recording",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 277,
-        "name": "Home decoration and design",
-        "category": "Practical and Productive - Household Management",
-        "sourceCategory": "Practical and Productive - Household Management"
-      },
-      {
-        "id": 269,
-        "name": "Collection display and presentation",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 218,
-        "name": "Broadcasting and announcement games",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 162,
-        "name": "Paper crafts and origami",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 170,
-        "name": "Animation with toys and objects",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 167,
-        "name": "Furniture design with blocks",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 150,
-        "name": "Circus movements and performance",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 235,
-        "name": "Video games and digital play",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 311,
-        "name": "Vehicle operation simulation",
-        "category": "Practical and Productive - Transportation and Logistics",
-        "sourceCategory": "Practical and Productive - Transportation and Logistics"
-      },
-      {
-        "id": 174,
-        "name": "Photo editing and manipulation",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 286,
-        "name": "Job role-play and career exploration",
-        "category": "Practical and Productive - Work and Career",
-        "sourceCategory": "Practical and Productive - Work and Career"
-      },
-      {
-        "id": 190,
-        "name": "Family gathering simulation",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 313,
-        "name": "Package delivery and shipping play",
-        "category": "Practical and Productive - Transportation and Logistics",
-        "sourceCategory": "Practical and Productive - Transportation and Logistics"
-      },
-      {
-        "id": 241,
-        "name": "Escape room and mystery solving",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 193,
-        "name": "Club and organization activities",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 211,
-        "name": "Public speaking and presentations",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 284,
-        "name": "Market and sales activities",
-        "category": "Practical and Productive - Economic Activities",
-        "sourceCategory": "Practical and Productive - Economic Activities"
-      },
-      {
-        "id": 195,
-        "name": "Team activities and sports",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 248,
-        "name": "Historical investigation games",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 263,
-        "name": "Survey and data collection play",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 239,
-        "name": "Math games and number play",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 270,
-        "name": "Museum and gallery creation",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 249,
-        "name": "Geography and mapping activities",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 282,
-        "name": "Money counting and budgeting games",
-        "category": "Practical and Productive - Economic Activities",
-        "sourceCategory": "Practical and Productive - Economic Activities"
-      },
-      {
-        "id": 292,
-        "name": "Fix-it activities and repair play",
-        "category": "Practical and Productive - Maintenance and Repair",
-        "sourceCategory": "Practical and Productive - Maintenance and Repair"
-      },
-      {
-        "id": 161,
-        "name": "Sewing and fabric work (simple)",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 177,
-        "name": "Baking and measuring activities",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 279,
-        "name": "Home maintenance simulation",
-        "category": "Practical and Productive - Household Management",
-        "sourceCategory": "Practical and Productive - Household Management"
-      },
-      {
-        "id": 260,
-        "name": "Spatial reasoning activities",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 198,
-        "name": "Cultural craft and art activities",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 130,
-        "name": "Collection and curation (physical objects, creative works, social memories, learning resources)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 133,
-        "name": "Adaptation and modification (physical adjustments, creative improvisation, social flexibility, learning strategies)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 165,
-        "name": "Model building and miniatures",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 123,
-        "name": "Problem-solving and experimentation (physical challenges, creative projects, social conflicts, learning puzzles)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 226,
-        "name": "Academic subject exploration",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 119,
-        "name": "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 196,
-        "name": "Hobby group participation",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 242,
-        "name": "Role-playing games and storytelling",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 221,
-        "name": "Tutoring and coaching activities",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 166,
-        "name": "Woodworking (child-safe)",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 131,
-        "name": "Rhythm and timing (physical coordination, creative music, social synchronization, learning sequences)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 186,
-        "name": "Emotional support and comfort giving",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
-      },
-      {
-        "id": 300,
-        "name": "Travel planning and booking simulation",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
-      },
-      {
-        "id": 180,
-        "name": "Food photography and documentation",
-        "category": "Creative and Expressive - Culinary Arts",
-        "sourceCategory": "Creative and Expressive - Culinary Arts"
-      },
-      {
-        "id": 149,
-        "name": "Simple comedy and jokes",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 208,
-        "name": "Teaching and tutoring play",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 230,
-        "name": "Test and quiz activities",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 163,
-        "name": "Electronics and simple circuits",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 194,
-        "name": "Group meetings and discussions",
-        "category": "Social and Cultural - Group Activities",
-        "sourceCategory": "Social and Cultural - Group Activities"
-      },
-      {
-        "id": 168,
-        "name": "Digital art and drawing",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 307,
-        "name": "Safety rule learning and practice",
-        "category": "Practical and Productive - Safety and Security",
-        "sourceCategory": "Practical and Productive - Safety and Security"
-      },
-      {
-        "id": 126,
-        "name": "Caregiving and nurturing (physical care, creative projects, social relationships, learning mentorship)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 175,
-        "name": "Social media creation (pretend)",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 254,
-        "name": "Critical thinking puzzles",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 201,
-        "name": "Cultural dance and music",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 214,
-        "name": "Foreign language conversation",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 257,
-        "name": "Speed activities and quick thinking",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 256,
-        "name": "Decision-making games",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 261,
-        "name": "Information gathering games",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 266,
-        "name": "Documentary creation activities",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 213,
-        "name": "Digital communication practice",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 200,
-        "name": "Storytelling and oral traditions",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 267,
-        "name": "Family history and genealogy exploration",
-        "category": "Learning and Growth - Research and Study",
-        "sourceCategory": "Learning and Growth - Research and Study"
-      },
-      {
-        "id": 314,
-        "name": "Moving and relocation activities",
-        "category": "Practical and Productive - Transportation and Logistics",
-        "sourceCategory": "Practical and Productive - Transportation and Logistics"
-      },
-      {
-        "id": 290,
-        "name": "Leadership and team activities",
-        "category": "Practical and Productive - Work and Career",
-        "sourceCategory": "Practical and Productive - Work and Career"
-      },
-      {
-        "id": 237,
-        "name": "Logic games and brain teasers",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 246,
-        "name": "Technology experimentation",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 271,
-        "name": "Digital organization activities",
-        "category": "Learning and Growth - Collecting and Curating",
-        "sourceCategory": "Learning and Growth - Collecting and Curating"
-      },
-      {
-        "id": 276,
-        "name": "Cleaning and organizing games",
-        "category": "Practical and Productive - Household Management",
-        "sourceCategory": "Practical and Productive - Household Management"
-      },
-      {
-        "id": 197,
-        "name": "Holiday celebrations and traditions",
-        "category": "Social and Cultural - Cultural Practices",
-        "sourceCategory": "Social and Cultural - Cultural Practices"
-      },
-      {
-        "id": 310,
-        "name": "Personal protection and safety games",
-        "category": "Practical and Productive - Safety and Security",
-        "sourceCategory": "Practical and Productive - Safety and Security"
-      },
-      {
-        "id": 245,
-        "name": "Cultural exploration through play",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 136,
-        "name": "Sculpture and 3D art with clay/playdough",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 220,
-        "name": "Workshop facilitation with toys",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 244,
-        "name": "Nature study and observation",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
-      },
-      {
-        "id": 299,
-        "name": "Event planning and coordination",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
-      },
-      {
-        "id": 157,
-        "name": "Debate and discussion games",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 224,
-        "name": "Training simulation activities",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 148,
-        "name": "Puppet shows and storytelling",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 288,
-        "name": "Office and workplace simulation",
-        "category": "Practical and Productive - Work and Career",
-        "sourceCategory": "Practical and Productive - Work and Career"
-      },
-      {
-        "id": 143,
-        "name": "Musical instrument exploration",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 228,
-        "name": "Workshop and lesson participation",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 147,
-        "name": "Acting and character play",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
+        "category": "Cross-Domain Foundational Activities"
       },
       {
         "id": 121,
         "name": "Repetition and practice (physical skills, creative techniques, social routines, learning exercises)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 222,
-        "name": "Skill demonstration and modeling",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 315,
-        "name": "Route planning and navigation",
-        "category": "Practical and Productive - Transportation and Logistics",
-        "sourceCategory": "Practical and Productive - Transportation and Logistics"
-      },
-      {
-        "id": 185,
-        "name": "Conflict resolution role-play",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
-      },
-      {
-        "id": 304,
-        "name": "Real estate and house buying play",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
-      },
-      {
-        "id": 173,
-        "name": "Digital music and sound creation",
-        "category": "Creative and Expressive - Digital Creation",
-        "sourceCategory": "Creative and Expressive - Digital Creation"
-      },
-      {
-        "id": 287,
-        "name": "Interview practice and preparation",
-        "category": "Practical and Productive - Work and Career",
-        "sourceCategory": "Practical and Productive - Work and Career"
-      },
-      {
-        "id": 240,
-        "name": "Trivia and knowledge games",
-        "category": "Learning and Growth - Games and Puzzles",
-        "sourceCategory": "Learning and Growth - Games and Puzzles"
-      },
-      {
-        "id": 183,
-        "name": "Conversation and dialogue practice",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
-      },
-      {
-        "id": 291,
-        "name": "Customer service role-play",
-        "category": "Practical and Productive - Work and Career",
-        "sourceCategory": "Practical and Productive - Work and Career"
-      },
-      {
-        "id": 153,
-        "name": "Poetry and rhyming games",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 296,
-        "name": "Equipment care and maintenance",
-        "category": "Practical and Productive - Maintenance and Repair",
-        "sourceCategory": "Practical and Productive - Maintenance and Repair"
-      },
-      {
-        "id": 128,
-        "name": "Role-playing and simulation (physical activities, creative performance, social situations, learning scenarios)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 305,
-        "name": "Emergency preparedness activities",
-        "category": "Practical and Productive - Safety and Security",
-        "sourceCategory": "Practical and Productive - Safety and Security"
-      },
-      {
-        "id": 252,
-        "name": "Memory games and exercises",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 255,
-        "name": "Creative problem-solving challenges",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
-      },
-      {
-        "id": 281,
-        "name": "Shopping and store play",
-        "category": "Practical and Productive - Economic Activities",
-        "sourceCategory": "Practical and Productive - Economic Activities"
-      },
-      {
-        "id": 204,
-        "name": "Helping others and volunteer play",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 297,
-        "name": "Building and infrastructure repair play",
-        "category": "Practical and Productive - Maintenance and Repair",
-        "sourceCategory": "Practical and Productive - Maintenance and Repair"
-      },
-      {
-        "id": 312,
-        "name": "Transportation planning games",
-        "category": "Practical and Productive - Transportation and Logistics",
-        "sourceCategory": "Practical and Productive - Transportation and Logistics"
-      },
-      {
-        "id": 225,
-        "name": "Peer teaching and collaboration",
-        "category": "Social and Cultural - Teaching and Mentoring",
-        "sourceCategory": "Social and Cultural - Teaching and Mentoring"
-      },
-      {
-        "id": 206,
-        "name": "Community organization games",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 280,
-        "name": "Safety and security activities",
-        "category": "Practical and Productive - Household Management",
-        "sourceCategory": "Practical and Productive - Household Management"
-      },
-      {
-        "id": 160,
-        "name": "Building with blocks and materials",
-        "category": "Creative and Expressive - Crafts and Making",
-        "sourceCategory": "Creative and Expressive - Crafts and Making"
-      },
-      {
-        "id": 308,
-        "name": "Fire safety and prevention games",
-        "category": "Practical and Productive - Safety and Security",
-        "sourceCategory": "Practical and Productive - Safety and Security"
-      },
-      {
-        "id": 139,
-        "name": "Pottery and clay work",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 298,
-        "name": "Calendar and schedule making",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
-      },
-      {
-        "id": 158,
-        "name": "Language learning and practice",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 138,
-        "name": "Printmaking and stamping",
-        "category": "Creative and Expressive - Visual Arts",
-        "sourceCategory": "Creative and Expressive - Visual Arts"
-      },
-      {
-        "id": 154,
-        "name": "Writing and mark-making",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 301,
-        "name": "Resource management games",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
-      },
-      {
-        "id": 217,
-        "name": "Interview and journalism play",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 132,
-        "name": "Collaboration and cooperation (physical teamwork, creative partnerships, social community, learning groups)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
-      },
-      {
-        "id": 316,
-        "name": "Supply management and delivery games",
-        "category": "Practical and Productive - Transportation and Logistics",
-        "sourceCategory": "Practical and Productive - Transportation and Logistics"
-      },
-      {
-        "id": 145,
-        "name": "Dance and movement expression",
-        "category": "Creative and Expressive - Performing Arts",
-        "sourceCategory": "Creative and Expressive - Performing Arts"
-      },
-      {
-        "id": 205,
-        "name": "Environmental care activities",
-        "category": "Social and Cultural - Community Service",
-        "sourceCategory": "Social and Cultural - Community Service"
-      },
-      {
-        "id": 227,
-        "name": "Class and school simulation",
-        "category": "Learning and Growth - Formal Learning",
-        "sourceCategory": "Learning and Growth - Formal Learning"
-      },
-      {
-        "id": 189,
-        "name": "Caregiving for dolls/stuffed animals",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
-      },
-      {
-        "id": 152,
-        "name": "Reading and book exploration",
-        "category": "Creative and Expressive - Literary Arts",
-        "sourceCategory": "Creative and Expressive - Literary Arts"
-      },
-      {
-        "id": 216,
-        "name": "Media creation and sharing",
-        "category": "Social and Cultural - Communication",
-        "sourceCategory": "Social and Cultural - Communication"
-      },
-      {
-        "id": 188,
-        "name": "Family interaction games",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
+        "category": "Cross-Domain Foundational Activities"
       },
       {
         "id": 122,
         "name": "Communication and expression (physical gestures, creative arts, social conversation, learning sharing)",
-        "category": "Cross-Domain Foundational Activities",
-        "sourceCategory": "Cross-Domain Foundational Activities"
+        "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 251,
-        "name": "Underwater and marine exploration",
-        "category": "Learning and Growth - Exploration",
-        "sourceCategory": "Learning and Growth - Exploration"
+        "id": 123,
+        "name": "Problem-solving and experimentation (physical challenges, creative projects, social conflicts, learning puzzles)",
+        "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 258,
-        "name": "Mental math and calculation games",
-        "category": "Learning and Growth - Cognitive Challenges",
-        "sourceCategory": "Learning and Growth - Cognitive Challenges"
+        "id": 124,
+        "name": "Pattern recognition and creation (physical rhythms, creative designs, social sequences, learning systems)",
+        "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 293,
-        "name": "Tool use and maintenance games",
-        "category": "Practical and Productive - Maintenance and Repair",
-        "sourceCategory": "Practical and Productive - Maintenance and Repair"
+        "id": 125,
+        "name": "Construction and deconstruction (physical building, creative making, social structures, learning concepts)",
+        "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 302,
-        "name": "Filing and record keeping activities",
-        "category": "Practical and Productive - Planning and Organization",
-        "sourceCategory": "Practical and Productive - Planning and Organization"
+        "id": 126,
+        "name": "Caregiving and nurturing (physical care, creative projects, social relationships, learning mentorship)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 127,
+        "name": "Organization and categorization (physical spaces, creative materials, social groups, learning information)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 128,
+        "name": "Role-playing and simulation (physical activities, creative performance, social situations, learning scenarios)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 129,
+        "name": "Teaching and demonstration (physical skills, creative techniques, social behaviors, learning concepts)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 130,
+        "name": "Collection and curation (physical objects, creative works, social memories, learning resources)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 131,
+        "name": "Rhythm and timing (physical coordination, creative music, social synchronization, learning sequences)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 132,
+        "name": "Collaboration and cooperation (physical teamwork, creative partnerships, social community, learning groups)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 133,
+        "name": "Adaptation and modification (physical adjustments, creative improvisation, social flexibility, learning strategies)",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 134,
+        "name": "Drawing, sketching, and scribbling",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 135,
+        "name": "Painting with various materials",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 136,
+        "name": "Sculpture and 3D art with clay/playdough",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 137,
+        "name": "Photography and picture-taking",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 138,
+        "name": "Printmaking and stamping",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 139,
+        "name": "Pottery and clay work",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 140,
+        "name": "Simple jewelry making",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 141,
+        "name": "Art installation and display",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 142,
+        "name": "Singing and vocal play",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 143,
+        "name": "Musical instrument exploration",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 144,
+        "name": "Song creation and composition",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 145,
+        "name": "Dance and movement expression",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 146,
+        "name": "Choreography and dance creation",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 147,
+        "name": "Acting and character play",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 148,
+        "name": "Puppet shows and storytelling",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 149,
+        "name": "Simple comedy and jokes",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 150,
+        "name": "Circus movements and performance",
+        "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 151,
+        "name": "Creative storytelling and narrative",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 152,
+        "name": "Reading and book exploration",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 153,
+        "name": "Poetry and rhyming games",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 154,
+        "name": "Writing and mark-making",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 155,
+        "name": "Script creation for plays",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 156,
+        "name": "Public speaking and presentation",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 157,
+        "name": "Debate and discussion games",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 158,
+        "name": "Language learning and practice",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 159,
+        "name": "Letter writing and calligraphy",
+        "category": "Creative and Expressive - Literary Arts"
+      },
+      {
+        "id": 160,
+        "name": "Building with blocks and materials",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 161,
+        "name": "Sewing and fabric work (simple)",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 162,
+        "name": "Paper crafts and origami",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 163,
+        "name": "Electronics and simple circuits",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 164,
+        "name": "3D construction and building",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 165,
+        "name": "Model building and miniatures",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 166,
+        "name": "Woodworking (child-safe)",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 167,
+        "name": "Furniture design with blocks",
+        "category": "Creative and Expressive - Crafts and Making"
+      },
+      {
+        "id": 168,
+        "name": "Digital art and drawing",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 169,
+        "name": "Simple video creation and recording",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 170,
+        "name": "Animation with toys and objects",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 171,
+        "name": "Basic web design concepts",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 172,
+        "name": "Game creation and rule-making",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 173,
+        "name": "Digital music and sound creation",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 174,
+        "name": "Photo editing and manipulation",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 175,
+        "name": "Social media creation (pretend)",
+        "category": "Creative and Expressive - Digital Creation"
+      },
+      {
+        "id": 176,
+        "name": "Cooking and recipe following",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 177,
+        "name": "Baking and measuring activities",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 178,
+        "name": "Food styling and presentation",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 179,
+        "name": "Taste testing and flavor exploration",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 180,
+        "name": "Food photography and documentation",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 181,
+        "name": "Cultural cuisine exploration",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 182,
+        "name": "Food preservation games",
+        "category": "Creative and Expressive - Culinary Arts"
+      },
+      {
+        "id": 183,
+        "name": "Conversation and dialogue practice",
+        "category": "Social and Cultural - Interpersonal"
       },
       {
         "id": 184,
         "name": "Friendship games and activities",
-        "category": "Social and Cultural - Interpersonal",
-        "sourceCategory": "Social and Cultural - Interpersonal"
+        "category": "Social and Cultural - Interpersonal"
+      },
+      {
+        "id": 185,
+        "name": "Conflict resolution role-play",
+        "category": "Social and Cultural - Interpersonal"
+      },
+      {
+        "id": 186,
+        "name": "Emotional support and comfort giving",
+        "category": "Social and Cultural - Interpersonal"
+      },
+      {
+        "id": 187,
+        "name": "Mentoring younger children",
+        "category": "Social and Cultural - Interpersonal"
+      },
+      {
+        "id": 188,
+        "name": "Family interaction games",
+        "category": "Social and Cultural - Interpersonal"
+      },
+      {
+        "id": 189,
+        "name": "Caregiving for dolls/stuffed animals",
+        "category": "Social and Cultural - Interpersonal"
+      },
+      {
+        "id": 190,
+        "name": "Family gathering simulation",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 191,
+        "name": "Party planning and hosting",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 192,
+        "name": "Group celebrations and ceremonies",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 193,
+        "name": "Club and organization activities",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 194,
+        "name": "Group meetings and discussions",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 195,
+        "name": "Team activities and sports",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 196,
+        "name": "Hobby group participation",
+        "category": "Social and Cultural - Group Activities"
+      },
+      {
+        "id": 197,
+        "name": "Holiday celebrations and traditions",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 198,
+        "name": "Cultural craft and art activities",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 199,
+        "name": "Traditional games and activities",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 200,
+        "name": "Storytelling and oral traditions",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 201,
+        "name": "Cultural dance and music",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 202,
+        "name": "Language and cultural exchange",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 203,
+        "name": "Heritage exploration activities",
+        "category": "Social and Cultural - Cultural Practices"
+      },
+      {
+        "id": 204,
+        "name": "Helping others and volunteer play",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 205,
+        "name": "Environmental care activities",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 206,
+        "name": "Community organization games",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 207,
+        "name": "Disaster relief for toys/dolls",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 208,
+        "name": "Teaching and tutoring play",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 209,
+        "name": "Animal care and rescue games",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 210,
+        "name": "Community garden and clean-up activities",
+        "category": "Social and Cultural - Community Service"
+      },
+      {
+        "id": 211,
+        "name": "Public speaking and presentations",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 212,
+        "name": "Letter writing and correspondence",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 213,
+        "name": "Digital communication practice",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 214,
+        "name": "Foreign language conversation",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 215,
+        "name": "Sign language and gesture games",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 216,
+        "name": "Media creation and sharing",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 217,
+        "name": "Interview and journalism play",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 218,
+        "name": "Broadcasting and announcement games",
+        "category": "Social and Cultural - Communication"
+      },
+      {
+        "id": 219,
+        "name": "Instructional games and teaching play",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 220,
+        "name": "Workshop facilitation with toys",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 221,
+        "name": "Tutoring and coaching activities",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 222,
+        "name": "Skill demonstration and modeling",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 223,
+        "name": "Knowledge sharing games",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 224,
+        "name": "Training simulation activities",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 225,
+        "name": "Peer teaching and collaboration",
+        "category": "Social and Cultural - Teaching and Mentoring"
+      },
+      {
+        "id": 226,
+        "name": "Academic subject exploration",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 227,
+        "name": "Class and school simulation",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 228,
+        "name": "Workshop and lesson participation",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 229,
+        "name": "Skill practice and training",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 230,
+        "name": "Test and quiz activities",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 231,
+        "name": "Research project games",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 232,
+        "name": "Study and homework play",
+        "category": "Learning and Growth - Formal Learning"
+      },
+      {
+        "id": 233,
+        "name": "Board games and strategy play",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 234,
+        "name": "Card games and simple gambling games",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 235,
+        "name": "Video games and digital play",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 236,
+        "name": "Puzzle solving activities",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 237,
+        "name": "Logic games and brain teasers",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 238,
+        "name": "Word games and language puzzles",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 239,
+        "name": "Math games and number play",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 240,
+        "name": "Trivia and knowledge games",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 241,
+        "name": "Escape room and mystery solving",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 242,
+        "name": "Role-playing games and storytelling",
+        "category": "Learning and Growth - Games and Puzzles"
+      },
+      {
+        "id": 243,
+        "name": "Science experiments and discovery",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 244,
+        "name": "Nature study and observation",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 245,
+        "name": "Cultural exploration through play",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 246,
+        "name": "Technology experimentation",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 247,
+        "name": "Sensory exploration activities",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 248,
+        "name": "Historical investigation games",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 249,
+        "name": "Geography and mapping activities",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 250,
+        "name": "Space and astronomy exploration",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 251,
+        "name": "Underwater and marine exploration",
+        "category": "Learning and Growth - Exploration"
+      },
+      {
+        "id": 252,
+        "name": "Memory games and exercises",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 253,
+        "name": "Attention and focus activities",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 254,
+        "name": "Critical thinking puzzles",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 255,
+        "name": "Creative problem-solving challenges",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 256,
+        "name": "Decision-making games",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 257,
+        "name": "Speed activities and quick thinking",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 258,
+        "name": "Mental math and calculation games",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 259,
+        "name": "Logic and reasoning puzzles",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 260,
+        "name": "Spatial reasoning activities",
+        "category": "Learning and Growth - Cognitive Challenges"
+      },
+      {
+        "id": 261,
+        "name": "Information gathering games",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 262,
+        "name": "Fact-checking and verification activities",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 263,
+        "name": "Survey and data collection play",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 264,
+        "name": "Interview and field research simulation",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 265,
+        "name": "Library and book exploration",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 266,
+        "name": "Documentary creation activities",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 267,
+        "name": "Family history and genealogy exploration",
+        "category": "Learning and Growth - Research and Study"
+      },
+      {
+        "id": 268,
+        "name": "Object collecting and organizing",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 269,
+        "name": "Collection display and presentation",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 270,
+        "name": "Museum and gallery creation",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 271,
+        "name": "Digital organization activities",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 272,
+        "name": "Book and media collection",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 273,
+        "name": "Art appreciation and curation",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 274,
+        "name": "Historical preservation games",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 275,
+        "name": "Photography collection and albums",
+        "category": "Learning and Growth - Collecting and Curating"
+      },
+      {
+        "id": 276,
+        "name": "Cleaning and organizing games",
+        "category": "Practical and Productive - Household Management"
+      },
+      {
+        "id": 277,
+        "name": "Home decoration and design",
+        "category": "Practical and Productive - Household Management"
+      },
+      {
+        "id": 278,
+        "name": "Laundry and clothing care practice",
+        "category": "Practical and Productive - Household Management"
+      },
+      {
+        "id": 279,
+        "name": "Home maintenance simulation",
+        "category": "Practical and Productive - Household Management"
+      },
+      {
+        "id": 280,
+        "name": "Safety and security activities",
+        "category": "Practical and Productive - Household Management"
+      },
+      {
+        "id": 281,
+        "name": "Shopping and store play",
+        "category": "Practical and Productive - Economic Activities"
+      },
+      {
+        "id": 282,
+        "name": "Money counting and budgeting games",
+        "category": "Practical and Productive - Economic Activities"
+      },
+      {
+        "id": 283,
+        "name": "Business creation and entrepreneurship play",
+        "category": "Practical and Productive - Economic Activities"
+      },
+      {
+        "id": 284,
+        "name": "Market and sales activities",
+        "category": "Practical and Productive - Economic Activities"
+      },
+      {
+        "id": 285,
+        "name": "Investment and savings games",
+        "category": "Practical and Productive - Economic Activities"
+      },
+      {
+        "id": 286,
+        "name": "Job role-play and career exploration",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
+        "id": 287,
+        "name": "Interview practice and preparation",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
+        "id": 288,
+        "name": "Office and workplace simulation",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
+        "id": 289,
+        "name": "Project management games",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
+        "id": 290,
+        "name": "Leadership and team activities",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
+        "id": 291,
+        "name": "Customer service role-play",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
+        "id": 292,
+        "name": "Fix-it activities and repair play",
+        "category": "Practical and Productive - Maintenance and Repair"
+      },
+      {
+        "id": 293,
+        "name": "Tool use and maintenance games",
+        "category": "Practical and Productive - Maintenance and Repair"
+      },
+      {
+        "id": 294,
+        "name": "Restoration and refinishing projects",
+        "category": "Practical and Productive - Maintenance and Repair"
+      },
+      {
+        "id": 295,
+        "name": "Troubleshooting and problem-solving",
+        "category": "Practical and Productive - Maintenance and Repair"
+      },
+      {
+        "id": 296,
+        "name": "Equipment care and maintenance",
+        "category": "Practical and Productive - Maintenance and Repair"
+      },
+      {
+        "id": 297,
+        "name": "Building and infrastructure repair play",
+        "category": "Practical and Productive - Maintenance and Repair"
+      },
+      {
+        "id": 298,
+        "name": "Calendar and schedule making",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 299,
+        "name": "Event planning and coordination",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 300,
+        "name": "Travel planning and booking simulation",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 301,
+        "name": "Resource management games",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 302,
+        "name": "Filing and record keeping activities",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 303,
+        "name": "Strategic planning and goal setting",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 304,
+        "name": "Real estate and house buying play",
+        "category": "Practical and Productive - Planning and Organization"
+      },
+      {
+        "id": 305,
+        "name": "Emergency preparedness activities",
+        "category": "Practical and Productive - Safety and Security"
+      },
+      {
+        "id": 306,
+        "name": "First aid and medical response play",
+        "category": "Practical and Productive - Safety and Security"
+      },
+      {
+        "id": 307,
+        "name": "Safety rule learning and practice",
+        "category": "Practical and Productive - Safety and Security"
+      },
+      {
+        "id": 308,
+        "name": "Fire safety and prevention games",
+        "category": "Practical and Productive - Safety and Security"
+      },
+      {
+        "id": 309,
+        "name": "Water safety instruction",
+        "category": "Practical and Productive - Safety and Security"
+      },
+      {
+        "id": 310,
+        "name": "Personal protection and safety games",
+        "category": "Practical and Productive - Safety and Security"
+      },
+      {
+        "id": 311,
+        "name": "Vehicle operation simulation",
+        "category": "Practical and Productive - Transportation and Logistics"
+      },
+      {
+        "id": 312,
+        "name": "Transportation planning games",
+        "category": "Practical and Productive - Transportation and Logistics"
+      },
+      {
+        "id": 313,
+        "name": "Package delivery and shipping play",
+        "category": "Practical and Productive - Transportation and Logistics"
+      },
+      {
+        "id": 314,
+        "name": "Moving and relocation activities",
+        "category": "Practical and Productive - Transportation and Logistics"
+      },
+      {
+        "id": 315,
+        "name": "Route planning and navigation",
+        "category": "Practical and Productive - Transportation and Logistics"
+      },
+      {
+        "id": 316,
+        "name": "Supply management and delivery games",
+        "category": "Practical and Productive - Transportation and Logistics"
       }
     ],
     "knowledge": [
       {
-        "id": 54,
-        "name": "How societies develop",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 74,
-        "name": "Sorting and grouping",
-        "category": "Systems and Activities - Mathematical",
-        "sourceCategory": "Systems and Activities - Mathematical"
-      },
-      {
-        "id": 16,
-        "name": "Life cycles and development",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 21,
-        "name": "Heat and cold",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
-      },
-      {
-        "id": 105,
-        "name": "Physical fitness and strength",
-        "category": "Skills and Development - Physical",
-        "sourceCategory": "Skills and Development - Physical"
-      },
-      {
-        "id": 107,
-        "name": "Personal hygiene and self-care",
-        "category": "Skills and Development - Practical",
-        "sourceCategory": "Skills and Development - Practical"
-      },
-      {
-        "id": 43,
-        "name": "Health and nutrition",
-        "category": "Human Experience - Individual",
-        "sourceCategory": "Human Experience - Individual"
-      },
-      {
-        "id": 75,
-        "name": "Simple calculations",
-        "category": "Systems and Activities - Mathematical",
-        "sourceCategory": "Systems and Activities - Mathematical"
-      },
-      {
-        "id": 71,
-        "name": "Counting and numbers",
-        "category": "Systems and Activities - Mathematical",
-        "sourceCategory": "Systems and Activities - Mathematical"
-      },
-      {
-        "id": 99,
-        "name": "Evaluating information",
-        "category": "Skills and Development - Cognitive",
-        "sourceCategory": "Skills and Development - Cognitive"
-      },
-      {
-        "id": 30,
-        "name": "Natural phenomena",
-        "category": "Physical World - Earth & Space",
-        "sourceCategory": "Physical World - Earth & Space"
-      },
-      {
-        "id": 6,
-        "name": "Communication across forms (language, visual symbols, music, body language, information)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 13,
-        "name": "Plant growth and types",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 49,
-        "name": "Rules and cooperation",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 34,
-        "name": "Cities and rural areas",
-        "category": "Physical World - Geography",
-        "sourceCategory": "Physical World - Geography"
-      },
-      {
-        "id": 109,
-        "name": "Household tasks and organization",
-        "category": "Skills and Development - Practical",
-        "sourceCategory": "Skills and Development - Practical"
-      },
-      {
-        "id": 4,
-        "name": "Change and adaptation (physical changes, human development, evolution, learning)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 113,
-        "name": "Understanding others' feelings (empathy)",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 40,
-        "name": "Sustainability basics",
-        "category": "Physical World - Environmental Science",
-        "sourceCategory": "Physical World - Environmental Science"
-      },
-      {
-        "id": 20,
-        "name": "Light and sound",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
-      },
-      {
-        "id": 96,
-        "name": "Learning how to learn",
-        "category": "Skills and Development - Cognitive",
-        "sourceCategory": "Skills and Development - Cognitive"
-      },
-      {
-        "id": 102,
-        "name": "Fine and gross motor skills",
-        "category": "Skills and Development - Physical",
-        "sourceCategory": "Skills and Development - Physical"
-      },
-      {
-        "id": 3,
-        "name": "Cause and effect (physical causation, social consequences, logical reasoning)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 23,
-        "name": "Simple machines",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
+        "id": 1,
+        "name": "Time and duration (physical cycles, human experience, sequences, measurement)",
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
         "id": 2,
         "name": "Patterns and systems (mathematical patterns, natural patterns, social patterns, thinking patterns)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 3,
+        "name": "Cause and effect (physical causation, social consequences, logical reasoning)",
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 4,
+        "name": "Change and adaptation (physical changes, human development, evolution, learning)",
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
         "id": 5,
         "name": "Energy and movement (physical energy, body movement, social dynamics)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
-        "id": 91,
-        "name": "Theater and drama",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
-      },
-      {
-        "id": 62,
-        "name": "Buying and selling",
-        "category": "Human Experience - Economic",
-        "sourceCategory": "Human Experience - Economic"
-      },
-      {
-        "id": 90,
-        "name": "Fashion and clothing",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
-      },
-      {
-        "id": 29,
-        "name": "Planets and stars",
-        "category": "Physical World - Earth & Space",
-        "sourceCategory": "Physical World - Earth & Space"
-      },
-      {
-        "id": 31,
-        "name": "Different environments (forest, desert, ocean, mountains)",
-        "category": "Physical World - Geography",
-        "sourceCategory": "Physical World - Geography"
-      },
-      {
-        "id": 58,
-        "name": "Folklore and myths",
-        "category": "Human Experience - Cultural",
-        "sourceCategory": "Human Experience - Cultural"
-      },
-      {
-        "id": 116,
-        "name": "Cooperating and sharing",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 92,
-        "name": "Dance and movement",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
-      },
-      {
-        "id": 50,
-        "name": "Different cultures and peoples",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 67,
-        "name": "Grammar and word patterns",
-        "category": "Human Experience - Linguistic",
-        "sourceCategory": "Human Experience - Linguistic"
-      },
-      {
-        "id": 87,
-        "name": "Imaginative play",
-        "category": "Systems and Activities - Recreational",
-        "sourceCategory": "Systems and Activities - Recreational"
-      },
-      {
-        "id": 12,
-        "name": "Animal behaviors and types",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 57,
-        "name": "Religious and spiritual practices",
-        "category": "Human Experience - Cultural",
-        "sourceCategory": "Human Experience - Cultural"
-      },
-      {
-        "id": 65,
-        "name": "Services and helping others",
-        "category": "Human Experience - Economic",
-        "sourceCategory": "Human Experience - Economic"
-      },
-      {
-        "id": 51,
-        "name": "Government and leadership",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 25,
-        "name": "Weather and seasons",
-        "category": "Physical World - Earth & Space",
-        "sourceCategory": "Physical World - Earth & Space"
-      },
-      {
-        "id": 103,
-        "name": "Sensory exploration (taste, smell, touch, proprioception)",
-        "category": "Skills and Development - Physical",
-        "sourceCategory": "Skills and Development - Physical"
-      },
-      {
-        "id": 64,
-        "name": "Manufacturing and making things",
-        "category": "Human Experience - Economic",
-        "sourceCategory": "Human Experience - Economic"
-      },
-      {
-        "id": 36,
-        "name": "Natural landmarks",
-        "category": "Physical World - Geography",
-        "sourceCategory": "Physical World - Geography"
-      },
-      {
-        "id": 68,
-        "name": "Different languages around the world",
-        "category": "Human Experience - Linguistic",
-        "sourceCategory": "Human Experience - Linguistic"
-      },
-      {
-        "id": 78,
-        "name": "How things work",
-        "category": "Systems and Activities - Technological",
-        "sourceCategory": "Systems and Activities - Technological"
-      },
-      {
-        "id": 85,
-        "name": "Hobbies and collections",
-        "category": "Systems and Activities - Recreational",
-        "sourceCategory": "Systems and Activities - Recreational"
-      },
-      {
-        "id": 59,
-        "name": "Cultural diversity and inclusion",
-        "category": "Human Experience - Cultural",
-        "sourceCategory": "Human Experience - Cultural"
-      },
-      {
-        "id": 41,
-        "name": "Emotions and feelings",
-        "category": "Human Experience - Individual",
-        "sourceCategory": "Human Experience - Individual"
-      },
-      {
-        "id": 1,
-        "name": "Time and duration (physical cycles, human experience, sequences, measurement)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 115,
-        "name": "Social rules and manners",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 60,
-        "name": "Work and occupations",
-        "category": "Human Experience - Economic",
-        "sourceCategory": "Human Experience - Economic"
-      },
-      {
-        "id": 72,
-        "name": "Shapes and geometry",
-        "category": "Systems and Activities - Mathematical",
-        "sourceCategory": "Systems and Activities - Mathematical"
-      },
-      {
-        "id": 63,
-        "name": "Farming and food production",
-        "category": "Human Experience - Economic",
-        "sourceCategory": "Human Experience - Economic"
-      },
-      {
-        "id": 32,
-        "name": "Maps and directions",
-        "category": "Physical World - Geography",
-        "sourceCategory": "Physical World - Geography"
-      },
-      {
-        "id": 83,
-        "name": "Sports and physical games",
-        "category": "Systems and Activities - Recreational",
-        "sourceCategory": "Systems and Activities - Recreational"
-      },
-      {
-        "id": 106,
-        "name": "Balance and movement",
-        "category": "Skills and Development - Physical",
-        "sourceCategory": "Skills and Development - Physical"
-      },
-      {
-        "id": 61,
-        "name": "Money and trade",
-        "category": "Human Experience - Economic",
-        "sourceCategory": "Human Experience - Economic"
-      },
-      {
-        "id": 112,
-        "name": "Making and keeping friends",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 110,
-        "name": "Tool use and maintenance",
-        "category": "Skills and Development - Practical",
-        "sourceCategory": "Skills and Development - Practical"
-      },
-      {
-        "id": 111,
-        "name": "Finding your way around",
-        "category": "Skills and Development - Practical",
-        "sourceCategory": "Skills and Development - Practical"
-      },
-      {
-        "id": 9,
-        "name": "Growth and development (biological growth, human development, skill development, societal progress)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 117,
-        "name": "Managing emotions",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 66,
-        "name": "How languages are structured",
-        "category": "Human Experience - Linguistic",
-        "sourceCategory": "Human Experience - Linguistic"
-      },
-      {
-        "id": 88,
-        "name": "Visual arts and design",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
-      },
-      {
-        "id": 10,
-        "name": "Safety and protection (physical safety, emotional safety, environmental protection, social security)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 79,
-        "name": "Building and construction",
-        "category": "Systems and Activities - Technological",
-        "sourceCategory": "Systems and Activities - Technological"
-      },
-      {
-        "id": 42,
-        "name": "Senses and perception",
-        "category": "Human Experience - Individual",
-        "sourceCategory": "Human Experience - Individual"
-      },
-      {
-        "id": 97,
-        "name": "Memory strategies",
-        "category": "Skills and Development - Cognitive",
-        "sourceCategory": "Skills and Development - Cognitive"
-      },
-      {
-        "id": 84,
-        "name": "Board games and puzzles",
-        "category": "Systems and Activities - Recreational",
-        "sourceCategory": "Systems and Activities - Recreational"
-      },
-      {
-        "id": 24,
-        "name": "Fire and combustion",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
-      },
-      {
-        "id": 73,
-        "name": "Size and measurement",
-        "category": "Systems and Activities - Mathematical",
-        "sourceCategory": "Systems and Activities - Mathematical"
-      },
-      {
-        "id": 53,
-        "name": "Laws and fairness",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 80,
-        "name": "Transportation methods",
-        "category": "Systems and Activities - Technological",
-        "sourceCategory": "Systems and Activities - Technological"
-      },
-      {
-        "id": 11,
-        "name": "Cell (basic unit of life)",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 52,
-        "name": "Conflict and resolution",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 48,
-        "name": "Community and helpers",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 82,
-        "name": "Computers and machines",
-        "category": "Systems and Activities - Technological",
-        "sourceCategory": "Systems and Activities - Technological"
-      },
-      {
-        "id": 108,
-        "name": "Food preparation and cooking",
-        "category": "Skills and Development - Practical",
-        "sourceCategory": "Skills and Development - Practical"
-      },
-      {
-        "id": 19,
-        "name": "Forces and motion",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
-      },
-      {
-        "id": 98,
-        "name": "Making good decisions",
-        "category": "Skills and Development - Cognitive",
-        "sourceCategory": "Skills and Development - Cognitive"
-      },
-      {
-        "id": 69,
-        "name": "How language develops",
-        "category": "Human Experience - Linguistic",
-        "sourceCategory": "Human Experience - Linguistic"
-      },
-      {
-        "id": 14,
-        "name": "Human body and functions",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 35,
-        "name": "Climate zones",
-        "category": "Physical World - Geography",
-        "sourceCategory": "Physical World - Geography"
-      },
-      {
-        "id": 8,
-        "name": "Interconnections (ecosystems, social networks, global connections, systems thinking)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
-      },
-      {
-        "id": 18,
-        "name": "Chemical elements and reactions",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
-      },
-      {
-        "id": 81,
-        "name": "Basic engineering concepts",
-        "category": "Systems and Activities - Technological",
-        "sourceCategory": "Systems and Activities - Technological"
-      },
-      {
-        "id": 114,
-        "name": "Leading and following",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 55,
-        "name": "Stories and literature",
-        "category": "Human Experience - Cultural",
-        "sourceCategory": "Human Experience - Cultural"
-      },
-      {
-        "id": 15,
-        "name": "Ecosystems and habitats",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 76,
-        "name": "Data and statistics",
-        "category": "Systems and Activities - Mathematical",
-        "sourceCategory": "Systems and Activities - Mathematical"
-      },
-      {
-        "id": 47,
-        "name": "Family and relationships",
-        "category": "Human Experience - Social",
-        "sourceCategory": "Human Experience - Social"
-      },
-      {
-        "id": 95,
-        "name": "Critical thinking and questioning",
-        "category": "Skills and Development - Cognitive",
-        "sourceCategory": "Skills and Development - Cognitive"
-      },
-      {
-        "id": 44,
-        "name": "Sleep and rest",
-        "category": "Human Experience - Individual",
-        "sourceCategory": "Human Experience - Individual"
-      },
-      {
-        "id": 45,
-        "name": "Brain and nervous system",
-        "category": "Human Experience - Individual",
-        "sourceCategory": "Human Experience - Individual"
-      },
-      {
-        "id": 17,
-        "name": "Food chains and relationships",
-        "category": "Physical World - Life Sciences",
-        "sourceCategory": "Physical World - Life Sciences"
-      },
-      {
-        "id": 93,
-        "name": "Innovation and invention",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
-      },
-      {
-        "id": 27,
-        "name": "Oceans and rivers",
-        "category": "Physical World - Earth & Space",
-        "sourceCategory": "Physical World - Earth & Space"
-      },
-      {
-        "id": 26,
-        "name": "Rocks and minerals",
-        "category": "Physical World - Earth & Space",
-        "sourceCategory": "Physical World - Earth & Space"
-      },
-      {
-        "id": 86,
-        "name": "Outdoor activities",
-        "category": "Systems and Activities - Recreational",
-        "sourceCategory": "Systems and Activities - Recreational"
-      },
-      {
-        "id": 104,
-        "name": "Spatial awareness and navigation",
-        "category": "Skills and Development - Physical",
-        "sourceCategory": "Skills and Development - Physical"
-      },
-      {
-        "id": 22,
-        "name": "States of matter (water, ice, steam)",
-        "category": "Physical World - Physical Sciences",
-        "sourceCategory": "Physical World - Physical Sciences"
-      },
-      {
-        "id": 77,
-        "name": "Simple tools and their uses",
-        "category": "Systems and Activities - Technological",
-        "sourceCategory": "Systems and Activities - Technological"
-      },
-      {
-        "id": 33,
-        "name": "Countries and continents",
-        "category": "Physical World - Geography",
-        "sourceCategory": "Physical World - Geography"
-      },
-      {
-        "id": 118,
-        "name": "Perspective-taking",
-        "category": "Skills and Development - Social-Emotional",
-        "sourceCategory": "Skills and Development - Social-Emotional"
-      },
-      {
-        "id": 101,
-        "name": "Body awareness and coordination",
-        "category": "Skills and Development - Physical",
-        "sourceCategory": "Skills and Development - Physical"
+        "id": 6,
+        "name": "Communication across forms (language, visual symbols, music, body language, information)",
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
         "id": 7,
         "name": "Structure and function (how things are built and what they do - bodies, societies, tools, buildings)",
-        "category": "Cross-Domain Foundational Concepts",
-        "sourceCategory": "Cross-Domain Foundational Concepts"
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
-        "id": 37,
-        "name": "Human impact on nature",
-        "category": "Physical World - Environmental Science",
-        "sourceCategory": "Physical World - Environmental Science"
+        "id": 8,
+        "name": "Interconnections (ecosystems, social networks, global connections, systems thinking)",
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 9,
+        "name": "Growth and development (biological growth, human development, skill development, societal progress)",
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 10,
+        "name": "Safety and protection (physical safety, emotional safety, environmental protection, social security)",
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 11,
+        "name": "Cell (basic unit of life)",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 12,
+        "name": "Animal behaviors and types",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 13,
+        "name": "Plant growth and types",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 14,
+        "name": "Human body and functions",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 15,
+        "name": "Ecosystems and habitats",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 16,
+        "name": "Life cycles and development",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 17,
+        "name": "Food chains and relationships",
+        "category": "Physical World - Life Sciences"
+      },
+      {
+        "id": 18,
+        "name": "Chemical elements and reactions",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 19,
+        "name": "Forces and motion",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 20,
+        "name": "Light and sound",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 21,
+        "name": "Heat and cold",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 22,
+        "name": "States of matter (water, ice, steam)",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 23,
+        "name": "Simple machines",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 24,
+        "name": "Fire and combustion",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 25,
+        "name": "Weather and seasons",
+        "category": "Physical World - Earth & Space"
+      },
+      {
+        "id": 26,
+        "name": "Rocks and minerals",
+        "category": "Physical World - Earth & Space"
+      },
+      {
+        "id": 27,
+        "name": "Oceans and rivers",
+        "category": "Physical World - Earth & Space"
       },
       {
         "id": 28,
         "name": "Day and night cycles",
-        "category": "Physical World - Earth & Space",
-        "sourceCategory": "Physical World - Earth & Space"
+        "category": "Physical World - Earth & Space"
       },
       {
-        "id": 89,
-        "name": "Architecture and building design",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
+        "id": 29,
+        "name": "Planets and stars",
+        "category": "Physical World - Earth & Space"
       },
       {
-        "id": 70,
-        "name": "Language and thought",
-        "category": "Human Experience - Linguistic",
-        "sourceCategory": "Human Experience - Linguistic"
+        "id": 30,
+        "name": "Natural phenomena",
+        "category": "Physical World - Earth & Space"
       },
       {
-        "id": 94,
-        "name": "Beauty and aesthetics",
-        "category": "Systems and Activities - Creative",
-        "sourceCategory": "Systems and Activities - Creative"
+        "id": 31,
+        "name": "Different environments (forest, desert, ocean, mountains)",
+        "category": "Physical World - Geography"
+      },
+      {
+        "id": 32,
+        "name": "Maps and directions",
+        "category": "Physical World - Geography"
+      },
+      {
+        "id": 33,
+        "name": "Countries and continents",
+        "category": "Physical World - Geography"
+      },
+      {
+        "id": 34,
+        "name": "Cities and rural areas",
+        "category": "Physical World - Geography"
+      },
+      {
+        "id": 35,
+        "name": "Climate zones",
+        "category": "Physical World - Geography"
+      },
+      {
+        "id": 36,
+        "name": "Natural landmarks",
+        "category": "Physical World - Geography"
+      },
+      {
+        "id": 37,
+        "name": "Human impact on nature",
+        "category": "Physical World - Environmental Science"
       },
       {
         "id": 38,
         "name": "Conservation and recycling",
-        "category": "Physical World - Environmental Science",
-        "sourceCategory": "Physical World - Environmental Science"
-      },
-      {
-        "id": 46,
-        "name": "Personal identity",
-        "category": "Human Experience - Individual",
-        "sourceCategory": "Human Experience - Individual"
-      },
-      {
-        "id": 56,
-        "name": "Traditions and celebrations",
-        "category": "Human Experience - Cultural",
-        "sourceCategory": "Human Experience - Cultural"
-      },
-      {
-        "id": 100,
-        "name": "Creative problem-solving",
-        "category": "Skills and Development - Cognitive",
-        "sourceCategory": "Skills and Development - Cognitive"
+        "category": "Physical World - Environmental Science"
       },
       {
         "id": 39,
         "name": "Clean vs. polluted environments",
-        "category": "Physical World - Environmental Science",
-        "sourceCategory": "Physical World - Environmental Science"
+        "category": "Physical World - Environmental Science"
+      },
+      {
+        "id": 40,
+        "name": "Sustainability basics",
+        "category": "Physical World - Environmental Science"
+      },
+      {
+        "id": 41,
+        "name": "Emotions and feelings",
+        "category": "Human Experience - Individual"
+      },
+      {
+        "id": 42,
+        "name": "Senses and perception",
+        "category": "Human Experience - Individual"
+      },
+      {
+        "id": 43,
+        "name": "Health and nutrition",
+        "category": "Human Experience - Individual"
+      },
+      {
+        "id": 44,
+        "name": "Sleep and rest",
+        "category": "Human Experience - Individual"
+      },
+      {
+        "id": 45,
+        "name": "Brain and nervous system",
+        "category": "Human Experience - Individual"
+      },
+      {
+        "id": 46,
+        "name": "Personal identity",
+        "category": "Human Experience - Individual"
+      },
+      {
+        "id": 47,
+        "name": "Family and relationships",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 48,
+        "name": "Community and helpers",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 49,
+        "name": "Rules and cooperation",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 50,
+        "name": "Different cultures and peoples",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 51,
+        "name": "Government and leadership",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 52,
+        "name": "Conflict and resolution",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 53,
+        "name": "Laws and fairness",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 54,
+        "name": "How societies develop",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 55,
+        "name": "Stories and literature",
+        "category": "Human Experience - Cultural"
+      },
+      {
+        "id": 56,
+        "name": "Traditions and celebrations",
+        "category": "Human Experience - Cultural"
+      },
+      {
+        "id": 57,
+        "name": "Religious and spiritual practices",
+        "category": "Human Experience - Cultural"
+      },
+      {
+        "id": 58,
+        "name": "Folklore and myths",
+        "category": "Human Experience - Cultural"
+      },
+      {
+        "id": 59,
+        "name": "Cultural diversity and inclusion",
+        "category": "Human Experience - Cultural"
+      },
+      {
+        "id": 60,
+        "name": "Work and occupations",
+        "category": "Human Experience - Economic"
+      },
+      {
+        "id": 61,
+        "name": "Money and trade",
+        "category": "Human Experience - Economic"
+      },
+      {
+        "id": 62,
+        "name": "Buying and selling",
+        "category": "Human Experience - Economic"
+      },
+      {
+        "id": 63,
+        "name": "Farming and food production",
+        "category": "Human Experience - Economic"
+      },
+      {
+        "id": 64,
+        "name": "Manufacturing and making things",
+        "category": "Human Experience - Economic"
+      },
+      {
+        "id": 65,
+        "name": "Services and helping others",
+        "category": "Human Experience - Economic"
+      },
+      {
+        "id": 66,
+        "name": "How languages are structured",
+        "category": "Human Experience - Linguistic"
+      },
+      {
+        "id": 67,
+        "name": "Grammar and word patterns",
+        "category": "Human Experience - Linguistic"
+      },
+      {
+        "id": 68,
+        "name": "Different languages around the world",
+        "category": "Human Experience - Linguistic"
+      },
+      {
+        "id": 69,
+        "name": "How language develops",
+        "category": "Human Experience - Linguistic"
+      },
+      {
+        "id": 70,
+        "name": "Language and thought",
+        "category": "Human Experience - Linguistic"
+      },
+      {
+        "id": 71,
+        "name": "Counting and numbers",
+        "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 72,
+        "name": "Shapes and geometry",
+        "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 73,
+        "name": "Size and measurement",
+        "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 74,
+        "name": "Sorting and grouping",
+        "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 75,
+        "name": "Simple calculations",
+        "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 76,
+        "name": "Data and statistics",
+        "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 77,
+        "name": "Simple tools and their uses",
+        "category": "Systems and Activities - Technological"
+      },
+      {
+        "id": 78,
+        "name": "How things work",
+        "category": "Systems and Activities - Technological"
+      },
+      {
+        "id": 79,
+        "name": "Building and construction",
+        "category": "Systems and Activities - Technological"
+      },
+      {
+        "id": 80,
+        "name": "Transportation methods",
+        "category": "Systems and Activities - Technological"
+      },
+      {
+        "id": 81,
+        "name": "Basic engineering concepts",
+        "category": "Systems and Activities - Technological"
+      },
+      {
+        "id": 82,
+        "name": "Computers and machines",
+        "category": "Systems and Activities - Technological"
+      },
+      {
+        "id": 83,
+        "name": "Sports and physical games",
+        "category": "Systems and Activities - Recreational"
+      },
+      {
+        "id": 84,
+        "name": "Board games and puzzles",
+        "category": "Systems and Activities - Recreational"
+      },
+      {
+        "id": 85,
+        "name": "Hobbies and collections",
+        "category": "Systems and Activities - Recreational"
+      },
+      {
+        "id": 86,
+        "name": "Outdoor activities",
+        "category": "Systems and Activities - Recreational"
+      },
+      {
+        "id": 87,
+        "name": "Imaginative play",
+        "category": "Systems and Activities - Recreational"
+      },
+      {
+        "id": 88,
+        "name": "Visual arts and design",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 89,
+        "name": "Architecture and building design",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 90,
+        "name": "Fashion and clothing",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 91,
+        "name": "Theater and drama",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 92,
+        "name": "Dance and movement",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 93,
+        "name": "Innovation and invention",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 94,
+        "name": "Beauty and aesthetics",
+        "category": "Systems and Activities - Creative"
+      },
+      {
+        "id": 95,
+        "name": "Critical thinking and questioning",
+        "category": "Skills and Development - Cognitive"
+      },
+      {
+        "id": 96,
+        "name": "Learning how to learn",
+        "category": "Skills and Development - Cognitive"
+      },
+      {
+        "id": 97,
+        "name": "Memory strategies",
+        "category": "Skills and Development - Cognitive"
+      },
+      {
+        "id": 98,
+        "name": "Making good decisions",
+        "category": "Skills and Development - Cognitive"
+      },
+      {
+        "id": 99,
+        "name": "Evaluating information",
+        "category": "Skills and Development - Cognitive"
+      },
+      {
+        "id": 100,
+        "name": "Creative problem-solving",
+        "category": "Skills and Development - Cognitive"
+      },
+      {
+        "id": 101,
+        "name": "Body awareness and coordination",
+        "category": "Skills and Development - Physical"
+      },
+      {
+        "id": 102,
+        "name": "Fine and gross motor skills",
+        "category": "Skills and Development - Physical"
+      },
+      {
+        "id": 103,
+        "name": "Sensory exploration (taste, smell, touch, proprioception)",
+        "category": "Skills and Development - Physical"
+      },
+      {
+        "id": 104,
+        "name": "Spatial awareness and navigation",
+        "category": "Skills and Development - Physical"
+      },
+      {
+        "id": 105,
+        "name": "Physical fitness and strength",
+        "category": "Skills and Development - Physical"
+      },
+      {
+        "id": 106,
+        "name": "Balance and movement",
+        "category": "Skills and Development - Physical"
+      },
+      {
+        "id": 107,
+        "name": "Personal hygiene and self-care",
+        "category": "Skills and Development - Practical"
+      },
+      {
+        "id": 108,
+        "name": "Food preparation and cooking",
+        "category": "Skills and Development - Practical"
+      },
+      {
+        "id": 109,
+        "name": "Household tasks and organization",
+        "category": "Skills and Development - Practical"
+      },
+      {
+        "id": 110,
+        "name": "Tool use and maintenance",
+        "category": "Skills and Development - Practical"
+      },
+      {
+        "id": 111,
+        "name": "Finding your way around",
+        "category": "Skills and Development - Practical"
+      },
+      {
+        "id": 112,
+        "name": "Making and keeping friends",
+        "category": "Skills and Development - Social-Emotional"
+      },
+      {
+        "id": 113,
+        "name": "Understanding others' feelings (empathy)",
+        "category": "Skills and Development - Social-Emotional"
+      },
+      {
+        "id": 114,
+        "name": "Leading and following",
+        "category": "Skills and Development - Social-Emotional"
+      },
+      {
+        "id": 115,
+        "name": "Social rules and manners",
+        "category": "Skills and Development - Social-Emotional"
+      },
+      {
+        "id": 116,
+        "name": "Cooperating and sharing",
+        "category": "Skills and Development - Social-Emotional"
+      },
+      {
+        "id": 117,
+        "name": "Managing emotions",
+        "category": "Skills and Development - Social-Emotional"
+      },
+      {
+        "id": 118,
+        "name": "Perspective-taking",
+        "category": "Skills and Development - Social-Emotional"
       }
     ],
     "physical": [
       {
-        "id": 323,
-        "name": "Cycling and bike riding",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 401,
-        "name": "Mixed martial arts basics",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 350,
-        "name": "Running, walking, and locomotion",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 402,
-        "name": "Self-defense and protection skills",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 358,
-        "name": "Dance and rhythmic movement",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 384,
-        "name": "Skiing (downhill and cross-country)",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 407,
-        "name": "Pilates and core strengthening",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 319,
-        "name": "Track and field (running, jumping, throwing)",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 348,
-        "name": "Capture the flag and territory games",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 339,
-        "name": "Volleyball and net sports",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 349,
-        "name": "Relay races and team challenges",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 405,
-        "name": "Tai Chi and flowing movements",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 331,
-        "name": "Surfing and wave sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 423,
-        "name": "Musical theater and integrated performance",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 390,
-        "name": "Figure skating and ice dance",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 364,
-        "name": "Geocaching and treasure hunting",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 354,
-        "name": "Strength activities and resistance play",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 380,
-        "name": "Water aerobics and pool exercises",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 414,
-        "name": "Dance choreography and routines",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 382,
-        "name": "Surfing and wave riding",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 344,
-        "name": "Water polo and pool games",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 361,
-        "name": "Hiking and nature walks",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 396,
-        "name": "Taekwondo and kicking arts",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 418,
-        "name": "Drum line and marching band",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 403,
-        "name": "Aikido and redirecting force",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 336,
-        "name": "Basketball and hoop games",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 342,
-        "name": "Rugby and contact sports",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 332,
-        "name": "Skiing and snow sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 369,
-        "name": "Hunting simulation games",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 335,
-        "name": "Soccer and football",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 325,
-        "name": "Rock climbing and bouldering",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 429,
-        "name": "Visual-motor skill development",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 328,
-        "name": "Table tennis and paddle sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 321,
-        "name": "Gymnastics and tumbling",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 388,
-        "name": "Sledding and snow sliding",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 409,
-        "name": "Balance and stability training",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 368,
-        "name": "Fishing and angling activities",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 419,
-        "name": "Synchronized movement activities",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 430,
-        "name": "Reaction time and quick response games",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 345,
-        "name": "Ultimate frisbee and disc sports",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 334,
-        "name": "Boxing and striking sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 411,
-        "name": "Relaxation and tension release",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 383,
-        "name": "Paddleboarding and balance on water",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 386,
-        "name": "Ice skating and rink activities",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 338,
-        "name": "American football and tackle games",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 327,
-        "name": "Bowling and precision rolling",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 346,
-        "name": "Handball and court games",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 370,
-        "name": "Mountain biking and trail riding",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 379,
-        "name": "Competitive swimming and racing",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 397,
-        "name": "Brazilian Jiu-Jitsu and ground fighting",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 389,
-        "name": "Snowshoeing and winter hiking",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 363,
-        "name": "Orienteering and navigation games",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 360,
-        "name": "Calisthenics and bodyweight exercises",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 381,
-        "name": "Beach volleyball and sand sports",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 431,
-        "name": "Sequential movement patterns",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 392,
-        "name": "Bobsledding and speed sports",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 376,
-        "name": "Synchronized swimming and water dance",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 356,
-        "name": "Fine motor skill development",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 375,
-        "name": "Water safety and rescue practice",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 425,
-        "name": "Hand-eye coordination games",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 385,
-        "name": "Snowboarding and board sports",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 398,
-        "name": "Boxing and punching sports",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 426,
-        "name": "Gross motor skill practice",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 422,
-        "name": "Movement storytelling",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 387,
-        "name": "Ice hockey and puck sports",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 410,
-        "name": "Body awareness and proprioception",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 362,
-        "name": "Camping and outdoor living play",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 415,
-        "name": "Cheerleading and acrobatic movements",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 393,
-        "name": "Snow fort building and winter construction",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 395,
-        "name": "Judo and throwing arts",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 355,
-        "name": "Endurance and cardiovascular games",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 408,
-        "name": "Meditation and breathing exercises",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 372,
-        "name": "Sailing and wind sports",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 391,
-        "name": "Curling and precision ice sports",
-        "category": "Physical and Movement - Winter Sports",
-        "sourceCategory": "Physical and Movement - Winter Sports"
-      },
-      {
-        "id": 424,
-        "name": "Fine motor skill development",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 406,
-        "name": "Qigong and energy exercises",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 400,
-        "name": "Fencing and sword sports",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
+        "id": 317,
+        "name": "Tennis and racquet sports",
+        "category": "Physical and Movement - Individual Sports"
       },
       {
         "id": 318,
         "name": "Golf and putting games",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
+        "category": "Physical and Movement - Individual Sports"
       },
       {
-        "id": 412,
-        "name": "Mindful walking and movement",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
+        "id": 319,
+        "name": "Track and field (running, jumping, throwing)",
+        "category": "Physical and Movement - Individual Sports"
       },
       {
         "id": 320,
         "name": "Swimming and water activities",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
+        "category": "Physical and Movement - Individual Sports"
       },
       {
-        "id": 417,
-        "name": "Color guard and flag work",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 352,
-        "name": "Climbing and balancing activities",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 432,
-        "name": "Cross-lateral movement exercises",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 337,
-        "name": "Baseball and softball",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 343,
-        "name": "Cricket and bat sports",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 365,
-        "name": "Nature observation and wildlife tracking",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 421,
-        "name": "Stage movement and blocking",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 377,
-        "name": "Water skiing and towing sports",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 374,
-        "name": "Diving and underwater activities",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 416,
-        "name": "Rhythmic gymnastics with props",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
-      },
-      {
-        "id": 366,
-        "name": "Outdoor obstacle courses",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 428,
-        "name": "Sensory integration activities",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 404,
-        "name": "Yoga poses and sequences",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
-      },
-      {
-        "id": 359,
-        "name": "Yoga and mindful movement",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 371,
-        "name": "Kayaking and paddling sports",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 351,
-        "name": "Jumping, hopping, and movement games",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 330,
-        "name": "Figure skating and ice activities",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 373,
-        "name": "Swimming techniques and strokes",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 427,
-        "name": "Bilateral coordination exercises",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 357,
-        "name": "Coordination and agility training",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 347,
-        "name": "Dodgeball and throwing games",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 378,
-        "name": "Snorkeling and underwater exploration",
-        "category": "Physical and Movement - Aquatic Sports",
-        "sourceCategory": "Physical and Movement - Aquatic Sports"
-      },
-      {
-        "id": 326,
-        "name": "Archery and target sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 394,
-        "name": "Karate and striking arts",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 399,
-        "name": "Wrestling and takedowns",
-        "category": "Physical and Movement - Combat Sports",
-        "sourceCategory": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 353,
-        "name": "Stretching and flexibility exercises",
-        "category": "Physical and Movement - Individual Physical",
-        "sourceCategory": "Physical and Movement - Individual Physical"
-      },
-      {
-        "id": 341,
-        "name": "Lacrosse and stick sports",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 317,
-        "name": "Tennis and racquet sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 433,
-        "name": "Spatial awareness and body mapping",
-        "category": "Physical and Movement - Motor Skills",
-        "sourceCategory": "Physical and Movement - Motor Skills"
-      },
-      {
-        "id": 333,
-        "name": "Wrestling and grappling",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
+        "id": 321,
+        "name": "Gymnastics and tumbling",
+        "category": "Physical and Movement - Individual Sports"
       },
       {
         "id": 322,
         "name": "Martial arts and self-defense",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
+        "category": "Physical and Movement - Individual Sports"
       },
       {
-        "id": 367,
-        "name": "Survival skills and wilderness play",
-        "category": "Physical and Movement - Outdoor Adventure",
-        "sourceCategory": "Physical and Movement - Outdoor Adventure"
-      },
-      {
-        "id": 340,
-        "name": "Hockey (ice and field)",
-        "category": "Physical and Movement - Team Sports",
-        "sourceCategory": "Physical and Movement - Team Sports"
-      },
-      {
-        "id": 329,
-        "name": "Badminton and shuttlecock games",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
-      },
-      {
-        "id": 413,
-        "name": "Progressive muscle relaxation",
-        "category": "Physical and Movement - Mind-Body Activities",
-        "sourceCategory": "Physical and Movement - Mind-Body Activities"
+        "id": 323,
+        "name": "Cycling and bike riding",
+        "category": "Physical and Movement - Individual Sports"
       },
       {
         "id": 324,
         "name": "Skateboarding and balance sports",
-        "category": "Physical and Movement - Individual Sports",
-        "sourceCategory": "Physical and Movement - Individual Sports"
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 325,
+        "name": "Rock climbing and bouldering",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 326,
+        "name": "Archery and target sports",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 327,
+        "name": "Bowling and precision rolling",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 328,
+        "name": "Table tennis and paddle sports",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 329,
+        "name": "Badminton and shuttlecock games",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 330,
+        "name": "Figure skating and ice activities",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 331,
+        "name": "Surfing and wave sports",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 332,
+        "name": "Skiing and snow sports",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 333,
+        "name": "Wrestling and grappling",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 334,
+        "name": "Boxing and striking sports",
+        "category": "Physical and Movement - Individual Sports"
+      },
+      {
+        "id": 335,
+        "name": "Soccer and football",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 336,
+        "name": "Basketball and hoop games",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 337,
+        "name": "Baseball and softball",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 338,
+        "name": "American football and tackle games",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 339,
+        "name": "Volleyball and net sports",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 340,
+        "name": "Hockey (ice and field)",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 341,
+        "name": "Lacrosse and stick sports",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 342,
+        "name": "Rugby and contact sports",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 343,
+        "name": "Cricket and bat sports",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 344,
+        "name": "Water polo and pool games",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 345,
+        "name": "Ultimate frisbee and disc sports",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 346,
+        "name": "Handball and court games",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 347,
+        "name": "Dodgeball and throwing games",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 348,
+        "name": "Capture the flag and territory games",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 349,
+        "name": "Relay races and team challenges",
+        "category": "Physical and Movement - Team Sports"
+      },
+      {
+        "id": 350,
+        "name": "Running, walking, and locomotion",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 351,
+        "name": "Jumping, hopping, and movement games",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 352,
+        "name": "Climbing and balancing activities",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 353,
+        "name": "Stretching and flexibility exercises",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 354,
+        "name": "Strength activities and resistance play",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 355,
+        "name": "Endurance and cardiovascular games",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 356,
+        "name": "Fine motor skill development",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 357,
+        "name": "Coordination and agility training",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 358,
+        "name": "Dance and rhythmic movement",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 359,
+        "name": "Yoga and mindful movement",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 360,
+        "name": "Calisthenics and bodyweight exercises",
+        "category": "Physical and Movement - Individual Physical"
+      },
+      {
+        "id": 361,
+        "name": "Hiking and nature walks",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 362,
+        "name": "Camping and outdoor living play",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 363,
+        "name": "Orienteering and navigation games",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 364,
+        "name": "Geocaching and treasure hunting",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 365,
+        "name": "Nature observation and wildlife tracking",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 366,
+        "name": "Outdoor obstacle courses",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 367,
+        "name": "Survival skills and wilderness play",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 368,
+        "name": "Fishing and angling activities",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 369,
+        "name": "Hunting simulation games",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 370,
+        "name": "Mountain biking and trail riding",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 371,
+        "name": "Kayaking and paddling sports",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 372,
+        "name": "Sailing and wind sports",
+        "category": "Physical and Movement - Outdoor Adventure"
+      },
+      {
+        "id": 373,
+        "name": "Swimming techniques and strokes",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 374,
+        "name": "Diving and underwater activities",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 375,
+        "name": "Water safety and rescue practice",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 376,
+        "name": "Synchronized swimming and water dance",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 377,
+        "name": "Water skiing and towing sports",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 378,
+        "name": "Snorkeling and underwater exploration",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 379,
+        "name": "Competitive swimming and racing",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 380,
+        "name": "Water aerobics and pool exercises",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 381,
+        "name": "Beach volleyball and sand sports",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 382,
+        "name": "Surfing and wave riding",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 383,
+        "name": "Paddleboarding and balance on water",
+        "category": "Physical and Movement - Aquatic Sports"
+      },
+      {
+        "id": 384,
+        "name": "Skiing (downhill and cross-country)",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 385,
+        "name": "Snowboarding and board sports",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 386,
+        "name": "Ice skating and rink activities",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 387,
+        "name": "Ice hockey and puck sports",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 388,
+        "name": "Sledding and snow sliding",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 389,
+        "name": "Snowshoeing and winter hiking",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 390,
+        "name": "Figure skating and ice dance",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 391,
+        "name": "Curling and precision ice sports",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 392,
+        "name": "Bobsledding and speed sports",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 393,
+        "name": "Snow fort building and winter construction",
+        "category": "Physical and Movement - Winter Sports"
+      },
+      {
+        "id": 394,
+        "name": "Karate and striking arts",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 395,
+        "name": "Judo and throwing arts",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 396,
+        "name": "Taekwondo and kicking arts",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 397,
+        "name": "Brazilian Jiu-Jitsu and ground fighting",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 398,
+        "name": "Boxing and punching sports",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 399,
+        "name": "Wrestling and takedowns",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 400,
+        "name": "Fencing and sword sports",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 401,
+        "name": "Mixed martial arts basics",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 402,
+        "name": "Self-defense and protection skills",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 403,
+        "name": "Aikido and redirecting force",
+        "category": "Physical and Movement - Combat Sports"
+      },
+      {
+        "id": 404,
+        "name": "Yoga poses and sequences",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 405,
+        "name": "Tai Chi and flowing movements",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 406,
+        "name": "Qigong and energy exercises",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 407,
+        "name": "Pilates and core strengthening",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 408,
+        "name": "Meditation and breathing exercises",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 409,
+        "name": "Balance and stability training",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 410,
+        "name": "Body awareness and proprioception",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 411,
+        "name": "Relaxation and tension release",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 412,
+        "name": "Mindful walking and movement",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 413,
+        "name": "Progressive muscle relaxation",
+        "category": "Physical and Movement - Mind-Body Activities"
+      },
+      {
+        "id": 414,
+        "name": "Dance choreography and routines",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 415,
+        "name": "Cheerleading and acrobatic movements",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 416,
+        "name": "Rhythmic gymnastics with props",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 417,
+        "name": "Color guard and flag work",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 418,
+        "name": "Drum line and marching band",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 419,
+        "name": "Synchronized movement activities",
+        "category": "Physical and Movement - Performance Arts"
       },
       {
         "id": 420,
         "name": "Performance stunts and tricks",
-        "category": "Physical and Movement - Performance Arts",
-        "sourceCategory": "Physical and Movement - Performance Arts"
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 421,
+        "name": "Stage movement and blocking",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 422,
+        "name": "Movement storytelling",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 423,
+        "name": "Musical theater and integrated performance",
+        "category": "Physical and Movement - Performance Arts"
+      },
+      {
+        "id": 424,
+        "name": "Fine motor skill development",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 425,
+        "name": "Hand-eye coordination games",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 426,
+        "name": "Gross motor skill practice",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 427,
+        "name": "Bilateral coordination exercises",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 428,
+        "name": "Sensory integration activities",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 429,
+        "name": "Visual-motor skill development",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 430,
+        "name": "Reaction time and quick response games",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 431,
+        "name": "Sequential movement patterns",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 432,
+        "name": "Cross-lateral movement exercises",
+        "category": "Physical and Movement - Motor Skills"
+      },
+      {
+        "id": 433,
+        "name": "Spatial awareness and body mapping",
+        "category": "Physical and Movement - Motor Skills"
       }
     ]
   },
   "queues": {
     "arts": [
-      164,
-      294,
-      215,
-      309,
-      295,
-      268,
-      187,
-      223,
-      262,
-      135,
-      264,
-      181,
-      238,
-      202,
-      274,
-      233,
-      178,
-      137,
-      155,
-      199,
-      129,
-      176,
-      127,
-      141,
-      191,
-      171,
-      231,
-      140,
-      283,
-      159,
-      179,
-      306,
-      172,
-      146,
-      203,
-      303,
-      265,
-      259,
-      134,
-      182,
-      212,
-      275,
-      289,
-      209,
-      234,
-      247,
-      273,
-      253,
-      124,
-      151,
-      144,
-      120,
-      192,
-      219,
-      285,
-      210,
-      207,
-      125,
-      250,
-      272,
       142,
-      236,
-      278,
-      243,
-      156,
-      232,
-      229,
-      169,
-      277,
-      269,
-      218,
-      162,
-      170,
-      167,
-      150,
-      235,
-      311,
-      174,
-      286,
-      190,
-      313,
-      241,
-      193,
-      211,
-      284,
-      195,
-      248,
-      263,
-      239,
-      270,
-      249,
-      282,
-      292,
-      161,
-      177,
-      279,
-      260,
-      198,
-      130,
-      133,
-      165,
-      123,
-      226,
-      119,
-      196,
-      242,
-      221,
-      166,
-      131,
-      186,
-      300,
-      180,
-      149,
-      208,
-      230,
-      163,
-      194,
-      168,
-      307,
-      126,
-      175,
-      254,
-      201,
-      214,
-      257,
-      256,
-      261,
-      266,
-      213,
-      200,
-      267,
-      314,
-      290,
-      237,
-      246,
-      271,
-      276,
-      197,
-      310,
-      245,
-      136,
-      220,
-      244,
-      299,
-      157,
-      224,
-      148,
-      288,
-      143,
       228,
-      147,
-      121,
-      222,
-      315,
-      185,
-      304,
-      173,
-      287,
-      240,
-      183,
-      291,
-      153,
-      296,
-      128,
-      305,
-      252,
-      255,
-      281,
-      204,
-      297,
-      312,
-      225,
-      206,
-      280,
-      160,
-      308,
+      126,
+      156,
+      166,
+      143,
+      169,
+      200,
+      311,
+      292,
+      236,
+      120,
       139,
-      298,
+      136,
+      285,
+      124,
+      212,
+      167,
+      304,
+      247,
+      147,
+      280,
+      257,
+      238,
+      282,
+      218,
+      201,
+      231,
+      234,
+      310,
+      157,
+      171,
+      306,
+      222,
+      137,
+      215,
+      229,
+      177,
+      296,
+      268,
       158,
-      138,
-      154,
-      301,
-      217,
-      132,
-      316,
-      145,
-      205,
-      227,
+      168,
+      237,
+      175,
+      288,
+      225,
+      203,
+      195,
+      284,
+      273,
+      241,
+      305,
+      206,
+      153,
+      159,
+      303,
+      283,
+      240,
       189,
-      152,
-      216,
       188,
+      217,
+      312,
       122,
-      251,
-      258,
+      248,
+      127,
       293,
+      233,
+      125,
+      214,
+      290,
+      182,
+      308,
+      245,
+      243,
+      252,
+      309,
+      173,
+      191,
+      196,
+      198,
+      299,
+      219,
+      199,
+      271,
+      130,
+      138,
+      264,
+      164,
+      301,
+      176,
+      165,
+      253,
+      144,
+      316,
+      211,
+      249,
+      227,
+      242,
+      300,
+      314,
+      266,
+      261,
+      204,
+      186,
+      260,
+      190,
+      197,
+      178,
+      278,
+      286,
+      270,
+      250,
+      274,
+      209,
+      128,
+      121,
+      294,
+      180,
+      131,
+      161,
+      210,
+      254,
+      235,
+      129,
+      221,
+      160,
+      134,
+      281,
+      155,
+      185,
+      192,
+      313,
+      135,
+      216,
+      163,
+      208,
+      140,
+      279,
+      172,
+      148,
+      223,
+      256,
+      262,
+      207,
+      184,
+      150,
+      152,
+      275,
+      119,
+      194,
+      272,
+      149,
+      277,
+      213,
+      251,
+      187,
+      246,
+      255,
+      193,
+      179,
+      224,
+      230,
+      258,
+      133,
       302,
-      184
+      289,
+      145,
+      226,
+      132,
+      162,
+      265,
+      298,
+      276,
+      239,
+      287,
+      267,
+      244,
+      183,
+      170,
+      151,
+      259,
+      269,
+      146,
+      154,
+      307,
+      232,
+      123,
+      181,
+      205,
+      297,
+      141,
+      291,
+      315,
+      174,
+      220,
+      295,
+      263,
+      202
     ],
     "knowledge": [
-      54,
-      74,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
       16,
+      17,
+      18,
+      19,
+      20,
       21,
+      23,
+      24,
+      25,
+      27,
+      41,
+      45,
+      94,
+      55,
+      116,
+      78,
+      101,
+      115,
+      110,
+      79,
+      109,
+      106,
+      92,
+      69,
+      39,
+      68,
+      65,
+      111,
+      59,
       105,
+      108,
+      114,
+      103,
+      34,
+      104,
+      93,
+      81,
+      54,
+      58,
+      32,
+      42,
       107,
-      43,
+      85,
+      88,
+      118,
+      76,
+      49,
+      61,
       75,
+      74,
+      60,
       71,
       99,
-      30,
-      6,
-      13,
-      49,
-      34,
-      109,
-      4,
-      113,
-      40,
-      20,
-      96,
-      102,
-      3,
-      23,
-      2,
-      5,
-      91,
       62,
-      90,
-      29,
-      31,
-      58,
-      116,
-      92,
-      50,
-      67,
-      87,
-      12,
-      57,
-      65,
-      51,
-      25,
-      103,
-      64,
-      36,
-      68,
-      78,
-      85,
-      59,
-      41,
-      1,
-      115,
-      60,
-      72,
-      63,
-      32,
-      83,
-      106,
-      61,
-      112,
-      110,
-      111,
-      9,
       117,
-      66,
-      88,
-      10,
-      79,
-      42,
-      97,
-      84,
-      24,
-      73,
-      53,
-      80,
-      11,
-      52,
-      48,
-      82,
-      108,
-      19,
-      98,
-      69,
-      14,
-      35,
-      8,
-      18,
-      81,
-      114,
-      55,
-      15,
-      76,
-      47,
-      95,
+      113,
+      102,
       44,
-      45,
-      17,
-      93,
-      27,
-      26,
-      86,
-      104,
-      22,
+      29,
+      82,
+      97,
+      72,
       77,
-      33,
-      118,
-      101,
-      7,
-      37,
-      28,
-      89,
-      70,
-      94,
-      38,
-      46,
-      56,
+      53,
+      67,
+      52,
+      57,
+      84,
+      66,
+      51,
+      48,
       100,
-      39
+      33,
+      112,
+      36,
+      89,
+      73,
+      86,
+      30,
+      80,
+      56,
+      63,
+      26,
+      64,
+      46,
+      38,
+      96,
+      47,
+      70,
+      35,
+      31,
+      91,
+      83,
+      37,
+      50,
+      43,
+      90,
+      28,
+      87,
+      22,
+      40,
+      98,
+      95
     ],
     "physical": [
-      323,
-      401,
       350,
-      402,
-      358,
-      384,
+      390,
+      423,
+      401,
+      360,
       407,
+      346,
+      365,
+      410,
+      363,
+      412,
+      372,
+      343,
+      371,
+      433,
+      430,
+      392,
+      421,
+      345,
+      333,
+      356,
+      334,
+      416,
+      354,
+      352,
+      393,
+      408,
+      396,
+      370,
+      395,
+      366,
+      377,
+      378,
+      347,
       319,
       348,
-      339,
-      349,
-      405,
-      331,
-      423,
-      390,
-      364,
-      354,
-      380,
-      414,
-      382,
-      344,
-      361,
-      396,
-      418,
-      403,
-      336,
-      342,
-      332,
-      369,
-      335,
-      325,
-      429,
-      328,
-      321,
-      388,
-      409,
-      368,
-      419,
-      430,
-      345,
-      334,
-      411,
-      383,
-      386,
-      338,
-      327,
-      346,
-      370,
-      379,
-      397,
-      389,
-      363,
-      360,
-      381,
-      431,
-      392,
-      376,
-      356,
-      375,
-      425,
-      385,
-      398,
-      426,
-      422,
       387,
-      410,
-      362,
-      415,
-      393,
-      395,
       355,
-      408,
-      372,
-      391,
-      424,
-      406,
-      400,
-      318,
-      412,
-      320,
-      417,
-      352,
-      432,
-      337,
-      343,
-      365,
-      421,
-      377,
-      374,
-      416,
-      366,
-      428,
-      404,
-      359,
-      371,
-      351,
-      330,
-      373,
-      427,
-      357,
-      347,
-      378,
-      326,
-      394,
-      399,
-      353,
-      341,
-      317,
-      433,
-      333,
-      322,
-      367,
+      386,
+      419,
+      361,
+      362,
+      375,
       340,
-      329,
-      413,
+      388,
+      353,
+      336,
+      357,
+      411,
+      389,
+      399,
+      385,
+      337,
+      318,
+      400,
+      432,
+      369,
+      409,
+      326,
+      417,
+      402,
+      330,
+      342,
+      429,
       324,
-      420
+      379,
+      425,
+      382,
+      339,
+      325,
+      384,
+      394,
+      376,
+      415,
+      398,
+      364,
+      397,
+      335,
+      367,
+      331,
+      424,
+      323,
+      320,
+      404,
+      358,
+      374,
+      329,
+      431,
+      317,
+      328,
+      368,
+      338,
+      422,
+      373,
+      341,
+      414,
+      359,
+      344,
+      391,
+      322,
+      420,
+      380,
+      405,
+      351,
+      403,
+      349,
+      418,
+      383,
+      406,
+      321,
+      428,
+      327,
+      427,
+      413,
+      426,
+      332,
+      381
     ]
   },
   "completed": [],

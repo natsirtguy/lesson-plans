@@ -1,0 +1,2605 @@
+{
+  "total": 433,
+  "batches": 15,
+  "batch_size": 30,
+  "topics": [
+    {
+      "name": "Time and duration (physical cycles, human experience, sequences, measurement)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Patterns and systems (mathematical patterns, natural patterns, social patterns, thinking patterns)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Cause and effect (physical causation, social consequences, logical reasoning)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Change and adaptation (physical changes, human development, evolution, learning)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Energy and movement (physical energy, body movement, social dynamics)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Communication across forms (language, visual symbols, music, body language, information)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Structure and function (how things are built and what they do - bodies, societies, tools, buildings)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Interconnections (ecosystems, social networks, global connections, systems thinking)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Growth and development (biological growth, human development, skill development, societal progress)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Safety and protection (physical safety, emotional safety, environmental protection, social security)",
+      "category": "Cross-Domain Foundational Concepts",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Cell (basic unit of life)",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Animal behaviors and types",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Plant growth and types",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Human body and functions",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Ecosystems and habitats",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Life cycles and development",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Food chains and relationships",
+      "category": "Physical World - Life Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Chemical elements and reactions",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Forces and motion",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Light and sound",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Heat and cold",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "States of matter (water, ice, steam)",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Simple machines",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Fire and combustion",
+      "category": "Physical World - Physical Sciences",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Weather and seasons",
+      "category": "Physical World - Earth & Space",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Rocks and minerals",
+      "category": "Physical World - Earth & Space",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Oceans and rivers",
+      "category": "Physical World - Earth & Space",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Day and night cycles",
+      "category": "Physical World - Earth & Space",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Planets and stars",
+      "category": "Physical World - Earth & Space",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Natural phenomena",
+      "category": "Physical World - Earth & Space",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Different environments (forest, desert, ocean, mountains)",
+      "category": "Physical World - Geography",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Maps and directions",
+      "category": "Physical World - Geography",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Countries and continents",
+      "category": "Physical World - Geography",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Cities and rural areas",
+      "category": "Physical World - Geography",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Climate zones",
+      "category": "Physical World - Geography",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Natural landmarks",
+      "category": "Physical World - Geography",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Human impact on nature",
+      "category": "Physical World - Environmental Science",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Conservation and recycling",
+      "category": "Physical World - Environmental Science",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Clean vs. polluted environments",
+      "category": "Physical World - Environmental Science",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Sustainability basics",
+      "category": "Physical World - Environmental Science",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Emotions and feelings",
+      "category": "Human Experience - Individual",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Senses and perception",
+      "category": "Human Experience - Individual",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Health and nutrition",
+      "category": "Human Experience - Individual",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Sleep and rest",
+      "category": "Human Experience - Individual",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Brain and nervous system",
+      "category": "Human Experience - Individual",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Personal identity",
+      "category": "Human Experience - Individual",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Family and relationships",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Community and helpers",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Rules and cooperation",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Different cultures and peoples",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Government and leadership",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Conflict and resolution",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Laws and fairness",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "How societies develop",
+      "category": "Human Experience - Social",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Stories and literature",
+      "category": "Human Experience - Cultural",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Traditions and celebrations",
+      "category": "Human Experience - Cultural",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Religious and spiritual practices",
+      "category": "Human Experience - Cultural",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Folklore and myths",
+      "category": "Human Experience - Cultural",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Cultural diversity and inclusion",
+      "category": "Human Experience - Cultural",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Work and occupations",
+      "category": "Human Experience - Economic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Money and trade",
+      "category": "Human Experience - Economic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Buying and selling",
+      "category": "Human Experience - Economic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Farming and food production",
+      "category": "Human Experience - Economic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Manufacturing and making things",
+      "category": "Human Experience - Economic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Services and helping others",
+      "category": "Human Experience - Economic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "How languages are structured",
+      "category": "Human Experience - Linguistic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Grammar and word patterns",
+      "category": "Human Experience - Linguistic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Different languages around the world",
+      "category": "Human Experience - Linguistic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "How language develops",
+      "category": "Human Experience - Linguistic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Language and thought",
+      "category": "Human Experience - Linguistic",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Counting and numbers",
+      "category": "Systems and Activities - Mathematical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Shapes and geometry",
+      "category": "Systems and Activities - Mathematical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Size and measurement",
+      "category": "Systems and Activities - Mathematical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Sorting and grouping",
+      "category": "Systems and Activities - Mathematical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Simple calculations",
+      "category": "Systems and Activities - Mathematical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Data and statistics",
+      "category": "Systems and Activities - Mathematical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Simple tools and their uses",
+      "category": "Systems and Activities - Technological",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "How things work",
+      "category": "Systems and Activities - Technological",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Building and construction",
+      "category": "Systems and Activities - Technological",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Transportation methods",
+      "category": "Systems and Activities - Technological",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Basic engineering concepts",
+      "category": "Systems and Activities - Technological",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Computers and machines",
+      "category": "Systems and Activities - Technological",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Sports and physical games",
+      "category": "Systems and Activities - Recreational",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Board games and puzzles",
+      "category": "Systems and Activities - Recreational",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Hobbies and collections",
+      "category": "Systems and Activities - Recreational",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Outdoor activities",
+      "category": "Systems and Activities - Recreational",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Imaginative play",
+      "category": "Systems and Activities - Recreational",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Visual arts and design",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Architecture and building design",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Fashion and clothing",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Theater and drama",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Dance and movement",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Innovation and invention",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Beauty and aesthetics",
+      "category": "Systems and Activities - Creative",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Critical thinking and questioning",
+      "category": "Skills and Development - Cognitive",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Learning how to learn",
+      "category": "Skills and Development - Cognitive",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Memory strategies",
+      "category": "Skills and Development - Cognitive",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Making good decisions",
+      "category": "Skills and Development - Cognitive",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Evaluating information",
+      "category": "Skills and Development - Cognitive",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Creative problem-solving",
+      "category": "Skills and Development - Cognitive",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Body awareness and coordination",
+      "category": "Skills and Development - Physical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Fine and gross motor skills",
+      "category": "Skills and Development - Physical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Sensory exploration (taste, smell, touch, proprioception)",
+      "category": "Skills and Development - Physical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Spatial awareness and navigation",
+      "category": "Skills and Development - Physical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Physical fitness and strength",
+      "category": "Skills and Development - Physical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Balance and movement",
+      "category": "Skills and Development - Physical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Personal hygiene and self-care",
+      "category": "Skills and Development - Practical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Food preparation and cooking",
+      "category": "Skills and Development - Practical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Household tasks and organization",
+      "category": "Skills and Development - Practical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Tool use and maintenance",
+      "category": "Skills and Development - Practical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Finding your way around",
+      "category": "Skills and Development - Practical",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Making and keeping friends",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Understanding others' feelings (empathy)",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Leading and following",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Social rules and manners",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Cooperating and sharing",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Managing emotions",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Perspective-taking",
+      "category": "Skills and Development - Social-Emotional",
+      "queue": "knowledge",
+      "prompt_file": "prompts/knowledge-prompt.md"
+    },
+    {
+      "name": "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Exploration and investigation (physical world discovery, creative materials, social interactions, learning environments)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Repetition and practice (physical skills, creative techniques, social routines, learning exercises)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Communication and expression (physical gestures, creative arts, social conversation, learning sharing)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Problem-solving and experimentation (physical challenges, creative projects, social conflicts, learning puzzles)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Pattern recognition and creation (physical rhythms, creative designs, social sequences, learning systems)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Construction and deconstruction (physical building, creative making, social structures, learning concepts)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Caregiving and nurturing (physical care, creative projects, social relationships, learning mentorship)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Organization and categorization (physical spaces, creative materials, social groups, learning information)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Role-playing and simulation (physical activities, creative performance, social situations, learning scenarios)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Teaching and demonstration (physical skills, creative techniques, social behaviors, learning concepts)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Collection and curation (physical objects, creative works, social memories, learning resources)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Rhythm and timing (physical coordination, creative music, social synchronization, learning sequences)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Collaboration and cooperation (physical teamwork, creative partnerships, social community, learning groups)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Adaptation and modification (physical adjustments, creative improvisation, social flexibility, learning strategies)",
+      "category": "Cross-Domain Foundational Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Drawing, sketching, and scribbling",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Painting with various materials",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Sculpture and 3D art with clay/playdough",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Photography and picture-taking",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Printmaking and stamping",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Pottery and clay work",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Simple jewelry making",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Art installation and display",
+      "category": "Creative and Expressive - Visual Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Singing and vocal play",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Musical instrument exploration",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Song creation and composition",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Dance and movement expression",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Choreography and dance creation",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Acting and character play",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Puppet shows and storytelling",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Simple comedy and jokes",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Circus movements and performance",
+      "category": "Creative and Expressive - Performing Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Creative storytelling and narrative",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Reading and book exploration",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Poetry and rhyming games",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Writing and mark-making",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Script creation for plays",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Public speaking and presentation",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Debate and discussion games",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Language learning and practice",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Letter writing and calligraphy",
+      "category": "Creative and Expressive - Literary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Building with blocks and materials",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Sewing and fabric work (simple)",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Paper crafts and origami",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Electronics and simple circuits",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "3D construction and building",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Model building and miniatures",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Woodworking (child-safe)",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Furniture design with blocks",
+      "category": "Creative and Expressive - Crafts and Making",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Digital art and drawing",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Simple video creation and recording",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Animation with toys and objects",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Basic web design concepts",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Game creation and rule-making",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Digital music and sound creation",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Photo editing and manipulation",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Social media creation (pretend)",
+      "category": "Creative and Expressive - Digital Creation",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Cooking and recipe following",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Baking and measuring activities",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Food styling and presentation",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Taste testing and flavor exploration",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Food photography and documentation",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Cultural cuisine exploration",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Food preservation games",
+      "category": "Creative and Expressive - Culinary Arts",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Conversation and dialogue practice",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Friendship games and activities",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Conflict resolution role-play",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Emotional support and comfort giving",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Mentoring younger children",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Family interaction games",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Caregiving for dolls/stuffed animals",
+      "category": "Social and Cultural - Interpersonal",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Family gathering simulation",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Party planning and hosting",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Group celebrations and ceremonies",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Club and organization activities",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Group meetings and discussions",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Team activities and sports",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Hobby group participation",
+      "category": "Social and Cultural - Group Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Holiday celebrations and traditions",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Cultural craft and art activities",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Traditional games and activities",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Storytelling and oral traditions",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Cultural dance and music",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Language and cultural exchange",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Heritage exploration activities",
+      "category": "Social and Cultural - Cultural Practices",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Helping others and volunteer play",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Environmental care activities",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Community organization games",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Disaster relief for toys/dolls",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Teaching and tutoring play",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Animal care and rescue games",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Community garden and clean-up activities",
+      "category": "Social and Cultural - Community Service",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Public speaking and presentations",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Letter writing and correspondence",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Digital communication practice",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Foreign language conversation",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Sign language and gesture games",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Media creation and sharing",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Interview and journalism play",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Broadcasting and announcement games",
+      "category": "Social and Cultural - Communication",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Instructional games and teaching play",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Workshop facilitation with toys",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Tutoring and coaching activities",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Skill demonstration and modeling",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Knowledge sharing games",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Training simulation activities",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Peer teaching and collaboration",
+      "category": "Social and Cultural - Teaching and Mentoring",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Academic subject exploration",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Class and school simulation",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Workshop and lesson participation",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Skill practice and training",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Test and quiz activities",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Research project games",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Study and homework play",
+      "category": "Learning and Growth - Formal Learning",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Board games and strategy play",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Card games and simple gambling games",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Video games and digital play",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Puzzle solving activities",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Logic games and brain teasers",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Word games and language puzzles",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Math games and number play",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Trivia and knowledge games",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Escape room and mystery solving",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Role-playing games and storytelling",
+      "category": "Learning and Growth - Games and Puzzles",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Science experiments and discovery",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Nature study and observation",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Cultural exploration through play",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Technology experimentation",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Sensory exploration activities",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Historical investigation games",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Geography and mapping activities",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Space and astronomy exploration",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Underwater and marine exploration",
+      "category": "Learning and Growth - Exploration",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Memory games and exercises",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Attention and focus activities",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Critical thinking puzzles",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Creative problem-solving challenges",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Decision-making games",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Speed activities and quick thinking",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Mental math and calculation games",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Logic and reasoning puzzles",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Spatial reasoning activities",
+      "category": "Learning and Growth - Cognitive Challenges",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Information gathering games",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Fact-checking and verification activities",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Survey and data collection play",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Interview and field research simulation",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Library and book exploration",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Documentary creation activities",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Family history and genealogy exploration",
+      "category": "Learning and Growth - Research and Study",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Object collecting and organizing",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Collection display and presentation",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Museum and gallery creation",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Digital organization activities",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Book and media collection",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Art appreciation and curation",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Historical preservation games",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Photography collection and albums",
+      "category": "Learning and Growth - Collecting and Curating",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Cleaning and organizing games",
+      "category": "Practical and Productive - Household Management",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Home decoration and design",
+      "category": "Practical and Productive - Household Management",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Laundry and clothing care practice",
+      "category": "Practical and Productive - Household Management",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Home maintenance simulation",
+      "category": "Practical and Productive - Household Management",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Safety and security activities",
+      "category": "Practical and Productive - Household Management",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Shopping and store play",
+      "category": "Practical and Productive - Economic Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Money counting and budgeting games",
+      "category": "Practical and Productive - Economic Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Business creation and entrepreneurship play",
+      "category": "Practical and Productive - Economic Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Market and sales activities",
+      "category": "Practical and Productive - Economic Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Investment and savings games",
+      "category": "Practical and Productive - Economic Activities",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Job role-play and career exploration",
+      "category": "Practical and Productive - Work and Career",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Interview practice and preparation",
+      "category": "Practical and Productive - Work and Career",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Office and workplace simulation",
+      "category": "Practical and Productive - Work and Career",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Project management games",
+      "category": "Practical and Productive - Work and Career",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Leadership and team activities",
+      "category": "Practical and Productive - Work and Career",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Customer service role-play",
+      "category": "Practical and Productive - Work and Career",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Fix-it activities and repair play",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Tool use and maintenance games",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Restoration and refinishing projects",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Troubleshooting and problem-solving",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Equipment care and maintenance",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Building and infrastructure repair play",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Calendar and schedule making",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Event planning and coordination",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Travel planning and booking simulation",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Resource management games",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Filing and record keeping activities",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Strategic planning and goal setting",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Real estate and house buying play",
+      "category": "Practical and Productive - Planning and Organization",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Emergency preparedness activities",
+      "category": "Practical and Productive - Safety and Security",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "First aid and medical response play",
+      "category": "Practical and Productive - Safety and Security",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Safety rule learning and practice",
+      "category": "Practical and Productive - Safety and Security",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Fire safety and prevention games",
+      "category": "Practical and Productive - Safety and Security",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Water safety instruction",
+      "category": "Practical and Productive - Safety and Security",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Personal protection and safety games",
+      "category": "Practical and Productive - Safety and Security",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Vehicle operation simulation",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Transportation planning games",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Package delivery and shipping play",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Moving and relocation activities",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Route planning and navigation",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Supply management and delivery games",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "queue": "arts",
+      "prompt_file": "prompts/arts-culture-prompt.md"
+    },
+    {
+      "name": "Tennis and racquet sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Golf and putting games",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Track and field (running, jumping, throwing)",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Swimming and water activities",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Gymnastics and tumbling",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Martial arts and self-defense",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Cycling and bike riding",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Skateboarding and balance sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Rock climbing and bouldering",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Archery and target sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Bowling and precision rolling",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Table tennis and paddle sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Badminton and shuttlecock games",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Figure skating and ice activities",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Surfing and wave sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Skiing and snow sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Wrestling and grappling",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Boxing and striking sports",
+      "category": "Physical and Movement - Individual Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Soccer and football",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Basketball and hoop games",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Baseball and softball",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "American football and tackle games",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Volleyball and net sports",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Hockey (ice and field)",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Lacrosse and stick sports",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Rugby and contact sports",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Cricket and bat sports",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Water polo and pool games",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Ultimate frisbee and disc sports",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Handball and court games",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Dodgeball and throwing games",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Capture the flag and territory games",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Relay races and team challenges",
+      "category": "Physical and Movement - Team Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Running, walking, and locomotion",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Jumping, hopping, and movement games",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Climbing and balancing activities",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Stretching and flexibility exercises",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Strength activities and resistance play",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Endurance and cardiovascular games",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Fine motor skill development",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Coordination and agility training",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Dance and rhythmic movement",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Yoga and mindful movement",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Calisthenics and bodyweight exercises",
+      "category": "Physical and Movement - Individual Physical",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Hiking and nature walks",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Camping and outdoor living play",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Orienteering and navigation games",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Geocaching and treasure hunting",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Nature observation and wildlife tracking",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Outdoor obstacle courses",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Survival skills and wilderness play",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Fishing and angling activities",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Hunting simulation games",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Mountain biking and trail riding",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Kayaking and paddling sports",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Sailing and wind sports",
+      "category": "Physical and Movement - Outdoor Adventure",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Swimming techniques and strokes",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Diving and underwater activities",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Water safety and rescue practice",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Synchronized swimming and water dance",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Water skiing and towing sports",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Snorkeling and underwater exploration",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Competitive swimming and racing",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Water aerobics and pool exercises",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Beach volleyball and sand sports",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Surfing and wave riding",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Paddleboarding and balance on water",
+      "category": "Physical and Movement - Aquatic Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Skiing (downhill and cross-country)",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Snowboarding and board sports",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Ice skating and rink activities",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Ice hockey and puck sports",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Sledding and snow sliding",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Snowshoeing and winter hiking",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Figure skating and ice dance",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Curling and precision ice sports",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Bobsledding and speed sports",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Snow fort building and winter construction",
+      "category": "Physical and Movement - Winter Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Karate and striking arts",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Judo and throwing arts",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Taekwondo and kicking arts",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Brazilian Jiu-Jitsu and ground fighting",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Boxing and punching sports",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Wrestling and takedowns",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Fencing and sword sports",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Mixed martial arts basics",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Self-defense and protection skills",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Aikido and redirecting force",
+      "category": "Physical and Movement - Combat Sports",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Yoga poses and sequences",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Tai Chi and flowing movements",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Qigong and energy exercises",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Pilates and core strengthening",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Meditation and breathing exercises",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Balance and stability training",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Body awareness and proprioception",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Relaxation and tension release",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Mindful walking and movement",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Progressive muscle relaxation",
+      "category": "Physical and Movement - Mind-Body Activities",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Dance choreography and routines",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Cheerleading and acrobatic movements",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Rhythmic gymnastics with props",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Color guard and flag work",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Drum line and marching band",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Synchronized movement activities",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Performance stunts and tricks",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Stage movement and blocking",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Movement storytelling",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Musical theater and integrated performance",
+      "category": "Physical and Movement - Performance Arts",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Fine motor skill development",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Hand-eye coordination games",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Gross motor skill practice",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Bilateral coordination exercises",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Sensory integration activities",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Visual-motor skill development",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Reaction time and quick response games",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Sequential movement patterns",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Cross-lateral movement exercises",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    },
+    {
+      "name": "Spatial awareness and body mapping",
+      "category": "Physical and Movement - Motor Skills",
+      "queue": "physical",
+      "prompt_file": "prompts/physical-prompt.md"
+    }
+  ]
+}

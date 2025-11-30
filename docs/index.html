@@ -15,6 +15,9 @@
     <!-- Alpine.js via CDN -->
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
+    <!-- Marked.js for Markdown Rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
     <!-- PWA Manifest -->
     <link rel="manifest" href="manifest.json">
 
@@ -30,6 +33,66 @@
         /* Smooth transitions */
         * {
             transition: background-color 0.15s ease;
+        }
+
+        /* Lesson plan content styling */
+        .lesson-content {
+            line-height: 1.7;
+        }
+
+        .lesson-content h1 {
+            font-size: 1.875rem;
+            font-weight: bold;
+            margin-top: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .lesson-content h2 {
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin-top: 1.5rem;
+            margin-bottom: 0.75rem;
+            color: #1f2937;
+        }
+
+        .lesson-content h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 1rem;
+            margin-bottom: 0.5rem;
+            color: #374151;
+        }
+
+        .lesson-content p {
+            margin-bottom: 0.75rem;
+        }
+
+        .lesson-content ul, .lesson-content ol {
+            margin-left: 1.5rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .lesson-content li {
+            margin-bottom: 0.25rem;
+        }
+
+        .lesson-content strong {
+            font-weight: 600;
+            color: #111827;
+        }
+
+        .lesson-content code {
+            background-color: #f3f4f6;
+            padding: 0.125rem 0.375rem;
+            border-radius: 0.25rem;
+            font-size: 0.875rem;
+        }
+
+        .lesson-content blockquote {
+            border-left: 4px solid #e5e7eb;
+            padding-left: 1rem;
+            margin: 1rem 0;
+            color: #6b7280;
         }
     </style>
 </head>
@@ -114,6 +177,44 @@
 
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto px-4 py-6 pb-20">
+
+        <!-- Lesson Plan View -->
+        <div x-show="currentView === 'lesson'" x-transition style="display: none;">
+            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+                <!-- Back Button -->
+                <button @click="closeLessonPlan()"
+                        class="mb-4 px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch flex items-center">
+                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                    </svg>
+                    Back to Queues
+                </button>
+
+                <!-- Loading State -->
+                <div x-show="lessonLoading" class="text-center py-12">
+                    <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600"></div>
+                    <p class="mt-4 text-gray-600">Loading lesson plan...</p>
+                </div>
+
+                <!-- Error State -->
+                <div x-show="lessonError" class="bg-red-50 border border-red-200 rounded-lg p-4 mb-4">
+                    <p class="text-red-800" x-text="lessonError"></p>
+                </div>
+
+                <!-- Lesson Content -->
+                <div x-show="!lessonLoading && !lessonError" class="lesson-content" x-html="lessonContent"></div>
+
+                <!-- Bottom Back Button -->
+                <button @click="closeLessonPlan()"
+                        x-show="!lessonLoading"
+                        class="mt-6 w-full px-4 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 active:bg-indigo-800 btn-touch font-medium">
+                    ← Back to Queues
+                </button>
+            </div>
+        </div>
+
+        <!-- Queue Selection View -->
+        <div x-show="currentView === 'queues'" style="display: none;">
 
         <!-- Queue Cards -->
         <div class="space-y-6">
@@ -222,6 +323,9 @@
 
         </div>
 
+        </div>
+        <!-- End Queue Selection View -->
+
     </main>
 
     <!-- Alpine.js App Logic -->
@@ -238,6 +342,11 @@
                 },
                 showMenu: false,
                 completedToday: [],
+                currentView: 'queues',
+                lessonContent: '',
+                lessonLoading: false,
+                lessonError: '',
+                currentLessonTopic: null,
 
                 async init() {
                     // Load data from localStorage or initial file
@@ -285,9 +394,15 @@
                     return `${current} of ${total} (Cycle ${this.data.cycles[queueName]})`;
                 },
 
-                selectTopic(queueName) {
+                async selectTopic(queueName) {
                     const topic = this.getCurrentTopic(queueName);
                     if (!topic) return;
+
+                    // Store topic info for lesson plan view
+                    this.currentLessonTopic = { topic, queueName };
+
+                    // Show lesson plan
+                    await this.showLessonPlan(topic.name, queueName);
 
                     // Add to completed log
                     this.data.completed.push({
@@ -310,6 +425,49 @@
 
                     // Show feedback
                     this.showNotification(`✓ Selected: ${topic.name}`, 'success');
+                },
+
+                async showLessonPlan(topicName, queueName) {
+                    this.currentView = 'lesson';
+                    this.lessonLoading = true;
+                    this.lessonError = '';
+                    this.lessonContent = '';
+
+                    // Convert topic name to filename format
+                    const filename = topicName
+                        .toLowerCase()
+                        .replace(/[^\w\s-]/g, '') // Remove special characters
+                        .replace(/\s+/g, '-')      // Replace spaces with hyphens
+                        .replace(/-+/g, '-')       // Replace multiple hyphens with single
+                        .trim();
+
+                    const filepath = `/lessons/${queueName}/${filename}.md`;
+
+                    try {
+                        const response = await fetch(filepath);
+
+                        if (!response.ok) {
+                            throw new Error(`Lesson plan not found (${response.status})`);
+                        }
+
+                        const markdown = await response.text();
+
+                        // Convert markdown to HTML using marked.js
+                        this.lessonContent = marked.parse(markdown);
+                        this.lessonLoading = false;
+
+                    } catch (error) {
+                        console.error('Error loading lesson plan:', error);
+                        this.lessonError = `Could not load lesson plan: ${error.message}`;
+                        this.lessonLoading = false;
+                    }
+                },
+
+                closeLessonPlan() {
+                    this.currentView = 'queues';
+                    this.lessonContent = '';
+                    this.lessonError = '';
+                    this.currentLessonTopic = null;
                 },
 
                 skipTopic(queueName) {
