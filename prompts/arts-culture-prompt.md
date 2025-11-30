@@ -11,7 +11,7 @@ You will receive:
 
 **IMPORTANT**: After generating the lesson plan, you MUST save it to a file:
 1. Create the filename by converting the activity name to lowercase with hyphens (e.g., "Drawing, sketching, and scribbling" → "drawing-sketching-and-scribbling.md")
-2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/lessons/arts/[filename]`
+2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/docs/lessons/arts/[filename]`
 3. Use the Write tool to save the complete lesson plan content
 
 ## Required Output Format

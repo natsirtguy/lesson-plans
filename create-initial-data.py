@@ -80,7 +80,7 @@ def collect_topics_by_queue():
 
 def find_existing_lessons():
     """Find all lesson plan files and map them to topics."""
-    lessons_dir = Path('lessons')
+    lessons_dir = Path('docs/lessons')
     existing = {
         'knowledge': set(),
         'arts': set(),

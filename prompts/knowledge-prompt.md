@@ -11,7 +11,7 @@ You will receive:
 
 **IMPORTANT**: After generating the lesson plan, you MUST save it to a file:
 1. Create the filename by converting the topic name to lowercase with hyphens (e.g., "Weather and seasons" → "weather-and-seasons.md")
-2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/lessons/knowledge/[filename]`
+2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/docs/lessons/knowledge/[filename]`
 3. Use the Write tool to save the complete lesson plan content
 
 ## Required Output Format

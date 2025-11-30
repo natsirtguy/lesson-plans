@@ -481,7 +481,7 @@
                         .replace(/-+/g, '-')       // Replace multiple hyphens with single
                         .trim();
 
-                    const filepath = `/lessons/${queueName}/${filename}.md`;
+                    const filepath = `lessons/${queueName}/${filename}.md`;
 
                     try {
                         const response = await fetch(filepath);

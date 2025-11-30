@@ -11,7 +11,7 @@ You will receive:
 
 **IMPORTANT**: After generating the lesson plan, you MUST save it to a file:
 1. Create the filename by converting the activity name to lowercase with hyphens (e.g., "Running, walking, and locomotion" → "running-walking-and-locomotion.md")
-2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/lessons/physical/[filename]`
+2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/docs/lessons/physical/[filename]`
 3. Use the Write tool to save the complete lesson plan content
 
 ## Required Output Format
