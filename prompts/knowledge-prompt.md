@@ -46,26 +46,28 @@ Select 3-4 vocabulary words that:
 
 **Lyrics** (2 verses, 4-6 lines each):
 
-CRITICAL: Count syllables to match the meter of the chosen tune exactly.
-- For "Twinkle, Twinkle": 7-7-7-7-7-7 syllables (AABB rhyme)
-- For "Row Your Boat": 6-6-6-8 syllables
+CRITICAL: You MUST count syllables VERY carefully to match the tune exactly.
+- Verify each line by counting on your fingers
+- For "Twinkle, Twinkle": Each line must be EXACTLY 7 syllables (e.g., "Twin-kle twin-kle lit-tle star" = 7)
+- For "Row Your Boat": 6-6-6-8 syllables per verse
 - For "Wheels on the Bus": 8-8-12 syllables per verse
+- Double-check your count before writing the final lyrics
 
 *Verse 1*
-[Line 1]
-[Line 2]
-[Line 3]
-[Line 4]
-[Line 5 if applicable]
-[Line 6 if applicable]
+[Line 1 - COUNT SYLLABLES]
+[Line 2 - COUNT SYLLABLES]
+[Line 3 - COUNT SYLLABLES]
+[Line 4 - COUNT SYLLABLES]
+[Line 5 if applicable - COUNT SYLLABLES]
+[Line 6 if applicable - COUNT SYLLABLES]
 
 *Verse 2*
-[Line 1]
-[Line 2]
-[Line 3]
-[Line 4]
-[Line 5 if applicable]
-[Line 6 if applicable]
+[Line 1 - COUNT SYLLABLES]
+[Line 2 - COUNT SYLLABLES]
+[Line 3 - COUNT SYLLABLES]
+[Line 4 - COUNT SYLLABLES]
+[Line 5 if applicable - COUNT SYLLABLES]
+[Line 6 if applicable - COUNT SYLLABLES]
 
 **Actions/Gestures**:
 1. [Simple motion that reinforces concept]
@@ -74,17 +76,18 @@ CRITICAL: Count syllables to match the meter of the chosen tune exactly.
 
 ## 📺 Intro Video Recommendation
 
-**Recommended video**: [If you can find a specific YouTube video URL that's age-appropriate, include it. Otherwise, provide detailed search guidance]
+**Try to find an actual video**: Search YouTube for age-appropriate educational content. If you find a specific video that fits, include the URL. Otherwise, provide detailed search guidance.
 
-**Search terms**: "[Optimized search string for finding 2-5 minute educational videos]"
+**Recommended video**: [YouTube URL if found, or "Search for: [specific search term]"]
 
 **What to look for**:
+- 2-5 minutes long
 - Age-appropriate narration (slow, clear)
 - Visually engaging (bright colors, movement)
 - Safe content (no scary elements)
 - Reinforces vocabulary
 
-**Alternative searches**:
+**Alternative searches** (if URL not found):
 - "[Backup search 1]"
 - "[Backup search 2]"
 
@@ -150,32 +153,7 @@ CRITICAL: Count syllables to match the meter of the chosen tune exactly.
 
 **Repeat play**: [How to keep fresh for multiple sessions]
 
-## 🧠 Skills Developed
-
-### Cognitive
-- [Specific skill]
-- [Specific skill]
-
-### Language
-- [Specific skill]
-- [Specific skill]
-
-### Fine Motor
-- [Specific skill if applicable]
-
-### Social-Emotional
-- [Specific skill]
-- [Specific skill]
-
 ## 📝 Parent/Caregiver Notes
-
-### Key Learning Moments
-- [Observable behavior showing understanding]
-- [Observable behavior showing engagement]
-
-### Conversation Starters
-- "[Open-ended question]"
-- "[Connection to child's experience]"
 
 ### Common Challenges & Solutions
 

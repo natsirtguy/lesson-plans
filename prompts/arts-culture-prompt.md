@@ -138,24 +138,6 @@ You will receive:
 
 **Thematic variations**: [Seasonal/holiday/interest-based adaptations]
 
-## 🧠 Skills Developed
-
-### Motor Skills
-- **Fine motor**: [Specific skills]
-- **Gross motor**: [If applicable]
-
-### Cognitive Skills
-- [Specific skill]
-- [Specific skill]
-
-### Social-Emotional Skills
-- [Specific skill]
-- [Specific skill]
-
-### Creative Skills
-- [Specific skill]
-- [Specific skill]
-
 ## 🌍 Cultural Context
 
 **Cultural significance**: [Why this activity matters in human culture]
@@ -165,14 +147,6 @@ You will receive:
 **Books/Media**: [1-2 specific resources if available]
 
 ## 📝 Parent/Caregiver Notes
-
-### Key Learning Moments
-- [Observable behavior showing engagement]
-- [Observable behavior showing skill development]
-
-### Conversation Starters
-- "[Open-ended question about creation]"
-- "[Question about process/choices]"
 
 ### Common Challenges & Solutions
 
@@ -193,14 +167,6 @@ You will receive:
 - [Display/storage ideas]
 - [Documentation suggestions]
 - [When to let go]
-
-## 🔗 Cross-Domain Connections
-
-**Integrates with**:
-- **Language**: [How this builds communication]
-- **Math/Science**: [Concepts reinforced]
-- **Physical**: [Movement/coordination]
-- **Social-Emotional**: [Relationship to feelings/interactions]
 
 ---
 

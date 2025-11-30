@@ -142,77 +142,7 @@ You will receive:
 
 **Duration**: [Can extend to 15-20 minutes]
 
-## 🔄 Modifications for Different Energy Levels
-
-### High-Energy Days
-[How to channel intense energy]
-- [Adaptation 1]
-- [Adaptation 2]
-
-### Low-Energy Days
-[Gentle version when child is tired]
-- [Adaptation 1]
-- [Adaptation 2]
-
-### Rainy Day / Indoor Adaptation
-[If typically outdoor, how to do indoors]
-- [Space modification]
-- [Equipment substitution]
-- [Safety adjustments]
-
-## 🏋️ Physical Skills Developed
-
-### Gross Motor Skills
-- [Specific skill - e.g., "Running coordination"]
-- [Specific skill - e.g., "Dynamic balance"]
-- [Specific skill - e.g., "Kicking accuracy"]
-
-### Fine Motor Skills (if applicable)
-- [Any small muscle control]
-
-### Balance & Coordination
-- **Static balance**: [Still balance]
-- **Dynamic balance**: [Balance while moving]
-- **Bilateral coordination**: [Both sides together]
-- **Hand-eye coordination**: [If applicable]
-
-### Cardiovascular Fitness
-- **Intensity level**: [Low/Moderate/High aerobic activity]
-- **Endurance building**: [How this builds stamina]
-
-### Spatial Awareness
-- [How child learns where their body is]
-- [Understanding directions]
-- [Estimating distance]
-
-### Strength & Flexibility
-- **Muscle groups**: [Which muscles]
-- **Flexibility benefits**: [Range of motion work]
-
-## 🧘 Additional Developmental Benefits
-
-### Cognitive Skills
-- [How this requires thinking/planning]
-- [Memory or sequencing]
-- [Following multi-step directions]
-
-### Social-Emotional Skills
-- **Confidence**: [How mastering this builds self-esteem]
-- **Risk assessment**: [Safe risk-taking]
-- **Emotional regulation**: [How physical activity helps feelings]
-- **Social skills** (if group): [Cooperation, turn-taking]
-
-### Self-Regulation
-- [How this helps body awareness and control]
-- [Following rules and boundaries]
-- [Managing excitement]
-
 ## 📝 Parent/Caregiver Notes
-
-### Key Developmental Milestones
-- [Observable skill milestone #1]
-- [Observable skill milestone #2]
-- [Observable skill milestone #3]
 
 ### Encouragement & Coaching Tips
 - **What to say**: "[Positive, specific encouragement]"
@@ -242,15 +172,6 @@ You will receive:
 - [Progression over weeks/months]
 
 **When to add challenge**: [Signs they're ready for next level]
-
-## 🔗 Cross-Domain Connections
-
-**Integrates with**:
-- **Math**: [e.g., counting jumps, measuring distance, patterns]
-- **Language**: [e.g., following directions, describing movements, positional words]
-- **Science**: [e.g., force, motion, gravity, body systems]
-
-**Complementary Activities**: [Other physical activities that pair well]
 
 ---
 
