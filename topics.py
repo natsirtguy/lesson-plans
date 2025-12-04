@@ -269,7 +269,7 @@ PHYSICAL_ACTIVITIES = {
     ],
     "Physical and Movement - Combat Sports": [
         "Karate and striking arts", "Judo and throwing arts", "Taekwondo and kicking arts",
-        "Brazilian Jiu-Jitsu and ground fighting", "Boxing and punching sports", "Wrestling and takedowns",
+        "Brazilian Jiu-Jitsu and ground fighting", "Wrestling and takedowns",
         "Fencing and sword sports", "Mixed martial arts basics", "Self-defense and protection skills",
         "Aikido and redirecting force"
     ],

@@ -1,11 +1,7 @@
 ---
 name: physical-lesson-generator
 description: Generates Physical Activities lesson plans for early childhood education (ages 2-3+). Use for topics in the Physical queue.
-tools:
-  - Read
-  - Write
-  - Glob
-  - Grep
+tools: Read, Write, Glob, Grep
 model: haiku
 ---
 

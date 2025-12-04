@@ -1,11 +1,7 @@
 ---
 name: arts-culture-lesson-generator
 description: Generates Arts & Culture lesson plans for early childhood education (ages 2-3+). Use for topics in the Arts queue.
-tools:
-  - Read
-  - Write
-  - Glob
-  - Grep
+tools: Read, Write, Glob, Grep
 model: haiku
 ---
 

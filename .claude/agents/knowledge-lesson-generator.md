@@ -1,11 +1,7 @@
 ---
 name: knowledge-lesson-generator
 description: Generates Knowledge & Skills lesson plans for early childhood education (ages 2-3+). Use for topics in the Knowledge queue.
-tools:
-  - Read
-  - Write
-  - Glob
-  - Grep
+tools: Read, Write, Glob, Grep
 model: haiku
 ---
 
