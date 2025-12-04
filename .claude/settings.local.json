@@ -13,7 +13,6 @@
       "mcp__serena__list_dir",
       "mcp__serena__write_memory",
       "Skill(superpowers:using-superpowers)",
-      "Bash(git push:*)",
       "Bash(ls:*)"
     ]
   }
