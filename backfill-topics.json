@@ -1,5 +1,5 @@
 {
-  "total": 433,
+  "total": 432,
   "batches": 15,
   "batch_size": 30,
   "topics": [
@@ -2381,12 +2381,6 @@
     },
     {
       "name": "Brazilian Jiu-Jitsu and ground fighting",
-      "category": "Physical and Movement - Combat Sports",
-      "queue": "physical",
-      "prompt_file": "prompts/physical-prompt.md"
-    },
-    {
-      "name": "Boxing and punching sports",
       "category": "Physical and Movement - Combat Sports",
       "queue": "physical",
       "prompt_file": "prompts/physical-prompt.md"

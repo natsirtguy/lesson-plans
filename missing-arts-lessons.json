@@ -1,0 +1,263 @@
+{
+  "total_missing": 38,
+  "by_category": {
+    "Cross-Domain Foundational Activities": [
+      "Problem-solving and experimentation (physical challenges, creative projects, social conflicts, learning puzzles)"
+    ],
+    "Creative and Expressive - Crafts and Making": [
+      "Electronics and simple circuits"
+    ],
+    "Creative and Expressive - Digital Creation": [
+      "Basic web design concepts"
+    ],
+    "Creative and Expressive - Culinary Arts": [
+      "Baking and measuring activities",
+      "Taste testing and flavor exploration",
+      "Food photography and documentation",
+      "Cultural cuisine exploration",
+      "Food preservation games"
+    ],
+    "Social and Cultural - Interpersonal": [
+      "Caregiving for dolls/stuffed animals"
+    ],
+    "Social and Cultural - Cultural Practices": [
+      "Heritage exploration activities"
+    ],
+    "Social and Cultural - Communication": [
+      "Letter writing and correspondence"
+    ],
+    "Practical and Productive - Household Management": [
+      "Laundry and clothing care practice",
+      "Home maintenance simulation",
+      "Safety and security activities"
+    ],
+    "Practical and Productive - Economic Activities": [
+      "Market and sales activities",
+      "Investment and savings games"
+    ],
+    "Practical and Productive - Work and Career": [
+      "Interview practice and preparation",
+      "Project management games",
+      "Leadership and team activities",
+      "Customer service role-play"
+    ],
+    "Practical and Productive - Maintenance and Repair": [
+      "Restoration and refinishing projects",
+      "Troubleshooting and problem-solving",
+      "Equipment care and maintenance",
+      "Building and infrastructure repair play"
+    ],
+    "Practical and Productive - Planning and Organization": [
+      "Strategic planning and goal setting",
+      "Real estate and house buying play"
+    ],
+    "Practical and Productive - Safety and Security": [
+      "Emergency preparedness activities",
+      "First aid and medical response play",
+      "Safety rule learning and practice",
+      "Fire safety and prevention games",
+      "Water safety instruction",
+      "Personal protection and safety games"
+    ],
+    "Practical and Productive - Transportation and Logistics": [
+      "Vehicle operation simulation",
+      "Transportation planning games",
+      "Package delivery and shipping play",
+      "Moving and relocation activities",
+      "Route planning and navigation",
+      "Supply management and delivery games"
+    ]
+  },
+  "topics": [
+    {
+      "name": "Problem-solving and experimentation (physical challenges, creative projects, social conflicts, learning puzzles)",
+      "category": "Cross-Domain Foundational Activities",
+      "expected_file": "problem-solving-and-experimentation-physical-challenges-creative-projects-social-conflicts-learning-puzzles.md"
+    },
+    {
+      "name": "Electronics and simple circuits",
+      "category": "Creative and Expressive - Crafts and Making",
+      "expected_file": "electronics-and-simple-circuits.md"
+    },
+    {
+      "name": "Basic web design concepts",
+      "category": "Creative and Expressive - Digital Creation",
+      "expected_file": "basic-web-design-concepts.md"
+    },
+    {
+      "name": "Baking and measuring activities",
+      "category": "Creative and Expressive - Culinary Arts",
+      "expected_file": "baking-and-measuring-activities.md"
+    },
+    {
+      "name": "Taste testing and flavor exploration",
+      "category": "Creative and Expressive - Culinary Arts",
+      "expected_file": "taste-testing-and-flavor-exploration.md"
+    },
+    {
+      "name": "Food photography and documentation",
+      "category": "Creative and Expressive - Culinary Arts",
+      "expected_file": "food-photography-and-documentation.md"
+    },
+    {
+      "name": "Cultural cuisine exploration",
+      "category": "Creative and Expressive - Culinary Arts",
+      "expected_file": "cultural-cuisine-exploration.md"
+    },
+    {
+      "name": "Food preservation games",
+      "category": "Creative and Expressive - Culinary Arts",
+      "expected_file": "food-preservation-games.md"
+    },
+    {
+      "name": "Caregiving for dolls/stuffed animals",
+      "category": "Social and Cultural - Interpersonal",
+      "expected_file": "caregiving-for-dolls-stuffed-animals.md"
+    },
+    {
+      "name": "Heritage exploration activities",
+      "category": "Social and Cultural - Cultural Practices",
+      "expected_file": "heritage-exploration-activities.md"
+    },
+    {
+      "name": "Letter writing and correspondence",
+      "category": "Social and Cultural - Communication",
+      "expected_file": "letter-writing-and-correspondence.md"
+    },
+    {
+      "name": "Laundry and clothing care practice",
+      "category": "Practical and Productive - Household Management",
+      "expected_file": "laundry-and-clothing-care-practice.md"
+    },
+    {
+      "name": "Home maintenance simulation",
+      "category": "Practical and Productive - Household Management",
+      "expected_file": "home-maintenance-simulation.md"
+    },
+    {
+      "name": "Safety and security activities",
+      "category": "Practical and Productive - Household Management",
+      "expected_file": "safety-and-security-activities.md"
+    },
+    {
+      "name": "Market and sales activities",
+      "category": "Practical and Productive - Economic Activities",
+      "expected_file": "market-and-sales-activities.md"
+    },
+    {
+      "name": "Investment and savings games",
+      "category": "Practical and Productive - Economic Activities",
+      "expected_file": "investment-and-savings-games.md"
+    },
+    {
+      "name": "Interview practice and preparation",
+      "category": "Practical and Productive - Work and Career",
+      "expected_file": "interview-practice-and-preparation.md"
+    },
+    {
+      "name": "Project management games",
+      "category": "Practical and Productive - Work and Career",
+      "expected_file": "project-management-games.md"
+    },
+    {
+      "name": "Leadership and team activities",
+      "category": "Practical and Productive - Work and Career",
+      "expected_file": "leadership-and-team-activities.md"
+    },
+    {
+      "name": "Customer service role-play",
+      "category": "Practical and Productive - Work and Career",
+      "expected_file": "customer-service-role-play.md"
+    },
+    {
+      "name": "Restoration and refinishing projects",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "expected_file": "restoration-and-refinishing-projects.md"
+    },
+    {
+      "name": "Troubleshooting and problem-solving",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "expected_file": "troubleshooting-and-problem-solving.md"
+    },
+    {
+      "name": "Equipment care and maintenance",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "expected_file": "equipment-care-and-maintenance.md"
+    },
+    {
+      "name": "Building and infrastructure repair play",
+      "category": "Practical and Productive - Maintenance and Repair",
+      "expected_file": "building-and-infrastructure-repair-play.md"
+    },
+    {
+      "name": "Strategic planning and goal setting",
+      "category": "Practical and Productive - Planning and Organization",
+      "expected_file": "strategic-planning-and-goal-setting.md"
+    },
+    {
+      "name": "Real estate and house buying play",
+      "category": "Practical and Productive - Planning and Organization",
+      "expected_file": "real-estate-and-house-buying-play.md"
+    },
+    {
+      "name": "Emergency preparedness activities",
+      "category": "Practical and Productive - Safety and Security",
+      "expected_file": "emergency-preparedness-activities.md"
+    },
+    {
+      "name": "First aid and medical response play",
+      "category": "Practical and Productive - Safety and Security",
+      "expected_file": "first-aid-and-medical-response-play.md"
+    },
+    {
+      "name": "Safety rule learning and practice",
+      "category": "Practical and Productive - Safety and Security",
+      "expected_file": "safety-rule-learning-and-practice.md"
+    },
+    {
+      "name": "Fire safety and prevention games",
+      "category": "Practical and Productive - Safety and Security",
+      "expected_file": "fire-safety-and-prevention-games.md"
+    },
+    {
+      "name": "Water safety instruction",
+      "category": "Practical and Productive - Safety and Security",
+      "expected_file": "water-safety-instruction.md"
+    },
+    {
+      "name": "Personal protection and safety games",
+      "category": "Practical and Productive - Safety and Security",
+      "expected_file": "personal-protection-and-safety-games.md"
+    },
+    {
+      "name": "Vehicle operation simulation",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "expected_file": "vehicle-operation-simulation.md"
+    },
+    {
+      "name": "Transportation planning games",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "expected_file": "transportation-planning-games.md"
+    },
+    {
+      "name": "Package delivery and shipping play",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "expected_file": "package-delivery-and-shipping-play.md"
+    },
+    {
+      "name": "Moving and relocation activities",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "expected_file": "moving-and-relocation-activities.md"
+    },
+    {
+      "name": "Route planning and navigation",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "expected_file": "route-planning-and-navigation.md"
+    },
+    {
+      "name": "Supply management and delivery games",
+      "category": "Practical and Productive - Transportation and Logistics",
+      "expected_file": "supply-management-and-delivery-games.md"
+    }
+  ]
+}
