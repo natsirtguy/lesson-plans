@@ -157,6 +157,11 @@
                     🔧 Development Queue
                 </button>
 
+                <button @click="randomizeAllQueues(); showMenu = false"
+                        class="w-full px-4 py-3 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 active:bg-indigo-700 btn-touch text-left">
+                    🎲 Randomize All Queues
+                </button>
+
                 <hr class="my-4">
 
                 <button @click="resetAllData(); showMenu = false"
@@ -566,6 +571,21 @@
 
                     console.log(`🔄 Refilled ${queueName} queue (Cycle ${this.data.cycles[queueName]})`);
                     this.showNotification(`🎉 ${queueName.charAt(0).toUpperCase() + queueName.slice(1)} queue completed! Starting new cycle.`, 'success');
+                },
+
+                randomizeAllQueues() {
+                    if (!confirm('🎲 Randomize all three queues?\n\nThis will shuffle the order of all topics in each queue.')) {
+                        return;
+                    }
+
+                    ['arts', 'knowledge', 'physical'].forEach(queueName => {
+                        // Shuffle current queue items (preserves which items are in queue)
+                        const shuffled = [...this.data.queues[queueName]].sort(() => Math.random() - 0.5);
+                        this.data.queues[queueName] = shuffled;
+                    });
+
+                    this.saveData();
+                    this.showNotification('🎲 All queues randomized!', 'success');
                 },
 
                 exportData() {
