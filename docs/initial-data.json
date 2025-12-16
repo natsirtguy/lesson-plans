@@ -2170,6 +2170,15 @@
         "name": "Spatial awareness and body mapping",
         "category": "Physical and Movement - Motor Skills"
       }
+    ],
+    "songs": [
+      {
+        "id": 1001,
+        "name": "Twinkle Twinkle Little Star",
+        "category": "Lullabies",
+        "melody": ["C4 q", "C4 q", "G4 q", "G4 q", "A4 q", "A4 q", "G4 h", "F4 q", "F4 q", "E4 q", "E4 q", "D4 q", "D4 q", "C4 h", "G4 q", "G4 q", "F4 q", "F4 q", "E4 q", "E4 q", "D4 h", "G4 q", "G4 q", "F4 q", "F4 q", "E4 q", "E4 q", "D4 h", "C4 q", "C4 q", "G4 q", "G4 q", "A4 q", "A4 q", "G4 h", "F4 q", "F4 q", "E4 q", "E4 q", "D4 q", "D4 q", "C4 h"],
+        "tempo": 100
+      }
     ]
   },
   "queues": {
@@ -2493,6 +2502,9 @@
       98,
       95
     ],
+    "songs": [
+      1001
+    ],
     "physical": [
       350,
       390,
@@ -2618,7 +2630,8 @@
   "cycles": {
     "arts": 1,
     "knowledge": 1,
-    "physical": 1
+    "physical": 1,
+    "songs": 1
   },
   "version": "1.0"
 }
