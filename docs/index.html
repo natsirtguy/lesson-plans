@@ -18,6 +18,9 @@
     <!-- Marked.js for Markdown Rendering -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
+    <!-- TinyMusic for melody playback -->
+    <script src="https://unpkg.com/tinymusic@latest/TinyMusic.min.js"></script>
+
     <!-- PWA Manifest -->
     <link rel="manifest" href="manifest.json">
 
@@ -160,6 +163,11 @@
                 <button @click="randomizeAllQueues(); showMenu = false"
                         class="w-full px-4 py-3 bg-indigo-500 text-white rounded-lg hover:bg-indigo-600 active:bg-indigo-700 btn-touch text-left">
                     🎲 Randomize All Queues
+                </button>
+
+                <button @click="playTestSong(); showMenu = false"
+                        class="w-full px-4 py-3 bg-orange-500 text-white rounded-lg hover:bg-orange-600 active:bg-orange-700 btn-touch text-left">
+                    🎵 Test: Play Twinkle Twinkle
                 </button>
 
                 <hr class="my-4">
@@ -668,6 +676,60 @@
                     // Simple notification (could be enhanced with a toast library later)
                     console.log(`[${type.toUpperCase()}] ${message}`);
                     // Could add a toast notification here in the future
+                },
+
+                // Audio playback using TinyMusic
+                audioContext: null,
+                currentSequence: null,
+
+                playTestSong() {
+                    // Initialize AudioContext on first user interaction (required by browsers)
+                    if (!this.audioContext) {
+                        this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    }
+
+                    // Stop any currently playing sequence
+                    if (this.currentSequence) {
+                        this.currentSequence.stop();
+                    }
+
+                    // Twinkle Twinkle Little Star melody
+                    // Note format: 'NOTE DURATION' where duration is q=quarter, h=half, w=whole
+                    const twinkleMelody = [
+                        // "Twinkle twinkle little star"
+                        'C4 q', 'C4 q', 'G4 q', 'G4 q', 'A4 q', 'A4 q', 'G4 h',
+                        // "How I wonder what you are"
+                        'F4 q', 'F4 q', 'E4 q', 'E4 q', 'D4 q', 'D4 q', 'C4 h',
+                        // "Up above the world so high"
+                        'G4 q', 'G4 q', 'F4 q', 'F4 q', 'E4 q', 'E4 q', 'D4 h',
+                        // "Like a diamond in the sky"
+                        'G4 q', 'G4 q', 'F4 q', 'F4 q', 'E4 q', 'E4 q', 'D4 h',
+                        // "Twinkle twinkle little star"
+                        'C4 q', 'C4 q', 'G4 q', 'G4 q', 'A4 q', 'A4 q', 'G4 h',
+                        // "How I wonder what you are"
+                        'F4 q', 'F4 q', 'E4 q', 'E4 q', 'D4 q', 'D4 q', 'C4 h'
+                    ];
+
+                    // Create sequence with tempo 120 BPM
+                    this.currentSequence = new TinyMusic.Sequence(this.audioContext, 120, twinkleMelody);
+
+                    // Configure playback
+                    this.currentSequence.loop = false;
+                    this.currentSequence.staccato = 0.1;  // Slight separation between notes
+                    this.currentSequence.gain.gain.value = 0.3;  // Volume (0-1)
+
+                    // Play the melody
+                    this.currentSequence.play();
+                    this.showNotification('🎵 Playing Twinkle Twinkle Little Star...', 'info');
+
+                    console.log('🎵 Playing Twinkle Twinkle Little Star');
+                },
+
+                stopSong() {
+                    if (this.currentSequence) {
+                        this.currentSequence.stop();
+                        this.showNotification('🔇 Stopped playback', 'info');
+                    }
                 }
             };
         }
