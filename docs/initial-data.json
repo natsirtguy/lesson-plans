@@ -2784,177 +2784,564 @@
       {
         "id": 1037,
         "name": "On Top of Spaghetti",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 h", "C4 q", "D4 q",
+          "E4 h", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "C4 h", "C4 q", "D4 q",
+          "E4 h", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 90
       },
       {
         "id": 1038,
         "name": "One Two Buckle My Shoe",
-        "category": "Alphabet & Learning"
+        "category": "Alphabet & Learning",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "E4 q",
+          "D4 q", "C4 q", "D4 h",
+          "E4 q", "F4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "F4 h",
+          "G4 q", "A4 q", "G4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 110
       },
       {
         "id": 1039,
         "name": "Open Shut Them",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "E4 q", "G4 q", "E4 q",
+          "C4 q", "E4 q", "G4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 h", "C4 h",
+          "C4 q", "E4 q", "G4 q", "E4 q",
+          "C4 q", "E4 q", "G4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1040,
         "name": "Pat-a-Cake",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 115
       },
       {
         "id": 1041,
         "name": "Peter Peter Pumpkin Eater",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 h", "C4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1042,
         "name": "Polly Put the Kettle On",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "D4 q", "C4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "D4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "D4 q", "C4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1043,
         "name": "Pop Goes the Weasel",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "E4 q", "E4 q", "F4 q",
+          "G4 q", "G4 q", "E4 h",
+          "C4 q", "E4 q", "E4 q", "D4 q",
+          "C4 h", "C4 h",
+          "C4 q", "E4 q", "E4 q", "F4 q",
+          "G4 h", "E4 h",
+          "A4 q", "G4 q", "F4 q", "E4 q",
+          "D4 q", "C4 q", "C4 h"
+        ],
+        "tempo": 125
       },
       {
         "id": 1044,
         "name": "Rain Rain Go Away",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "E4 q", "C4 q", "E4 q", "C4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "D4 q", "E4 q", "D4 q",
+          "C4 h", "C4 h",
+          "E4 q", "C4 q", "E4 q", "C4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 95
       },
       {
         "id": 1045,
         "name": "Ring Around the Rosie",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "E4 q", "E4 q", "D4 q", "E4 q",
+          "F4 q", "F4 q", "E4 h",
+          "E4 q", "E4 q", "D4 q", "E4 q",
+          "F4 q", "F4 q", "E4 h",
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 h", "E4 h",
+          "D4 q", "C4 q", "C4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1046,
         "name": "Rock-a-Bye Baby",
-        "category": "Lullabies"
+        "category": "Lullabies",
+        "melody": [
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "A4 q", "G4 q", "F4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "E4 q", "D4 q", "C4 h",
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "A4 q", "G4 q", "F4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 75
       },
       {
         "id": 1047,
         "name": "Row Row Row Your Boat",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 h", "C4 h",
+          "C4 q", "D4 q", "E4 h",
+          "E4 q", "D4 q", "E4 q", "F4 q",
+          "G4 w",
+          "C5 e", "C5 e", "C5 e", "G4 e", "G4 e", "G4 e",
+          "E4 e", "E4 e", "E4 e", "C4 e", "C4 e", "C4 e",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1048,
         "name": "She'll Be Coming Round the Mountain",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "C4 q", "C4 q", "E4 q",
+          "G4 h", "G4 h",
+          "G4 q", "G4 q", "E4 q", "G4 q",
+          "A4 h", "G4 h",
+          "G4 q", "G4 q", "F4 q", "F4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 120
       },
       {
         "id": 1049,
         "name": "Simple Simon",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1050,
         "name": "Sing a Song of Sixpence",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "E4 q", "D4 q", "C4 q",
+          "D4 q", "E4 q", "E4 h",
+          "E4 q", "E4 q", "D4 q", "C4 q",
+          "D4 h", "D4 h",
+          "E4 q", "E4 q", "D4 q", "C4 q",
+          "D4 q", "E4 q", "E4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1051,
         "name": "Skinnamarinky Dinky Dink",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "A4 q", "G4 q", "E4 h",
+          "F4 q", "E4 q", "D4 q", "D4 q",
+          "C4 h", "C4 h",
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "A4 q", "G4 q", "E4 h",
+          "D4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1052,
         "name": "Skip to My Lou",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "G4 q", "G4 q", "E4 q", "E4 q",
+          "G4 q", "G4 q", "E4 h",
+          "G4 q", "G4 q", "A4 q", "A4 q",
+          "G4 h", "G4 h",
+          "G4 q", "G4 q", "E4 q", "E4 q",
+          "G4 q", "G4 q", "E4 h",
+          "D4 q", "D4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 115
       },
       {
         "id": 1053,
         "name": "Star Light Star Bright",
-        "category": "Lullabies"
+        "category": "Lullabies",
+        "melody": [
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 80
       },
       {
         "id": 1054,
         "name": "Take Me Out to the Ball Game",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "C4 q", "C4 q", "A4 q",
+          "G4 h", "E4 q",
+          "G4 h", "D4 q",
+          "C4 h", "C4 q",
+          "C4 q", "D4 q", "E4 q",
+          "F4 h", "F4 q",
+          "A4 q", "G4 q", "F4 q",
+          "E4 h", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1055,
         "name": "Teddy Bear Teddy Bear",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "G4 q", "G4 q", "E4 q", "E4 q",
+          "G4 q", "E4 q", "D4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 h", "C4 h",
+          "G4 q", "G4 q", "E4 q", "E4 q",
+          "G4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1056,
         "name": "Ten in the Bed",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "C4 q", "E4 q", "E4 q",
+          "G4 q", "G4 q", "E4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 h", "D4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "D4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1057,
         "name": "The Alphabet Song",
-        "category": "Alphabet & Learning"
+        "category": "Alphabet & Learning",
+        "melody": [
+          "C4 q", "C4 q", "G4 q", "G4 q",
+          "A4 q", "A4 q", "G4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h",
+          "G4 q", "G4 q", "F4 q", "F4 q",
+          "E4 q", "E4 q", "D4 h",
+          "G4 q", "G4 q", "F4 q", "F4 q",
+          "E4 q", "E4 q", "D4 h",
+          "C4 q", "C4 q", "G4 q", "G4 q",
+          "A4 q", "A4 q", "G4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 100
       },
       {
         "id": 1058,
         "name": "The Ants Go Marching",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "A3 q", "A3 q", "A3 q", "A3 q",
+          "A3 q", "C4 q", "E4 h",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "E4 q", "D4 q", "C4 h",
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "A3 q", "G3 q", "A3 q", "B3 q",
+          "C4 h", "C4 h"
+        ],
+        "tempo": 115
       },
       {
         "id": 1059,
         "name": "The Bear Went Over the Mountain",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "C4 q", "C4 q", "C4 q", "E4 q",
+          "G4 h", "G4 h",
+          "E4 q", "D4 q", "E4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "G4 q", "E4 q", "E4 q",
+          "G4 q", "G4 q", "E4 h",
+          "D4 q", "D4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1060,
         "name": "The Farmer in the Dell",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "G4 q", "A4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1061,
         "name": "The Itsy Bitsy Spider",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "G4 e", "C5 q", "C5 e", "C5 q", "D5 e",
+          "E5 q", "E5 e", "E5 q", "D5 e", "C5 q", "D5 e",
+          "E5 q", "C5 q", "C5 h",
+          "E5 q", "E5 e", "E5 q", "F5 e",
+          "G5 h", "G5 h",
+          "G5 q", "F5 e", "E5 q", "F5 e",
+          "E5 q", "C5 q", "C5 h",
+          "G4 e", "G4 e", "C5 q", "C5 e", "C5 q", "D5 e",
+          "E5 q", "E5 e", "E5 q", "D5 e", "C5 q", "D5 e",
+          "E5 q", "C5 q", "C5 h"
+        ],
+        "tempo": 100
       },
       {
         "id": 1062,
         "name": "The More We Get Together",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "E4 h",
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1063,
         "name": "The Muffin Man",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "E4 q", "F4 q", "G4 q",
+          "G4 q", "F4 q", "E4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "E4 q", "E4 q", "F4 q", "G4 q",
+          "G4 q", "F4 q", "E4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1064,
         "name": "The Wheels on the Bus",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "E4 q", "E4 q", "E4 q",
+          "D4 q", "C4 q", "D4 h",
+          "D4 q", "F4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "E4 h",
+          "C4 q", "E4 q", "E4 q", "E4 q",
+          "D4 q", "C4 q", "D4 h",
+          "G4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1065,
         "name": "There Was an Old Woman Who Lived in a Shoe",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1066,
         "name": "This Little Piggy",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 95
       },
       {
         "id": 1067,
         "name": "This Old Man",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "G4 h",
+          "G4 q", "E4 q", "G4 h",
+          "A4 q", "G4 q", "F4 q", "E4 q",
+          "D4 q", "E4 q", "F4 h",
+          "D4 q", "D4 q", "D4 q", "D4 q",
+          "D4 q", "E4 q", "F4 h",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "E4 q", "F4 q", "G4 h",
+          "G4 q", "E4 q", "G4 h",
+          "F4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 115
       },
       {
         "id": 1068,
         "name": "Three Blind Mice",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "D4 q", "C4 h",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "F4 q", "F4 q", "E4 q",
+          "G4 q", "F4 q", "F4 q", "E4 q",
+          "G4 e", "G4 e", "F4 q", "F4 q", "E4 q",
+          "G4 e", "G4 e", "F4 q", "F4 q", "E4 q",
+          "E4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 115
       },
       {
         "id": 1069,
         "name": "Wee Willie Winkie",
-        "category": "Lullabies"
+        "category": "Lullabies",
+        "melody": [
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "E4 q", "G4 q", "G4 q",
+          "A4 q", "G4 q", "G4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "E4 q", "F4 q", "E4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 85
       },
       {
         "id": 1070,
         "name": "Where Is Thumbkin",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "C4 q",
+          "C4 q", "D4 q", "E4 q", "C4 q",
+          "E4 q", "F4 q", "G4 h",
+          "E4 q", "F4 q", "G4 h",
+          "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+          "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+          "C4 q", "G3 q", "C4 h",
+          "C4 q", "G3 q", "C4 h"
+        ],
+        "tempo": 100
       },
       {
         "id": 1071,
         "name": "Yankee Doodle",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "C4 q", "C4 q", "D4 q", "E4 q",
+          "C4 q", "E4 q", "D4 h",
+          "C4 q", "C4 q", "D4 q", "E4 q",
+          "C4 h", "B3 h",
+          "C4 q", "C4 q", "D4 q", "E4 q",
+          "F4 q", "E4 q", "D4 q", "C4 q",
+          "B3 q", "G3 q", "A3 q", "B3 q",
+          "C4 w"
+        ],
+        "tempo": 120
       }
     ]
   },
