@@ -219,6 +219,15 @@
 
                 <!-- Action Buttons -->
                 <div x-show="!lessonLoading" class="mt-6 space-y-3">
+                    <!-- Play Song Button (only for songs queue) -->
+                    <template x-if="currentLessonTopic && currentLessonTopic.queueName === 'songs'">
+                        <button @click="playSongMelody()"
+                                class="w-full px-4 py-3 bg-orange-500 text-white rounded-lg hover:bg-orange-600 active:bg-orange-700 btn-touch font-medium flex items-center justify-center">
+                            <span x-show="!isPlaying">🎵 Play Melody</span>
+                            <span x-show="isPlaying">🔊 Playing... (tap to stop)</span>
+                        </button>
+                    </template>
+
                     <!-- Mark Complete Button -->
                     <button @click="markTopicComplete()"
                             class="w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 active:bg-green-800 btn-touch font-medium">
@@ -348,6 +357,40 @@
                 </template>
             </div>
 
+            <!-- Songs Queue -->
+            <div class="bg-white rounded-xl shadow-lg p-6">
+                <div class="flex justify-between items-center mb-4">
+                    <h2 class="text-xl font-bold text-orange-600">🎵 Songs</h2>
+                    <span class="text-sm text-gray-500" x-text="getQueuePosition('songs')"></span>
+                </div>
+
+                <template x-if="getCurrentTopic('songs')">
+                    <div>
+                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('songs').name"></p>
+                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('songs').category"></p>
+
+                        <div class="grid grid-cols-3 gap-2">
+                            <button @click="selectTopic('songs')"
+                                    class="py-3 px-2 bg-orange-500 text-white rounded-lg hover:bg-orange-600 active:bg-orange-700 btn-touch text-sm font-medium">
+                                ✓ Select
+                            </button>
+                            <button @click="skipTopic('songs')"
+                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                ⏭️ Skip
+                            </button>
+                            <button @click="flagForDevelopment('songs')"
+                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                🔧 Fix
+                            </button>
+                        </div>
+                    </div>
+                </template>
+
+                <template x-if="!getCurrentTopic('songs')">
+                    <p class="text-gray-500 italic">Queue empty - refilling...</p>
+                </template>
+            </div>
+
         </div>
 
         </div>
@@ -360,11 +403,11 @@
         function lessonPlanApp() {
             return {
                 data: {
-                    masterLists: { arts: [], knowledge: [], physical: [] },
-                    queues: { arts: [], knowledge: [], physical: [] },
+                    masterLists: { arts: [], knowledge: [], physical: [], songs: [] },
+                    queues: { arts: [], knowledge: [], physical: [], songs: [] },
                     completed: [],
                     development: [],
-                    cycles: { arts: 1, knowledge: 1, physical: 1 },
+                    cycles: { arts: 1, knowledge: 1, physical: 1, songs: 1 },
                     version: '1.0'
                 },
                 showMenu: false,
@@ -374,6 +417,7 @@
                 lessonLoading: false,
                 lessonError: '',
                 currentLessonTopic: null,
+                isPlaying: false,
 
                 async init() {
                     // Load data from localStorage or initial file
@@ -582,11 +626,11 @@
                 },
 
                 randomizeAllQueues() {
-                    if (!confirm('🎲 Randomize all three queues?\n\nThis will shuffle the order of all topics in each queue.')) {
+                    if (!confirm('🎲 Randomize all four queues?\n\nThis will shuffle the order of all topics in each queue.')) {
                         return;
                     }
 
-                    ['arts', 'knowledge', 'physical'].forEach(queueName => {
+                    ['arts', 'knowledge', 'physical', 'songs'].forEach(queueName => {
                         // Shuffle current queue items (preserves which items are in queue)
                         const shuffled = [...this.data.queues[queueName]].sort(() => Math.random() - 0.5);
                         this.data.queues[queueName] = shuffled;
@@ -728,8 +772,69 @@
                 stopSong() {
                     if (this.currentSequence) {
                         this.currentSequence.stop();
+                        this.isPlaying = false;
                         this.showNotification('🔇 Stopped playback', 'info');
                     }
+                },
+
+                playSongMelody() {
+                    // If already playing, stop
+                    if (this.isPlaying) {
+                        this.stopSong();
+                        return;
+                    }
+
+                    // Get the current song's melody data
+                    if (!this.currentLessonTopic || this.currentLessonTopic.queueName !== 'songs') {
+                        console.log('Not a song');
+                        return;
+                    }
+
+                    const topic = this.currentLessonTopic.topic;
+                    if (!topic.melody || !topic.melody.length) {
+                        this.showNotification('No melody data for this song', 'warning');
+                        return;
+                    }
+
+                    // Initialize AudioContext on first user interaction
+                    if (!this.audioContext) {
+                        this.audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    }
+
+                    // Stop any currently playing sequence
+                    if (this.currentSequence) {
+                        this.currentSequence.stop();
+                    }
+
+                    // Create sequence with the song's tempo (default to 100 BPM)
+                    const tempo = topic.tempo || 100;
+                    this.currentSequence = new TinyMusic.Sequence(this.audioContext, tempo, topic.melody);
+
+                    // Configure playback
+                    this.currentSequence.loop = false;
+                    this.currentSequence.staccato = 0.1;
+                    this.currentSequence.gain.gain.value = 0.3;
+
+                    // Play the melody
+                    this.isPlaying = true;
+                    this.currentSequence.play();
+                    this.showNotification(`🎵 Playing ${topic.name}...`, 'info');
+
+                    // Calculate duration and auto-stop isPlaying flag
+                    // Rough estimate: each quarter note at 100 BPM = 0.6 seconds
+                    const noteDurations = { 'w': 4, 'h': 2, 'q': 1, 'e': 0.5 };
+                    let totalBeats = 0;
+                    topic.melody.forEach(note => {
+                        const duration = note.split(' ')[1] || 'q';
+                        totalBeats += noteDurations[duration] || 1;
+                    });
+                    const durationMs = (totalBeats * 60 / tempo) * 1000 + 500; // Add buffer
+
+                    setTimeout(() => {
+                        this.isPlaying = false;
+                    }, durationMs);
+
+                    console.log(`🎵 Playing ${topic.name} (${topic.melody.length} notes, ~${Math.round(durationMs/1000)}s)`);
                 }
             };
         }
