@@ -2225,177 +2225,561 @@
       {
         "id": 1002,
         "name": "A Tisket A Tasket",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "G4 q", "E4 q",
+          "G4 q", "G4 q", "E4 h",
+          "F4 q", "D4 q", "F4 q", "D4 q",
+          "F4 q", "F4 q", "D4 h",
+          "E4 q", "E4 q", "F4 q", "G4 q",
+          "A4 q", "A4 q", "G4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 120
       },
       {
         "id": 1003,
         "name": "Apples and Bananas",
-        "category": "Alphabet & Learning"
+        "category": "Alphabet & Learning",
+        "melody": [
+          "C4 q", "C4 q", "C4 q", "C4 q",
+          "D4 q", "E4 q", "E4 h",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "F4 q", "G4 q", "G4 h",
+          "G4 q", "G4 q", "F4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 110
       },
       {
         "id": 1004,
         "name": "Baa Baa Black Sheep",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "C4 q", "G4 q", "G4 q",
+          "A4 q", "A4 q", "G4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h",
+          "G4 q", "G4 q", "F4 q", "F4 q",
+          "E4 q", "E4 q", "D4 h",
+          "G4 q", "G4 q", "F4 q", "F4 q",
+          "E4 q", "E4 q", "D4 h",
+          "C4 q", "C4 q", "G4 q", "G4 q",
+          "A4 q", "A4 q", "G4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 100
       },
       {
         "id": 1005,
         "name": "Baby Shark",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 e", "D4 e", "E4 e", "E4 e", "E4 e", "E4 e",
+          "E4 e", "E4 e", "E4 e", "E4 e", "E4 e", "E4 q",
+          "C4 e", "D4 e", "E4 e", "E4 e", "E4 e", "E4 e",
+          "E4 e", "E4 e", "E4 e", "E4 e", "E4 e", "E4 q",
+          "C4 e", "D4 e", "E4 e", "E4 e", "E4 e", "E4 e",
+          "E4 e", "E4 e", "E4 e", "E4 e", "E4 e", "E4 q",
+          "E4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 115
       },
       {
         "id": 1006,
         "name": "B-I-N-G-O",
-        "category": "Alphabet & Learning"
+        "category": "Alphabet & Learning",
+        "melody": [
+          "G4 q", "C5 q", "C5 q", "C5 q",
+          "A4 q", "B4 q", "C5 h",
+          "A4 q", "G4 q", "G4 q", "A4 q",
+          "B4 q", "B4 q", "G4 h",
+          "G4 q", "G4 q", "A4 q", "B4 q",
+          "C5 q", "C5 q", "A4 h",
+          "D5 q", "D5 q", "C5 q", "B4 q",
+          "A4 q", "G4 q", "G4 h"
+        ],
+        "tempo": 120
       },
       {
         "id": 1007,
         "name": "Clementine",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "E4 q", "E4 q", "E4 q", "G4 q",
+          "G4 q", "G4 q", "E4 h",
+          "E4 q", "G4 q", "C5 q", "C5 q",
+          "B4 q", "A4 q", "G4 h",
+          "A4 q", "A4 q", "A4 q", "A4 q",
+          "A4 q", "G4 q", "F4 h",
+          "F4 q", "E4 q", "D4 q", "D4 q",
+          "D4 q", "E4 q", "C4 h"
+        ],
+        "tempo": 90
       },
       {
         "id": 1008,
         "name": "Do Your Ears Hang Low",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "E4 q", "G4 q", "A4 h",
+          "G4 q", "E4 q", "G4 q", "E4 q",
+          "C4 q", "E4 q", "D4 h",
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "E4 q", "G4 q", "A4 h",
+          "G4 q", "E4 q", "D4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 130
       },
       {
         "id": 1009,
         "name": "Down by the Bay",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "G4 q", "A4 q", "G4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "C4 q", "E4 q", "G4 q", "G4 q",
+          "G4 q", "A4 q", "G4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1010,
         "name": "Five Little Ducks",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "A4 q", "A4 q", "G4 h",
+          "A4 q", "A4 q", "G4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h"
+        ],
+        "tempo": 110
       },
       {
         "id": 1011,
         "name": "Five Little Monkeys",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "E4 q", "E4 q", "E4 h",
+          "D4 q", "D4 q", "D4 q", "D4 q",
+          "E4 q", "D4 q", "C4 h",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "E4 q", "F4 q", "G4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 120
       },
       {
         "id": 1012,
         "name": "Five Little Pumpkins",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "E4 q", "E4 q", "E4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "D4 q", "D4 q", "E4 q", "D4 q",
+          "C4 h", "C4 h",
+          "E4 q", "E4 q", "E4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "D4 q", "D4 q", "C4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1013,
         "name": "Five Little Speckled Frogs",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "E4 q", "E4 q", "E4 q", "E4 q", "E4 q", "D4 q",
+          "C4 q", "C4 q", "C4 h",
+          "D4 q", "D4 q", "D4 q", "D4 q",
+          "E4 q", "D4 q", "C4 h",
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1014,
         "name": "Frere Jacques",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "C4 q",
+          "C4 q", "D4 q", "E4 q", "C4 q",
+          "E4 q", "F4 q", "G4 h",
+          "E4 q", "F4 q", "G4 h",
+          "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+          "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+          "C4 q", "G3 q", "C4 h",
+          "C4 q", "G3 q", "C4 h"
+        ],
+        "tempo": 100
       },
       {
         "id": 1015,
         "name": "Georgie Porgie",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 h", "C4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1016,
         "name": "Happy Birthday",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 e", "G4 e", "A4 q", "G4 q",
+          "C5 q", "B4 h",
+          "G4 e", "G4 e", "A4 q", "G4 q",
+          "D5 q", "C5 h",
+          "G4 e", "G4 e", "G5 q", "E5 q",
+          "C5 q", "B4 q", "A4 h",
+          "F5 e", "F5 e", "E5 q", "C5 q",
+          "D5 q", "C5 h"
+        ],
+        "tempo": 95
       },
       {
         "id": 1017,
         "name": "Head Shoulders Knees and Toes",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "C4 q", "E4 q", "E4 q",
+          "G4 q", "G4 q", "E4 h",
+          "F4 q", "F4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "C4 h",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "F4 q", "F4 q", "E4 h",
+          "D4 q", "D4 q", "D4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 120
       },
       {
         "id": 1018,
         "name": "Here We Go Looby Loo",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "D4 q", "E4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 115
       },
       {
         "id": 1019,
         "name": "Here We Go Round the Mulberry Bush",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "E4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1020,
         "name": "Hey Diddle Diddle",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "G4 q", "A4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "E4 q", "F4 q", "E4 q",
+          "D4 q", "C4 q", "C4 h",
+          "G4 q", "G4 q", "A4 q", "G4 q",
+          "F4 q", "E4 q", "D4 h",
+          "E4 q", "F4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1021,
         "name": "Hickory Dickory Dock",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "G4 q", "A4 q", "G4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "C5 q", "C5 q", "C5 h",
+          "G4 q", "G4 q", "G4 h",
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 w"
+        ],
+        "tempo": 95
       },
       {
         "id": 1022,
         "name": "Home on the Range",
-        "category": "Folk & Traditional"
+        "category": "Folk & Traditional",
+        "melody": [
+          "C4 q", "C4 q", "E4 q", "G4 q",
+          "G4 q", "A4 q", "G4 h",
+          "E4 q", "E4 q", "G4 q", "E4 q",
+          "D4 h", "D4 h",
+          "D4 q", "D4 q", "F4 q", "A4 q",
+          "A4 q", "B4 q", "A4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 80
       },
       {
         "id": 1023,
         "name": "Humpty Dumpty",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 q", "E4 q", "E4 h",
+          "D4 q", "D4 q", "D4 h",
+          "E4 q", "G4 q", "G4 h",
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1024,
         "name": "Hush Little Baby",
-        "category": "Lullabies"
+        "category": "Lullabies",
+        "melody": [
+          "C4 q", "C4 q", "D4 q", "E4 q",
+          "E4 q", "D4 q", "E4 h",
+          "F4 q", "E4 q", "D4 q", "C4 q",
+          "D4 h", "D4 h",
+          "C4 q", "C4 q", "D4 q", "E4 q",
+          "E4 q", "D4 q", "E4 h",
+          "F4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 85
       },
       {
         "id": 1025,
         "name": "If You're Happy and You Know It",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "C4 q", "C4 q", "E4 q",
+          "E4 q", "E4 q", "G4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 h", "C4 h",
+          "D4 q", "D4 q", "D4 q", "F4 q",
+          "F4 q", "F4 q", "A4 h",
+          "A4 q", "G4 q", "F4 q", "E4 q",
+          "D4 q", "C4 q", "C4 h"
+        ],
+        "tempo": 120
       },
       {
         "id": 1026,
         "name": "I'm a Little Teapot",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "E4 q", "E4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "C5 q", "B4 q", "A4 q", "G4 q",
+          "F4 h", "F4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1027,
         "name": "It's Raining It's Pouring",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "E4 q", "E4 q", "D4 q", "C4 q",
+          "D4 q", "E4 q", "E4 h",
+          "E4 q", "E4 q", "D4 q", "C4 q",
+          "D4 h", "D4 h",
+          "E4 q", "E4 q", "D4 q", "C4 q",
+          "D4 q", "E4 q", "E4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 95
       },
       {
         "id": 1028,
         "name": "Jack and Jill",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "A4 q", "G4 q", "F4 q", "E4 q",
+          "D4 h", "D4 h",
+          "E4 q", "F4 q", "E4 q", "D4 q",
+          "C4 h", "C4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 105
       },
       {
         "id": 1029,
         "name": "John Jacob Jingleheimer Schmidt",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "C4 q", "E4 q", "G4 q",
+          "G4 q", "G4 q", "E4 h",
+          "F4 q", "F4 q", "A4 q", "A4 q",
+          "G4 h", "G4 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "F4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 130
       },
       {
         "id": 1030,
         "name": "Little Bo Peep",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "E4 q", "D4 h",
+          "C4 q", "D4 q", "E4 q", "F4 q",
+          "G4 h", "G4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "E4 q", "D4 h",
+          "C4 q", "D4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1031,
         "name": "Little Jack Horner",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 q", "E4 q", "E4 h",
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 h", "E4 h",
+          "G4 q", "F4 q", "E4 q", "D4 q",
+          "C4 q", "D4 q", "E4 h",
+          "E4 q", "D4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1032,
         "name": "Little Miss Muffet",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "F4 q", "F4 q",
+          "E4 q", "D4 q", "C4 h",
+          "G4 q", "E4 q", "E4 q", "G4 q",
+          "E4 q", "C4 q", "D4 h",
+          "D4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 100
       },
       {
         "id": 1033,
         "name": "London Bridge Is Falling Down",
-        "category": "Action Songs"
+        "category": "Action Songs",
+        "melody": [
+          "G4 q", "A4 q", "G4 q", "F4 q",
+          "E4 q", "F4 q", "G4 h",
+          "D4 q", "E4 q", "F4 h",
+          "E4 q", "F4 q", "G4 h",
+          "G4 q", "A4 q", "G4 q", "F4 q",
+          "E4 q", "F4 q", "G4 h",
+          "D4 h", "G4 q", "E4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1034,
         "name": "Mary Had a Little Lamb",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 q", "E4 q", "E4 h",
+          "D4 q", "D4 q", "D4 h",
+          "E4 q", "G4 q", "G4 h",
+          "E4 q", "D4 q", "C4 q", "D4 q",
+          "E4 q", "E4 q", "E4 q", "E4 q",
+          "D4 q", "D4 q", "E4 q", "D4 q",
+          "C4 w"
+        ],
+        "tempo": 110
       },
       {
         "id": 1035,
         "name": "Oh Where Has My Little Dog Gone",
-        "category": "Nursery Rhymes"
+        "category": "Nursery Rhymes",
+        "melody": [
+          "C4 q", "C4 q", "E4 q", "G4 q",
+          "G4 q", "A4 q", "G4 h",
+          "F4 q", "E4 q", "D4 q", "C4 q",
+          "D4 h", "D4 h",
+          "C4 q", "C4 q", "E4 q", "G4 q",
+          "G4 q", "A4 q", "G4 h",
+          "F4 q", "E4 q", "D4 q", "C4 q",
+          "C4 w"
+        ],
+        "tempo": 95
       },
       {
         "id": 1036,
         "name": "Old MacDonald Had a Farm",
-        "category": "Nature & Animal Songs"
+        "category": "Nature & Animal Songs",
+        "melody": [
+          "C4 q", "C4 q", "C4 q", "G3 q",
+          "A3 q", "A3 q", "G3 h",
+          "E4 q", "E4 q", "D4 q", "D4 q",
+          "C4 h", "C4 h",
+          "G4 q", "C4 q", "C4 q", "C4 q",
+          "G4 q", "C4 q", "C4 h",
+          "G4 e", "G4 e", "C4 q", "C4 e", "C4 e", "C4 q",
+          "G4 q", "G4 q", "C4 h"
+        ],
+        "tempo": 115
       },
       {
         "id": 1037,
