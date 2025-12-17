@@ -16,30 +16,38 @@ You will receive:
 
 ## Your Task
 
-1. **Search for authentic melody sources** using queries like:
-   - `"[song name]" ABC notation`
-   - `"[song name]" sheet music melody`
-   - `"[song name]" traditional melody notes`
-   - Site-specific: `site:abcnotation.com "[song name]"`
+1. **Search for authentic melody sources** - try these queries in order:
+   - First: `site:abcnotation.com "[song name]"` (best for ABC notation)
+   - Then: `"[song name]" piano notes easy` (piano tutorial sites have note sequences)
+   - Backup: `"[song name]" sheet music melody notes`
 
-2. **Evaluate source reliability** - prefer:
-   - Folk song archives (abcnotation.com, folkinfo.org)
-   - Music education sites
-   - Sheet music databases (mutopia, IMSLP for public domain)
-   - Avoid: random blogs, AI-generated content, user arrangements
+2. **High-value sites** (check these first):
+   - **abcnotation.com** - ABC notation archive, ideal format
+   - **thesession.org** - traditional tunes database
+   - **makingmusicfun.net** - children's sheet music with note names
+   - **bethsnotesplus.com** - letter notes for songs
+   - Piano tutorial sites: zebrakeys.com, piano-keyboard-guide.com
 
-3. **Extract the melody** - focus on:
+3. **Sites to SKIP** (waste time, rarely useful):
+   - Wikipedia (no notation)
+   - YouTube (videos, not notation)
+   - Spotify, Apple Music (streaming only)
+   - Generic lyrics sites
+   - Sites requiring login/payment
+   - Pinterest, social media
+
+5. **Extract the melody** - focus on:
    - The main vocal melody line only (not harmony/accompaniment)
    - The most common/traditional version
    - First verse melody (usually repeats for other verses)
 
-4. **Convert to project format**:
+6. **Convert to project format**:
    - Notes: `C4`, `D4`, `E4`, `F4`, `G4`, `A4`, `B4`, `C5`, `D5`, etc.
    - Durations: `w` (whole), `h` (half), `q` (quarter), `e` (eighth), `s` (sixteenth)
    - Format: `"[Note][Octave] [Duration]"` e.g., `"C4 q"`, `"G4 h"`
    - Most children's songs are in C major or G major - transpose if needed
 
-5. **Determine appropriate tempo** (BPM):
+7. **Determine appropriate tempo** (BPM):
    - Lullabies: 60-80
    - Nursery rhymes: 90-110
    - Action songs: 110-130
