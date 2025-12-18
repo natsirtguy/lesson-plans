@@ -1,0 +1,17 @@
+{
+  "id": 1014,
+  "name": "Frere Jacques",
+  "melody": [
+    "C4 q", "D4 q", "E4 q", "C4 q",
+    "C4 q", "D4 q", "E4 q", "C4 q",
+    "E4 q", "F4 q", "G4 h",
+    "E4 q", "F4 q", "G4 h",
+    "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+    "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+    "C4 q", "G3 q", "C4 h",
+    "C4 q", "G3 q", "C4 h"
+  ],
+  "tempo": 100,
+  "source": "http://abcnotation.com/tunePage?a=back.numachi.com%3A8000%2Fdtrad%2Fabc_dtrad.tar.gz%2Fabc_dtrad%2FFRERJACQ%2F0000 (Digital Tradition ABC notation)",
+  "notes": "Traditional French children's song (also known as 'Brother John' or 'Are You Sleeping'). In key of C major. The melody follows the famous round pattern: 'Frere Jacques, Frere Jacques, Dormez-vous? Dormez-vous? Sonnez les matines, Sonnez les matines, Ding dang dong, Ding dang dong.' The fifth and sixth phrases use eighth notes for the bell-ringing motif. This is the complete traditional melody, perfect for teaching rounds to children."
+}
