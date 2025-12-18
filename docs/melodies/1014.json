@@ -1,0 +1,17 @@
+{
+  "id": 1014,
+  "name": "Frere Jacques",
+  "melody": [
+    "C4 q", "D4 q", "E4 q", "C4 q",
+    "C4 q", "D4 q", "E4 q", "C4 q",
+    "E4 q", "F4 q", "G4 h",
+    "E4 q", "F4 q", "G4 h",
+    "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+    "G4 e", "A4 e", "G4 e", "F4 e", "E4 q", "C4 q",
+    "C4 q", "G3 q", "C4 h",
+    "C4 q", "G3 q", "C4 h"
+  ],
+  "tempo": 100,
+  "source": "https://abcnotation.com/tunePage?a=back.numachi.com%3A8000%2Fdtrad%2Fabc_dtrad.tar.gz%2Fabc_dtrad%2FFRERJACQ%2F0000",
+  "notes": "Traditional French nursery rhyme (also known as 'Are You Sleeping?' or 'Brother John'). ABC notation from Digital Tradition archive, transposed to comfortable children's range starting on middle C. The song is in 4/4 time in C major and is traditionally sung as a round/canon. Melody structure: 4 phrases of 8 measures - phrase 1&2 are identical stepwise patterns, phrase 3 repeats with ascending pattern to G, phrase 4 has descending scale-like eighth notes, phrase 5 resolves back to C."
+}
