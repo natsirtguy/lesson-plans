@@ -16,42 +16,52 @@ You will receive:
 
 ## Your Task
 
-1. **Search for authentic melody sources** - try these queries in order:
-   - First: `site:abcnotation.com "[song name]"` (best for ABC notation)
-   - Then: `"[song name]" piano notes easy` (piano tutorial sites have note sequences)
-   - Backup: `"[song name]" sheet music melody notes`
+### IMPORTANT: WebFetch Limitation
+**Most music sites block WebFetch with 403 errors.** Do NOT waste attempts on WebFetch - it will fail. Instead:
+- Extract melody info directly from **WebSearch result snippets** (they often include the notes!)
+- Use your knowledge of common children's songs to verify accuracy
+- Only try WebFetch on sites known to work (noobnotes.net sometimes works)
 
-2. **High-value sites** (check these first):
-   - **abcnotation.com** - ABC notation archive, ideal format
-   - **thesession.org** - traditional tunes database
-   - **makingmusicfun.net** - children's sheet music with note names
-   - **bethsnotesplus.com** - letter notes for songs
-   - Piano tutorial sites: zebrakeys.com, piano-keyboard-guide.com
+### Step 1: Search for melody information
+Use WebSearch with these queries (in order):
+- `"[song name]" letter notes piano easy` (often shows notes in snippet)
+- `"[song name]" melody notes C D E F G` (explicit note sequences)
+- `"[song name]" ABC notation` (for ABC format in snippets)
 
-3. **Sites to SKIP** (waste time, rarely useful):
-   - Wikipedia (no notation)
-   - YouTube (videos, not notation)
-   - Spotify, Apple Music (streaming only)
-   - Generic lyrics sites
-   - Sites requiring login/payment
-   - Pinterest, social media
+### Step 2: Extract from search results
+WebSearch snippets often contain the actual notes! Look for:
+- Letter note sequences like "C D E F G A B" or "do re mi"
+- ABC notation snippets like "CDEC CDEC EFG"
+- Key signatures (C major, G major, F major)
 
-5. **Extract the melody** - focus on:
-   - The main vocal melody line only (not harmony/accompaniment)
-   - The most common/traditional version
-   - First verse melody (usually repeats for other verses)
+### Step 3: Sites to reference (but don't WebFetch)
+These sites appear in search results with useful snippets:
+- **noobnotes.net** - letter notes in snippets (sometimes fetchable)
+- **bethsnotesplus.com** - often shows notes in search preview
+- **abcnotation.com** - ABC notation in search results
 
-6. **Convert to project format**:
-   - Notes: `C4`, `D4`, `E4`, `F4`, `G4`, `A4`, `B4`, `C5`, `D5`, etc.
-   - Durations: `w` (whole), `h` (half), `q` (quarter), `e` (eighth), `s` (sixteenth)
-   - Format: `"[Note][Octave] [Duration]"` e.g., `"C4 q"`, `"G4 h"`
-   - Most children's songs are in C major or G major - transpose if needed
+### Sites to SKIP in searches:
+- Wikipedia (no notation)
+- YouTube (videos, not notation)
+- Spotify, Apple Music (streaming only)
+- Sites requiring login/payment
 
-7. **Determine appropriate tempo** (BPM):
-   - Lullabies: 60-80
-   - Nursery rhymes: 90-110
-   - Action songs: 110-130
-   - Upbeat songs: 120-140
+### Step 4: Extract the melody - focus on:
+- The main vocal melody line only (not harmony/accompaniment)
+- The most common/traditional version
+- First verse melody (usually repeats for other verses)
+
+### Step 5: Convert to project format:
+- Notes: `C4`, `D4`, `E4`, `F4`, `G4`, `A4`, `B4`, `C5`, `D5`, etc.
+- Durations: `w` (whole), `h` (half), `q` (quarter), `e` (eighth), `s` (sixteenth)
+- Format: `"[Note][Octave] [Duration]"` e.g., `"C4 q"`, `"G4 h"`
+- Most children's songs are in C major or G major - transpose if needed
+
+### Step 6: Determine appropriate tempo (BPM):
+- Lullabies: 60-80
+- Nursery rhymes: 90-110
+- Action songs: 110-130
+- Upbeat songs: 120-140
 
 ## Output Format
 
