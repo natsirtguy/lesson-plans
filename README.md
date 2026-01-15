@@ -10,9 +10,8 @@ Or test locally: `cd docs && python3 -m http.server 8000`
 
 ## Features
 
-**Four Independent Queues:**
-- Arts & Culture (198 topics)
-- Knowledge & Skills (118 topics)
+**Three Independent Queues:**
+- Knowledge, Skills & Culture (316 topics - combined knowledge, skills, creative activities, and cultural activities)
 - Physical Activities (117 topics)
 - Songs (71 songs with lyrics, ASL signs, and cultural notes)
 
@@ -59,8 +58,7 @@ lesson-plans/
 │   ├── sw.js                  # Service worker
 │   ├── initial-data.json      # Initial topic data
 │   └── lessons/               # Lesson plan content
-│       ├── arts/              # Arts & Culture lesson plans
-│       ├── knowledge/         # Knowledge & Skills lesson plans
+│       ├── knowledge/         # Knowledge, Skills & Culture lesson plans
 │       ├── physical/          # Physical Activities lesson plans
 │       └── songs/             # Song lesson plans (lyrics, ASL, cultural notes)
 ├── topics.py                  # Source topic data (Python)

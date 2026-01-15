@@ -12,7 +12,7 @@ Author: System Requirements Team
 The Daily Lesson Plan Queue System provides a structured approach to selecting daily learning topics and activities for early childhood education (ages 2 to 3+ years). The system manages three distinct queues of educational content, ensuring balanced coverage across developmental domains while allowing flexibility in topic selection.
 
 ### 1.2 Scope
-This system replaces a stratified sampling approach with a simpler FIFO (First-In-First-Out) queue-based system. It supports multiple caregivers working collaboratively to select, skip, and manage learning topics across three primary categories.
+This system replaces a stratified sampling approach with a simpler FIFO (First-In-First-Out) queue-based system. It supports multiple caregivers working collaboratively to select, skip, and manage learning topics across two primary queues (Knowledge, Skills & Culture; Physical Activities).
 
 ### 1.3 Success Criteria
 - Caregivers can select daily topics in under 1 minute
@@ -64,7 +64,7 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 
 **REQ-SEL-003**: Users SHALL be able to select items from multiple queues independently (selecting from one queue does not affect others).
 
-**REQ-SEL-004**: The system SHALL allow selecting all three queue items in a single session (for daily planning).
+**REQ-SEL-004**: The system SHALL allow selecting items from both queues in a single session (for daily planning).
 
 #### 3.1.3 Item Skipping
 **REQ-SKIP-001**: Users SHALL be able to skip the current item in any queue without marking it as completed.
@@ -97,7 +97,7 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 
 **REQ-DEV-005**: The Development Queue SHALL display:
 - Topic/activity name
-- Original queue (Arts, Knowledge, or Physical)
+- Original queue (Knowledge, Skills & Culture, or Physical)
 - Reason for flagging
 - Date added to Development Queue
 
@@ -113,7 +113,7 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 **REQ-IDEA-001**: The system SHALL provide a dedicated interface for submitting new topic ideas for each queue.
 
 **REQ-IDEA-002**: When submitting an idea, users SHALL be able to specify:
-- Which queue the idea belongs to (Arts, Knowledge, or Physical)
+- Which queue the idea belongs to (Knowledge, Skills & Culture, or Physical)
 - Topic/activity name (required)
 - Category or subcategory (optional)
 - Description or notes (optional)
@@ -134,7 +134,7 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 
 **REQ-LOG-002**: Each completion record SHALL include:
 - Topic/activity name
-- Queue type (Arts, Knowledge, or Physical)
+- Queue type (Knowledge, Skills & Culture, or Physical)
 - Date of selection
 
 **REQ-LOG-003**: Completion records SHALL NOT be automatically deleted.
@@ -259,13 +259,13 @@ Attributes:
 - Name/title (required)
 - Description (optional)
 - Category classification (optional)
-- Queue assignment (Arts, Knowledge, or Physical)
+- Queue assignment (Knowledge, Skills & Culture, or Physical)
 - Date added
 - Status (Active, Development, Deleted)
 
 #### 5.1.2 Queue State
 Attributes:
-- Queue type (Arts, Knowledge, Physical)
+- Queue type (Knowledge, Skills & Culture, or Physical)
 - Current order of items
 - Current position (which item is at the top)
 
@@ -288,7 +288,7 @@ Attributes:
 
 ### 5.2 Data Relationships
 
-**REQ-DATA-001**: Each topic SHALL belong to exactly one queue at a time (Arts, Knowledge, or Physical).
+**REQ-DATA-001**: Each topic SHALL belong to exactly one queue at a time (Knowledge, Skills & Culture, or Physical).
 
 **REQ-DATA-002**: Each topic MAY have multiple completion records (across cycles).
 
@@ -325,7 +325,7 @@ Attributes:
 #### 6.1.1 Daily Selection View (Main Dashboard)
 **REQ-UI-001**: The Daily Selection View SHALL be the default landing page.
 
-**REQ-UI-002**: The view SHALL display all three queue tops simultaneously in a vertical layout.
+**REQ-UI-002**: The view SHALL display both queue tops simultaneously in a vertical layout.
 
 **REQ-UI-003**: For each queue, the view SHALL show:
 - Queue name/icon
@@ -366,7 +366,7 @@ Attributes:
 **REQ-UI-019**: The system SHALL provide a simple interface for submitting new ideas.
 
 **REQ-UI-020**: The interface SHALL allow specifying:
-- Target queue (Arts, Knowledge, or Physical)
+- Target queue (Knowledge, Skills & Culture, or Physical)
 - Topic name
 - Optional description
 
@@ -457,12 +457,12 @@ Note: Focus on functionality first; visual polish is secondary (implement if eas
 1. User observes child showing interest in construction vehicles at a park
 2. User opens system on mobile device
 3. User navigates to Ideas submission interface
-4. User selects "Knowledge & Skills" as target queue
+4. User selects "Knowledge, Skills & Culture" as target queue
 5. User enters topic: "Construction vehicles and equipment"
 6. User optionally adds note: "Child fascinated by bulldozer at park"
 7. User submits idea
-8. System adds topic directly to Knowledge & Skills master list
-9. System adds topic to beginning of Knowledge & Skills active queue (next up)
+8. System adds topic directly to Knowledge, Skills & Culture master list
+9. System adds topic to beginning of Knowledge, Skills & Culture active queue (next up)
 10. System confirms submission
 11. User closes system
 
@@ -486,8 +486,8 @@ Note: Focus on functionality first; visual polish is secondary (implement if eas
 4. User reviews first item: "Theater and drama" (reason: "Too abstract for toddlers")
 5. User decides to modify the topic
 6. User edits to "Puppet play and pretend theater"
-7. User restores to Arts queue
-8. System adds modified topic back to Arts queue at end
+7. User restores to Knowledge, Skills & Culture queue
+8. System adds modified topic back to Knowledge, Skills & Culture queue at end
 9. User reviews second item: "Advanced calculus" (added by mistake)
 10. User deletes item permanently
 11. User continues reviewing remaining items
@@ -505,8 +505,7 @@ Note: Focus on functionality first; visual polish is secondary (implement if eas
 2. User sets date filter to last 30 days
 3. System displays 45 completed items chronologically
 4. User reviews topics by queue:
-   - Arts: 12 items
-   - Knowledge: 20 items
+   - Knowledge, Skills & Culture: 32 items
    - Physical: 13 items
 5. User notices good balance across domains
 6. User sees some topics were completed in both Cycle 1 and Cycle 2
@@ -647,7 +646,7 @@ The system SHALL be considered successful when:
 
 **Master List**: The authoritative collection of all topics for each queue. Used to refill active queues when cycles complete.
 
-**Queue**: An ordered list of topics or activities. The system has three main queues (Arts, Knowledge, Physical) plus the Development Queue.
+**Queue**: An ordered list of topics or activities. The system has two main queues (Knowledge, Skills & Culture; Physical) plus the Development Queue.
 
 **Select**: Mark a topic as completed for the day. Removes it from the active queue and logs it in completion history.
 

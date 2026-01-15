@@ -4,10 +4,9 @@
 Daily Lesson Plan Queue System - a Progressive Web App (PWA) for managing daily learning topics for early childhood education (ages 2-3+ years).
 
 ## Core Functionality
-Manages three independent FIFO queues of educational topics:
-1. **Arts & Culture Queue** (198 topics)
-2. **Knowledge & Skills Queue** (118 topics)  
-3. **Physical Activities Queue** (117 topics)
+Manages two independent FIFO queues of educational topics:
+1. **Knowledge, Skills & Culture Queue** (316 topics - combined knowledge, practical skills, creative activities, and cultural activities)
+2. **Physical Activities Queue** (117 topics)
 
 ## Key Features
 - Queue operations: Select (mark complete), Skip (move to end), Needs Work (flag for development)

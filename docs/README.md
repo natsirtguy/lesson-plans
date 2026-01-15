@@ -5,7 +5,7 @@ A queue-based lesson plan selector for early childhood education (ages 2-3+).
 ## Features
 
 - 📱 Mobile-first Progressive Web App
-- 🎨 Three independent queues: Arts & Culture, Knowledge & Skills, Physical Activities
+- 🎨 Two independent queues: Knowledge, Skills & Culture; Physical Activities
 - 💾 Offline support with localStorage
 - 📥 Export/Import data for cross-device sync
 - 🔄 Automatic queue refill with cycle tracking
