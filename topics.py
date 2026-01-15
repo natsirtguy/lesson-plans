@@ -1,14 +1,17 @@
-KNOWLEDGE_CATEGORIES = {
+# Combined Knowledge & Culture Categories
+# This includes both knowledge concepts and cultural/creative activities
+KNOWLEDGE_AND_CULTURE_CATEGORIES = {
+    # Knowledge Topics (Foundational Concepts & Skills)
     "Cross-Domain Foundational Concepts": [
-        "Time and duration (physical cycles, human experience, sequences, measurement)", 
-        "Patterns and systems (mathematical patterns, natural patterns, social patterns, thinking patterns)", 
-        "Cause and effect (physical causation, social consequences, logical reasoning)", 
+        "Time and duration (physical cycles, human experience, sequences, measurement)",
+        "Patterns and systems (mathematical patterns, natural patterns, social patterns, thinking patterns)",
+        "Cause and effect (physical causation, social consequences, logical reasoning)",
         "Change and adaptation (physical changes, human development, evolution, learning)",
-        "Energy and movement (physical energy, body movement, social dynamics)", 
-        "Communication across forms (language, visual symbols, music, body language, information)", 
-        "Structure and function (how things are built and what they do - bodies, societies, tools, buildings)", 
-        "Interconnections (ecosystems, social networks, global connections, systems thinking)", 
-        "Growth and development (biological growth, human development, skill development, societal progress)", 
+        "Energy and movement (physical energy, body movement, social dynamics)",
+        "Communication across forms (language, visual symbols, music, body language, information)",
+        "Structure and function (how things are built and what they do - bodies, societies, tools, buildings)",
+        "Interconnections (ecosystems, social networks, global connections, systems thinking)",
+        "Growth and development (biological growth, human development, skill development, societal progress)",
         "Safety and protection (physical safety, emotional safety, environmental protection, social security)"
     ],
     "Physical World - Life Sciences": [
@@ -85,13 +88,12 @@ KNOWLEDGE_CATEGORIES = {
     "Skills and Development - Social-Emotional": [
         "Making and keeping friends", "Understanding others' feelings (empathy)", "Leading and following",
         "Social rules and manners", "Cooperating and sharing", "Managing emotions", "Perspective-taking"
-    ]
-}
+    ],
 
-ACTIVITY_CATEGORIES = {
+    # Cultural & Creative Activities (formerly ACTIVITY_CATEGORIES)
     "Cross-Domain Foundational Activities": [
-        "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)", 
-        "Exploration and investigation (physical world discovery, creative materials, social interactions, learning environments)", 
+        "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)",
+        "Exploration and investigation (physical world discovery, creative materials, social interactions, learning environments)",
         "Repetition and practice (physical skills, creative techniques, social routines, learning exercises)",
         "Communication and expression (physical gestures, creative arts, social conversation, learning sharing)", 
         "Problem-solving and experimentation (physical challenges, creative projects, social conflicts, learning puzzles)", 

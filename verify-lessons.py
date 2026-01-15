@@ -4,7 +4,7 @@
 import os
 import re
 from pathlib import Path
-from topics import KNOWLEDGE_CATEGORIES, ACTIVITY_CATEGORIES, PHYSICAL_ACTIVITIES
+from topics import KNOWLEDGE_AND_CULTURE_CATEGORIES, PHYSICAL_ACTIVITIES
 
 def topic_to_filename(topic_name):
     """Convert topic name to expected filename."""
@@ -20,13 +20,10 @@ def topic_to_filename(topic_name):
 
 def get_all_topics_by_queue():
     """Get all topics organized by queue."""
+    # Knowledge & Culture queue now includes both knowledge and arts/culture topics
     knowledge_topics = []
-    for category, topics in KNOWLEDGE_CATEGORIES.items():
+    for category, topics in KNOWLEDGE_AND_CULTURE_CATEGORIES.items():
         knowledge_topics.extend(topics)
-
-    arts_topics = []
-    for category, topics in ACTIVITY_CATEGORIES.items():
-        arts_topics.extend(topics)
 
     physical_topics = []
     for category, topics in PHYSICAL_ACTIVITIES.items():
@@ -34,7 +31,6 @@ def get_all_topics_by_queue():
 
     return {
         'knowledge': knowledge_topics,
-        'arts': arts_topics,
         'physical': physical_topics
     }
 
