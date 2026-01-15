@@ -250,44 +250,10 @@
         <!-- Queue Cards -->
         <div class="space-y-6">
 
-            <!-- Arts & Culture Queue -->
+            <!-- Knowledge, Skills & Culture Queue (Combined) -->
             <div class="bg-white rounded-xl shadow-lg p-6">
                 <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-bold text-pink-600">🎨 Arts & Culture</h2>
-                    <span class="text-sm text-gray-500" x-text="getQueuePosition('arts')"></span>
-                </div>
-
-                <template x-if="getCurrentTopic('arts')">
-                    <div>
-                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('arts').name"></p>
-                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('arts').category"></p>
-
-                        <div class="grid grid-cols-3 gap-2">
-                            <button @click="selectTopic('arts')"
-                                    class="py-3 px-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 active:bg-pink-700 btn-touch text-sm font-medium">
-                                ✓ Select
-                            </button>
-                            <button @click="skipTopic('arts')"
-                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
-                                ⏭️ Skip
-                            </button>
-                            <button @click="flagForDevelopment('arts')"
-                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
-                                🔧 Fix
-                            </button>
-                        </div>
-                    </div>
-                </template>
-
-                <template x-if="!getCurrentTopic('arts')">
-                    <p class="text-gray-500 italic">Queue empty - refilling...</p>
-                </template>
-            </div>
-
-            <!-- Knowledge & Skills Queue -->
-            <div class="bg-white rounded-xl shadow-lg p-6">
-                <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-bold text-blue-600">🧠 Knowledge & Skills</h2>
+                    <h2 class="text-xl font-bold text-blue-600">🧠 Knowledge, Skills & Culture</h2>
                     <span class="text-sm text-gray-500" x-text="getQueuePosition('knowledge')"></span>
                 </div>
 
@@ -398,11 +364,11 @@
         function lessonPlanApp() {
             return {
                 data: {
-                    masterLists: { arts: [], knowledge: [], physical: [], songs: [] },
-                    queues: { arts: [], knowledge: [], physical: [], songs: [] },
+                    masterLists: { knowledge: [], physical: [], songs: [] },
+                    queues: { knowledge: [], physical: [], songs: [] },
                     completed: [],
                     development: [],
-                    cycles: { arts: 1, knowledge: 1, physical: 1, songs: 1 },
+                    cycles: { knowledge: 1, physical: 1, songs: 1 },
                     version: '1.0'
                 },
                 showMenu: false,
@@ -621,11 +587,11 @@
                 },
 
                 randomizeAllQueues() {
-                    if (!confirm('🎲 Randomize all four queues?\n\nThis will shuffle the order of all topics in each queue.')) {
+                    if (!confirm('🎲 Randomize all queues?\n\nThis will shuffle the order of all topics in each queue.')) {
                         return;
                     }
 
-                    ['arts', 'knowledge', 'physical', 'songs'].forEach(queueName => {
+                    ['knowledge', 'physical', 'songs'].forEach(queueName => {
                         // Shuffle current queue items (preserves which items are in queue)
                         const shuffled = [...this.data.queues[queueName]].sort(() => Math.random() - 0.5);
                         this.data.queues[queueName] = shuffled;

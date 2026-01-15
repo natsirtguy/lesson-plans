@@ -4,11 +4,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Daily Lesson Plan Queue System for early childhood education (ages 2-3+ years). The system manages three independent FIFO queues of educational topics:
+This is a Daily Lesson Plan Queue System for early childhood education (ages 2-3+ years). The system manages two independent FIFO queues of educational topics:
 
-1. **Arts & Culture Queue** (68 topics)
-2. **Knowledge & Skills Queue** (248 topics)
-3. **Physical Activities Queue** (117 topics)
+1. **Knowledge, Skills & Culture Queue** (316 topics - combined knowledge concepts, practical skills, and cultural/creative activities)
+2. **Physical Activities Queue** (117 topics)
 
 The system enables caregivers to select daily learning topics efficiently, ensuring balanced coverage across developmental domains while allowing flexibility to skip or flag topics for revision.
 
@@ -21,7 +20,7 @@ The system enables caregivers to select daily learning topics efficiently, ensur
 
 ### Key Data Entities
 - **Topic/Activity Item**: A single learning subject with name, description, category, queue assignment, and status
-- **Queue State**: Current order and position for each of the three queues
+- **Queue State**: Current order and position for each queue
 - **Completion Record**: Log of selected topics with date
 - **Development Queue**: Holding area for topics needing revision
 - **Master Lists**: Authoritative collections used to refill active queues when cycles complete
@@ -39,15 +38,13 @@ The system enables caregivers to select daily learning topics efficiently, ensur
 The repository currently contains:
 
 - **topics.py**: Python dictionary definitions for the 433 initial topics organized by category
-  - `KNOWLEDGE_CATEGORIES`: 19 knowledge categories with topics
-  - `ACTIVITY_CATEGORIES`: 16 activity categories with topics
+  - `KNOWLEDGE_AND_CULTURE_CATEGORIES`: 35 combined categories (19 knowledge + 16 activity/culture categories)
   - `PHYSICAL_ACTIVITIES`: 10 physical activity categories with topics
 - **REQUIREMENTS.md**: Complete functional and non-functional requirements (Version 1.1)
 
 ### Topic Categories
 Topics preserve their original source categories as metadata:
-- Knowledge: Cross-Domain Foundational, Life Sciences, Physical Sciences, Earth & Space, Geography, Environmental Science, Individual/Social/Cultural/Economic/Linguistic Human Experience, Mathematical/Technological/Recreational/Creative Systems, Cognitive/Physical/Practical/Social-Emotional Skills
-- Activities: Cross-Domain Foundational, Visual/Performing/Literary Arts, Crafts, Digital Creation, Culinary Arts, Interpersonal/Group/Cultural Practices, Community Service, Communication, Teaching, Formal Learning, Games/Puzzles, Exploration, Cognitive Challenges, Research, Collecting, Household/Economic/Work/Maintenance/Planning/Safety/Transportation activities
+- Knowledge & Culture (Combined): Cross-Domain Foundational Concepts and Activities, Life Sciences, Physical Sciences, Earth & Space, Geography, Environmental Science, Individual/Social/Cultural/Economic/Linguistic Human Experience, Mathematical/Technological/Recreational/Creative Systems, Cognitive/Physical/Practical/Social-Emotional Skills, Visual/Performing/Literary Arts, Crafts, Digital Creation, Culinary Arts, Interpersonal/Group/Cultural Practices, Community Service, Communication, Teaching, Formal Learning, Games/Puzzles, Exploration, Cognitive Challenges, Research, Collecting, Household/Economic/Work/Maintenance/Planning/Safety/Transportation activities
 - Physical: Individual/Team Sports, Individual Physical, Outdoor Adventure, Aquatic/Winter/Combat Sports, Mind-Body Activities, Performance Arts, Motor Skills
 
 ## Lesson Plan Backfill
@@ -58,22 +55,20 @@ Topics preserve their original source categories as metadata:
 - **Remaining**: ~425 lesson plans to generate
 
 ### Custom Subagents for Generation
-Three specialized Claude Code subagents have been created for efficient lesson plan generation:
+Two specialized Claude Code subagents are available for lesson plan generation:
 
 1. **knowledge-lesson-generator** (`.claude/agents/knowledge-lesson-generator.md`)
-   - Generates Knowledge & Skills lesson plans
+   - Generates Knowledge, Skills & Culture lesson plans (for the combined queue)
    - Output: `docs/lessons/knowledge/[topic-name].md`
-   - Includes: vocabulary focus, learning song, hands-on activities, age adaptations
+   - Includes: vocabulary focus, learning activities, hands-on projects, age adaptations
+   - Handles both knowledge topics and cultural/creative activities
 
-2. **arts-culture-lesson-generator** (`.claude/agents/arts-culture-lesson-generator.md`)
-   - Generates Arts & Culture lesson plans
-   - Output: `docs/lessons/arts/[activity-name].md`
-   - Includes: materials, step-by-step setup, session structure, cultural context
-
-3. **physical-lesson-generator** (`.claude/agents/physical-lesson-generator.md`)
+2. **physical-lesson-generator** (`.claude/agents/physical-lesson-generator.md`)
    - Generates Physical Activities lesson plans
    - Output: `docs/lessons/physical/[activity-name].md`
    - Includes: equipment, space setup, warm-up/cool-down, safety considerations
+
+Note: The former `arts-culture-lesson-generator` has been merged into `knowledge-lesson-generator` to reflect the combined queue structure.
 
 ### Usage Approach
 **Model**: All subagents configured to use Haiku for cost-efficiency

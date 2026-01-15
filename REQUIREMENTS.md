@@ -26,10 +26,9 @@ This system replaces a stratified sampling approach with a simpler FIFO (First-I
 ## 2. SYSTEM OVERVIEW
 
 ### 2.1 Core Concept
-The system maintains three independent queues of learning topics:
-1. **Arts & Culture Queue** - Creative and cultural pursuits
-2. **Knowledge & Skills Queue** - Academic and practical learning
-3. **Physical Activities Queue** - Movement, sports, and physical development
+The system maintains two independent queues of learning topics:
+1. **Knowledge, Skills & Culture Queue** - Academic learning, practical skills, creative pursuits, and cultural activities (combined)
+2. **Physical Activities Queue** - Movement, sports, and physical development
 
 Each queue operates as a circular buffer: when all items are completed, the queue automatically refills and begins a new cycle.
 
@@ -45,7 +44,7 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 ### 3.1 Queue Management
 
 #### 3.1.1 Queue Display
-**REQ-QD-001**: The system SHALL display the current (top) item from each of the three queues simultaneously.
+**REQ-QD-001**: The system SHALL display the current (top) item from each queue simultaneously.
 
 **REQ-QD-002**: For each queue item, the system SHALL display:
 - Topic/activity name
@@ -201,7 +200,7 @@ Each queue operates as a circular buffer: when all items are completed, the queu
 **REQ-NFR-003**: All interactive elements SHALL be large enough for easy touch interaction (minimum 44x44 pixels).
 
 #### 4.1.2 Efficiency
-**REQ-NFR-004**: Users SHALL be able to select daily topics (all three queues) in under 60 seconds.
+**REQ-NFR-004**: Users SHALL be able to select daily topics (all queues) in under 60 seconds.
 
 **REQ-NFR-005**: The system SHALL respond to user actions within 2 seconds under normal conditions.
 
@@ -423,28 +422,27 @@ Note: Focus on functionality first; visual polish is secondary (implement if eas
 ### 7.1 Daily Planning Scenario
 
 **Actor**: Primary Caregiver  
-**Goal**: Select today's learning topics across all three domains
+**Goal**: Select today's learning topics across both domains
 
 **Main Success Scenario**:
 1. User opens the system (bookmarked or app icon)
-2. System displays Daily Selection View with current top items from all three queues
-3. User reviews the Arts & Culture topic
-4. User clicks "Select This" button for Arts
+2. System displays Daily Selection View with current top items from both queues
+3. User reviews the Knowledge, Skills & Culture topic
+4. User clicks "Select This" button
 5. System marks topic as completed, shows confirmation, advances queue
-6. User reviews Knowledge & Skills topic
+6. User reviews Physical Activity topic
 7. User decides this topic doesn't fit today's schedule
 8. User clicks "Skip to Back" button
 9. System moves topic to end of queue, shows next topic
-10. User reviews new Knowledge topic and selects it
-11. User reviews Physical Activity topic and selects it
-12. User now has three selected topics for the day and can close the system
+10. User reviews new Physical Activity topic and selects it
+11. User now has two selected topics for the day and can close the system
 
 **Alternate Scenarios**:
-- 4a. User doesn't like the Arts topic and flags it with "Needs Work"
+- 4a. User doesn't like the topic and flags it with "Needs Work"
   - 4a1. System prompts for reason
   - 4a2. User enters "Too advanced for current age"
-  - 4a3. System moves to Development Queue, shows next Arts topic
-- 10a. User skips multiple Knowledge topics before finding a good one
+  - 4a3. System moves to Development Queue, shows next topic from same queue
+- 10a. User skips multiple topics before finding a good one
   - System allows unlimited skips, each moving items to end of queue
 
 **Frequency**: Daily  
@@ -524,15 +522,15 @@ Note: Focus on functionality first; visual polish is secondary (implement if eas
 **Goal**: Complete a queue cycle and start fresh
 
 **Main Success Scenario**:
-1. User selects the last item in Arts queue (item 68 of 68)
+1. User selects the last item in Knowledge, Skills & Culture queue (item 316 of 316)
 2. System marks item as completed
 3. System detects queue is now empty
-4. System automatically refills queue from Arts master list (randomized order)
-5. System displays notification: "Arts & Culture queue complete! Starting new cycle."
+4. System automatically refills queue from master list (randomized order)
+5. System displays notification: "Knowledge, Skills & Culture queue complete! Starting new cycle."
 6. System shows first topic from new cycle
 7. User acknowledges and continues
 
-**Frequency**: Varies by queue (Arts: ~2-3 months, Knowledge: ~8 months, Physical: ~4 months)  
+**Frequency**: Varies by queue (Knowledge, Skills & Culture: ~10-12 months, Physical: ~4 months)
 **Priority**: High
 
 ---
@@ -616,7 +614,7 @@ Note: Focus on functionality first; visual polish is secondary (implement if eas
 
 ### 11.1 Minimum Viable Product (MVP)
 The system SHALL be considered complete for v1 when:
-- ✅ All three queues are functional (Arts, Knowledge, Physical)
+- ✅ Both queues are functional (Knowledge, Skills & Culture; Physical)
 - ✅ Users can select, skip, and flag topics
 - ✅ Completion log records all selections
 - ✅ Development queue stores flagged topics with reasons
@@ -671,15 +669,13 @@ The system SHALL be considered successful when:
 ## 14. APPENDICES
 
 ### Appendix A: Initial Data Summary
-- Arts & Culture Queue: 68 items
-- Knowledge & Skills Queue: 248 items
+- Knowledge, Skills & Culture Queue: 316 items (combined from former Arts & Culture and Knowledge & Skills queues)
 - Physical Activities Queue: 117 items
 - Total: 433 items
 
 ### Appendix B: Original Source Categories
 The 433 items are mapped from the following original categories in the stratified sampling system:
-- Knowledge Categories: 19 categories (e.g., "Cross-Domain Foundational Concepts", "Physical World - Life Sciences", etc.)
-- Activity Categories: 16 categories (e.g., "Creative and Expressive - Visual Arts", "Social and Cultural - Interpersonal", etc.)
+- Knowledge & Culture Categories: 35 combined categories (19 knowledge categories like "Cross-Domain Foundational Concepts", "Physical World - Life Sciences", etc. + 16 activity categories like "Creative and Expressive - Visual Arts", "Social and Cultural - Interpersonal", etc.)
 - Physical Activity Categories: 10 categories (e.g., "Individual Sports", "Team Sports", "Mind-Body Activities", etc.)
 
 These source categories are preserved as metadata on each topic for future reference and organization.
