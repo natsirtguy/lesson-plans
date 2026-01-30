@@ -93,19 +93,31 @@ All lesson plans follow age-appropriate educational design (ages 2-4+):
 
 ## Implementation Considerations
 
-### Technology Stack (To Be Determined)
-The requirements document is platform-agnostic. When implementing, consider:
-- Mobile-first responsive web application (likely approach given cost constraints)
-- Real-time database with offline support (e.g., Firebase, Supabase, or similar)
-- Simple state management for queue operations
-- Import/export functionality for CSV/JSON backup
+### Technology Stack
+- **Frontend**: Alpine.js 3.x SPA, Tailwind CSS, Marked.js (all via CDN)
+- **Audio**: TinyMusic.js for song melody playback
+- **Storage**: Browser localStorage for queue state persistence
+- **Offline**: Service Worker (PWA installable on iOS/Android)
+- **Hosting**: GitHub Pages serving static files from `/docs` folder (no build step)
+- **Cost**: $0/month
+
+### Website Architecture
+The site is a single-page app at `docs/index.html`. There is no build step or static site generator — files in `/docs` are served directly by GitHub Pages.
+
+**Critical: Two data sources must be kept in sync when modifying topics:**
+- **`topics.py`**: Source of truth for topic definitions (used by verification scripts and lesson plan generation)
+- **`docs/initial-data.json`**: The JSON file the website actually loads at runtime. Contains topic IDs, names, categories, and initial queue order. **If you only update `topics.py`, the website will not reflect the changes.**
+
+**How lesson plans are loaded at runtime:**
+1. App converts topic name to filename (lowercase, spaces→hyphens, strip special chars)
+2. Fetches `docs/lessons/{queue}/{filename}.md` via HTTP
+3. Marked.js renders markdown to HTML client-side
 
 ### Data Migration
-The initial data in topics.py (433 items) needs to be:
-1. Parsed and transformed into the target data model
-2. Assigned to appropriate queues (Arts/Knowledge/Physical)
-3. Loaded into master lists
-4. Used to initialize active queues with randomized order
+The initial data in topics.py (433 items) has been:
+1. Parsed and transformed into `docs/initial-data.json`
+2. Assigned to appropriate queues (Knowledge/Physical)
+3. Loaded into master lists with randomized queue order
 
 ### Queue Operations
 When implementing queue logic:
