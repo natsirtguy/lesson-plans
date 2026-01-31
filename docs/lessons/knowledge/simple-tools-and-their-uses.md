@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that expand beyond toddler basics:
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Tools help us, oh what fun (7 syllables: Tools-help-us-oh-what-fun)
-Each one does a special one (7 syllables: Each-one-does-a-spe-cial-one)
-A spoon can stir, a brush can paint (7 syllables: A-spoon-can-stir-a-brush-can-paint)
-A shovel digs without a wait (7 syllables: A-shov-el-digs-with-out-a-wait)
-Tools help us work and tools help play (7 syllables: Tools-help-us-work-and-tools-help-play)
-Every single tool finds the way (7 syllables: Ev-ery-sin-gle-tool-finds-the-way)
+Tools help us, oh what fun
+Each one does a special one
+A spoon can stir, a brush can paint
+A shovel digs without a wait
+Tools help us work and tools help play
+Every single tool finds the way
 
 *Verse 2*
-Handles help us hold them tight (7 syllables: Hand-les-help-us-hold-them-tight)
-We use our tools both day and night (7 syllables: We-use-our-tools-both-day-and-night)
-A hammer taps, a broom will sweep (7 syllables: A-ham-mer-taps-a-broom-will-sweep)
-Our tools help us, our tools we keep (7 syllables: Our-tools-help-us-our-tools-we-keep)
-So thank the tools both big and small (7 syllables: So-thank-the-tools-both-big-and-small)
-The most useful things of all (7 syllables: The-most-use-ful-things-of-all)
+Handles help us hold them tight
+We use our tools both day and night
+A hammer taps, a broom will sweep
+Our tools help us, our tools we keep
+So thank the tools both big and small
+The most useful things of all
 
 **Actions/Gestures**:
 1. Pretend to stir with a spoon (circular hand motion)

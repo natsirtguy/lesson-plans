@@ -23,20 +23,20 @@ This lesson introduces children to the concept of spiritual and religious practi
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-We all have special things we do (7 syllables: We-all-have-spe-cial-things-we-do)
-Different ways to honor, it is true (8 syllables: Dif-fer-ent-ways-to-hon-or-it-is-true)
-Some light candles, some ring a bell (7 syllables: Some-light-can-dles-some-ring-a-bell)
-Some sing and dance and do things well (7 syllables: Some-sing-and-dance-and-do-things-well)
-All these practices are special, too (7 syllables: All-these-prac-ti-ces-are-spe-cial-too)
-Showing love in all we do (7 syllables: Show-ing-love-in-all-we-do)
+We all have special things we do
+Different ways to honor, it is true
+Some light candles, some ring a bell
+Some sing and dance and do things well
+All these practices are special, too
+Showing love in all we do
 
 *Verse 2*
-Grateful hearts and mindful ways (7 syllables: Grate-ful-hearts-and-mind-ful-ways)
-Honoring what matters through our days (8 syllables: Hon-or-ing-what-mat-ters-through-our-days)
-Quiet moments, time to share (7 syllables: Qui-et-mo-ments-time-to-share)
-Showing others that we care (7 syllables: Show-ing-oth-ers-that-we-care)
-Every family has their own (7 syllables: Ev-ery-fam-i-ly-has-their-own)
-Special ways to call it home (7 syllables: Spe-cial-ways-to-call-it-home)
+Grateful hearts and mindful ways
+Honoring what matters through our days
+Quiet moments, time to share
+Showing others that we care
+Every family has their own
+Special ways to call it home
 
 **Actions/Gestures**:
 1. Place hands over heart and bow gently—showing reverence and gratitude for what we have

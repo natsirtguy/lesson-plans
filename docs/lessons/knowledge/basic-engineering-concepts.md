@@ -24,21 +24,21 @@ Young learners will discover how engineers think and work by designing, building
 
 *Verse 1*
 
-Engineers think about a plan (7 syllables: En-gi-neers-think-a-bout-a-plan)
-They design something with their hands (7 syllables: They-de-sign-some-thing-with-their-hands)
-Build it up and test it out (7 syllables: Build-it-up-and-test-it-out)
-Make it work without a doubt (7 syllables: Make-it-work-with-out-a-doubt)
-Solve the problem, make it right (7 syllables: Solve-the-prob-lem-make-it-right)
-Engineers are builders bright (7 syllables: En-gi-neers-are-build-ers-bright)
+Engineers think about a plan
+They design something with their hands
+Build it up and test it out
+Make it work without a doubt
+Solve the problem, make it right
+Engineers are builders bright
 
 *Verse 2*
 
-Take a problem, find a way (7 syllables: Take-a-prob-lem-find-a-way)
-Build and test throughout the day (7 syllables: Build-and-test-through-out-the-day)
-Try again if it won't work (7 syllables: Try-a-gain-if-it-won't-work)
-Never let the challenge lurk (7 syllables: Nev-er-let-the-chal-lenge-lurk)
-Build it bigger, build it strong (7 syllables: Build-it-big-ger-build-it-strong)
-That's how engineers belong (7 syllables: That's-how-en-gi-neers-be-long)
+Take a problem, find a way
+Build and test throughout the day
+Try again if it won't work
+Never let the challenge lurk
+Build it bigger, build it strong
+That's how engineers belong
 
 **Actions/Gestures**:
 

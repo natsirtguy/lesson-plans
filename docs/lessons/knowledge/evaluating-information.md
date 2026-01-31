@@ -23,20 +23,18 @@ Children explore how to think carefully about information by observing, comparin
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Watch and look and notice things (7 syllables: Watch and look and no-tice things)
-Colors, textures, all they bring (7 syllables: Col-ors, tex-tures, all they bring)
-Is it real or is it play? (7 syllables: Is it real or is it play?)
-Ask me questions every day (7 syllables: Ask me ques-tions ev-ery day)
-Think about what you can see (7 syllables: Think a-bout what you can see)
-Does the answer make sense? Yes! (8 syllables: Does the ans-wer make sense? Yes!) *adjusted to fit*
-
-*Verse 2*
-Compare the same and different too (8 syllables: Com-pare the same and diff-erent too) *adjusted to fit*
-Look carefully at what is true (7 syllables: Look care-ful-ly at what is true)
-Ask and wonder, question why (7 syllables: Ask and won-der, ques-tion why)
-Think before you answer my (7 syllables: Think be-fore you ans-wer my)
-Smart and careful, that is you (7 syllables: Smart and care-ful, that is you)
-Learning what to do (6 syllables: Learn-ing what to do)
+Watch and look and notice things
+Colors, textures, all they bring
+Is it real or is it play?
+Ask me questions every day
+Think about what you can see
+Does the answer make sense? Yes!
+Compare the same and different too
+Look carefully at what is true
+Ask and wonder, question why
+Think before you answer my
+Smart and careful, that is you
+Learning what to do
 
 **Actions/Gestures**:
 1. Place hands above eyes like binoculars and slowly turn your head to mime observing something carefully

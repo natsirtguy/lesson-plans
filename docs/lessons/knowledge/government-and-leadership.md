@@ -23,20 +23,20 @@ In this lesson, children explore basic concepts of leadership, decision-making, 
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Lead-ers help us find the way (7 syllables: Lead-ers help us find the way)
-Make de-ci-sions ev-ery day (7 syllables: Make de-ci-sions ev-ery day)
-They lis-ten when we have to say (7 syllables: They lis-ten when we have to say)
-What's the best thing we can do (7 syllables: What's the best thing we can do)
-Lead-ers help us, me and you (7 syllables: Lead-ers help us me and you)
-Com-mu-ni-ty in all we do (7 syllables: Com-mu-ni-ty in all we do)
+Lead-ers help us find the way
+Make de-ci-sions ev-ery day
+They lis-ten when we have to say
+What's the best thing we can do
+Lead-ers help us, me and you
+Com-mu-ni-ty in all we do
 
 *Verse 2*
-We can be lead-ers, strong and kind (8 syllables: We can be lead-ers strong and kind)
-Help-ing oth-ers, change their mind (7 syllables: Help-ing oth-ers change their mind)
-Work to-geth-er, hand in hand (7 syllables: Work to-geth-er hand in hand)
-Build a bet-ter com-mu-ni-ty (8 syllables: Build a bet-ter com-mu-ni-ty)
-When we lis-ten, we can see (7 syllables: When we lis-ten we can see)
-Ev-ery-bod-y lead-er be (7 syllables: Ev-ery-bod-y lead-er be)
+We can be lead-ers, strong and kind
+Help-ing oth-ers, change their mind
+Work to-geth-er, hand in hand
+Build a bet-ter com-mu-ni-ty
+When we lis-ten, we can see
+Ev-ery-bod-y lead-er be
 
 **Actions/Gestures**:
 1. Point forward with both arms extended (showing "the way")

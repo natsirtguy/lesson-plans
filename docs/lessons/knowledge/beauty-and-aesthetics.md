@@ -23,20 +23,20 @@ Children explore the concept of beauty through colors, patterns, textures, and v
 **Lyrics** (2 verses, matching the 7-syllable pattern):
 
 *Verse 1*
-Beautiful colors shine so bright (7 syllables: Beau-ti-ful col-ors shine so bright)
-Red and blue and yellow light (7 syllables: Red and blue and yel-low light)
-Smooth and bumpy, rough and soft (7 syllables: Smooth and bump-y rough and soft)
-Textures all around and oft (7 syllables: Tex-tures all a-round and oft)
-Beauty is in all we see (7 syllables: Beau-ty is in all we see)
-Special things for you and me (7 syllables: Spe-cial things for you and me)
+Beautiful colors shine so bright
+Red and blue and yellow light
+Smooth and bumpy, rough and soft
+Textures all around and oft
+Beauty is in all we see
+Special things for you and me
 
 *Verse 2*
-Patterns here and patterns there (7 syllables: Pat-terns here and pat-terns there)
-Spots and stripes and designs fair (7 syllables: Spots and stripes and de-signs fair)
-Nature makes such pretty things (7 syllables: Na-ture makes such pret-ty things)
-From the flowers that spring brings (7 syllables: From the flow-ers that spring brings)
-Balance makes our eyes so glad (7 syllables: Bal-ance makes our eyes so glad)
-Beauty's something we all have (7 syllables: Beau-ty's some-thing we all have)
+Patterns here and patterns there
+Spots and stripes and designs fair
+Nature makes such pretty things
+From the flowers that spring brings
+Balance makes our eyes so glad
+Beauty's something we all have
 
 **Actions/Gestures**:
 1. Sweep arms across in an arc for "shining" or "bright" - mimicking light spreading

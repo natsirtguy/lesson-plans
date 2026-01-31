@@ -23,20 +23,20 @@ Children explore the concept of exchange and value through hands-on activities i
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Trading things is so much fun (7 syllables: Tra-ding things is so much fun)
-I can trade with ev-ery one (7 syllables: I can trade with ev-ery one)
-Give my toy to get your ball (7 syllables: Give my toy to get your ball)
-Trade-ing things is best of all (7 syllables: Trade-ing things is best of all)
-Money helps us buy and sell (7 syllables: Mon-ey helps us buy and sell)
-Trade and sharing work so well (7 syllables: Trade and shar-ing work so well)
+Trading things is so much fun
+I can trade with ev-ery one
+Give my toy to get your ball
+Trade-ing things is best of all
+Money helps us buy and sell
+Trade and sharing work so well
 
 *Verse 2*
-Coins and bills are money too (7 syllables: Coins and bills are mon-ey too)
-Trading helps me share with you (7 syllables: Tra-ding helps me share with you)
-Fair ex-change is what we do (7 syllables: Fair ex-change is what we do)
-You give some and I give too (7 syllables: You give some and I give too)
-Buy and sell and trade each day (7 syllables: Buy and sell and trade each day)
-Learning money-sense this way (7 syllables: Learn-ing mon-ey-sense this way)
+Coins and bills are money too
+Trading helps me share with you
+Fair ex-change is what we do
+You give some and I give too
+Buy and sell and trade each day
+Learning money-sense this way
 
 **Actions/Gestures**:
 1. Open hands wide, then bring them together (exchange/trade motion)

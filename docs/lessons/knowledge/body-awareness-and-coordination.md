@@ -24,17 +24,17 @@ Through guided movement exploration and sensory discovery, children develop an u
 
 *Verse 1*
 
-The arms on my body go round and round (8 syllables: The-arms-on-my-bod-y-go-round-and-round)
-Round and round, round and round (6 syllables: Round-and-round-round-and-round)
-The arms on my body go round and round (8 syllables: The-arms-on-my-bod-y-go-round-and-round)
-All day long, yes they do (6 syllables: All-day-long-yes-they-do)
+The arms on my body go round and round
+Round and round, round and round
+The arms on my body go round and round
+All day long, yes they do
 
 *Verse 2*
 
-My legs help me jump and kick and run (8 syllables: My-legs-help-me-jump-and-kick-and-run)
-Kick and run, kick and run (6 syllables: Kick-and-run-kick-and-run)
-My legs help me jump and kick and run (8 syllables: My-legs-help-me-jump-and-kick-and-run)
-Moving all around today (6 syllables: Mov-ing-all-a-round-to-day)
+My legs help me jump and kick and run
+Kick and run, kick and run
+My legs help me jump and kick and run
+Moving all around today
 
 **Actions/Gestures**:
 

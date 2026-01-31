@@ -23,20 +23,20 @@ Children explore the natural relationships between animals and their food source
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-The sun grows plants so green and tall (7 syllables: The-sun-grows-plants-so-green-and-tall)
-Rabbits eat the plants, that's all (7 syllables: Rab-bits-eat-the-plants-that's-all)
-Foxes eat the rabbits, you see (7 syllables: Fox-es-eat-the-rab-bits-you-see)
-Building food chains wild and free (7 syllables: Build-ing-food-chains-wild-and-free)
-Every creature has its place (7 syllables: Ev-er-y-crea-ture-has-its-place)
-In this food chain we all trace (7 syllables: In-this-food-chain-we-all-trace)
+The sun grows plants so green and tall
+Rabbits eat the plants, that's all
+Foxes eat the rabbits, you see
+Building food chains wild and free
+Every creature has its place
+In this food chain we all trace
 
 *Verse 2*
-Plants need sun and soil so deep (7 syllables: Plants-need-sun-and-soil-so-deep)
-Deer come eat and then they leap (7 syllables: Deer-come-eat-and-then-they-leap)
-Hawks that soar up in the sky (7 syllables: Hawks-that-soar-up-in-the-sky)
-Watch the little creatures fly (7 syllables: Watch-the-lit-tle-crea-tures-fly)
-Nature's chain goes round and round (7 syllables: Na-ture's-chain-goes-round-and-round)
-Food webs all over on the ground (7 syllables: Food-webs-all-o-ver-on-the-ground)
+Plants need sun and soil so deep
+Deer come eat and then they leap
+Hawks that soar up in the sky
+Watch the little creatures fly
+Nature's chain goes round and round
+Food webs all over on the ground
 
 **Actions/Gestures**:
 1. For "plants growing": Start crouched low, slowly reach arms up high like a growing plant

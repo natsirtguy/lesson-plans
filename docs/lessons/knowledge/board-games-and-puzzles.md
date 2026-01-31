@@ -23,20 +23,20 @@ Children explore the concepts of strategy, pattern recognition, and problem-solv
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Puzzles pieces fit so tight (7 syllables: Puzz-les piec-es fit so tight)
-Finding where they go is right (7 syllables: Find-ing where they go is right)
-Look and think and try once more (7 syllables: Look and think and try once more)
-Snap together, now we explore (8 syllables: Snap to-geth-er, now we ex-plore)
-Patience helps us find the way (7 syllables: Pa-tience helps us find the way)
-Puzzles bring us joy today (7 syllables: Puzz-les bring us joy to-day)
+Puzzles pieces fit so tight
+Finding where they go is right
+Look and think and try once more
+Snap together, now we explore
+Patience helps us find the way
+Puzzles bring us joy today
 
 *Verse 2*
-Games are fun with friends so near (7 syllables: Games are fun with friends so near)
-Take your turn and give a cheer (7 syllables: Take your turn and give a cheer)
-Roll the dice or move a piece (7 syllables: Roll the dice or move a piece)
-Playing games bring us such peace (8 syllables: Play-ing games bring us such peace)
-Rules help us play fair and true (7 syllables: Rules help us play fair and true)
-Winning or learning—we're proud of you (9 syllables: Win-ning or learn-ing—we're proud of you)
+Games are fun with friends so near
+Take your turn and give a cheer
+Roll the dice or move a piece
+Playing games bring us such peace
+Rules help us play fair and true
+Winning or learning—we're proud of you
 
 **Actions/Gestures**:
 1. Place hands together like a puzzle piece fitting, then gently separate and come back together

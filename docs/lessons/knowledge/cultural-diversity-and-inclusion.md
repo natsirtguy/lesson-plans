@@ -23,20 +23,20 @@ In this lesson, children explore the wonderful variety of people, languages, tra
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-People all around the world (7 syllables: Peo-ple all a-round the world)
-Wearing clothes in ev-ry hue (7 syllables: Wear-ing clothes in ev-ry hue)
-Speak-ing lan-guag-es so bright (7 syllables: Speak-ing lan-guag-es so bright)
-Cel-e-brat-ing through the night (7 syllables: Cel-e-brat-ing through the night)
-Danc-ing, sing-ing, laugh-ing loud (7 syllables: Danc-ing, sing-ing, laugh-ing loud)
-Each face shines out so proud (7 syllables: Each face shines out so proud)
+People all around the world
+Wearing clothes in ev-ry hue
+Speak-ing lan-guag-es so bright
+Cel-e-brat-ing through the night
+Danc-ing, sing-ing, laugh-ing loud
+Each face shines out so proud
 
 *Verse 2*
-Dif-fer-ent foods and dif-fer-ent ways (7 syllables: Dif-fer-ent foods and dif-fer-ent ways)
-Mak-ing ev-ery cul-ture great (7 syllables: Mak-ing ev-ery cul-ture great)
-Red and yel-low, brown and white (7 syllables: Red and yel-low, brown and white)
-Sha-ring jour-neys ev-ery night (7 syllables: Sha-ring jour-neys ev-ery night)
-Sis-ters, broth-ers, hand in hand (7 syllables: Sis-ters, broth-ers, hand in hand)
-We are hap-py all a-cross the land (8 syllables: We are hap-py all a-cross the land)
+Dif-fer-ent foods and dif-fer-ent ways
+Mak-ing ev-ery cul-ture great
+Red and yel-low, brown and white
+Sha-ring jour-neys ev-ery night
+Sis-ters, broth-ers, hand in hand
+We are hap-py all a-cross the land
 
 **Actions/Gestures**:
 1. **Spin around** - Represent the world turning and people in different places all living together

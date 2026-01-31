@@ -23,20 +23,20 @@ Young learners explore the magical properties of light and sound through interac
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Light and sound are all around (7 syllables: Light-and-sound-are-all-a-round)
-Bounce and travel, every sound (7 syllables: Bounce-and-trav-el-ev-er-y-sound)
-See the shadows on the floor (7 syllables: See-the-shad-ows-on-the-floor)
-Hear the music, more and more (7 syllables: Hear-the-mu-sic-more-and-more)
-Watch the light dance through the air (7 syllables: Watch-the-light-dance-through-the-air)
-Sound and light are everywhere (7 syllables: Sound-and-light-are-ev-ery-where)
+Light and sound are all around
+Bounce and travel, every sound
+See the shadows on the floor
+Hear the music, more and more
+Watch the light dance through the air
+Sound and light are everywhere
 
 *Verse 2*
-Drums go boom and bells go ring (7 syllables: Drums-go-boom-and-bells-go-ring)
-Tap and play and hear them sing (7 syllables: Tap-and-play-and-hear-them-sing)
-Mirrors sparkle, bright and clear (7 syllables: Mir-rors-spar-kle-bright-and-clear)
-Light bounces where we steer (7 syllables: Light-boun-ces-where-we-steer)
-Close your eyes and listen well (7 syllables: Close-your-eyes-and-lis-ten-well)
-Sound tells stories it can tell (7 syllables: Sound-tells-sto-ries-it-can-tell)
+Drums go boom and bells go ring
+Tap and play and hear them sing
+Mirrors sparkle, bright and clear
+Light bounces where we steer
+Close your eyes and listen well
+Sound tells stories it can tell
 
 **Actions/Gestures**:
 1. For "Light and sound are all around" - spread arms wide in a big circle to show everything around

@@ -25,14 +25,14 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 **Lyrics** (2 verses, 8-8-12 syllables per verse):
 
 *Verse 1*
-The arms on my bod-y go round and a-round (8 syllables: The-arms-on-my-bod-y-go-round-and-a-round)
-Round and a-round, round and a-round (8 syllables: Round-and-a-round-round-and-a-round)
-The arms on my bod-y go round and a-round, all through the day (12 syllables: The-arms-on-my-bod-y-go-round-and-a-round-all-through-the-day)
+The arms on my bod-y go round and a-round
+Round and a-round, round and a-round
+The arms on my bod-y go round and a-round, all through the day
 
 *Verse 2*
-The legs on my bod-y go jump, jump, jump (8 syllables: The-legs-on-my-bod-y-go-jump-jump-jump)
-Jump, jump, jump, jump, jump, jump (8 syllables: Jump-jump-jump-jump-jump-jump)
-The legs on my bod-y go jump, jump, jump, all through the day (12 syllables: The-legs-on-my-bod-y-go-jump-jump-jump-all-through-the-day)
+The legs on my bod-y go jump, jump, jump
+Jump, jump, jump, jump, jump, jump
+The legs on my bod-y go jump, jump, jump, all through the day
 
 **Actions/Gestures**:
 1. **Arm circles**: Roll both arms in big circles forward, then backward—reinforcing the concept of coordinated movement and spatial awareness

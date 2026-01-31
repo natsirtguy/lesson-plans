@@ -23,20 +23,18 @@ Children explore who they are by recognizing their own name, physical characteri
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-My name is [child's name], yes it's true (7 syllables: My-name-is-child's-name-yes-it's-true)
-I am special, I am you (7 syllables: I-am-spe-cial-I-am-you)
-I have eyes and a nose too (7 syllables: I-have-eyes-and-a-nose-too)
-I have things I like to do (7 syllables: I-have-things-I-like-to-do)
-I am unique from head to toe (7 syllables: I-am-u-nique-from-head-to-toe)
-My own special, only me, I know (8 syllables: My-own-spe-cial-on-ly-me-I-know) *[Note: slight variation acceptable for this line]*
-
-*Verse 2*
-I like colors, I like songs (7 syllables: I-like-col-ors-I-like-songs)
-I know what I like and wrong (7 syllables: I-know-what-I-like-and-wrong)
-I have feelings big and small (7 syllables: I-have-feel-ings-big-and-small)
-I am special most of all (7 syllables: I-am-spe-cial-most-of-all)
-Nobody else is quite like me (7 syllables: No-bod-y-else-is-quite-like-me)
-My own person, special, can't you see (8 syllables: My-own-per-son-spe-cial-can't-you-see)
+My name is [child's name], yes it's true
+I am special, I am you
+I have eyes and a nose too
+I have things I like to do
+I am unique from head to toe
+My own special, only me, I know
+I like colors, I like songs
+I know what I like and wrong
+I have feelings big and small
+I am special most of all
+Nobody else is quite like me
+My own person, special, can't you see
 
 **Actions/Gestures**:
 1. Point to yourself as you sing your name, then point to others when saying "you"

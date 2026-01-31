@@ -23,20 +23,20 @@ This lesson helps young children understand how human actions affect the natural
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-We must care for na-ture's gift (7 syllables: We-must-care-for-na-ture's-gift)
-Plants and an-i-mals need our help (7 syllables: Plants-and-an-i-mals-need-our-help)
-Pick up trash and plant a seed (7 syllables: Pick-up-trash-and-plant-a-seed)
-Ev-ry act shows what we need (7 syllables: Ev-ry-act-shows-what-we-need)
-This is how we care with love (7 syllables: This-is-how-we-care-with-love)
-Protect the world that we're a part of (7 syllables: Pro-tect-the-world-that-we're-a-part-of)
+We must care for na-ture's gift
+Plants and an-i-mals need our help
+Pick up trash and plant a seed
+Ev-ry act shows what we need
+This is how we care with love
+Protect the world that we're a part of
 
 *Verse 2*
-Turn off lights and save the trees (7 syllables: Turn-off-lights-and-save-the-trees)
-Use less wat-er, please, oh please (7 syllables: Use-less-wa-ter-please-oh-please)
-Recycle items, don't throw away (7 syllables: Rec-y-cle-i-tems-don't-throw-a-way)
-Make a dif-ference ev-ry day (7 syllables: Make-a-dif-ference-ev-ry-day)
-Na-ture needs both you and me (7 syllables: Na-ture-needs-both-you-and-me)
-We can build a bet-ter world, you see (7 syllables: We-can-build-a-bet-ter-world-you-see)
+Turn off lights and save the trees
+Use less wat-er, please, oh please
+Recycle items, don't throw away
+Make a dif-ference ev-ry day
+Na-ture needs both you and me
+We can build a bet-ter world, you see
 
 **Actions/Gestures**:
 1. Pretend to pick up trash from the ground, then gently place in an imaginary bin

@@ -23,20 +23,20 @@ In this lesson, children explore how words are built and used together in patter
 **Lyrics** (2 verses, matching the 7-7-7-7-7-7 syllable pattern):
 
 *Verse 1*
-Pat-tern sounds go round and round (7 syllables: Pat-tern sounds go round and round)
-Words can rhyme with one same sound (7 syllables: Words can rhyme with one same sound)
-Cat and bat, they sound the same (7 syllables: Cat and bat they sound the same)
-Find the rhymes, let's play the game (7 syllables: Find the rhymes let's play the game)
-Pat-tern sounds go round and round (7 syllables: Pat-tern sounds go round and round)
-Words can rhyme with one same sound (7 syllables: Words can rhyme with one same sound)
+Pat-tern sounds go round and round
+Words can rhyme with one same sound
+Cat and bat, they sound the same
+Find the rhymes, let's play the game
+Pat-tern sounds go round and round
+Words can rhyme with one same sound
 
 *Verse 2*
-Syl-la-bles go clap clap clap (7 syllables: Syl-la-bles go clap clap clap)
-Tap them out, you'll have a snap (7 syllables: Tap them out you'll have a snap)
-But-ter-fly has three, you see (7 syllables: But-ter-fly has three you see)
-Clap with me one two and three (7 syllables: Clap with me one two and three)
-Words can mix and make something new (7 syllables: Words can mix and make something new)
-Sun-flow-er shows us what they do (7 syllables: Sun-flow-er shows us what they do)
+Syl-la-bles go clap clap clap
+Tap them out, you'll have a snap
+But-ter-fly has three, you see
+Clap with me one two and three
+Words can mix and make something new
+Sun-flow-er shows us what they do
 
 **Actions/Gestures**:
 1. Clap out syllables in words—one clap per sound chunk (reinforces understanding that words are made of smaller sound pieces)

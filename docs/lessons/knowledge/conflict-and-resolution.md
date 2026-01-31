@@ -23,16 +23,16 @@ Children learn that disagreements are normal and that there are helpful ways to 
 **Lyrics** (2 verses, 8-8-12 syllables per verse):
 
 *Verse 1*
-When we have a problem, what do we do? (8 syllables: When-we-have-a-prob-lem-what-do-we-do)
-What do we do? (5 syllables: What-do-we-do) / What do we do? (5 syllables: What-do-we-do)
-When we have a problem, what do we do? (8 syllables: When-we-have-a-prob-lem-what-do-we-do)
-We use kind words all day long. (8 syllables: We-use-kind-words-all-day-long)
+When we have a problem, what do we do?
+What do we do?
+When we have a problem, what do we do?
+We use kind words all day long.
 
 *Verse 2*
-We can share and take a turn, take a turn, take a turn. (12 syllables: We-can-share-and-take-a-turn-take-a-turn-take-a-turn)
-We can share and take a turn, (8 syllables: We-can-share-and-take-a-turn)
-That's how friends work out their problems, (8 syllables: That's-how-friends-work-out-their-prob-lems)
-And everyone feels better! (8 syllables: And-ev-ery-one-feels-bet-ter)
+We can share and take a turn, take a turn, take a turn.
+We can share and take a turn,
+That's how friends work out their problems,
+And everyone feels better!
 
 **Actions/Gestures**:
 1. Hold hands up in "problem" shape (palms facing each other, slightly apart) when singing about problems, then bring hands together when singing about solutions

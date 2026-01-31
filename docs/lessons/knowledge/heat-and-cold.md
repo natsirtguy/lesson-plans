@@ -23,20 +23,20 @@ Children will explore the concepts of heat and cold through sensory experiences 
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Hot things make me warm and bright (7 syllables: Hot-things-make-me-warm-and-bright)
-Cold things feel so fresh and light (7 syllables: Cold-things-feel-so-fresh-and-light)
-Sun is hot up in the sky (7 syllables: Sun-is-hot-up-in-the-sky)
-Ice cream cold, I wonder why (7 syllables: Ice-cream-cold-I-won-der-why)
-Temperature tells me what I feel (7 syllables: Tem-per-a-ture-tells-me-what-I-feel)
-Hot or cold, both are real (7 syllables: Hot-or-cold-both-are-real)
+Hot things make me warm and bright
+Cold things feel so fresh and light
+Sun is hot up in the sky
+Ice cream cold, I wonder why
+Temperature tells me what I feel
+Hot or cold, both are real
 
 *Verse 2*
-Blankets warm me while I sleep (7 syllables: Blan-kets-warm-me-while-I-sleep)
-Cold outside when snow is deep (7 syllables: Cold-out-side-when-snow-is-deep)
-Mittens keep my hands so nice (7 syllables: Mit-tens-keep-my-hands-so-nice)
-Warm cocoa melts the icy ice (7 syllables: Warm-co-co-a-melts-the-i-cy-ice)
-Hot and cold I now can say (7 syllables: Hot-and-cold-I-now-can-say)
-Learning temperatures every day (7 syllables: Learn-ing-tem-per-a-tures-ev-ery-day)
+Blankets warm me while I sleep
+Cold outside when snow is deep
+Mittens keep my hands so nice
+Warm cocoa melts the icy ice
+Hot and cold I now can say
+Learning temperatures every day
 
 **Actions/Gestures**:
 1. Hug yourself and shiver when singing about cold, showing a brrrr motion with your shoulders

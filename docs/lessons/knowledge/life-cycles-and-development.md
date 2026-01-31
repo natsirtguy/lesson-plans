@@ -23,16 +23,16 @@ Children explore how living things grow and change over time, from seeds to plan
 **Lyrics** (2 verses, 8-8-12 syllables per verse):
 
 *Verse 1*
-The egg on the leaf goes round and round (8 syllables: The-egg-on-the-leaf-goes-round-and-round)
-Round and round, round and round (6 syllables: Round-and-round-round-and-round)
-The egg on the leaf goes round and round (8 syllables: The-egg-on-the-leaf-goes-round-and-round)
-Ready to hatch, ready to hatch, ready to hatch (12 syllables: Read-y-to-hatch-read-y-to-hatch-read-y-to-hatch)
+The egg on the leaf goes round and round
+Round and round, round and round
+The egg on the leaf goes round and round
+Ready to hatch, ready to hatch, ready to hatch
 
 *Verse 2*
-The caterpillar munches munch munch (8 syllables: The-cat-er-pill-ar-munch-es-munch-munch)
-Munch munch, munch munch (6 syllables: Munch-munch-munch-munch)
-The caterpillar munches munch munch (8 syllables: The-cat-er-pill-ar-munch-es-munch-munch)
-Growing bigger, growing bigger every day (12 syllables: Grow-ing-big-ger-grow-ing-big-ger-ev-ery-day)
+The caterpillar munches munch munch
+Munch munch, munch munch
+The caterpillar munches munch munch
+Growing bigger, growing bigger every day
 
 **Actions/Gestures**:
 1. Curl up small like an egg, then gradually stretch and grow bigger

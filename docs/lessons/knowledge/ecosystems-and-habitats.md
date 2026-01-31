@@ -23,24 +23,24 @@ Children discover that different animals live in different homes and environment
 **Lyrics** (2 verses, 8-12 syllables per line):
 
 *Verse 1*
-The fish in the pond go splash, splash, splash (8 syllables: The-fish-in-the-pond-go-splash-splash-splash)
-Splash, splash, splash, splash, splash, splash (8 syllables: Splash-splash-splash-splash-splash-splash)
-The fish in the pond go splash, splash, splash (8 syllables: The-fish-in-the-pond-go-splash-splash-splash)
-All through their watery home (8 syllables: All-through-their-wa-ter-y-home)
-The birds in the trees go tweet, tweet, tweet (8 syllables: The-birds-in-the-trees-go-tweet-tweet-tweet)
-Tweet, tweet, tweet, tweet, tweet, tweet (8 syllables: Tweet-tweet-tweet-tweet-tweet-tweet)
-The birds in the trees go tweet, tweet, tweet (8 syllables: The-birds-in-the-trees-go-tweet-tweet-tweet)
-All through their forest home (8 syllables: All-through-their-for-est-home)
+The fish in the pond go splash, splash, splash
+Splash, splash, splash, splash, splash, splash
+The fish in the pond go splash, splash, splash
+All through their watery home
+The birds in the trees go tweet, tweet, tweet
+Tweet, tweet, tweet, tweet, tweet, tweet
+The birds in the trees go tweet, tweet, tweet
+All through their forest home
 
 *Verse 2*
-The crabs in the sand go click, click, click (8 syllables: The-crabs-in-the-sand-go-click-click-click)
-Click, click, click, click, click, click (8 syllables: Click-click-click-click-click-click)
-The crabs in the sand go click, click, click (8 syllables: The-crabs-in-the-sand-go-click-click-click)
-All through their sandy home (8 syllables: All-through-their-san-dy-home)
-Each creature finds just the right place to be (12 syllables: Each-crea-ture-finds-just-the-right-place-to-be)
-Living in habitats happy and free (12 syllables: Liv-ing-in-hab-i-tats-hap-py-and-free)
-Living in habitats happy and free (12 syllables: Liv-ing-in-hab-i-tats-hap-py-and-free)
-That's where they're meant to be! (8 syllables: That's-where-they're-meant-to-be)
+The crabs in the sand go click, click, click
+Click, click, click, click, click, click
+The crabs in the sand go click, click, click
+All through their sandy home
+Each creature finds just the right place to be
+Living in habitats happy and free
+Living in habitats happy and free
+That's where they're meant to be!
 
 **Actions/Gestures**:
 1. Make swimming motions with arms during "fish" verse; wiggle fingers like water for "splash"

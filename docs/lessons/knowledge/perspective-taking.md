@@ -23,20 +23,20 @@ Children explore the concept that different people see, feel, and think about th
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Different eyes see different things (7 syllables: Dif-fer-ent eyes see dif-fer-ent things)
-Standing still or on bird wings (7 syllables: Stand-ing still or on bird wings)
-You see this way, I see that way (7 syllables: You see this way, I see that way)
-Both are right, both are okay (7 syllables: Both are right, both are o-kay)
-Many views can all be true (7 syllables: Man-y views can all be true)
-What I see is different from you (8 syllables: What I see is dif-fer-ent from you)
+Different eyes see different things
+Standing still or on bird wings
+You see this way, I see that way
+Both are right, both are okay
+Many views can all be true
+What I see is different from you
 
 *Verse 2*
-Everyone has thoughts inside (7 syllables: Ev-ery-one has thoughts in-side)
-Different feelings deep and wide (7 syllables: Dif-fer-ent feel-ings deep and wide)
-What makes you smile, what makes you sad (7 syllables: What makes you smile, what makes you sad)
-Helps you know why others feel glad (8 syllables: Helps you know why oth-ers feel glad)
-Understanding hearts so true (7 syllables: Un-der-stand-ing hearts so true)
-Knowing me and knowing you (7 syllables: Know-ing me and know-ing you)
+Everyone has thoughts inside
+Different feelings deep and wide
+What makes you smile, what makes you sad
+Helps you know why others feel glad
+Understanding hearts so true
+Knowing me and knowing you
 
 **Actions/Gestures**:
 1. Point to your own eyes, then point to the child's eyes to show "different eyes see different things"

@@ -23,20 +23,20 @@ Children explore the relationship between actions and consequences through hands
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Push the ball, watch it go (7 syllables: Push-the-ball-watch-it-go)
-See it roll across the floor (8 syllables: See-it-roll-a-cross-the-floor)
-Push and pull, cause the change (7 syllables: Push-and-pull-cause-the-change)
-Actions make a different range (8 syllables: Ac-tions-make-a-diff-er-ent-range)
-Everything has reasons why (8 syllables: Ev-ery-thing-has-rea-sons-why)
-Effect comes after, that is why (8 syllables: Ef-fect-comes-af-ter-that-is-why)
+Push the ball, watch it go
+See it roll across the floor
+Push and pull, cause the change
+Actions make a different range
+Everything has reasons why
+Effect comes after, that is why
 
 *Verse 2*
-When I smile, friends smile too (7 syllables: When-I-smile-friends-smile-too)
-Kind actions make good feelings true (8 syllables: Kind-ac-tions-make-good-feel-ings-true)
-What I do will make a change (7 syllables: What-I-do-will-make-a-change)
-Consequences rearrange (7 syllables: Con-se-quen-ces-re-ar-range)
-First the cause, then the effect (7 syllables: First-the-cause-then-the-ef-fect)
-Everything connects, inspect (7 syllables: Ev-ery-thing-con-nects-in-spect)
+When I smile, friends smile too
+Kind actions make good feelings true
+What I do will make a change
+Consequences rearrange
+First the cause, then the effect
+Everything connects, inspect
 
 **Actions/Gestures**:
 1. Push hands forward together ("Push") when singing "Push the ball" to show physical action

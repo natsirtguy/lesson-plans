@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that expand beyond basic toddler language while rema
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Forests tall with trees so green (7 syllables: For-ests tall with trees so green)
-Where the animals like to be seen (8 syllables: Where the an-i-mals like to be seen)
-Deserts hot with sand so gold (7 syllables: Des-erts hot with sand so gold)
-Stories that the dunes have told (7 syllables: Sto-ries that the dunes have told)
-Each environment is special and true (8 syllables: Each en-vi-ron-ment is spe-cial and true)
-Different places, different homes for me and you (10 syllables: Dif-fer-ent pla-ces, dif-fer-ent homes for me and you)
+Forests tall with trees so green
+Where the animals like to be seen
+Deserts hot with sand so gold
+Stories that the dunes have told
+Each environment is special and true
+Different places, different homes for me and you
 
 *Verse 2*
-Mountains high up in the sky (7 syllables: Moun-tains high up in the sky)
-Where the eagles soar and fly (7 syllables: Where the ea-gles soar and fly)
-Oceans deep with waves so blue (7 syllables: O-ceans deep with waves so blue)
-Fish and whales live there too (6 syllables: Fish and whales live there too)
-Forests, deserts, oceans, mountains all around (9 syllables: For-ests, des-erts, o-ceans, moun-tains all a-round)
-Different environments, different life is found (9 syllables: Dif-fer-ent en-vi-ron-ments, dif-fer-ent life is found)
+Mountains high up in the sky
+Where the eagles soar and fly
+Oceans deep with waves so blue
+Fish and whales live there too
+Forests, deserts, oceans, mountains all around
+Different environments, different life is found
 
 **Actions/Gestures**:
 1. For "Forests": Make tall tree shapes with arms reaching up overhead

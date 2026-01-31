@@ -24,27 +24,25 @@ Children discover how structures are built and what materials are used in constr
 
 *Verse 1*
 
-Stack, stack, stack the blocks up high (7 syllables: Stack=1, stack=1, stack=1, the=1, blocks=1, up=1, high=1)
-Building, building, reaching for the sky (8 syllables: Build-ing=2, build-ing=2, reach-ing=2, for=1, the=1, sky=1) *Adjust: "Watch us build so very high" = Watch=1, us=1, build=1, so=1, ver-y=2, high=1 = 7*
+Stack, stack, stack the blocks up high
+Building, building, reaching for the sky
 
 Watch us build so very high (7 syllables)
-Blocks and blocks, we stack them tight (7 syllables: Blocks=1, and=1, blocks=1, we=1, stack=1, them=1, tight=1)
-Strong foundations hold it up (7 syllables: Strong=1, foun-da-tions=3, hold=1, it=1, up=1)
-Watch our structure reach the top (7 syllables: Watch=1, our=1, struc-ture=2, reach=1, the=1, top=1)
+Blocks and blocks, we stack them tight
+Strong foundations hold it up
+Watch our structure reach the top
 
 *Verse 2*
 
-All the pieces fit just right (7 syllables: All=1, the=1, piec-es=2, fit=1, just=1, right=1)
-Building with our hands so bright (7 syllables: Build-ing=2, with=1, our=1, hands=1, so=1, bright=1)
-Brick and wood and stone so strong (7 syllables: Brick=1, and=1, wood=1, and=1, stone=1, so=1, strong=1)
-Constructing all the day long (8 syllables: Con-struct-ing=3, all=1, the=1, day=1, long=1) *Adjust: "Building all day long" = Build-ing=2, all=1, day=1, long=1 = 5*
-
-**Corrected Verse 2**
+All the pieces fit just right
+Building with our hands so bright
+Brick and wood and stone so strong
+Constructing all the day longCorrected Verse 2**
 
 All the pieces fit just right (7 syllables)
 Building with our hands so bright (7 syllables)
 Brick and wood and stone so strong (7 syllables)
-We construct all the day long (7 syllables: We=1, con-struct=2, all=1, the=1, day=1, long=1)
+We construct all the day long
 
 **Actions/Gestures**:
 

@@ -24,21 +24,21 @@ In this lesson, children develop foundational critical thinking skills by learni
 
 *Verse 1*
 
-Why is the sky so very blue? (8 syllables: Why-is-the-sky-so-ver-y-blue)
-How do birds know what to do? (8 syllables: How-do-birds-know-what-to-do)
-Ask a question, wonder why (7 syllables: Ask-a-ques-tion-won-der-why)
-Look around with curious eyes (8 syllables: Look-a-round-with-cu-ri-ous-eyes)
-Think and reason all day long (7 syllables: Think-and-reas-on-all-day-long)
-Questions help us grow so strong (8 syllables: Ques-tions-help-us-grow-so-strong)
+Why is the sky so very blue?
+How do birds know what to do?
+Ask a question, wonder why
+Look around with curious eyes
+Think and reason all day long
+Questions help us grow so strong
 
 *Verse 2*
 
-What is hiding in that box? (8 syllables: What-is-hid-ing-in-that-box)
-Why do we unlock with locks? (8 syllables: Why-do-we-un-lock-with-locks)
-Thinking helps us find the way (7 syllables: Think-ing-helps-us-find-the-way)
-Every question helps us play (8 syllables: Ev-ery-ques-tion-helps-us-play)
-Wonder, question, explore, learn (7 syllables: Won-der-ques-tion-ex-plore-learn)
-New discoveries at each turn (8 syllables: New-dis-cov-er-ies-at-each-turn)
+What is hiding in that box?
+Why do we unlock with locks?
+Thinking helps us find the way
+Every question helps us play
+Wonder, question, explore, learn
+New discoveries at each turn
 
 **Actions/Gestures**:
 

@@ -23,20 +23,20 @@ Children explore the fascinating world of natural phenomena—observable events 
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Rain falls down from clouds up high (7 syllables: Rain falls down from clouds up high)
-Drip drop drip drop from the sky (7 syllables: Drip drop drip drop from the sky)
-Wind blows leaves and makes them dance (7 syllables: Wind blows leaves and makes them dance)
-Shadows follow ev'ry glance (7 syllables: Sha-dows fol-low ev-'ry glance)
-Nature's wonders all around (7 syllables: Na-ture's won-ders all a-round)
-See the magic all around (7 syllables: See the mag-ic all a-round)
+Rain falls down from clouds up high
+Drip drop drip drop from the sky
+Wind blows leaves and makes them dance
+Shadows follow ev'ry glance
+Nature's wonders all around
+See the magic all around
 
 *Verse 2*
-Sunshine warms us through the day (7 syllables: Sun-shine warms us through the day)
-Moonlight shows a gentle way (7 syllables: Moon-light shows a gen-tle way)
-Storms bring thunder, flash of light (7 syllables: Storms bring thun-der, flash of light)
-Nature dances day and night (7 syllables: Na-ture dan-ces day and night)
-Every season brings a change (7 syllables: Ev-'ry sea-son brings a change)
-Natural wonders all around (7 syllables: Na-tu-ral won-ders all a-round)
+Sunshine warms us through the day
+Moonlight shows a gentle way
+Storms bring thunder, flash of light
+Nature dances day and night
+Every season brings a change
+Natural wonders all around
 
 **Actions/Gestures**:
 1. Rain falling: Wiggle fingers downward slowly from above head

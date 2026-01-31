@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Safe-ty keeps us strong and sound (7 syllables: Safe-ty=2, keeps=1, us=1, strong=1, and=1, sound=1)
-We can trust the grown-ups 'round (7 syllables: We=1, can=1, trust=1, the=1, grown-ups=2, 'round=1)
-When we feel a lit-tle scared (7 syllables: When=1, we=1, feel=1, a=1, lit-tle=2, scared=1)
-There's a safe one who has cared (7 syllables: There's=1, a=1, safe=1, one=1, who=1, has=1, cared=1)
-Wear your hel-met, hold my hand (7 syllables: Wear=1, your=1, hel-met=2, hold=1, my=1, hand=1)
-Safe-ty helps us un-der-stand (7 syllables: Safe-ty=2, helps=1, us=1, un-der-stand=3)
+Safe-ty keeps us strong and sound
+We can trust the grown-ups 'round
+When we feel a lit-tle scared
+There's a safe one who has cared
+Wear your hel-met, hold my hand
+Safe-ty helps us un-der-stand
 
 *Verse 2*
-Pro-tect your heart, your mind, your skin (7 syllables: Pro-tect=2, your=1, heart=1, your=1, mind=1, your=1, skin=1)
-Stay a-way from dan-ger's spin (7 syllables: Stay=1, a-way=2, from=1, dan-ger's=2, spin=1)
-E-nvi-ron-ment needs care so true (7 syllables: E-nvi-ron-ment=4, needs=1, care=1, so=1, true=1)
-Safe-ty starts with me and you (7 syllables: Safe-ty=2, starts=1, with=1, me=1, and=1, you=1)
-Lis-ten close and stay a-lert (7 syllables: Lis-ten=2, close=1, and=1, stay=1, a-lert=2)
-Safe-ty keeps us from get-ting hurt (7 syllables: Safe-ty=2, keeps=1, us=1, from=1, get-ting=2, hurt=1)
+Pro-tect your heart, your mind, your skin
+Stay a-way from dan-ger's spin
+E-nvi-ron-ment needs care so true
+Safe-ty starts with me and you
+Lis-ten close and stay a-lert
+Safe-ty keeps us from get-ting hurt
 
 **Actions/Gestures**:
 1. Make a "safe" hug gesture around yourself when singing about protection

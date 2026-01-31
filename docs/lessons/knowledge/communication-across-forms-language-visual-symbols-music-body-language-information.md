@@ -24,21 +24,21 @@ Children explore how we send and receive messages in many different ways - throu
 
 *Verse 1*
 
-We can talk and we can sing (7 syllables: We-can-talk-and-we-can-sing)
-We can dance and we can swing (7 syllables: We-can-dance-and-we-can-swing)
-We can point and we can wave (7 syllables: We-can-point-and-we-can-wave)
-Show our feelings being brave (7 syllables: Show-our-feel-ings-be-ing-brave)
-All these ways to say hello (7 syllables: All-these-ways-to-say-hel-lo)
-Ways that help our loved ones know (7 syllables: Ways-that-help-our-loved-ones-know)
+We can talk and we can sing
+We can dance and we can swing
+We can point and we can wave
+Show our feelings being brave
+All these ways to say hello
+Ways that help our loved ones know
 
 *Verse 2*
 
-Pictures, symbols, sounds so true (7 syllables: Pic-tures-sym-bols-sounds-so-true)
-Body language tells us too (7 syllables: Bo-dy-lang-guage-tells-us-too)
-Smile to show that we are glad (7 syllables: Smile-to-show-that-we-are-glad)
-Frown can show when we are sad (7 syllables: Frown-can-show-when-we-are-sad)
-Many ways to send our care (7 syllables: Man-y-ways-to-send-our-care)
-Messages we send everywhere (7 syllables: Mess-ag-es-we-send-ev-ery-where)
+Pictures, symbols, sounds so true
+Body language tells us too
+Smile to show that we are glad
+Frown can show when we are sad
+Many ways to send our care
+Messages we send everywhere
 
 **Actions/Gestures**:
 

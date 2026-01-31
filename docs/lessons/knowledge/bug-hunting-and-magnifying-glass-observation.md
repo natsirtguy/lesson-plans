@@ -24,17 +24,17 @@ Children will explore the outdoor world as nature detectives, discovering insect
 
 *Verse 1*
 
-Little bugs are all around (7 syllables: lit-tle bugs are all a-round)
-Look for them up-on the ground (7 syllables: look for them up-on the ground)
-With my glass I see them well (7 syllables: with my glass I see them well)
-All the secrets they can tell (7 syllables: all the se-crets they can tell)
+Little bugs are all around
+Look for them up-on the ground
+With my glass I see them well
+All the secrets they can tell
 
 *Verse 2*
 
-Black and brown and green so bright (7 syllables: black and brown and green so bright)
-Tiny creatures, what a sight (7 syllables: ti-ny crea-tures what a sight)
-Bugs are crawl-ing here and there (7 syllables: bugs are crawl-ing here and there)
-Living in the earth and air (7 syllables: li-ving in the earth and air)
+Black and brown and green so bright
+Tiny creatures, what a sight
+Bugs are crawl-ing here and there
+Living in the earth and air
 
 **Actions/Gestures**:
 1. Make binoculars with your hands (form circles with both hands at eyes) and pretend to look through a magnifying glass

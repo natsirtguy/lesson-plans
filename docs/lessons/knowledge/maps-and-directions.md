@@ -29,20 +29,20 @@ Select 3-4 vocabulary words that:
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Maps show places from up high (5 syllables: Maps show plac-es from up high)
-Like a bird up in the sky (7 syllables: Like a bird up in the sky)
-Symbols show the trees and streets (7 syllables: Sym-bols show the trees and streets)
-Where we walk on our own feet (7 syllables: Where we walk on our own feet)
-Following the path we take (7 syllables: Fol-low-ing the path we take)
-To the places that we make (7 syllables: To the plac-es that we make)
+Maps show places from up high
+Like a bird up in the sky
+Symbols show the trees and streets
+Where we walk on our own feet
+Following the path we take
+To the places that we make
 
 *Verse 2*
-Landmarks help us find our way (7 syllables: Land-marks help us find our way)
-The red mailbox, every day (7 syllables: The red mail-box, ev-ery day)
-North and south and east and west (7 syllables: North and south and east and west)
-Maps help us know what is best (7 syllables: Maps help us know what is best)
-Exploring all around our town (8 syllables: Ex-plor-ing all a-round our town)
-Following the map right down (7 syllables: Fol-low-ing the map right down)
+Landmarks help us find our way
+The red mailbox, every day
+North and south and east and west
+Maps help us know what is best
+Exploring all around our town
+Following the map right down
 
 **Actions/Gestures**:
 1. Point upward on "from up high" to show bird's-eye view perspective

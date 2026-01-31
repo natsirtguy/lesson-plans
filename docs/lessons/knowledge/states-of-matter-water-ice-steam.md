@@ -23,20 +23,20 @@ Children will discover how water can exist in three different forms—liquid, so
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Water, water, everywhere (6 syllables: wa-ter, wa-ter, ev-ry-where)
-Solid ice or liquid fair (7 syllables: sol-id ice or liq-uid fair)
-Freeze it cold and hard it grows (7 syllables: freeze it cold and hard it grows)
-Steam will rise where heat blows (6 syllables: steam will rise where heat blows)
-Three forms dancing all around (6 syllables: three forms dan-cing all a-round)
-Matter changes, watch it now (7 syllables: mat-ter chang-es, watch it now)
+Water, water, everywhere
+Solid ice or liquid fair
+Freeze it cold and hard it grows
+Steam will rise where heat blows
+Three forms dancing all around
+Matter changes, watch it now
 
 *Verse 2*
-Ice cube melting in my hand (7 syllables: ice cube mel-ting in my hand)
-Liquid puddles on the sand (7 syllables: liq-uid pud-dles on the sand)
-Heat it up and watch it rise (7 syllables: heat it up and watch it rise)
-Invisible clouds in the skies (8 syllables: in-vis-i-ble clouds in the skies)
-Solid, liquid, floating free (7 syllables: sol-id, liq-uid, float-ing free)
-Water's changing just for me (7 syllables: wa-ter's chang-ing just for me)
+Ice cube melting in my hand
+Liquid puddles on the sand
+Heat it up and watch it rise
+Invisible clouds in the skies
+Solid, liquid, floating free
+Water's changing just for me
 
 **Actions/Gestures**:
 1. Make fists tight like ice (solid) and hold them rigid

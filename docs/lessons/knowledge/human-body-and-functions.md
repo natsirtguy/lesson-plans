@@ -23,20 +23,20 @@ Children discover the amazing systems and parts that make their body work! Throu
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-My heart beats in-side my chest (7 syllables: My=1, heart=1, beats=1, in=1, side=1, my=1, chest=1)
-Pump-ing blood to do its best (7 syllables: Pump=1, ing=1, blood=1, to=1, do=1, its=1, best=1)
-My bones are strong they help me stand (7 syllables: My=1, bones=1, are=1, strong=1, they=1, help=1, me=1, stand=1)
-My mus-cles move across the land (7 syllables: My=1, mus=1, cles=1, move=1, a=1, cross=1, the=1, land=1)
-When I breathe in deep and slow (7 syllables: When=1, I=1, breathe=1, in=1, deep=1, and=1, slow=1)
-My lungs help all my bod-y grow (7 syllables: My=1, lungs=1, help=1, all=1, my=1, bod=1, y=1, grow=1)
+My heart beats in-side my chest
+Pump-ing blood to do its best
+My bones are strong they help me stand
+My mus-cles move across the land
+When I breathe in deep and slow
+My lungs help all my bod-y grow
 
 *Verse 2*
-Touch your head and touch your toes (7 syllables: Touch=1, your=1, head=1, and=1, touch=1, your=1, toes=1)
-Feel your bod-y as it goes (7 syllables: Feel=1, your=1, bod=1, y=1, as=1, it=1, goes=1)
-Bend and stretch and twist a-round (7 syllables: Bend=1, and=1, stretch=1, and=1, twist=1, a=1, round=1)
-Feel your heart's own beat-ing sound (7 syllables: Feel=1, your=1, heart's=1, own=1, beat=1, ing=1, sound=1)
-Jump and run and then slow down (7 syllables: Jump=1, and=1, run=1, and=1, then=1, slow=1, down=1)
-Your bod-y is the best in town (7 syllables: Your=1, bod=1, y=1, is=1, the=1, best=1, in=1, town=1)
+Touch your head and touch your toes
+Feel your bod-y as it goes
+Bend and stretch and twist a-round
+Feel your heart's own beat-ing sound
+Jump and run and then slow down
+Your bod-y is the best in town
 
 **Actions/Gestures**:
 1. Point to chest and make circular motions to show heart pumping

@@ -24,21 +24,21 @@ In this lesson, children explore spatial awareness, problem-solving, and creativ
 
 *Verse 1*
 
-Building, building up a fort (7 syllables: Build-ing, build-ing up a fort)
-Gather blankets for our fort (7 syllables: Gath-er blan-kets for our fort)
-Stack them high, then drape them low (7 syllables: Stack them high, then drape them low)
-Now our cozy hide-away (7 syllables: Now our co-zy hide-a-way)
-Building, building up a fort (7 syllables: Build-ing, build-ing up a fort)
-Safe and warm inside all day (7 syllables: Safe and warm in-side all day)
+Building, building up a fort
+Gather blankets for our fort
+Stack them high, then drape them low
+Now our cozy hide-away
+Building, building up a fort
+Safe and warm inside all day
 
 *Verse 2*
 
-In our fort we play all day (7 syllables: In our fort we play all day)
-Shadows dance on blanket walls (7 syllables: Shad-ows dance on blan-ket walls)
-Stories told throughout the space (7 syllables: Sto-ries told through-out the space)
-Peace and quiet, warm embrace (7 syllables: Peace and qui-et, warm em-brace)
-In our fort we play all day (7 syllables: In our fort we play all day)
-Building memories to stay (7 syllables: Build-ing mem-o-ries to stay)
+In our fort we play all day
+Shadows dance on blanket walls
+Stories told throughout the space
+Peace and quiet, warm embrace
+In our fort we play all day
+Building memories to stay
 
 **Actions/Gestures**:
 

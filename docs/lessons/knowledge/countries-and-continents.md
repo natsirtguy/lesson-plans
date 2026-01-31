@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Around the world so far and wide (8 syllables: A-round the world so far and wide)
-Many lands on Earth reside (8 syllables: Ma-ny lands on Earth re-side)
-Continents of seven kind (7 syllables: Con-ti-nents of sev-en kind)
-People, places, nature find (8 syllables: Peo-ple, plac-es, na-ture find)
-So much beauty everywhere (7 syllables: So much beau-ty ev-ery-where)
-Countries in the Earth's big care (7 syllables: Coun-tries in the Earth's big care)
+Around the world so far and wide
+Many lands on Earth reside
+Continents of seven kind
+People, places, nature find
+So much beauty everywhere
+Countries in the Earth's big care
 
 *Verse 2*
-Spin the globe and look around (7 syllables: Spin the globe and look a-round)
-Africa has big elephant sound (9 syllables: Af-ri-ca has big el-e-phant sound)
-Asia's mountains touch the sky (7 syllables: A-sia's moun-tains touch the sky)
-Europe's towns are way up high (7 syllables: Eu-rope's towns are way up high)
-Every country has a place (7 syllables: Ev-ery coun-try has a place)
-On our world's amazing face (7 syllables: On our world's a-maz-ing face)
+Spin the globe and look around
+Africa has big elephant sound
+Asia's mountains touch the sky
+Europe's towns are way up high
+Every country has a place
+On our world's amazing face
 
 **Actions/Gestures**:
 1. Spin your hands in a circular motion like spinning a globe

@@ -1,282 +1,182 @@
-# ARTS & CULTURE ACTIVITY: Sign Language and Gesture Games
+# 📚 KNOWLEDGE, SKILLS & CULTURE: Sign Language and Gesture Games
 
-## Activity Summary
+## 🎯 Activity Summary
 
-This activity introduces children to non-verbal communication through sign language and gesture-based games, building awareness that people communicate in many different ways beyond spoken words. Children learn simple signs, create their own gestures, and play interactive games that develop body awareness, attention to detail, and inclusive communication skills. This activity is valuable because it celebrates diverse communication methods, supports children learning to sign, and helps all children understand that meaning can be conveyed through movement and visual expression.
+This activity introduces children to non-verbal communication through sign language and gesture-based games, building awareness that people communicate in many different ways beyond spoken words. Children learn simple signs, create their own gestures, and play interactive games that develop body awareness, attention to detail, and inclusive communication skills.
 
-**Activity Type**: Social and Cultural Communication Practice
+## Vocabulary
+
+**Non-verbal Communication**: Sharing meaning and ideas without using spoken words. For example, waving your hand to say goodbye, or nodding your head to say yes.
+
+**Gesture**: A movement of your hands, arms, body, or head that shows what you mean or how you feel. For example, clapping your hands to show you're happy.
+
+**Expression**: Showing your feelings or thoughts through your face and body movements. When you smile big and jump up and down, you're expressing that you're excited.
+
+**Inclusive**: Making a space where all people feel welcome and able to join in, even if they communicate or move in different ways.
+
+## 🎵 Learning Song
+
+**Tune**: Baa, Baa, Black Sheep
+
+**Tempo**: Moderate and playful
+
+**Lyrics**
+
+*Verse 1*
+
+Wave your hands and show me how,
+Tell a story, take a bow.
+Sign and gesture, dance around,
+Communication without sound.
+
+*Verse 2*
+
+Shake your body, use your face,
+Show emotions, set the pace.
+Friends can talk in many ways,
+Signs and gestures brighten days.
+
+**Actions/Gestures**:
+1. Wave hands back and forth (waving motion)
+2. Point and sweep arms in large circles (gesturing/storytelling)
+3. Make exaggerated facial expressions (happy, sad, excited)
+
+## 📺 Intro Video Recommendation
+
+**Recommended video**: Search YouTube for "Baby Sign Language" or "Sign Language for Toddlers"
+
+**What to look for**:
+- 2-5 minutes long
+- Adult or child demonstrating simple signs clearly
+- Bright colors and engaging visuals
+- Slow-paced demonstration with repetition
+- Focus on basic signs like HELLO, THANK YOU, MORE
+- Closed captions available
+
+**Alternative searches**:
+- "ASL (American Sign Language) for young children"
+- "Simple sign language games for preschoolers"
+- "How to teach baby sign language at home"
+
+## Activity
+
+### Activity Overview
+
+Children explore non-verbal communication by learning simple signs, making gestures, and playing interactive guessing games. Through imitation, creation, and play-based learning, children discover that there are many ways to express ideas and feelings beyond words. This builds body awareness, observation skills, and understanding of inclusive communication.
+
+**Activity Type**: Social and cultural communication practice, movement exploration
 
 **Duration**: 15-25 minutes (with natural breaks)
 
-**Mess Level**: Low - no mess, purely movement-based
-
-**Best Environment**: Open floor space or large table area where children can see each other clearly
-
-## Complete Activity Setup
+**Setup time**: Minimal (2-5 minutes)
 
 ### Materials Needed
 
-**Essential materials**:
-- Your own hands and body - no other materials required
-- Clear space (5 x 5 feet minimum for movement)
-- Optional: Mirror to see gestures (body-length preferred)
+**Essential**:
+- Your own hands and body (no other materials required)
+- Clear space (5 x 5 feet minimum for safe movement)
+- Good lighting so hand shapes are visible
 
-**Optional enhancements**:
+**Optional**:
+- Body-length mirror to see gestures
 - Picture cards showing simple signs (animals, greetings, emotions)
-- Scarves or ribbons to follow during movement games
-- Music for rhythmic gesture games
-- Whiteboard to draw simple gestures
+- Scarves or ribbons for following during movement games
 - Toy animals to sign about
 
-**Cost estimate**: Free (or minimal if purchasing picture cards)
+**Cost**: Free
 
-**Preparation time**: Minimal (2-5 minutes to clear space and think through simple signs)
+### Step-by-Step Instructions
 
-### Step-by-Step Setup
-
-**Before starting**:
+**Preparation**:
 1. Clear the space of obstacles and hazards
-2. Ensure you have a clear view of all children and they can see you
-3. Practice 3-4 simple signs you'll teach (see examples below)
-4. Decide on 1-2 gesture games you'll play
+2. Arrange so all children can see your face and hands clearly (semi-circle seating is ideal)
+3. Practice 3-4 simple signs beforehand (HELLO, THANK YOU, MORE, HAPPY are good starters)
+4. Ensure good lighting and consider positioning near a mirror if available
 
-**Environment setup**:
-- Arrange so all children can see your face and hands clearly (ideally seated or standing in a semi-circle)
-- Have enough space for children to gesture without hitting each other
-- Ensure good lighting so hand shapes are visible
-- Consider positioning near a mirror if available
+**Activity Flow**:
 
-**Cleaning supplies ready**:
-- Not needed for this activity
+1. **Introduction** (2-3 minutes):
 
-### Simple Signs to Teach
+   Start with hands behind your back and get children's attention through facial expression and eye contact. Show your hands with an excited gesture (both hands opening upward). Say: "Today we're going to learn a fun way to talk with our hands and bodies - using signs and silly gestures! We don't have to say words. We can tell stories and play games just by moving."
 
-**Basic signs children can learn**:
-- **HELLO**: Wave hand at side of head
-- **THANK YOU**: Place fingertips on chin, move hand outward/downward
-- **MORE**: Tap fingertips together (both hands)
-- **PLEASE**: Place hand on chest, move outward in circular motion
-- **YES**: Make a fist, bend elbow (nod-like motion)
-- **NO**: Shake head while waggling index and middle finger
-- **FRIEND**: Hook index fingers together
-- **HAPPY**: Move open hands upward on chest (smile motion)
-- **CAT**: Draw whiskers from cheeks with index and middle fingers
-- **DOG**: Snap fingers while patting leg
+   Demonstrate one simple sign like HELLO (just wave your hand). Explain: "When I show you a sign or gesture, watch carefully with your eyes and your body. There's no 'right way' - everyone's signs can look a little different, and that's wonderful."
 
-## Activity Session Structure
+2. **Exploration** (5-10 minutes):
 
-### Opening (2-3 minutes)
+   Introduce one sign at a time, starting with 3-4 signs total. Demonstrate the sign slowly, showing hand shape, position, and movement. Invite children to copy: "Now it's your turn - can you make your hands look like mine?"
 
-**How to introduce and engage**:
-- Start with your hands behind your back and get children's attention through facial expression and eye contact
-- Show your hands with an excited gesture (both hands open, moving upward)
-- Say: "Today we're going to learn a fun way to talk with our hands and bodies - using signs and silly gestures! We don't have to say words. We can tell stories and play games just by moving."
-- Demonstrate one simple sign (HELLO is a great opener - just wave)
+   **Simple signs to teach**:
+   - **HELLO**: Wave hand at side of head
+   - **THANK YOU**: Place fingertips on chin, move hand outward/downward
+   - **MORE**: Tap fingertips together (both hands)
+   - **HAPPY**: Move open hands upward on chest
+   - **CAT**: Draw whiskers from cheeks with index and middle fingers
+   - **DOG**: Snap fingers while patting leg
 
-**Setting expectations**:
-- "When I show you a sign or gesture, watch carefully with your eyes and your body. There's no 'right way' - everyone's signs can look a little different, and that's wonderful."
-- "We'll take turns making gestures and guessing what they mean. We're being scientists of movement today!"
+   Comment on what you observe: "I see your hands moving up and down, just like HAPPY! That's the sign for happy!" Allow 30-60 seconds per sign for practice. Repeat signs if children request them.
 
-### Main Activity (10-20 minutes)
+3. **Discovery** (5-10 minutes):
 
-**Phase 1: Exploration and Imitation** (5-8 minutes)
-[Free exploration of movement and copying]
-- Introduce one sign at a time (3-4 signs total)
-- Demonstrate the sign slowly, showing hand shape, position, and movement
-- Invite children to copy you: "Now it's your turn - can you make your hands look like mine?"
-- Comment on what you observe: "I see your hands moving up and down, just like HAPPY! That's the sign for happy!"
-- Move through signs one at a time, allowing 30-60 seconds per sign for practice
-- Repeat popular signs if children request them
+   Play interactive gesture games:
 
-**What to observe and comment on**:
-- Notice which signs children grasp quickly (hand shapes are easier than motions)
-- Comment on effort and approximation: "You're trying the hand shape - great job!"
-- Point out children who are watching carefully: "I see Sofia watching your hands very closely"
+   **Game 1: Sign Story** - Make 3-4 simple signs in sequence (HELLO, CAT, HAPPY, FRIEND). Invite children to copy the sequence with you. Gradually add exaggerated gestures and create silly combinations.
 
-**Phase 2: Interactive Gesture Games** (5-10 minutes)
-[Introduce simple games using signs and gestures]
+   **Game 2: Guess the Gesture** - Make a simple, exaggerated gesture (large circle with arms, pretend eating, big yawn). Ask: "What am I doing? Can you show me too?" Accept various interpretations and celebrate all attempts.
 
-**Game 1: Sign Story**
-- Make 3-4 simple signs in sequence (HELLO, CAT, HAPPY, FRIEND)
-- Invite children to copy the sequence with you
-- Gradually add gestures (make a box with hands for "cat house," make bigger movements for "happy")
-- Create silly combinations: "HAPPY FRIENDS" or "CAT SAYS HELLO"
+   **Game 3: Copy and Change** - Make a simple gesture. Child copies it. You change one thing (turn hand, make it slower, higher or lower). Child copies the new version. This builds observation skills.
 
-**Game 2: Guess the Gesture**
-- Make a simple, exaggerated gesture (large circle with arms, pretend eating, big yawn)
-- Ask: "What am I doing? Can you show me too?"
-- Accept various interpretations - the goal is engagement, not precision
-- Celebrate all attempts: "You made it bigger than mine - I love that!"
+   **Game 4: Emotion Gestures** - Show happy (smile + hands up), sad (frown + hands down), excited (jumping + arms up), tired (yawn + slow movements). Children copy each emotion. Ask: "Can you show me a happy face with your hands?"
 
-**Game 3: Copy and Change**
-- Make a simple gesture
-- Child copies it
-- You change one thing (turn hand, make it slower, higher or lower)
-- Child copies the new version
-- Builds observation skills and body awareness
+4. **Wrap-up** (2-3 minutes):
 
-**Game 4: Emotion Gestures**
-- Show happy (smile + hands up), sad (frown + hands down), excited (jumping + arms up), tired (yawn + slow movements)
-- Children copy each emotion
-- Ask: "Can you show me a happy face with your hands?"
-- Expand: "What does your body do when you're excited?"
+   Gather children together and say: "We learned so many ways to talk without using words!" Sign or gesture a few of the learned signs. Ask: "Which sign or gesture was your favorite?" (Allow verbal or gesture responses). Closure: "Our hands and bodies can tell stories and share how we feel. That's pretty amazing!" Transition using signs: "HELLO (wave) to playtime!" or incorporate signs into transitions.
 
-**Adult role**:
-- Demonstrate clearly and exaggerate facial expressions
-- Move slowly so children can process and copy
-- Repeat the same signs/gestures multiple times - repetition supports learning
-- Use your face as much as your hands - expressions help meaning
-- Celebrate all attempts with genuine enthusiasm
-- Avoid making children feel self-conscious about trying
-- Check understanding by asking children to show you a sign
+### Age Adaptations
 
-**What to avoid**:
-- Don't correct hand shapes or body positions - this isn't about perfection
-- Don't force participation - some children may prefer watching first
-- Don't rush through signs - give processing time
-- Don't use only American Sign Language (ASL) - mix in invented gestures and movements for fun
+**2-3 years**:
 
-### Phase 3: Free Expression and Creation** (remaining time)
-[Child's own interpretation and creation]
-- Invite children to create their own gesture: "Can you make up a gesture that means 'silly' or 'jump'?"
-- Children can combine signs and gestures they've learned
-- Play games where children take turns being the "leader" of a gesture game
-- Let children request favorite signs to repeat
-- Offer choice: "Do you want to play Guess the Gesture or Make Up Our Own Signs?"
+Focus on very simple, large gestures and one or two signs. Use lots of repetition with familiar routines. Pair signs with spoken words (don't replace speech). Keep games very short (2-3 minutes each). Accept that many children will watch rather than participate at first. Use exaggerated facial expressions and movements for clarity. Focus on animal signs (CAT, DOG, BIRD) as they're concrete and engaging. Reduce overall duration to 10-15 minutes with more frequent breaks. Model every gesture and sign multiple times. Use hand-over-hand guidance gently if the child is comfortable.
 
-**What to encourage**:
-- Making it bigger, smaller, faster, slower
-- Using facial expressions along with hand movements
-- Creating new meanings for gestures
-- Teaching YOU a gesture they invented
+**3-4+ years**:
 
-### Wrap-Up (3-5 minutes)
+Introduce 5-7 signs instead of 3-4. Create sign sentences (HELLO + NAME + HOW ARE YOU). Play more complex games like Hide and Guess (hide action, children guess what it was). Introduce emotion signs and discuss feelings in detail. Create gesture stories with beginning, middle, and end. Encourage children to teach signs to peers. Ask children to describe what others' gestures mean. Introduce directional signs (signs that move toward or away from body). Connect to literacy by pairing signs with letters and words. Extend duration to 20-25 minutes as they can sustain longer engagement.
 
-**Concluding the activity**:
-- Gather children together and say: "We learned so many ways to talk without using words!"
-- Sign or gesture a few of the learned signs: "HELLO, THANK YOU, FRIEND, MORE"
-- Ask: "Which sign or gesture was your favorite?" (Allow verbal or gesture responses)
-- Closure: "Our hands and bodies can tell stories and share how we feel. That's pretty amazing!"
+### Extension Ideas
 
-**Transition to next activity**:
-- Use a sign or gesture to signal transition: "HELLO (wave) to (sign) playtime!" or similar
-- Incorporate signs into transitions: "Can you show me FRIEND while we walk to snack?"
-- Suggest children teach the sign to family members at home
+**Variation 1: Animal Sign Game** - Learn signs for 4-5 animals (CAT, DOG, BIRD, FISH, BEAR). Create a sequence or story using animal signs. Make animal movement gestures to go with signs (hop for bunny, swim for fish). Play "What Animal Am I?" where children guess the animal from gestures.
 
-## Age Adaptations
+**Variation 2: Emotion and Feeling Signs** - Learn signs for HAPPY, SAD, ANGRY, TIRED, SILLY, SCARED. Create an Emotion Mirror game where children show how their body looks when feeling different emotions. Read a picture book and have children sign the emotion of the character. Create an emotion wheel with gestures instead of words.
 
-### 2-3 years
-**Approach**:
-- Focus on very simple, large gestures and one or two signs
-- Use lots of repetition and familiar routines
-- Pair signs with spoken words (don't replace speech)
-- Keep games very short (2-3 minutes each)
-- Accept that many children will watch rather than participate at first
-- Use exaggerated facial expressions and movements for clarity
-- Focus on animal signs (CAT, DOG, BIRD) as they're concrete and engaging
+**Variation 3: Whole Body Story Gestures** - Create a story using large, full-body movements and signs combined. Example sequence: "HELLO friends, WALK to the BEACH, SWIM in WATER, PLAY TOGETHER, GOODBYE." Invite children to add movements and remember the sequence across sessions.
 
-**Duration**: 10-15 minutes (shorter sessions with more frequent breaks)
+**Repeat play**: Gesture games get better and easier with repetition. Replay favorite games many times. Teach family members the signs learned so children reinforce learning at home. Use signs during daily routines and transitions. Build a family "sign language" with made-up signs together.
 
-**Adult support**:
-- Model every gesture/sign multiple times
-- Use hand-over-hand guidance if child is comfortable (gently help form hand shape)
-- Stand where all children can see your face and hands
-- Use repetition as a learning tool, not as boring - enthusiasm makes repetition fun
-
-### 3-4+ years
-**Extensions**:
-- Introduce 5-7 signs instead of 3-4
-- Create sign sentences: HELLO + NAME + HOW ARE YOU
-- Play more complex games (Hide and Guess: hide action, children guess what it was)
-- Introduce emotion signs and discuss feelings: "Can you show me angry? Now sleepy?"
-- Create gesture stories with beginning, middle, end
-- Encourage children to teach signs to peers
-- Ask children to describe what others' gestures mean
-- Introduce directional signs (signs that move toward/away from body)
-- Connect to literacy: "This is the sign for APPLE - can you find the letter A?"
-
-**Duration**: 20-25 minutes (they can sustain longer engagement)
-
-## Extension Ideas for Repeat Play
-
-**Variation 1: Animal Sign Game**
-- Learn signs for 4-5 animals (CAT, DOG, BIRD, FISH, BEAR)
-- Create a sequence or story using animal signs
-- Make animal movement gestures to go with signs (hop for bunny, swim for fish)
-- Play "What Animal Am I?" where children guess the animal from gestures
-
-**Variation 2: Emotion and Feeling Signs**
-- Learn signs for HAPPY, SAD, ANGRY, TIRED, SILLY, SCARED
-- Create an "Emotion Mirror" game where children show how their body looks when feeling different emotions
-- Read a picture book and have children sign the emotion of the character
-- Create an emotion wheel with gestures instead of words
-
-**Variation 3: Whole Body Story Gestures**
-- Create a story using large, full-body movements and signs combined
-- Example: "HELLO friends, WALK to the BEACH, SWIM in WATER, PLAY TOGETHER, GOODBYE"
-- Invite children to add movements: "First we HELLO, then what? What do we do next?"
-- Record or repeat the story, inviting children to remember the sequence
-
-**Thematic variations**:
-- **Seasonal**: SNOW (wiggle fingers falling), SUN (make circle overhead), RAIN (repeat fingers falling motion)
-- **Holiday**: BIRTHDAY (sign + clap), PRESENT (open hands), PARTY (dance gesture)
-- **Community Helpers**: DOCTOR (gesture check-up), TEACHER (write in air), FIREFIGHTER (pretend spray water)
-- **Songs with Signs**: Add simple signs to familiar songs (Twinkle Twinkle Little Star, If You're Happy and You Know It)
-
-## Cultural Context
-
-**Cultural significance**:
-Sign language is a complete, natural language used by Deaf and hard of hearing communities around the world. Different countries have different sign languages (American Sign Language, British Sign Language, French Sign Language, etc.), just as they have different spoken languages. Teaching children about sign language and communication through gesture acknowledges that disability and deafness are aspects of human diversity. It also teaches all children that there are multiple valid ways to communicate and express oneself. Many hearing children grow up with Deaf family members or will work with Deaf individuals - exposure builds cultural competency and inclusion.
-
-**Exposure to diversity**:
-- Acknowledge that some people use sign language as their primary language
-- Show children that hearing is just one way people experience the world
-- Discuss: "People use different ways to talk - some use words, some use signs, some use both"
-- If possible, connect with a Deaf or hard of hearing person to visit and share sign language
-- Use gestures that come from different cultures (Mediterranean gestures, Asian bows, etc.)
-- Celebrate that everyone has their own special way of moving and expressing
-
-**Books/Media**:
-- "Goodnight Moon" in ASL (YouTube videos available showing signing along with the story)
-- "The Week Without Thursday" by Ariana Stein - features a Deaf character and sign language concepts
-- "A Button, a Bug, and a Butterfly" - simple sign language picture book for young learners
-- Search YouTube for "Baby Sign Language" videos to see expert models
-
-## Parent/Caregiver Notes
+## 📝 Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child doesn't want to participate or feels shy about gestures
-**Why**: Young children are still developing body awareness and comfort with movement. Public display of movements can feel vulnerable. Some children need more observation time before participating.
-**Solution**: Never force participation. Celebrate watching: "Thank you for watching so carefully!" Invite participation without pressure: "When you're ready, you can show me a sign." Start with very small movements. Do the activity side-by-side so they're not the center of attention. Let them lead - if they show a gesture first, copy them enthusiastically.
+**Challenge**: Child doesn't want to participate or feels shy about gestures.
 
-**Challenge**: Children get giggly or silly with gestures, don't take it seriously
-**Why**: Movement and exaggeration ARE funny to young children. This is developmentally normal and shows engagement. Silliness also helps them relax and feel safe being playful.
-**Solution**: This is wonderful - embrace the silliness! Silly is learning. Laughter helps children remember. You can guide the silliness toward the activity: "Let's make our HAPPY sign really, really big and silly!" Silliness builds confidence to try new movements.
+**Solution**: Never force participation. Celebrate watching: "Thank you for watching so carefully!" Invite participation without pressure by saying "When you're ready, you can show me a sign." Start with very small movements. Do the activity side-by-side so they're not the center of attention. Let them lead - if they show a gesture first, copy them enthusiastically.
 
-**Challenge**: Adult worries about "teaching wrong" or being inaccurate with sign language
-**Why**: Sign language is complex and there are many regional variations. Adults may feel insecure about accuracy.
-**Solution**: This activity is about introducing gesture and communication concepts, not achieving ASL fluency. Approximate signs work fine. Consider it similar to teaching children words - approximation is part of learning. If you want accuracy, research one sign at a time from reliable sources (Signing Savvy website, local Deaf organizations). Most importantly, the activity is about communication, movement, and inclusion - not perfect hand shapes.
+**Challenge**: Children get giggly or silly with gestures and don't take it seriously.
 
-### Tips for Success
-- **Use your whole face**: Facial expressions and mouth movements are part of sign language. Smile, exaggerate expressions, and use your eyes to help convey meaning
-- **Make exaggerated movements**: Large, clear movements are easier for young children to see and copy. After they learn, you can make subtle versions
-- **Repeat the same signs**: Children learn through repetition. Use the same 3-4 signs across multiple sessions, then add new ones
-- **Connect sign to meaning**: Always show the sign AND the concept together at first. Sign HAPPY while smiling. Gesture eating while moving hand to mouth
-- **Play, don't teach**: Frame it as a fun game, not a lesson. Children learn best through play and engagement, not formal instruction
-- **Use gesture in daily life**: Use the learned signs during transitions and routines. "HELLO, friends! Time to CLEAN UP" + sign. This reinforces learning naturally
-- **Follow the child's interests**: If a child is fascinated with animal gestures, explore those. If they invent their own gestures, celebrate and use them
+**Solution**: Embrace the silliness - silly IS learning! Laughter helps children remember. Guide the silliness toward the activity by saying "Let's make our HAPPY sign really, really big and silly!" Silliness builds confidence to try new movements.
 
-### What to Do With the Creation
-- **Practice repeatedly**: Gesture games get better and easier with repetition. Replay favorite games many times
-- **Teach family**: Encourage children to teach family members the signs they learned: "Show Grandma the FRIEND sign!"
-- **Incorporate into daily life**: Use signs during routines, transitions, and songs to reinforce learning
-- **Document learning**: Take photos or videos of children making the gestures (with parent permission) to track progress
-- **Build a family "sign language"**: Family members can create their own made-up signs together, building inside jokes and connections
-- **Connect to literacy**: As children grow, connect signs to written letters and words
+**Challenge**: Adult worries about teaching signs incorrectly or inaccurately.
+
+**Solution**: This activity is about introducing gesture and communication concepts, not achieving ASL fluency. Approximate signs work fine and are developmentally appropriate. If you want more accuracy, research one sign at a time from reliable sources like Signing Savvy website or local Deaf organizations. Remember that the activity focuses on communication, movement, and inclusion rather than perfect hand shapes.
+
+### Follow-Up Activities
+
+1. **Use signs in daily transitions**: Say "HELLO, friends! Time to CLEAN UP" while signing during routines. This reinforces learning naturally and shows signs in meaningful contexts.
+
+2. **Family sign-teaching**: Encourage children to teach family members the signs they learned. Create a family "sign language" with made-up signs together to build inside jokes and connections.
+
+3. **Connection to daily life**: Watch "Goodnight Moon" in ASL on YouTube with your child, or explore picture books about sign language. Discuss how different people communicate in different ways. If possible, arrange a visit from a Deaf or hard of hearing community member to share authentic sign language experiences.
 
 ---
 
-**Category**: Arts & Culture - Communication and Social Practice
+**Category**: Knowledge, Skills & Culture - Communication and Inclusive Expression
 
 *For children ages 2-4+ years. Adapt to your child's developmental stage and interests. This activity celebrates diverse communication and welcomes all learners regardless of hearing ability.*

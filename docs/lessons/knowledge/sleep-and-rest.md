@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Rest and sleep will help you grow (7 syllables: Rest-and-sleep-will-help-you-grow)
-Eyes grow heavy, moving slow (7 syllables: Eyes-grow-hea-vy-mo-ving-slow)
-Settle down into your bed (7 syllables: Set-tle-down-in-to-your-bed)
-Soft and cozy for your head (7 syllables: Soft-and-co-zy-for-your-head)
-Dreams will come to you tonight (7 syllables: Dreams-will-come-to-you-to-night)
-Rest will make you strong and bright (7 syllables: Rest-will-make-you-strong-and-bright)
+Rest and sleep will help you grow
+Eyes grow heavy, moving slow
+Settle down into your bed
+Soft and cozy for your head
+Dreams will come to you tonight
+Rest will make you strong and bright
 
 *Verse 2*
-Recharge your body, recharge your mind (8 syllables: Re-charge-your-bod-y-re-charge-your-mind)
-Leave your busy day behind (7 syllables: Leave-your-bu-sy-day-be-hind)
-Close your eyes and take a rest (7 syllables: Close-your-eyes-and-take-a-rest)
-Sleeping time is oh-so-best (7 syllables: Sleep-ing-time-is-oh-so-best)
-When you wake up fresh and new (7 syllables: When-you-wake-up-fresh-and-new)
-Sleep has given strength to you (7 syllables: Sleep-has-giv-en-strength-to-you)
+Recharge your body, recharge your mind
+Leave your busy day behind
+Close your eyes and take a rest
+Sleeping time is oh-so-best
+When you wake up fresh and new
+Sleep has given strength to you
 
 **Actions/Gestures**:
 1. Sway gently side to side with arms relaxed at sides (mimics calm, drowsy movement)

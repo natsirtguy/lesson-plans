@@ -25,10 +25,10 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 **Lyrics** (2 verses, matching "Wheels on the Bus" structure):
 
 *Verse 1*
-The doctor in the clinic goes "Listen, listen, listen" (8 syllables: the-doc-tor-in-the-clin-ic-goes lis-ten-lis-ten-lis-ten = 8)
-"Listen, listen, listen," all day long (8 syllables: lis-ten-lis-ten-lis-ten all-day-long = 8)
-With a stethoscope to hear your heart (8 syllables: with-a-steth-o-scope-to-hear-your-heart = 8)
-And helping you feel better, that's their art (12 syllables: and-help-ing-you-feel-bet-ter-that's-their-art = 9... RECOUNTING: and-help-ing-you-feel-bet-ter-thats-their-art-so-well = let me recount more carefully)
+The doctor in the clinic goes "Listen, listen, listen"
+"Listen, listen, listen," all day long
+With a stethoscope to hear your heart
+And helping you feel better, that's their art
 
 Let me recount and revise for proper syllable matching:
 

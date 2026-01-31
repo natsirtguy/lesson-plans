@@ -25,23 +25,23 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Balance, balance, stand up tall (7 syllables: ba-lance ba-lance stand-up tall)
-Feel your feet upon the ground (8 syllables: feel-your feet-u-pon-the ground)
-Use your arms to steady all (7 syllables: use-your arms-to stead-y all)
-Turn and sway and spin around (7 syllables: turn-and sway-and spin-a-round)
-Feel equilibrium (9 syllables: feel-e-qui-lib-ri-um) - adjust to 7: Feel your balance strong and still (7 syllables: feel-your bal-ance strong-and still)
+Balance, balance, stand up tall
+Feel your feet upon the ground
+Use your arms to steady all
+Turn and sway and spin around
+Feel equilibrium
 
 *Verse 1 (Corrected)*
-Balance, balance, stand up tall (7 syllables: ba-lance ba-lance stand-up tall)
-Feel your feet upon the ground (8 syllables: feel-your feet-u-pon-the ground)
-Use your arms to steady all (7 syllables: use-your arms-to stead-y all)
-Turn and sway and spin around (7 syllables: turn-and sway-and spin-a-round)
+Balance, balance, stand up tall
+Feel your feet upon the ground
+Use your arms to steady all
+Turn and sway and spin around
 
 *Verse 2*
-Walk with careful, gentle steps (7 syllables: walk-with care-ful gen-tle steps)
-Feel your body move with grace (7 syllables: feel-your bod-y move-with grace)
-Stretch and reach with arms out wide (7 syllables: stretch-and reach-with arms-out wide)
-Balance helps us through the day (7 syllables: bal-ance helps-us through-the day)
+Walk with careful, gentle steps
+Feel your body move with grace
+Stretch and reach with arms out wide
+Balance helps us through the day
 
 **Actions/Gestures**:
 1. Stand tall on both feet, then carefully lift one foot while extending arms out to sides for balance

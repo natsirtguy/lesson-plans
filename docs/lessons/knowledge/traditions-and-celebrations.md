@@ -23,18 +23,18 @@ Children explore what makes celebrations special by discovering that traditions 
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Cel-e-brate, cel-e-brate, let's come to-geth-er here (7 syllables: cel-e-brate cel-e-brate let's come to-geth-er here)
-Cel-e-brate, cel-e-brate, with peo-ple we hold dear (7 syllables: cel-e-brate cel-e-brate with peo-ple we hold dear)
-With mu-sic and with lights so bright (7 syllables: with mu-sic and with lights so bright)
-With friend-ly smiles and hearts so light (7 syllables: with friend-ly smiles and hearts so light)
-Cel-e-brate, cel-e-brate, a trad-tion year af-ter year (7 syllables: cel-e-brate cel-e-brate a trad-tion year af-ter year)
+Cel-e-brate, cel-e-brate, let's come to-geth-er here
+Cel-e-brate, cel-e-brate, with peo-ple we hold dear
+With mu-sic and with lights so bright
+With friend-ly smiles and hearts so light
+Cel-e-brate, cel-e-brate, a trad-tion year af-ter year
 
 *Verse 2*
-Gath-ering brings us all to-geth-er here (7 syllables: gath-ering brings us all to-geth-er here)
-Gath-ering all the peo-ple that we hold dear (7 syllables: gath-ering all the peo-ple that we hold dear)
-With sto-ries, songs, and food to share (7 syllables: with sto-ries songs and food to share)
-With laugh-ter ring-ing in the air (7 syllables: with laugh-ter ring-ing in the air)
-Trad-i-tions make our hearts grow warm and bright (7 syllables: trad-i-tions make our hearts grow warm and bright)
+Gath-ering brings us all to-geth-er here
+Gath-ering all the peo-ple that we hold dear
+With sto-ries, songs, and food to share
+With laugh-ter ring-ing in the air
+Trad-i-tions make our hearts grow warm and bright
 
 **Actions/Gestures**:
 

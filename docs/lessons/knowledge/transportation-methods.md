@@ -23,24 +23,24 @@ Children explore different ways people and objects move from one place to anothe
 **Lyrics** (2 verses, matching song structure):
 
 *Verse 1*
-The cars go vroom, vroom, vroom (8 syllables: The cars go vroom vroom vroom)
-Vroom, vroom, vroom, vroom (8 syllables: Vroom vroom vroom vroom)
-The cars go vroom, vroom, vroom (8 syllables: The cars go vroom vroom vroom)
-Down the streets all day (8 syllables: Down the streets all day)
-The trains go choo, choo, choo (8 syllables: The trains go choo choo choo)
-Choo, choo, choo, choo (8 syllables: Choo choo choo choo)
-The trains go choo, choo, choo (8 syllables: The trains go choo choo choo)
-On the railroad track (8 syllables: On the rail road track)
+The cars go vroom, vroom, vroom
+Vroom, vroom, vroom, vroom
+The cars go vroom, vroom, vroom
+Down the streets all day
+The trains go choo, choo, choo
+Choo, choo, choo, choo
+The trains go choo, choo, choo
+On the railroad track
 
 *Verse 2*
-The planes go zoom, zoom, zoom (8 syllables: The planes go zoom zoom zoom)
-Zoom, zoom, zoom, zoom (8 syllables: Zoom zoom zoom zoom)
-The planes go zoom, zoom, zoom (8 syllables: The planes go zoom zoom zoom)
-High up in the sky (8 syllables: High up in the sky)
-The boats go splash, splash, splash (8 syllables: The boats go splash splash splash)
-Splash, splash, splash, splash (8 syllables: Splash splash splash splash)
-The boats go splash, splash, splash (8 syllables: The boats go splash splash splash)
-Sailing on the water (12 syllables: Sail ing on the wa ter)
+The planes go zoom, zoom, zoom
+Zoom, zoom, zoom, zoom
+The planes go zoom, zoom, zoom
+High up in the sky
+The boats go splash, splash, splash
+Splash, splash, splash, splash
+The boats go splash, splash, splash
+Sailing on the water
 
 **Actions/Gestures**:
 1. Make a steering wheel motion with hands (like driving a car) during the car verse

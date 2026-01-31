@@ -23,19 +23,19 @@ Children explore the fascinating world of animals by observing and mimicking dif
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Animals move in different ways (7 syllables: An-i-mals move in dif-fer-ent ways)
-Some hop, skip, and play all day (7 syllables: Some hop, skip, and play all day)
-Some swim fast and some fly high (7 syllables: Some swim fast and some fly high)
-Some crawl slowly passing by (7 syllables: Some crawl slow-ly pass-ing by)
-Watch them move both big and small (7 syllables: Watch them move both big and small)
+Animals move in different ways
+Some hop, skip, and play all day
+Some swim fast and some fly high
+Some crawl slowly passing by
+Watch them move both big and small
 Each animal's behavior's special, that's for all (12 syllables - extends for longer lines in verse)
 
 *Verse 2*
-See the cat that pounces quick (7 syllables: See the cat that poun-ces quick)
-Watch the snake that moves so slick (7 syllables: Watch the snake that moves so slick)
-Birds will chirp and hop around (7 syllables: Birds will chirp and hop a-round)
-Dogs will bark with happy sound (7 syllables: Dogs will bark with hap-py sound)
-Different homes for every friend (7 syllables: Dif-fer-ent homes for ev-er-y friend)
+See the cat that pounces quick
+Watch the snake that moves so slick
+Birds will chirp and hop around
+Dogs will bark with happy sound
+Different homes for every friend
 Every animal's unique from start to end (12 syllables - extends for longer lines in verse)
 
 **Actions/Gestures**:

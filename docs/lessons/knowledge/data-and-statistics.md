@@ -24,21 +24,21 @@ Young learners discover that information can be collected, organized, and compar
 
 *Verse 1*
 
-Collect the data, here we go (7 syllables: col-lect the da-ta here we go)
-Sort them all in a neat row (7 syllables: sort them all in a neat row)
-Red ones here and blue ones there (7 syllables: red ones here and blue ones there)
-Look at all the things we share (7 syllables: look at all the things we share)
-Patterns growing, patterns show (7 syllables: pat-terns grow-ing pat-terns show)
-Data helps us learn and grow (7 syllables: da-ta helps us learn and grow)
+Collect the data, here we go
+Sort them all in a neat row
+Red ones here and blue ones there
+Look at all the things we share
+Patterns growing, patterns show
+Data helps us learn and grow
 
 *Verse 2*
 
-Compare the tallest and the small (7 syllables: com-pare the tall-est and the small)
-Count them, count them, count them all (7 syllables: count them count them count them all)
-Stories hiding in the groups (7 syllables: sto-ries hid-ing in the groups)
-Data's dancing in our loops (7 syllables: da-ta's dan-cing in our loops)
-Every answer, every call (7 syllables: ev-ery ans-wer ev-ery call)
-Data shows the truth to all (7 syllables: da-ta shows the truth to all)
+Compare the tallest and the small
+Count them, count them, count them all
+Stories hiding in the groups
+Data's dancing in our loops
+Every answer, every call
+Data shows the truth to all
 
 **Actions/Gestures**:
 
