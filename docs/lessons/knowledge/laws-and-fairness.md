@@ -59,7 +59,7 @@ Fair means we're a caring friend (7)
 - "Bluey fairness lesson"
 - "Kindness and fairness for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -62,7 +62,7 @@ Learning temperatures every day (7 syllables: Learn-ing-tem-per-a-tures-ev-ery-d
 - "Hot and cold activities for preschool"
 - "Sensory learning warm cold"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

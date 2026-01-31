@@ -68,7 +68,7 @@ Never lost, I'm not alone (7: Nev-er-lost-I'm-not-a-lone)
 - "Learning directions and positions preschool"
 - "Super Simple Songs spatial awareness"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

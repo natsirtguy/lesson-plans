@@ -92,7 +92,7 @@ Feel yourself and stand up proud
 - "Preschool five senses learning song"
 - "Daniel Tiger sensory exploration"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

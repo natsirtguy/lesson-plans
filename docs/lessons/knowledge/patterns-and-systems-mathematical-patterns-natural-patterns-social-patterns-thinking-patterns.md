@@ -60,7 +60,7 @@ Pat-terns work out oh so grand (7 syllables)
 - "Nature patterns for young children"
 - "Repeating patterns for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

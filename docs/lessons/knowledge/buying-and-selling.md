@@ -60,7 +60,7 @@ Buy-ing sell-ing ev-ry-where (7 syllables: buy-ing sell-ing ev-ry-where)
 - "Kids learning to buy and sell role play"
 - "Money and transactions for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

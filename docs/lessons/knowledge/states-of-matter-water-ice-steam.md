@@ -60,7 +60,7 @@ Water's changing just for me (7 syllables: wa-ter's chang-ing just for me)
 - "States of matter demonstration for toddlers"
 - "Ice melting and steam rising experiment for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

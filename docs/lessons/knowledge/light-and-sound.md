@@ -59,7 +59,7 @@ Sound tells stories it can tell (7 syllables: Sound-tells-sto-ries-it-can-tell)
 - "Preschool music and sound activities"
 - "Light exploration activities for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

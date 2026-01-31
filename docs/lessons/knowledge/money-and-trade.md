@@ -61,7 +61,7 @@ Learning money-sense this way (7 syllables: Learn-ing mon-ey-sense this way)
 - "Trading and sharing games for kids"
 - "Simple shopping activity for children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

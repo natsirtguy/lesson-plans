@@ -59,7 +59,7 @@ Every animal's unique from start to end (12 syllables - extends for longer lines
 - "National Geographic Kids animal movements"
 - "Learn about animals for toddlers PBS Kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -56,7 +56,7 @@ The legs on my bod-y go jump, jump, jump, all through the day (12 syllables: The
 - "Fine motor skills for toddlers ages 2-4"
 - "Developmental milestones movement activities"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

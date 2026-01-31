@@ -61,7 +61,7 @@ Chang-ing makes our lives so vast (7: chang-ing-makes-our-lives-so-vast)
 - "From seed to flower time-lapse for kids"
 - "How do caterpillars change into butterflies" (Crash Course Kids style)
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

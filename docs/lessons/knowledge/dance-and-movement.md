@@ -57,7 +57,7 @@ When you're sleepy and you feel it, move so slow (8 syllables)
 - "Toddler freeze dance game video"
 - "Preschool movement activities with music"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

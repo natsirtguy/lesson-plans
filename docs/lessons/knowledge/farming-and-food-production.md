@@ -62,7 +62,7 @@ Everything we eat has grown (Ev - ry - thing - we - eat - has - grown = 7 syllab
 - "Farm animals and crops for toddlers"
 - "Growing plants from seeds for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

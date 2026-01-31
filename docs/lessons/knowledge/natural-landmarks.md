@@ -61,7 +61,7 @@ Of mo-ments when the rocks don't fail (7 syllables)
 - "World's Most Beautiful Natural Landmarks"
 - "Mountains, Waterfalls and Canyons Video for Children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

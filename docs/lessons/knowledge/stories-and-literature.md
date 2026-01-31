@@ -62,7 +62,7 @@ Let's turn the next page! (6 syllables - adjust: Let's turn a-noth-er page!) (7 
 - "CoComelon Stories and Songs" (music-integrated storytelling)
 - "Bluey official videos" (engaging, age-appropriate storytelling)
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

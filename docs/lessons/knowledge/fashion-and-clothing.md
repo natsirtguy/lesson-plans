@@ -60,7 +60,7 @@ Showing style from head to toe (7 syllables: Show-ing-style-from-head-to-toe)
 - "Mr. Rogers' Neighborhood - Dress Up" (classic, reassuring content)
 - "Bluey getting dressed episode" (modern, relatable family dynamics)
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

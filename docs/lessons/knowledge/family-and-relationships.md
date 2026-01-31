@@ -264,7 +264,7 @@ Fam-i-ly stays in my heart (7) ✓
 - "Blue's Clues - All About Families"
 - "Little Einsteins - Family Adventures"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

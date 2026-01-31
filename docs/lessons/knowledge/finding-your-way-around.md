@@ -65,7 +65,7 @@ Now I know where I can go (8 syllables)
 - "Preschool learning song about finding your way"
 - "Simple directions for toddlers and preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

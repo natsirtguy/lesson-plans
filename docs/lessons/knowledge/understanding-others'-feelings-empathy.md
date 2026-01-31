@@ -62,7 +62,7 @@ Makes our friendship oh so real (7 syllables: Makes-our-friend-ship-oh-so-real)
 - "Bluey empathy and helping friends episode"
 - "SciShow Kids understanding emotions"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

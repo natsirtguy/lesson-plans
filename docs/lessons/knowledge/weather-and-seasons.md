@@ -59,7 +59,7 @@ Each one brings some-thing we love dear (7 syllables)
 - "Weather for Toddlers and Preschoolers"
 - "Four Seasons Preschool Video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

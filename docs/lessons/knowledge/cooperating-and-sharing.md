@@ -55,7 +55,7 @@ Helping each other, hip hooray (8)
 - "Blue's Clues cooperation and teamwork"
 - "Mister Rogers' Neighborhood sharing friends"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

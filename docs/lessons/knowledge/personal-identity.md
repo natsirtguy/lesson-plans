@@ -60,7 +60,7 @@ My own person, special, can't you see (8 syllables: My-own-per-son-spe-cial-can'
 - "Mr. Rogers Who Are You children's song"
 - "Children's songs about me myself and I"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

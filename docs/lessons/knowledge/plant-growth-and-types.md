@@ -60,7 +60,7 @@ Growing stronger every day (Grow-ing-strong-er-ev-ery-day = 7 syllables)
 - "National Geographic Kids plant growth video"
 - "Seed germination time-lapse for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

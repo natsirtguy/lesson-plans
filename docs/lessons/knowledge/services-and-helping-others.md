@@ -56,7 +56,7 @@ Showing care in every way (6)
 - "Jobs and helpers for toddlers educational video"
 - "Helping others preschool song"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -67,7 +67,7 @@ Balance helps us through the day (7 syllables: bal-ance helps-us through-the day
 - "Movement and balance for preschoolers"
 - "Yoga for young children balance poses"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

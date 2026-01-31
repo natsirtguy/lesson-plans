@@ -75,7 +75,7 @@ The fire-fight-er keeps us safe and sound (8: the-fire-fight-er-keeps-us-safe-an
 - "What do different workers do? Preschool lesson"
 - "Jobs around us - toddler learning video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

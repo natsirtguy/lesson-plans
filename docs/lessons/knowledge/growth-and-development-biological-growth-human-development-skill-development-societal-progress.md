@@ -64,7 +64,7 @@ Watch us change in every way (7 syllables: Watch-us-change-in-ev-ery-way)
 - "Human growth and development for preschoolers"
 - "Growing from baby to big kid song"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

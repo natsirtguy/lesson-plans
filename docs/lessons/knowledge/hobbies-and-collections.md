@@ -59,7 +59,7 @@ Watch-ing how my gath-er-ing grow (7)
 - "Sesame Street Collecting Objects"
 - "Kids learn about collections preschool"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -60,7 +60,7 @@ Learn-ing is so much of fun (7 syllables)
 - "Tropical Polar Temperate Zones for Preschool"
 - "Where Do Penguins and Parrots Live? Climate Zones"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

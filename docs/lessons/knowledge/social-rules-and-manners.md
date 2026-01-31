@@ -65,7 +65,7 @@ Courtesy brings joy direct (7: Cour-te-sy-brings-joy-di-rect)
 - "Please thank you excuse me preschool video"
 - "Social etiquette for young children educational video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

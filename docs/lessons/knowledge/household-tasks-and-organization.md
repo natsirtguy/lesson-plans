@@ -59,7 +59,7 @@ A happy home is everywhere (8 syllables: A hap-py home is ev-ery-where)
 - "Toddler household tasks learning video"
 - "Daniel Tiger help around the house"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

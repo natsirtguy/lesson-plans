@@ -59,7 +59,7 @@ So much more than you could know (7 syllables: So-much-more-than-you-could-know)
 - "Teaching toddlers persistence and trying again"
 - "Social emotional learning: problem-solving preschool"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

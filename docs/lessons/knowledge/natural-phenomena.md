@@ -59,7 +59,7 @@ Natural wonders all around (7 syllables: Na-tu-ral won-ders all a-round)
 - "Magic School Bus kids natural phenomena"
 - "SciShow Kids weather and nature phenomena"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

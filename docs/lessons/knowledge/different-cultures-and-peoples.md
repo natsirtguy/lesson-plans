@@ -78,7 +78,7 @@ All the world is bright and kind (7 syllables)
 - "Children around the world video"
 - "Cultural celebrations for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

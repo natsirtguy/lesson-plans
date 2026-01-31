@@ -73,7 +73,7 @@ Wear it proudly, what a treat (7 syllables: Wear-it-proud-ly-what-a-treat)
 - "Easy toddler jewelry making with beads"
 - "Pasta necklace kids craft"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

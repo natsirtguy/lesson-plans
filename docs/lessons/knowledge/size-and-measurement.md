@@ -59,7 +59,7 @@ Understanding size's pleasure (7 syllables: Un-der-stand-ing size's plea-sure)
 - "Introduction to Measurement Preschool"
 - "Size Sorting Activity for Young Children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

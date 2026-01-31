@@ -56,7 +56,7 @@ Let's all play and have good fun (7 syllables)
 - "How to do show and tell activity"
 - "Kids learning to present objects"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -62,7 +62,7 @@ Safe-ty keeps us from get-ting hurt (7 syllables: Safe-ty=2, keeps=1, us=1, from
 - "Safety basics for toddlers and preschoolers"
 - "Keeping kids safe educational video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -79,7 +79,7 @@ In your i-mag-i-na-tion's glow (1-2-3-4-5-6-7) ✓
 - "Pretend play lesson for preschool"
 - "Imaginative play ideas for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

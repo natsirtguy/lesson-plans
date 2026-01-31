@@ -63,7 +63,7 @@ Creating art for everyone (6)
 - "Colors shapes learning video for kids"
 - "Creative play and art exploration for young children"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

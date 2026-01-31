@@ -56,7 +56,7 @@ Your display makes special place (7 syllables)
 - "Outdoor exploration and collecting for preschoolers"
 - "Building nature displays with young children"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

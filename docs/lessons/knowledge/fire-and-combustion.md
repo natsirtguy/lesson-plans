@@ -63,7 +63,7 @@ Learning science every day (7: Learn-ing-sci-ence-ev-ery-day)
 - "Kids learn about fire and flames"
 - "Fire safety for toddlers educational video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

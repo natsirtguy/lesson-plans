@@ -67,7 +67,7 @@ Tells my feet and legs and hands (7: Tells my feet and legs and hands)
 
 *Note*: YouTube search these terms directly for the most current age-appropriate options, looking for channels like CoComelon, Crash Course Kids, or official PBS Kids content.
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

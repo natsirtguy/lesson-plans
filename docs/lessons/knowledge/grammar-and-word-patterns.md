@@ -60,7 +60,7 @@ Sun-flow-er shows us what they do (7 syllables: Sun-flow-er shows us what they d
 - "Educational Song - Syllables and Word Patterns"
 - "Sesame Street - Rhyming Words for Young Children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

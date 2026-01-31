@@ -60,7 +60,7 @@ Children will explore the fascinating world of rocks and minerals through sensor
 - "Rock and mineral introduction for toddlers"
 - "Types of rocks for preschool learning"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

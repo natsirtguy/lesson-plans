@@ -65,7 +65,7 @@ This lesson introduces young children to the foundational idea that learning is 
 - "Learning Process Song for Kids" - music for young learners
 - "Big Life Journal" - has animated shorts about growth mindset for young children
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

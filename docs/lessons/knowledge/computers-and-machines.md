@@ -58,7 +58,7 @@ Com-pu-ters are ma-chines too, they help us with work and help us grow and grow 
 - "Computers for toddlers educational video"
 - "Everyday machines for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -62,7 +62,7 @@ On our world's amazing face (7 syllables: On our world's a-maz-ing face)
 - "World map for toddlers learning"
 - "Geography basics for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

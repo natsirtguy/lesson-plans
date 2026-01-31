@@ -59,7 +59,7 @@ We are hap-py all a-cross the land (8 syllables: We are hap-py all a-cross the l
 - "Sesame Street cultural celebrations for preschool"
 - "Kids learn about different cultures around the world"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

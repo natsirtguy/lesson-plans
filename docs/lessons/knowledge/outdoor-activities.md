@@ -59,7 +59,7 @@ Best out-doors place we've ev-er seen (7)
 - "Toddler sensory outdoor activities" (shows natural elements)
 - "Kids nature discovery videos" (educational outdoor content)
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

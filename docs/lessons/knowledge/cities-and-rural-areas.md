@@ -61,7 +61,7 @@ Ru-ral is a spe-cial place (7 syllables)
 - "Urban and rural communities for young learners"
 - "City vs farm life for preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

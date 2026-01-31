@@ -66,7 +66,7 @@ Different environments, different life is found (9 syllables: Dif-fer-ent en-vi-
 - "Geography for toddlers nature environments"
 - "PBS Kids different habitats around the world"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

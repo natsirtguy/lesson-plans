@@ -59,7 +59,7 @@ More and more we come to know (7 syllables: More-and-more-we-come-to-know)
 - "Early childhood language development and cognition"
 - "Explaining thinking and talking to preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

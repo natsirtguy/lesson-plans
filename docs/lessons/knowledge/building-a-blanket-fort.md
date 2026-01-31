@@ -63,7 +63,7 @@ Building memories to stay (7 syllables: Build-ing mem-o-ries to stay)
 - "How to build an easy fort for young children"
 - "Indoor fort building for preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

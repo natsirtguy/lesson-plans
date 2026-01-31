@@ -63,7 +63,7 @@ Data shows the truth to all (7 syllables: da-ta shows the truth to all)
 - "Sorting and grouping activities for preschoolers"
 - "Daniel Tiger sorts his toys"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

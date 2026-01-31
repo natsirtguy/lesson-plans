@@ -58,7 +58,7 @@ Living in the earth and air (7 syllables: li-ving in the earth and air)
 - "Preschool insect exploration magnifying glass"
 - "Early childhood science outdoor bug watching"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

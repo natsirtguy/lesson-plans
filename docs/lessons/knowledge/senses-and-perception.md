@@ -59,7 +59,7 @@ They make learning fun! (6)
 - "My Five Senses - Preschool Learning Video"
 - "Senses Exploration for Kids YouTube"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -60,7 +60,7 @@ That's how strength begins to show (7)
 - "Preschool movement activities"
 - "Sesame Street exercise for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

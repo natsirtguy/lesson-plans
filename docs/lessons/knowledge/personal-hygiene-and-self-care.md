@@ -69,7 +69,7 @@ Self-care is the healthy path (7 syllables: Self-care is the heal-thy path)
 - "Self-care routines for young children"
 - "Washing hands step by step kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

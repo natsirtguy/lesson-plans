@@ -63,7 +63,7 @@ Sleep has given strength to you (7 syllables: Sleep-has-giv-en-strength-to-you)
 - "Preschool rest time learning video"
 - "Lullaby songs for young children learning"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

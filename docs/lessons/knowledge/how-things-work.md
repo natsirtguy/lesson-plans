@@ -60,7 +60,7 @@ Dis-cov-er how things work in-side (7 syllables)
 - "Simple Machines Preschool Video"
 - "How Do Toys Work? Preschool Science"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

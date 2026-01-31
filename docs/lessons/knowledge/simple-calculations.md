@@ -61,7 +61,7 @@ Math and numbers are so great (math-and-num-bers-are-so-great = 7 syllables)
 - "Numberblocks Learn to Count"
 - "Daniel Tiger Numbers and Counting"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

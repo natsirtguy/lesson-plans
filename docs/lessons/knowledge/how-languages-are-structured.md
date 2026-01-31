@@ -59,7 +59,7 @@ Language grows when we all hear (7 syllables: Lan-guage grows when we all hear)
 - "How words are made for toddlers"
 - "Language structure for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 
