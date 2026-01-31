@@ -11,6 +11,14 @@
 
     <!-- Tailwind CSS via CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = { darkMode: 'class' };
+        // Apply dark mode immediately to prevent flash
+        if (localStorage.getItem('darkMode') === 'true' ||
+            (!localStorage.getItem('darkMode') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        }
+    </script>
 
     <!-- Alpine.js via CDN -->
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
@@ -58,12 +66,20 @@
             color: #1f2937;
         }
 
+        .dark .lesson-content h2 {
+            color: #e5e7eb;
+        }
+
         .lesson-content h3 {
             font-size: 1.25rem;
             font-weight: 600;
             margin-top: 1rem;
             margin-bottom: 0.5rem;
             color: #374151;
+        }
+
+        .dark .lesson-content h3 {
+            color: #d1d5db;
         }
 
         .lesson-content p {
@@ -84,11 +100,20 @@
             color: #111827;
         }
 
+        .dark .lesson-content strong {
+            color: #f3f4f6;
+        }
+
         .lesson-content code {
             background-color: #f3f4f6;
             padding: 0.125rem 0.375rem;
             border-radius: 0.25rem;
             font-size: 0.875rem;
+        }
+
+        .dark .lesson-content code {
+            background-color: #374151;
+            color: #e5e7eb;
         }
 
         .lesson-content blockquote {
@@ -97,15 +122,32 @@
             margin: 1rem 0;
             color: #6b7280;
         }
+
+        .dark .lesson-content blockquote {
+            border-left-color: #4b5563;
+            color: #9ca3af;
+        }
     </style>
 </head>
-<body class="bg-gray-50 min-h-screen" x-data="lessonPlanApp()" x-init="init()">
+<body class="bg-gray-50 dark:bg-gray-900 dark:text-gray-100 min-h-screen" x-data="lessonPlanApp()" x-init="init()">
 
     <!-- Header -->
-    <header class="bg-indigo-600 text-white shadow-lg sticky top-0 z-10">
+    <header class="bg-indigo-600 dark:bg-indigo-900 text-white shadow-lg sticky top-0 z-10">
         <div class="max-w-4xl mx-auto px-4 py-4">
             <div class="flex justify-between items-center">
                 <h1 class="text-2xl font-bold">📚 Daily Lesson Plans</h1>
+                <div class="flex items-center gap-2">
+                <button
+                    @click="toggleDarkMode()"
+                    class="p-2 rounded-lg hover:bg-indigo-700 active:bg-indigo-800"
+                    title="Toggle dark mode">
+                    <svg x-show="!darkMode" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path>
+                    </svg>
+                    <svg x-show="darkMode" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="display:none;">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>
+                    </svg>
+                </button>
                 <button
                     @click="showMenu = !showMenu"
                     class="p-2 rounded-lg hover:bg-indigo-700 active:bg-indigo-800">
@@ -113,6 +155,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
                     </svg>
                 </button>
+                </div>
             </div>
         </div>
     </header>
@@ -129,10 +172,10 @@
          class="fixed inset-0 bg-black bg-opacity-50 z-20"
          style="display: none;">
 
-        <div class="fixed top-0 right-0 h-full w-80 bg-white shadow-xl p-6">
+        <div class="fixed top-0 right-0 h-full w-80 bg-white dark:bg-gray-800 shadow-xl p-6">
             <div class="flex justify-between items-center mb-6">
                 <h2 class="text-xl font-bold">Menu</h2>
-                <button @click="showMenu = false" class="p-2 hover:bg-gray-100 rounded">
+                <button @click="showMenu = false" class="p-2 hover:bg-gray-100 dark:hover:bg-gray-700 rounded">
                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                     </svg>
@@ -173,7 +216,7 @@
                 </button>
             </div>
 
-            <div class="mt-8 pt-8 border-t text-sm text-gray-600">
+            <div class="mt-8 pt-8 border-t dark:border-gray-700 text-sm text-gray-600 dark:text-gray-400">
                 <p>Completed Today: <strong x-text="completedToday.length"></strong></p>
                 <p>Total Completed: <strong x-text="data.completed.length"></strong></p>
             </div>
@@ -188,10 +231,10 @@
 
         <!-- Lesson Plan View -->
         <div x-show="currentView === 'lesson'" x-transition style="display: none;">
-            <div class="bg-white rounded-xl shadow-lg p-6 mb-6">
+            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-6">
                 <!-- Back Button -->
                 <button @click="closeLessonPlan()"
-                        class="mb-4 px-4 py-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch flex items-center">
+                        class="mb-4 px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch flex items-center">
                     <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                     </svg>
@@ -210,12 +253,12 @@
                 <!-- Loading State -->
                 <div x-show="lessonLoading" class="text-center py-12">
                     <div class="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-indigo-600"></div>
-                    <p class="mt-4 text-gray-600">Loading lesson plan...</p>
+                    <p class="mt-4 text-gray-600 dark:text-gray-400">Loading lesson plan...</p>
                 </div>
 
                 <!-- Error State -->
-                <div x-show="lessonError" class="bg-red-50 border border-red-200 rounded-lg p-4 mb-4">
-                    <p class="text-red-800" x-text="lessonError"></p>
+                <div x-show="lessonError" class="bg-red-50 dark:bg-red-900/30 border border-red-200 dark:border-red-800 rounded-lg p-4 mb-4">
+                    <p class="text-red-800 dark:text-red-300" x-text="lessonError"></p>
                 </div>
 
                 <!-- Lesson Content -->
@@ -251,16 +294,16 @@
         <div class="space-y-6">
 
             <!-- Knowledge, Skills & Culture Queue (Combined) -->
-            <div class="bg-white rounded-xl shadow-lg p-6">
+            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
                 <div class="flex justify-between items-center mb-4">
                     <h2 class="text-xl font-bold text-blue-600">🧠 Knowledge, Skills & Culture</h2>
-                    <span class="text-sm text-gray-500" x-text="getQueuePosition('knowledge')"></span>
+                    <span class="text-sm text-gray-500 dark:text-gray-400" x-text="getQueuePosition('knowledge')"></span>
                 </div>
 
                 <template x-if="getCurrentTopic('knowledge')">
                     <div>
                         <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('knowledge').name"></p>
-                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('knowledge').category"></p>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 mb-4" x-text="getCurrentTopic('knowledge').category"></p>
 
                         <div class="grid grid-cols-3 gap-2">
                             <button @click="selectTopic('knowledge')"
@@ -268,11 +311,11 @@
                                 ✓ Select
                             </button>
                             <button @click="skipTopic('knowledge')"
-                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                    class="py-3 px-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch text-sm">
                                 ⏭️ Skip
                             </button>
                             <button @click="flagForDevelopment('knowledge')"
-                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                    class="py-3 px-2 bg-yellow-100 dark:bg-yellow-900 text-yellow-700 dark:text-yellow-300 rounded-lg hover:bg-yellow-200 dark:hover:bg-yellow-800 active:bg-yellow-300 btn-touch text-sm">
                                 🔧 Fix
                             </button>
                         </div>
@@ -285,16 +328,16 @@
             </div>
 
             <!-- Physical Activities Queue -->
-            <div class="bg-white rounded-xl shadow-lg p-6">
+            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
                 <div class="flex justify-between items-center mb-4">
                     <h2 class="text-xl font-bold text-green-600">⚽ Physical Activities</h2>
-                    <span class="text-sm text-gray-500" x-text="getQueuePosition('physical')"></span>
+                    <span class="text-sm text-gray-500 dark:text-gray-400" x-text="getQueuePosition('physical')"></span>
                 </div>
 
                 <template x-if="getCurrentTopic('physical')">
                     <div>
                         <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('physical').name"></p>
-                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('physical').category"></p>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 mb-4" x-text="getCurrentTopic('physical').category"></p>
 
                         <div class="grid grid-cols-3 gap-2">
                             <button @click="selectTopic('physical')"
@@ -302,11 +345,11 @@
                                 ✓ Select
                             </button>
                             <button @click="skipTopic('physical')"
-                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                    class="py-3 px-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch text-sm">
                                 ⏭️ Skip
                             </button>
                             <button @click="flagForDevelopment('physical')"
-                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                    class="py-3 px-2 bg-yellow-100 dark:bg-yellow-900 text-yellow-700 dark:text-yellow-300 rounded-lg hover:bg-yellow-200 dark:hover:bg-yellow-800 active:bg-yellow-300 btn-touch text-sm">
                                 🔧 Fix
                             </button>
                         </div>
@@ -319,16 +362,16 @@
             </div>
 
             <!-- Songs Queue -->
-            <div class="bg-white rounded-xl shadow-lg p-6">
+            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
                 <div class="flex justify-between items-center mb-4">
                     <h2 class="text-xl font-bold text-orange-600">🎵 Songs</h2>
-                    <span class="text-sm text-gray-500" x-text="getQueuePosition('songs')"></span>
+                    <span class="text-sm text-gray-500 dark:text-gray-400" x-text="getQueuePosition('songs')"></span>
                 </div>
 
                 <template x-if="getCurrentTopic('songs')">
                     <div>
                         <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('songs').name"></p>
-                        <p class="text-sm text-gray-600 mb-4" x-text="getCurrentTopic('songs').category"></p>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 mb-4" x-text="getCurrentTopic('songs').category"></p>
 
                         <div class="grid grid-cols-3 gap-2">
                             <button @click="selectTopic('songs')"
@@ -336,11 +379,11 @@
                                 ✓ Select
                             </button>
                             <button @click="skipTopic('songs')"
-                                    class="py-3 px-2 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 active:bg-gray-400 btn-touch text-sm">
+                                    class="py-3 px-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch text-sm">
                                 ⏭️ Skip
                             </button>
                             <button @click="flagForDevelopment('songs')"
-                                    class="py-3 px-2 bg-yellow-100 text-yellow-700 rounded-lg hover:bg-yellow-200 active:bg-yellow-300 btn-touch text-sm">
+                                    class="py-3 px-2 bg-yellow-100 dark:bg-yellow-900 text-yellow-700 dark:text-yellow-300 rounded-lg hover:bg-yellow-200 dark:hover:bg-yellow-800 active:bg-yellow-300 btn-touch text-sm">
                                 🔧 Fix
                             </button>
                         </div>
@@ -379,6 +422,13 @@
                 lessonError: '',
                 currentLessonTopic: null,
                 isPlaying: false,
+                darkMode: document.documentElement.classList.contains('dark'),
+
+                toggleDarkMode() {
+                    this.darkMode = !this.darkMode;
+                    document.documentElement.classList.toggle('dark', this.darkMode);
+                    localStorage.setItem('darkMode', this.darkMode);
+                },
 
                 async init() {
                     // Load data from localStorage or initial file
