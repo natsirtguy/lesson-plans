@@ -544,7 +544,7 @@
                     // Convert topic name to filename format
                     const filename = topicName
                         .toLowerCase()
-                        .replace(/[^\w\s-]/g, '') // Remove special characters
+                        .replace(/[^\w\s-]/g, ' ') // Replace special characters with space
                         .replace(/\s+/g, '-')      // Replace spaces with hyphens
                         .replace(/-+/g, '-')       // Replace multiple hyphens with single
                         .trim();
