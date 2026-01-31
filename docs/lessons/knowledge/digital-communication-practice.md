@@ -1,224 +1,162 @@
-# ARTS & CULTURE ACTIVITY: Digital Communication Practice
+# KNOWLEDGE, SKILLS & CULTURE: Digital Communication Practice
 
-## Activity Summary
+## 🎯 Activity Summary
 
-Digital communication practice introduces young children to safe, age-appropriate ways of connecting with others through technology. Children will learn basic digital literacy skills by using tablets, computers, or video call tools to interact with family, send simple messages, or create digital content together. This activity bridges the digital and social worlds, building comfort with technology while emphasizing that technology is a tool for human connection, not a replacement for in-person interaction.
+Digital communication practice introduces young children to safe, age-appropriate ways of connecting with others through technology. Children will learn basic digital literacy skills by using tablets, computers, or video call tools to interact with family, send simple messages, or create digital content together. This activity builds comfort with technology while emphasizing that it is a tool for human connection, not a replacement for in-person interaction.
+
+## Vocabulary
+
+**Digital literacy**: Understanding how to use technology tools like tablets and computers to communicate and create. When you know how to safely use a video call to talk with Grandma or send a picture to a cousin, you are building digital literacy skills.
+
+**Facilitate**: To help make something happen or work smoothly. When you help your child take turns drawing with a grandparent on a shared drawing app, you are facilitating their connection with that person.
+
+**Interaction**: Communication and engagement between people. A video call where you wave, talk, show toys, and listen to each other is a meaningful interaction between two people.
+
+**Connection**: A relationship or link between people who care about each other. When your child draws a picture and shows it to a grandparent through a video call, they are maintaining a connection across the distance.
+
+## 🎵 Learning Song
+
+**Tune**: The Itsy Bitsy Spider
+
+**Tempo**: Moderate and playful
+
+**Lyrics**
+
+*Verse 1*
+The little girl tapped on the screen so bright
+And saw her grandma's smiling face
+They waved hello and said hello
+And shared a warm and loving place
+
+*Verse 2*
+They drew together, drew with care
+And showed each other what they made
+The lines and colors came alive
+As distant loved ones reconnected, swayed
+
+**Actions/Gestures**:
+1. Touch fingertips together to represent tapping a screen
+2. Wave hand gently side to side to show greeting
+3. Make a drawing motion in the air with both hands
+
+## 📺 Intro Video Recommendation
+
+**Recommended video**: Search YouTube for "FaceTime with toddlers how to" or "video calls for young children age-appropriate"
+
+**What to look for**:
+- 2-5 minutes long
+- Shows parent and child on a video call together
+- Demonstrates positive interactions and connection-building
+- Age-appropriate narration (slow, clear)
+- Safe content (no scary technology themes)
+- Reinforces the concept that technology connects families
+
+**Alternative searches**:
+- "Teaching toddlers to use tablets safely"
+- "Building digital skills for preschoolers"
+- "Video calls help children stay connected to family"
+
+## Activity
+
+### Activity Overview
+
+This activity guides children through a supported digital communication experience with a trusted adult or family member. The child will use a device to see and interact with someone they care about, learning that screens can help people stay connected. Through conversation, showing objects, drawing together, or singing, the child practices using technology as a tool for meaningful human connection.
 
 **Activity Type**: Communication/Digital Literacy/Social Activity
 
 **Duration**: 10-20 minutes (with natural breaks)
 
-**Mess Level**: Low - minimal physical mess, but requires careful device handling
-
-**Best Environment**: Quiet space with comfortable seating, good lighting, stable surface for device
-
-## Complete Activity Setup
+**Setup time**: 5-10 minutes (testing connection, confirming recipient availability)
 
 ### Materials Needed
 
-**Essential materials**:
+**Essential**:
 - Tablet, computer, or smartphone with internet access (parent/caregiver supervised)
-- Age-appropriate communication app (FaceTime, Zoom, video call, simple messaging)
-- Contact(s) set up in advance (family members, trusted adults)
-- Stylus or touchscreen-friendly finger painting app (optional but helpful)
+- Age-appropriate communication app (FaceTime, Zoom, Marco Polo, or similar)
+- Trusted adult or family member who will be on the other end of the call, confirmed in advance
+- Comfortable seating at eye level with the device
 
-**Optional enhancements**:
-- Kid-safe video call platform (Marco Polo app, Zoom for Kids)
-- Simple messaging app with emojis and stickers
-- Digital drawing/doodling app (Paper, Procreate Dreams)
-- Headphones with volume limiting for comfort and clarity
-- Digital props/backgrounds (hats, silly frames for video calls)
+**Optional**:
+- Stylus or touchscreen-friendly items for interactive drawing
+- Kid-safe video call platform (Marco Polo, Zoom for Kids)
+- Simple digital drawing app (Paper, Procreate Dreams, or free web-based options)
+- Headphones with volume limiting for comfort
+- A favorite toy or object to show the other person
+- Digital props or silly backgrounds for video calls
 
-**Cost estimate**: Free-$5 (uses existing devices; apps are often free)
+**Cost**: Free-$5 (uses existing devices; most apps are free)
 
-**Preparation time**: 5-10 minutes (testing connection, confirming recipient availability)
+### Step-by-Step Instructions
 
-### Step-by-Step Setup
+**Preparation**:
+1. Test internet connection and ensure device audio/video work properly
+2. Confirm the person on the other end is ready and available to receive communication
+3. Explain to your child who they will be talking with and why
+4. Set device volume to a safe, appropriate level
+5. Position the device where your child can see and interact comfortably
 
-**Before starting**:
-1. Test internet connection and device audio/video
-2. Confirm the person on the other end is ready to receive communication
-3. Explain to child who they'll be communicating with
-4. Set device volume to appropriate, safe level
-5. Position device where child can see and interact comfortably
+**Activity Flow**:
 
-**Environment setup**:
-- Create a calm, distraction-minimized space (not overly stimulating background)
-- Ensure stable surface to prevent device from falling
-- Position lighting so child's face is visible on screen
-- Have seating at child's eye level with the camera
-- Keep interaction time focused and short for attention span
+1. **Introduction** (2-3 minutes):
+   Build excitement about the connection. Say, "We're going to see [person's name] on the screen! Let's wave hello!" Show your child the device and demonstrate that the camera lets the other person see them too. Point to where they'll see the other person on screen.
 
-**Device safety**:
-- Keep device in secure holder or case
-- Ensure cords are out of reach
-- Set up parental controls as needed
-- Position screen at appropriate distance from eyes (12+ inches)
-- Have wipes nearby for cleaning screen afterward
+2. **Connection & Greeting** (2-3 minutes):
+   Start the video call or open the messaging app with the recipient ready. Wave and say hello together. Let your child look at themselves on screen briefly if they're curious. Have the other person greet your child warmly and in a familiar way.
 
-## Activity Session Structure
+3. **Guided Interaction** (5-8 minutes):
+   Facilitate meaningful exchange by suggesting simple activities: "Show [person] your toy," "Tell them what you had for lunch," or "Let's draw something for them." Ask the other person to ask your child simple questions. Encourage your child to respond, show things, or point to things around the space. If your child is hesitant, model conversation first. Use visual prompts by holding up objects or pointing to things.
 
-### Opening (1-2 minutes)
+4. **Child-Led Play** (Remaining time):
+   Let your child lead the conversation naturally. They might draw, show toys, dance, sing, or just chat. The other person can draw along if using a shared drawing app. Keep the momentum light and playful without forcing participation. Celebrate what your child shares.
 
-**How to introduce and engage**:
-- Build excitement: "We're going to visit with [person's name] on the screen! Say hello!"
-- Show child the device and explain they'll see the other person
-- Demonstrate how the camera shows them on screen
-- Point to where they'll see the other person
+5. **Wrap-Up** (2-3 minutes):
+   Give a gentle warning: "We'll say goodbye in one more minute." Lead your child in waving goodbye. Talk about what they shared or showed. Affirm their communication: "They really enjoyed seeing you today!" Close the app gently and transition naturally to the next activity.
 
-**Setting expectations**:
-- This is a conversation, like talking to someone on the phone
-- The person on the other end can see them and hear them
-- They get to choose what to show or talk about
-- It's okay to feel a little shy at first
+### Age Adaptations
 
-### Main Activity (8-15 minutes)
+**2-3 years**:
+Keep sessions very brief (5-10 minutes maximum). Use only very familiar adults. Focus on visual communication like showing, waving, and pointing more than conversation. Be very hands-on in guiding interaction and narrating what's happening. Use simple, repeated words and phrases. Have a favorite toy ready to show. Expect shyness or reluctance—this is developmentally normal and not a problem.
 
-**Phase 1: Connection & Greeting** (2-3 minutes)
-Establish the connection and warm greeting
-- Start the video call or open messaging app with recipient ready
-- Wave and say hello together
-- Let child look at themselves on screen briefly
-- Have other person greet child in familiar, warm way
+**3-4+ years**:
+Children can engage in more extended conversations (15-20 minutes). They can follow a more structured activity with the other person, such as drawing together, singing together, or telling a story back and forth. They may ask questions about how the technology works. They can use drawing or message apps to create and share content. They might enjoy receiving messages or pictures from the other person between sessions. Allow them more independence with you checking in periodically.
 
-**Phase 2: Guided Interaction** (5-8 minutes)
-Facilitate meaningful exchange
-- Suggest simple topics: "Show [person] your toy," "Tell them what you had for lunch," "Draw something and show them"
-- Ask the other person to ask child simple questions
-- Encourage child to respond or show things from their environment
-- If child is hesitant, adult can model conversation first
-- Use visual prompts (hold up objects, point to things around the space)
+### Extension Ideas
 
-**Phase 3: Interactive Expression** (remaining time)
-Child's own communication choices
-- Let child lead the conversation naturally
-- They might draw, show toys, dance, sing, or just chat
-- Other person can draw along if using shared digital drawing app
-- Keep momentum light and playful; don't force participation
-- Celebrate what child shares or expresses
+**Variation 1 - Drawing Together**: Open a simple shared drawing app and both child and the person on screen draw together, narrating what they're creating. Encourage back-and-forth turns.
 
-**Adult role**:
-- Supervise all device use closely
-- Help facilitate conversation without dominating
-- Interpret child's attempts to communicate
-- Gently redirect if child gets frustrated or distracted
-- Remain calm and patient if child feels shy or resistant
+**Variation 2 - Show and Tell Story**: Your child prepares 2-3 favorite objects to show and tell about. The other person asks follow-up questions to extend the conversation.
 
-### Wrap-Up (2-3 minutes)
+**Variation 3 - Singing and Movement**: Both participants sing a familiar song or do simple dance moves together through the video call. This is especially fun for younger toddlers.
 
-**Concluding the activity**:
-- Give advance notice: "We'll say goodbye in one more minute"
-- Lead child in waving goodbye
-- Talk about what they shared
-- Affirm their communication: "They really enjoyed seeing you!"
+**Variation 4 - Ritual Connection**: Establish a regular daily video call—morning goodbye or bedtime goodnight—as part of your routine with a specific family member. Consistency builds comfort.
 
-**Transition to next activity**:
-- Close app/end call gently
-- Acknowledge any feelings child might have
-- Move to next activity as natural transition
-- If this was meaningful, note that you can do it again another day
+**Variation 5 - Message Chain**: For older children, send simple picture messages back and forth throughout the week (adult-supervised from an adult's account). Creates anticipation between sessions.
 
-## Age Adaptations
+**Repeat play**: Try different apps or formats. Call different family members. Revisit the same person regularly to build relationship. Document how your child's comfort and conversational skills grow over time.
 
-### 2-3 years
-
-**Approach**:
-- Keep sessions very brief (5-10 minutes maximum)
-- Use very familiar adults only (parent not present, grandparent, etc.)
-- Focus on visual communication (showing, waving) more than conversation
-- Adult should be very involved in guiding interaction
-- Use simple, repeated words and phrases
-- Have a favorite toy or object to show
-- Expect shyness or reluctance; that's developmentally normal
-
-**Duration**: 5-10 minutes
-
-**Adult support**: Very hands-on; adult narrates, suggests, and facilitates throughout
-
-### 3-4+ years
-
-**Extensions**:
-- Can engage in more extended conversations (up to 15-20 minutes)
-- Can follow a more structured activity with the other person (drawing together, singing together, telling a story back and forth)
-- May ask questions and be curious about how the technology works
-- Can use drawing or message apps to create and share content
-- Might enjoy receiving messages/pictures from the other person between sessions
-- Can plan what they want to share or talk about beforehand
-- Capable of more independence with adult checking in
-
-**Duration**: They may engage for 15-20 minutes if conversation is engaging
-
-## Extension Ideas for Repeat Play
-
-**Variation 1 - Drawing Together**: Open a simple shared drawing app and both child and distant relative draw together, narrating what they're creating
-
-**Variation 2 - Show and Tell Story**: Child prepares 2-3 favorite objects to show and tell about to the person on screen; other person asks follow-up questions
-
-**Variation 3 - Singing and Movement**: Both participants sing a familiar song or do simple dance moves together through the video call
-
-**Variation 4 - Morning/Bedtime Ritual**: Establish a regular daily goodbye (morning) or goodnight (bedtime) video call as part of routine with specific family member
-
-**Variation 5 - Create Together**: Child and other person take turns adding to a story or collaborative drawing across multiple sessions
-
-**Variation 6 - Message Chain**: If child is older, send simple picture messages back and forth throughout the week (adult-supervised and sent from adult's account)
-
-**Thematic variations**:
-- Holiday video calls with extended family
-- Birthday message compilations from relatives
-- Teaching long-distance family member about new skills child has learned
-- Language learning calls with bilingual relative
-
-## Cultural Context
-
-**Cultural significance**:
-Digital communication reflects modern human connection practices. In today's world, technology enables families separated by geography to maintain relationships. While in-person interaction remains most important for young children's development, thoughtful use of technology teaches that digital tools can sustain relationships. Many cultures now use video calls as a primary way extended family stays connected across distances.
-
-**Exposure to diversity**:
-- Facilitate calls with relatives from different cultural backgrounds, speaking different languages
-- Show child how people around the world use similar tools to connect
-- Discuss how technology brings different cultures closer together
-- Introduce apps and platforms from different countries/cultures
-
-**Books/Media**:
-- "Click, Clack, Moo: Christmas on the Farm" by Doreen Cronin (includes themes of connection)
-- "Llama Llama Misses Mama" by Anna Dewdney (explores connection across distances)
-
-## Parent/Caregiver Notes
+## 📝 Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child is shy or refuses to interact on camera
-**Why**: Young children often experience social anxiety or aren't comfortable seeing themselves on screen; this is completely normal developmentally
-**Solution**: Don't force interaction. Let child watch and listen first without pressure to speak. Start with shorter sessions (2-3 minutes). Use drawings or showing objects instead of talking. Normalize it by participating alongside child. Try again another day without pressure.
+**Challenge**: Child is shy or refuses to interact on camera.
+**Solution**: Don't force interaction. Let your child watch and listen first without pressure to speak. Start with very short sessions (2-3 minutes). Suggest showing objects or drawing instead of talking. Normalize the experience by participating alongside your child. Try again another day without pressure. Shyness with cameras is completely normal developmentally.
 
-**Challenge**: Child gets overstimulated or frustrated with technology
-**Why**: Screens can be overwhelming for some children, especially if connection is laggy or the experience is unfamiliar
-**Solution**: Keep sessions brief. Reduce background stimulation. Try a simpler app or platform. Have a comfort item nearby. End the session gracefully if child is upset. Approach again more gradually.
+**Challenge**: Child gets overstimulated or frustrated with the technology.
+**Solution**: Keep sessions brief. Reduce background stimulation and distracting visuals. Try a simpler app or platform. Have a comfort item nearby. End the session gracefully if your child is upset. Approach again more gradually over multiple sessions.
 
-**Challenge**: Long distance relative wants to spend extended time in call, but child loses interest
-**Why**: Young children have limited attention spans; even enjoyable activities need breaks
-**Solution**: Set clear time expectations before starting. Give child a visual timer showing how much time remains. Plan the most engaging part of the interaction toward the end. Consider multiple shorter sessions rather than one long one.
+**Challenge**: The distant relative wants an extended call, but your child loses interest.
+**Solution**: Set clear time expectations before starting (tell the other person "we have about 10 minutes"). Give your child a visual timer showing how much time remains. Plan the most engaging part of the interaction toward the end. Consider multiple shorter sessions rather than one long call.
 
-**Challenge**: Child becomes distracted by the app or device rather than the connection
-**Why**: Technology features can be more interesting than conversation to young children
-**Solution**: Minimize distracting elements. Keep apps simple. Return focus to the person on screen frequently. Use the device as a tool for connection, not entertainment.
+**Challenge**: Child becomes distracted by app features rather than the connection itself.
+**Solution**: Minimize distracting app elements. Keep interfaces simple. Return focus to the person on screen frequently. Use the device as a tool for connection, not entertainment. Close or silence notifications.
 
-### Tips for Success
+### Follow-Up Activities
 
-- **Start with familiar people**: Begin with immediate family members child sees regularly in person; branch out gradually
-- **Have a reason to connect**: Rather than "just a video call," have a specific purpose (say goodnight, show something new, hear a story)
-- **Keep it short and sweet**: 5-15 minutes is ideal; it's better to end while child is still engaged than to let them get bored
-- **Position the camera at eye level**: This makes the experience feel more natural and helps child focus on the other person's face
-- **Use the technology purposefully**: Tech is a bridge for connection, not a substitute for in-person time
-- **Celebrate the connection**: "Grandma loved seeing you today!" reinforces the relationship-building aspect
+1. **Save and Share**: Screenshot or save special messages and drawings. Create a digital folder organized by date and person. Review these periodically with your child to show how relationships grow.
 
-### What to Do With the Creation
+2. **Extend the Connection**: Print a drawing received from a distant relative or frame it. Create a digital scrapbook of video call screenshots. Send updates to other caregivers showing your child's communication growth.
 
-- **Save digital messages or drawings**: Screenshot or download and save in a digital folder organized by date/person
-- **Print special communications**: Frame a drawn picture received from a distant relative or print messages as keepsake
-- **Create a digital scrapbook**: Compile screenshots and recordings of video calls into a digital album
-- **Share with other caregivers**: Send snapshots to other parents/guardians to document child's communication growth
-- **Reflect on connections**: Review messages/calls periodically to show child how their relationships grow
+3. **Plan Ahead**: Before the next call, ask your child what they want to show or talk about. Help them gather toys or ideas. This builds anticipation and gives them agency in the interaction.
 
 ---
 
