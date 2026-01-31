@@ -4,7 +4,7 @@
 
 Children explore the relationship between actions and consequences through hands-on discovery, learning that their behaviors create results in the world around them. Through engaging activities, children develop understanding of physical causation (pushing causes movement), social consequences (hitting makes friends sad), and logical reasoning about why things happen.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Cause**: The reason why something happens; the action or event that starts a chain of events. When you drop a ball, the drop is the cause of it bouncing.
 

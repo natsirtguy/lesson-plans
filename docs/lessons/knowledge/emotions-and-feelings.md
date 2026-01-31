@@ -4,7 +4,7 @@
 
 Children learn to identify, name, and express their emotions through songs, activities, and conversations. This lesson helps young learners develop emotional literacy and begin understanding that all feelings are normal and valid, while building vocabulary for the feelings they experience every day.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Emotion**: A strong feeling inside your body that shows how you're doing right now—like happy, sad, angry, or scared. When you smile because something is funny, that's an emotion.
 

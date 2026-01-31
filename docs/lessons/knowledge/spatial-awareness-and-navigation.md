@@ -4,7 +4,7 @@
 
 This lesson helps children develop an understanding of their position in space and how to move through their environment with intention and awareness. Through guided exploration, children will learn directional vocabulary and practice moving their bodies in relation to objects and people, building foundational navigation skills they use in everyday activities.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate

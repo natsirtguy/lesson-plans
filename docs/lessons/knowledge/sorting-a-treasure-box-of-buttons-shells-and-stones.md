@@ -4,7 +4,7 @@
 
 Children explore natural and manufactured objects through hands-on tactile sorting, learning to classify items by their properties like color, shape, texture, and size. This foundational activity develops critical thinking skills while engaging the senses and building vocabulary about descriptive characteristics.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Classify**: To arrange or organize things into groups based on what they have in common. When you classify buttons by color, you're putting all the red ones together and all the blue ones together.
 

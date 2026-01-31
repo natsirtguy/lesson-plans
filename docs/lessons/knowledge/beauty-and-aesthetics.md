@@ -4,7 +4,7 @@
 
 Children explore the concept of beauty through colors, patterns, textures, and visual harmony in nature and art. This lesson helps young learners develop visual awareness, aesthetic appreciation, and the ability to notice and describe what makes things visually appealing to them.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Aesthetic**: The way something looks and how it makes us feel when we see it. When you arrange colorful pillows on a couch in a pretty pattern, you're creating something aesthetic.
 

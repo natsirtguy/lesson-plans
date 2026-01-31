@@ -4,7 +4,7 @@
 
 This lesson helps young children understand how human actions affect the natural world around them—both the ways we help and harm nature. Through hands-on exploration, children will observe how we interact with plants, animals, water, and soil while learning simple ways to care for our environment.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Environment**: The natural world around us, including plants, animals, water, air, and soil—everything living and non-living that surrounds us. When we go to the park, we are exploring the environment.
 

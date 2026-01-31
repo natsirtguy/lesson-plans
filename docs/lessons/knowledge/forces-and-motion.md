@@ -4,7 +4,7 @@
 
 Children will explore how things move and what makes them move through hands-on experiments with pushes, pulls, and rolling objects. This lesson helps young learners understand the fundamental concept that forces (pushes and pulls) cause objects to move, stop, or change direction—building early physics understanding through direct sensory experience.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic:
 

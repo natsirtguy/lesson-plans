@@ -4,7 +4,7 @@
 
 In this lesson, children discover the world's most amazing natural landmarks—towering mountains, majestic canyons, powerful waterfalls, and beautiful caves. Through exploration, storytelling, and hands-on activities, they'll learn about these incredible geological formations and develop an appreciation for the natural wonders that exist around the globe.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Landmark**: A distinctive natural or human-made feature that is easily recognized and helps us know where we are. A tall mountain that you can see from far away, or a unique rock formation, acts as a landmark that makes a place special and memorable.
 

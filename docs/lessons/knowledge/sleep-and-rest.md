@@ -4,7 +4,7 @@
 
 Children explore the importance of sleep and rest for their bodies and minds, learning how rest helps them grow strong and healthy. Through sensory activities, songs, and discussions, children discover different ways to relax and prepare for sleep, developing healthy sleep habits and understanding rest as essential self-care.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relating to sleep and rest concepts that can be demonstrated or experienced.
 

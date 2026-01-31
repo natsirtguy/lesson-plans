@@ -4,7 +4,7 @@
 
 In this lesson, children explore basic concepts of leadership, decision-making, and community roles through engaging activities that demonstrate how families and groups make choices together. Young learners discover that leaders help organize and care for groups, and that everyone can contribute ideas and help make decisions for their community.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Leader**: A person who helps guide a group and make decisions for everyone. When you're playing a game and someone decides the rules, they're being a leader—like a captain of a team.
 

@@ -4,7 +4,7 @@
 
 Children explore what rules are, why they help us stay safe and happy, and how cooperation means working together with others. Through games, songs, and hands-on activities, they'll learn that following simple rules and cooperating with friends and family creates a safe, fun environment for everyone.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Cooperate**: Working together with someone else toward the same goal. When you and a friend build a block tower together instead of each building alone, you are cooperating.
 

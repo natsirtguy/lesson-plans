@@ -4,7 +4,7 @@
 
 Children explore how people around the world live differently, celebrate uniquely, and share common human experiences through sensory discovery and cultural representation. This lesson introduces the concept that the world is beautifully diverse—different clothes, foods, languages, and celebrations make our world rich and interesting, while all people share the need for family, food, shelter, and joy.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Culture**: The special way a group of people live—the clothes they wear, food they eat, holidays they celebrate, and stories they tell. For example, some cultures celebrate with parades and drums, while others use lanterns and quiet reflection.
 

@@ -4,7 +4,7 @@
 
 Children explore foundational math concepts through hands-on counting, sorting, and grouping activities. They'll learn to recognize quantities, compare amounts, and develop number sense through playful discovery with concrete objects like blocks, buttons, and snacks.
 
-## 🔤 Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relating to the topic.
 

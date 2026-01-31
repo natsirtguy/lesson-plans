@@ -4,7 +4,7 @@
 
 Children explore the importance of keeping their bodies clean and healthy through sensory experiences, songs, and hands-on activities. This lesson teaches foundational self-care skills including washing hands, brushing teeth, and basic hygiene practices while building independence and healthy habits.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")

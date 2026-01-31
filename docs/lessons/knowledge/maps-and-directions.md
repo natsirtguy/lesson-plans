@@ -4,7 +4,7 @@
 
 Children explore how maps help us understand spaces and find our way, learning that maps are bird's-eye views of real places. Through hands-on activities with simple maps and navigation, children develop spatial awareness and begin understanding how symbols represent real things in their environment.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate

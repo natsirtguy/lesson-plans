@@ -4,7 +4,7 @@
 
 Children will engage their five senses through a carefully curated multi-sensory exploration station, focusing on taste, smell, touch, and proprioception (body awareness). This foundational lesson teaches children to observe, discriminate, and respond to different sensory experiences while building vocabulary around sensory descriptions and developing awareness of their own bodies in space.
 
-## Vocabulary Focus (4 words)
+## Vocabulary
 
 **Texture**: The way something feels when you touch it—rough, smooth, bumpy, or soft. When you rub your hand on a blanket versus tree bark, you experience different textures.
 

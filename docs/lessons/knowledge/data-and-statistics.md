@@ -4,7 +4,7 @@
 
 Young learners discover that information can be collected, organized, and compared in different ways. Through hands-on sorting, counting, and simple graphing activities, children learn to observe patterns, make predictions, and understand how data tells stories about the world around them.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Collect**: Gathering items or information together on purpose. When you collect toys into a bucket or gather information about your friends' favorite colors, you are collecting data about something.
 

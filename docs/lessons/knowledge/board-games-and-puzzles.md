@@ -4,7 +4,7 @@
 
 Children explore the concepts of strategy, pattern recognition, and problem-solving through engaging with age-appropriate games and puzzles. This lesson introduces how games have rules that we follow together, how puzzles challenge our thinking, and how these activities build patience and celebrate success.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Strategy**: A plan or method you choose to win a game or solve a problem. When you move your game piece to a special square to get closer to winning, you're using strategy.
 

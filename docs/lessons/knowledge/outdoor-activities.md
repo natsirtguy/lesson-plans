@@ -4,7 +4,7 @@
 
 Children explore the world beyond indoor spaces, discovering natural elements, weather, and movement opportunities. Through sensory exploration and guided observation, they learn that outdoor environments offer endless opportunities for learning, play, and discovery while developing confidence and independence in outdoor settings.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Terrain**: The natural features and surface of the outdoor ground—like grass, dirt, gravel, sand, or rocks. You might say, "Feel the different terrain under your feet at the park!"
 

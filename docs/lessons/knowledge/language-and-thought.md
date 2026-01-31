@@ -4,7 +4,7 @@
 
 Children discover how words help us think and understand the world around us through playful language exploration, rhyming games, and naming activities. They'll learn that language is a powerful tool for remembering, sharing ideas, and solving problems—understanding that what we think and what we say are deeply connected.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Communicate**: To share your thoughts, feelings, or ideas with other people using words, sounds, or gestures. When you tell a friend what you're thinking, you communicate. When you describe what you see at the park, you're communicating your thoughts.
 

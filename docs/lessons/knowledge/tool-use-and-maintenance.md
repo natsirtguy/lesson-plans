@@ -4,7 +4,7 @@
 
 Children explore how tools help us accomplish tasks and learn the importance of caring for them properly. Through hands-on exploration and demonstrations, children discover that tools have specific purposes, require respectful handling, and need to be maintained to work well—building early understanding of responsibility and practical life skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")

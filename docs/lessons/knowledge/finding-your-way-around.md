@@ -4,7 +4,7 @@
 
 Children explore spatial awareness and navigation skills by learning how to identify landmarks, follow directions, and understand positional language in their environment. Through guided exploration and interactive games, they'll develop the foundational skills needed to navigate familiar spaces independently and understand how places are organized.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Navigate**: To find your way from one place to another, often by following directions or landmarks. When you navigate, you might follow a path, use signs, or remember where things are. For example, navigating from the bedroom to the kitchen or following a pathway at the park.
 

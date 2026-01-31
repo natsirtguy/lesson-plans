@@ -4,7 +4,7 @@
 
 Children will learn to recognize and name their emotions through interactive activities, songs, and guided exploration. This lesson teaches young learners that all feelings are normal and provides simple strategies to manage big emotions in healthy ways.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
 

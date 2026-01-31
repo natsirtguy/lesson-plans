@@ -4,7 +4,7 @@
 
 Children will explore the fundamental elements of visual art through hands-on creative exploration, learning to observe and use color, shape, texture, and composition in their own creations. Through sensory-rich experiences and artistic play, children will develop visual awareness and gain confidence as young artists and designers.
 
-## 🔤 Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, expanding beyond toddler basics while directly relating to the topic.
 

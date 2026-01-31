@@ -4,7 +4,7 @@
 
 Children explore the concept of fairness through everyday rules and sharing, discovering that rules help keep everyone safe and happy. Through activities, songs, and discussions, they learn to recognize fair and unfair situations and understand why families and communities have simple rules that apply to everyone.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Fair**: When everyone gets what they need or is treated the same way. When you share toys with your friend so you both get a turn, that's fair. When grown-ups let all the children in line have the same amount of snack time, that shows fairness.
 

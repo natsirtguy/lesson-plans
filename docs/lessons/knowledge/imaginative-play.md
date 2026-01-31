@@ -4,7 +4,7 @@
 
 Children explore creative thinking and role-playing through fantasy scenarios, pretend activities, and open-ended play. Through imaginative play, children develop language, problem-solving skills, emotional intelligence, and confidence in expressing themselves in new and fantastical ways.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Imagine**: To create a picture or idea in your mind of something that isn't really there right now. When you imagine, you're thinking of something new and pretend. For example, imagining you're a chef cooking in a kitchen, or a astronaut floating in space.
 

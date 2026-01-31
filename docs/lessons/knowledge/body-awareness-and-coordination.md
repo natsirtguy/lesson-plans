@@ -4,7 +4,7 @@
 
 Through guided movement exploration and sensory discovery, children develop an understanding of their body's capabilities and how different body parts work together. This lesson teaches fundamental coordination skills while building proprioceptive awareness (understanding where their body is in space) through playful, intentional movement activities that children can repeat and master.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Coordinate**: To move different body parts together in a smooth, controlled way. When you reach up high with your arm while standing on one foot, your arms and legs are coordinating to keep you balanced.
 

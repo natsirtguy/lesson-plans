@@ -4,7 +4,7 @@
 
 Children discover that people around the world speak many different languages and that words sound different in different places. Through listening, mimicking, and exploring words from various languages, children develop awareness of global diversity and appreciation for how people communicate in unique ways. This lesson expands their understanding beyond their native language while introducing them to sounds and cultures from around the world.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Language**: A special system of sounds and words that people use to talk and communicate with each other. Just like you speak English, people in other countries speak different languages like Spanish, Mandarin, or French.
 

@@ -4,7 +4,7 @@
 
 Young learners will discover how engineers think and work by designing, building, and testing structures and solutions with everyday materials. Children will explore the engineering process—planning, building, testing, and improving—while developing problem-solving skills, creativity, and confidence as thinkers and builders.
 
-## Vocabulary Focus
+## Vocabulary
 
 **Engineer**: A person who designs and builds things to solve problems or make life better. An engineer might design a bridge, a playground, or a house so that people can use it safely and happily.
 

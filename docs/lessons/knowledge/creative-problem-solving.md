@@ -4,7 +4,7 @@
 
 Children will discover multiple ways to solve simple challenges using everyday materials, learning that problems can have many different solutions. Through hands-on exploration and guided play, they'll develop flexible thinking, persistence, and confidence in tackling obstacles independently.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Solution**: A way to fix a problem or answer a challenge. When your block tower falls, stacking them differently is a solution.
 

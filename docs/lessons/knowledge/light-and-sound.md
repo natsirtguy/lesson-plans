@@ -4,7 +4,7 @@
 
 Young learners explore the magical properties of light and sound through interactive, sensory-rich activities that help them understand how these invisible forces move through the world around them. Children will experiment with light sources, create shadows, and produce various sounds while building vocabulary and scientific observation skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Illuminate**: To make something bright or fill with light. When you turn on a lamp in a dark room, the light illuminates the space so you can see everything clearly.
 

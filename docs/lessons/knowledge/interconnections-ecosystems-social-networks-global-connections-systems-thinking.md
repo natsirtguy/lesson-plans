@@ -4,7 +4,7 @@
 
 Children explore how everything connects to everything else—from plants and animals living together, to how families and communities depend on each other, to how actions ripple outward. Through hands-on exploration, they discover that the world is made of systems where each part matters and affects other parts.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Ecosystem**: A community of living things (plants, animals, insects) that depend on each other and share the same environment. An example: a garden where bees pollinate flowers, flowers feed birds, and dead leaves become soil that feeds new plants.
 

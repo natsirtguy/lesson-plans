@@ -4,7 +4,7 @@
 
 Children develop the coordination and strength needed for movement by exploring how their bodies work through play and practice. This lesson guides children to discover big movements (like jumping and running) and small, controlled movements (like pinching and drawing) as they learn to coordinate their muscles with intention and confidence.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
 

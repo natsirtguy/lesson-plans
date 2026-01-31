@@ -4,7 +4,7 @@
 
 Children explore color, sequence, and pattern-making by threading beads and pasta onto string to create their own wearable necklaces. This activity develops fine motor control, introduces the concept of repeating patterns, and allows children to make creative decisions about arrangement, color combinations, and design symmetry.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Pattern**: A repeated arrangement of colors, shapes, or objects that occurs in a predictable sequence. When you string red bead, blue bead, red bead, blue bead—that alternating design is a pattern your necklace follows.
 

@@ -4,7 +4,7 @@
 
 Children work collaboratively with peers to create a large-scale painting on a shared surface, learning about teamwork, color mixing, and creative expression. This activity teaches social-emotional skills like sharing, taking turns, and celebrating group accomplishments while developing fine motor control and artistic confidence.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Collaborate**: To work together with others toward a common goal. When children paint the mural together, each child contributes their own brushstrokes to create something larger than they could make alone.
 

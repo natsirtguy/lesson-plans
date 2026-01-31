@@ -4,7 +4,7 @@
 
 Children explore how languages are made up of different sounds, words, and patterns through playful activities that demonstrate phonemes, vocabulary, and sentence structure. Through songs, sorting games, and sound exploration, young learners discover that languages have consistent building blocks and patterns that help us communicate.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Phoneme**: The smallest unit of sound in a language that changes meaning. For example, the "p" sound at the beginning of "pat" versus the "b" sound in "bat" creates two different words.
 

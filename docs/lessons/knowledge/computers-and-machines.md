@@ -4,7 +4,7 @@
 
 Children will discover how machines work and learn about computers through hands-on exploration of simple mechanical devices and age-appropriate digital tools. Through tactile play and guided observation, they'll understand that machines help people do work and that computers are special machines that process information.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly related to the topic, and can be demonstrated or experienced.
 

@@ -4,7 +4,7 @@
 
 Children will observe and explore the life cycle of plants, discovering how seeds transform into growing plants and learning about different types of plants found in nature. Through hands-on exploration with seeds, soil, and water, they'll develop an understanding of what plants need to grow and notice the unique characteristics of different plant varieties.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Germinate**: When a seed awakens and begins to grow, pushing out tiny roots and shoots. You can see germination when you plant a seed in soil and water and wait to watch the first green sprout push through the dirt.
 

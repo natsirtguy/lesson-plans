@@ -4,7 +4,7 @@
 
 Children explore the concept of family structures, relationships, and the roles people play in their lives. Through sensory activities, storytelling, and interactive play, they learn to identify family members, understand different types of families, and develop emotional awareness about the people who care for them.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Relationship**: A connection between two people that involves caring, talking, and spending time together. Your relationship with your mom is special because she hugs you, reads to you, and takes care of you every day.
 

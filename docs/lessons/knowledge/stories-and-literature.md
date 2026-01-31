@@ -4,7 +4,7 @@
 
 Children will explore the magic of storytelling and books through interactive read-aloud experiences, dramatic storytelling, and book exploration activities. They'll discover how stories have characters, settings, and events that unfold in sequence, building foundational literacy skills and a love of reading.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Character**: A person, animal, or creature in a story who does things and has feelings. When you read about Goldilocks trying the porridge in "Goldilocks and the Three Bears," Goldilocks is the character—the one doing the action.
 

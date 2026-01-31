@@ -4,7 +4,7 @@
 
 Children explore what makes celebrations special by discovering that traditions are things families and communities do again and again to mark important times. Through sensory exploration, music, and storytelling, young learners experience how celebrations bring people together and create happy memories with rituals, decorations, music, and special foods.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Tradition**: Something special that families or communities do the same way over and over again, like decorating a tree every winter or gathering for a special meal together—it's a meaningful pattern that people repeat to show what matters to them.
 

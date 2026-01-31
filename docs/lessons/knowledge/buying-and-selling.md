@@ -4,7 +4,7 @@
 
 Children explore the fundamental concept of exchanging money or items for goods through hands-on play shopping experiences. This lesson helps young learners understand that people give something (money or items) to receive something they want, building awareness of basic economic transactions and the purpose of money in everyday life.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Transaction**: A trade or exchange where one person gives something and receives something in return. When you buy groceries at the store, that's a transaction between you and the shopkeeper.
 

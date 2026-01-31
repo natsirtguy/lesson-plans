@@ -4,7 +4,7 @@
 
 Children will explore the concepts of heat and cold through sensory experiences with various temperature objects and environments. They'll learn how to safely identify and respond to different temperatures while developing their vocabulary for describing thermal sensations.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Temperature**: The measure of how hot or cold something is. When you touch a warm cup of cocoa, that warmth is the temperature—higher temperature means hotter, lower temperature means colder.
 

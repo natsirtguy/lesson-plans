@@ -4,7 +4,7 @@
 
 This lesson introduces children to common household and simple tools, exploring what each tool does and how to use it safely. Through hands-on exploration and discovery play, children learn that tools help us accomplish tasks more easily and that different tools serve different purposes.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that expand beyond toddler basics:
 

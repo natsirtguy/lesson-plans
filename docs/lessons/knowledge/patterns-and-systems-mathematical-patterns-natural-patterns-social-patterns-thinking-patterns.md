@@ -4,7 +4,7 @@
 
 In this lesson, children explore the fascinating world of patterns—discovering how patterns appear in nature, in everyday objects, in sounds, and in how we think and organize our world. Through hands-on exploration and play, children learn to recognize, create, and predict patterns, building foundational mathematical thinking and observational skills that help them understand the world around them.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Pattern**: A sequence of things that repeats in an orderly way, like red-blue-red-blue or big-small-big-small. You see patterns on a zebra's stripes, in the tiles on the floor, and in songs that repeat the same words.
 

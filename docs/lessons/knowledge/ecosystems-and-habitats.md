@@ -4,7 +4,7 @@
 
 Children discover that different animals live in different homes and environments, each with special features that help animals survive. Through sensory exploration and observation, they'll learn how living things connect to their surroundings and why certain plants and animals belong in specific places.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Habitat**: A special home or place where an animal lives with everything it needs to survive, like food, water, and shelter. A forest is a habitat for bears; the ocean is a habitat for fish.
 

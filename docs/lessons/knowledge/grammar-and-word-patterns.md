@@ -4,7 +4,7 @@
 
 In this lesson, children explore how words are built and used together in patterns through playful repetition, rhyming, and hands-on word manipulation. Kids will discover how adding sounds to words changes their meaning, recognize repeating patterns in language, and begin understanding basic sentence structure through songs, games, and sensory activities.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Pattern**: A repeating sequence of sounds, words, or ideas that occurs the same way over and over (like "hop-hop-skip, hop-hop-skip" or "cat, cat, dog, dog, cat, cat, dog, dog")
 

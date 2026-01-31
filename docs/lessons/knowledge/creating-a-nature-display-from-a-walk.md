@@ -4,7 +4,7 @@
 
 Children collect natural items during an outdoor walk and arrange them into a creative display, developing observation skills and fine motor control. This activity deepens appreciation for nature's textures, colors, and diversity while encouraging children to notice and organize details from their environment.
 
-## 🔤 Vocabulary Focus (4 words)
+## Vocabulary
 
 **Arrange**: To place objects in a particular order or pattern; when you arrange things, you're deciding where each one should go to make something look nice or organized.
 

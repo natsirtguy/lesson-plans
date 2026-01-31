@@ -4,7 +4,7 @@
 
 Children explore four distinct natural environments—forests, deserts, oceans, and mountains—through sensory exploration, discovery play, and comparative learning. This lesson helps children understand that the world contains diverse places with different characteristics, animals, plants, and weather patterns, building foundational knowledge about Earth's geography and ecosystems.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that expand beyond basic toddler language while remaining developmentally appropriate.
 

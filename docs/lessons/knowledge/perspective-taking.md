@@ -4,7 +4,7 @@
 
 Children explore the concept that different people see, feel, and think about things in different ways based on where they are and how they experience the world. Through interactive activities and storytelling, children discover that their viewpoint is one of many, building empathy and social understanding.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Perspective**: The way someone sees or understands something based on their own position, feelings, and experiences. When you stand on a stool to look at a picture on the wall, you see it from a different perspective than when sitting down.
 

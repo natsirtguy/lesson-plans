@@ -4,7 +4,7 @@
 
 Children will explore the outdoor world as nature detectives, discovering insects and small creatures while developing observational skills and scientific curiosity. Using magnifying glasses, they'll examine bugs up close, learning to move slowly and quietly through nature while practicing focus, patience, and wonder-filled discovery.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Observe**: To watch something carefully and notice details. When you observe a bug with a magnifying glass, you might see its legs, wings, and stripes that you couldn't see before.
 

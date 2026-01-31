@@ -4,7 +4,7 @@
 
 Children explore the concept of climate zones and discover how different parts of Earth have different weather, temperatures, and environments. Through sensory experiences and observation activities, young learners will understand that tropical zones are hot, polar zones are cold, and temperate zones have seasons—building foundational geographic and environmental awareness.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Climate**: The typical weather pattern that a place has over many years. When we say "tropical climate," we mean a place that is always warm and rainy. When we say "polar climate," we mean a place that is always very, very cold.
 

@@ -4,7 +4,7 @@
 
 Children will explore how everyday objects are created through hands-on making, understanding that things are built from smaller materials and components. Through sensory creation and observation, they'll develop an appreciation for craftsmanship and the processes behind the things they use daily.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Manufacture**: To make or produce something, usually in large quantities using machines and materials. When you manufacture a toy car, you shape plastic and metal pieces and put them together to create something useful.
 

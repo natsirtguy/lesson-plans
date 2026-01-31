@@ -4,7 +4,7 @@
 
 Children explore the fascinating world of animals by observing and mimicking different animal behaviors, sounds, and characteristics. Through hands-on discovery, they'll learn how different animals move, what they eat, where they live, and how they interact with their environment, building foundational understanding of animal diversity and adaptation.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Behavior**: The way an animal acts or moves, like how a cat stretches before jumping or how a bird hops to find food. You can observe animal behaviors by watching pets, videos, or visiting a park.
 

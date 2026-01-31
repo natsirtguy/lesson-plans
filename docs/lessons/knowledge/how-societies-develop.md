@@ -4,7 +4,7 @@
 
 Children explore how communities and groups of people work together to create societies with shared rules, responsibilities, and ways of living. Through hands-on activities and observation, they discover how cooperation, communication, and working together help people build homes, share resources, and care for each other—foundational concepts of how societies form and function.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Cooperation**: Working together with other people toward a common goal. When you and your friend build a block tower together instead of alone, you're cooperating—each person helps make something bigger and stronger.
 

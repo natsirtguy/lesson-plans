@@ -4,7 +4,7 @@
 
 Children explore what it means to be safe in different environments and situations, learning about physical safety, emotional well-being, protecting the environment, and trusting safe adults. Through hands-on activities and guided exploration, children develop awareness of safety practices and confidence in seeking help when needed.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
 

@@ -4,7 +4,7 @@
 
 Children explore the concept of community helpers and the important roles different people play in keeping neighborhoods safe, healthy, and functioning. Through songs, hands-on activities, and guided observation, young learners develop awareness of teachers, doctors, firefighters, police officers, and other community members who support them daily.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Community**: A group of people who live or work together in the same area and help take care of each other.
 

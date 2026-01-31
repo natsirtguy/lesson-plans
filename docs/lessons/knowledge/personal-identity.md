@@ -4,7 +4,7 @@
 
 Children explore who they are by recognizing their own name, physical characteristics, preferences, and unique qualities. Through mirror play, name recognition activities, and conversations about likes and dislikes, children develop self-awareness and understand that they are individuals with their own special traits and interests.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Identity**: The special combination of things that make you YOU—your name, what you look like, and the things you like to do. Your identity is what makes you different and unique from everyone else.
 

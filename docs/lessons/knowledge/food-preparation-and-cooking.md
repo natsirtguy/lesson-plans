@@ -4,7 +4,7 @@
 
 Children will explore the fundamentals of food preparation through hands-on cooking and sensory experiences, learning vocabulary related to kitchen processes and food transformation. They'll discover how simple ingredients become delicious meals while developing fine motor skills, following directions, and building confidence in the kitchen.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Ingredients**: The individual items we combine together to make a recipe, like flour, eggs, and butter that go into a cake. When you bake cookies, the ingredients are sugar, flour, and chocolate chips.
 

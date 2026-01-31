@@ -4,7 +4,7 @@
 
 Children explore the concept of innovation and invention by discovering how everyday objects are created and how ideas can become real things. Through hands-on experimentation with simple materials, they learn that anyone can be an inventor and that trying new things is how we solve problems and make discoveries.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Invent**: To create something completely new that has never been made before. When you invent, you use your imagination and materials to make something original—like when a child builds a tower with blocks in a way nobody has built before.
 

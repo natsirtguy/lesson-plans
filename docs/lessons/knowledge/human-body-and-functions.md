@@ -4,7 +4,7 @@
 
 Children discover the amazing systems and parts that make their body work! Through hands-on exploration and movement activities, they'll learn how their heart beats, lungs breathe, muscles move, and bones support them. This lesson builds body awareness and early understanding of how their physical body enables them to play, eat, sleep, and grow.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Heart**: The strong muscle inside your chest that pumps blood through your body to give it energy. You can feel your heart beating fast after you run and play!
 

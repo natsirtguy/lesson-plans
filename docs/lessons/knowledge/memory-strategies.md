@@ -4,7 +4,7 @@
 
 This lesson teaches children practical techniques for remembering information through repetition, visualization, and association. Children will engage in memory games and activities that build their ability to recall sequences, objects, and patterns, strengthening their working and long-term memory skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly related to the topic, and can be demonstrated or experienced.
 

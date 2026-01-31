@@ -4,7 +4,7 @@
 
 Children explore the magical world of theatrical performance and dramatic play by becoming actors, creating simple characters, and telling stories through movement and expression. This lesson introduces the fundamentals of theater: pretending, character development, and audience awareness, while building confidence, creativity, and emotional expression skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Character**: A person or creature you pretend to be in a story or play. When you put on a hat and pretend to be a chef, you are creating a character.
 

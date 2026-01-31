@@ -4,7 +4,7 @@
 
 Children will develop fine motor control and hand-eye coordination by learning to tie simple knots and bows with yarn and string. Through guided practice with their own hands and visual demonstrations, children will understand how loops, twists, and pulls create secure fastenings, building confidence in their ability to manipulate materials and solve practical problems.
 
-## Vocabulary Focus (4 words)
+## Vocabulary
 
 **Loop**: A curved shape made when you bend something like a string or rope into a circle without crossing the ends. When you tie your shoes, you make two loops that look like bunny ears.
 

@@ -4,7 +4,7 @@
 
 Children explore the fundamentals of friendship through playful interaction, learning how to approach peers, take turns, share, and express care for others. Through hands-on activities and guided play, children discover that friendships begin with kindness, grow through shared experiences, and thrive when we listen and cooperate with one another.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Companionship**: The friendly relationship you share when you spend time together with someone you like and enjoy. When you and another child play with blocks together all morning, you experience companionship.
 

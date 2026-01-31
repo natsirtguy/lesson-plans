@@ -4,7 +4,7 @@
 
 Children explore different ways people and objects move from one place to another, discovering vehicles, animals, and human-powered methods of transportation. Through hands-on activities and song, they observe patterns in how transportation works and develop vocabulary for the vehicles and movement methods they encounter daily.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Transport**: The movement of people or things from one location to another, like when a bus carries passengers or a train moves cargo down the tracks.
 

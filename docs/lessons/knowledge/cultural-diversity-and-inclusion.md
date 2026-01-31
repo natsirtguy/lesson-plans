@@ -4,7 +4,7 @@
 
 In this lesson, children explore the wonderful variety of people, languages, traditions, and celebrations around the world. Through sensory activities, music, and interactive experiences, they discover that people look different, speak different languages, enjoy different foods, and celebrate in different ways—and that all of these differences make our world beautifully unique and interesting.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Culture**: The special traditions, foods, languages, clothes, music, and celebrations that make a group of people unique. Every family has a culture—the things you do together, the foods you eat, and the songs you sing are part of your culture.
 

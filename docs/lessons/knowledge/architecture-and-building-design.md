@@ -4,7 +4,7 @@
 
 Children explore the principles of building and design by constructing structures, investigating how buildings stand, and learning about different architectural features found in their homes and communities. Through hands-on building exploration, children discover concepts like balance, stability, and spatial relationships while developing problem-solving skills and creative thinking.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Structure**: The way something is built or arranged. A structure is made from parts that fit together to hold something up. A bridge is a structure that spans across water; a building is a structure where people live or work.
 

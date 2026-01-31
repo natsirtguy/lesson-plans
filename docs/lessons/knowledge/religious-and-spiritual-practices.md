@@ -4,7 +4,7 @@
 
 This lesson introduces children to the concept of spiritual and religious practices—the special rituals, traditions, and meaningful moments that families share to express their values and beliefs. Through engaging activities, children will observe and appreciate how different people practice gratitude, mindfulness, and celebration in ways that are meaningful to them.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Ritual**: A special action or ceremony that we do in the same way again and again, often because it's meaningful and important to us—like lighting candles at dinner time, singing a special song before bed, or gathering together to celebrate.
 

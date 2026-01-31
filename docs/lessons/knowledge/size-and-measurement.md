@@ -4,7 +4,7 @@
 
 Children explore the concepts of size, length, and measurement through hands-on comparison and sorting activities. They learn that objects can be compared (bigger/smaller, taller/shorter), counted, and measured in different ways, building foundational math and observation skills that connect to real-world applications.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Measurement**: The process of finding out how long, tall, wide, or heavy something is. When you use a ruler or your hands to find out how big a toy is, you're measuring it.
 

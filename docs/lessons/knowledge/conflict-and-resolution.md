@@ -4,7 +4,7 @@
 
 Children learn that disagreements are normal and that there are helpful ways to solve problems together. Through guided activities, songs, and role-play scenarios, they discover how to use words, take turns, and find solutions where everyone feels better. This lesson builds foundational conflict resolution skills and emotional regulation.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Problem**: A situation where two people want different things or one person has hurt another's feelings. Example: When two children want the same toy, they have a problem that needs solving.
 

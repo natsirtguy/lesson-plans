@@ -4,7 +4,7 @@
 
 This lesson explores the foundational social skills of cooperation and sharing, helping children understand how working together and taking turns creates positive interactions. Through hands-on activities, children will practice sharing materials, cooperating on simple tasks, and recognizing the feelings that come with collaborative play.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Cooperate**: Working together with someone toward a shared goal. When you and a friend build a block tower together, you are cooperating because you both want to make the tower taller.
 

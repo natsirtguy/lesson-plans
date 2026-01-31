@@ -4,7 +4,7 @@
 
 Children will discover how their bodies grow stronger through movement and activity, exploring the difference between rest and exertion while building foundational awareness of physical wellness. Through playful activities, children will experience their own strength, learn about muscles, and understand that fitness is about feeling capable and healthy.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Strength**: The power in your muscles that helps you lift, push, and carry things. When you hold your baby sibling or help carry groceries, you're using your strength.
 

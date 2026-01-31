@@ -4,7 +4,7 @@
 
 Children explore the fascinating journey of how humans learn to communicate through sounds, words, and gestures. Through singing, listening, and interactive play, children discover that language grows gradually from simple sounds to meaningful words and sentences, and that everyone learns to talk in their own unique way and timeline.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Communicate**: To share thoughts, feelings, and ideas with others using words, sounds, gestures, or facial expressions. When you point at a picture book and say "dog," you are communicating the idea that you see a dog.
 

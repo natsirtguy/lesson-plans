@@ -4,7 +4,7 @@
 
 Children will explore the concept of energy through their bodies and observe how energy creates movement, sound, and change. This lesson helps young learners understand that energy is a force that makes things happen—from their own bodies moving to objects in motion around them.
 
-## 🔤 Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Energy**: The power that makes things move and change. When you run, jump, or play, you're using your body's energy. Energy is what makes your muscles work!
 

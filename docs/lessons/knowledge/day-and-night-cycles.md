@@ -4,7 +4,7 @@
 
 Children discover the natural rhythm of day and night by exploring how the sun and moon appear at different times, observing how light and darkness change throughout a 24-hour cycle, and understanding that day and night are part of Earth's continuous rotation. Through hands-on exploration, songs, and sensory activities, children develop foundational concepts about time, celestial objects, and Earth's movement.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Rotation**: When something spins around like a top. Earth rotates to create day and night—one side faces the sun (daytime) while the other side faces away (nighttime). You can demonstrate this with a spinning ball and flashlight.
 

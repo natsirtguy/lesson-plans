@@ -4,7 +4,7 @@
 
 Children explore how their five senses work by engaging in tactile, visual, auditory, olfactory, and gustatory experiences. Through hands-on discovery activities, they learn to observe, identify, and describe the world around them using all their senses, developing sensory awareness and language skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Texture**: The way something feels when you touch it, such as rough like tree bark, smooth like glass, or bumpy like a pinecone. When you rub different surfaces, you experience their texture.
 
