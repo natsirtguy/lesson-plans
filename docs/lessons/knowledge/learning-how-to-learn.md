@@ -4,7 +4,7 @@
 
 This lesson introduces young children to the foundational idea that learning is a process of curiosity, exploration, and persistence. Children will discover that asking questions, trying new things, and making mistakes are all important parts of learning, building confidence and a growth-oriented mindset from an early age.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Curious**: The feeling you get when you want to know more about something. When you see a butterfly and want to watch where it goes, that's being curious—your mind is hungry to explore and discover.
 

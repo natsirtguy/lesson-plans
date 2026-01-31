@@ -4,7 +4,7 @@
 
 In this lesson, children develop foundational critical thinking skills by learning to ask questions, observe details, and think about "why" and "how." Through guided exploration and open-ended questioning, children discover that asking questions is a powerful way to understand their world and solve problems.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Wonder**: The feeling of wanting to know something or figure something out; when you ask "why" or "how" about things you see. When you watch a butterfly and wonder how it got its colors, you're being curious.
 

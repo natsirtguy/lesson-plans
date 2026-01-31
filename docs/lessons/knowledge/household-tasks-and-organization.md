@@ -4,7 +4,7 @@
 
 Children explore the daily routines and organization systems that keep a home running smoothly. Through sorting, organizing, and practicing simple household tasks, they develop responsibility, order, and an understanding of how families work together. This lesson teaches children that organization helps everyone find things, stay safe, and work efficiently as a family team.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Sort**: To arrange or group items by a shared characteristic or feature. When you sort socks by color, you're putting all the red socks together, all the blue socks together, and finding matches for your drawers.
 

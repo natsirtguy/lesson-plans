@@ -4,7 +4,7 @@
 
 In this lesson, children explore the weather patterns and seasonal changes that happen all around them throughout the year. Through sensory activities, observation, and play, they'll discover how weather affects their daily lives and learn to identify characteristics of different seasons using their senses and the natural world.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Temperature**: How hot or cold something feels. When you go outside on a sunny day and feel warm on your skin, that's high temperature. When you need to wear a jacket because it feels cold, that's low temperature.
 

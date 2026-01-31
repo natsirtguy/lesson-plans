@@ -4,7 +4,7 @@
 
 Children explore the concept of collecting and developing interests through hands-on gathering activities. This lesson introduces the idea that people enjoy finding, organizing, and keeping special items, helping children discover what they like and why collections matter to us.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Collection**: A group of items that belong together because someone chose to gather them. Like when you save all your favorite rocks in a box, or your stuffed animals on your shelf.
 

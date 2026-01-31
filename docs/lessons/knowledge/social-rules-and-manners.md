@@ -4,7 +4,7 @@
 
 Children learn essential social conventions and courteous behaviors that help them navigate interactions with others respectfully. Through exploration of everyday scenarios, songs, and interactive practice, they discover how saying "please," "thank you," and "excuse me" makes social interactions smoother and makes others feel valued and respected.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
 

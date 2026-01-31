@@ -4,7 +4,7 @@
 
 Children develop empathy by learning to recognize, name, and respond to the feelings of others. Through story-based activities, emotion mirroring games, and guided observation, children discover that other people have feelings just like they do and that they can help make someone feel better. This foundation for empathy builds social awareness and strengthens relationships.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to understanding others' emotions.
 

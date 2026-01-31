@@ -4,7 +4,7 @@
 
 Children explore the concept that all living things are made of tiny building blocks called cells. Through hands-on sensory activities and observation, they discover that cells work together to make living things grow, move, and stay healthy. This foundational science lesson builds curiosity about the invisible structures that make us who we are.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Cell**: A tiny building block that makes up all living things. Every plant, animal, and person is made of millions of cells too small to see without special tools. Your skin, bones, and muscles are all made of cells working together.
 

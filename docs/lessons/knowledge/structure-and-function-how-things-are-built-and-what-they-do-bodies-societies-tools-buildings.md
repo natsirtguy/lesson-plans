@@ -4,7 +4,7 @@
 
 Children explore how things are built and discover the relationship between how something is constructed (structure) and what it can do (function). Through hands-on investigation of everyday objects, bodies, buildings, and tools, children develop understanding that form and purpose are connected—a door needs a handle to open, legs help us walk, a spoon is shaped to scoop.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Structure**: The way something is built or put together—how its parts fit and connect. When you look at a chair, the structure is the wooden legs, seat, and back that hold it up and keep it sturdy.
 

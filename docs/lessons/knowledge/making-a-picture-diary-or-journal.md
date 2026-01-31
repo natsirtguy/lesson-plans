@@ -4,7 +4,7 @@
 
 Children create and maintain a simple picture diary to document their daily experiences, feelings, and observations. This activity develops fine motor skills, self-expression, memory recall, and early literacy while giving children a meaningful way to chronicle their lives. Through drawing, stickers, and simple words, each child creates a personal treasure that celebrates their unique perspective.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Chronicle**: To record or write down events and moments as they happen. When you make a picture diary, you are chronicling your day by drawing what happened.
 

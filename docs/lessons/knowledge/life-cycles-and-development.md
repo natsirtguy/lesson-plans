@@ -4,7 +4,7 @@
 
 Children explore how living things grow and change over time, from seeds to plants, eggs to butterflies, and babies to grown-ups. Through hands-on observation and interactive activities, they discover that all living creatures go through similar stages of growth and development.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Cycle**: A series of events that happen in the same order again and again. Just like a bicycle wheel goes round and round, a butterfly's life goes through stages that repeat—egg, caterpillar, chrysalis, butterfly. The seasons also form a cycle: spring, summer, fall, winter, then spring again.
 

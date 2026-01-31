@@ -4,7 +4,7 @@
 
 Children explore the roles of leader and follower through interactive activities that build awareness of social dynamics, directional cues, and cooperative play. They will practice taking turns as leader and follower, learning to give and respond to simple directions while developing confidence, communication skills, and spatial awareness.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Lead**: To go first and show the way to others. When you walk ahead and others copy your movements, you are the leader—like a teacher showing children where to line up.
 

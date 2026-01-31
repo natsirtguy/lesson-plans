@@ -4,7 +4,7 @@
 
 Children explore the concept of exchange and value through hands-on activities involving trading, buying, and selling. This lesson introduces the foundational understanding that money is a tool for obtaining things we want and need, and that trade involves giving something to receive something else in return.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Trade**: Exchanging one thing for another thing of equal value—like giving your apple to a friend in exchange for their crackers. It's sharing something you have to get something you want.
 

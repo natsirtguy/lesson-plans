@@ -4,7 +4,7 @@
 
 In this lesson, children explore the differences between busy cities and peaceful rural areas through sensory experiences, storytelling, and hands-on play. They'll discover that both environments have unique features, sounds, and activities that make them special places for people to live, work, and play.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Urban**: A place with many buildings close together, lots of people, cars, and busy activity—like downtown areas with tall buildings, stores, and streets full of traffic.
 

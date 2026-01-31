@@ -4,7 +4,7 @@
 
 Children will explore cause and effect relationships by investigating how everyday objects and simple machines function. Through hands-on experimentation with real materials, they'll discover how movement, levers, wheels, and mechanisms create observable results in their world.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Mechanism**: The way parts of something work together to make it move or function. When you push a lever on a toy, the mechanism inside makes the wheel spin.
 

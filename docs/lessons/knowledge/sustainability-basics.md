@@ -4,7 +4,7 @@
 
 Children will explore the concept of caring for our planet through simple, sensory activities that demonstrate how we can reduce waste and protect nature. Through hands-on discovery, they'll learn that our choices matter and that even small actions help take care of Earth.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Sustainable**: Something that we can use and repeat over and over without harming the Earth. Like using a cloth bag many times instead of throwing away plastic bags each time we go shopping.
 

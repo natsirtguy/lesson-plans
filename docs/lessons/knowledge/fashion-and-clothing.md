@@ -4,7 +4,7 @@
 
 In this lesson, children explore the wonderful world of clothes and fashion through sensory discovery, sorting activities, and creative dress-up play. They'll learn to identify different clothing items, understand how clothes serve different purposes (protection, warmth, expression), and develop vocabulary for describing fabrics, colors, and styles while building independence in dressing skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Texture**: The way something feels when you touch it—like how a soft blanket feels different from a bumpy sweater, or how smooth silk feels different from rough denim.
 

@@ -4,7 +4,7 @@
 
 Children learn to share special items with others through simple presentations, developing communication skills, confidence, and social connection. This activity helps children practice speaking about objects they care about while learning to listen and show interest in their peers' experiences.
 
-## Vocabulary Focus (4 words)
+## Vocabulary
 
 **Present**: To show or share something with other people; when you stand up and let everyone see your toy, you are presenting it.
 

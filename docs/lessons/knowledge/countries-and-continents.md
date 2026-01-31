@@ -4,7 +4,7 @@
 
 Children will explore the concept of different countries and continents by discovering where people, animals, and customs come from around the world. Through interactive globe exploration, map activities, and cultural discovery, they'll develop geographical awareness and understand that our world has many different places with unique characteristics.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
 

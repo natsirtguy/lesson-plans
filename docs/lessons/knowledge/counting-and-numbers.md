@@ -4,7 +4,7 @@
 
 Children will discover the connection between spoken numbers, physical objects, and quantity through playful exploration and repetition. This lesson introduces the fundamental concept that numbers represent "how many," building the foundation for mathematical thinking through hands-on manipulation and sensory experiences.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Quantity**: The total amount or number of things in a group. When you have five apples in a bowl, the quantity of apples is five—this tells us "how many" without needing to count.
 

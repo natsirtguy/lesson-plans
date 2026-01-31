@@ -4,7 +4,7 @@
 
 Children learn that decisions are choices we make every day, and that thinking about consequences helps us make good ones. Through interactive scenarios, sorting activities, and guided practice, the child discovers how to pause, consider options, and choose actions that are helpful and safe.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Consequence**: What happens as a result of a choice or action. If you choose to run in the grass, the consequence might be getting tired. If you choose to be gentle with a toy, the consequence is the toy stays nice.
 

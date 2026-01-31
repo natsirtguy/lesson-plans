@@ -4,7 +4,7 @@
 
 Children explore how we send and receive messages in many different ways - through words, pictures, sounds, and movements. They'll experiment with expressing ideas without speaking, interpreting symbols and gestures, and discovering that communication happens all around them every day.
 
-## Vocabulary Focus
+## Vocabulary
 
 **Express**: To share your feelings, ideas, or thoughts in a way that others can understand. When you make a picture to show how happy you feel, or make a big jump to show excitement, you are expressing yourself.
 

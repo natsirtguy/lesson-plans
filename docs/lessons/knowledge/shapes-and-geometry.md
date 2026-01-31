@@ -4,7 +4,7 @@
 
 Children will explore basic geometric shapes through sensory investigation, pattern recognition, and hands-on discovery. They'll learn to identify and name circles, squares, triangles, and rectangles while developing spatial awareness and mathematical thinking skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Circle**: A perfectly round shape with no corners or straight sides, like a pizza, a wheel, or the moon in the sky.
 

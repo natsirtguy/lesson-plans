@@ -4,7 +4,7 @@
 
 Children explore the joy and freedom of movement through music and rhythm, discovering how their bodies can move in different ways to express feelings and ideas. Through guided dance activities, songs, and creative movement games, children develop body awareness, coordination, and self-expression while building confidence in a supportive, joyful environment.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Rhythm**: The regular, repeated pattern of sounds or movements that creates a beat you can feel and follow (like clapping along to a favorite song or marching to a drum)
 

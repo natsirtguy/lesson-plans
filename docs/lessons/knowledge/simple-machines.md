@@ -4,7 +4,7 @@
 
 Young learners will explore how simple machines make work easier by investigating levers, ramps, and pulleys through hands-on experimentation. Children will discover that machines help us lift, move, and push things with less effort while developing problem-solving skills and an understanding of cause and effect.
 
-## Vocabulary Focus
+## Vocabulary
 
 **Lever**: A long, rigid bar that pivots on a fixed point to help lift or move something heavy. When you use a seesaw at the playground, you're using a lever to lift your friend into the air.
 

@@ -4,7 +4,7 @@
 
 Children explore the concept of buoyancy by discovering which objects float and which ones sink in water. Through hands-on experimentation with various household items and water play, they'll observe cause-and-effect relationships and begin to understand the science behind why some things float while others sink. This foundational science experience builds observation skills and introduces basic concepts about how different materials interact with water.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Buoyant**: Something that is able to float on or stay on top of water. A cork is buoyant, which is why it floats on a bathtub rather than sinking to the bottom.
 

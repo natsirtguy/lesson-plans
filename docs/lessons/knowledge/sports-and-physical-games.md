@@ -4,7 +4,7 @@
 
 Children discover the joy of organized movement through simple sports and games, learning fundamental concepts about teamwork, fair play, and physical coordination. Through engaging activities, they'll explore how bodies move in different ways, understand basic game rules, and develop confidence in physical play alongside peers.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Teamwork**: Working together with others toward a shared goal, just like when teammates pass a ball back and forth or help each other during a game.
 

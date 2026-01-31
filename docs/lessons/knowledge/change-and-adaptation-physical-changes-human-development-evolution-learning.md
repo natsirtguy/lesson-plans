@@ -4,7 +4,7 @@
 
 Children explore how everything around them changes over time—from how they grow and learn, to how plants and animals develop, to how seasons transform the world. Through hands-on discovery and observation, they'll observe change in progress and develop an understanding that change is a natural, ongoing part of life.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic:
 

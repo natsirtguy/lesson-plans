@@ -4,7 +4,7 @@
 
 This lesson introduces young children to the wonders of planets and stars through interactive exploration and sensory activities. Children will learn to observe and identify celestial objects while developing vocabulary for the night sky and understanding basic concepts about our solar system and the vast universe beyond.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic:
 

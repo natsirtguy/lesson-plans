@@ -4,7 +4,7 @@
 
 Children explore how to think carefully about information by observing, comparing, and asking questions about what they see and hear. Through simple activities, they practice noticing details, identifying real versus pretend, and deciding whether information makes sense to them, building foundational critical thinking skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Observe**: To watch and look carefully at something, noticing details and small changes. When you observe the toy, you might notice it has wheels that roll, buttons that make sounds, and a color that shines.
 

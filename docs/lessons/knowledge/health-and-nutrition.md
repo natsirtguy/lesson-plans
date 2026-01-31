@@ -4,7 +4,7 @@
 
 Children explore what our bodies need to grow strong and healthy through hands-on food exploration and body awareness activities. They'll discover different food groups, taste and touch various nutritious foods, and learn how eating well helps them run, play, and think.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")

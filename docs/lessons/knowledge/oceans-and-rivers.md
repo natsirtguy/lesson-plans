@@ -4,7 +4,7 @@
 
 In this lesson, children explore the characteristics of oceans and rivers through water-based sensory experiences and observations. They'll discover that oceans are large bodies of salty water and rivers are flowing freshwater that connect to oceans, while engaging with water movement, currents, and the life that lives in these environments.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Currents**: The movement of water flowing in a particular direction, like when a river rushes downhill or ocean waves push water along the shore. Children can feel currents by moving their hand through running water in a stream or basin.
 

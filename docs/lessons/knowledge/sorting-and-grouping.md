@@ -4,7 +4,7 @@
 
 Children explore the mathematical concepts of organization and classification by sorting objects based on multiple attributes like color, size, shape, and texture. Through hands-on exploration, they develop critical thinking skills, learn to recognize patterns, and understand how to organize the world around them in meaningful ways.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look"):
 

@@ -4,7 +4,7 @@
 
 In this lesson, children explore the difference between clean and polluted spaces through hands-on sensory activities and visual comparisons. They'll learn that clean environments support health and happiness while polluted ones can make us sick, and discover simple ways they can help keep places clean and safe for everyone.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Clean**: Free from dirt, germs, or unwanted materials. When you wash your hands with soap and water, they become clean. A clean playground is a safe place to play.
 

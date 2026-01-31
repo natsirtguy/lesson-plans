@@ -4,7 +4,7 @@
 
 Children explore how their bodies can move in different ways while maintaining stability and control. Through hands-on activities, songs, and guided exploration, they discover how balance helps them accomplish everyday movements like walking, climbing, and dancing. This lesson develops body awareness, coordination, and confidence in physical capabilities.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
 

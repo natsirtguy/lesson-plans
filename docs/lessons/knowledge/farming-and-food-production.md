@@ -4,7 +4,7 @@
 
 Children explore where food comes from by learning about farms, growing plants, and the journey from seed to harvest. Through sensory activities and discovery play, they understand that farmers grow the fruits, vegetables, and grains we eat every day, building gratitude and appreciation for the natural world and the people who feed us.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select vocabulary words that are sophisticated but age-appropriate, directly related to the topic, and can be demonstrated or experienced.
 

@@ -4,7 +4,7 @@
 
 Children explore the concept of time through their own physical cycles, daily routines, and sequences of events. They learn to observe patterns, understand cause-and-effect relationships, and develop awareness of how long activities take through hands-on exploration with timers, clocks, and sensory experiences.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")

@@ -4,7 +4,7 @@
 
 In this lesson, children explore spatial awareness, problem-solving, and creative play by designing and constructing their own blanket fort. They'll discover how to gather materials, build a stable structure, and create an enclosed space that serves as their special retreat. This hands-on activity combines practical engineering skills with imaginative play and sensory-rich exploration.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Structure**: The way something is built or organized, with parts connected together to hold it up. When you build a blanket fort, you're creating a structure by arranging blankets and pillows so they don't fall down.
 

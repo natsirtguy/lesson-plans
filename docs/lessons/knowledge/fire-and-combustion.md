@@ -4,7 +4,7 @@
 
 Children will explore the scientific concept of fire and combustion through safe, age-appropriate hands-on demonstrations and sensory exploration. This lesson teaches how fire needs three things to burn (heat, fuel, and oxygen) while developing vocabulary about heat, light, and energy transformation. Through guided observation and interactive activities, children will understand fire's role in the world while developing healthy respect for this natural phenomenon.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Combustion**: The chemical process where something burns and combines with oxygen, releasing heat and light energy. *Example: When we light a birthday candle, combustion happens and creates the flame that makes light and warmth.*
 

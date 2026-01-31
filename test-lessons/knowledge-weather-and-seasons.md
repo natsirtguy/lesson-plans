@@ -2,7 +2,7 @@
 
 **Category**: Physical World - Earth & Space
 
-## 🔤 Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Temperature**: How hot or cold something feels. When you touch ice cream, it has a cold temperature. When you hold warm cocoa, it has a warm temperature.
 

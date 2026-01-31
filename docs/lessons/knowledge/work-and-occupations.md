@@ -4,7 +4,7 @@
 
 Through this lesson, children discover the variety of jobs and roles that help our community function. Young learners will explore different occupations, learn about tools and uniforms that workers use, and begin understanding that grown-ups do different kinds of work to help others and care for themselves.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
 

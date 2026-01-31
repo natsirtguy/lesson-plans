@@ -4,7 +4,7 @@
 
 Children will discover how water can exist in three different forms—liquid, solid, and gas—through hands-on sensory exploration and scientific observation. They'll observe ice melting, water freezing, and steam rising to understand this fundamental concept of how matter transforms.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Solid**: Matter that has a fixed shape and doesn't flow. Ice is a solid—when you hold it, it keeps its block shape and doesn't change form.
 

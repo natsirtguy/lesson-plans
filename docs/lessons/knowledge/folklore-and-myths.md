@@ -4,7 +4,7 @@
 
 Children will discover the magical world of folklore and mythological stories that have been shared across generations and cultures. Through storytelling, creative exploration, and imaginative play, young learners will understand that myths are special stories that teach important lessons and help us understand our world in fantastical ways.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Legend**: A special story from long ago that people told over and over again, often about brave heroes or magical events (like stories about dragons protecting treasure in faraway kingdoms).
 

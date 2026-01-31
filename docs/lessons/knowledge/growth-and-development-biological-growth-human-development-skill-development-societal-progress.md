@@ -4,7 +4,7 @@
 
 Children explore the concept of growth through observing living things, measuring themselves, and discovering how bodies, plants, and skills change over time. This lesson helps young learners understand that growth is a natural, continuous process that happens to all living things and people as they learn new skills.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Grow**: To become bigger, taller, or stronger over time. When you were a baby, you were tiny. Now you're bigger—that's growing! Plants grow taller when they get sunlight and water.
 

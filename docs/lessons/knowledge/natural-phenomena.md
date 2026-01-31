@@ -4,7 +4,7 @@
 
 Children explore the fascinating world of natural phenomena—observable events and processes that occur in nature without human intervention. Through sensory experiences and guided discovery, children will observe, describe, and develop wonder about wind, rain, shadows, and other everyday natural occurrences that shape their environment.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Phenomenon**: An observable event or occurrence in nature that happens around us every day. When you see rain falling from clouds or feel wind pushing you gently, these are phenomena. The plural is "phenomena."
 

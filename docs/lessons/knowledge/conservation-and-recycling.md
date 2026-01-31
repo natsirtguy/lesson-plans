@@ -4,7 +4,7 @@
 
 Children explore the concepts of reusing, recycling, and protecting our environment through hands-on sorting activities and discovery play. They'll learn that some materials can be transformed into new items instead of being thrown away, developing early environmental awareness and responsible habits.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Conserve**: To keep something safe and use it carefully so there is enough for everyone. When you turn off the water while brushing your teeth, you conserve water so there's plenty for plants and animals to drink.
 

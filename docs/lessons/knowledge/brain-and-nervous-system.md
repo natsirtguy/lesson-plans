@@ -4,7 +4,7 @@
 
 Children explore how their brain and body communicate through simple, sensory-based activities that demonstrate reflexes, movement, and how their senses send messages. This lesson introduces the foundational concept that the brain is the "command center" that helps us think, move, feel, and understand the world around us through engaging, hands-on discovery.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Brain**: The control center inside your head that helps you think, remember, move your body, and feel things. When you solve a puzzle, feel happy, or decide to jump—your brain is working!
 

@@ -4,7 +4,7 @@
 
 Children discover how structures are built and what materials are used in construction through hands-on exploration and creative building. They'll learn about balance, stability, and spatial relationships while developing fine motor skills and problem-solving abilities. This lesson encourages experimentation with stacking, balancing, and designing as they create their own buildings and structures.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Structure**: A building or object that is made by putting pieces together in a specific way. When you stack blocks to make a tower, you're creating a structure.
 

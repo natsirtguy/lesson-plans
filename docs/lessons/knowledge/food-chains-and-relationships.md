@@ -4,7 +4,7 @@
 
 Children explore the natural relationships between animals and their food sources, discovering that different creatures eat different things and that these connections create a "food chain." Through hands-on sorting and dramatization, they'll learn that plants feed animals, some animals eat plants, and some animals eat other animals—all part of nature's web of life.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Herbivore**: An animal that eats only plants and leaves. Think of a cow munching grass in a field, or a rabbit nibbling clover in the garden.
 

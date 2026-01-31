@@ -22,7 +22,7 @@ You will receive:
 
 [2-3 sentence overview of what this lesson teaches and what the child will do]
 
-## 🔤 Vocabulary Focus (3-4 words)
+## Vocabulary
 
 Select 3-4 vocabulary words that:
 - Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")

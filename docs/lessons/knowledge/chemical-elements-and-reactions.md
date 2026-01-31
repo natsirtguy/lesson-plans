@@ -4,7 +4,7 @@
 
 Children explore how different materials and liquids react and change when combined, discovering that mixing creates new textures and colors. Through safe, sensory-rich experiments, toddlers learn that mixing things together creates transformations while building vocabulary around cause-and-effect and scientific observation.
 
-## 🔤 Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Transform**: To change from one form or appearance into something completely different. When you mix baking soda and vinegar together, they transform into a fizzy, bubbly substance that's very different from either ingredient by itself.
 

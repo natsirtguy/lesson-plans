@@ -4,7 +4,7 @@
 
 Children discover how different people in their community provide helpful services and learn the joy of contributing by helping others. Through exploration, songs, and hands-on activities, they develop empathy, understanding of community roles, and practical helping skills that build confidence and social connection.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Service**: An action or job that helps other people. When the mail carrier delivers letters or the teacher reads stories, they are providing a service.
 

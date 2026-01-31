@@ -4,7 +4,7 @@
 
 Children will explore the fascinating world of rocks and minerals through sensory discovery, learning to identify different types of rocks by their properties like texture, color, and weight. They'll develop observational skills and build vocabulary while handling real rocks and examining their unique characteristics with magnifying glasses and their hands.
 
-## Vocabulary Focus (3-4 words)
+## Vocabulary
 
 **Texture**: The way something feels when you touch it—smooth, rough, bumpy, or grainy. When you touch a piece of sandstone, it feels rough and scratchy like the sidewalk, but a polished river stone feels smooth like glass.
 
