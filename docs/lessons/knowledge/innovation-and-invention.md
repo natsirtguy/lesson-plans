@@ -61,7 +61,7 @@ Every inventor has begun (7 syllables: Ev-ry-in-ven-tor-has-be-gun)
 - "Everyday Inventions Explained for Toddlers"
 - "How Do We Make Things? Educational Video for Preschool"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

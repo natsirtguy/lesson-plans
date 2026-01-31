@@ -60,7 +60,7 @@ Day begins again, explore! (7 syllables: Day-be-gins-a-gain-ex-plore)
 - "Sun and Moon Song for Kids"
 - "Day and Night Changes for Young Children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

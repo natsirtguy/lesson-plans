@@ -62,7 +62,7 @@ Messages we send everywhere (7 syllables: Mess-ag-es-we-send-ev-ery-where)
 - "Nonverbal communication for young children"
 - "Traffic signs and symbols for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

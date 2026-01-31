@@ -59,7 +59,7 @@ Everything we recycle, grow (7 syllables: Ev-ry-thing we re-cy-cle grow)
 - "Earth Day learning video for toddlers"
 - "What happens to our garbage" educational video
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

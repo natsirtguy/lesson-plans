@@ -61,7 +61,7 @@ Practicing helps you win the game (8 syllables: Prac-tic-ing helps-you-win-the-g
 - "Toddler brain building games"
 - "Memory matching games for 2-4 year olds"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

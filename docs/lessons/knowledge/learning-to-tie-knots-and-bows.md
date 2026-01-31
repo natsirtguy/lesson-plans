@@ -84,7 +84,7 @@ Soon you'll tie them well and true
 - "Knot tying for toddlers step by step"
 - "How to make a bow for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -64,7 +64,7 @@ Where the rivers meet the sea (7 syllables: Where the ri-vers meet the sea)
 - "Sesame Street Water and Rivers"
 - "Simple Kids Learning Oceans"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -62,7 +62,7 @@ New discoveries at each turn (8 syllables: New-dis-cov-er-ies-at-each-turn)
 - "Teaching toddlers to ask questions"
 - "Daniel Tiger asking questions episode"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

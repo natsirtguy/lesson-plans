@@ -61,7 +61,7 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 - "Toddler Songs About Stars and Space"
 - "Daniel Tiger Space Adventure"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

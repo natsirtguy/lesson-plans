@@ -59,7 +59,7 @@ Food webs all over on the ground (7 syllables: Food-webs-all-o-ver-on-the-ground
 - "What do animals eat educational video for toddlers"
 - "Nature connections herbivores carnivores kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -97,7 +97,7 @@ CRITICAL: You MUST count syllables VERY carefully to match the tune exactly.
 - "[Backup search 1]"
 - "[Backup search 2]"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

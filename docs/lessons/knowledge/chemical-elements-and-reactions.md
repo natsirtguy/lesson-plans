@@ -59,7 +59,7 @@ Reactions happen every day (7 syllables: Re-ac-tions=3, hap-pen=2, ev-ery=2, day
 - "Safe kitchen experiments for preschoolers"
 - "Sensory science activities toddlers"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

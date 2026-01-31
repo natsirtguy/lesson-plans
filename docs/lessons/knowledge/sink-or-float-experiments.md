@@ -56,7 +56,7 @@ Now you know what makes things last (7 syllables: Now-you-know-what-makes-things
 - "Sensory water table activities toddlers"
 - "Basic science experiments for preschoolers water"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

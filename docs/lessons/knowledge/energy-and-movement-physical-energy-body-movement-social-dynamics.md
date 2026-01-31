@@ -67,7 +67,7 @@ En-er-gy is all I see (En-er-gy is all I see = 7 syllables) ✓
 - "How energy makes things move children's video"
 - "Exploring movement and energy toddler learning"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

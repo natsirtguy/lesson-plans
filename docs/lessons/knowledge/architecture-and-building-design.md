@@ -60,7 +60,7 @@ Every building filled with pride (7 syllables: Ev-er-y-build-ing-filled-with-pri
 - "How buildings are made for toddlers"
 - "Building structures lesson for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

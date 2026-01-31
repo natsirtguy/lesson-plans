@@ -60,7 +60,7 @@ Share their voices, take our hands (Share their voic-es, take our hands = 7)
 - "Learn Greetings in 10 Languages for Kids"
 - "Hello in Different Languages - Kids Learning Video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

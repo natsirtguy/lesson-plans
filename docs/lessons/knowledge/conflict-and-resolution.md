@@ -57,7 +57,7 @@ And everyone feels better! (8 syllables: And-ev-ery-one-feels-bet-ter)
 - "Bluey - conflict resolution episode"
 - "Mr. Rogers - working it out together"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

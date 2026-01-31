@@ -64,7 +64,7 @@ That's how engineers belong (7 syllables: That's-how-en-gi-neers-be-long)
 - "STEM engineering basics for young children"
 - "How do engineers solve problems video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

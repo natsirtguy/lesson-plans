@@ -61,7 +61,7 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 - "Big Feelings Little Hands emotional development for preschoolers"
 - "Bluey emotions episode - learning about feelings"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

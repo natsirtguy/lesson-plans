@@ -65,7 +65,7 @@ Grow up strong in ev-ery way (7 syllables: Grow-up-strong-in-ev-er-y-way)
 - "Super Why healthy eating" (PBS Kids content)
 - "Sesame Street nutrition for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -58,7 +58,7 @@ Building all of you and me (7 syllables: Build-ing all of you and me)
 - "What Are Cells? Kids Science Video"
 - "Building Blocks of Life - Cells Explained for Children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

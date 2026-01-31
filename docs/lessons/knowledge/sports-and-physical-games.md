@@ -64,7 +64,7 @@ Getting stronger every day (8 syllables)
 - "Toddler ball games and activities"
 - "Young children playing sports together"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

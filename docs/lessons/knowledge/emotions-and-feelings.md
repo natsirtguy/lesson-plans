@@ -56,7 +56,7 @@ When I'm sad, I might cry, but that's al-right, feel-ings are okay (12 syllables
 - "Super Simple Songs: Emotions" (slow, clear, perfect for 2-4 year olds)
 - "Kids learning emotions and feelings video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

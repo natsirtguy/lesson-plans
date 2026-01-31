@@ -59,7 +59,7 @@ Ev-ery-bod-y lead-er be (7 syllables: Ev-ery-bod-y lead-er be)
 - "Community and families for toddlers"
 - "Leadership for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

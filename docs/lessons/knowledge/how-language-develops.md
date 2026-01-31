@@ -59,7 +59,7 @@ Children explore the fascinating journey of how humans learn to communicate thro
 - "How do babies learn to talk preschool"
 - "Early childhood language development video"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

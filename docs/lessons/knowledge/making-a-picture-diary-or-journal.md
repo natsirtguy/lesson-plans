@@ -59,7 +59,7 @@ Growing up, my stories strong (7 syllables: Grow-ing-up-my-sto-ries-strong)
 - "Simple art journal ideas for kids"
 - "How to make a memory book with children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

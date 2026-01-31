@@ -60,7 +60,7 @@ Trad-i-tions make our hearts grow warm and bright (7 syllables: trad-i-tions mak
 - "StoryBots: What Do We Celebrate?"
 - "Sesame Street: Celebrations Around the World"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -65,7 +65,7 @@ Every year comes round at last (7 syllables: Ev-ery year comes round at last)
 - "Sesame Street - Understanding Time Concepts"
 - "TimeForKids.com video: How Does Time Work for Kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

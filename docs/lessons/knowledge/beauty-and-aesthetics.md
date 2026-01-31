@@ -59,7 +59,7 @@ Beauty's something we all have (7 syllables: Beau-ty's some-thing we all have)
 - "Nature exploration for toddlers"
 - "Aesthetic learning for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

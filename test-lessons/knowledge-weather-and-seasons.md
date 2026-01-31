@@ -56,7 +56,7 @@ Summer, fall, winter, spring!
 - "types of weather preschool education"
 - "weather song for kids"
 
-## 🎯 Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 **Activity Type**: Sensory exploration and sorting

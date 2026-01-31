@@ -60,7 +60,7 @@ Knowing me and knowing you (7 syllables: Know-ing me and know-ing you)
 - "Sesame Street different perspectives preschool"
 - "Blue's Clues perspective taking activity"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

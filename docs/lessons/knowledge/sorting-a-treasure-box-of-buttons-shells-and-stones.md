@@ -60,7 +60,7 @@ Sorting treasures, what a race! (Sort-ing treas-ures, what a race = 7)
 - "Natural loose parts sorting toddlers"
 - "Montessori color sorting activities"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -60,7 +60,7 @@ Makes our kit-chen feel so right (7)
 - "Preschool Cooking Activities for Kids"
 - "Simple No-Bake Recipes Kids Can Make"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

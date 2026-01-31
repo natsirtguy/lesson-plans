@@ -59,7 +59,7 @@ Made together, bright and true (7)
 - "Group painting activity young children"
 - "Toddler team painting together"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -60,7 +60,7 @@ We can build a bet-ter world, you see (7 syllables: We-can-build-a-bet-ter-world
 - "Daniel Tiger - Protect the environment"
 - "Simple steps to care for nature - kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

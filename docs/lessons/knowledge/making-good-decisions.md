@@ -60,7 +60,7 @@ Good decisions come from you (7 syllables: Good-de-ci-sions-come-from-you)
 - "Sesame Street decision making for toddlers"
 - "Mr. Rogers decision making lesson for preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

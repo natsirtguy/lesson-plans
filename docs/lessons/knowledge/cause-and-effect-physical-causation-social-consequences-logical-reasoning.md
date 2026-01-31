@@ -59,7 +59,7 @@ Everything connects, inspect (7 syllables: Ev-ery-thing-con-nects-in-spect)
 - "Cause and effect toddler activities"
 - "Simple cause and effect for preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

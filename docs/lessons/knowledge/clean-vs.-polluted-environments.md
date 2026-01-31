@@ -61,7 +61,7 @@ They help us all live long and safe (7 syllables: They=1, help=1, us=1, all=1, l
 - "Clean environment vs. polluted environment for children"
 - "Why is a clean environment important for kids?"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -59,7 +59,7 @@ Pre-tend-ing for an-oth-er dear (7 syllables)
 - "Daniel Tiger imagination episodes"
 - "Sesame Street dramatic play for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

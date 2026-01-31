@@ -60,7 +60,7 @@ Lead-ing and fol-low-ing, watch our dance-es grow (8 syllables)
 - "Toddler cooperative games turn-taking dance"
 - "Follow the Leader song and dance for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

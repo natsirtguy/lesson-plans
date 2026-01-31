@@ -60,7 +60,7 @@ Learning what to do (6 syllables: Learn-ing what to do)
 - "PBS Kids critical thinking for young children"
 - "Mr. Rogers thinking and observing"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

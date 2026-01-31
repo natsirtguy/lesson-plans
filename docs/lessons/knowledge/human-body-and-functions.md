@@ -62,7 +62,7 @@ Your bod-y is the best in town (7 syllables: Your=1, bod=1, y=1, is=1, the=1, be
 - "Kids learn about their heart and lungs"
 - "Body systems for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

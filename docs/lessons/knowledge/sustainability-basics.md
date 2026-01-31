@@ -59,7 +59,7 @@ Every day in all we do (6 syllables: Ev-ery-day-in-all-we-do)
 - "PBS Kids: Nature and Environment"
 - "Sesame Street: Caring for Earth"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

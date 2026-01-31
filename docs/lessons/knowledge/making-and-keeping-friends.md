@@ -63,7 +63,7 @@ You will have good friends like you (7 syllables: You-will-have-good-friends-lik
 - "Blue's Clues let's play together"
 - "Mister Rogers' Neighborhood sharing and playing together"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

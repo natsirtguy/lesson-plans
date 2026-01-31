@@ -61,7 +61,7 @@ Working as a team each day (7 syllables: Work-ing as a team each day)
 - "Preschool rules and listening video"
 - "Daniel Tiger helping each other"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

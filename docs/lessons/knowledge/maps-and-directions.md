@@ -65,7 +65,7 @@ Following the map right down (7 syllables: Fol-low-ing the map right down)
 - "National Geographic Kids - Introduction to Maps"
 - "Storybots - How Do Maps Work?"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

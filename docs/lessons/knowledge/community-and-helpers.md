@@ -60,7 +60,7 @@ Children explore the concept of community helpers and the important roles differ
 - "Neighborhood Helpers Educational Video for Kids"
 - "Who Helps in Our Community? (Toddler Learning)"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -60,7 +60,7 @@ Special ways to call it home (7 syllables: Spe-cial-ways-to-call-it-home)
 - "Mindfulness and Gratitude for Toddlers"
 - "Family Traditions and Rituals Explained for Children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

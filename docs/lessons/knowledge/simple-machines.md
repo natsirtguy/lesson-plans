@@ -57,7 +57,7 @@ A ramp rolls objects down so smooth instead of dropping straight (12 syllables: 
 - "Levers and ramps for young children"
 - "How pulleys work explained for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

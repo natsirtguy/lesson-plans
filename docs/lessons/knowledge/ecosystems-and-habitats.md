@@ -65,7 +65,7 @@ That's where they're meant to be! (8 syllables: That's-where-they're-meant-to-be
 - "Different animal homes for toddlers"
 - "Habitats for early learners"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

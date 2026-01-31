@@ -63,7 +63,7 @@ Sailing on the water (12 syllables: Sail ing on the wa ter)
 - "Sesame Street transportation vehicles"
 - "Daniel Tiger goes to places with different transportation"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -71,7 +71,7 @@ We construct all the day long (7 syllables: We=1, con-struct=2, all=1, the=1, da
 - "Construction site for kids educational"
 - "How to build structures for preschoolers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

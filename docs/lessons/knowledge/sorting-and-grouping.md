@@ -62,7 +62,7 @@ Sorting fun for goodness sake (7 syllables: Sort-ing-fun-for-good-ness-sake)
 - "Preschool classification and grouping activities"
 - "Learning to sort objects for 2-4 year olds"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

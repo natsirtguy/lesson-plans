@@ -81,7 +81,7 @@ Working together, you see (4 syllables: Work-ing-to-geth-er-you-see)
 - "Sesame Street tool use lesson"
 - "Wild Kratts tool use episode"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

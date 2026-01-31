@@ -59,7 +59,7 @@ Sha-pes that make us use our mind (7 syllables)
 - "Basic shapes for preschoolers" educational content
 - "Shapes in nature for young children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

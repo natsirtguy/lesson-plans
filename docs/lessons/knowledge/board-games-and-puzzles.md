@@ -61,7 +61,7 @@ Winning or learning—we're proud of you (9 syllables: Win-ning or learn-ing—w
 - "Preschool turn-taking games activities"
 - "Young children learning games fun"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

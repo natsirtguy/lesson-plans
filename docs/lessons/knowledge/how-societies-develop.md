@@ -206,7 +206,7 @@ Work-ing hand in hand we all be-long to-geth-er (12)
 - "Sesame Street - how communities help us"
 - "National Geographic Kids - how do we live together"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -63,7 +63,7 @@ The most useful things of all (7 syllables: The-most-use-ful-things-of-all)
 - "Learning about tools for toddlers"
 - "Bluey tools and helpers episode"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

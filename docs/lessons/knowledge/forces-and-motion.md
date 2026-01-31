@@ -65,7 +65,7 @@ Has a force that makes that sound (7 syllables: Has-a-force-that-makes-that-soun
 - "Motion and Force experiments for preschoolers"
 - "Physics for young children - pushes and pulls"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

@@ -60,7 +60,7 @@ Count them, count them, one through five (7)
 - "Sesame Street counting lessons for preschool"
 - "Baby songs counting with objects"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

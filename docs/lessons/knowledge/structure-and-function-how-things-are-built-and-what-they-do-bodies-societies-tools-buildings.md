@@ -101,7 +101,7 @@ Struc-ture and func-tion work to-geth-er! (8)
 - "Parts of a house and what they do for preschoolers"
 - "How our bodies move science for kids"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

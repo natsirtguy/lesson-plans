@@ -60,7 +60,7 @@ Children will explore how everyday objects are created through hands-on making, 
 - "Simple manufacturing for preschoolers"
 - "Making things: How objects are created"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

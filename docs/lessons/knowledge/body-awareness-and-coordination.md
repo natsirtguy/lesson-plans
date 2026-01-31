@@ -61,7 +61,7 @@ Moving all around today (6 syllables: Mov-ing-all-a-round-to-day)
 - "Preschool yoga and stretching for kids"
 - "Body awareness activities for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

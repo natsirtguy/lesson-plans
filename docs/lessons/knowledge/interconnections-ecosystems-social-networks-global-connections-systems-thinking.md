@@ -72,7 +72,7 @@ That's how our wonderful interconnection grows (8 syllables)
 - "Simple food chain kids video"
 - "Bee and flower relationship children"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

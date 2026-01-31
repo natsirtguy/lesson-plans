@@ -55,7 +55,7 @@ Growing bigger, growing bigger every day (12 syllables: Grow-ing-big-ger-grow-in
 - "How do plants grow from seeds kids"
 - "The Very Hungry Caterpillar full story"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 

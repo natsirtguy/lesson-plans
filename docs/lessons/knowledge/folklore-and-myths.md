@@ -59,7 +59,7 @@ Passed through ages, generation to dear (8 syllables: Passed-through-a-ges-gen-e
 - "Ancient myths explained for kids"
 - "Magical stories for toddlers"
 
-## Hands-On Knowledge Activity
+## Activity
 
 ### Activity Overview
 
