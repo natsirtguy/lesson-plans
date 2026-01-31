@@ -23,20 +23,20 @@ Children explore the fundamental concept of exchanging money or items for goods 
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Going to the store to-day (7 syllables: go-ing to the store to-day)
-Pick up things in ev-ry way (7 syllables: pick up things in ev-ry way)
-Count my coins to see what's there (7 syllables: count my coins to see what's there)
-Buy some food and things to wear (7 syllables: buy some food and things to wear)
-Give my mon-ey, take a treat (7 syllables: give my mon-ey, take a treat)
-Shop-ping makes the day so sweet (7 syllables: shop-ping makes the day so sweet)
+Going to the store to-day
+Pick up things in ev-ry way
+Count my coins to see what's there
+Buy some food and things to wear
+Give my mon-ey, take a treat
+Shop-ping makes the day so sweet
 
 *Verse 2*
-I'm a cus-tom-er so proud (7 syllables: I'm a cus-tom-er so proud)
-Shop-keep-er helps me out loud (7 syllables: shop-keep-er helps me out loud)
-Trade my mon-ey for my wish (7 syllables: trade my mon-ey for my wish)
-May-be ap-ples, bread, or fish (7 syllables: may-be ap-ples, bread, or fish)
-Ex-change hap-pens ev-ry-where (7 syllables: ex-change hap-pens ev-ry-where)
-Buy-ing sell-ing ev-ry-where (7 syllables: buy-ing sell-ing ev-ry-where)
+I'm a cus-tom-er so proud
+Shop-keep-er helps me out loud
+Trade my mon-ey for my wish
+May-be ap-ples, bread, or fish
+Ex-change hap-pens ev-ry-where
+Buy-ing sell-ing ev-ry-where
 
 **Actions/Gestures**:
 1. Pretend to reach into a pocket or wallet and pull out coins (miming payment)

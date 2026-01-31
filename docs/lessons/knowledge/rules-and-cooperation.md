@@ -23,20 +23,20 @@ Children explore what rules are, why they help us stay safe and happy, and how c
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Rules and cooperation (7 syllables: Rules and coop-er-a-tion)
-Help us every single day (7 syllables: Help us ev-ry sin-gle day)
-Working together, playing fair (7 syllables: Work-ing to-geth-er, play-ing fair)
-We all help in every way (7 syllables: We all help in ev-ry way)
-When we follow all the rules (7 syllables: When we fol-low all the rules)
-We can have so much more fun (7 syllables: We can have so much more fun)
+Rules and cooperation
+Help us every single day
+Working together, playing fair
+We all help in every way
+When we follow all the rules
+We can have so much more fun
 
 *Verse 2*
-Take your turn and share with friends (7 syllables: Take your turn and share with friends)
-Listen when the other speaks (7 syllables: Lis-ten when the oth-er speaks)
-Respect each person, big and small (7 syllables: Re-spect each per-son, big and small)
-Cooperation is the key (7 syllables: Coop-er-a-tion is the key)
-Together we are strong and kind (7 syllables: To-geth-er we are strong and kind)
-Working as a team each day (7 syllables: Work-ing as a team each day)
+Take your turn and share with friends
+Listen when the other speaks
+Respect each person, big and small
+Cooperation is the key
+Together we are strong and kind
+Working as a team each day
 
 **Actions/Gestures**:
 1. Clap hands together twice on "cooperation" to show joining together

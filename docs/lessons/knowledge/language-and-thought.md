@@ -23,20 +23,20 @@ Children discover how words help us think and understand the world around us thr
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Words can help us think and say (7 syllables: Words-can-help-us-think-and-say)
-What we feel and think each day (7 syllables: What-we-feel-and-think-each-day)
-When we talk and when we share (7 syllables: When-we-talk-and-when-we-share)
-We can say what's in our care (7 syllables: We-can-say-what's-in-our-care)
-Words help us to understand (7 syllables: Words-help-us-to-un-der-stand)
-All the worlds both big and grand (7 syllables: All-the-worlds-both-big-and-grand)
+Words can help us think and say
+What we feel and think each day
+When we talk and when we share
+We can say what's in our care
+Words help us to understand
+All the worlds both big and grand
 
 *Verse 2*
-Think a thought and say it loud (7 syllables: Think-a-thought-and-say-it-loud)
-Share your ideas with your crowd (7 syllables: Share-your-i-deas-with-your-crowd)
-In your mind you make a plan (7 syllables: In-your-mind-you-make-a-plan)
-Use your words the very best you can (8 syllables: Use-your-words-the-ver-y-best-you-can)
-Language helps our thinking grow (7 syllables: Lan-guage-helps-our-think-ing-grow)
-More and more we come to know (7 syllables: More-and-more-we-come-to-know)
+Think a thought and say it loud
+Share your ideas with your crowd
+In your mind you make a plan
+Use your words the very best you can
+Language helps our thinking grow
+More and more we come to know
 
 **Actions/Gestures**:
 1. Point to your head when singing "think," then point to your mouth when singing "say"

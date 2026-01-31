@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-When my friend is sad and cries (7 syllables: When-my-friend-is-sad-and-cries)
-I can see it in their eyes (7 syllables: I-can-see-it-in-their-eyes)
-I will sit right by their side (7 syllables: I-will-sit-right-by-their-side)
-Help them feel so safe inside (7 syllables: Help-them-feel-so-safe-in-side)
-When I see they need some care (7 syllables: When-I-see-they-need-some-care)
-I can show that I'm right there (7 syllables: I-can-show-that-I-am-right-there)
+When my friend is sad and cries
+I can see it in their eyes
+I will sit right by their side
+Help them feel so safe inside
+When I see they need some care
+I can show that I'm right there
 
 *Verse 2*
-When my friend is happy too (7 syllables: When-my-friend-is-hap-py-too)
-I can smile the way they do (7 syllables: I-can-smile-the-way-they-do)
-All their feelings help me grow (7 syllables: All-their-feel-ings-help-me-grow)
-Care for others, let them know (7 syllables: Care-for-oth-ers-let-them-know)
-Understanding how they feel (7 syllables: Un-der-stand-ing-how-they-feel)
-Makes our friendship oh so real (7 syllables: Makes-our-friend-ship-oh-so-real)
+When my friend is happy too
+I can smile the way they do
+All their feelings help me grow
+Care for others, let them know
+Understanding how they feel
+Makes our friendship oh so real
 
 **Actions/Gestures**:
 1. Place hand on heart when singing about recognizing feelings, showing you're thinking about emotions

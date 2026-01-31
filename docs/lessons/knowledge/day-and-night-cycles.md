@@ -23,20 +23,20 @@ Children discover the natural rhythm of day and night by exploring how the sun a
 **Lyrics** (2 verses, matching the familiar melody):
 
 *Verse 1*
-Sun comes up to light the day (7 syllables: Sun-comes-up-to-light-the-day)
-Bright and warm in every way (7 syllables: Bright-and-warm-in-ev-ery-way)
-Sky is blue and yellow gold (7 syllables: Sky-is-blue-and-yel-low-gold)
-Stories of the day we're told (7 syllables: Sto-ries-of-the-day-we're-told)
-Sun goes down, the day is done (7 syllables: Sun-goes-down-the-day-is-done)
-Time for rest when day is done (7 syllables: Time-for-rest-when-day-is-done)
+Sun comes up to light the day
+Bright and warm in every way
+Sky is blue and yellow gold
+Stories of the day we're told
+Sun goes down, the day is done
+Time for rest when day is done
 
 *Verse 2*
-Moon comes up to light the night (7 syllables: Moon-comes-up-to-light-the-night)
-Soft and gentle, glowing bright (7 syllables: Soft-and-gen-tle-glow-ing-bright)
-Stars are twinkling all around (7 syllables: Stars-are-twin-kling-all-a-round)
-Peaceful, quiet is the sound (7 syllables: Peace-ful-qui-et-is-the-sound)
-When the sun comes back once more (7 syllables: When-the-sun-comes-back-once-more)
-Day begins again, explore! (7 syllables: Day-be-gins-a-gain-ex-plore)
+Moon comes up to light the night
+Soft and gentle, glowing bright
+Stars are twinkling all around
+Peaceful, quiet is the sound
+When the sun comes back once more
+Day begins again, explore!
 
 **Actions/Gestures**:
 1. **Sun rise**: Slowly raise both arms from low to high above head, fingers wiggling to represent sunlight spreading

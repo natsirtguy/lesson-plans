@@ -29,20 +29,20 @@ Select 3-4 vocabulary words that:
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-First we wake up in the morning (7 syllables: First we wake up in the mor-ning)
-Sun comes up without a warning (7 syllables: Sun comes up with-out a war-ning)
-Time moves on throughout the day (7 syllables: Time moves on through-out the day)
-In its own special way (7 syllables: In its own spe-cial way)
-Cycles turn both night and day (7 syllables: Cy-cles turn both night and day)
-Over and over, come what may (8 syllables: O-ver and o-ver come what may)
+First we wake up in the morning
+Sun comes up without a warning
+Time moves on throughout the day
+In its own special way
+Cycles turn both night and day
+Over and over, come what may
 
 *Verse 2*
-One then two then three things happen (7 syllables: One then two then three things hap-pen)
-Events follow in a pattern (7 syllables: E-vents fol-low in a pat-tern)
-First we play and then we eat (7 syllables: First we play and then we eat)
-Time helps make our day complete (8 syllables: Time helps make our day com-plete)
-Watch the seasons as they pass (7 syllables: Watch the sea-sons as they pass)
-Every year comes round at last (7 syllables: Ev-ery year comes round at last)
+One then two then three things happen
+Events follow in a pattern
+First we play and then we eat
+Time helps make our day complete
+Watch the seasons as they pass
+Every year comes round at last
 
 **Actions/Gestures**:
 1. Make a big circle with arms for "cycles" - move arms in a continuous circle

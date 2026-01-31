@@ -23,8 +23,8 @@ Children explore how people around the world live differently, celebrate uniquel
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-People all a-round the world (7 syllables: Peo-ple all a-round the world)
-Wear their col-ors, wave their flags so proud (9 syllables: Wear their col-ors wave their flags so proud) *ADJUSTMENT NEEDED*
+People all a-round the world
+Wear their col-ors, wave their flags so proud
 
 Let me recount carefully:
 

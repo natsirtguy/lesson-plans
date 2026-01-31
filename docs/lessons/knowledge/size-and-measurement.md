@@ -23,20 +23,20 @@ Children explore the concepts of size, length, and measurement through hands-on 
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Big and small and short and tall (7 syllables: Big and small and short and tall)
-Some things big and some are small (7 syllables: Some things big and some are small)
-We can measure, we can see (7 syllables: We can mea-sure, we can see)
-How much bigger one can be (7 syllables: How much big-ger one can be)
-All around us, everywhere (7 syllables: All a-round us, ev-ery-where)
-Size and measure, we compare (7 syllables: Size and mea-sure, we com-pare)
+Big and small and short and tall
+Some things big and some are small
+We can measure, we can see
+How much bigger one can be
+All around us, everywhere
+Size and measure, we compare
 
 *Verse 2*
-Tall as trees and small as bugs (7 syllables: Tall as trees and small as bugs)
-Heavy rocks and light as hugs (7 syllables: Hea-vy rocks and light as hugs)
-Counting, lining, we explore (7 syllables: Count-ing, lin-ing, we ex-plore)
-Learning what dimensions are (7 syllables: Learn-ing what di-men-sions are)
-With our hands and tools we measure (7 syllables: With our hands and tools we mea-sure)
-Understanding size's pleasure (7 syllables: Un-der-stand-ing size's plea-sure)
+Tall as trees and small as bugs
+Heavy rocks and light as hugs
+Counting, lining, we explore
+Learning what dimensions are
+With our hands and tools we measure
+Understanding size's pleasure
 
 **Actions/Gestures**:
 1. Stretch arms wide for "big" and pinch fingers together for "small"

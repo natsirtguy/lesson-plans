@@ -29,20 +29,20 @@ Select 3-4 vocabulary words that:
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Wash, wash, wash your hands so clean (7 syllables: Wash, wash, wash your hands so clean)
-Get out all the germs unseen (7 syllables: Get out all the germs un-seen)
-With soap and water, scrub scrub scrub (7 syllables: With soap and wa-ter, scrub scrub scrub)
-Rub them in your hands and tub (7 syllables: Rub them in your hands and tub)
-Rinse and dry them, shiny bright (7 syllables: Rinse and dry them, shi-ny bright)
-Your hands are healthy, clean, and right (7 syllables: Your hands are heal-thy, clean, and right)
+Wash, wash, wash your hands so clean
+Get out all the germs unseen
+With soap and water, scrub scrub scrub
+Rub them in your hands and tub
+Rinse and dry them, shiny bright
+Your hands are healthy, clean, and right
 
 *Verse 2*
-Brush your teeth from side to side (7 syllables: Brush your teeth from side to side)
-Morning, nighttime, with such pride (7 syllables: Mor-ning, night-time, with such pride)
-Splash your face and wash up well (7 syllables: Splash your face and wash up well)
-Healthy habits we can tell (7 syllables: Heal-thy hab-its we can tell)
-Comb your hair and take a bath (7 syllables: Comb your hair and take a bath)
-Self-care is the healthy path (7 syllables: Self-care is the heal-thy path)
+Brush your teeth from side to side
+Morning, nighttime, with such pride
+Splash your face and wash up well
+Healthy habits we can tell
+Comb your hair and take a bath
+Self-care is the healthy path
 
 **Actions/Gestures**:
 1. Scrubbing motion with both hands together for "wash, wash, wash"

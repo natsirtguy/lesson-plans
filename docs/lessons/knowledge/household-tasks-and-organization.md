@@ -23,20 +23,20 @@ Children explore the daily routines and organization systems that keep a home ru
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-We can sort things all day long (8 syllables: We can sort things all day long)
-Blocks and toys and socks so strong (8 syllables: Blocks and toys and socks so strong)
-Red and blue and colors bright (8 syllables: Red and blue and col-ors bright)
-Putting everything just right (8 syllables: Put-ting ev-ery-thing just right)
-Organization is so fun (8 syllables: Or-gan-i-za-tion is so fun)
-Working together, we are done (8 syllables: Work-ing to-geth-er we are done)
+We can sort things all day long
+Blocks and toys and socks so strong
+Red and blue and colors bright
+Putting everything just right
+Organization is so fun
+Working together, we are done
 
 *Verse 2*
-Tidy up and find a place (8 syllables: Ti-dy up and find a place)
-For the toys in our small space (8 syllables: For the toys in our small space)
-Responsibility's the key (8 syllables: Re-spon-si-bil-i-ty's the key)
-Helping family, you and me (8 syllables: Help-ing fam-i-ly you and me)
-When we organize with care (8 syllables: When we or-gan-ize with care)
-A happy home is everywhere (8 syllables: A hap-py home is ev-ery-where)
+Tidy up and find a place
+For the toys in our small space
+Responsibility's the key
+Helping family, you and me
+When we organize with care
+A happy home is everywhere
 
 **Actions/Gestures**:
 1. Make sorting motions with both hands—reach right then left—as if placing items into baskets

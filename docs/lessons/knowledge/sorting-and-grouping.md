@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate (e.g., us
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-All the red ones, put right here (7 syllables: All-the-red-ones-put-right-here)
-All the blue ones, make it clear (7 syllables: All-the-blue-ones-make-it-clear)
-Sorting, sorting, what a game (7 syllables: Sort-ing-sort-ing-what-a-game)
-Each group different, same by name (7 syllables: Each-group-diff-er-ent-same-by-name)
-Big ones here and small ones there (7 syllables: Big-ones-here-and-small-ones-there)
-Sorting things with loving care (7 syllables: Sort-ing-things-with-lov-ing-care)
+All the red ones, put right here
+All the blue ones, make it clear
+Sorting, sorting, what a game
+Each group different, same by name
+Big ones here and small ones there
+Sorting things with loving care
 
 *Verse 2*
-Round and square and long and tall (7 syllables: Round-and-square-and-long-and-tall)
-Grouping shapes both big and small (7 syllables: Group-ing-shapes-both-big-and-small)
-Smooth and bumpy, soft and hard (7 syllables: Smooth-and-bump-y-soft-and-hard)
-Organizing is so smart (7 syllables: Or-gan-iz-ing-is-so-smart)
-Find the patterns that we make (7 syllables: Find-the-pat-terns-that-we-make)
-Sorting fun for goodness sake (7 syllables: Sort-ing-fun-for-good-ness-sake)
+Round and square and long and tall
+Grouping shapes both big and small
+Smooth and bumpy, soft and hard
+Organizing is so smart
+Find the patterns that we make
+Sorting fun for goodness sake
 
 **Actions/Gestures**:
 1. Use both hands to gather items into a pile (gathering gesture for introducing the concept)

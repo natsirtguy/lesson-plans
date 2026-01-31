@@ -24,15 +24,15 @@ Children learn to identify, name, and express their emotions through songs, acti
 
 *Verse 1*
 
-The feel-ings in my heart go round and round (8 syllables: The-feel-ings-in-my-heart-go-round-and-round)
-Round and round, round and round (8 syllables: Round-and-round-round-and-round)
-The feel-ings in my heart go round and round, all through the day (12 syllables: The-feel-ings-in-my-heart-go-round-and-round-all-through-the-day)
+The feel-ings in my heart go round and round
+Round and round, round and round
+The feel-ings in my heart go round and round, all through the day
 
 *Verse 2*
 
-When I'm hap-py, I smile big and bright (8 syllables: When-I'm-hap-py-I-smile-big-and-bright)
-Smile so bright, smile so bright (8 syllables: Smile-so-bright-smile-so-bright)
-When I'm sad, I might cry, but that's al-right, feel-ings are okay (12 syllables: When-I'm-sad-I-might-cry-but-that's-al-right-feel-ings-are-okay)
+When I'm hap-py, I smile big and bright
+Smile so bright, smile so bright
+When I'm sad, I might cry, but that's al-right, feel-ings are okay
 
 **Actions/Gestures**:
 

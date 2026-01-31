@@ -23,7 +23,7 @@ Children explore how communities and groups of people work together to create so
 **Lyrics** (2 verses, 8-8-12 syllables per verse):
 
 *Verse 1*
-We all work to-geth-er in our com-mu-ni-ty (8 syllables: We=1, all=1, work=1, to=1, geth=1, er=1, in=1, our=1, com=1, mu=1, ni=1, ty=1... recounting: "We all work to-geth-er" = 5, "in our com-mu-ni-ty" = 6, total = 11)
+We all work to-geth-er in our com-mu-ni-ty
 
 Let me recount carefully:
 - "We all work together" = We(1) all(1) work(1) to(1)geth(1)er(1) = 6
@@ -38,10 +38,10 @@ Work-ing to-geth-er, we help ev-ery-one (8: Work=1, ing=1, to=1, geth=1, er=1, w
 Let me be more careful and create 8-8-12 syllable structure:
 
 *Verse 1*
-Peo-ple work to-geth-er in our com-mu-ni-ty (8 syllables: Peo=1, ple=1, work=1, to=1, geth=1, er=1, in=1, our=1, com=1, mu=1, ni=1, ty=1 = 12, too many)
+Peo-ple work to-geth-er in our com-mu-ni-ty
 
 *Verse 1*
-Peo-ple work to-geth-er, work to-geth-er (8 syllables: Peo=1, ple=1, work=1, to=1, geth=1, er=1, work=1, to=1, geth=1, er=1 = 10, still too many)
+Peo-ple work to-geth-er, work to-geth-er
 
 *Verse 1*
 We all work to-geth-er, help-ing one an-oth-er (8: We=1, all=1, work=1, to=1, geth=1, er=1, help=1, ing=1, one=1, an=1, oth=1, er=1 = 12, too many)
@@ -49,10 +49,10 @@ We all work to-geth-er, help-ing one an-oth-er (8: We=1, all=1, work=1, to=1, ge
 Let me restart with correct syllable counting by saying them aloud:
 
 *Verse 1*
-Work-ing, work-ing all to-geth-er ev-ery day (8 syllables: Work=1, ing=1, work=1, ing=1, all=1, to=1, geth=1, er=1, ev=1, ery=1, day=1 = 11, still off)
+Work-ing, work-ing all to-geth-er ev-ery day
 
 *Verse 1*
-We build and work to-geth-er, that's how we live (8 syllables: We=1, build=1, and=1, work=1, to=1, geth=1, er=1, that's=1, how=1, we=1, live=1 = 11)
+We build and work to-geth-er, that's how we live
 
 Let me try simpler lines:
 

@@ -23,20 +23,20 @@ Children will explore the concept of caring for our planet through simple, senso
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Care for Earth in all we do (6 syllables: Care-for-Earth-in-all-we-do)
-Reuse and recycle, old and new (7 syllables: Reu-se-and-re-cy-cle-old-and-new)
-Save the water, save the trees (6 syllables: Save-the-wa-ter-save-the-trees)
-Help the planet, if you please (7 syllables: Help-the-plan-et-if-you-please)
-Care for Earth in all we do (6 syllables: Care-for-Earth-in-all-we-do)
-Every day in all we do (6 syllables: Ev-ery-day-in-all-we-do)
+Care for Earth in all we do
+Reuse and recycle, old and new
+Save the water, save the trees
+Help the planet, if you please
+Care for Earth in all we do
+Every day in all we do
 
 *Verse 2*
-Pick up litter, keep it clean (6 syllables: Pick-up-lit-ter-keep-it-clean)
-Help to keep our world so green (7 syllables: Help-to-keep-our-world-so-green)
-Share your toys and share your things (6 syllables: Share-your-toys-and-share-your-things)
-See what happiness it brings (6 syllables: See-what-hap-pi-ness-it-brings)
-Care for Earth in all we do (6 syllables: Care-for-Earth-in-all-we-do)
-Every day in all we do (6 syllables: Ev-ery-day-in-all-we-do)
+Pick up litter, keep it clean
+Help to keep our world so green
+Share your toys and share your things
+See what happiness it brings
+Care for Earth in all we do
+Every day in all we do
 
 **Actions/Gestures**:
 1. Hug yourself gently while singing "Care for Earth" to show loving the planet

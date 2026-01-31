@@ -23,20 +23,20 @@ Children explore the principles of building and design by constructing structure
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Build it up so straight and tall (7 syllables: Build-it-up-so-straight-and-tall)
-Blocks will stand up strong and all (7 syllables: Blocks-will-stand-up-strong-and-all)
-Stack them careful, one by one (7 syllables: Stack-them-care-ful-one-by-one)
-Make a tower, oh what fun (7 syllables: Make-a-tow-er-oh-what-fun)
-Balance, balance, don't you fall (7 syllables: Bal-ance-bal-ance-don't-you-fall)
-Build your building big and tall (7 syllables: Build-your-build-ing-big-and-tall)
+Build it up so straight and tall
+Blocks will stand up strong and all
+Stack them careful, one by one
+Make a tower, oh what fun
+Balance, balance, don't you fall
+Build your building big and tall
 
 *Verse 2*
-Walls go up and doors go on (7 syllables: Walls-go-up-and-doors-go-on)
-Roofs will cover everyone (7 syllables: Roofs-will-cov-er-ev-ery-one)
-Windows let the bright light in (7 syllables: Win-dows-let-the-bright-light-in)
-Where the people live within (7 syllables: Where-the-peo-ple-live-with-in)
-Design it tall or short or wide (7 syllables: De-sign-it-tall-or-short-or-wide)
-Every building filled with pride (7 syllables: Ev-er-y-build-ing-filled-with-pride)
+Walls go up and doors go on
+Roofs will cover everyone
+Windows let the bright light in
+Where the people live within
+Design it tall or short or wide
+Every building filled with pride
 
 **Actions/Gestures**:
 1. Stack hands on top of each other slowly while singing "build it up so straight and tall" to show blocks stacking

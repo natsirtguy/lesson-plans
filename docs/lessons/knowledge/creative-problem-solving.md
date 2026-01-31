@@ -23,20 +23,20 @@ Children will discover multiple ways to solve simple challenges using everyday m
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-When you find a problem here (7 syllables: When-you-find-a-prob-lem-here)
-Think of ways to solve it clear (7 syllables: Think-of-ways-to-solve-it-clear)
-Try one way, and if it's not (7 syllables: Try-one-way-and-if-it's-not)
-Try another in this spot (7 syllables: Try-a-no-ther-in-this-spot)
-Many solutions you can find (7 syllables: Man-y-so-lu-tions-you-can-find)
-Creative thinking in your mind (7 syllables: Cre-a-tive-think-ing-in-your-mind)
+When you find a problem here
+Think of ways to solve it clear
+Try one way, and if it's not
+Try another in this spot
+Many solutions you can find
+Creative thinking in your mind
 
 *Verse 2*
-Don't give up when stuck today (7 syllables: Don't-give-up-when-stuck-to-day)
-Find a new and better way (7 syllables: Find-a-new-and-bet-ter-way)
-Try and try with all your might (7 syllables: Try-and-try-with-all-your-might)
-You can solve it, yes you might! (7 syllables: You-can-solve-it-yes-you-might)
-Problems help your brain to grow (7 syllables: Prob-lems-help-your-brain-to-grow)
-So much more than you could know (7 syllables: So-much-more-than-you-could-know)
+Don't give up when stuck today
+Find a new and better way
+Try and try with all your might
+You can solve it, yes you might!
+Problems help your brain to grow
+So much more than you could know
 
 **Actions/Gestures**:
 1. Tap your head gently when singing "thinking in your mind" - reinforces that problem-solving uses the brain

@@ -23,17 +23,17 @@ Children explore the joy and freedom of movement through music and rhythm, disco
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-If you're happy and you know it, dance around (8 syllables: If-you're-hap-py-and-you-know-it-dance-a-round)
+If you're happy and you know it, dance around
 If you're happy and you know it, dance around (8 syllables)
-Swing your arms and tap your toes (7 syllables: Swing-your-arms-and-tap-your-toes)
-Move your body, here it goes (7 syllables: Move-your-bod-y-here-it-goes)
+Swing your arms and tap your toes
+Move your body, here it goes
 If you're happy and you know it, dance around (8 syllables)
 
 *Verse 2*
-When you're sleepy and you feel it, move so slow (8 syllables: When-you're-sleep-y-and-you-feel-it-move-so-slow)
+When you're sleepy and you feel it, move so slow
 When you're sleepy and you feel it, move so slow (8 syllables)
-Stretch your arms up to the sky (7 syllables: Stretch-your-arms-up-to-the-sky)
-Gentle movements, way up high (7 syllables: Gent-le-move-ments-way-up-high)
+Stretch your arms up to the sky
+Gentle movements, way up high
 When you're sleepy and you feel it, move so slow (8 syllables)
 
 **Actions/Gestures**:

@@ -24,23 +24,23 @@ Children explore the concept of growth through observing living things, measurin
 
 *Verse 1*
 
-I was small when I was born (7 syllables: I-was-small-when-I-was-born)
-Growing bigger every day (7 syllables: Grow-ing-big-ger-ev-ery-day)
-My body changes more and more (7 syllables: My-bod-y-chan-ges-more-and-more)
-In my own special way (6 syllables: In-my-own-spe-cial-way)
+I was small when I was born
+Growing bigger every day
+My body changes more and more
+In my own special way
 
-Growing, growing, up so high (7 syllables: Grow-ing-grow-ing-up-so-high)
-Learning skills both new and great (7 syllables: Learn-ing-skills-both-new-and-great)
+Growing, growing, up so high
+Learning skills both new and great
 
 *Verse 2*
 
-Plants reach up toward the sun (7 syllables: Plants-reach-up-to-ward-the-sun)
-Friends get taller, strong, and wise (7 syllables: Friends-get-tall-er-strong-and-wise)
-Everything's transforming now (6 syllables: Ev-ery-thing's-trans-form-ing-now)
-Growing, growing before my eyes (8 syllables: Grow-ing-grow-ing-be-fore-my-eyes)
+Plants reach up toward the sun
+Friends get taller, strong, and wise
+Everything's transforming now
+Growing, growing before my eyes
 
-Progress happens every day (7 syllables: Pro-gress-hap-pens-ev-ery-day)
-Watch us change in every way (7 syllables: Watch-us-change-in-ev-ery-way)
+Progress happens every day
+Watch us change in every way
 
 **Actions/Gestures**:
 1. Start low and crouch down, then slowly stand up taller while singing about growing

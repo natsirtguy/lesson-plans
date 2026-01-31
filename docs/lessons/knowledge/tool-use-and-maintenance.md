@@ -30,27 +30,27 @@ Select 3-4 vocabulary words that:
 
 *Verse 1*
 
-The tools in my house go work, work, work (8 syllables: The-tools-in-my-house-go-work-work-work)
-Work, work, work, work, work, work (8 syllables: Work-work-work-work-work-work)
-The tools in my house go work, work, work (8 syllables: The-tools-in-my-house-go-work-work-work)
-All throughout the day (4 syllables: All-through-out-the-day)
+The tools in my house go work, work, work
+Work, work, work, work, work, work
+The tools in my house go work, work, work
+All throughout the day
 
-The hammer taps nails and the spoon scoops food (8 syllables: The-ham-mer-taps-nails-and-the-spoon-scoops-food)
-Each tool has a job, yes each tool has a job (8 syllables: Each-tool-has-a-job-yes-each-tool-has-a-job)
-We use them with care and we put them away (8 syllables: We-use-them-with-care-and-we-put-them-a-way)
-So they work another day (4 syllables: So-they-work-a-noth-er-day)
+The hammer taps nails and the spoon scoops food
+Each tool has a job, yes each tool has a job
+We use them with care and we put them away
+So they work another day
 
 *Verse 2*
 
-I clean my tools now so they stay in shape (8 syllables: I-clean-my-tools-now-so-they-stay-in-shape)
-Stay in shape, stay in shape, stay in shape (8 syllables: Stay-in-shape-stay-in-shape-stay-in-shape)
-I clean my tools now so they stay in shape (8 syllables: I-clean-my-tools-now-so-they-stay-in-shape)
-To use them every day (4 syllables: To-use-them-ev-ery-day)
+I clean my tools now so they stay in shape
+Stay in shape, stay in shape, stay in shape
+I clean my tools now so they stay in shape
+To use them every day
 
-I put them back safely in their special place (8 syllables: I-put-them-back-safe-ly-in-their-spe-cial-place)
-Special place, special place, special place (8 syllables: Spe-cial-place-spe-cial-place-spe-cial-place)
-I care for my tools and they care for me (8 syllables: I-care-for-my-tools-and-they-care-for-me)
-Working together, you see (4 syllables: Work-ing-to-geth-er-you-see)
+I put them back safely in their special place
+Special place, special place, special place
+I care for my tools and they care for me
+Working together, you see
 
 **Actions/Gestures**:
 

@@ -24,31 +24,31 @@ Children explore color, sequence, and pattern-making by threading beads and past
 
 *Verse 1*
 
-Thread the beads right on the string (7 syllables: Thread-the-beads-right-on-the-string)
+Thread the beads right on the string
 
-One by one the beads you see (7 syllables: One-by-one-the-beads-you-see)
+One by one the beads you see
 
-Red and blue and red again (7 syllables: Red-and-blue-and-red-a-gain)
+Red and blue and red again
 
-Pattern makes a pretty chain (7 syllables: Pat-tern-makes-a-pret-ty-chain)
+Pattern makes a pretty chain
 
-Smooth and bumpy textures here (7 syllables: Smooth-and-bump-y-tex-tures-here)
+Smooth and bumpy textures here
 
-Twist it round your neck so tight (7 syllables: Twist-it-round-your-neck-so-tight)
+Twist it round your neck so tight
 
 *Verse 2*
 
-Beads and pasta round and round (7 syllables: Beads-and-pas-ta-round-and-round)
+Beads and pasta round and round
 
-Matching colors side by side (7 syllables: Match-ing-col-ors-side-by-side)
+Matching colors side by side
 
-Organize in pretty ways (7 syllables: Or-gan-ize-in-pret-ty-ways)
+Organize in pretty ways
 
-Every necklace tells a tale (7 syllables: Ev-ry-neck-lace-tells-a-tale)
+Every necklace tells a tale
 
-Make a pattern you like best (7 syllables: Make-a-pat-tern-you-like-best)
+Make a pattern you like best
 
-Wear it proudly, what a treat (7 syllables: Wear-it-proud-ly-what-a-treat)
+Wear it proudly, what a treat
 
 **Actions/Gestures**:
 

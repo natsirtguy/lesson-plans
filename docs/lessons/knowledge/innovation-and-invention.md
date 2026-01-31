@@ -23,20 +23,20 @@ Children explore the concept of innovation and invention by discovering how ever
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Think it up, now make it real (7 syllables: Think-it-up-now-make-it-real)
-Build and test to see what's real (7 syllables: Build-and-test-to-see-what's-real)
-Try your blocks and try your strings (7 syllables: Try-your-blocks-and-try-your-strings)
-See the magic that comes in (7 syllables: See-the-mag-ic-that-comes-in)
-You're an inventor, strong and true (7 syllables: You're-an-in-ven-tor-strong-and-true)
-Look what you can do, hooray! (7 syllables: Look-what-you-can-do-hoo-ray)
+Think it up, now make it real
+Build and test to see what's real
+Try your blocks and try your strings
+See the magic that comes in
+You're an inventor, strong and true
+Look what you can do, hooray!
 
 *Verse 2*
-Every idea starts so small (7 syllables: Ev-ry-i-de-a-starts-so-small)
-Building, testing, that's not all (7 syllables: Build-ing-test-ing-that's-not-all)
-Make it better, make it new (7 syllables: Make-it-bet-ter-make-it-new)
-Invent something just like you (7 syllables: In-vent-some-thing-just-like-you)
-Experiment and have some fun (7 syllables: Ex-per-i-ment-and-have-some-fun)
-Every inventor has begun (7 syllables: Ev-ry-in-ven-tor-has-be-gun)
+Every idea starts so small
+Building, testing, that's not all
+Make it better, make it new
+Invent something just like you
+Experiment and have some fun
+Every inventor has begun
 
 **Actions/Gestures**:
 1. "Think it up" - Point to your head with both hands

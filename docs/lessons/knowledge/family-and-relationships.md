@@ -23,7 +23,7 @@ Children explore the concept of family structures, relationships, and the roles 
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-My mom and dad, they love me so (7 syllables: My=1, mom=1, and=1, dad=1, they=1, love=1, me=1, so=1... wait, that's 8)
+My mom and dad, they love me so
 
 Let me recount carefully for "Twinkle, Twinkle" (each line MUST be exactly 7 syllables):
 

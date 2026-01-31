@@ -23,19 +23,19 @@ Children explore the concept that all living things are made of tiny building bl
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Cells are tiny, cells are small (7 syllables: Cells are ti-ny cells are small)
-You cannot see them with your eyes at all (11 syllables: You can-not see them with your eyes at all) - REVISED: You can-not see them there (6)
-Millions live inside of you (7 syllables: Mil-lions live in-side of you)
-Working together, me and you (8 syllables: Work-ing to-geth-er me and you) - REVISED: Help-ing me and you (6)
-Making us alive and strong and true (10 syllables: Mak-ing us a-live and strong and true) - REVISED: Mak-ing us grow big and true (8)
+Cells are tiny, cells are small
+You cannot see them with your eyes at all
+Millions live inside of you
+Working together, me and you
+Making us alive and strong and true
 
 *Verse 2*
-In your skin and in your bones (7 syllables: In your skin and in your bones)
-Cells are building little homes (7 syllables: Cells are build-ing lit-tle homes)
-Every creature, plant and tree (7 syllables: Ev-er-y crea-ture plant and tree)
-Made of cells for all to see (7 syllables: Made of cells for all to see)
-Cells so small but strong and free (7 syllables: Cells so small but strong and free)
-Building all of you and me (7 syllables: Build-ing all of you and me)
+In your skin and in your bones
+Cells are building little homes
+Every creature, plant and tree
+Made of cells for all to see
+Cells so small but strong and free
+Building all of you and me
 
 **Actions/Gestures**:
 1. Make tiny pinching motion with thumb and forefinger to show how small cells are

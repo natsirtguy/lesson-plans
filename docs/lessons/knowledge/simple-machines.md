@@ -24,15 +24,15 @@ Young learners will explore how simple machines make work easier by investigatin
 
 *Verse 1*
 
-The lever helps us lift things up (8 syllables: The-lev-er-helps-us-lift-things-up)
-Lift things up, lift things up (8 syllables: Lift-things-up-lift-things-up)
-The lever helps us lift things up and move them through the day (12 syllables: The-lev-er-helps-us-lift-things-up-and-move-them-through-the-day)
+The lever helps us lift things up
+Lift things up, lift things up
+The lever helps us lift things up and move them through the day
 
 *Verse 2*
 
-A ramp rolls objects down so smooth (8 syllables: A-ramp-rolls-ob-jects-down-so-smooth)
-Down so smooth, down so smooth (8 syllables: Down-so-smooth-down-so-smooth)
-A ramp rolls objects down so smooth instead of dropping straight (12 syllables: A-ramp-rolls-ob-jects-down-so-smooth-in-stead-of-drop-ping-straight)
+A ramp rolls objects down so smooth
+Down so smooth, down so smooth
+A ramp rolls objects down so smooth instead of dropping straight
 
 **Actions/Gestures**:
 

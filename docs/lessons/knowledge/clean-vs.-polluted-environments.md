@@ -23,20 +23,20 @@ In this lesson, children explore the difference between clean and polluted space
 **Lyrics** (2 verses, syllables counted):
 
 *Verse 1*
-Clean and pol-lu-ted, let me see (7 syllables: Clean=1, and=1, pol-lu-ted=3, let=1, me=1, see=1)
-What makes our world so fresh and free (7 syllables: What=1, makes=1, our=1, world=1, so=1, fresh=1, and=1, free=1)
-Clean en-vi-ron-ments are bright (7 syllables: Clean=1, en-vi-ron-ments=4, are=1, bright=1)
-They keep us healthy, clean and right (7 syllables: They=1, keep=1, us=1, heal-thy=2, clean=1, and=1, right=1)
-Pol-lu-ted places make us sad (7 syllables: Pol-lu-ted=3, plac-es=2, make=1, us=1, sad=1)
-With dirt and trash that's really bad (7 syllables: With=1, dirt=1, and=1, trash=1, that's=1, real-ly=2, bad=1)
+Clean and pol-lu-ted, let me see
+What makes our world so fresh and free
+Clean en-vi-ron-ments are bright
+They keep us healthy, clean and right
+Pol-lu-ted places make us sad
+With dirt and trash that's really bad
 
 *Verse 2*
-We can help our world be clean (7 syllables: We=1, can=1, help=1, our=1, world=1, be=1, clean=1)
-The best place you have ever seen (7 syllables: The=1, best=1, place=1, you=1, have=1, ev-er=2, seen=1)
-Pick up trash and wash our hands (7 syllables: Pick=1, up=1, trash=1, and=1, wash=1, our=1, hands=1)
-To care for all our special lands (7 syllables: To=1, care=1, for=1, all=1, our=1, spe-cial=2, lands=1)
-Clean en-vi-ron-ments are great (7 syllables: Clean=1, en-vi-ron-ments=4, are=1, great=1)
-They help us all live long and safe (7 syllables: They=1, help=1, us=1, all=1, live=1, long=1, and=1, safe=1)
+We can help our world be clean
+The best place you have ever seen
+Pick up trash and wash our hands
+To care for all our special lands
+Clean en-vi-ron-ments are great
+They help us all live long and safe
 
 **Actions/Gestures**:
 1. Sweep arms across body in a wide circle when singing "clean"—representing cleaning and freshness

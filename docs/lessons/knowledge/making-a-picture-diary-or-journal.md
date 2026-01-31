@@ -23,20 +23,20 @@ Children create and maintain a simple picture diary to document their daily expe
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-I can draw my day so bright (7 syllables: I-can-draw-my-day-so-bright)
-Pictures show what's in my heart (7 syllables: Pic-tures-show-what's-in-my-heart)
-Stories that I can recall (7 syllables: Sto-ries-that-I-can-re-call)
-Memories inside my book (7 syllables: Mem-o-ries-in-side-my-book)
-Every page shows who I am (7 syllables: Ev-ery-page-shows-who-I-am)
-My journal is my treasure (7 syllables: My-jour-nal-is-my-treas-ure)
+I can draw my day so bright
+Pictures show what's in my heart
+Stories that I can recall
+Memories inside my book
+Every page shows who I am
+My journal is my treasure
 
 *Verse 2*
-Colors, stickers, words so small (7 syllables: Col-ors-stick-ers-words-so-small)
-Drawing what I love and see (7 syllables: Draw-ing-what-I-love-and-see)
-Every day a new page turns (7 syllables: Ev-ery-day-a-new-page-turns)
-Marking moments that I keep (7 syllables: Mark-ing-mo-ments-that-I-keep)
-My heart speaks through all my art (7 syllables: My-heart-speaks-through-all-my-art)
-Growing up, my stories strong (7 syllables: Grow-ing-up-my-sto-ries-strong)
+Colors, stickers, words so small
+Drawing what I love and see
+Every day a new page turns
+Marking moments that I keep
+My heart speaks through all my art
+Growing up, my stories strong
 
 **Actions/Gestures**:
 1. Pretend to draw or write on an open hand like a page of a book

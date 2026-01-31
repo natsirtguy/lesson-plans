@@ -23,20 +23,20 @@ Children explore the fundamentals of friendship through playful interaction, lea
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Make a friend by say-ing hi (7 syllables: Make-a-friend-by-say-ing-hi)
-Look them in the eye and smile (7 syllables: Look-them-in-the-eye-and-smile)
-Share and take your turn to play (7 syllables: Share-and-take-your-turn-to-play)
-Friends will want to come each day (7 syllables: Friends-will-want-to-come-each-day)
-Listen when they talk to you (7 syllables: Lis-ten-when-they-talk-to-you)
-That is what good friends all do (7 syllables: That-is-what-good-friends-all-do)
+Make a friend by say-ing hi
+Look them in the eye and smile
+Share and take your turn to play
+Friends will want to come each day
+Listen when they talk to you
+That is what good friends all do
 
 *Verse 2*
-Hold their hand and show you care (7 syllables: Hold-their-hand-and-show-you-care)
-Friends are special, fun, and rare (7 syllables: Friends-are-spe-cial-fun-and-rare)
-Help them when they seem sad too (7 syllables: Help-them-when-they-seem-sad-too)
-Friends help me and I help you (7 syllables: Friends-help-me-and-I-help-you)
-When you're kind and when you're true (7 syllables: When-you're-kind-and-when-you're-true)
-You will have good friends like you (7 syllables: You-will-have-good-friends-like-you)
+Hold their hand and show you care
+Friends are special, fun, and rare
+Help them when they seem sad too
+Friends help me and I help you
+When you're kind and when you're true
+You will have good friends like you
 
 **Actions/Gestures**:
 1. Wave your hand gently and smile when you sing "say-ing hi"

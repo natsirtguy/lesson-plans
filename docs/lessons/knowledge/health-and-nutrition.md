@@ -29,20 +29,20 @@ Select 3-4 vocabulary words that:
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Eat your food so strong and bright (7 syllables: Eat-your-food-so-strong-and-bright)
-Colors help your body right (7 syllables: Col-ors-help-your-bod-y-right)
-Red ap-ples, green leafy beans (7 syllables: Red-ap-ples-green-leaf-y-beans)
-Or-ange car-rots, best we've seen (7 syllables: Or-ange-car-rots-best-we've-seen)
-Nour-ish-ing your bones and mind (7 syllables: Nour-ish-ing-your-bones-and-mind)
-Health and strength you'll surely find (7 syllables: Health-and-strength-you'll-sure-ly-find)
+Eat your food so strong and bright
+Colors help your body right
+Red ap-ples, green leafy beans
+Or-ange car-rots, best we've seen
+Nour-ish-ing your bones and mind
+Health and strength you'll surely find
 
 *Verse 2*
-Drink your wa-ter, eat your grains (7 syllables: Drink-your-wa-ter-eat-your-grains)
-Fuel for run-ning, jump-ing, plays (7 syllables: Fuel-for-run-ning-jump-ing-plays)
-Milk for bones that grow so tall (7 syllables: Milk-for-bones-that-grow-so-tall)
-Pro-tein helps you grow and crawl (7 syllables: Pro-tein-helps-you-grow-and-crawl)
-Eat the rain-bow ev-ery day (7 syllables: Eat-the-rain-bow-ev-er-y-day)
-Grow up strong in ev-ery way (7 syllables: Grow-up-strong-in-ev-er-y-way)
+Drink your wa-ter, eat your grains
+Fuel for run-ning, jump-ing, plays
+Milk for bones that grow so tall
+Pro-tein helps you grow and crawl
+Eat the rain-bow ev-ery day
+Grow up strong in ev-ery way
 
 **Actions/Gestures**:
 1. Point to different parts of your body (eyes, bones, muscles) as you sing about what each nutrient helps

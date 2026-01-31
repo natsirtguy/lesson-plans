@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-[Line 1] I have feelings big and small (7 syllables: I-have-feel-ings-big-and-small)
-[Line 2] Happy, sad, and mad and all (7 syllables: Hap-py-sad-and-mad-and-all)
-[Line 3] Feelings help me understand (7 syllables: Feel-ings-help-me-un-der-stand)
-[Line 4] How I feel both here and there (7 syllables: How-I-feel-both-here-and-there)
-[Line 5] In my heart and in my head (7 syllables: In-my-heart-and-in-my-head)
-[Line 6] Every color, green and red (7 syllables: Ev-ery-col-or-green-and-red)
+[Line 1] I have feelings big and small
+[Line 2] Happy, sad, and mad and all
+[Line 3] Feelings help me understand
+[Line 4] How I feel both here and there
+[Line 5] In my heart and in my head
+[Line 6] Every color, green and red
 
 *Verse 2*
-[Line 1] When I'm angry, I can stop (7 syllables: When-I'm-an-gry-I-can-stop)
-[Line 2] Take some breaths until it drops (7 syllables: Take-some-breaths-un-til-it-drops)
-[Line 3] When I'm scared, I'll hold you tight (7 syllables: When-I'm-scared-I'll-hold-you-tight)
-[Line 4] Squeeze my stuffy through the night (7 syllables: Squeeze-my-stuf-fy-through-the-night)
-[Line 5] All my feelings help me grow (7 syllables: All-my-feel-ings-help-me-grow)
-[Line 6] More and more I come to know (7 syllables: More-and-more-I-come-to-know)
+[Line 1] When I'm angry, I can stop
+[Line 2] Take some breaths until it drops
+[Line 3] When I'm scared, I'll hold you tight
+[Line 4] Squeeze my stuffy through the night
+[Line 5] All my feelings help me grow
+[Line 6] More and more I come to know
 
 **Actions/Gestures**:
 1. Place hand on heart when singing about feelings, and point to different body parts (head, heart, belly) to show where emotions are felt

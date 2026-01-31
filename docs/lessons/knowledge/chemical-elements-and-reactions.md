@@ -23,20 +23,20 @@ Children explore how different materials and liquids react and change when combi
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Mix and mix what do we see? (7 syllables: Mix=1, and=1, mix=1, what=1, do=1, we=1, see=1)
-Colors dancing, wild and free (7 syllables: Col-ors=2, dan-cing=2, wild=1, and=1, free=1)
-Bubbles pop and fizz so bright (7 syllables: Bub-bles=2, pop=1, and=1, fizz=1, so=1, bright=1)
-Watch the transformation right (7 syllables: Watch=1, the=1, trans-for-ma-tion=4, right=1)
-Mix and blend and see it change (7 syllables: Mix=1, and=1, blend=1, and=1, see=1, it=1, change=1)
-Things transform in wondrous ways (7 syllables: Things=1, trans-form=2, in=1, won-drous=2, ways=1)
+Mix and mix what do we see?
+Colors dancing, wild and free
+Bubbles pop and fizz so bright
+Watch the transformation right
+Mix and blend and see it change
+Things transform in wondrous ways
 
 *Verse 2*
-Red and yellow make orange hue (7 syllables: Red=1, and=1, yel-low=2, make=1, or-ange=2, hue=1)
-New and different, something new (7 syllables: New=1, and=1, dif-fer-ent=3, some-thing=2, new=1)
-Baking soda, vinegar too (7 syllables: Ba-king=2, so-da=2, vin-e-gar=3, too=1)
-Watch what happens when we brew (7 syllables: Watch=1, what=1, hap-pens=2, when=1, we=1, brew=1)
-Mix together, science play (7 syllables: Mix=1, to-geth-er=3, sci-ence=2, play=1)
-Reactions happen every day (7 syllables: Re-ac-tions=3, hap-pen=2, ev-ery=2, day=1)
+Red and yellow make orange hue
+New and different, something new
+Baking soda, vinegar too
+Watch what happens when we brew
+Mix together, science play
+Reactions happen every day
 
 **Actions/Gestures**:
 1. Stirring motion: Hold hands together and make slow stirring motions to represent mixing ingredients together

@@ -23,20 +23,20 @@ In this lesson, children explore the wonderful world of clothes and fashion thro
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Put your shirt on, one, two, three (7 syllables: Put-your-shirt-on-one-two-three)
-Buttons loop so carefully (7 syllables: But-tons-loop-so-care-ful-ly)
-Zip it up and tuck it neat (7 syllables: Zip-it-up-and-tuck-it-neat)
-Socks and shoes protect our feet (7 syllables: Socks-and-shoes-pro-tect-our-feet)
-Clothes in colors, styles so bright (7 syllables: Clothes-in-col-ors-styles-so-bright)
-Wearing outfits feels just right (7 syllables: Wear-ing-out-fits-feels-just-right)
+Put your shirt on, one, two, three
+Buttons loop so carefully
+Zip it up and tuck it neat
+Socks and shoes protect our feet
+Clothes in colors, styles so bright
+Wearing outfits feels just right
 
 *Verse 2*
-Hat upon your head it goes (7 syllables: Hat-u-pon-your-head-it-goes)
-Jacket keeps you warm when cold (7 syllables: Jack-et-keeps-you-warm-when-cold)
-Skirt and pants for me to wear (7 syllables: Skirt-and-pants-for-me-to-wear)
-Everyone has fashion there (7 syllables: Ev-ry-one-has-fash-ion-there)
-Strip and dress and play and grow (7 syllables: Strip-and-dress-and-play-and-grow)
-Showing style from head to toe (7 syllables: Show-ing-style-from-head-to-toe)
+Hat upon your head it goes
+Jacket keeps you warm when cold
+Skirt and pants for me to wear
+Everyone has fashion there
+Strip and dress and play and grow
+Showing style from head to toe
 
 **Actions/Gestures**:
 1. Point to different body parts as you sing (shirt, feet, head, etc.) to build body awareness and follow along with the lyrics

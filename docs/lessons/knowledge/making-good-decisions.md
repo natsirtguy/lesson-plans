@@ -23,20 +23,20 @@ Children learn that decisions are choices we make every day, and that thinking a
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-When you have to make a choice (8 syllables: When-you-have-to-make-a-choice)
-Think about it, use your voice (8 syllables: Think-a-bout-it-use-your-voice)
-Is it safe? Is it kind? (7 syllables: Is-it-safe? Is-it-kind?)
-Keep good choices on your mind (8 syllables: Keep-good-choi-ces-on-your-mind)
-Think, then choose, and you will see (7 syllables: Think-then-choose-and-you-will-see)
-Good decisions help you, me (7 syllables: Good-de-ci-sions-help-you-me)
+When you have to make a choice
+Think about it, use your voice
+Is it safe? Is it kind?
+Keep good choices on your mind
+Think, then choose, and you will see
+Good decisions help you, me
 
 *Verse 2*
-When your friends all want to play (8 syllables: When-your-friends-all-want-to-play)
-Choices help you every day (8 syllables: Choi-ces-help-you-ev-ery-day)
-Stop and think before you act (8 syllables: Stop-and-think-be-fore-you-act)
-That is how to stay on track (8 syllables: That-is-how-to-stay-on-track)
-Look ahead and think it through (7 syllables: Look-a-head-and-think-it-through)
-Good decisions come from you (7 syllables: Good-de-ci-sions-come-from-you)
+When your friends all want to play
+Choices help you every day
+Stop and think before you act
+That is how to stay on track
+Look ahead and think it through
+Good decisions come from you
 
 **Actions/Gestures**:
 1. Hand on chin, thinking pose when singing "think about it"

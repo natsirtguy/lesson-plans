@@ -23,23 +23,23 @@ In this lesson, children explore the characteristics of oceans and rivers throug
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Rivers flow down to the sea (7 syllables: Ri-vers flow down to the sea)
-Rushing, splashing wild and free (7 syllables: Rush-ing splash-ing wild and free)
-Oceans big and deep and blue (7 syllables: O-ceans big and deep and blue)
-Salty water through and through (7 syllables: Salt-y wa-ter through and through)
-With the fish that swim below (7 syllables: With the fish that swim be-low)
-Watch the water swirl and flow (7 syllables: Watch the wa-ter swirl and flow)
+Rivers flow down to the sea
+Rushing, splashing wild and free
+Oceans big and deep and blue
+Salty water through and through
+With the fish that swim below
+Watch the water swirl and flow
 
 *Verse 2*
-Rivers start up in the hills (7 syllables: Ri-vers start up in the hills)
-Bubbling, splashing, dancing thrills (7 syllables: Bub-bling splash-ing danc-ing thrills)
-Flowing gentle, flowing fast (7 syllables: Flow-ing gen-tle flow-ing fast)
-Water moves from first to last (7 syllables: Wa-ter moves from first to last)
-Meeting oceans far and wide (7 syllables: Meet-ing o-ceans far and wide)
-Where the land and water collide (8 syllables: Where the land and wa-ter col-lide)
+Rivers start up in the hills
+Bubbling, splashing, dancing thrills
+Flowing gentle, flowing fast
+Water moves from first to last
+Meeting oceans far and wide
+Where the land and water collide
 
 *Verse 2 - Line 6 correction*
-Where the rivers meet the sea (7 syllables: Where the ri-vers meet the sea)
+Where the rivers meet the sea
 
 **Actions/Gestures**:
 1. Move fingers in a flowing motion downward to show water moving from rivers to the ocean

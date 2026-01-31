@@ -23,20 +23,20 @@ Children will discover the magical world of folklore and mythological stories th
 **Lyrics** (2 verses, 6 lines each):
 
 *Verse 1*
-Once there lived a magical tale (7 syllables: Once-there-lived-a-mag-i-cal-tale)
-Of a hero so brave and so true (7 syllables: Of-a-he-ro-so-brave-and-so-true)
-Dragons fierce and castles so bright (7 syllables: Drag-ons-fierce-and-cas-tles-so-bright)
-Legends passed down through the night (7 syllables: Leg-ends-passed-down-through-the-night)
-Ancient stories from lands far away (7 syllables: An-cient-sto-ries-from-lands-far-a-way)
-Myths to treasure every single day (8 syllables: Myths-to-treas-ure-ev-ery-sin-gle-day)
+Once there lived a magical tale
+Of a hero so brave and so true
+Dragons fierce and castles so bright
+Legends passed down through the night
+Ancient stories from lands far away
+Myths to treasure every single day
 
 *Verse 2*
-Magic spells and wishes come true (7 syllables: Mag-ic-spells-and-wish-es-come-true)
-Enchanted forests filled with delight (7 syllables: En-chant-ed-for-ests-filled-with-de-light)
-Wise old creatures showing the way (7 syllables: Wise-old-crea-tures-show-ing-the-way)
-Learning lessons in folklore today (7 syllables: Learn-ing-les-sons-in-folk-lore-to-day)
-Stories whispered from ear to ear (7 syllables: Sto-ries-whis-pered-from-ear-to-ear)
-Passed through ages, generation to dear (8 syllables: Passed-through-a-ges-gen-er-a-tion-to-dear)
+Magic spells and wishes come true
+Enchanted forests filled with delight
+Wise old creatures showing the way
+Learning lessons in folklore today
+Stories whispered from ear to ear
+Passed through ages, generation to dear
 
 **Actions/Gestures**:
 1. Wave hands in gentle circles like casting a magic spell when singing about enchanted and magic moments

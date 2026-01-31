@@ -23,20 +23,20 @@ Children explore how languages are made up of different sounds, words, and patte
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Sounds combine to make a word (7 syllables: Sounds com-bine to make a word)
-Making messages that can be heard (8 syllables: Mak-ing mes-sa-ges that can be heard)
-Syl-la-bles, they clap and beat (7 syllables: Syl-la-bles they clap and beat)
-Words in order can't be beat (7 syllables: Words in or-der can't be beat)
-Patterns help us speak just right (7 syllables: Pat-terns help us speak just right)
-Gram-mar makes our talk so bright (7 syllables: Gram-mar makes our talk so bright)
+Sounds combine to make a word
+Making messages that can be heard
+Syl-la-bles, they clap and beat
+Words in order can't be beat
+Patterns help us speak just right
+Gram-mar makes our talk so bright
 
 *Verse 2*
-Sto-ries flow with word by word (7 syllables: Sto-ries flow with word by word)
-Ev-ery sen-tence to be heard (7 syllables: Ev-ery sen-tence to be heard)
-Sounds and meanings intertwine (7 syllables: Sounds and mean-ings in-ter-twine)
-Building blocks of talk divine (7 syllables: Build-ing blocks of talk di-vine)
-Start with sounds so small and clear (7 syllables: Start with sounds so small and clear)
-Language grows when we all hear (7 syllables: Lan-guage grows when we all hear)
+Sto-ries flow with word by word
+Ev-ery sen-tence to be heard
+Sounds and meanings intertwine
+Building blocks of talk divine
+Start with sounds so small and clear
+Language grows when we all hear
 
 **Actions/Gestures**:
 1. Clap on each syllable when words are mentioned (demonstrates syllable awareness)

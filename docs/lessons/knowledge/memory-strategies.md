@@ -25,18 +25,18 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Remember, remember, hold it tight (7 syllables: Re-mem-ber, re-mem-ber, hold-it-tight)
-Pictures in your mind so bright (7 syllables: Pic-tures-in your-mind-so-bright)
-See the colors, count them too (7 syllables: See-the-col-ors, count-them-too)
-One, two, three, and four, then five (7 syllables: One, two, three, and-four, then-five)
-Memory helps your brain come alive (8 syllables: Mem-o-ry helps-your-brain-come-a-live)
+Remember, remember, hold it tight
+Pictures in your mind so bright
+See the colors, count them too
+One, two, three, and four, then five
+Memory helps your brain come alive
 
 *Verse 2*
-Close your eyes and think so deep (7 syllables: Close-your-eyes and-think-so-deep)
-All the things you want to keep (7 syllables: All-the-things you-want-to-keep)
-Repeat the words, say them out (7 syllables: Re-peat-the-words, say-them-out)
-That's what memory's all about (7 syllables: That's-what-mem-o-ry's-all-a-bout)
-Practicing helps you win the game (8 syllables: Prac-tic-ing helps-you-win-the-game)
+Close your eyes and think so deep
+All the things you want to keep
+Repeat the words, say them out
+That's what memory's all about
+Practicing helps you win the game
 
 **Actions/Gestures**:
 1. Tap your head gently with fingers while singing "hold it tight" to emphasize thinking and remembering

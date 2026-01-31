@@ -23,20 +23,20 @@ Children explore the concepts of reusing, recycling, and protecting our environm
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Recycling, recycling, here we go (7 syllables: Re-cy-cling re-cy-cling here we go)
-Plastic, paper, metal too (7 syllables: Plas-tic pa-per met-al too)
-When we sort them, don't you know (7 syllables: When we sort them don't you know)
-Treasures new will come from you (7 syllables: Trea-sures new will come from you)
-Recycling, recycling, helps us care (7 syllables: Re-cy-cling re-cy-cling helps us care)
-Makes our world so clean and fair (7 syllables: Makes our world so clean and fair)
+Recycling, recycling, here we go
+Plastic, paper, metal too
+When we sort them, don't you know
+Treasures new will come from you
+Recycling, recycling, helps us care
+Makes our world so clean and fair
 
 *Verse 2*
-Reuse bottles, cans and more (7 syllables: Re-use bot-tles cans and more)
-Give old things a second life (7 syllables: Give old things a se-cond life)
-Paint them, fill them, explore (7 syllables: Paint them fill them ex-plore)
-Cut and stick them without strife (7 syllables: Cut and stick them with-out strife)
-Save our planet, watch it glow (7 syllables: Save our pla-net watch it glow)
-Everything we recycle, grow (7 syllables: Ev-ry-thing we re-cy-cle grow)
+Reuse bottles, cans and more
+Give old things a second life
+Paint them, fill them, explore
+Cut and stick them without strife
+Save our planet, watch it glow
+Everything we recycle, grow
 
 **Actions/Gestures**:
 1. Make a sorting motion with both hands, separating items into imaginary bins

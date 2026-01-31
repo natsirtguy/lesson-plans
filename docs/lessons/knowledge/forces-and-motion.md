@@ -25,20 +25,20 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 **Lyrics** (2 verses, 4-6 lines each):
 
 *Verse 1*
-Push and pull and watch things move (7 syllables: Push-and-pull-and-watch-things-move)
-Forces make the toys go zoom (7 syllables: For-ces-make-the-toys-go-zoom)
-Rolling, sliding, spinning round (7 syllables: Roll-ing-slid-ing-spin-ning-round)
-Motion happens all around (7 syllables: Mo-tion-hap-pens-all-a-round)
-Push it, pull it, watch it go (7 syllables: Push-it-pull-it-watch-it-go)
-Fast or slow or stop just so (7 syllables: Fast-or-slow-or-stop-just-so)
+Push and pull and watch things move
+Forces make the toys go zoom
+Rolling, sliding, spinning round
+Motion happens all around
+Push it, pull it, watch it go
+Fast or slow or stop just so
 
 *Verse 2*
-Friction makes the sliding slow (7 syllables: Fric-tion-makes-the-slid-ing-slow)
-Momentum keeps the objects go (7 syllables: Mo-men-tum-keeps-the-ob-jects-go)
-Pull a wagon cross the floor (7 syllables: Pull-a-wag-on-cross-the-floor)
-Forces are what make things soar (7 syllables: For-ces-are-what-make-things-soar)
-Everything that moves around (7 syllables: Ev-ery-thing-that-moves-a-round)
-Has a force that makes that sound (7 syllables: Has-a-force-that-makes-that-sound)
+Friction makes the sliding slow
+Momentum keeps the objects go
+Pull a wagon cross the floor
+Forces are what make things soar
+Everything that moves around
+Has a force that makes that sound
 
 **Actions/Gestures**:
 1. Push motion: Extend both palms forward with a pushing gesture for "push" lines

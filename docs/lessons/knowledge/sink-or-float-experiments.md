@@ -23,16 +23,16 @@ Children explore the concept of buoyancy by discovering which objects float and 
 **Lyrics** (2 verses, 4 lines each):
 
 *Verse 1*
-Some things float and some things sink (7 syllables: Some-things-float-and-some-things-sink)
-In the water, what we see (7 syllables: In-the-wa-ter-what-we-see)
-Heavy things go down, down, down (7 syllables: Hea-vy-things-go-down-down-down)
-Light things float all up around (7 syllables: Light-things-float-all-up-a-round)
+Some things float and some things sink
+In the water, what we see
+Heavy things go down, down, down
+Light things float all up around
 
 *Verse 2*
-Drop a cork into the tub (7 syllables: Drop-a-cork-in-to-the-tub)
-Watch it bobbing round about (7 syllables: Watch-it-bob-bing-round-a-bout)
-Rocks and stones go straight down fast (7 syllables: Rocks-and-stones-go-straight-down-fast)
-Now you know what makes things last (7 syllables: Now-you-know-what-makes-things-last)
+Drop a cork into the tub
+Watch it bobbing round about
+Rocks and stones go straight down fast
+Now you know what makes things last
 
 **Actions/Gestures**:
 1. Move both hands down slowly to show heavy objects sinking to the bottom
