@@ -1,271 +1,170 @@
-# ARTS & CULTURE ACTIVITY: Conflict Resolution Role-Play
+# KNOWLEDGE, SKILLS & CULTURE: Conflict Resolution Role-Play
 
 ## Activity Summary
 
-Conflict resolution role-play is a guided practice activity where children act out common conflicts and practice peaceful problem-solving strategies in a safe, playful environment. Through role-playing scenarios like sharing disagreements, toy disputes, or friendship misunderstandings, children learn to recognize conflicts, understand different perspectives, and develop skills for resolving problems without hitting or yelling. This activity is valuable because it gives children real practice with conflict-solving in a low-stakes setting, builds empathy by experiencing different viewpoints, and increases confidence in handling real-life disagreements.
+Children practice peaceful problem-solving by acting out common conflicts (like sharing disagreements, toy disputes, or friendship misunderstandings) and trying different solutions. Through guided role-play, children learn to recognize conflicts, understand different perspectives, and develop skills for resolving problems without hitting or yelling. This activity builds empathy and confidence in handling real-life disagreements in a safe, playful environment.
 
-**Activity Type**: Social-Emotional Learning/Interpersonal Practice/Conflict Resolution
+## Vocabulary
 
-**Duration**: 20-30 minutes (depending on number of scenarios)
+**Empathy**: Understanding and sharing how someone else feels; imagining what it's like to be in their shoes. When your friend feels sad because you took their toy, empathy means recognizing that sad feeling and caring about it.
 
-**Mess Level**: Low - primarily verbal and movement-based
+**Peaceful**: Calm and free from fighting or meanness; solving problems with words instead of actions. When two friends use calm words to decide who gets the toy first, they are being peaceful.
 
-**Best Environment**: Open space indoors or outdoors, comfortable for sitting and some movement, calm atmosphere
+**Compromise**: Finding a solution where both people get something they want or need, even if it's not exactly what they hoped for. Instead of one person getting the toy, you might compromise by taking turns or playing together.
 
-## Complete Activity Setup
+**Communicate**: Sharing your thoughts and feelings with words so others understand what you need or feel. When you tell a friend "I'm sad" or "I want a turn," you are communicating.
+
+## Learning Song
+
+**Tune**: Are You Sleeping (Frère Jacques)
+
+**Tempo**: Slow and gentle
+
+**Lyrics**
+
+*Verse 1*
+When we're fighting, when we're fighting,
+What's the way, what's the way?
+Use our words now, use our words now,
+Let's talk today, let's talk today.
+
+*Verse 2*
+Can we share it, can we share it?
+Take a turn, take a turn.
+Help each other, help each other,
+Friends return, friends return.
+
+**Actions/Gestures**:
+1. Put hands together in talking motion during "use our words now" and "let's talk today"
+2. Pretend to take something with both hands during "take a turn" and alternate left hand/right hand
+3. Put arms around yourself in a hug during "help each other" and "friends return"
+
+## Intro Video Recommendation
+
+**Recommended video**: Search for: "Conflict resolution for toddlers" or "Solving problems with words for preschool"
+
+**What to look for**:
+- 2-5 minutes long
+- Age-appropriate narration (slow, clear voice)
+- Shows children acting out simple conflicts (sharing toys, turn-taking)
+- Demonstrates peaceful solutions with words and cooperation
+- Bright colors and friendly characters
+- No scary or loud angry scenes
+
+**Alternative searches**:
+- "Teaching preschool conflict resolution skills"
+- "Toddler problem-solving through role-play"
+- "Peaceful problem-solving for young children"
+
+## Activity
+
+### Activity Overview
+
+Children watch you model a conflict scenario, then practice acting out conflicts and solutions together. Through role-play, they learn concrete problem-solving steps: naming the problem, identifying feelings, brainstorming solutions, and trying them out. The safe pretend environment lets children practice skills before using them in real disagreements.
+
+**Activity Type**: Social-Emotional Learning / Interpersonal Practice
+
+**Duration**: 15-30 minutes (depending on number of scenarios)
+
+**Setup time**: 10 minutes
 
 ### Materials Needed
 
-**Essential materials**:
-- Open space for movement and sitting - minimum 8 x 8 feet
-- Simple props related to common conflict scenarios (optional): two stuffed animals, toy cars, or other items children might dispute over
-- No special materials strictly required
+**Essential**:
+- Open floor space (at least 8 x 8 feet)
+- Simple props related to conflicts (two stuffed animals, toy cars, blocks, or other items children might dispute over)
 
-**Optional enhancements**:
-- Puppets or stuffed animals - make role-play feel more playful and less threatening
-- Picture cards showing different emotions - helps children identify feelings
-- "Calm down corner" items: cushions, stress ball, books
-- Whiteboard or paper to draw simple problem-solving steps
-- Conflict resolution visual chart showing: "Stop, Breathe, Talk, Solve"
-- Timer - to keep scenarios brief and focused
+**Optional**:
+- Puppets or stuffed animals for acting
+- Picture cards showing different emotions
+- Conflict resolution visual chart (showing: "Stop, Breathe, Talk, Solve")
+- Timer to keep scenarios brief and focused
+- Comfort items or calm-down corner for children who find role-play challenging
 
-**Cost estimate**: Free (using items you have) / Under $5 (if purchasing simple props)
+**Cost**: Free to under $5
 
-**Preparation time**: 10 minutes to gather props and review scenarios
+### Step-by-Step Instructions
 
-### Step-by-Step Setup
-
-**Before starting**:
-1. Choose 2-3 realistic conflict scenarios based on situations the child has experienced
-2. Gather simple props that represent the conflicts (toys, objects)
-3. Create a designated calm, quiet space for role-play
+**Preparation**:
+1. Choose 2-3 realistic conflict scenarios the child has experienced (sharing a toy, someone said something mean, accidentally knocked something over)
+2. Gather simple props that represent the conflicts
+3. Create a calm, quiet space designated for role-play
 4. Plan what role you'll play and what role the child will play
-5. Arrange space so you can move easily between characters
+5. Check that floor space is clear and safe for movement
 
-**Environment setup**:
-- Clear floor space for actors to move
-- Arrange seating for observers/other children in a semi-circle
-- Have a "stage area" that's distinct from the regular play area
-- Keep space calm and focused - minimize distractions
-- Position yourself where you can guide and observe
+**Activity Flow**:
 
-**Cleaning supplies ready**:
-- Tissues nearby (children might get emotional during role-play)
-- Water and snack in case children need a break
-- Comfort items for children who find role-play challenging
+1. **Introduction** (3-4 minutes):
+   Explain: "Today we're going to practice what to do when friends disagree or can't share. Disagreements happen to everyone, and there are ways to solve them. We're going to act out some situations, kind of like a play, so we can practice what to do when real disagreements happen. Remember, during our practice, we use gentle voices and bodies—no real hitting or yelling, even in pretend."
 
-## Activity Session Structure
+2. **Exploration** (10-15 minutes):
+   Start with a simple scenario (like two people wanting the same toy). You and the child act it out:
+   - Model the conflict: "I really want this toy!"
+   - Stop the action and ask: "What's the problem here?"
+   - Guide solutions: "What could we do instead of fighting? We could take turns, play together, or find another toy."
+   - Act out the solution together
+   - Then present another scenario for the child to practice: "Let's pretend we both want this toy. Show me what you could do or say."
+   - Give choices if needed, but let the child lead the solution
+   - If the child defaults to hitting or yelling, gently redirect: "In our practice, we use words instead. What could you say?"
 
-### Opening (3-4 minutes)
+3. **Discovery** (3-5 minutes):
+   After each scenario, ask:
+   - "What was the problem in that story?"
+   - "How did the character feel?"
+   - "What did they do to solve it?"
+   - "Have you ever had this problem?"
+   - "What could you do if this happens to you?"
 
-**How to introduce and engage**:
-- Gather children and explain in simple terms: "Today we're going to practice what to do when friends disagree or can't share"
-- Use normalized language: "Disagreements happen to everyone, and there are ways to solve them"
-- Show enthusiasm: "We're going to act out some situations - kind of like a play!"
-- Reassure that this is practice: "This helps us learn what to do when real disagreements happen"
-- Use a gentle tone - some children might feel anxious about conflict
+4. **Wrap-up** (2-3 minutes):
+   Bring everyone back together and say: "You did such a good job practicing how to solve problems! Today we learned that we can use our words and ask for help when we disagree. Everyone has disagreements sometimes. Now you know what to do. I'm so proud of how you're learning to solve problems!"
 
-**Setting expectations**:
-- Explain that role-play is pretend: "We're acting, and everyone is safe"
-- Emphasize learning goal over "right answers": "There are lots of good ways to solve problems"
-- Set ground rule: "During role-play, we use gentle voices and bodies - no real hitting or yelling, even in pretend"
-- Explain the process: "We'll act out a problem, then we'll stop and talk about solutions"
+### Age Adaptations
 
-### Main Activity (15-22 minutes)
+**2-3 years**:
+Keep scenarios very simple and concrete (just sharing a toy or taking a turn). Use puppets or stuffed animals more than having the child act themselves. Repeat the same scenario several times—children learn through repetition. Don't expect the child to generate solutions; guide them to specific options like "take turns" or "play together." Focus more on naming feelings ("You're upset!") than on elaborate problem-solving. Accept simpler solutions and provide lots of positive modeling. Expect this to take 15-20 minutes with high adult support.
 
-**Phase 1: Model a Conflict Scenario** (5-7 minutes)
-You demonstrate a conflict and solution, with the child as co-actor or observer:
+**3-4+ years**:
+Introduce more complex scenarios (someone left you out, someone took your turn, you disagree about the rules). Ask children to generate their own solutions rather than offering choices. Discuss why characters did things: "Why do you think they did that?" Ask children to think about the other person: "How do you think your friend felt?" Have children role-play multiple solutions to the same problem. Create scenarios based on actual conflicts they've experienced. Let children in pairs role-play with minimal adult involvement. Introduce problem-solving steps in order: "First we use our words, then we listen, then we find a solution." Discuss what to do when first solutions don't work.
 
-**Scenario 1 - Sharing a Toy**:
-- Adult and child (or puppet) both want the same toy
-- Adult models the conflict: "I really want this toy!"
-- Stop the action and ask: "What's the problem here?" (Guide to: both want same toy)
-- Ask: "What could we do instead of fighting?"
-- Guide to solutions:
-  - Take turns: "You use it first, then I'll use it"
-  - Play together: "Let's use this toy together!"
-  - Find another toy: "You use this one, I'll use a different one"
-- Act out the solution together
-- What to demonstrate: Show how talking instead of grabbing/yelling helps solve the problem
+### Extension Ideas
 
-**Scenario 2 - Friend Says Mean Thing**:
-- One character says something unkind: "I don't want to play with you"
-- Stop and identify the feeling: "That hurt your feelings, didn't it?"
-- Ask: "What could you say or do?"
-- Guide to solutions:
-  - Tell your feelings: "That makes me sad. I want to play with you"
-  - Ask why: "Why don't you want to play? Can we talk about it?"
-  - Take a break: "I'm going to play with someone else, and we can play later"
-- Act out the solution
-- What to demonstrate: Naming feelings and talking instead of hitting or yelling
+**Variation 1**: Real Conflict Re-Play—When actual conflicts happen, role-play how to handle them better. "Let's practice what you could do instead. Want to show me?" This connects learning directly to real life.
 
-**Scenario 3 - Someone Knocked Over Your Building**:
-- One character "accidentally" knocks over a block structure
-- Stop and name the feeling: "Oh no! You feel upset!"
-- Ask: "What could happen next?"
-- Guide to solutions:
-  - Assume good intent: "It was an accident, wasn't it?"
-  - Ask for help: "Can you help me build it again?"
-  - Accept apology: "It's okay. It was an accident. Let's rebuild together"
-- Act out the solution
-- What to demonstrate: How accidents are different from meanness; how asking for help solves problems
+**Variation 2**: Children Lead Role-Play—Have older children act out scenarios and lead younger ones in solutions. This deepens their own learning and builds confidence.
 
-**Questions to ask after each scenario**:
-- "What was the problem in that story?"
-- "How did the character feel?"
-- "What did they do to solve it?"
-- "Have you ever had this problem?"
-- "What could you do if this happens to you?"
+**Variation 3**: Create a Problem-Solving Comic—Draw simple pictures of a problem and solution, creating a visual story about resolving conflict. Builds memory and literacy.
 
-**Phase 2: Child Role-Plays Solutions** (7-10 minutes)
-Now the child practices acting out conflict and solutions:
+**Variation 4**: Feelings Role-Play—Act out scenarios about big emotions (being left out, being scared, feeling frustrated). This builds emotional vocabulary and regulation.
 
-- Present a scenario: "Let's pretend we both want this toy. Show me what you could do or say"
-- Give the child choices: "Would you want to take turns, or play together, or find a different toy?"
-- Let the child lead the solution - don't coach too much
-- Affirm their solutions: "Yes! You could say that. Let's see how that works"
-- If the child defaults to hitting/yelling, gently redirect: "In real life, we can't hit. What else could you try?"
-- Praise their problem-solving: "Great idea! You solved the problem by talking!"
-
-- If the child seems uncomfortable, scale back:
-  - Let them observe more before acting
-  - Use puppets/animals instead of people
-  - Start with a more positive scenario
-  - Pair them with you rather than having them solo-perform
-
-**Phase 3: Discussion & Integration** (remaining time)
-Connect role-play to real life:
-
-- Ask: "Do you remember when this happened with [real friend/sibling]?"
-- Discuss what they could do next time: "If this happens again, you can try..."
-- Role-play the specific situation they've faced if appropriate
-- Emphasize that they can come talk to you: "If you have a disagreement, you can tell me and we'll figure it out together"
-
-**Adult role**:
-- Be an engaged participant and guide, not just a director
-- Model calm, respectful language throughout
-- Show that emotions are normal and manageable
-- Help children see perspectives of the other person
-- Avoid making anyone feel "wrong" about conflicts
-- Keep scenarios realistic and relatable
-- Redirect gently if role-play becomes too intense
-
-### Wrap-Up (2-3 minutes)
-
-**Concluding the activity**:
-- Bring everyone back together and acknowledge their learning: "You did such a good job practicing how to solve problems!"
-- Review what you practiced: "Today we learned that we can use our words and ask for help when we disagree"
-- Reassure: "Everyone has disagreements sometimes. Now you know what to do"
-- Celebrate growth: "I'm so proud of how you're learning to solve problems"
-
-**Transition to next activity**:
-- Move to a calmer activity next - role-play about conflicts can be emotionally taxing
-- Transition with warmth: "Let's have a snack now and relax a bit"
-
-## Age Adaptations
-
-### 2-3 years
-**Approach**:
-- Use very simple, concrete scenarios: sharing a toy, taking a turn
-- Keep role-play very brief - these children have short attention spans for this
-- Use puppets/stuffed animals more than having children act themselves
-- Repeat the same scenario several times; children learn through repetition
-- Don't expect them to generate solutions - guide them to specific options
-- Focus more on naming feelings than on elaborate problem-solving
-- Accept simpler solutions: "Take turns" is enough at this age
-- Use lots of positive modeling and repetition
-
-**Duration**: 15-20 minutes; keep moving between phases
-
-**Adult support**: High - you'll do most of the acting and guide solutions directly
-
-### 3-4+ years
-**Extensions**:
-- Introduce more complex scenarios: someone left you out, someone took your turn
-- Ask children to generate their own solutions rather than offering choices
-- Discuss character motivations: "Why do you think they did that?"
-- Introduce perspective-taking more explicitly: "How do you think your friend felt?"
-- Have children role-play multiple solutions to the same problem
-- Create scenarios based on actual conflicts they've experienced
-- Have children in pairs role-play with minimal adult involvement
-- Introduce problem-solving steps: "First we use our words, then we listen, then we find a solution"
-- Discuss what to do when first solutions don't work
-
-**Duration**: May engage in full 25-30 minute sessions
-
-## Extension Ideas for Repeat Play
-
-**Variation 1 - Real Conflict Re-Play**: When actual conflicts happen, role-play how to handle them better. "Let's practice what you could do instead. Want to show me?" This connects learning directly to real life.
-
-**Variation 2 - Children Lead Role-Play**: Have older children act out scenarios and lead younger ones in solutions. This deepens their own learning and builds confidence.
-
-**Variation 3 - Create a Conflict Resolution Comic**: Draw simple pictures of a problem and solution, creating a visual story about resolving conflict. Builds literacy and memory.
-
-**Variation 4 - Feelings Role-Play**: Act out scenarios that focus on big emotions - being left out, being scared, feeling frustrated. Build emotional vocabulary and regulation.
-
-**Variation 5 - Community Role-Play**: Expand to bigger contexts - what to do if someone cuts in line, how to include everyone in a game, how to help a friend who's sad.
-
-**Thematic variations**:
-- **Family scenarios**: Sibling conflicts, parent-child disagreements
-- **School/group scenarios**: Taking turns with equipment, including friends in play
-- **Animal kingdom scenarios**: Make conflicts about animals to create psychological distance for anxious children
-- **Story-based scenarios**: Use conflicts from books they know and practice how characters could solve them better
-
-## Cultural Context
-
-**Cultural significance**: Every human culture has developed ways to handle conflict and teach children peaceful resolution. From mediation traditions to restorative justice practices, teaching children to solve problems without violence is a universal value. Role-play is an ancient form of learning used across cultures - from ritual drama to modern education. Conflict resolution skills are essential for any human living in community, making this a deeply important cultural practice.
-
-**Exposure to diversity**: Different cultures have different conflict resolution approaches and values. You can incorporate diversity by:
-- Learning about conflict resolution traditions from different cultures
-- Reading books showing children from different cultures solving conflicts
-- Discussing how different families handle disagreements
-- Introducing culturally-specific problem-solving approaches (talking circles, mediation, consensus-building)
-- Inviting family members to share how their culture handles conflicts
-- Noting that all cultures value peace, but may have different paths to it
-
-**Books/Media**:
-- "The Feelings Book" by Todd Parr - celebrates differences and resolving conflicts kindly
-- "Glad Monster, Sad Monster" by Ed Emberley - explores emotions and expression
-- "In My Heart" by Jo Witek - explores feelings and relationships
+**Variation 5**: Community Role-Play—Expand to bigger contexts (what to do if someone cuts in line, how to include everyone in a game, how to help a friend who's sad).
 
 ## Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child gets upset or emotional during conflict role-play
-**Why**: Seeing conflict acted out, even in pretend, can trigger real feelings; they may be remembering actual conflicts
-**Solution**: Stop immediately and provide comfort. Let them know it's just pretend. Switch to using puppets/animals instead of people. Scale back to simpler, less emotionally-charged scenarios. Some children need to observe more before participating. It's okay if they're not ready - emotions matter more than completing the activity.
+**Challenge**: Child gets upset or emotional during conflict role-play.
 
-**Challenge**: Child defaults to hitting/yelling rather than using words
-**Why**: Young children's brains are still developing impulse control and verbal skills; hitting is often their habitual response
-**Solution**: Gently pause and redirect: "In our practice, we use words instead. What could you say?" Model the language: "You could say, 'I want a turn' or 'I don't like that.'" Role-play it again with the child using words. Celebrate heavily when they succeed. Expect this to take many repetitions - it's new learning.
+**Solution**: Stop immediately and provide comfort. Let them know it's just pretend. Switch to using puppets or animals instead of people. Scale back to simpler, less emotionally-charged scenarios. Some children need to observe more before participating. It's okay if they're not ready—emotions matter more than completing the activity.
 
-**Challenge**: Child doesn't understand role-play concept; treats it as "real"
-**Why**: Young children have difficulty distinguishing pretend from real; understanding acting is a cognitive skill
-**Solution**: Use puppets/animals instead - it's easier to understand that animals are pretending. Keep saying "Let's pretend..." or "In our play story..." Use very obvious pretend elements - silly voices, exaggerated movements. Don't push if the child isn't developmentally ready. This skill develops over time.
+**Challenge**: Child defaults to hitting or yelling rather than using words.
 
-**Challenge**: Role-play feels forced or the child resists
-**Why**: Some children find structured practice uncomfortable; they may be shy or prefer learning through observation
-**Solution**: Let them observe several times before expecting participation. Don't force - observation is valid learning. Use storytelling instead of acting: "Let's talk about what happened in our story and what they could do." Some children learn better through discussion than through dramatic reenactment.
+**Solution**: Gently pause and redirect: "In our practice, we use words instead. What could you say?" Model the language: "You could say, 'I want a turn' or 'I don't like that.'" Role-play it again with the child using words. Celebrate heavily when they succeed. Expect this to take many repetitions—it's new learning.
 
-### Tips for Success
+**Challenge**: Child doesn't understand role-play as pretend; treats it as real.
 
-- **Meet them where they are**: Some children thrive on dramatic role-play, others learn better through discussion or puppets. Adapt to your child's style.
-- **Use humor appropriately**: A little silliness makes role-play less threatening, but don't mock or belittle the child or the scenario.
-- **Start positive**: Don't always start with conflict role-play. Practice positive interactions first so children associate role-play with fun.
-- **Use real scenarios**: Role-play is most powerful when based on conflicts the child has actually experienced.
-- **Normalize conflict**: Help children understand that disagreements happen to everyone and are solvable.
-- **Practice, don't preach**: Children learn more from acting out solutions than from being told what to do.
-- **Acknowledge hard emotions**: Don't minimize feelings: "You're right - that IS frustrating when you can't have a turn. Let's figure out what to do."
-- **Celebrate attempts**: Praise the effort of trying to solve problems peacefully, not just perfect solutions.
+**Solution**: Use puppets or animals instead—it's easier to understand that animals are pretending. Keep saying "Let's pretend..." or "In our play story..." Use obvious pretend elements like silly voices or exaggerated movements. Don't push if the child isn't developmentally ready. This skill develops over time.
 
-### What to Do With the Creation
+**Challenge**: Role-play feels forced or the child resists.
 
-- **Document growth**: Keep notes on conflicts the child handles better over time. This growth is powerful documentation.
-- **Create a problem-solving reference**: Draw or write the strategies you've practiced together. Refer back when real conflicts happen.
-- **Share with caregivers**: If the child is in group care, let teachers/caregivers know what strategies you're practicing at home.
-- **Celebrate success**: When the child successfully uses a conflict resolution strategy in real life, celebrate enthusiastically and remind them: "Remember when we practiced this?"
-- **Build a problem-solving toolkit**: Over time, children develop multiple strategies. Help them recognize their growing skills.
+**Solution**: Let them observe several times before expecting participation. Observation is valid learning. Use storytelling instead of acting: "Let's talk about what happened in our story and what they could do." Some children learn better through discussion than through dramatic reenactment.
+
+### Follow-Up Activities
+
+1. **Document Growth**: Keep notes on conflicts the child handles better over time. When the child successfully uses a conflict resolution strategy in real life, celebrate enthusiastically and remind them: "Remember when we practiced this?"
+
+2. **Create a Problem-Solving Reference**: Draw or write the strategies you've practiced together and refer back to them when real conflicts happen. Build a problem-solving toolkit so children recognize their growing skills.
+
+3. **Share and Extend**: If the child is in group care, let teachers and caregivers know what strategies you're practicing at home so they can reinforce the same approaches.
 
 ---
 
