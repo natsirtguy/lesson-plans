@@ -1,4 +1,4 @@
-// Service Worker for Daily Lesson Plans PWA
+// Service Worker for Mentot PWA
 // Provides offline functionality and caching
 
 const CACHE_NAME = 'lesson-plans-v1';
