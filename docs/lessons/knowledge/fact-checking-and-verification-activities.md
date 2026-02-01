@@ -1,225 +1,199 @@
-# Fact-Checking and Verification Activities
+# Knowledge, Skills & Culture: Fact-Checking and Verification Activities
 
 ## Activity Summary
 
-In this foundational research activity, young children explore the concept of truth and accuracy through hands-on investigations and observations. Children learn to notice details, ask questions, and compare information from multiple sources—developing early critical thinking skills essential for lifelong learning. This activity introduces the value of verification in a playful, developmentally appropriate way.
+This lesson introduces young learners to foundational fact-checking skills through hands-on observation and testing. Children will explore the exciting concept of discovering whether something is true by looking closely, asking questions, and testing their ideas—the building blocks of critical thinking and scientific thinking.
 
-**Activity Type**: Research and Study / Learning and Growth
+## Vocabulary
 
-**Duration**: 20-30 minutes (with natural breaks and exploration time)
+**Verify**: To check if something is true or real by looking carefully or testing it. When you verify something, you're being a detective, looking for clues to see if an idea is correct—like checking if a toy really floats by putting it in water.
 
-**Mess Level**: Low - mostly uses visual materials and conversation
+**Observation**: Noticing details carefully by using your eyes, ears, nose, hands, and sometimes taste. When you observe, you're being a scientist, paying close attention to how things look, sound, feel, and even smell—like noticing that some leaves are smooth and some are bumpy.
 
-**Best Environment**: Quiet space at a table or on the floor with good lighting
+**Evidence**: Real clues or proof that help us know something is true. Evidence is what we discover when we look closely and test things—like seeing a wet puddle as evidence that it rained, or tasting salt on our fingers as evidence that we have salt on our hands.
 
-## Complete Activity Setup
+**Prediction**: A guess or idea about what might happen next based on what you know. When you make a prediction, you're using your brain to think ahead—like guessing that a ball will bounce when you drop it, or that ice will melt when you hold it in your warm hand.
+
+## Learning Song
+
+**Tune**: Twinkle, Twinkle, Little Star
+
+**Tempo**: Moderate, encouraging and thoughtful
+
+**Lyrics**:
+
+*Verse 1*
+
+Look and look and see what's true (look-and-look-and-see-what's-true = 7)
+Is it real? Let's check it too (is-it-real-let's-check-it-too = 7)
+Touch it, taste it, hear the sound (touch-it-taste-it-hear-the-sound = 7)
+See what clues that we have found (see-what-clues-that-we-have-found = 7)
+Ask a question, test it out (ask-a-ques-tion-test-it-out = 7)
+That's what fact-checking's all about (that's-what-fact-check-ing's-all-a-bout = 7)
+
+*Verse 2*
+
+Every question makes us smart (ev-ery-ques-tion-makes-us-smart = 7)
+Being curious is a start (be-ing-cu-ri-ous-is-a-start = 7)
+Look for proof and clues so bright (look-for-proof-and-clues-so-bright = 7)
+Finding truth feels really right (find-ing-truth-feels-real-ly-right = 7)
+Verify and test all day (ver-i-fy-and-test-all-day = 7)
+That is the fact-checking way (that-is-the-fact-check-ing-way = 7)
+
+**Actions/Gestures**:
+
+1. **Looking carefully** - Cup your hand above your eyes like an explorer scanning the horizon, then point at details around you
+2. **Testing it out** - Pretend to hold something, examine it with both hands, bring it close and far from your face
+3. **Asking questions** - Raise your hand to your chin in a thinking pose, then open your arms wide with a questioning expression
+
+## Intro Video Recommendation
+
+**Recommended video**: Search YouTube for "Daniel Tiger Asks Questions" or "Daniel Tiger Wonder and Curiosity"
+
+**What to look for**:
+- 3-5 minutes long
+- Shows a relatable character asking questions about the world
+- Age-appropriate vocabulary and pacing
+- Positive reinforcement of curiosity
+- Bright, engaging animation
+- No scary or overstimulating content
+
+**Alternative searches**:
+- "Curious George asks questions"
+- "Sesame Street observation and discovery"
+- "Ask, observe, discover for preschoolers"
+
+## Activity
+
+### Activity Overview
+
+Children become "fact checkers" by testing simple statements about objects and materials around them. They'll develop observation skills and learn that we can discover what's true by looking carefully, feeling, testing, and asking questions. This hands-on exploration builds confidence in their ability to investigate and think critically.
+
+**Activity Type**: Hands-on discovery and testing activity
+
+**Duration**: 12-18 minutes
+
+**Setup time**: 5 minutes
 
 ### Materials Needed
 
-**Essential materials**:
-- Real objects and pictures/representations of those objects (e.g., toy cat and picture of a cat, plastic apple and photo of an apple) - 3-5 pairs
-- Picture cards showing correct and incorrect scenarios (e.g., correct: "fish in water," incorrect: "fish in the sky") - 4-6 pairs
-- Sensory items for verification (small toys, textured items, safe objects to touch) - 5-8 items
-- A simple chart or poster board for documenting observations
+**Essential**:
+- 3-4 common household objects (wooden spoon, plastic cup, sponge, apple, toy car, ball)
+- Water in a shallow bowl or tray
+- A safe surface for testing (table or floor)
 
-**Optional enhancements**:
-- Magnifying glass (to enhance investigation) - builds observation skills
-- Camera or tablet for taking photos of findings - documentation and engagement
-- Books showing real animals/objects alongside illustrations - comparison resource
-- Sticky notes or stickers for marking "real" vs "pretend" items
+**Optional**:
+- Magnifying glass (toy or real)
+- Items with different textures (sandpaper, velvet, plastic wrap)
+- Notebook or picture journal to record findings
+- Camera or phone to photograph discoveries
 
-**Cost estimate**: Free to Under $5 (using household items)
+**Cost**: Free (uses household items)
 
-**Preparation time**: 5-10 minutes (gathering materials and setting up comparison pairs)
+### Step-by-Step Instructions
 
-### Step-by-Step Setup
+**Preparation**:
 
-**Before starting**:
-1. Gather 3-5 pairs of items: one real object and one representation (picture, toy, or drawing)
-2. Select or draw 4-6 simple picture cards showing realistic and unrealistic scenarios
-3. Arrange items on a low table or mat at child's eye level
-4. Ensure comfortable seating where child can easily access and examine materials
-5. Keep a simple observation sheet or notebook ready to record findings
+1. Gather 3-4 common objects and place them on a low table or floor where the child can reach them easily
+2. Fill a shallow bowl with water and place it nearby on a protected surface
+3. Clear the area of hazards and ensure good lighting for observation
+4. Wash hands and demonstrate curiosity and excitement about discovery
 
-**Environment setup**:
-- Create a calm, organized exploration space with minimal distractions
-- Ensure good natural or bright artificial lighting for detailed observation
-- Arrange materials in an accessible order: real items on one side, pictures/representations on the other
-- Have a designated "verification station" where child can examine and compare items
-- Keep all materials within child's reach
+**Activity Flow**:
 
-**Cleaning supplies ready**:
-- Damp cloth or baby wipes (if items get dusty during handling)
-- Paper towels for quick cleanup
-- Hand sanitizer or soap and water for handwashing after exploration
+1. **Introduction** (2-3 min):
 
-## Activity Session Structure
+   Start with enthusiasm: "Today we're going to be fact checkers! That means we're going to test ideas and discover what's true. Let's see if our guesses are right!"
 
-### Opening (2-3 minutes)
+   Show one object: "I think this [sponge] will float in water. Do you think it will float or sink? Let's test it together and see what's true!"
 
-**How to introduce and engage**:
-- Show a real object (like a toy car) and a picture of a car side by side
-- Ask: "Can you point to the real one? Can you touch this one? Can you touch the picture?"
-- Introduce the idea: "Sometimes we need to look carefully and check things to know what's real and what's a picture"
-- Demonstrate touching and observing one object closely
+2. **Exploration** (7-10 min):
 
-**Setting expectations**:
-- "We're going to be detectives today and check things carefully"
-- "It's okay to touch and look very closely—that helps us verify"
-- Success looks like: noticing differences, asking questions, and making observations (not necessarily getting answers "right")
+   For each object, follow this sequence:
 
-### Main Activity (15-20 minutes)
+   - **Make a prediction**: "What do you think will happen if we put this in the water? Will it float or sink? Will it get wet? Will it feel soft or hard?"
 
-**Phase 1: Real vs. Picture Exploration** (5-7 minutes)
+   - **Test it**: Place the object in water and observe together. Say: "Let's watch and see what really happens. What do you notice?"
 
-Free exploration of comparison pairs:
-- Child handles and examines a real object (e.g., toy apple)
-- Then examines a picture of an apple
-- Encourage sensory comparison: "Does it feel the same? Does it smell the same? Can you taste it?" (for safe items only)
-- Ask guiding questions: "Which one is real? How do you know? What's different?"
-- Comment on observations: "You noticed the picture is flat! The real apple is bumpy and round"
+   - **Gather evidence**: Point out what you see: "Look! The sponge floated! That means our guess was right. Can you feel how it absorbed the water? That's evidence—proof—that sponges soak up water."
 
-**Phase 2: Guided Verification** (5-8 minutes)
+   - **Feel and examine**: Let the child touch the object before and after (if safe). Ask: "Is it the same? What changed? What stayed the same?"
 
-Introduce verification process with picture cards:
-- Show a realistic picture card (e.g., "cat sleeping on a bed")
-- Ask: "Does this really happen? Is this real or make-believe? Have you seen this before?"
-- Show an unrealistic picture (e.g., "dog flying in the sky")
-- Ask: "Could this really happen? Why or why not? What would really happen?"
-- Demonstrate looking at the details: "Let's check—are there clouds? Is the dog falling?"
-- Encourage child to point out what looks real and what looks impossible
+   - **Ask questions together**: "Why do you think that happened? What else could we try?"
 
-**Phase 3: Child-Led Investigation** (remaining time)
+3. **Discovery** (2-3 min):
 
-Child chooses items to examine and verify:
-- Provide multiple pairs and let child select which to investigate
-- Child can group items: "real things" and "picture/pretend things"
-- Ask child to explain their sorting: "Why did you put that one here?"
-- Introduce simple recording: mark a chart with stickers or drawings showing what's real
-- Celebrate observations without pressure for "correct" answers
+   Sit together and reflect: "You were excellent fact checkers today! You looked carefully, you tested your ideas, and you discovered what was true. Did anything surprise you?"
 
-**Adult role**:
-- Ask open-ended questions that encourage observation
-- Narrate what you see child doing: "You're looking very carefully at the details"
-- Model careful examination: touch, look from different angles, compare
-- Provide vocabulary: real, picture, same, different, notice, check, verify
-- Step back and let child lead exploration after showing the process
+   Point out the process: "We made guesses, then we tested them. That's how we know what's true. Scientists do this too!"
 
-### Wrap-Up (3-5 minutes)
+4. **Wrap-up** (1-2 min):
 
-**Concluding the activity**:
-- Gather items together with child's help
-- Ask reflection question: "What did we discover today? What was real? What was make-believe?"
-- Highlight one observation: "I noticed you checked the picture by looking really carefully—that's fact-checking!"
-- Ask: "When do we need to check if something is real?" (food, directions, whether it's safe, etc.)
+   Acknowledge their work: "You asked great questions and found lots of evidence. That makes you a real fact checker!"
 
-**Transition to cleanup**:
-- Make cleanup part of the learning: "Let's put the real things back together and the pictures together"
-- Child can help sort and store materials
-- Use transition language: "Fact-checkers are putting away their tools now"
+   Transition: "Let's wash our hands and think about what we discovered."
 
-## Age Adaptations
+### Age Adaptations
 
-### 2-3 years
+**2-3 years**:
 
-**Approach**:
-- Keep comparisons very concrete and obvious (real toy vs. picture of toy)
-- Use items they're very familiar with (toy animals, household objects)
-- Focus heavily on sensory exploration (touching, looking) rather than abstract reasoning
-- Use very simple language: "real" and "picture" mainly
-- Shorter comparisons—perhaps 3 pairs instead of 5-6
-- Expect this age to enjoy the sensory exploration more than the verification concept itself
-- Adult should do most of the talking and questioning
+- Use simpler language: "Will it sink or float?" instead of "What do you predict?"
+- Focus on ONE object and test it repeatedly with different outcomes (float in water, drop on floor, etc.)
+- Make predictions very concrete: "This ball bounces. Watch!" Then bounce it. Then ask: "Does it bounce again?"
+- Accept short answers and pointing as participation
+- Use all five senses safely: let them touch, smell, listen (not taste unless food item)
+- Keep testing to 5-7 minutes maximum
 
-**Duration**: 15-20 minutes with frequent breaks for other activities
+**3-4+ years**:
 
-**Adult support**: High—demonstrate repeatedly, stay close, guide every step
+- Introduce vocabulary: "Let's verify whether this is true by testing it"
+- Test multiple objects and compare: "Which ones float? Which ones sink? Why?"
+- Record observations by drawing pictures or dictating descriptions
+- Ask deeper questions: "What would happen if...? Why do you think...? How could we test that?"
+- Introduce simple cause-and-effect: "The sponge soaked up water because sponges are made to absorb water"
+- Create an "evidence board" with pictures or drawings of discoveries
+- Test predictions multiple times to verify consistency
 
-### 3-4+ years
+### Extension Ideas
 
-**Extensions**:
-- Use more subtle differences (two pictures, where one is slightly wrong—e.g., cow with wrong number of legs)
-- Introduce simple sorting categories: "Animals that live in water" / "Animals that live in the tree"
-- Ask children to verify: "Is this right?" about sorting
-- Introduce books: compare illustrations to real photos of the same animal
-- Create simple "true or false" statements: "Fish sleep" / "Fish fly"
-- Let child explain *why* something is or isn't real
-- Introduce simple source checking: "How do we know?" / "Where can we find out?"
+**Variation 1 - Sink or Float Sorting**: Create two areas (sink and float). After testing objects, sort them into the correct group. Challenge: "Can you predict where each one goes before we test it?"
 
-**Duration**: 25-30 minutes; older children may want to extend and do more comparisons
+**Variation 2 - Texture Investigation**: Use items with different textures (smooth stone, bumpy pinecone, soft cloth, rough sandpaper). Predict: "Which one will feel soft?" Test by touching and comparing. Create texture rubbings with paper and crayons.
 
-## Extension Ideas for Repeat Play
+**Variation 3 - Sound Investigation**: Gather objects that make different sounds (wooden spoon, metal spoon, plastic cup, bell). Predict: "Which one makes the loudest sound?" Test by tapping and comparing. Create a simple sound chart with pictures.
 
-**Variation 1 - Real Animal Matching**: Bring in real toy animals and picture cards of the same animals. Child matches each animal to its picture, then sorts by habitat or characteristics. This builds classification and observation skills.
-
-**Variation 2 - Picture Detective**: Show pictures with intentional errors (animal with wrong color, object in wrong place) and have child find what's wrong. This deepens observation skills and introduces the concept of accurate representation.
-
-**Variation 3 - Sensory Verification Box**: Place familiar objects in a box (ball, spoon, stuffed animal, fruit). Child touches inside without looking, identifies by feel, then checks their guess by looking. This adds a guessing/verification layer.
-
-**Thematic variations**:
-- **Seasonal**: Compare real autumn leaves to leaf pictures; verify what's real about winter
-- **Food-related**: Real fruits/vegetables and pictures; discuss which are safe to eat, which are toys
-- **Body parts**: Mirror activity where child finds their real body parts and matches to pictures/illustrations
-- **Community helpers**: Pictures of real community helpers (photos) vs. illustrations; discuss what they do
-
-## Cultural Context
-
-**Cultural significance**: The ability to verify information and distinguish truth from fiction is fundamental to human knowledge-building across all cultures. Every culture has traditions around storytelling that distinguish between historical truth, fables, and practical knowledge. Early verification skills prepare children to be critical thinkers, engaged citizens, and lifelong learners who can navigate an information-rich world respectfully.
-
-**Exposure to diversity**:
-- Use picture books and materials that show diverse families, homes, foods, and practices
-- Include items representing different cultural toys, clothing, and objects
-- Show pictures of children and families from various cultures engaged in real activities
-- Discuss how different cultures verify and share important information (oral traditions, stories, writing)
-- Read folktales that blend real and fantastical elements from various cultures
-
-**Books/Media**:
-- "The True Story of the Three Little Pigs" by Jon Scieszka (teaches about perspective and verification through a different narrator)
-- "Click, Clack, Moo: A Typewriter Tale" by Doreen Cronin (includes absurdist humor that invites verification discussions)
+**Repeat play**: Change the objects each session. Keep asking predictions and testing. Over time, children begin predicting more accurately as they build evidence from repeated testing.
 
 ## Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child insists a picture IS the object (e.g., tries to eat the picture of food)
+**Challenge**: Child wants to taste everything or put objects in mouth.
 
-**Why**: Ages 2-3 have developing understanding of representation; pictures and objects seem interchangeable to early learners
+**Solution**: This is normal at age 2-3. Use only safe, food-safe objects when possible (fruit, safe toys). Redirect: "We look at this one and feel it, but we taste only the apple." Establish clear boundaries about what can go in the mouth. Keep testing to foods and clearly marked safe objects.
 
-**Solution**: Gently redirect while validating: "This picture shows food, but it's made of paper. Real food we can eat. Let's check—can we eat paper?" Keep reinforcing with sensory experience (taste, touch, smell) what's different about real objects
+**Challenge**: Child loses interest after testing one object and wants to move on.
 
-**Challenge**: Child shows no interest in the distinction between real and picture
+**Solution**: Follow the child's lead. They don't need to test everything. Quality over quantity. One deeply explored discovery is better than rushing through multiple objects. Come back to this activity another day with fresh enthusiasm.
 
-**Why**: Abstract thinking about representation is still developing; child may be more interested in the objects themselves
+**Challenge**: Child gets frustrated if their prediction is "wrong."
 
-**Solution**: Follow child's lead—let them enjoy sensory exploration without pressure. Natural questions will emerge ("Can I eat it?" "Is it soft?"). You're building the foundation for verification thinking; formal understanding develops gradually over months
+**Solution**: Reframe immediately and positively: "You guessed it would sink, and it floated! That's so interesting! That's how we learn—we test our ideas and discover something new!" Make it about discovery, not right or wrong answers. Celebrate curiosity over accuracy.
 
-**Challenge**: Child becomes frustrated or loses interest during longer comparisons
+**Challenge**: Child doesn't want to predict; they just want to do the activity.
 
-**Why**: Attention span for focused activity is 15-20 minutes; fatigue from sustained observation
+**Solution**: That's fine! Skip the prediction step for younger children. Let them test, explore, and observe. The prediction skill develops naturally over time. You can gently introduce it: "What might happen?" but don't force it.
 
-**Solution**: Stop early and transition to something else. Fact-checking shouldn't feel like a chore. Multiple shorter sessions are better than one long one. Restart with high-energy item or move to physical activity
+### Follow-Up Activities
 
-### Tips for Success
+1. **Fact-Checking at Mealtime**: At lunch, make simple statements: "Crackers are hard. Let's test it!" Eat one and verify. "Applesauce is soft. Is that true?" This brings fact-checking into daily routines.
 
-- **Start with obvious differences**: Real stuffed animal vs. picture of that same animal (not different animals)
-- **Use items the child already knows and loves**: Familiar objects help focus attention on observation rather than object recognition
-- **Narrate everything**: "I'm touching the real car. It's hard and smooth. Now I'm touching the picture of a car. It's flat and you can't feel the wheels."
-- **Don't require answers**: Questions are invitations to think, not quizzes. "What do you notice?" is better than "Which is real?"
-- **Make it playful**: Silly picture cards (cat with three tails) that children can laugh about work better than serious ones
-- **Connect to their questions**: When a child asks "Is that real?" capitalize on that moment—you've found their interest in verification
-- **Use repetition across different contexts**: A child might need to explore "real vs. picture" many times in different ways before the concept solidifies
+2. **Nature Verification Walk**: Outside, make predictions about nature: "Do you think this leaf will float?" "Is this rock hard?" Test your ideas on a walk. Collect evidence (interesting findings) in a small bag.
 
-### What to Do With the Creation
-
-- **Documentation**: Take a photo of child's sorting work or their chart marking real vs. pictures—this shows their emerging understanding
-- **Display**: Keep their observations on a low bulletin board or shelf so child can reference and revisit their discoveries
-- **Conversation starter**: Share photos/descriptions with other caregivers and family: "Today, Emma discovered that the real apple is round and the picture is flat"
-- **Developmental record**: Note what comparisons child understood and which confused them—helps plan future activities
-- **Revision and growth**: Revisit the same activity monthly; child's understanding deepens with repetition and maturation
-- **When to let go**: After documentation, materials can be reused for other activities; the learning is internal
+3. **Photo Documentation**: Take pictures of your tests and discoveries. Create a simple poster: "We Were Fact Checkers! Here's What We Discovered." Display it proudly to reinforce the learning.
 
 ---
 
-**Category**: Learning and Growth - Research and Study
+**Category**: Knowledge, Skills & Culture - Cognitive/Practical Skills
 
-*For children ages 2-4+ years. This activity introduces foundational critical thinking and observation skills. Adapt timing, complexity, and expectations to your child's developmental stage and individual interests. The goal is to nurture curiosity about how we know what's true, not to achieve perfect understanding.*
+*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. This activity builds foundational critical thinking and scientific thinking skills that will support learning throughout childhood.*
