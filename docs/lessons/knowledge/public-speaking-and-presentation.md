@@ -1,239 +1,196 @@
-# Arts & Culture Activity: Public Speaking and Presentation
+# KNOWLEDGE, SKILLS & CULTURE: Public Speaking and Presentation
 
 ## Activity Summary
 
-Public speaking and presentation for young children focuses on building confidence, encouraging self-expression, and developing communication skills in a supportive environment. Children will practice sharing ideas, telling stories, showing their creations, and performing for others, building foundational confidence in expressing themselves. This activity is valuable because it develops language skills, emotional confidence, and the ability to communicate with others—essential skills for social development and future learning.
+Children learn the fundamentals of speaking confidently to an audience through playful performance and sharing activities. This lesson builds verbal expression, listening skills, and self-assurance as children practice sharing ideas, telling stories, and showing their creations to others in a supportive environment.
 
-**Activity Type**: Performing arts/Communication/Social activity/Creative expression
+## Vocabulary
 
-**Duration**: 15-30 minutes (with natural breaks)
+**Confidence**: Feeling sure and brave enough to try something, even when others are watching. When you show your drawing to the class without being shy, you're showing confidence.
 
-**Mess Level**: Low—primarily verbal/movement based with minimal materials
+**Articulate**: To speak clearly and slowly so that others can understand every word. Using a big voice and clear sounds when you say "I made a tower" is articulating.
 
-**Best Environment**: Large open area or circle space indoors, or outdoor gathering space with good acoustics
+**Communicate**: To share thoughts, feelings, and information with other people using words, expressions, and actions. When you tell your friend what you did at the park, you're communicating.
 
-## Complete Activity Setup
+**Audience**: The group of people listening to or watching you share. Your family at the dinner table is an audience when you tell them about your day.
+
+## Learning Song
+
+**Tune**: Twinkle, Twinkle, Little Star
+
+**Tempo**: Upbeat and playful
+
+**Lyrics**
+
+*Verse 1*
+
+I can speak and share my words
+Everyone will hear my voice
+Tell the things that make me smile
+Standing tall and being brave
+When I speak up friends will hear
+Speaking is a special skill
+
+*Verse 2*
+
+I can show the things I know
+Share my ideas loud and clear
+Raise my hand and tell my thoughts
+Every voice is wonderful
+Speaking up will help me grow
+I am brave, I speak with pride
+
+**Actions/Gestures**:
+1. Stand tall and puff out chest when singing "standing tall and being brave"
+2. Make a big circle with both arms above head like an "O" when singing "everyone will hear my voice"
+3. Point outward to the audience while taking a bow at the end
+
+## Intro Video Recommendation
+
+**Recommended video**: Search YouTube for "Kids speaking and presentation for preschoolers" or "Show and tell ideas for toddlers"
+
+**What to look for**:
+- 3-5 minutes long
+- Features actual children speaking and sharing (not cartoons)
+- Emphasizes listening and turn-taking
+- Shows simple presentation ideas (showing an object, telling a short story)
+- Positive reinforcement and applause from audience
+- Calm, encouraging narration
+
+**Alternative searches**:
+- "Preschool show and tell activities"
+- "Kids public speaking skills for young children"
+- "Turn taking and sharing activities for toddlers"
+
+## Activity
+
+### Activity Overview
+
+Children take turns presenting something they've created or chosen to a small group. They practice standing, speaking clearly, and receiving positive feedback while building confidence in sharing their ideas and creations with an audience. This hands-on activity directly addresses the core skill of public speaking in an age-appropriate, low-pressure environment.
+
+**Activity Type**: Performance and presentation practice / Group sharing
+
+**Duration**: 15-25 minutes
+
+**Setup time**: 5 minutes
 
 ### Materials Needed
 
-**Essential materials**:
-- Comfortable gathering space (rug, circle of chairs, or cushions)
-- Simple props (optional): stuffed animals, picture books, or objects from around the home
-- Chart paper or whiteboard (to draw story ideas)
-- Small microphone substitute (optional): toy microphone, paper towel tube decorated, or just a hand gesture
+**Essential**:
+- Items children have created (drawings, block towers, Play-Doh creations) or can bring from home
+- A small audience (even 2-3 people works well)
+- A special "presenter spot" (rug, carpet square, or tape line on floor)
+- A simple bell, chime, or hand clap to signal turn-taking
 
-**Optional enhancements**:
-- Dress-up items (hats, scarves, costumes)—adds confidence and fun character exploration
-- Picture cards or sequence cards—helps with storytelling structure
-- Musical instrument or bell—signals presentation time and creates excitement
-- Backdrop or special presentation area—creates "stage" feeling and focus
-- Certificate or special ribbon—celebrates participation and courage
-- Camera or phone—documents presentations for family sharing
+**Optional**:
+- A pretend microphone (paper towel tube, cardboard paper roller)
+- Simple applause sign made from paper
+- Certificate of "Great Presenter" printouts
+- A small podium or step stool to stand on
+- Toy audience members (stuffed animals, dolls) if real audience is unavailable
 
-**Cost estimate**: Free to under $5 (likely using items already at home)
+**Cost**: Free (using items on hand) to under $5
 
-**Preparation time**: 5-10 minutes (mainly space arrangement and materials gathering)
+### Step-by-Step Instructions
 
-### Step-by-Step Setup
+**Preparation**:
+1. Arrange seating in a semicircle facing a clear "presenter spot" (2-3 feet in front of the audience)
+2. Gather 3-4 items that children can present (drawings, creations, or objects from around the house)
+3. Review with children what good listening looks like: eyes watching, ears listening, staying quiet, clapping at the end
+4. Explain that everyone gets a turn to be the presenter
 
-**Before starting**:
-1. Create a clear, safe gathering space with good visibility for all participants
-2. If using any props or dress-up items, arrange them where children can easily access them
-3. Have comfortable seating arranged in a semicircle or circle so presenter is visible to audience
-4. Remove distracting toys or items that might pull attention away
+**Activity Flow**:
 
-**Environment setup**:
-- Clear floor or rug for movement and presentation
-- Good lighting so faces are visible
-- Quiet or controlled background noise (turn off TV/music)
-- If possible, create a slight "stage" area—even just a different colored rug or chair platform works
-- Arrange audience seating so the child presenter can see friendly faces
+1. **Introduction** (2-3 min):
+   - Explain: "Today we are going to be presenters! A presenter is someone who shares something special with a group. The people listening are the audience."
+   - Model once: Hold up an item (your drawing, a toy, a block), stand in the presenter spot, say in a clear voice: "I made a tower today. I used red and blue blocks. It is very tall."
+   - Ask the group to clap and say "Great job!"
 
-**Cleaning supplies ready**:
-- N/A (minimal cleanup needed—mainly tidying the space afterward)
+2. **Exploration** (10-15 min):
+   - Invite the first child to choose an item to share
+   - Guide them to the presenter spot and encourage them to:
+     - Stand still (or sit up straight if on the floor)
+     - Look at the audience
+     - Use a big, clear voice
+     - Tell 2-3 sentences about their item
+   - If a child is shy, help them by asking leading questions: "Can you tell us the color?" "What did you use to make this?"
+   - After each presentation, guide the audience to clap and say "Nice job!" or "We liked your presentation!"
+   - Continue with each child's turn
 
-## Activity Session Structure
+3. **Discovery** (3-5 min):
+   - Ask children reflective questions:
+     - "How did it feel to be a presenter?"
+     - "What did you like about listening to your friends?"
+     - "Who was brave today?"
+   - Point out specific moments: "I noticed [child's name] used such a clear voice!" or "[Child] looked right at us while speaking!"
 
-### Opening (2-3 minutes)
+4. **Wrap-up** (2-3 min):
+   - Celebrate all presenters with a group round of applause
+   - If desired, give out certificates or stickers
+   - Transition: "You are all wonderful speakers and presenters!"
 
-**How to introduce and engage**:
-- Start with excitement and warmth: "Today we get to share and perform! Who has a story or idea to show everyone?"
-- Model confidence yourself: "I'm going to share a silly poem, and then you can have a turn!"
-- Explain that everyone is the presenter at some point: "We all get to be the star today—our job as listeners is to watch and listen kindly"
-- Make it feel like celebration, not evaluation: "There's no right or wrong way to share—we're just happy to hear from you!"
+### Age Adaptations
 
-**Setting expectations**:
-- "When it's your turn to present, you stand here and everyone looks at you—it's okay to feel nervous, that's normal!"
-- "As listeners, we watch with happy faces and listen to our friend. When they're done, we clap or cheer!"
-- "You can share anything: a story, a dance, a song, something you made, or just talk about your favorite thing"
-- Emphasize process over perfection: "What matters is that you're brave and you try—we're proud of you!"
+**2-3 years**:
+- Keep presentations very short (just naming the item is fine: "Tower!" or "Picture!")
+- Use very simple language and model sentences they can repeat back
+- Allow children to sit while presenting if standing feels uncomfortable
+- Have a smaller audience (just one or two people) to reduce anxiety
+- Offer tangible encouragement: stickers, high-fives, immediate applause
+- Accept any communication (pointing, sounds, single words) as valid sharing
 
-### Main Activity (10-20 minutes)
+**3-4+ years**:
+- Encourage 2-3 sentences about their item
+- Ask follow-up questions to extend their speaking: "What's your favorite part?" "How did you make it?"
+- Introduce simple turn-taking with a "talking object" (the microphone tube) that you pass between presenters
+- Add a "question time" where audience members ask the presenter simple questions
+- Challenge them to use descriptive words: "What color is it?" "Is it big or small?"
+- Encourage eye contact and standing still throughout their presentation
 
-**Phase 1: Modeling and Building Confidence** (3-5 minutes)
-Adult demonstrates first to show that sharing is safe and fun:
-- Tell a very simple story (2-3 sentences): "One day, my teddy bear went to the beach. He played in the sand. Then he went swimming!"
-- Or perform a simple movement: dance move, silly walk, funny pose
-- Or share something authentic: "I like blue because it reminds me of the sky!"
-- Keep it brief, silly, and warm to reduce pressure
-- Invite responses: "That was fun! Who wants to go next?"
+### Extension Ideas
 
-**Phase 2: Individual Presentations** (7-15 minutes)
-Each child takes a turn as presenter:
-- Give them choice: "Do you want to tell a story, sing a song, show a dance, or talk about something you like?"
-- Offer supports if they're shy: "Would you like to hold this microphone?" "Should I stand next to you?" "Do you want a stuffed animal to help you?"
-- Ask simple prompts if they freeze:
-  - "What's your favorite animal? Tell us about it!"
-  - "If you had a magic wand, what would you do?"
-  - "Show us your best dance move!"
-  - "Tell us something funny that happened"
-  - "What's your favorite food? Why?"
-- Let them present at their own pace—no rushing
-- Celebrate their effort with genuine enthusiasm and applause
+**Variation 1 - Story Presentation**: Instead of objects, children create a simple 2-3 page story (or you create one together) and present it page by page. They practice sequencing and narration.
 
-**Phase 3: Audience Participation** (ongoing)
-Other children practice being supportive audience members:
-- Model active listening: nod, smile, make eye contact
-- Teach audience response: "Let's give a big clap!" "Yay! Great job!"
-- For interactive presentations: encourage questions or requests ("Can you tell us another story?" "Show us that dance again!")
+**Variation 2 - Talent Show**: Children present a talent or skill (singing a song, doing a dance, showing a trick) rather than an object. This builds confidence in performance.
 
-**Adult role**:
-- Be a warm, encouraging presence—smile frequently
-- Provide emotional safety: "It's okay to feel nervous; I'm here with you"
-- Ask gentle follow-up questions: "Tell us more about that!" "What happened next?"
-- Don't correct or critique—focus on celebration and courage
-- Offer just enough support to help them succeed, but encourage independence
-- Model the behavior you want to see: kind listening, genuine interest, enthusiastic response
+**Variation 3 - Museum Opening**: Transform the room into a museum where children are the artists presenting their artwork to "visitors." Take turns being the visitor and the presenter.
 
-### Wrap-Up (3-5 minutes)
-
-**Concluding the activity**:
-- Celebrate all presenters: "Everyone was so brave today! I loved hearing from each of you!"
-- Reflection: "What did you like about sharing today?" or "How did you feel when you presented?"
-- Optional: give out simple certificates or special stickers celebrating "Brave Presenter" or similar
-- If recorded, offer to share the video with families or keep for the child's portfolio
-
-**Transition to cleanup**:
-- Children help tidy the presentation space together: "Let's put our chairs back and reset our circle"
-- Frame it positively: "You did such important work today—let's take care of our space together"
-
-## Age Adaptations
-
-### 2-3 years
-**Approach**:
-- Keep presentations VERY short—30 seconds to 1 minute maximum
-- Heavy adult support: you may sit with them as they present
-- Focus on non-verbal forms of sharing: pointing, showing, simple sounds/movements
-- They might present: a favorite toy, a funny face, a simple move, a sound they like
-- Use lots of props and familiar objects to give them something to hold onto
-- Small group or one-on-one presentations work better than large groups (reduces anxiety)
-- Accept pointing, babbling, or gestures as valid "presentations"
-- Don't require words—they can show and move instead
-
-**Duration**: 10-15 minutes total (very short individual turns)
-
-**Adult support**: Very high—sit with them, hold their hand, help them feel safe, do some of the "presenting" with them
-
-### 3-4+ years
-**Extensions**:
-- Presentations can be 2-3 minutes with more detail and storytelling
-- Encourage them to practice beforehand: "What story will you tell?"
-- Add planning element: "Let's draw a picture of your story first, then you can tell it"
-- Introduce simple props or costume pieces to deepen character play
-- Teach them to use a louder voice and look at audience: "Everyone should be able to hear and see you"
-- Encourage longer stories with beginning, middle, end
-- They can present in pairs: "You and your friend can tell a story together"
-- Introduce simple "interview" questions: "Who, what, where, when, why?"
-- Celebrate specific details: "I loved when you said... Tell us more about that part!"
-
-**Duration**: They may engage for 20-30 minutes or longer with good energy and interest
-
-## Extension Ideas for Repeat Play
-
-**Variation 1: Story Theater**
-Children tell a story while others act it out. Child is narrator, others are characters. Builds storytelling skills and gives shy kids a role that feels safer (directing rather than performing).
-
-**Variation 2: Talent Show Theme**
-Create a more formal "show" with a schedule, audience seating, and simple "intermissions" between acts. Children can practice a talent (song, dance, joke, trick) and perform it. Adds structure and excitement.
-
-**Variation 3: Character Show and Tell**
-Children bring a stuffed animal or toy and present AS that character. Child does the voice and movements. Reduces performance anxiety because they're "hiding" behind the character.
-
-**Variation 4: Question and Answer Time**
-Adult or older child asks the presenter questions about their story/idea, and they answer. Builds conversational skills and gives them something to respond to rather than just perform.
-
-**Variation 5: Song and Movement Presentation**
-Focus on singing, dancing, or movement rather than talking. Use songs you know (nursery rhymes, fingerplays) or make up simple movements. Great for kinesthetic learners.
-
-**Thematic variations**:
-- Seasonal themes: "We're putting on a winter show!" or "Fall talent show!"
-- Holiday performances: practice songs or dances for family gatherings
-- Book character presentations: dress up as a favorite book character and act out scenes
-- Travel adventures: "Tell us about a place you've been or want to go"
-- Joke and riddle show: children share jokes or riddles they know
-
-## Cultural Context
-
-**Cultural significance**:
-Public speaking and performance are fundamental forms of human expression found in every culture. Storytelling has been how humans preserve history, share knowledge, and build community for thousands of years. Theater, performance, and presentation are central to cultural celebration and artistic expression across civilizations. Learning to express oneself confidently is valued across cultures as essential to education, community participation, and personal development.
-
-**Exposure to diversity**:
-- Show examples of different performance traditions: music from different countries, storytelling from different cultures, dance styles
-- Discuss how different cultures celebrate with performances: festivals, ceremonies, gatherings
-- Read books featuring performers and storytellers from diverse backgrounds
-- Listen to music and stories from around the world
-- Talk about how people in different places share ideas and express themselves
-
-**Books/Media**:
-- "The Lion and the Mouse" (Aesop's Fables)—classic storytelling with characters
-- "Pete the Cat" by James Dean—great for character performance and singing
-- "Corduroy" by Don Freeman—character a child can relate to and perform as
-- "The Tale of Despereaux" by Kate DiCamillo—beautiful storytelling example
+**Repeat play**:
+- Present the same item multiple times over several days to build confidence
+- Rotate the audience size (start with 1 person, work up to larger groups)
+- Have children practice presentations at mealtimes to family members
+- Create a "presentation portfolio" of items they've successfully presented
 
 ## Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child refuses to present or freezes up with shyness
-**Why**: Stage fright, fear of judgment, or perfectionism are normal developmental experiences; some children need more time to warm up to performance
-**Solution**: Never force participation. Instead, offer: "You don't have to go today—you can watch and maybe try next time." Let them observe first. Then next time, they might sit in the "stage" area but stay quiet. Gradually they'll present. Build confidence with very small steps. Consider one-on-one practice before group presentations. Offer props or "hiding places" like puppets or stuffed animals to reduce exposure.
+**Challenge**: Child is very shy and refuses to stand up or speak in front of others.
+**Solution**: This is developmentally normal for young children. Start with just one trusted adult as the audience. Allow them to sit down. Let them whisper their words first, then gradually encourage a bigger voice. Never force participation. Sometimes being in the audience first helps them warm up. Praise any attempt at communication, no matter how small.
 
-**Challenge**: Child talks too quietly and no one can hear
-**Why**: Shy, anxious, or just naturally soft-spoken; they need practice projecting their voice
-**Solution**: Model a loud, confident voice: "Listen to my big voice!" Practice together: "Now use your big voice like me!" Use a real or pretend microphone to make them feel louder. Have them practice telling the story to just one person first, then a small group, then larger. Praise effort: "You're using such a strong voice today!"
+**Challenge**: Child monopolizes the presentation time, talks too long, or won't stop.
+**Solution**: Set a clear timer (even 30 seconds for young toddlers). Use a bell or chime as a signal that time is up. Make it playful: "The bell just rang—time for next presenter!" Practice the concept of "taking turns" separately. Some children need physical reminders (a hand on their shoulder, moving them gently back to their seat).
 
-**Challenge**: Child's story/presentation is confusing or hard to follow
-**Why**: Language development is still emerging; they may skip steps or jump around with excitement
-**Solution**: Ask gentle questions to help clarify: "What happened first?" "Then what?" This helps them organize their thinking. Don't correct them—just help structure. Accept their version as it is; the goal is expression, not perfection. Over time, with practice, organization improves naturally.
+**Challenge**: Other children in the audience distract the presenter or are disruptive.
+**Solution**: Have a clear rule about audience behavior before starting. Practice "being a good listener" together. If a child can't sit still, give them a job (holding the applause sign, being the bell-ringer). Keep the audience very small for the first few attempts. Seat potentially disruptive children near you for support.
 
-**Challenge**: Other children interrupt, laugh, or don't listen respectfully
-**Why**: Young children are still learning social skills and impulse control; some may feel nervous and react by being silly
-**Solution**: Teach listening skills explicitly: "When someone is presenting, we listen with quiet bodies and kind faces." Practice this together with your own presentations. Use a signal (raising hand, ringing bell) to indicate "presentation time." Redirect interrupting children kindly: "It's [child's] time right now; you can ask a question when they're done." Model active listening enthusiastically so children see what you expect.
+**Challenge**: Child becomes emotional (frustrated, shy, or upset) when presenting.
+**Solution**: Take a break. Offer comfort and reassurance: "It's okay to feel nervous. Everyone feels that sometimes." Don't force them to continue. Try again another day. Never shame a child who gets upset. Present the concept as play, not performance, to reduce pressure.
 
-**Challenge**: Performance anxiety is extreme—child has panic response
-**Why**: Some children have genuine anxiety; pressure to perform can feel overwhelming
-**Solution**: Completely remove performance pressure. Let them participate differently: introduce the presenter, hand out materials, help manage the group. They can present to just one trusted adult. They can present a pretend show with no audience. Progress slowly. Consider this a longer-term goal if the child has significant anxiety. The goal is to build confidence, not traumatize. Some children just need more time.
+### Follow-Up Activities
 
-### Tips for Success
-- **Start small**: Begin with you presenting, then very small individual moments, building up to group presentations
-- **Celebrate effort, not perfection**: "I loved how brave you were!" means more than "That was the best story ever!"
-- **Make it safe to mess up**: If you forget a line, pause, or get silly, model recovery: "Oops, I forgot! Let me try again. That's okay!"
-- **Use props as confidence builders**: Holding something gives nervous kids something to do with their hands and a "hiding place"
-- **Practice beforehand**: Let kids practice their presentation with just you first—they'll be more confident with the group
-- **Give them control**: Let them choose what to share, whether to wear a costume, etc. Control reduces anxiety
-- **Watch for overstimulation**: Group settings can be overwhelming; small groups or one-on-one work better for some kids
-- **Create a "safe audience"**: Start with just family, close caregivers, or one friend rather than strangers
-- **Record presentations**: They can practice watching themselves, which builds confidence and is wonderful to keep for memories
+1. **Daily Sharing at Mealtimes**: Start a family tradition where each person shares one thing from their day at dinner. Model going first with excitement and clear voice.
 
-### What to Do With the Creation
-- **Create a portfolio**: Keep recordings or photos of presentations over time—shows growth and builds confidence when child can see progress
-- **Share with family**: Send video clips or photos to grandparents or relatives who will celebrate enthusiastically
-- **Display certificates or photos**: Put "Brave Presenter" certificates on the wall or in a special book
-- **Practice for repeat performances**: "You did such a great job—would you like to tell that story again for Grandpa?"
-- **Document in learning journal**: Write down the story they told or describe their performance; it's a memory treasure
-- **When to let go**: Don't keep recordings or mementos forever if child doesn't want them; follow their lead on what's special to keep
+2. **Video Recording**: Once children are comfortable, record their presentations on your phone and let them watch themselves. This builds self-awareness and often boosts confidence for the next attempt.
+
+3. **Presentation in Unexpected Places**: Have them present to the family pet, a stuffed animal audience, or a sibling. This takes pressure off perfect presentation and makes it playful.
+
+4. **Listen and Respond**: Practice active listening by having the audience ask one simple question after each presentation: "What was your favorite part?" This teaches children that good communication is two-way.
+
+5. **Real-World Practice**: Point out presenters in daily life: "That person on TV is a presenter—see how they're speaking to us?" Help children recognize public speaking in everyday contexts.
 
 ---
 
-**Category**: Arts & Culture - Performing Arts & Communication
-*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. Remember: the goal is building confidence and joy in self-expression, not perfection or performance quality.*
+**Category**: Communication and Expression
+
+*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. Remember that confidence in public speaking develops gradually over time with repeated, positive experiences.*

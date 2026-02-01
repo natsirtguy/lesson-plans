@@ -1,232 +1,174 @@
-# Arts & Culture Activity: Calendar and Schedule Making
+# KNOWLEDGE, SKILLS & CULTURE: Calendar and Schedule Making
 
 ## Activity Summary
 
-Calendar and schedule making is a creative way to help young children understand the passage of time, anticipate daily events, and develop organizational thinking through visual representation. Children will create personal calendars using drawings, stickers, and symbols to mark special events, daily routines, and days of the week, combining artistic expression with functional planning. This activity builds pre-mathematical understanding, visual sequencing skills, and helps children feel more secure by knowing what to expect in their day.
+Children will explore the concepts of time, sequencing, and daily routines by creating and manipulating their own simple calendars and schedules. Through hands-on activities with visual representations, they'll develop foundational understanding of days of the week, time order, and predictable routines while building skills in planning and sequential thinking.
 
-**Activity Type**: Creative expression and organizational practice
+## Vocabulary
 
-**Duration**: 20-30 minutes (with natural breaks)
+**Sequence**: The order in which things happen one after another. When you eat breakfast, then snack, then lunch, that's a sequence—each meal comes in a special order, like the steps in a dance.
 
-**Mess Level**: Low to Medium (markers, stickers, minimal water for cleanup)
+**Schedule**: A plan that shows what activities will happen at different times. Your daily schedule might show playtime in the morning, snack time at 10 o'clock, and naptime after lunch.
 
-**Best Environment**: Indoor at table or quiet activity area with good lighting
+**Calendar**: A tool that helps us keep track of days, weeks, and months. It shows us today's date, helps us see when special days are coming (like birthdays!), and shows us patterns of days that repeat.
 
-## Complete Activity Setup
+**Routine**: A set of activities you do in the same order at the same time, like getting dressed, eating breakfast, and brushing teeth every morning. Routines help our bodies and brains know what comes next.
+
+## Learning Song
+
+**Tune**: Twinkle, Twinkle, Little Star
+
+**Tempo**: Moderate, steady pace
+
+**Lyrics**
+
+*Verse 1*
+
+Days and weeks in order go
+Monday starts our week, we know
+Tuesday, Wednesday come around
+Thursday, Friday bring new sound
+Seven days that help us best
+Calendars complete the rest
+
+*Verse 2*
+
+Morning comes with schedule clear
+Breakfast time and friends are near
+Things to do throughout the day
+Lunch and rest and playtime stay
+Evening comes and we can see
+Plans for you and plans for me
+
+**Actions/Gestures**:
+
+1. **Days of the week march**: Step or bounce with each day of the week, counting on fingers as you go
+2. **Point to the calendar**: Reach up and point to an imaginary calendar on the wall during the first verse
+3. **Activity motions**: Mime eating breakfast, playing, resting, during the second verse to show schedule activities
+
+## Intro Video Recommendation
+
+**Recommended video**: Search YouTube for "Days of the Week Song for Preschoolers"
+
+**What to look for**:
+- 2-5 minutes long
+- Clear visuals showing each day of the week
+- Colorful, engaging animations or real children
+- Includes days of the week in order
+- Safe, age-appropriate narration
+- Shows daily routine or schedule examples
+
+**Alternative searches**:
+- "Toddler Schedule and Routine Song"
+- "Calendar Time for Preschool and Kindergarten"
+- "Days and Seasons Song for Little Kids"
+
+## Activity
+
+### Activity Overview
+
+Children will create a simple visual calendar and daily schedule using pictures, stickers, or drawings. They'll practice putting events in order, learn to recognize patterns in their weekly routine, and develop an understanding that events happen in a predictable sequence. This hands-on exploration helps build early planning and sequencing skills.
+
+**Activity Type**: Hands-on project with sequencing and visual organization
+
+**Duration**: 15-25 minutes
+
+**Setup time**: 5-10 minutes
 
 ### Materials Needed
 
-**Essential materials**:
-- Large paper or cardboard (11x14 inches or larger) - one per child
-- Markers, colored pencils, or crayons - variety of colors
-- Stickers (optional but highly motivating) - calendar/weather/activity themed
-- Small pictures or photos to glue - cut from magazines or printed
-- Glue stick and tape
-- Index cards or small paper squares for writing days/events
+**Essential**:
+- Paper or cardstock (8.5" x 11" or larger)
+- Markers, crayons, or colored pencils
+- Picture cards or printable icons showing daily activities (breakfast, playtime, naptime, etc.)
+- Stickers (optional but highly engaging)
+- Glue stick or tape
 
-**Optional enhancements**:
-- Laminating sheets or clear packing tape - makes calendar reusable
-- Washi tape or decorative tape - frames sections
-- Brads (split pins) - allows moveable parts
-- Photos from home - personal relevance
-- Watercolor paints - adds artistic depth
-- Spiral binding or string - creates finished look
+**Optional**:
+- Index cards or small cards for individual activities
+- Laminating sheets or clear tape (to make it reusable)
+- Pocket chart or bulletin board for display
+- Photos of the child doing their routine activities
 
-**Cost estimate**: Under $5 (using materials likely on hand)
+**Cost**: Free to Under $10 (mostly uses items you likely have at home)
 
-**Preparation time**: 10-15 minutes
+### Step-by-Step Instructions
 
-### Step-by-Step Setup
+**Preparation**:
 
-**Before starting**:
-1. Gather all materials and arrange in accessible containers
-2. Pre-cut any magazine pictures or photo printouts if using photos
-3. Test markers to ensure they work and aren't dried out
-4. Decide whether you'll use a weekly or monthly format based on child's age
+1. Draw or print simple pictures representing common daily activities: breakfast, getting dressed, playtime, snack time, rest/naptime, outdoor play, meal times, bedtime. Keep pictures simple and clear.
+2. Write day labels (Monday, Tuesday, Wednesday, etc.) on index cards or at the top of your activity paper.
+3. Gather markers, stickers, and glue supplies in an accessible area.
+4. Decide if you're making a weekly calendar, a daily schedule, or both. Start with daily schedule for younger children.
 
-**Environment setup**:
-- Cover table with plastic tablecloth or newspaper for easy cleanup
-- Place markers in easy-access cups (avoid spilling into one container)
-- Arrange large paper in center of workspace
-- Keep stickers/pictures in small containers within child's reach
-- Ensure good lighting so child can see details clearly
+**Activity Flow**:
 
-**Cleaning supplies ready**:
-- Damp cloths for marker cleanup
-- Paper towels
-- Trash container for scraps
+1. **Introduction** (2-3 minutes):
+   - Show the child a simple calendar or schedule. Point out the days and activities.
+   - Ask: "What do we do first in the morning? What comes next? What happens after snack time?"
+   - Explain: "Today we're going to make our own schedule to show all the special things we do."
 
-## Activity Session Structure
+2. **Exploration** (8-12 minutes):
+   - Give the child pictures or let them draw their own activity icons.
+   - Ask them to arrange pictures in order of when things happen during their day.
+   - Glue or tape pictures onto the schedule paper in the correct sequence.
+   - Older children can write time labels (Morning, Afternoon, Evening) or draw clocks.
+   - Encourage decoration with stickers or additional drawings.
 
-### Opening (3-5 minutes)
+3. **Discovery** (3-5 minutes):
+   - Review the completed schedule together: "What comes first?" "What do we do after playtime?"
+   - Point out patterns: "We eat breakfast and lunch every day. Those are on our schedule!"
+   - Ask: "Is there anything else we should add? Do we always do things in this order?"
+   - Talk about how schedules help us know what's coming next and get ready for activities.
 
-**How to introduce and engage**:
-- Show the child a calendar from your home and point out familiar events (birthdays, holidays, special days)
-- Ask: "What happens today? What will we do tomorrow?" to spark thinking about sequencing
-- Explain that you're going to make a special calendar that shows the fun things happening soon
-- Show examples of different calendar styles (weekly, monthly, simple daily)
+4. **Wrap-up** (2-3 minutes):
+   - Display the schedule in a visible place (bedroom, kitchen, playroom).
+   - Talk about how you'll use this schedule tomorrow.
+   - Sing your calendar song together while pointing to the schedule.
+   - Transition to the next activity or preparation for the day.
 
-**Setting expectations**:
-- "We're making a calendar that's yours - it shows YOUR week/month and what you like to do"
-- Emphasize that there's no wrong way to make it - what matters is that it helps you remember
-- Show that drawing or using stickers are both great ways to show what happens each day
-- Explain cleanup will be part of our activity
+### Age Adaptations
 
-### Main Activity (15-20 minutes)
+**2-3 years**:
+Keep it very simple with just 2-3 major activities per day (breakfast, playtime, naptime). Use mostly pictures rather than words. Focus on daily schedule rather than calendar. Let them place or stick pictures with minimal expectation of "correct" order—the process matters more than the result. Keep activities to 10-15 minutes and provide lots of hand-over-hand assistance with gluing and arranging.
 
-**Phase 1: Exploration and Planning** (5-7 minutes)
-- Invite child to look at the blank paper and think about what they want to show
-- Ask: "What days are important? What do you like to do?" to get thinking
-- Let child choose the layout (will it be one line for days? boxes for each day? circular? vertical?)
-- Provide light guidance without directing: "Some kids make a box for each day... others like to make it like a circle"
+**3-4+ years**:
+Create a more detailed schedule with 5-7 activities throughout the day. Introduce day-of-the-week labels and create a weekly mini calendar. Encourage children to predict what comes next and to place items in the correct order independently. Add challenges like: "Can you show when we eat? Can you find two things that happen in the morning?" Create labels together and practice reading them. Make it reusable by using a pocket chart so activities can be moved throughout the week.
 
-**Phase 2: Creating the Structure** (5-8 minutes)
-- Child draws or you lightly mark where days of the week will go
-- Write day names together (Monday, Tuesday, etc.) or use abbreviations (M, T, W)
-- Child decorates around the days with drawings, lines, or borders
-- Encourage artistic choices: "What colors will you use? Do you want to draw anything special?"
+### Extension Ideas
 
-**Phase 3: Adding Events and Details** (5 minutes or ongoing)
-- Child draws or places stickers/pictures to show what happens each day
-- Model some simple symbols: sun for outside time, fork for snack, book for story, bed for sleep
-- Ask about each day: "What happens on Tuesday? How can we show that?"
-- Child can draw, use stickers, or glue pictures
-- Celebrate choices: "I see you put a music note on Friday - music is special!"
+**Variation 1 - Photo Schedule**: Take pictures of your child doing everyday activities (eating, playing, sleeping, getting dressed). Arrange these photos in order to create a personalized photo schedule that's very concrete and meaningful.
 
-**Adult role**:
-- Ask open-ended questions rather than directing
-- Serve as a scribe if child wants to label (writing words they dictate)
-- Offer choices within the activity (colors, placement, symbols)
-- Step back frequently to let child make decisions
-- Avoid making it look "perfect" - embrace child's style
-- Take photos during the process if documenting
+**Variation 2 - Weekly Calendar**: Create a larger calendar showing all seven days of the week. Add stickers or drawings for special events (music class on Wednesday, library on Tuesday, grandparent visit on Saturday). Help the child count days until a special event.
 
-### Wrap-Up (3-5 minutes)
-
-**Concluding the activity**:
-- Invite child to explain their calendar: "Tell me about your calendar. What did you make?"
-- Point out specific things you notice: "I see you used lots of colors on Friday!"
-- Ask: "What's something special that happens this week on your calendar?"
-- If laminating/preserving, explain this will help the calendar last longer
-
-**Transition to cleanup**:
-- "Now we take care of our table, just like we take care of our calendar"
-- Child helps gather materials, wipe markers, throw away scraps
-- Store calendar somewhere accessible for reference during the week
-
-## Age Adaptations
-
-### 2-3 years
-**Approach**:
-- Focus on a single day or 2-3 day calendar rather than a full week
-- Use very simple symbols (smiley face, circle with color for activities)
-- Provide pre-drawn boxes or structures to fill in (less structure to manage)
-- Emphasize stickers and picture placement over drawing and writing
-- Offer thick markers that are easier to grip
-- Keep vocabulary simple: "This is today, this is tomorrow"
-
-**Duration**: 15-20 minutes with more breaks
-
-**Adult support**:
-- Significant guidance with structure and decision-making
-- Heavy hand-over-hand support for fine motor work if needed
-- Scribe all labeling
-- Offer mostly closed choices ("Which sticker - the sun or the star?")
-
-### 3-4+ years
-**Extensions**:
-- Create full week or month calendars with seven or more days
-- Introduce simple writing of day names or event labels
-- Add more complex symbols and details (weather symbols, activity icons)
-- Include predictable events (story time, snack, outdoor play) across multiple days
-- Create a second calendar showing what happened during the week in retrospect
-- Use lamination or clear plastic to make reusable calendar with dry-erase markers
-- Add interactive elements: moveable pieces with brads, flaps to lift
-
-**Duration**: 25-35 minutes or multiple sessions
-
-**Independence**: Child can largely direct the project with minimal prompts from adult
-
-## Extension Ideas for Repeat Play
-
-**Variation 1 - Weekly Ritual**:
-Make calendar-making part of your weekly routine (every Sunday evening, for instance). Child creates a new calendar each week, comparing this week to previous weeks. This builds repetition, recognizes patterns, and creates a ritual.
-
-**Variation 2 - Calendar Chains**:
-Use paper strips or construction paper links to create a countdown calendar. Each link represents a day until a special event. Child decorates a link each morning and removes it, building anticipation and understanding of time passage.
-
-**Variation 3 - Interactive Pocket Calendar**:
-Create a calendar with small pockets (using paper folded and glued) where small cards with pictures or symbols can be inserted to show different activities. Child can rearrange and change activities as plans change, building flexibility.
-
-**Variation 4 - Weather Calendar**:
-Make a calendar focused on weather observations. Child draws or places stickers showing sunny/rainy/cloudy/snowy days as they occur. Combines calendar skills with science observation.
-
-**Variation 5 - Family Schedule Board**:
-Create a larger calendar showing where each family member is during the day (work, school, home, activities). Uses photos and simple icons. Helps child understand the larger family rhythm.
-
-**Thematic variations**:
-- Seasonal calendars highlighting seasonal activities and changes
-- Holiday countdown calendars with special decorations
-- Birthday calendar showing family and friend birthdays across the year
-- School year calendar marking special events and holidays
-
-## Cultural Context
-
-**Cultural significance**:
-Calendars and time-keeping are fundamental to human organization across all cultures. Different cultures have developed diverse calendar systems (lunar, solar, agricultural, celestial) reflecting their values and relationship to nature. Teaching children to plan and organize through visual schedules connects them to this ancient human practice of organizing time, seasons, and community events. Creating personal calendars also helps children feel agency and predictability in their world.
-
-**Exposure to diversity**:
-- Show calendars from different cultures (lunar calendars, indigenous calendars, modern variations)
-- Highlight different cultural celebrations and holidays on a multi-cultural calendar
-- Discuss how different cultures mark important seasons (planting, harvesting, weather changes)
-- Explore family traditions and special events that are unique to your family's cultural background
-- Talk about how different families organize their time and what matters to each family
-
-**Books/Media**:
-- "Today is Monday" by Eric Carle - explores days of the week
-- "The Very Hungry Caterpillar" by Eric Carle - follows a clear timeline of events
-- Calendars and planner books designed for preschoolers
+**Repeat Play**: Update the schedule as seasons and routines change. Create new versions for different seasons (summer schedule, winter schedule). Let the child lead you through the schedule throughout the week: "It's morning time! What comes first?"
 
 ## Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child is frustrated with drawing or wants everything to look perfect
-**Why**: This age often has high expectations but limited fine motor control. The gap between what they envision and what they can create causes frustration.
-**Solution**: Heavily emphasize that this calendar is for function, not appearance. Use stickers, pictures, and symbols instead of requiring drawing. Celebrate the meaning ("You showed what you like to do!") rather than artistic quality. Help child focus on the purpose: helping them remember what's happening.
+**Challenge**: The child doesn't put activities in the correct order or doesn't care about sequence.
 
-**Challenge**: Child doesn't understand what to put on calendar - seems confused about what activities to show
-**Why**: Planning and visualization are emerging skills at this age. Child may not naturally think ahead to future events or remember daily routines.
-**Solution**: Ask very specific questions: "What do we do after breakfast? What's your favorite time of day? When do we go outside?" Help them think of 2-3 specific things they do repeatedly. Start with immediate, concrete events (today, tomorrow) rather than abstract "this week."
+**Solution**: This is developmentally normal for younger toddlers (2-2.5 years). The goal at this stage is simply exposure to the concept, not perfect accuracy. You can gently suggest correct order ("We eat breakfast before lunch"), but don't insist. They're still learning that events happen in patterns.
 
-**Challenge**: Child wants to include too many things and becomes overwhelmed
-**Why**: Initial enthusiasm combined with limited ability to prioritize or organize creates overload.
-**Solution**: Gently redirect: "We have room for three favorite things on our calendar. Which three are most special?" Help them choose the most important or loved activities. Reassure them: "We can make a new calendar next week and include different things."
+**Challenge**: The child wants to change the schedule constantly or becomes upset when actual activities don't match the schedule.
 
-**Challenge**: Calendar is hard to use or understand after it's created
-**Why**: The child may have lost interest once creation was done, or the symbols aren't meaningful to them.
-**Solution**: Actually use the calendar daily - point to today's date and upcoming events during the day. Ask "What's happening today? What comes tomorrow?" Reference it frequently. If symbols aren't working, adjust them with child's help. Make it functional, not decorative.
+**Solution**: Real life rarely goes exactly as planned! Show flexibility and talk about how our schedule is "a plan, but sometimes things change." Use language like "After this activity, our plan is..." rather than insisting the schedule must be exact. Adapt the schedule together when changes happen.
 
-### Tips for Success
-- Start simple: a 2-3 day calendar is more successful than a full month for younger children
-- Use a mix of methods: some drawing, some stickers, some pictures - this accommodates all skill levels
-- Keep the calendar visible and accessible - it needs to be referenced regularly to have meaning
-- Use actual events from the child's real life, not generic activities
-- Celebrate the process and purpose ("You made a calendar to help you remember!") more than the product
-- Create calendars frequently (weekly is better than once a year) so it becomes a familiar routine
-- Involve family members: ask them what they want on the family calendar
+**Challenge**: The activity feels too long or the child loses interest before finishing.
 
-### What to Do With the Creation
-- Display the calendar at child's eye level where they can see it throughout the day
-- Laminate it if you want to reuse it and mark days off with dry-erase markers
-- Keep it accessible as a reference tool when the child asks "What's happening today?"
-- Take a photo to keep in a portfolio of child's work
-- Don't pressure child to "finish" or make it perfect - a work-in-progress calendar still serves its purpose
-- When a new time period starts (new week/month), celebrate completing the old calendar and move to a new one rather than just replacing it
-- If child loses interest, store it and try again in a few weeks - the skill is developing
+**Solution**: Reduce the number of activities shown (aim for 3-5 for younger children). Make it faster by pre-drawing or printing pictures. Let them choose which activities to include. Stop and continue another day—there's no rush to complete it all at once.
+
+### Follow-Up Activities
+
+1. **Daily schedule reference**: Throughout the day, point to the schedule and say "It's time for... Look, we're doing what our schedule shows!" This builds the connection between the visual representation and real time.
+
+2. **Create a calendar together**: Add one sticker or drawing each day to a monthly calendar. Count down to special events together. This builds understanding of weeks and months.
+
+3. **Talk about routines**: Help your child notice their own routines: "Every morning we get dressed, eat breakfast, then brush teeth. That's our routine!" Point out how routines help us get ready and know what comes next.
 
 ---
 
-**Category**: Planning and Organization
+**Category**: Knowledge, Skills & Culture - Cognitive and Mathematical Systems
 
 *For children ages 2-4+ years. Adapt to your child's developmental stage and interests.*
