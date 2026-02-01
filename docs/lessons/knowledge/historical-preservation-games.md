@@ -16,32 +16,28 @@ Children explore the concept of keeping treasures safe and caring for special th
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Steady and flowing
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-We keep treasures safe and sound
-Caring for each special thing
-Gentle hands and gentle touch
-Makes our treasures stay so bright
-Safe and warm and tucked away
-Treasures that we love so much
+Preserve, preserve, treasures dear
+Gentle hands with loving care
+Protecting all our special things
+Keeping them safe everywhere
 
 *Verse 2*
-Collections growing all the time
-Pretty things we find and save
-Rocks and shells and bits of joy
-Organized with loving care
-Every treasure has its place
-Where it shines and can be found
+Collections make our treasures grow
+Organized with gentle hands
+Everything has its own place
+Protected by our loving plans
 
 **Actions/Gestures**:
-1. Cradle hands gently in front of chest (protecting treasures safely)
-2. Make collecting motion with both hands (gathering and finding items)
-3. Arrange hands in organizing motions, placing items side by side (organizing collection)
+1. Cradle hands gently in front of chest to show protecting treasures
+2. Make rowing motions while singing to match the boat tune
+3. Cup hands together and bring to chest to show holding treasures safely
 
 ## Intro Video Recommendation
 

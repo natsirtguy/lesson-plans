@@ -16,32 +16,28 @@ Children will explore the concepts of heat and cold through sensory experiences 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
 **Tempo**: Slow and gentle
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Hot things make me warm and bright
-Cold things feel so fresh and light
-Sun is hot up in the sky
-Ice cream cold, I wonder why
-Temperature tells me what I feel
-Hot or cold, both are real
+Hot, hot, hot feels warm,
+Cold, cold feels so cool,
+Temperature tells what we sense,
+Thermal sensations rule.
 
 *Verse 2*
-Blankets warm me while I sleep
-Cold outside when snow is deep
-Mittens keep my hands so nice
-Warm cocoa melts the icy ice
-Hot and cold I now can say
-Learning temperatures every day
+Sun is hot up in the sky,
+Ice cream cold so nice,
+Blankets warm us when we sleep,
+Insulation, oh so nice!
 
 **Actions/Gestures**:
-1. Hug yourself and shiver when singing about cold, showing a brrrr motion with your shoulders
+1. Hug yourself and shiver when singing about cold, showing a brrrr motion with shoulders
 2. Wave your arms wide and stretch when singing about hot, as if spreading warmth outward
-3. Touch different surfaces (warm blanket, cold spoon, cool water) as you point to them during the verses
+3. Touch different surfaces (warm blanket, cold spoon, cool water) as you point to them
 
 ## Intro Video Recommendation
 

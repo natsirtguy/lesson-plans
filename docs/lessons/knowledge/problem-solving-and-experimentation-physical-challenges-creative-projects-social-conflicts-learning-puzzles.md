@@ -16,32 +16,28 @@ Children explore the joy of trying new ideas, learning from mistakes, and workin
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
 **Tempo**: Moderate and encouraging
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-When you try new things today
-Problems help you find the way
-Stack them up so very high
-Watch your building touch the sky
-Each new try is something great
-You can solve it yes you can
+When you face a challenge hard, try experiment
+Problem-solve and persist, that's what learning meant
+Keep on trying different ways, never give up hope
+When you face a challenge hard, you will learn to cope
 
 *Verse 2*
-Keep on trying, don't you stop
-Learning happens when you play
-Each mistake will show the way
-Build and try and test it out
-Puzzles, challenges so fun
-Problem-solving has begun
+Build it up and watch it fall, that's okay to do
+Experiment with new ideas, challenges help you
+Persist and try again my friend, problem-solve with care
+Every challenge that you face makes you more aware
 
 **Actions/Gestures**:
-1. Try different hand positions (open, closed, pointing) while singing about trying new things
-2. Stack arms up high like building blocks when singing about building
-3. Tap fingers together like solving puzzles when singing about problem-solving
+1. Try stacking hands upward like building and experimenting
+2. Knock hands down gently when something falls, then rebuild
+3. Tap temple with finger to show thinking and problem-solving
 
 ## Intro Video Recommendation
 

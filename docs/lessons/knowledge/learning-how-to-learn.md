@@ -16,36 +16,36 @@ This lesson introduces young children to the foundational idea that learning is 
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Upbeat and playful
+**Tempo**: Active and encouraging
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-1. I can ask a question, why? (i-can-ask-a-ques-tion-why = 7 syllables)
-2. Curl-i-ous, I won-der why (curl-i-ous-i-won-der-why = 7 syllables)
-3. Try and fail, then try a-gain (try-and-fail-then-try-a-gain = 7 syllables)
-4. Learn-ing makes my smart-er brain (learn-ing-makes-my-smart-er-brain = 7 syllables)
-5. Watch and see what I can do (watch-and-see-what-i-can-do = 7 syllables)
-6. Learn-ing is ex-cit-ing too! (learn-ing-is-ex-cit-ing-too = 7 syllables)
+Curious, explore, persist, observe
+Persist, observe
+Curious, explore, persist, observe
+Persist, observe
+When I'm learning something new
+I keep trying, yes I do
+Curious, explore, persist, observe
+Persist, observe
 
 *Verse 2*
-
-1. Ev-ery mis-take helps me grow (ev-ery-mis-take-helps-me-grow = 7 syllables)
-2. Ex-plore and see what I can know (ex-plore-and-see-what-i-can-know = 7 syllables)
-3. Per-sist and nev-er give it up (per-sist-and-nev-er-give-it-up = 7 syllables)
-4. My brain's a cup that fills right up (my-brain's-a-cup-that-fills-right-up = 7 syllables)
-5. Ob-serve the world both near and far (ob-serve-the-world-both-near-and-far = 7 syllables)
-6. I'm learn-ing like a bright, bright star! (i'm-learn-ing-like-a-bright-bright-star = 7 syllables)
+Ask questions, try again, never stop
+Never stop
+Ask questions, try again, never stop
+Never stop
+When I explore the world around
+New things are waiting to be found
+Curious, explore, persist, observe
+Persist, observe
 
 **Actions/Gestures**:
-
-1. **Curious hands**: Hold hands near face with fingers wiggling, like a light bulb turning on in your mind
-2. **Explore gesture**: Make sweeping motions with arms, as if looking around and discovering new things
-3. **Persist fist pump**: Make a fist and pump arm up with determination, showing strength to keep trying
-4. **Observe eyes**: Shade eyes with hand and look carefully, like scanning the horizon or examining something closely
+1. Point to head on "curious" to show thinking and wondering
+2. Spread arms wide on "explore" like discovering new things
+3. Pump fists with determination on "persist" to show not giving up
 
 ## Intro Video Recommendation
 

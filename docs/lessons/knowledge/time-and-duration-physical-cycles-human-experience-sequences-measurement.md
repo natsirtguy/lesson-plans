@@ -22,32 +22,28 @@ Select 3-4 vocabulary words that:
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and steady
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-First we wake up in the morning
-Sun comes up without a warning
-Time moves on throughout the day
-In its own special way
-Cycles turn both night and day
-Over and over, come what may
+Time flows on and on
+In a sequence clear
+Each event has a duration
+Cycles through the year
 
 *Verse 2*
-One then two then three things happen
-Events follow in a pattern
-First we play and then we eat
-Time helps make our day complete
-Watch the seasons as they pass
-Every year comes round at last
+Watch the intervals
+Between each thing we do
+Morning, afternoon, and night
+Patterns coming through
 
 **Actions/Gestures**:
-1. Make a big circle with arms for "cycles" - move arms in a continuous circle
-2. Hold up fingers in sequence (1, 2, 3) while saying "one then two then three"
-3. Slowly sweep arm from left to right like the sun rising and setting across the sky
+1. Make circular motions with arms during "cycles through the year"
+2. Hold up fingers counting "one, two, three" during "sequence"
+3. Sweep arm across like sun moving during "morning, afternoon, and night"
 
 ## Intro Video Recommendation
 

@@ -16,34 +16,28 @@ Children explore the world of circus arts by learning fundamental movement patte
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Upbeat and playful
+**Tempo**: Lively and energetic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Acrobats are tumbling down
-Spinning high above the ground
-Watch them flip and watch them leap
-Doing tricks both strong and deep
-Circus fun for me and you
-There's so much that we can do
+If you're ready to perform, strike a pose
+If you're ready to perform, strike a pose
+Acrobats can flip and spin, showing flexibility and grin
+If you're ready to perform, strike a pose
 
 *Verse 2*
-
-Tightrope walkers balance well
-Juggling balls that we can tell
-Clowns are funny wild and free
-Moving just like you and me
-Cartwheels, stretches, twist and bend
-Circus fun will never end
+See the circus movements here, watch us balance
+See the circus movements here, watch us balance
+Walking high up on the wire, skills we practice and admire
+See the circus movements here, watch us balance
 
 **Actions/Gestures**:
-1. Tumbling motion: Roll hands in circles like doing a somersault
-2. Balance pose: Stand on one leg and reach up high like walking a tightrope
-3. Juggling circles: Make circular motions with both hands, alternating arms
+1. Strike a performance pose with arms out during "strike a pose"
+2. Roll hands in circles during "flip and spin" like tumbling
+3. Stand on one leg with arms out during "watch us balance"
 
 ## Intro Video Recommendation
 

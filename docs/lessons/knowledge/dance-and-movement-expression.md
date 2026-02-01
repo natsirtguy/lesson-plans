@@ -16,28 +16,32 @@ Children explore creative movement and self-expression through dance, developing
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate (easy to move to, not rushed)
+**Tempo**: Upbeat and danceable
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Dance and move your body now (7 syllables)
-Sway and spin around and round (7 syllables)
-Listen to the rhythm strong (7 syllables)
-Move your body to the song (7 syllables)
+Move and dance, feel the rhythm
+Sway your body to and fro
+With expression show your feelings
+Let your balance help you grow
+Move your feet and clap your hands now
+Dancing is the way to go
 
 *Verse 2*
-Reach your arms up to the sky (7 syllables)
-Stretch and jump and touch the ground (7 syllables)
-Hop and skip and take a leap (7 syllables)
-Dancing makes your happy heart (7 syllables)
+Learn the steps, choreography
+Moving in a special way
+Feel the rhythm, find your balance
+Dance and move throughout the day
+Express yourself with every motion
+Dancing is the way to play
 
 **Actions/Gestures**:
-1. Sway side to side while singing, moving hips gently with the beat
-2. Stretch arms up high on "Reach your arms up to the sky," then bend down low on "touch the ground"
-3. Hop or jump lightly during the second verse, matching the rhythm
+1. Sway body side to side for "feel the rhythm"
+2. Stand on one foot briefly for "balance"
+3. Do simple dance steps or movements for "choreography"
 
 ## Intro Video Recommendation
 

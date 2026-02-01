@@ -18,32 +18,36 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Moderate and reassuring
+**Tempo**: Gentle and reassuring
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Safe-ty keeps us strong and sound
-We can trust the grown-ups 'round
-When we feel a lit-tle scared
-There's a safe one who has cared
-Wear your hel-met, hold my hand
-Safe-ty helps us un-der-stand
+We stay safe and we stay alert
+Protected every day
+We can trust the grown-ups here
+They keep danger away
+We wear helmets and we hold hands tight
+Being safe feels right
+We stay safe and we stay alert
+Protected day and night
 
 *Verse 2*
-Pro-tect your heart, your mind, your skin
-Stay a-way from dan-ger's spin
-E-nvi-ron-ment needs care so true
-Safe-ty starts with me and you
-Lis-ten close and stay a-lert
-Safe-ty keeps us from get-ting hurt
+When we're careful we're protected
+From the things that harm
+We can trust a caring grown-up
+They will keep us warm
+We stay alert and watch around
+Safety can be found
+When we're careful we're protected
+Safe and sound and sound
 
 **Actions/Gestures**:
-1. Make a "safe" hug gesture around yourself when singing about protection
-2. Point to your head when mentioning "helmet" and mime putting one on
-3. Hold hands with an imaginary friend and sway side-to-side for "holding hands safely"
+1. Hug yourself for "protected" and "safe"
+2. Point to eyes for "alert" and look around carefully
+3. Reach hands out to an adult or pretend to hold hands for "trust"
 
 ## Intro Video Recommendation
 

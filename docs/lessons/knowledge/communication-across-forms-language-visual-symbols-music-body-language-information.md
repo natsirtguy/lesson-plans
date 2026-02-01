@@ -16,35 +16,26 @@ Children explore how we send and receive messages in many different ways - throu
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Slow and gentle
+**Tempo**: Cheerful and moderate
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-We can talk and we can sing
-We can dance and we can swing
-We can point and we can wave
-Show our feelings being brave
-All these ways to say hello
-Ways that help our loved ones know
+We communicate with words, talk and sing, talk and sing
+We communicate with words
+We express ourselves
 
 *Verse 2*
-
-Pictures, symbols, sounds so true
-Body language tells us too
-Smile to show that we are glad
-Frown can show when we are sad
-Many ways to send our care
-Messages we send everywhere
+We use symbols and gestures too, wave and point, wave and point
+We use symbols and gestures too
+Share our messages
 
 **Actions/Gestures**:
-
-1. Wave your hand back and forth for "hello" and "goodbye"
-2. Point your finger in different directions to show "where" and "which way"
-3. Make exaggerated facial expressions - big smile, surprised face, sad face - to show different feelings
+1. Point to mouth during "words" and "talk and sing"
+2. Wave hand and point finger during "symbols and gestures" and "wave and point"
+3. Make a big smile and thumbs up during "express ourselves" and "share our messages"
 
 ## Intro Video Recommendation
 

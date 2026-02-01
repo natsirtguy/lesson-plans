@@ -16,35 +16,35 @@ This lesson introduces young learners to foundational fact-checking skills throu
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate, encouraging and thoughtful
+**Tempo**: Cheerful and playful
 
-**Lyrics**:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Look and look and see what's true (look-and-look-and-see-what's-true = 7)
-Is it real? Let's check it too (is-it-real-let's-check-it-too = 7)
-Touch it, taste it, hear the sound (touch-it-taste-it-hear-the-sound = 7)
-See what clues that we have found (see-what-clues-that-we-have-found = 7)
-Ask a question, test it out (ask-a-ques-tion-test-it-out = 7)
-That's what fact-checking's all about (that's-what-fact-check-ing's-all-a-bout = 7)
+We can verify what's true
+By observation too
+With evidence we find
+Predictions on our mind
+Here's a clue, there's a clue
+Testing everything we do
+Fact checking helps us learn today
 
 *Verse 2*
-
-Every question makes us smart (ev-ery-ques-tion-makes-us-smart = 7)
-Being curious is a start (be-ing-cu-ri-ous-is-a-start = 7)
-Look for proof and clues so bright (look-for-proof-and-clues-so-bright = 7)
-Finding truth feels really right (find-ing-truth-feels-real-ly-right = 7)
-Verify and test all day (ver-i-fy-and-test-all-day = 7)
-That is the fact-checking way (that-is-the-fact-check-ing-way = 7)
+We observe with careful eyes
+Looking for the truth inside
+With evidence so clear
+Predictions far and near
+See it here, feel it there
+Verification everywhere
+Fact checking is the best way
 
 **Actions/Gestures**:
-
-1. **Looking carefully** - Cup your hand above your eyes like an explorer scanning the horizon, then point at details around you
-2. **Testing it out** - Pretend to hold something, examine it with both hands, bring it close and far from your face
-3. **Asking questions** - Raise your hand to your chin in a thinking pose, then open your arms wide with a questioning expression
+1. On "verify"—make checkmark gesture with hand
+2. On "observation"—cup hands around eyes like binoculars
+3. On "evidence"—point to objects and nod knowingly
+4. On "predictions"—tap head and then point forward
 
 ## Intro Video Recommendation
 

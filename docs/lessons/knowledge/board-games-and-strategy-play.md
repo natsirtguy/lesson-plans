@@ -16,32 +16,32 @@ Through simple board games, children develop turn-taking skills, practice waitin
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and engaging
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-We play games with friends today,
-Moving pieces in our way,
-Roll the dice and count them true,
-Choose your moves, there's much to do,
-Think ahead now, plan our way,
-Games bring joy to every day.
+Playing games we use strategy
+Taking turns with friends
+Anticipate what happens next
+Cooperative play begins
+With a roll roll here and a move move there
+Here a turn, there a turn, everywhere we share
 
 *Verse 2*
-Take your turn and have your say,
-Wait your turn, let others play,
-Listen well to every rule,
-Winning's fun, but teamwork's cool,
-Celebrate with friends so dear,
-Playing games brings happy cheer.
+Board games teach us how to wait
+Following the rules
+Turn-taking helps us all play fair
+Learning patience tools
+With a think think here and a plan plan there
+Here a game, there a game, playing everywhere
 
 **Actions/Gestures**:
-1. Pretend to roll dice and move a game piece forward with big exaggerated movements
-2. Hold one finger to your chin in a thinking pose when you say "Think ahead"
-3. Clap together with both hands when you say "happy cheer" at the end
+1. Pretend to roll dice with enthusiastic rolling motions
+2. Point to yourself then to a friend to show turn-taking
+3. Tap your temple with one finger to show strategic thinking and planning ahead
 
 ## Intro Video Recommendation
 

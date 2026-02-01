@@ -16,30 +16,28 @@ Children explore common household and workshop tools through safe, supervised pl
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
 **Tempo**: Moderate and steady
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Screwdrivers and hammers too,
-Tools will help us all we do,
-Twist and turn and tap them down,
-Keep them safe and sound and well.
+Tools, tools, help us build
+Hammer taps and screwdriver spins
+Each one has a special function
+Keep them clean, preserve with care
 
 *Verse 2*
-
-Wipe the dirt off every tool,
-Put them back into their place,
-When we care and keep them clean,
-Tools will work for us for years.
+Maintenance keeps our tools strong
+Craftsmanship means using them right
+Wipe them down and put them away
+Tools will help another day
 
 **Actions/Gestures**:
-1. Pretend to twist a screwdriver with a rotating motion of your hand
-2. Gently tap the floor with an imaginary hammer using an open palm
-3. Wipe your hands together as if polishing and caring for something precious
+1. Pretend to twist a screwdriver while singing about "screwdriver spins"
+2. Gently tap with imaginary hammer during "hammer taps"
+3. Wipe hands together to show cleaning during "wipe them down"
 
 ## Intro Video Recommendation
 

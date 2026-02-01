@@ -16,32 +16,28 @@ Children will explore basic geometric shapes through sensory investigation, patt
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Cir-cle, cir-cle, round and round (7 syllables)
-Roll-ing, roll-ing on the ground (7 syllables)
-Smooth and curve all the way (7 syllables)
-No cor-ners here to-day (7 syllables)
-Cir-cle, cir-cle, round and round (7 syllables)
-Cir-cle is my fa-vor-ite shape (7 syllables)
+Circle, circle, round and round
+No corners can be found
+Square has four sides all the same
+Shapes are everywhere
 
 *Verse 2*
-Square and tri-an-gle, rec-tan-gle too (7 syllables)
-Cor-ners point-ing out at you (7 syllables)
-Four sides here and three sides there (7 syllables)
-Sha-pes are ev-ery-where (7 syllables)
-Geo-me-try is fun to find (7 syllables)
-Sha-pes that make us use our mind (7 syllables)
+Triangle has three sides straight
+Rectangle is great
+Find the circle, square, and more
+Shapes we all adore
 
 **Actions/Gestures**:
-1. Make a large circle with both arms extended, rotating them around to trace a circle
-2. Make four corners with fingers and arms to show square and rectangle shapes
-3. Touch nose, then two lower points with fingers to create triangle shape
+1. Trace a large circle in the air with both hands for "circle"
+2. Make four corners with fingers to show "square" and "rectangle"
+3. Touch three points in the air to form a "triangle" shape
 
 ## Intro Video Recommendation
 

@@ -16,28 +16,30 @@ Children explore space and astronomy through sensory, imaginative activities tha
 
 ## Learning Song
 
-**Tune**: Are You Sleeping (Frère Jacques)
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and wonder-filled
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Stars are shining, stars are shining,
-In the night, in the night,
-Twinkling, sparkling, twinkling, sparkling,
-Bright, so bright, bright, so bright.
+If you see the stars that twinkle, point up high
+If you see the stars that twinkle, point up high
+All the celestial lights above
+Shining down with gentle love
+If you see the stars that twinkle, point up high
 
 *Verse 2*
-Galaxies are dancing, galaxies are dancing,
-Far away, far away,
-We can paint the stars now, we can paint the stars now,
-Come and play, come and play.
+Can you find a constellation in the sky
+Can you find a constellation in the sky
+The galaxy is oh so far
+Every twinkling little star
+Can you find a constellation in the sky
 
 **Actions/Gestures**:
-1. Wiggle fingers up high like twinkling stars
-2. Make big sweeping arm motions like stars dancing across the sky
-3. Pretend to paint in the air with a brush
+1. Wiggle fingers above head when singing about stars that twinkle
+2. Point upward when singing about celestial objects in the sky
+3. Trace imaginary constellation patterns in the air when singing about galaxy and constellations
 
 ## Intro Video Recommendation
 

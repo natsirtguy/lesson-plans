@@ -18,33 +18,34 @@ Select 3-4 vocabulary words that expand beyond basic toddler language while rema
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Upbeat and playful
+**Tempo**: Energetic and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Forests tall with trees so green
-Where the animals like to be seen
-Deserts hot with sand so gold
-Stories that the dunes have told
-Each environment is special and true
-Different places, different homes for me and you
+Forest, desert, ocean, peaks
+Ocean, peaks
+Forest, desert, ocean, peaks
+Ocean, peaks
+Every environment and landscape too
+Terrain and adaptation
+Help things grow
 
 *Verse 2*
-Mountains high up in the sky
-Where the eagles soar and fly
-Oceans deep with waves so blue
-Fish and whales live there too
-Forests, deserts, oceans, mountains all around
-Different environments, different life is found
+Mountains high and deserts dry
+Deserts dry
+Oceans wet and forests green
+Forests green
+Environments have different terrain
+Animals adapt there
+All around
 
 **Actions/Gestures**:
-1. For "Forests": Make tall tree shapes with arms reaching up overhead
-2. For "Deserts": Make a flat ground line with hand, then wiggle fingers like sand
-3. For "Mountains": Make peaked shapes with both hands pointing upward
-4. For "Oceans": Make wave motions with arms flowing side to side
+1. Point up high for "forest" (tall trees), down low for "desert" (sand), make waves for "ocean", and peaks with hands for "mountains"
+2. Sweep arms wide on "environment" to show the whole landscape
+3. Walk in place on "terrain" and make growing motions on "adaptation" to show how things change to fit their environment
 
 ## Intro Video Recommendation
 

@@ -16,28 +16,30 @@ Children collect natural items during an outdoor walk and arrange them into a cr
 
 ## 🎵 Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and gentle
+**Tempo**: Moderate and steady
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-In the garden, look around (7 syllables)
-Nature treasures on the ground (7 syllables)
-Leaves and twigs and stones so bright (7 syllables)
-So arrange them, what a sight (7 syllables)
+On our walk, we observe
+Leaves and stones, what textures they have
+With our hands we pick them up with care
+Arrange our display everywhere
+Nature treasures we can share
 
 *Verse 2*
-Watch the colors, shapes, and forms (7 syllables)
-In the garden, outside doors (7 syllables)
-Every walk brings joy and grace (7 syllables)
-Your display makes special place (7 syllables)
+Look and see what we found
+Pretty things upon the ground
+With our eyes we observe them all
+Big and little, short and tall
+Display them standing proud and tall
 
 **Actions/Gestures**:
-1. Walk in place while swinging both arms side to side (like collecting treasures as you walk)
-2. Bend down and pick something up with both hands, then hold it carefully (gathering and carrying items)
-3. Spread both hands apart slowly in front of you (arranging and displaying your treasures)
+1. Walk in place during "on our walk" to show collecting
+2. Reach down and pretend to pick up objects with both hands
+3. Arrange imaginary items in front of you with careful placing motions
 
 ## 📺 Intro Video Recommendation
 

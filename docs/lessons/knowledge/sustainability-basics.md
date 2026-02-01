@@ -16,32 +16,36 @@ Children will explore the concept of caring for our planet through simple, senso
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and caring
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Care for Earth in all we do
-Reuse and recycle, old and new
-Save the water, save the trees
-Help the planet, if you please
-Care for Earth in all we do
-Every day in all we do
+We can be sustainable
+Using things again
+Biodegradable things
+Return to earth, my friend
+We conserve our water
+And repurpose what we find
+Taking care of planet Earth
+We keep it in our mind
 
 *Verse 2*
-Pick up litter, keep it clean
-Help to keep our world so green
-Share your toys and share your things
-See what happiness it brings
-Care for Earth in all we do
-Every day in all we do
+Reuse the jars and boxes
+Give them a new life
+Conserve the things we have
+Reduce our waste and strife
+Sort what's biodegradable
+Back to nature's way
+Being sustainable
+Every single day
 
 **Actions/Gestures**:
-1. Hug yourself gently while singing "Care for Earth" to show loving the planet
-2. Pretend to put something in a recycling bin and make a swirling motion with hands
-3. Sweep arms upward and outward to show plants and trees growing tall
+1. Hug yourself during "taking care of planet Earth"
+2. Pretend to sort items into bins during "sort what's biodegradable"
+3. Make circular motion with hands for "reuse" and "repurpose"
 
 ## Intro Video Recommendation
 

@@ -16,32 +16,30 @@ Children create and maintain a simple picture diary to document their daily expe
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and thoughtful
+**Tempo**: Thoughtful and warm
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can draw my day so bright
-Pictures show what's in my heart
-Stories that I can recall
-Memories inside my book
-Every page shows who I am
-My journal is my treasure
+When I chronicle my day, draw and write
+When I chronicle my day, draw and write
+All my memories I save
+Every picture that I made
+When I chronicle my day, draw and write
 
 *Verse 2*
-Colors, stickers, words so small
-Drawing what I love and see
-Every day a new page turns
-Marking moments that I keep
-My heart speaks through all my art
-Growing up, my stories strong
+I can reflect on what I did, yes I can
+I can reflect on what I did, yes I can
+My expression shows the way
+All the feelings from today
+My journal holds my memories, yes it can
 
 **Actions/Gestures**:
-1. Pretend to draw or write on an open hand like a page of a book
-2. Place both hands on heart, then open them outward like opening a book
-3. Point to self proudly, then make a big sweeping motion as if showing off pages of a journal
+1. Pretend to draw on an open palm like a journal page on "draw and write"
+2. Point to head and then heart on "reflect" to show thinking about feelings
+3. Hug arms around self on "my journal holds my memories" like holding something precious
 
 ## Intro Video Recommendation
 

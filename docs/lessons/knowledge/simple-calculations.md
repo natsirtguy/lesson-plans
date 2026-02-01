@@ -18,32 +18,36 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 
 ## 🎵 Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Slow and gentle with clear pauses between phrases
+**Tempo**: Gentle and rhythmic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-One, two, three, let's count with me (1-2-3-let's-count-with-me = 7 syllables)
-Numbers help us that we see (num-bers-help-us-that-we-see = 7 syllables)
-Counting blocks and counting toys (count-ing-blocks-and-count-ing-toys = 7 syllables)
-Sharing with our friends and girls and boys (shar-ing-with-our-friends-and-girls-and-boys = 8 syllables... adjusting)
-One and two and three so bright (one-and-two-and-three-so-bright = 7 syllables)
-Counting makes the math so right (count-ing-makes-the-math-so-right = 7 syllables)
+Let's count the quantity today
+Quantity, quantity
+Let's count the quantity today
+One, two, three, and more
+Some have more and some have fewer
+Some have fewer, some have fewer
+Some have more and some have fewer
+Match them one by one
 
 *Verse 2*
-Five and six come next you see (five-and-six-come-next-you-see = 7 syllables)
-More and fewer, one, two, three (more-and-few-er-one-two-three = 7 syllables)
-Match the buttons in a line (match-the-but-tons-in-a-line = 7 syllables)
-Equal groups are oh so fine (e-qual-groups-are-oh-so-fine = 7 syllables)
-Count the crackers on your plate (count-the-crack-ers-on-your-plate = 7 syllables)
-Math and numbers are so great (math-and-num-bers-are-so-great = 7 syllables)
+Count the blocks, the quantity
+Quantity, quantity
+Count the blocks, the quantity
+More or fewer here
+When we match them two by two
+Two by two, two by two
+When we match them two by two
+Numbers help us learn
 
 **Actions/Gestures**:
-1. Hold up fingers one at a time while counting, starting with thumbs
-2. Sweep arms wide for "more" and bring hands close together for "fewer"
-3. Touch each object individually as you count, pointing with one finger
+1. Hold up fingers one at a time while counting and saying "quantity"
+2. Spread arms wide for "more" and bring hands close together for "fewer"
+3. Touch objects one by one for "match" and tap them together in pairs
 
 ## 📺 Intro Video Recommendation
 

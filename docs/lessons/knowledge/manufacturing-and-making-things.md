@@ -16,32 +16,36 @@ Children will explore how everyday objects are created through hands-on making, 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Moderate and engaging
+**Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-(7) We can make and build things too
-(7) Pieces, parts put together new
-(7) Wood and plastic, cloth and clay
-(7) Making something every day
-(7) Hands and tools help us create
-(7) Watch what wonderful things we make
+We can manufacture things,
+Manufacture things, manufacture things
+We can manufacture things,
+Using our materials
+Assemble all the pieces tight,
+Pieces tight, pieces tight
+Assemble all the pieces tight,
+Build them up together
 
 *Verse 2*
-(7) Factories hum with machines bright
-(7) Making toys and clothes just right
-(7) People work to shape and form
-(7) Things we use from cold to warm
-(7) Manufactured with care and skill
-(7) Creations from each person's will
+Transform the clay and wood and more,
+Wood and more, wood and more
+Transform the clay and wood and more,
+Making something special
+Factories help us make our toys,
+Make our toys, make our toys
+Factories help us make our toys,
+From materials we use
 
 **Actions/Gestures**:
-1. Pretend to shape clay with both hands, molding and forming
-2. Clap hands together in rhythm, simulating assembly or building
-3. Raise arms up high then sweep down, showing transformation from raw materials to finished products
+1. Pretend to assemble pieces together, stacking and connecting motions
+2. Shape and mold imaginary materials with both hands
+3. Point to different materials around the room as you sing "wood and more"
 
 ## Intro Video Recommendation
 

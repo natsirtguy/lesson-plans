@@ -16,236 +16,29 @@ Children explore the concept of family structures, relationships, and the roles 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and warm
 
-**Lyrics** (2 verses, 4-6 lines each):
-
-*Verse 1*
-My mom and dad, they love me so
-
-Let me recount carefully for "Twinkle, Twinkle" (each line MUST be exactly 7 syllables):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-My fam-i-ly loves me so much (7: My=1, fam=1, i=1, ly=1, loves=1, me=1, so=1, much=1 = 8... adjusting)
-
-My fam-i-ly, they love me dear (7: My=1, fam=1, i=1, ly=1, they=1, love=1, me=1, dear=1 = 8... let me try different approach)
-
-Twinkle, Twinkle pattern = "Twin-kle, twin-kle, lit-tle star" = Twin(1) kle(1) twin(1) kle(1) lit(1) tle(1) star(1) = 7
-
-*Verse 1*
-Fam-i-ly is all a-round (7: Fam=1, i=1, ly=1, is=1, all=1, a=1, round=1 = 7) ✓
-They love me, hold me, keep me safe (7: They=1, love=1, me=1, hold=1, me=1, keep=1, me=1, safe=1 = 8... adjusting)
-They love me, keep me safe and sound (7: They=1, love=1, me=1, keep=1, me=1, safe=1, sound=1 = 7) ✓
-With-in my fam-i-ly's care (7: With=1, in=1, my=1, fam=1, i=1, ly's=1, care=1 = 7) ✓
-We laugh and play and share and grow (7: We=1, laugh=1, and=1, play=1, and=1, share=1, and=1, grow=1 = 8... adjusting)
-We play to-geth-er, ev-ery day (7: We=1, play=1, to=1, geth=1, er=1, ev=1, ery=1, day=1 = 8... adjusting)
-
-Let me recount the basic line: "We play to-geth-er, ev-ery day"
-We(1) play(1) to(1)geth(1)er(1) ev(1)ery(1) day(1) = 8 syllables - too many
-
-"We play to-geth-er ev-ry day" = We(1) play(1) to(1)geth(1)er(1) ev(1)ry(1) day(1) = 8 - still too many
-"We play to-geth-er, some-times all day" = We(1) play(1) to(1)geth(1)er(1) some(1)times(1) all(1) day(1) = 9 - no
-
-"We play and laugh and care so much" = We(1) play(1) and(1) laugh(1) and(1) care(1) so(1) much(1) = 8 - one too many
-
-"We play and laugh and care all day" = We(1) play(1) and(1) laugh(1) and(1) care(1) all(1) day(1) = 8 - one too many
-
-"We play and laugh to-geth-er now" = We(1) play(1) and(1) laugh(1) to(1)geth(1)er(1) now(1) = 8 - one too many
-
-"We hug and play and laugh and smile" = We(1) hug(1) and(1) play(1) and(1) laugh(1) and(1) smile(1) = 8
-
-"We hug and laugh and play so much" = We(1) hug(1) and(1) laugh(1) and(1) play(1) so(1) much(1) = 8
-
-"We hug and laugh and care for you" = We(1) hug(1) and(1) laugh(1) and(1) care(1) for(1) you(1) = 8
-
-"We all stay close and care for you" = We(1) all(1) stay(1) close(1) and(1) care(1) for(1) you(1) = 8
-
-"We stay close by and care for you" = We(1) stay(1) close(1) by(1) and(1) care(1) for(1) you(1) = 8
-
-"We're close and love and care for you" = We're(1) close(1) and(1) love(1) and(1) care(1) for(1) you(1) = 8
-
-Let me try: "We hug and care for all our days" = We(1) hug(1) and(1) care(1) for(1) all(1) our(1) days(1) = 8
-
-"We laugh and hug and care each day" = We(1) laugh(1) and(1) hug(1) and(1) care(1) each(1) day(1) = 8
-
-"We hug and laugh at-ev-ery day" - doesn't make sense
-
-"We laugh and hug and feel so loved" = We(1) laugh(1) and(1) hug(1) and(1) feel(1) so(1) loved(1) = 8
-
-"We laugh and hug and feel so glad" = We(1) laugh(1) and(1) hug(1) and(1) feel(1) so(1) glad(1) = 8
-
-"We hug and play and feel so glad" = We(1) hug(1) and(1) play(1) and(1) feel(1) so(1) glad(1) = 8
-
-"We love and hug and feel so glad" = We(1) love(1) and(1) hug(1) and(1) feel(1) so(1) glad(1) = 8
-
-"We hug and laugh and love the most" = We(1) hug(1) and(1) laugh(1) and(1) love(1) the(1) most(1) = 8
-
-Let me try removing one "and": "We hug and laugh, we love the most" = We(1) hug(1) and(1) laugh(1) we(1) love(1) the(1) most(1) = 8
-
-"We hug, we laugh, we love so much" = We(1) hug(1) we(1) laugh(1) we(1) love(1) so(1) much(1) = 8
-
-"I hug and kiss them ev-ry day" = I(1) hug(1) and(1) kiss(1) them(1) ev(1)ry(1) day(1) = 8
-
-"I hug and kiss them ev-ery day" would be 9
-
-"I hug and kiss them all day long" = I(1) hug(1) and(1) kiss(1) them(1) all(1) day(1) long(1) = 8
-
-"I hug them and I kiss them, too" = I(1) hug(1) them(1) and(1) I(1) kiss(1) them(1) too(1) = 8
-
-"My fam-i-ly is there for me" = My(1) fam(1)i(1)ly(1) is(1) there(1) for(1) me(1) = 8
-
-"My fam-i-ly I love so dear" = My(1) fam(1)i(1)ly(1) I(1) love(1) so(1) dear(1) = 8
-
-"My fam-ly hugs me ev-ry day" = My(1) fam(1)ly(1) hugs(1) me(1) ev(1)ry(1) day(1) = 8
-
-Actually, let me reconsider "family" - is it 2 or 3 syllables? FAM-i-ly = 3 syllables
-
-So "My fam-i-ly is" = My(1) fam(1) i(1) ly(1) is(1) = 5, leaving 2 more for 7
-"My fam-i-ly is here" = My(1) fam(1) i(1) ly(1) is(1) here(1) = 6
-"My fam-i-ly is here with me" = My(1) fam(1) i(1) ly(1) is(1) here(1) with(1) me(1) = 8
-
-"My fam-i-ly loves me dear" = My(1) fam(1) i(1) ly(1) loves(1) me(1) dear(1) = 7 ✓
-
-*Verse 1*
-Fam-i-ly is all a-round (7: Fam(1) i(1) ly(1) is(1) all(1) a(1) round(1) = 7) ✓
-My fam-i-ly loves me dear (7: My(1) fam(1) i(1) ly(1) loves(1) me(1) dear(1) = 7) ✓
-With-in my fam-i-ly's care (7: With(1) in(1) my(1) fam(1) i(1) ly's(1) care(1) = 7) ✓
-I feel so loved and safe right here (7: I(1) feel(1) so(1) loved(1) and(1) safe(1) right(1) here(1) = 8)
-
-"I feel so loved and safe right here" = too many
-"I feel so safe and loved so dear" = I(1) feel(1) so(1) safe(1) and(1) loved(1) so(1) dear(1) = 8
-"I feel so safe and loved and dear" = I(1) feel(1) so(1) safe(1) and(1) loved(1) and(1) dear(1) = 8
-"I feel so safe and loved each day" = I(1) feel(1) so(1) safe(1) and(1) loved(1) each(1) day(1) = 8
-"I feel so safe and warm each day" = I(1) feel(1) so(1) safe(1) and(1) warm(1) each(1) day(1) = 8
-"I feel so safe and warm right now" = I(1) feel(1) so(1) safe(1) and(1) warm(1) right(1) now(1) = 8
-"I feel so safe within this place" = I(1) feel(1) so(1) safe(1) with(1) in(1) this(1) place(1) = 8
-"So safe and loved in this place here" = So(1) safe(1) and(1) loved(1) in(1) this(1) place(1) here(1) = 8
-"I'm safe and warm, I'm loved so much" = I'm(1) safe(1) and(1) warm(1) I'm(1) loved(1) so(1) much(1) = 8
-"I feel so safe and loved right here" = 8 syllables as counted above
-
-Let me try: "So loved and safe, so warm and dear" = So(1) loved(1) and(1) safe(1) so(1) warm(1) and(1) dear(1) = 8
-
-"So loved, so safe, so warm and dear" = So(1) loved(1) so(1) safe(1) so(1) warm(1) and(1) dear(1) = 8
-
-Let me try a completely different line:
-"Each day they show how much they care" = Each(1) day(1) they(1) show(1) how(1) much(1) they(1) care(1) = 8
-
-"They show me love each single day" = They(1) show(1) me(1) love(1) each(1) sin(1) gle(1) day(1) = 8
-
-"We're safe and loved, so warm and dear" = We're(1) safe(1) and(1) loved(1) so(1) warm(1) and(1) dear(1) = 8
-
-"Safe and loved and warm right here" = Safe(1) and(1) loved(1) and(1) warm(1) right(1) here(1) = 7 ✓
-
-*Verse 1*
-Fam-i-ly is all a-round (7) ✓
-My fam-i-ly loves me dear (7) ✓
-With-in my fam-i-ly's care (7) ✓
-Safe and loved and warm right here (7) ✓
+My family loves me every day
+Every day, every day
+My family loves me every day
+With relationships so strong
 
 *Verse 2*
-Brothers, sis-ters, mom and dad (7: Broth(1) ers(1) sis(1) ters(1) mom(1) and(1) dad(1) = 7) ✓
-Grand-par-ents are fam-i-ly too (7: Grand(1) par(1) ents(1) are(1) fam(1) i(1) ly(1) too(1) = 8... "grandparents" = GRAND-par-ents = 3 syllables)
-
-"Grand-par-ents are fam-i-ly too" = Grand(1) par(1) ents(1) are(1) fam(1) i(1) ly(1) too(1) = 8
-
-"Grand-par-ents help and care for me" = Grand(1) par(1) ents(1) help(1) and(1) care(1) for(1) me(1) = 8
-
-"My grand-par-ents love me too" = My(1) grand(1) par(1) ents(1) love(1) me(1) too(1) = 7 ✓
-
-"All of them are there for me" = All(1) of(1) them(1) are(1) there(1) for(1) me(1) = 7 ✓
-
-"We hug and play the whole day through" = We(1) hug(1) and(1) play(1) the(1) whole(1) day(1) through(1) = 8
-
-"We laugh and hug the whole day through" = We(1) laugh(1) and(1) hug(1) the(1) whole(1) day(1) through(1) = 8
-
-"I love my fam-i-ly so true" = I(1) love(1) my(1) fam(1) i(1) ly(1) so(1) true(1) = 8
-
-"And when we're all to-geth-er here" = And(1) when(1) we're(1) all(1) to(1) geth(1) er(1) here(1) = 8
-
-"We love each oth-er ev-ery day" = We(1) love(1) each(1) oth(1) er(1) ev(1) ery(1) day(1) = 8 (oth-er is 2 syllables)
-
-Wait, let me recount: "We love each oth-er ev-ery day"
-- We = 1
-- love = 1
-- each = 1
-- oth = 1
-- er = 1
-- ev = 1
-- ery = 1
-- day = 1
-Total = 8
-
-"We love each oth-er ev-ry day" = We(1) love(1) each(1) oth(1) er(1) ev(1)ry(1) day(1) = 8
-
-"We love, we care, we laugh and play" = We(1) love(1) we(1) care(1) we(1) laugh(1) and(1) play(1) = 8
-
-"We stick to-geth-er every day" - doesn't work
-
-"My fam-i-ly makes me so glad" = My(1) fam(1) i(1) ly(1) makes(1) me(1) so(1) glad(1) = 8
-
-"Fam-i-ly love will save the day" = Fam(1) i(1) ly(1) love(1) will(1) save(1) the(1) day(1) = 8
-
-"We all stay close and hug each day" = We(1) all(1) stay(1) close(1) and(1) hug(1) each(1) day(1) = 8
-
-"Each day we hug and laugh with glee" = Each(1) day(1) we(1) hug(1) and(1) laugh(1) with(1) glee(1) = 8
-
-"We laugh and love so hap-pi-ly" = We(1) laugh(1) and(1) love(1) so(1) hap(1) pi(1) ly(1) = 8
-
-"So full of love and hap-pi-ness" = So(1) full(1) of(1) love(1) and(1) hap(1) pi(1) ness(1) = 8
-
-Let me try: "My fam-i-ly is my best friend" = My(1) fam(1) i(1) ly(1) is(1) my(1) best(1) friend(1) = 8
-
-"My fam-i-ly I love so much" = My(1) fam(1) i(1) ly(1) I(1) love(1) so(1) much(1) = 8
-
-"My fam-i-ly, I love them true" = My(1) fam(1) i(1) ly(1) I(1) love(1) them(1) true(1) = 8
-
-"They love me, yes, they love me true" = They(1) love(1) me(1) yes(1) they(1) love(1) me(1) true(1) = 8
-
-"My fam-i-ly cares for me" = My(1) fam(1) i(1) ly(1) cares(1) for(1) me(1) = 7 ✓
-
-"And they will al-ways love me so" = And(1) they(1) will(1) al(1) ways(1) love(1) me(1) so(1) = 8
-
-"And al-ways love me oh so much" = And(1) al(1) ways(1) love(1) me(1) oh(1) so(1) much(1) = 8
-
-"And they will love me al-ways true" = And(1) they(1) will(1) love(1) me(1) al(1) ways(1) true(1) = 8
-
-"To-geth-er we are strong and true" = To(1) geth(1) er(1) we(1) are(1) strong(1) and(1) true(1) = 8
-
-"To-geth-er is where we be-long" = To(1) geth(1) er(1) is(1) where(1) we(1) be(1) long(1) = 8
-
-"To-geth-er is our special place" = To(1) geth(1) er(1) is(1) our(1) spe(1) cial(1) place(1) = 8
-
-"To-geth-er makes our fam-i-ly" = To(1) geth(1) er(1) makes(1) our(1) fam(1) i(1) ly(1) = 8
-
-"To-geth-er we are one" - too short
-
-"My fam-i-ly and me, we're one" = My(1) fam(1) i(1) ly(1) and(1) me(1) we're(1) one(1) = 8
-
-Let me try different structure:
-"So much to love and do to-geth-er" = So(1) much(1) to(1) love(1) and(1) do(1) to(1) geth(1) er(1) = 9
-
-"When we are all to-geth-er here" = When(1) we(1) are(1) all(1) to(1) geth(1) er(1) here(1) = 8
-
-"With fam-i-ly, I feel so free" = With(1) fam(1) i(1) ly(1) I(1) feel(1) so(1) free(1) = 8
-
-"My fam-i-ly is here for me" = My(1) fam(1) i(1) ly(1) is(1) here(1) for(1) me(1) = 8
-
-"My fam-i-ly is in my heart" = My(1) fam(1) i(1) ly(1) is(1) in(1) my(1) heart(1) = 8
-
-"Fam-i-ly stays in my heart" = Fam(1) i(1) ly(1) stays(1) in(1) my(1) heart(1) = 7 ✓
-
-*Verse 2*
-Brothers, sis-ters, mom and dad (7) ✓
-My grand-par-ents love me too (7) ✓
-My fam-i-ly cares for me (7) ✓
-Fam-i-ly stays in my heart (7) ✓
+My siblings play and caregivers care
+Caregivers care, caregivers care
+My siblings play and caregivers care
+Our family stays together
 
 **Actions/Gestures**:
-1. Point to chest and then outward to show family members around you
-2. Open arms wide in a big hug motion to show love and togetherness
-3. Hold hands together (make a circle) and sway gently side to side to show family unity
+1. On "family"—spread arms wide to show everyone
+2. On "loves me"—hug yourself warmly
+3. On "siblings play"—clap hands together as if playing
+4. On "caregivers care"—pat chest over heart
 
 ## Intro Video Recommendation
 

@@ -16,30 +16,32 @@ In this lesson, children explore how to make thoughtful choices about sharing, d
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and bouncy
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-We have treasures to divide
-Some for you and some for me
-Make a choice with open mind
-Sharing fairly, happily
+We allocate, distribute fair
+Sharing items everywhere
+Prioritize what matters most
+Conserve what we treasure and we share
+Making choices every day
+Learning how to share and play
 
 *Verse 2*
-
-Count our items, make a plan
-Save and use what matters most
-Help each other, understand
-Sharing brings what matters most
+Count the items, split them right
+Everyone gets some tonight
+Distribute fairly, watch us go
+Allocate to every friend we know
+Managing resources well
+Sharing stories we can tell
 
 **Actions/Gestures**:
-1. Open both hands wide like you're sharing something special with others
-2. Point to different people or toys as if carefully distributing items fairly
-3. Tap your head gently while thinking about choices, then clap your hands together to celebrate sharing
+1. Use hands to "distribute" items to different sides
+2. Point to different people when sharing
+3. Count on fingers when allocating and distributing items
 
 ## Intro Video Recommendation
 

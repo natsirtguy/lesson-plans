@@ -16,32 +16,32 @@ Children explore how their five senses work by engaging in tactile, visual, audi
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and rhythmic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-My eyes can see the col-ors bright (7)
-Red and yel-low, blue and white (7)
-My ears can hear a song so sweet (7)
-My nose can smell what-ev-er's neat (7)
-My touch can feel so soft and rough (7)
-All my sen-ses are e-nough (7)
+Eyes observe, ears can hear
+Nose and mouth
+Nose and mouth
+Feel the texture soft or rough here
+Sensory learning
+All about
 
 *Verse 2*
-My tongue can taste so sour, sweet (7)
-Ev-ery sense helps me ex-plore (7)
-I see and hear and touch and smell (7)
-Each sense has its own sto-ry to tell (7)
-To-geth-er all five work as one (7)
-They make learning fun! (6)
+Touch and taste, smell and see
+Distinguish sounds
+Distinguish sounds
+All our senses work for you and me
+Observe the world now
+All around
 
 **Actions/Gestures**:
-1. Point to eyes when singing about seeing, then sweep arms around
-2. Cup hands around ears when singing about hearing, then tap chest for tasting
-3. Wave hands in front of nose for smelling, then touch various body parts with your fingertips for touching
+1. Touch eyes for "observe," ears for "hear," nose for "smell," mouth for "taste"
+2. Rub hands together for "texture" and feel different surfaces
+3. Cup hands around eyes for "sensory" and "observe," looking all around
 
 ## Intro Video Recommendation
 

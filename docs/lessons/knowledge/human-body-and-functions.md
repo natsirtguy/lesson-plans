@@ -16,33 +16,34 @@ Children discover the amazing systems and parts that make their body work! Throu
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Playful and energetic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-My heart beats in-side my chest
-Pump-ing blood to do its best
-My bones are strong they help me stand
-My mus-cles move across the land
-When I breathe in deep and slow
-My lungs help all my bod-y grow
+In my body systems work
+Heart and lungs all day
+With a beat beat here and a breath breath there
+Here a bone, there a bone
+Muscles helping all along
+In my body systems work
+Every single day
 
 *Verse 2*
-Touch your head and touch your toes
-Feel your bod-y as it goes
-Bend and stretch and twist a-round
-Feel your heart's own beat-ing sound
-Jump and run and then slow down
-Your bod-y is the best in town
+My skeleton holds me up
+Standing tall and strong
+With a heart beat here and my lungs breathe there
+Here a muscle, there a muscle
+Body working without struggle
+My body functions all day long
+Keeping me so strong
 
 **Actions/Gestures**:
-1. Point to chest and make circular motions to show heart pumping
-2. Take deep breath in and out slowly to demonstrate lungs breathing
-3. Touch different body parts mentioned in the song and make stretching/reaching movements
-4. Feel pulse on neck or wrist while singing about heartbeat
+1. Point to chest and make circular pumping motions for heart
+2. Take deep breaths in and out during "breath breath" parts
+3. Flex arms to show muscles, stand tall to show skeleton
 
 ## Intro Video Recommendation
 

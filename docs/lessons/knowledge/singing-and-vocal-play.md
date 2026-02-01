@@ -16,34 +16,32 @@ Children explore their voices through singing, discovering pitch awareness, brea
 
 ## 🎵 Learning Song
 
-**Tune**: Head, Shoulders, Knees and Toes
+**Tune**: This Old Man
 
-**Tempo**: Upbeat and playful
+**Tempo**: Cheerful and rhythmic
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Sing a song and make a sound,
-Make a sound.
-Sing a song and make a sound,
-Make a sound.
-Use your voice up high and low,
-Sing and play and let it flow,
-Make a sound!
+Sing out loud, use your voice
+High and low, it's your choice
+With a melody so sweet and bright
+Sing all day and sing all night
+Pitch goes up and pitch goes down
+Vocal sounds all around
 
 *Verse 2*
-Whisper soft and shout out loud,
-Shout out loud.
-Whisper soft and shout out loud,
-Shout out loud.
-Make the sounds of birds and bees,
-Sing with joy and sing with ease,
-Shout out loud!
+Find the rhythm, clap along
+Make your voice sing a song
+With a melody that's yours to make
+Every note you sing and take
+Singing brings such joy and play
+Use your voice every day
 
 **Actions/Gestures**:
-1. Cup hands around mouth to show singing voice projection
-2. Make high and low hand motions to show high and low pitches
-3. Sway and move body gently to show rhythm and flow
+1. Point to throat when singing "voice" to show where vocal sounds come from
+2. Raise hand high for high pitch, lower for low pitch
+3. Clap hands steadily to show rhythm and beat
 
 ## 📺 Intro Video Recommendation
 

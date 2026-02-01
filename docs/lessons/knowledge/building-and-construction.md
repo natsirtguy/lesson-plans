@@ -16,41 +16,28 @@ Children discover how structures are built and what materials are used in constr
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate and playful
+**Tempo**: Steady and rhythmic
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Stack, stack, stack the blocks up high
-Building, building, reaching for the sky
-
-Watch us build so very high (7 syllables)
-Blocks and blocks, we stack them tight
-Strong foundations hold it up
-Watch our structure reach the top
+Build, build, build it high
+Construct a structure strong
+Foundation at the bottom holds
+Balance all day long
 
 *Verse 2*
-
-All the pieces fit just right
-Building with our hands so bright
-Brick and wood and stone so strong
-Constructing all the day longCorrected Verse 2**
-
-All the pieces fit just right (7 syllables)
-Building with our hands so bright (7 syllables)
-Brick and wood and stone so strong (7 syllables)
-We construct all the day long
+Stack, stack, stack the blocks
+Building carefully
+Watch our structure stand up tall
+Built so steadily
 
 **Actions/Gestures**:
-
-1. **Stacking motion**: Hold arms at different heights, move hands up slowly like stacking blocks, then reach up high on the final word "high"
-
-2. **Building gesture**: Bring hands together with palms facing, then slowly move them apart and upward to show a structure growing
-
-3. **Balance wobble**: Stand on one leg and wobble gently, then plant feet firmly to show stability
+1. Stack one fist on top of the other repeatedly to show building upward
+2. Hold arms wide at the base then bring them together going up to show a stable foundation
+3. Stand firmly with feet wide apart to demonstrate good balance and stability
 
 ## Intro Video Recommendation
 

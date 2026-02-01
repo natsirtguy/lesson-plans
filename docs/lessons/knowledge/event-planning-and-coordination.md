@@ -16,29 +16,29 @@ This lesson introduces children to the basics of planning and organizing a simpl
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and cheerful
+**Tempo**: Cheerful and bouncy
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Planning, planning parties fun
-We invite the friends we love
-We find decorations bright
-Planning brings us joy and cheer
+Let's coordinate our party today
+We'll sequence tasks along the way
+With invitations, decorations bright
+We collaborate to get it right
 
 *Verse 2*
-Now we've planned our special day
-Now each task gets done with cheer
-We all celebrate with glee
-And we planned this happily
+We delegate jobs for everyone
+Setting up can be such fun
+First we plan then we prepare
+Event planning shows we care
 
 **Actions/Gestures**:
-1. On "Planning, planning parties fun"—make a thinking gesture with finger on chin, then spread arms wide as if showing a big space
-2. On "We invite the friends we love"—wave hand in a friendly greeting, then bring both hands to heart
-3. On "We find decorations bright"—point around the room as if spotting decorations, then clap hands with excitement
-4. On "celebrate with glee"—jump up and down with arms raised, then spin around once
+1. On "coordinate"—bring hands together to show organizing
+2. On "sequence tasks"—tap fingers one, two, three showing order
+3. On "collaborate"—clasp hands together or reach out to friend
+4. On "delegate jobs"—point to different spots around room as if assigning tasks
 
 ## Intro Video Recommendation
 

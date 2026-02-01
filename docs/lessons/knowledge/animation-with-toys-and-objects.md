@@ -16,32 +16,28 @@ In this creative exploration, children discover how to bring toys and objects to
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Upbeat and playful
+**Tempo**: Playful and bouncy
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Watch the toy start moving fast (7 syllables)
-Make it dance and spin around (7 syllables)
-Now it tells a story's path (7 syllables)
-Animation's all around (7 syllables)
-Objects come alive and play (7 syllables)
-Bring them into stories bright (7 syllables)
+Toys can animate and move
+Animate and move, animate and move
+Toys can animate and move
+With motion and sequence
 
 *Verse 2*
-Watch the magic that you make (7 syllables)
-Small toys dance in your own way (7 syllables)
-Every movement tells a tale (7 syllables)
-Animation comes alive (7 syllables)
-Move them slowly, move them fast (7 syllables)
-Stories bloom with every cast (7 syllables)
+Tell a narrative with toys
+Narrative with toys, narrative with toys
+Tell a narrative with toys
+Each movement tells a story
 
 **Actions/Gestures**:
-1. Move both hands in a wave motion across body while singing "moving fast" and "spin around"—show the toy coming to life
-2. Point to toys or objects around you, then make exaggerated slow walking motions with your fingers during "objects come alive"
-3. Hold hands up like a director's frame and sweep across from left to right during the second verse, as if creating a scene
+1. Walk fingers across your hand like a toy walking
+2. Make swooping motions with a pretend toy to show animation
+3. Frame your hands like a camera when singing about narrative and story
 
 ## Intro Video Recommendation
 

@@ -16,32 +16,28 @@ This lesson introduces young children to the fundamentals of discussion and simp
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and conversational
 
-**Lyrics** (2 verses, 7 syllables each line):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I like this but you like that
-Some like small and some like fat
-We discuss what's right for you
-You can say your ideas too
-Listen when your friend speaks out
-That is what this game's about
+Share your opinion clear
+Discuss what you think and say
+We can all agree or not
+That's respectful either way
 
 *Verse 2*
-Say your ideas, do agree
-Both your thoughts have room for me
-Show respect in what we say
-That is how we like to play
-Different thoughts make us grow strong
-Everyone belongs here, all along
+Listen when friends talk
+Different thoughts are good to hear
+We discuss and share our views
+Everyone's opinion's dear
 
 **Actions/Gestures**:
-1. Point to yourself when saying "I like" and point to others when saying "you like"—this reinforces whose idea is being discussed
-2. Nod your head slowly during the "listen" and "respect" lines—shows active listening and agreement
-3. Open both hands like an open book on "ideas" and "thoughts"—represents sharing and openness to different viewpoints
+1. Point to yourself on "your opinion" and gesture outward on "discuss" to show sharing ideas
+2. Nod head gently on "agree" and shake head gently on "or not" to show different responses
+3. Cup hand to ear on "listen" to show active listening and being respectful
 
 ## Intro Video Recommendation
 

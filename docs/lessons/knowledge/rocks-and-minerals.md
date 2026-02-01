@@ -16,32 +16,36 @@ Children will explore the fascinating world of rocks and minerals through sensor
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and curious
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-[7 syllables] Rock-y rocks be-neath my feet
-[7 syllables] Some are rough and some are sweet
-[7 syllables] Smooth and spark-ly, big and small
-[7 syllables] Rocks and min-er-als, I love them all
-[7 syllables] Pick them up and feel them close
-[7 syllables] Rocks and stones are what I love most
+Observe the rocks and minerals
+Minerals, minerals
+Observe the rocks and minerals
+Feel their texture now
+Rough and smooth and heavy too
+Heavy too, heavy too
+Density tells which ones weigh
+More than others found
 
 *Verse 2*
-[7 syllables] Heavy min-er-als deep down low
-[7 syllables] Hiding where the deep roots grow
-[7 syllables] Crys-tals spar-kle, stones so round
-[7 syllables] Treas-ures wait-ing in the ground
-[7 syllables] Touch and look and hold them tight
-[7 syllables] Rocks and min-er-als, what a sight
+Minerals sparkle in the light
+In the light, in the light
+Minerals sparkle in the light
+Observe them close today
+Touch the texture, feel the weight
+Feel the weight, feel the weight
+Rocks and minerals we explore
+Learning through our play
 
 **Actions/Gestures**:
-1. Make a "picking up rocks" motion with both hands at your feet
-2. Rub your fingers together to show "texture" and feel of rocks
-3. Hold closed fists together at chest, then slowly open hands like discovering treasure
+1. Rub fingers together to feel texture
+2. Hold hands out and lift them up and down to show density and weight
+3. Use magnifying glass motion (circle fingers around eyes) to observe closely
 
 ## Intro Video Recommendation
 

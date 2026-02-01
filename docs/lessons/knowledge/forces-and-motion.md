@@ -18,33 +18,37 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: "Old MacDonald Had a Farm"
 
-**Tempo**: Moderate
+**Tempo**: Moderate, playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Push and pull and watch things move
-Forces make the toys go zoom
-Rolling, sliding, spinning round
-Motion happens all around
-Push it, pull it, watch it go
-Fast or slow or stop just so
+We can push and pull with force
+E-I-E-I-O
+Making things move on their course
+E-I-E-I-O
+With a push-push here and a pull-pull there
+Here a force, there a force, everywhere a force-force
+Motion happens when we push
+E-I-E-I-O
 
 *Verse 2*
-Friction makes the sliding slow
-Momentum keeps the objects go
-Pull a wagon cross the floor
-Forces are what make things soar
-Everything that moves around
-Has a force that makes that sound
+Friction slows the rolling ball
+E-I-E-I-O
+Momentum keeps it going strong
+E-I-E-I-O
+With a roll-roll here and a slide-slide there
+Here it stops, there it goes, friction makes it slow-slow
+Forces make our whole world move
+E-I-E-I-O
 
 **Actions/Gestures**:
-1. Push motion: Extend both palms forward with a pushing gesture for "push" lines
-2. Pull motion: Make a pulling gesture toward body with both hands for "pull" lines
-3. Circular motion: Rotate hands in circles for "rolling, spinning, momentum" lines
-4. Slow-down motion: Gradually slow hand movements to show friction stopping motion
+1. Push forward with both hands during "push-push" lines
+2. Pull hands toward chest during "pull-pull" lines
+3. Roll hands in circles for "roll-roll" and momentum references
+4. Rub palms together to show friction during friction lines
 
 ## Intro Video Recommendation
 

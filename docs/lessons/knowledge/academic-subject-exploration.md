@@ -16,32 +16,36 @@ Children visit 4-5 different learning stations, each focused on a distinct acade
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and energetic
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Let's explore and learn today
-Different subjects come and play
-Math and reading, colors bright
-Science, art—so much delight
-Every corner, something new
-Learning waits for me and you
+Math and reading, science too
+Science too
+Colors, letters just for you
+Just for you
+Every subject, time to explore
+Discover what we're learning for
+Different subjects, learn them all
+Learn them all
 
 *Verse 2*
-Count the blocks and colors bright
-Letters, patterns, what a sight
-Every subject has a way
-To explore and learn and play
-Let's investigate with cheer
-Every subject brings us cheer
+Investigate and explore
+Let's explore
+Every subject at each door
+At each door
+Count the numbers, read the books
+Science shows us how things look
+Subjects help us learn and grow
+Learn and grow
 
 **Actions/Gestures**:
-1. Point around the room in different directions while singing "different subjects" to represent different areas of learning
-2. Make exploring and searching motions with your hands while singing "explore and learn"
-3. Clap and do a small spin while singing "every subject brings us cheer"
+1. Point to different areas of the room for each subject mentioned
+2. Make binoculars with hands when singing "investigate and explore"
+3. Touch head, then heart when singing "subjects help us learn and grow"
 
 ## Intro Video Recommendation
 

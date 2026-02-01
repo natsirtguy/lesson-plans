@@ -16,32 +16,28 @@ Children explore the concept that different people see, feel, and think about th
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Different eyes see different things
-Standing still or on bird wings
-You see this way, I see that way
-Both are right, both are okay
-Many views can all be true
-What I see is different from you
+My perspective shows what I see, what I see, what I see
+My perspective shows what I see, from my point of view
+Your viewpoint might be different, be different, be different
+Your viewpoint might be different, and that's okay too
 
 *Verse 2*
-Everyone has thoughts inside
-Different feelings deep and wide
-What makes you smile, what makes you sad
-Helps you know why others feel glad
-Understanding hearts so true
-Knowing me and knowing you
+Empathy helps us understand, understand, understand
+Empathy helps us understand, each point of view
+Different perspectives all around, all around, all around
+Different perspectives all around, mine and yours are true
 
 **Actions/Gestures**:
-1. Point to your own eyes, then point to the child's eyes to show "different eyes see different things"
-2. Move your hand in one direction, then the opposite direction to show "I see this way, you see that way"
-3. Place hand on heart and smile to show "understanding each other's feelings"
+1. Point to own eyes for "my perspective"
+2. Point to another person for "your viewpoint"
+3. Place hand on heart for "empathy helps us understand"
 
 ## Intro Video Recommendation
 

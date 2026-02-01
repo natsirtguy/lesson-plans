@@ -16,35 +16,28 @@ Children discover the joy of construction by stacking, arranging, and creating s
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Upbeat and playful
+**Tempo**: Moderate and cheerful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Blocks are stacking up so high
-Reaching up into the sky
-Build a house so tall and strong
-Singing while we build along
-Structures made with care and hands
-Building towers on the lands
+We construct with blocks today, blocks today, blocks today
+We construct with blocks today, building structures tall
+First we make a foundation, foundation, foundation
+First we make a foundation, strong and flat and wide
 
 *Verse 2*
-
-Stack your blocks so nice and neat
-Balance makes the work complete
-Blocks in colors, shapes so bright
-Building brings us such delight
-Watch the towers as they stand
-Building with your hands so grand
+Now we balance block by block, block by block, block by block
+Now we balance block by block, stacking to the sky
+Watch our structures stand up strong, stand up strong, stand up strong
+Watch our structures stand up strong, we built them carefully
 
 **Actions/Gestures**:
-
-1. Stack hands on top of each other repeatedly while singing (mimicking stacking blocks)
-2. Stretch arms high above head during "reaching up into the sky" and "watch the towers as they stand"
-3. Make a wide, flat base shape with both hands on the ground (showing foundation)
+1. Stack hands on top of each other while singing "construct with blocks"
+2. Place palms flat on ground for "foundation"
+3. Carefully balance one hand on the other for "balance block by block"
 
 ## Intro Video Recommendation
 

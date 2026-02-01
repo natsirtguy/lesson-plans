@@ -16,32 +16,30 @@ Children explore natural and manufactured objects through hands-on tactile sorti
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Moderate
+**Tempo**: Moderate and rhythmic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Buttons, shells and stones so bright (But-tons, shells and stones so bright = 7)
-Sort them into groups today (Sort them in-to groups to-day = 7)
-Smooth ones here and bumpy there (Smooth ones here and bump-y there = 7)
-Colors, shapes in every way (Col-ors, shapes in ev-ry way = 7)
-Feel the textures with your hands (Feel the tex-tures with your hands = 7)
-Learning as we play and play (Learn-ing as we play and play = 7)
+Let's classify our treasures now, treasures now, treasures now
+Let's classify our treasures now, sort them out
+
+Buttons, shells and stones we sort, stones we sort, stones we sort
+Buttons, shells and stones we sort, by their properties
 
 *Verse 2*
-Round and flat and pointy too (Round and flat and point-y too = 7)
-Buttons roll but stones stay still (But-tons roll but stones stay still = 7)
-Shells are smooth with ridges there (Shells are smooth with ridg-es there = 7)
-Each one special has a thrill (Each one spec-ial has a thrill = 7)
-Put them in their matching place (Put them in their match-ing place = 7)
-Sorting treasures, what a race! (Sort-ing treas-ures, what a race = 7)
+Feel the texture smooth or rough, smooth or rough, smooth or rough
+Feel the texture smooth or rough, with our hands
+
+Sort the treasures into groups, into groups, into groups
+Sort the treasures into groups, classify them all
 
 **Actions/Gestures**:
-1. Pretend to pick up small objects and examine them between your thumb and fingers
-2. Make sweeping sorting motions with both hands, moving items left and right into imaginary piles
-3. Gently rub your arms and hands while singing to demonstrate feeling different textures
+1. Pick up imaginary objects and examine them closely
+2. Rub hands together to show feeling different textures
+3. Sort items into imaginary piles, moving hands left and right for different properties
 
 ## Intro Video Recommendation
 

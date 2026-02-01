@@ -16,32 +16,30 @@ Children explore the magical world of theatrical performance and dramatic play b
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and dramatic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Act-ing, act-ing, what's it all? (7 syllables)
-Pre-tend-ing, play-ing, hav-ing fun (7 syllables)
-Be a char-ac-ter, big or small (7 syllables)
-Show your face and smile so bright (7 syllables)
-Move your bod-y, dance with all (7 syllables)
-Tel-ling sto-ries every night (7 syllables)
+If you're acting like a character, show expression
+If you're acting like a character, show expression
+On the stage we love to play
+In the ensemble every day
+If you're acting like a character, show expression
 
 *Verse 2*
-On the stage, we all come out (7 syllables)
-Act-ors gath-er all a-round (7 syllables)
-Aud-i-ence will smile and shout (7 syllables)
-Show-ing feel-ings loud and clear (7 syllables)
-That is what it's all a-bout (7 syllables)
-Pre-tend-ing for an-oth-er dear (7 syllables)
+When you're on the stage, take a bow
+When you're on the stage, take a bow
+Characters we love to be
+Acting sets our spirits free
+When you're on the stage, take a bow
 
 **Actions/Gestures**:
-1. Point to different body parts when singing "show your face," "move your body" — touch face, arms, legs
-2. Sweep arms wide in a big arc when singing "on the stage" and "actors gather" — create a performance space
-3. Clap hands on the word "shout" and pretend to bow with one arm across stomach and one behind back during final lines
+1. Make exaggerated facial expressions during "show expression"
+2. Sweep arms wide during "on the stage"
+3. Take a theatrical bow during "take a bow"
 
 ## Intro Video Recommendation
 

@@ -16,28 +16,32 @@ Young scientists become experimenters as they conduct simple, hands-on investiga
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Science is so fun and new (7 syllables)
-We will test it out with you (7 syllables)
-Watch what happens every day (7 syllables)
-Ask your questions, learn and play (7 syllables)
+Let's observe, let's observe
+Watch the colors mix and swirl
+We experiment and then discover
+Things transform before our eyes
+We observe, we discover
+Science is so fun
 
 *Verse 2*
-Mix and stir and blend things too (7 syllables)
-See what colors change in you (7 syllables)
-Pour and mix and watch it grow (7 syllables)
-Science shows us how to know (7 syllables)
+Mix the red, mix the blue
+Experiment with something new
+We discover colors changing over
+Watch them transform right away
+We observe, we discover
+Science every day
 
 **Actions/Gestures**:
-1. Make exaggerated "observing" motion by cupping hands around eyes and looking around
-2. Pretend to stir a big pot with both hands making circular motions
-3. Hold hands up high and slowly lower them like something is changing and transforming
+1. Cup hands around eyes for "observe" and look around carefully
+2. Make stirring motions with hands for "experiment" and "mix"
+3. Spread hands apart with wonder for "discover" and "transform"
 
 ## Intro Video Recommendation
 

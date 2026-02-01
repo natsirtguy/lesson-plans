@@ -16,28 +16,30 @@ This lesson teaches children how to thoughtfully arrange and present their perso
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Slow and gentle
+**Tempo**: Playful and steady
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Look at all the things I've found
-Shells and rocks and shiny things
-How to show them, make them bright
-Put them in a line so bright
+This display, looks so nice
+We organize, once or twice
+With a presentation that's so fine
+Arrange the items in a line
+Now my collection is on display
 
 *Verse 2*
-Group the colors all the same
-Big ones here and small ones there
-Turn them round to catch the light
-See how beautiful it looks
+This display, shows my things
+Pretty rocks and shells with rings
+With an aesthetic arrangement here
+Beautiful for all to cheer
+Now my collection is on display
 
 **Actions/Gestures**:
-1. Sweeping hand motion side to side to show arranging items in a line
-2. Circling hands around each other to show grouping items together
-3. Hands cupped gently around eyes to show admiring the display
+1. Sweep hand from left to right during "arrange the items in a line" showing placement
+2. Make circular motions with both hands during "aesthetic arrangement" showing organizing
+3. Present with open palms during "on display" showing pride in the presentation
 
 ## Intro Video Recommendation
 

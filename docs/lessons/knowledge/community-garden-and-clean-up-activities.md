@@ -16,28 +16,30 @@ In this lesson, children learn that communities work together to care for shared
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and cheerful
+**Tempo**: Upbeat and energetic
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-In the gar-den, we will plant (7 syllables)
-Lit-tle seeds so small and brown (7 syllables)
-Wa-ter them both day and night (7 syllables)
-Help them grow up big and strong (7 syllables)
+If you cultivate a garden, plant some seeds
+If you cultivate a garden, plant some seeds
+Water plants and pull the weeds
+Give them everything they need
+If you cultivate a garden, plant some seeds
 
 *Verse 2*
-Pull-ing weed-s will help them grow (7 syllables)
-Clean-ing up our land with care (7 syllables)
-Com-mu-ni-ty works as one (7 syllables)
-To-geth-er we can do so much (7 syllables)
+If you show good stewardship, clean it up
+If you show good stewardship, clean it up
+Community works together
+Make it nice in any weather
+If you show good stewardship, clean it up
 
 **Actions/Gestures**:
-1. Pretend to sprinkle seeds from your hand, then wiggle your fingers downward
-2. Cup your hands and tilt them as if pouring water onto plants below
-3. Hold hands with others and sway side to side to show teamwork and community
+1. Pretend to sprinkle seeds and dig during "plant some seeds"
+2. Make watering motions during "water plants"
+3. Pick up imaginary trash during "clean it up" showing stewardship
 
 ## Intro Video Recommendation
 

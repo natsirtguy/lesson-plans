@@ -16,35 +16,28 @@ Children build and organize a personal collection of books and media items they 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Upbeat and rhythmic
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Books are waiting on my shelf,
-Stories magic, joy and wealth.
-Some are new and some are old,
-Each one has a tale it holds.
-I will sort them, neat and kind,
-Put the special ones I find.
+The books in my collection stand up tall
+Stand up tall, stand up tall
+The books in my collection stand up tall
+I organize them all
 
 *Verse 2*
-
-My collection's growing smart,
-Every book can play a part.
-Read and organize with care,
-Love my books beyond compare.
-Stories waiting, safe and sound,
-In my special library ground.
+I curate and sort them carefully
+Carefully, carefully
+I archive them in my library
+My special book collection
 
 **Actions/Gestures**:
-
-1. **Shelf motion**: Extend both arms out to the side at shoulder height (showing books lined up on a shelf)
-2. **Sorting motion**: Make a gentle sweeping motion with one hand, as if moving books into groups
-3. **Heart hug**: Cross both arms over chest to show caring for books
+1. Hold arms parallel to show books lined up on a shelf
+2. Move hands in sorting motions from left to right, organizing books
+3. Hug yourself or hold hands to heart to show love and care for your collection
 
 ## Intro Video Recommendation
 

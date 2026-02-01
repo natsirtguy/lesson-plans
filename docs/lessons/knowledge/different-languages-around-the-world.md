@@ -16,32 +16,38 @@ Children discover that people around the world speak many different languages an
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Upbeat and playful
+**Tempo**: Cheerful and welcoming
 
-**Lyrics** (2 verses, matching 7 syllables per line):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Languages are all around the world (Lan-gua-ges are all a-round the world = 7)
-Different sounds and words unfold (Dif-fer-ent sounds and words un-fold = 7)
-Some say "hola," some say "bonjour" (Some say "ho-la," some say "bon-jour" = 7)
-Listen to the sounds we hear (Lis-ten to the sounds we hear = 7)
-Everyone can speak and share (Ev-ery-one can speak and share = 7)
-Words are different, love is there (Words are dif-fer-ent, love is there = 7)
+Language helps us communicate
+Communicate, communicate
+Language helps us communicate
+Words around the world
+
+Hola, bonjour, hello too
+Hello too, hello too
+Hola, bonjour, hello too
+Different words we say
 
 *Verse 2*
-Ni hao, hola, namaste too (Ni hao, ho-la, na-mas-te too = 7)
-Ciao and hello, it's all true (Ci-ao and hel-lo, it's all true = 7)
-People talk in many ways (Peo-ple talk in man-y ways = 7)
-Listening helps us understand (Lis-ten-ing helps us un-der-stand = 7)
-Friends from far-off distant lands (Friends from far-off dis-tant lands = 7)
-Share their voices, take our hands (Share their voic-es, take our hands = 7)
+Every culture speaks its way
+Speaks its way, speaks its way
+Every culture speaks its way
+Languages so bright
+
+We communicate with our words
+With our words, with our words
+We communicate with our words
+All around the earth
 
 **Actions/Gestures**:
-1. Wave hands around in a circle to show "all around the world"
-2. Cup ear with hand and tilt head to show "listening"
-3. Hold hands out to sides and move arms gently side-to-side to show "sharing voices"
+1. Point to mouth on "language" and "words" to show where speech comes from
+2. Wave hello on each greeting word (hola, bonjour, hello) to show friendly communication
+3. Make a big circle with arms on "around the world" to show different cultures and languages everywhere
 
 ## Intro Video Recommendation
 

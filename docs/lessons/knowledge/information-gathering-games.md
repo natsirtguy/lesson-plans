@@ -16,32 +16,28 @@ Children explore the joy of seeking, discovering, and solving through interactiv
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and steady
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Look around and find the things,
-Hidden in your room right here.
-Search and observe with your eyes,
-Every clue is waiting there.
-Look around and find so much,
-Searching for the truth and light.
+We observe and investigate
+Investigate, investigate
+We observe and investigate
+Looking for clues
 
 *Verse 2*
-Pay attention to each clue,
-Patterns help you understand.
-Find the objects one by one,
-Let's explore and search around.
-There are always things to find,
-In your home and everywhere.
+Find the patterns all around
+All around, all around
+Find the patterns all around
+We investigate
 
 **Actions/Gestures**:
-1. Cup hands around eyes like binoculars and slowly sweep side to side while singing
-2. Point fingers at different spots in the room as if spotting clues
-3. Turn around slowly with arms stretched out to show searching everywhere
+1. Cup hands around eyes like binoculars while singing about observing
+2. Point to different spots around the room as if finding clues
+3. Make connecting motions with hands to show patterns linking together
 
 ## Intro Video Recommendation
 

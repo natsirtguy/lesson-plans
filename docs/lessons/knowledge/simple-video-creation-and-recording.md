@@ -16,28 +16,36 @@ Children will explore the basics of creating and recording videos using simple d
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and gentle
+**Tempo**: Upbeat and playful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Videos show what we do
-Press the button and we're through
-Watch yourself upon the screen
-It's the best one ever seen
+When we record a video now
+We capture what we do
+Point the camera at the frame
+And playback starts for you
+With a record here and capture there
+Here we frame, there we frame
+Everywhere we playback now
+We watch the video
 
 *Verse 2*
-Making movies every day
-Press the button, watch and play
-Dancing, laughing, what a scene
-Watch our smiles upon the screen
+Press the button, start record
+Capture all the fun
+See the playback on the screen
+The frame shows everyone
+With a record here and playback there
+Here we capture, there we frame
+Making videos every day
+We record and play
 
 **Actions/Gestures**:
-1. Hold hands up to face like holding a camera, then press down with thumb (recording motion)
-2. Clap hands together (pressing the button to stop recording)
-3. Point to eyes, then out to the distance (watching the playback on screen)
+1. Hold hands up like holding a camera for "record" and "frame"
+2. Press thumb down for pressing the record button to "capture"
+3. Make a rectangle with fingers for "playback" and pretend to watch the screen
 
 ## Intro Video Recommendation
 

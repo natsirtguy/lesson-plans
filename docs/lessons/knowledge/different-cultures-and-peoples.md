@@ -16,45 +16,38 @@ Children explore how people around the world live differently, celebrate uniquel
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Slow and gentle
+**Tempo**: Upbeat and celebratory
 
-**Lyrics** (2 verses, 4-6 lines each):
-
-*Verse 1*
-People all a-round the world
-Wear their col-ors, wave their flags so proud
-
-Let me recount carefully:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Peo-ple all a-round the world (7 syllables)
-Live in man-y dif-fer-ent ways (7 syllables)
-Eat-ing food and speak-ing words (7 syllables)
-In their own spe-cial days (7 syllables)
-Build-ing homes and rais-ing fam-ilies (8 syllables) - ADJUSTMENT
+Every culture has its way
+Has its way, has its way
+Every culture has its way
+All around the world
 
-*Verse 1 (REVISED)*
-Peo-ple all a-round the world (7 syllables)
-Live in man-y dif-fer-ent ways (7 syllables)
-Eat-ing food and speak-ing words (7 syllables)
-In their own spe-cial days (7 syllables)
-Some wear silk and some wear wool (7 syllables)
-Dan-cing in the sun-ny days (7 syllables)
+Different traditions that we share
+That we share, that we share
+Different traditions that we share
+In our community
 
 *Verse 2*
-Ev-ery cul-ture tells a tale (7 syllables)
-With their mu-sic, art and songs (7 syllables)
-Fam-ilies gather all a-round (7 syllables)
-Where each per-son still be-longs (7 syllables)
-Red and yel-low, green and blue (7 syllables)
-All the world is bright and kind (7 syllables)
+Diversity makes life so bright
+Life so bright, life so bright
+Diversity makes life so bright
+Colors everywhere
+
+Culture, traditions, all unique
+All unique, all unique
+Community brings us together
+Celebrating all
 
 **Actions/Gestures**:
-1. Wave hands gently side-to-side to represent people around the world in a circle
-2. Use arms to make a large rainbow arc overhead, showing diversity of colors and cultures
-3. Point to different body parts (head, heart, hands, feet) to show all people have the same needs for thinking, feeling, and doing
+1. Make a wide sweeping circle with arms on "all around the world" to show global community
+2. Clap hands together on "traditions" to celebrate different cultural practices
+3. Wave hands side to side like a rainbow on "diversity" to show many different ways of living
 
 ## Intro Video Recommendation
 

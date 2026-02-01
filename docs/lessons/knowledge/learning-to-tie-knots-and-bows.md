@@ -16,56 +16,40 @@ Children will develop fine motor control and hand-eye coordination by learning t
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and steady
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Now we'll make a pretty loop
-(Now=1, we'll=1, make=1, a=1, pret=1, ty=1, loop=1) = 7 syllables
-
-Cross the strings across the loop
-(Cross=1, the=1, strings=1, a=1, cross=1, the=1, loop=1) = 7 syllables
-
-Pull them tight and make a bow
-(Pull=1, them=1, tight=1, and=1, make=1, a=1, bow=1) = 7 syllables
-
-Now you know how bows are made
-(Now=1, you=1, know=1, how=1, bows=1, are=1, made=1) = 7 syllables
-
-When you practice, you'll have fun
-(When=1, you=1, prac=1, tice=1, you'll=1, have=1, fun=1) = 7 syllables
-
-Tie your shoes and tie a knot
-(Tie=1, your=1, shoes=1, and=1, tie=1, a=1, knot=1) = 7 syllables
+We can tie a loop today
+Watch me weave this way
+Pull the tension, make it tight
+Secure it, that's all right
+With a loop, loop here
+And a loop, loop there
+Here a loop, there a loop
+Everywhere a loop, loop
+We can tie a knot today
+Practice every day
 
 *Verse 2*
-
-Loop and loop and loop around
-(Loop=1, and=1, loop=1, and=1, loop=1, a=1, round=1) = 7 syllables
-
-Pull it tight and pull it down
-(Pull=1, it=1, tight=1, and=1, pull=1, it=1, down=1) = 7 syllables
-
-Make a knot so very strong
-(Make=1, a=1, knot=1, so=1, ver=1, y=1, strong=1) = 7 syllables
-
-With your hands you'll do it right
-(With=1, your=1, hands=1, you'll=1, do=1, it=1, right=1) = 7 syllables
-
-Practice every single day
-(Prac=1, tice=1, ev=1, ry=1, sin=1, gle=1, day=1) = 7 syllables
-
-Soon you'll tie them well and true
-(Soon=1, you'll=1, tie=1, them=1, well=1, and=1, true=1) = 7 syllables
+Now we weave the string around
+Secure and safe and sound
+Feel the tension as we pull
+Learning something wonderful
+With a pull, pull here
+And a pull, pull there
+Here a pull, there a pull
+Everywhere a pull, pull
+Now we tie our bows with care
+Knots are everywhere
 
 **Actions/Gestures**:
-1. Make an exaggerated loop shape with both index fingers and thumbs, holding it up
-2. Cross hands over each other in a weaving motion to show how strings intertwine
-3. Pull hands apart and together repeatedly to demonstrate the tightening action of a knot
+1. Make a loop shape with fingers on "loop, loop here"
+2. Weave hands over and under each other on "weave the string around"
+3. Pull hands apart to show tension on "pull, pull here"
 
 ## Intro Video Recommendation
 

@@ -16,31 +16,28 @@ In this lesson, children learn the basics of gathering information by asking sim
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and cheerful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Ask a question, gather facts
-Put your stickers where you see
-Data tells us what we want
-Information helps us grow
+Ask, ask, ask your friends
+Survey what they say
+Collect the data carefully
+Observe it every day
 
 *Verse 2*
-
-Survey everyone we meet
-Ask them questions, listen well
-Mark their answers one by one
-See what people like the best
+Mark, mark, mark the chart
+Data that we find
+Surveys help us understand
+What's on people's minds
 
 **Actions/Gestures**:
-
-1. **Asking motion**: Hold hand to ear as if listening, then gesture out with open palms as if asking a question
-2. **Marking motion**: Pretend to make checkmarks or place stickers with finger pointing and tapping motions
-3. **Gathering motion**: Use sweeping arm movements to bring arms together toward chest, as if collecting information
+1. Cup hand to ear and gesture outward when singing "ask your friends"
+2. Pretend to place stickers or marks on a chart during "mark the chart"
+3. Point to eyes during "observe" and tap your head during "what's on people's minds"
 
 ## Intro Video Recommendation
 

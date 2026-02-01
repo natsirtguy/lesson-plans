@@ -16,32 +16,30 @@ Children will explore the fundamentals of food preparation through hands-on cook
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
 **Tempo**: Moderate
 
-**Lyrics** (2 verses, each 7 syllables per line):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Mix-ing, stir-ring, blend-ing food (7)
-Mak-ing some-thing good to eat (7)
-Heat will trans-form what we bake (7)
-Watch the in-gre-di-ents wake (7)
-Lit-tle chef-ren learn each day (7)
-Cook-ing's such a fun-ny play (7)
+Old MacDonald had a farm, E-I-E-I-O,
+And on that farm he loved to cook, E-I-E-I-O,
+Mix and stir and blend it well,
+Ingredients combine so well,
+Transform the food, E-I-E-I-O.
 
 *Verse 2*
-Chop and pour and taste and blend (7)
-Cook-ing is our friend-ly friend (7)
-Sim-mer, mix, and watch it grow (7)
-See how all the fla-vors glow (7)
-Food that's made with love so bright (7)
-Makes our kit-chen feel so right (7)
+In the kitchen here we go, E-I-E-I-O,
+Making food from heat and love, E-I-E-I-O,
+Simmer, taste, and watch it grow,
+All the flavors that we know,
+Little chefs, E-I-E-I-O!
 
 **Actions/Gestures**:
 1. Make stirring motions with both hands as if holding a large spoon in a pot
-2. Pretend to sprinkle ingredients with pinching fingers (like adding salt or flour)
-3. Clap hands together gently (like mixing or combining ingredients)
+2. Pretend to sprinkle ingredients with pinching fingers
+3. Clap hands together gently like mixing or combining ingredients
 
 ## Intro Video Recommendation
 

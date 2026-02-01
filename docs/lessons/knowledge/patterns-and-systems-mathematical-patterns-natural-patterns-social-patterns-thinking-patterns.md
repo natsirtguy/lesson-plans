@@ -16,32 +16,30 @@ In this lesson, children explore the fascinating world of patterns—discovering
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Pat-tern, pat-tern, here and there (7 syllables)
-Pat-terns are ev-'ry-where (7 syllables)
-Stripes and spots and checks so neat (7 syllables)
-Pat-terns make the world com-plete (7 syllables)
-Red and blue, red and blue (7 syllables)
-Pat-terns old and pat-terns new (7 syllables)
+Patterns, patterns, all around, all around
+Patterns, patterns, all around, everywhere we see
+We can predict what comes next
+Find the sequence, check for symmetry
+Patterns, patterns, all around, all around
 
 *Verse 2*
-See the pat-terns, point and say (7 syllables)
-More pat-terns ev-'ry sin-gle day (8 syllables - adjusted: "More pat-terns ev-ry sin-gle day" = 7)
-Clap the beat, clap the beat (7 syllables)
-One, two, one, two, find the heat (7 syllables - adjusted: "One, two, one, two, keep the beat" = 7)
-Pat-terns help us un-der-stand (7 syllables)
-Pat-terns work out oh so grand (7 syllables)
+Red then blue then red then blue, red then blue
+Red then blue then red then blue, that's a pattern true
+We can predict, it's red again
+See the sequence plain and clear for you
+Patterns, patterns help us learn, help us learn
 
 **Actions/Gestures**:
-1. Tap alternating knees (left-right-left-right) while singing to demonstrate repeating pattern
-2. Point and sweep arm side to side to show patterns in the environment
-3. Clap on first beat of each repeated color name (clap-clap-rest pattern)
+1. Point all around while singing "patterns, patterns, all around"
+2. Tap knees in alternating pattern for "red then blue"
+3. Touch head then indicate thinking for "predict what comes next"
 
 ## Intro Video Recommendation
 

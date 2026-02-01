@@ -16,32 +16,38 @@ Children explore how to sort, categorize, and organize digital objects on a tabl
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Moderate and playful
+**Tempo**: Steady and organized
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Tap and sort the things we see (7 syllables)
-Put them where they like to be (7 syllables)
-Circles here and squares right there (7 syllables)
-All arranged so neat and fair (7 syllables)
-Tap to choose and touch with care (7 syllables)
-Sort and organize with care (7 syllables)
+We can organize the things we see
+Things we see, things we see
+We can organize the things we see
+Into each category
+
+Digital tools help us sort them out
+Sort them out, sort them out
+Digital tools help us sort them out
+Tap and drag today
 
 *Verse 2*
-Groups of colors, sorted wide (7 syllables)
-Everything has found its side (7 syllables)
-Red ones here and blue ones too (7 syllables)
-Yellow shines in every view (7 syllables)
-Touch the screen so gently pressed (7 syllables)
-Organizing is the best (7 syllables)
+Put the circles in one group right here
+Group right here, group right here
+Put the circles in one group right here
+That's how we organize
+
+Every category finds its place
+Finds its place, finds its place
+Every category finds its place
+When we sort and organize
 
 **Actions/Gestures**:
-1. Tapping motions with index finger in the air (reinforce the "tap" concept)
-2. Sweeping arms side to side in groups (show categories being separated)
-3. Bringing hands together and patting them gently (show satisfaction with organized items)
+1. Make grouping motions with hands on "organize" and "category" to show putting similar things together
+2. Tap finger in air on "digital" and pretend to drag items on "tap and drag"
+3. Point to different spots on "one group right here" to show organized categories in different places
 
 ## Intro Video Recommendation
 

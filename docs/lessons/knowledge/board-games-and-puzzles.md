@@ -16,32 +16,32 @@ Children explore the concepts of strategy, pattern recognition, and problem-solv
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Puzzles pieces fit so tight
-Finding where they go is right
-Look and think and try once more
-Snap together, now we explore
-Patience helps us find the way
-Puzzles bring us joy today
+The puzzle pieces fit together
+Finding patterns everywhere
+With persistence we keep trying
+Using strategy and care
+Following the rules we know
+Helps our thinking skills to grow
 
 *Verse 2*
-Games are fun with friends so near
-Take your turn and give a cheer
-Roll the dice or move a piece
-Playing games bring us such peace
-Rules help us play fair and true
-Winning or learning—we're proud of you
+When playing games we take our turns
+We practice and we learn
+Rolling dice and moving pieces
+Waiting for our turn
+Puzzles challenge us each day
+Problem-solving all the way
 
 **Actions/Gestures**:
-1. Place hands together like a puzzle piece fitting, then gently separate and come back together
-2. Roll hands over each other in a rolling motion (like rolling dice)
-3. Clap hands together gently (celebrating completing a puzzle or winning a turn)
+1. Bring fingertips together to show puzzle pieces connecting
+2. Pretend to roll dice and move a game piece forward
+3. Hold one finger up to show patience and waiting for your turn
 
 ## Intro Video Recommendation
 

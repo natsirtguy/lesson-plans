@@ -18,32 +18,36 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, expandin
 
 ## 🎵 Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
 **Tempo**: Slow and gentle
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Colors and shapes all around (5)
-Textures we touch on the ground (6)
-Red and blue and yellow too (6)
-See the beautiful things we do (7)
-Painting, drawing, creating art (6)
-Using my mind and my heart (6)
+The colors and the textures
+Make such beautiful art
+Use your palette bright and bold
+Composition sets things apart
+Feel the bumpy, feel the smooth
+See the contrast dark and light
+Creating art with colors and with textures
+Makes our world so bright
 
 *Verse 2*
-Lines and circles, big and small (6)
-We can create, create them all (7)
-Smooth and bumpy, rough and fine (6)
-Every picture is a design (6)
-Playing with color, having fun (6)
-Creating art for everyone (6)
+The shapes and all the patterns
+Come together in design
+Choose your palette carefully
+Make your composition shine
+Paint with red and blue and gold
+See the contrast, watch it glow
+Visual arts and beautiful design work
+Help our creativity grow
 
 **Actions/Gestures**:
-1. Sweep arms wide like painting a big canvas when singing about "colors and shapes all around"
-2. Trace a circle in the air with both hands during "lines and circles"
-3. Gently touch fingertips together repeatedly during "textures we touch" to mimic feeling different textures
+1. Sweep arms wide like painting during "colors and the textures"
+2. Touch fingertips gently during "feel the bumpy, feel the smooth"
+3. Trace a circle in the air during "composition"
 
 ## 📺 Intro Video Recommendation
 

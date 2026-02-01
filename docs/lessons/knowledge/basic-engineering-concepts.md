@@ -16,35 +16,32 @@ Young learners will discover how engineers think and work by designing, building
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Moderate and encouraging
+**Tempo**: Upbeat and active
 
-**Lyrics** (2 verses, 7 syllables each line):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Engineers think about a plan
-They design something with their hands
-Build it up and test it out
-Make it work without a doubt
-Solve the problem, make it right
-Engineers are builders bright
+Plan and design, build and test
+Build and test
+Engineers make prototypes
+That work the best, work the best
+We construct with careful hands
+Following our building plans
 
 *Verse 2*
-
-Take a problem, find a way
-Build and test throughout the day
-Try again if it won't work
-Never let the challenge lurk
-Build it bigger, build it strong
-That's how engineers belong
+Stack it high and make it strong
+Make it strong
+Test to see if it works right
+All day long, all day long
+Engineers solve problems well
+Building things that work so well
 
 **Actions/Gestures**:
-
-1. **Design Gesture**: Make a rectangle frame with both hands as if drawing a blueprint or holding a drawing
-2. **Build Gesture**: Stack one fist on top of the other repeatedly, like stacking blocks to build higher
-3. **Test Gesture**: Gently poke or push the air in front of you as if testing whether something is stable or working
+1. Pretend to draw a design plan in the air with your finger
+2. Stack hands on top of each other repeatedly to show building up
+3. Push gently on an imaginary structure to test its strength
 
 ## Intro Video Recommendation
 

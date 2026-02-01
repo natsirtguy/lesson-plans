@@ -16,35 +16,28 @@ In this lesson, children explore spatial awareness, problem-solving, and creativ
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Moderate and playful
+**Tempo**: Gentle and steady
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Building, building up a fort
-Gather blankets for our fort
-Stack them high, then drape them low
-Now our cozy hide-away
-Building, building up a fort
-Safe and warm inside all day
+We are building up a fort
+Up a fort, up a fort
+Drape the blankets for a shelter
+Cozy structure for our play
 
 *Verse 2*
-
-In our fort we play all day
-Shadows dance on blanket walls
-Stories told throughout the space
-Peace and quiet, warm embrace
-In our fort we play all day
-Building memories to stay
+Stack with stability and care
+And with care, and with care
+Our fort has good stability
+Safe inside all day we stay
 
 **Actions/Gestures**:
-
-1. Stack hands on top of each other while singing "Stack them high" to show building upward
-2. Sweep arms outward and downward during "drape them low" to mimic fabric falling
-3. Give yourself a hug or wrap arms around self during "Safe and warm" to show the protective feeling
+1. Stack hands on top of each other to show building a structure
+2. Sweep arms outward and down to show draping blankets over furniture
+3. Crawl inside an imaginary fort space and sit cozily
 
 ## Intro Video Recommendation
 

@@ -16,28 +16,34 @@ Children learn how to find their way from one place to another by recognizing la
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Moderate and playful
+**Tempo**: Steady and adventurous
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-We can follow down the path
-See the landmarks on the way
-Turn left, turn right, find our place
-We can navigate today
+We navigate along the route
+Finding landmarks as we go
+Journey takes us here and there
+Following the path we know
+Look for signs along the way
+Landmarks help us find our route
+That's how we explore today
 
 *Verse 2*
-Maps and routes show where to go
-Down the street and through the door
-Walking, walking on our way
-Finding routes we're looking for
+Navigate through here and there
+Routes will lead us on our way
+Landmarks show us where to turn
+Journey happens every day
+Left and right and straight ahead
+Following our route so clear
+Finding where the path will lead
 
 **Actions/Gestures**:
-1. Point ahead with one hand (following a path)
-2. Turn body left, then right (turning directions)
-3. Walk your fingers forward on your other arm (walking a route)
+1. Point forward and walk fingers along arm to show following a route
+2. Look around and point to imaginary landmarks
+3. Turn body left and right when navigating directions
 
 ## Intro Video Recommendation
 

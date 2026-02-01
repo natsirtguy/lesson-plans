@@ -18,32 +18,28 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-(7) Twin-kle, twin-kle, lit-tle star
-(7) How I won-der what you are
-(7) Up a-bove the world so high
-(7) Like a lum-in-ous light in the sky
-(7) Twin-kle, twin-kle, lit-tle star
-(7) Shi-ning from so far, so far
+Stars are luminous and bright
+Shining in the sky
+Celestial objects way up high
+Twinkling as we sigh
 
 *Verse 2*
-(7) Plan-ets or-bit 'round the sun
-(7) In the night-time sky they run
-(7) Con-stel-la-tions way up high
-(7) Paint-ing pic-tures in the sky
-(7) We can see them if we look
-(7) Like the pic-tures in a book
+Planets orbit round the sun
+Circling all day long
+Constellations form patterns
+In the sky's great song
 
 **Actions/Gestures**:
-1. Hold up arms and wiggle fingers like twinkling stars
-2. Make large circular motions to show planets orbiting the sun
-3. Point upward to the sky and trace imaginary star patterns with your finger
+1. Wiggle fingers overhead like twinkling, luminous stars
+2. Make large circular motions with arms to show orbiting planets
+3. Point upward and connect imaginary dots to trace constellation patterns
 
 ## Intro Video Recommendation
 

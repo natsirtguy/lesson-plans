@@ -16,31 +16,30 @@ This lesson introduces children to the concept that skills develop through repea
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Moderate and encouraging
+**Tempo**: Upbeat and encouraging
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
+When I practice every day, every day, every day
+When I practice every day, I build my skill
 
-Practice, practice, every day
-Each day I learn to do more
-I'm trying hard, it's the way
-I get better, I can say
+I show persistence when it's hard, when it's hard, when it's hard
+I show persistence when it's hard, I don't give up
 
 *Verse 2*
+I can see my progress grow, progress grow, progress grow
+I can see my progress grow, getting better
 
-Keep on trying, don't you stop
-Every try makes me more strong
-I can learn to do it right
-Practice makes me shine so bright
+My new skill gets strong and bright, strong and bright, strong and bright
+My new skill gets strong and bright, with practice time
 
 **Actions/Gestures**:
-
-1. Make repetitive throwing motions with one arm (practice motion)
-2. Point to yourself with both thumbs and nod (I can do it)
-3. Flex arms to show strength (getting stronger)
+1. Make repeated practice motions like throwing or catching
+2. Flex both arms to show getting stronger through persistence
+3. Clap hands together when singing about progress and skill
 
 ## Intro Video Recommendation
 

@@ -16,35 +16,30 @@ Children explore creating images using digital tools and touchscreen devices, di
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and creative
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Tap the screen and see it light (7 syllables: Tap-the-screen-and-see-it-light)
-Colors shine so red and bright (7 syllables: Col-ors-shine-so-red-and-bright)
-Draw a line or make a dot (7 syllables: Draw-a-line-or-make-a-dot)
-Move your finger, mark the spot (7 syllables: Move-your-fin-ger-mark-the-spot)
-Digital art is fun to make (7 syllables: Dig-i-tal-art-is-fun-to-make)
-Watch the picture that you'll take (7 syllables: Watch-the-pic-ture-that-you'll-take)
+If you want to make digital art, tap the screen
+If you want to make digital art, tap the screen
+Choose your palette, colors bright
+Compose your art with pure delight
+If you want to make digital art, tap the screen
 
 *Verse 2*
-
-Brush and pencil, pen so fine (7 syllables: Brush-and-pen-cil-pen-so-fine)
-Every color is all mine (7 syllables: Ev-ery-col-or-is-all-mine)
-Swipe and swirl and dab and play (7 syllables: Swipe-and-swirl-and-dab-and-play)
-Create something new today (7 syllables: Cre-ate-some-thing-new-to-day)
-Touch the undo, start again (7 syllables: Touch-the-un-do-start-a-gain)
-Draw your masterpiece, my friend (7 syllables: Draw-your-mas-ter-piece-my-friend)
+When you illustrate your ideas, swipe and draw
+When you illustrate your ideas, swipe and draw
+Digital tools help you create
+Pictures that are really great
+When you illustrate your ideas, swipe and draw
 
 **Actions/Gestures**:
-
-1. Tap your finger on the air as if touching a screen when singing "tap the screen"
-2. Swirl your finger in the air in circular motions when singing "swirl"
-3. Pause and look at your hand as if admiring artwork when singing "masterpiece"
+1. Tap finger in air like touching a screen on "tap the screen" and "digital"
+2. Make rainbow arc with hand on "palette, colors bright" to show color selection
+3. Draw swirling motions in air on "compose" and "illustrate" to show creating art
 
 ## Intro Video Recommendation
 

@@ -16,32 +16,28 @@ This lesson helps young children understand how human actions affect the natural
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-We must care for na-ture's gift
-Plants and an-i-mals need our help
-Pick up trash and plant a seed
-Ev-ry act shows what we need
-This is how we care with love
-Protect the world that we're a part of
+Care, care, care for Earth
+Protect our environment
+Pick up litter, plant a tree
+Conserve so carefully
 
 *Verse 2*
-Turn off lights and save the trees
-Use less wat-er, please, oh please
-Recycle items, don't throw away
-Make a dif-ference ev-ry day
-Na-ture needs both you and me
-We can build a bet-ter world, you see
+Help, help, help the Earth
+Make our planet clean
+Protect the water, air, and land
+Environment so green
 
 **Actions/Gestures**:
-1. Pretend to pick up trash from the ground, then gently place in an imaginary bin
-2. Gently touch imaginary plants and trees while swaying, then wrap arms around self protectively
-3. Open hands wide like rain falling, then slowly close fists (conserving water)
+1. Pretend to pick up litter and place it in a bin
+2. Make planting motions with hands digging and covering soil
+3. Sweep arms in a circle to show protecting the whole environment
 
 ## Intro Video Recommendation
 

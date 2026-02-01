@@ -16,33 +16,29 @@ Children will explore the magic of storytelling and books through interactive re
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and engaging
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Sto-ries have char-ac-ters, set-tings too (7 syllables)
-With a start, mid-dle, end that's true (7 syllables)
-Pic-tures show what's hap-pen-ing (7 syllables)
-Char-ac-ters go through ev-ery-thing (7 syllables)
-Sto-ries have char-ac-ters, set-tings too (7 syllables)
-Let's read some-thing brand new! (6 syllables - adjust to 7: Let's read some-thing brand new-ly!) → Let's read some-thing brand new to-day (7 syllables)
+The character climbed up the story page
+With a setting and a brand new stage
+And the narrative had a start, middle, end
+So the character learned lessons as a friend
 
 *Verse 2*
-Ad-ven-tures wait on ev-ery page (7 syllables)
-Char-ac-ters learn les-sons through their stage (7 syllables)
-Lis-ten to the words we share (7 syllables)
-Sto-ries take us ev-ery-where (7 syllables)
-Ad-ven-tures wait on ev-ery page (7 syllables)
-Let's turn the next page! (6 syllables - adjust: Let's turn a-noth-er page!) (7 syllables)
+Adventures went down through every tale
+With illustrations they could never fail
+And the characters came back with lessons learned
+As the narrator's voice returned
 
 **Actions/Gestures**:
-1. Open hands like a book opening when singing about "stories have characters"
-2. Point to eyes then sweep arms wide when singing "pictures show what's happening"
-3. Walk fingers across the other palm in a walking motion during "characters go" lines
-4. Turn hands like turning a page during the "Let's turn" part
+1. Open hands like a book opening when singing about stories
+2. Trace upward climbing motions during verse 1
+3. Point to eyes then sweep arms wide to show pictures and illustrations
+4. Make a turning page gesture during the transitions
 
 ## Intro Video Recommendation
 

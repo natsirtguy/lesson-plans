@@ -16,32 +16,28 @@ Children explore the concept of beauty through colors, patterns, textures, and v
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and flowing
 
-**Lyrics** (2 verses, matching the 7-syllable pattern):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Beautiful colors shine so bright
-Red and blue and yellow light
-Smooth and bumpy, rough and soft
-Textures all around and oft
-Beauty is in all we see
-Special things for you and me
+Look at all the beauty
+Colors bright and true
+Patterns, textures, aesthetic views
+Pretty things for you
 
 *Verse 2*
-Patterns here and patterns there
-Spots and stripes and designs fair
-Nature makes such pretty things
-From the flowers that spring brings
-Balance makes our eyes so glad
-Beauty's something we all have
+Feel the smooth and bumpy
+Balance all around
+Nature shows us beautiful things
+Beauty can be found
 
 **Actions/Gestures**:
-1. Sweep arms across in an arc for "shining" or "bright" - mimicking light spreading
-2. Use fingers to trace in the air for "patterns" - drawing stripes, dots, or zigzags
-3. Touch different body parts for textures - smooth cheek, rough arm, soft hair
+1. Run hands over different textures in the air (smooth flowing motions, then choppy rough motions)
+2. Draw patterns in the air with fingers (stripes, dots, swirls)
+3. Spread arms wide to show the beauty all around you
 
 ## Intro Video Recommendation
 

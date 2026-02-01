@@ -16,32 +16,28 @@ In this lesson, children discover the world's most amazing natural landmarks—t
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate and playful
+**Tempo**: Gentle and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Moun-tains tall and can-yons wide (7 syllables)
-Wa-ter-falls and stone so high (7 syllables)
-Gran-ite rocks and san-dy caves (7 syllables)
-Land-marks shaped by wind and waves (7 syllables)
-Nat-u-ral won-ders all a-round (7 syllables)
-Beau-ti-ful land-marks we have found (7 syllables)
+Landmarks, landmarks, standing tall,
+Mountains with elevation high,
+Formation made by wind and rain,
+Erosion shapes the sky
 
 *Verse 2*
-Ar-ches stand in des-ert land (7 syllables)
-Gia-nt rocks so tall and grand (7 syllables)
-Er-o-sion carved them o-ver time (7 syllables)
-Mil-lions of years—na-ture's climb (7 syllables)
-Ev-ery land-mark tells a tale (7 syllables)
-Of mo-ments when the rocks don't fail (7 syllables)
+Canyons, waterfalls, and more,
+Landmarks that we love to see,
+Erosion carved the rock away,
+Natural formations free
 
 **Actions/Gestures**:
-1. Mountain peaks: Raise both arms high above head in a triangular mountain shape
-2. Canyon depth: Start with hands together, then sweep them apart and down to show the depth and width
-3. Flowing water: Make rippling hand motions from high to low to show water erosion over time
+1. Raise both arms high in a mountain peak shape for "elevation"
+2. Make flowing downward motions with hands for "erosion"
+3. Sweep hands wide to show the grand scale of landmarks
 
 ## Intro Video Recommendation
 

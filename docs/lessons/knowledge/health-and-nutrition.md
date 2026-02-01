@@ -22,32 +22,37 @@ Select 3-4 vocabulary words that:
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: "Head, Shoulders, Knees and Toes"
 
 **Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Eat your food so strong and bright
-Colors help your body right
-Red ap-ples, green leafy beans
-Or-ange car-rots, best we've seen
-Nour-ish-ing your bones and mind
-Health and strength you'll surely find
+Foods with nutrients make us strong
+Make us strong
+Foods with nutrients make us strong
+Make us strong
+We nourish our bodies every day
+When we consume and run and play
+Energy helps us all day long
+All day long
 
 *Verse 2*
-Drink your wa-ter, eat your grains
-Fuel for run-ning, jump-ing, plays
-Milk for bones that grow so tall
-Pro-tein helps you grow and crawl
-Eat the rain-bow ev-ery day
-Grow up strong in ev-ery way
+Red and orange, green and blue
+Green and blue
+Red and orange, green and blue
+Green and blue
+Rainbow foods will nourish you
+Nutrients in all we chew
+Healthy bodies, strong and true
+Strong and true
 
 **Actions/Gestures**:
-1. Point to different parts of your body (eyes, bones, muscles) as you sing about what each nutrient helps
-2. Make a rainbow arc with your arms while singing "Eat the rainbow every day"
-3. Clap your hands in rhythm, then transition to flexing your arms to show strength
+1. Touch head, shoulders, knees during the tune's traditional motions
+2. Make eating motions during "consume"
+3. Run in place during "run and play" and flex arms for "strong"
+4. Make a rainbow arc with arms during "rainbow foods"
 
 ## Intro Video Recommendation
 

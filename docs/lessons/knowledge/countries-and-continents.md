@@ -18,32 +18,30 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and curious
+**Tempo**: Upbeat and enthusiastic
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Around the world so far and wide
-Many lands on Earth reside
-Continents of seven kind
-People, places, nature find
-So much beauty everywhere
-Countries in the Earth's big care
+If you want to find a country, spin the globe
+If you want to find a country, spin the globe
+Seven continents so wide
+People living side by side
+If you want to find a country, spin the globe
 
 *Verse 2*
-Spin the globe and look around
-Africa has big elephant sound
-Asia's mountains touch the sky
-Europe's towns are way up high
-Every country has a place
-On our world's amazing face
+When you're ready to discover something new
+When you're ready to discover something new
+Countries all around the world
+Watch the globe as it is twirled
+When you're ready to discover something new
 
 **Actions/Gestures**:
-1. Spin your hands in a circular motion like spinning a globe
-2. Point outward in different directions to show spreading across the world
-3. Make a large circle with your arms to show the roundness of Earth
+1. Spin hands in circles when singing "spin the globe"
+2. Hold up seven fingers for "seven continents"
+3. Point to different directions around the room for "countries all around the world"
 
 ## Intro Video Recommendation
 

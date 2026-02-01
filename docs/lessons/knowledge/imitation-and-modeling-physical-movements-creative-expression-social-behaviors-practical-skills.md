@@ -16,32 +16,28 @@ Children learn fundamental skills through watching and copying the actions, expr
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and active
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can copy what you do (7)
-Follow me and I'll do too (7)
-Watch my hands up in the air (7)
-I can make a funny face (7)
-Copy, copying is fun (7)
-We can dance and skip and run (7)
+Mimic, model, copy me, copy me
+Mimic, model, copy me, copy me
+Watch my gestures and expression too
+Mimic, model, copy me, copy me
 
 *Verse 2*
-Do you see me clap my hands (7)
-Now you copy where I stand (7)
-Nod your head and stomp your feet (7)
-Imitate and then repeat (7)
-Learning as we play and move (7)
-Showing all the things we do (7)
+Watch me wave and clap my hands, clap my hands
+Watch me jump and stomp around, stomp around
+Copy all the movements that I do
+Learning as I mimic you, mimic you
 
 **Actions/Gestures**:
-1. Clap hands in rhythm with the song
-2. Point to eyes when singing about watching
-3. Sway or bounce body side to side during verses
+1. Copy each gesture mentioned in real time while singing
+2. Wave, clap, jump, and stomp as the lyrics describe
+3. Point to your face when singing about expressions
 
 ## Intro Video Recommendation
 

@@ -18,28 +18,28 @@ Song creation and composition is the process of making music by inventing melodi
 
 **Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Upbeat and playful
+**Tempo**: Upbeat and creative
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I'm making up a song today, E-I-E-I-O
-Let's create music, hip hooray, E-I-E-I-O
-With a "la-la" here and a "la-la" there
-Here a "la", there a "la", everywhere a "la-la"
-I'm making up a song today, E-I-E-I-O
+We can make our composition, E-I-E-I-O
+Sing the melody we're wishin', E-I-E-I-O
+With a rhythm here and rhythm there
+Here a beat, there a beat, everywhere a rhythm beat
+We can make our composition, E-I-E-I-O
 
 *Verse 2*
-Sing the melody with me, E-I-E-I-O
-Make a song as we can see, E-I-E-I-O
-With a "boom-boom" here and a "boom-boom" there
-Here a boom, there a boom, everywhere a boom-boom
-Sing the melody with me, E-I-E-I-O
+Songs are full of our expression, E-I-E-I-O
+Making music is our passion, E-I-E-I-O
+With a melody so sweet and clear
+Here we sing, there we sing, singing songs for all to hear
+Songs are full of our expression, E-I-E-I-O
 
 **Actions/Gestures**:
-1. Sway gently side to side while singing
-2. Pat your leg to the beat during the verses
-3. Clap hands together during the "la-la" and "boom-boom" sections
+1. Wave hands like conducting when singing about composition and melody
+2. Clap or tap steady rhythm during the "rhythm here and rhythm there" parts
+3. Place hands on heart when singing about expression
 
 ## 📺 Intro Video Recommendation
 

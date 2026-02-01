@@ -16,28 +16,38 @@ Children explore the concept of buoyancy by discovering which objects float and 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Some things float and some things sink
-In the water, what we see
-Heavy things go down, down, down
-Light things float all up around
+The buoyant cork goes up, up, up
+Up, up, up, up, up, up
+The buoyant cork goes up, up, up
+Floating on the water
+
+The heavy rock goes down, down, down
+Down, down, down, down, down, down
+The heavy rock goes down, down, down
+Sinking in the water
 
 *Verse 2*
-Drop a cork into the tub
-Watch it bobbing round about
-Rocks and stones go straight down fast
-Now you know what makes things last
+We observe what floats and sinks
+Floats and sinks, floats and sinks
+We observe what floats and sinks
+Testing in the water
+
+The density makes things sink
+Things sink, things sink
+The density makes things sink
+Submerging in the water
 
 **Actions/Gestures**:
-1. Move both hands down slowly to show heavy objects sinking to the bottom
-2. Move both hands up and away from body to show light objects floating upward
-3. Pretend to drop something into water and watch it with wide eyes and pointing finger
+1. Point upward with both hands when singing about floating and buoyant objects
+2. Point downward when singing about sinking and submerging
+3. Put hand to eyes like binoculars when singing "observe"
 
 ## Intro Video Recommendation
 

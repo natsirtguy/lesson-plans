@@ -16,35 +16,28 @@ Children discover the joy of problem-solving through age-appropriate puzzles tha
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
 **Tempo**: Moderate and playful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Puzzles help my brain to grow
-Finding where each piece will go
-Turn them, flip them, try again
-Matching shapes and colors then
-Puzzles help my brain to grow
-I can do it, now I know
+Find the patterns, match the shapes
+See how pieces fit in space
+Manipulate each puzzle part
+Persistence makes us smart
 
 *Verse 2*
-
-Twist and turn and find the way
-Puzzles teach us every day
-When you're stuck, just take a rest
-Trying hard and doing best
-Twist and turn and find the way
-Puzzles teach us every day
+Spatial thinking helps us see
+Where the pieces ought to be
+Turn and test until it's right
+Puzzles make our brains so bright
 
 **Actions/Gestures**:
-
-1. Hold hands up and make a rotating motion (twist and turn) when singing about turning pieces
-2. Point to your head when singing "my brain to grow" to show thinking and learning
-3. Clap hands together when singing "I can do it" to celebrate success
+1. Point to eyes when singing "see" and touch head when singing "spatial thinking"
+2. Make rotating motions with hands when singing "turn and test"
+3. Clap hands together when puzzle pieces "fit" to celebrate
 
 ## Intro Video Recommendation
 

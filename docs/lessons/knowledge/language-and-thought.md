@@ -16,32 +16,28 @@ Children discover how words help us think and understand the world around us thr
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and thoughtful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Words can help us think and say
-What we feel and think each day
-When we talk and when we share
-We can say what's in our care
-Words help us to understand
-All the worlds both big and grand
+Think and talk, express yourself, express yourself
+Think and talk, express yourself, express yourself
+Words and thoughts have a connection
+Think and talk, communicate, communicate
 
 *Verse 2*
-Think a thought and say it loud
-Share your ideas with your crowd
-In your mind you make a plan
-Use your words the very best you can
-Language helps our thinking grow
-More and more we come to know
+Use your words to imagine things, imagine things
+Use your words to imagine things, imagine things
+Express your feelings and your thoughts
+Make that connection now, connection now
 
 **Actions/Gestures**:
-1. Point to your head when singing "think," then point to your mouth when singing "say"
-2. Put hand over heart when singing about feelings, then open hands outward when singing "share"
-3. Make expanding circles with both arms when singing "grow" to show ideas expanding
+1. Point to head when singing "think" and to mouth when singing "talk"
+2. Open hands outward from chest when singing "express"
+3. Bring hands together to show connection between thinking and speaking
 
 ## Intro Video Recommendation
 

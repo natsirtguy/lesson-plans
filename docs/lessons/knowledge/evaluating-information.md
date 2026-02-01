@@ -16,30 +16,38 @@ Children explore how to think carefully about information by observing, comparin
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Thoughtful and steady
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Watch and look and notice things
-Colors, textures, all they bring
-Is it real or is it play?
-Ask me questions every day
-Think about what you can see
-Does the answer make sense? Yes!
-Compare the same and different too
-Look carefully at what is true
-Ask and wonder, question why
-Think before you answer my
-Smart and careful, that is you
-Learning what to do
+We observe the things we see
+Things we see, things we see
+We observe the things we see
+And ask a question too
+
+Is it real or is it not?
+Is it not, is it not?
+Is it real or is it not?
+Let's compare and know
+
+*Verse 2*
+We can look at both and see
+Both and see, both and see
+We can look at both and see
+Compare them side by side
+
+Question what is really true
+Really true, really true
+Question what is really true
+Observe and figure out
 
 **Actions/Gestures**:
-1. Place hands above eyes like binoculars and slowly turn your head to mime observing something carefully
-2. Hold both hands out with palms up and tilt them side to side as if balancing two things while comparing
-3. Touch chin with finger, squint thoughtfully, and nod slowly to show thinking and questioning
+1. Cup hands around eyes like binoculars on "observe" to show looking carefully
+2. Hold hands out palms up on "compare" and tilt them like weighing two things
+3. Touch finger to chin on "question" to show thinking and wondering about information
 
 ## Intro Video Recommendation
 

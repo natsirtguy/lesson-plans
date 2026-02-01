@@ -18,32 +18,36 @@ Select 3-4 vocabulary words that expand beyond toddler basics:
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Tools help us, oh what fun
-Each one does a special one
-A spoon can stir, a brush can paint
-A shovel digs without a wait
-Tools help us work and tools help play
-Every single tool finds the way
+Every tool has a purpose here
+Each one helps us so
+A spoon for stirring, brush for paint
+That's how the tools all go
+With a handle here and handle there
+Here a tool, there a tool
+Every tool has function, yes
+They help us do our work
 
 *Verse 2*
-Handles help us hold them tight
-We use our tools both day and night
-A hammer taps, a broom will sweep
-Our tools help us, our tools we keep
-So thank the tools both big and small
-The most useful things of all
+Tools have purposes we know
+Each one has a job
+The hammer taps, the broom will sweep
+Their function helps us all
+With a handle here and handle there
+Here a tool, there a tool
+Every tool with purpose clear
+We use them every day
 
 **Actions/Gestures**:
-1. Pretend to stir with a spoon (circular hand motion)
-2. Pretend to paint with a brush (sweeping motion)
-3. Pretend to sweep with a broom (back and forth sweeping motion)
+1. Pretend to stir with a spoon for "tool" and point to it for "purpose"
+2. Grip an imaginary handle and hold it up
+3. Mimic different tool actions: sweep, stir, paint for "function"
 
 ## Intro Video Recommendation
 

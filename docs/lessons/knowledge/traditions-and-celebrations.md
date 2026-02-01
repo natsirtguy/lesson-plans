@@ -16,31 +16,28 @@ Children explore what makes celebrations special by discovering that traditions 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
 **Tempo**: Moderate and joyful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Cel-e-brate, cel-e-brate, let's come to-geth-er here
-Cel-e-brate, cel-e-brate, with peo-ple we hold dear
-With mu-sic and with lights so bright
-With friend-ly smiles and hearts so light
-Cel-e-brate, cel-e-brate, a trad-tion year af-ter year
+When we gather to celebrate
+Celebrate, celebrate
+When we gather to celebrate
+We share traditions
 
 *Verse 2*
-Gath-ering brings us all to-geth-er here
-Gath-ering all the peo-ple that we hold dear
-With sto-ries, songs, and food to share
-With laugh-ter ring-ing in the air
-Trad-i-tions make our hearts grow warm and bright
+Rituals make moments special
+Very special, very special
+Rituals make moments special
+Gather with our loved ones
 
 **Actions/Gestures**:
-
-1. Clap hands together in rhythm during "celebrate" and "gather" to show togetherness and joy
-2. Gently sway side to side during the verse to feel connected to others singing with you
-3. Raise arms up and out at the end to show that celebrations bring hearts and people together
+1. Join hands and sway side to side during "gather to celebrate"
+2. Clap in rhythm during "celebrate" to show joy and togetherness
+3. Bring arms in close on "gather with our loved ones" like a welcoming hug
 
 ## Intro Video Recommendation
 

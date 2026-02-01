@@ -14,41 +14,40 @@ Children will explore the concept of energy through their bodies and observe how
 
 **Momentum**: The energy something has when it's moving and the way it keeps going. A rolling ball has momentum that makes it keep rolling until something stops it. Your body has momentum when you run and it's harder to stop suddenly.
 
-## 🎵 Learning Song
+## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Moderate and playful
+**Tempo**: Energetic and bouncy
 
-**Lyrics** (2 verses, 6 lines each):
-
-*Verse 1*
-Energy, energy, makes me move (En-er-gy, en-er-gy, makes me move = 8 syllables)
-*Adjust:* En-gy, en-gy, makes me move (5 syllables)
-*Better:* My en-er-gy, en-er-gy makes me go (My en-er-gy, en-er-gy makes me go = 9 syllables)
-
-Let me recount carefully for "Twinkle, Twinkle" which needs 7 syllables per line:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-En-er-gy makes me move a-round (En-er-gy makes me move a-round = 7 syllables) ✓
-Jump-ing, run-ning, danc-ing fast (Jump-ing, run-ning, danc-ing fast = 7 syllables) ✓
-My bo-dy's full of mo-tion fast (My bo-dy's full of mo-tion fast = 8 syllables)
-*Better:* My bod-y moves so fast and strong (My bod-y moves so fast and strong = 7 syllables) ✓
-Push and pull and roll a-round (Push and pull and roll a-round = 7 syllables) ✓
-En-er-gy's what makes things move (En-er-gy's what makes things move = 7 syllables) ✓
+Energy makes my body move
+Body move, body move
+Energy makes my body move
+With movement all day long
+
+Force can push and force can pull
+Push and pull, push and pull
+Force can push and force can pull
+Making things go strong
 
 *Verse 2*
-Sto-pping, start-ing, all day long (Sto-pping, start-ing, all day long = 7 syllables) ✓
-I can feel it in my soul (I can feel it in my soul = 7 syllables) ✓
-Mo-tion makes the world so bright (Mo-tion makes the world so bright = 7 syllables) ✓
-En-er-gy, so full of might (En-er-gy, so full of might = 7 syllables) ✓
-When I'm mov-ing all a-round (When I'm mov-ing all a-round = 7 syllables) ✓
-En-er-gy is all I see (En-er-gy is all I see = 7 syllables) ✓
+Momentum keeps me rolling on
+Rolling on, rolling on
+Momentum keeps me rolling on
+Energy in motion
+
+Run and jump and spin around
+Spin around, spin around
+Run and jump and spin around
+Movement is the way
 
 **Actions/Gestures**:
-1. Jump up and down while singing to demonstrate energy in motion
-2. Make circular arm motions to show continuous movement and momentum
-3. Create a pushing motion with hands to show force, then a pulling motion
+1. Jump up and down on "energy" and "body move" to show active movement
+2. Make pushing and pulling motions with arms on "force can push and force can pull"
+3. Spin in a circle or roll arms on "momentum" to show continuous motion
 
 ## 📺 Intro Video Recommendation
 

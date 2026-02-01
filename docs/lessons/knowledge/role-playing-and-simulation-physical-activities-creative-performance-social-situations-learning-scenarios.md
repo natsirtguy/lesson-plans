@@ -16,32 +16,30 @@ Children engage in imaginative pretend play, taking on different roles and actin
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and energetic
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Let's pretend and act it out
-We can play with friends about
-Be a doctor, be a cat
-Try some roles like this and that
-What a wonderful way to play
-Learning more and more each day
+If you want to simulate, act it out
+If you want to simulate, act it out
+Pick a character to be
+In a fun scenario
+If you want to simulate, act it out
 
 *Verse 2*
-I can be a flying bird
-You can say what I have heard
-Stomp like elephant so strong
-Dance and sing our special song
-Pretend play is so much fun
-Come and play with everyone
+If you like to improvise, make it up
+If you like to improvise, make it up
+Be creative as you play
+Characters in every way
+If you like to improvise, make it up
 
 **Actions/Gestures**:
-1. Flap arms like wings while singing "bird"
-2. Stomp feet heavily when saying "stomp like elephant"
-3. Spin around with arms spread wide during "dance and sing"
+1. Act out different characters (doctor checking, chef cooking, animal moving)
+2. Gesture widely when improvising to show creativity
+3. Point to self when choosing a character, then act out the role
 
 ## Intro Video Recommendation
 

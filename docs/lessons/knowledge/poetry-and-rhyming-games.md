@@ -14,30 +14,30 @@ Poetry and rhyming games introduce young children to the rhythmic patterns, soun
 
 **Verse**: A line or group of lines in a poem or song. A verse is where the words and ideas come together with rhythm and rhyme. Think of a verse as a "chunk" of a song or poem that tells part of the story.
 
-## 🎵 Learning Song
+## Learning Song
 
-**Tune**: Are You Sleeping (Frère Jacques)
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Slow and gentle
+**Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Words can rhyme, words can rhyme,
-They sound the same, they sound the same,
-Listen to the matching sounds, listen to the matching sounds,
-CAT and HAT, CAT and HAT!
+If a word can make a rhyme, clap your hands
+If a word can make a rhyme, clap your hands
+Cat and hat, they sound the same, rhyming is a fun word game
+If a word can make a rhyme, clap your hands
 
 *Verse 2*
-Create a rhyme, create a rhyme,
-Use your ear, use your ear,
-Different words with ending sounds, different words with ending sounds,
-Clap and tap, clap and tap!
+Feel the rhythm, feel the beat, stomp your feet
+Feel the rhythm, feel the beat, stomp your feet
+Patterns help us hear the verse, poetry makes words rehearse
+Feel the rhythm, feel the beat, stomp your feet
 
 **Actions/Gestures**:
-1. Cup your hand behind your ear when singing "listen" to show you're paying attention to sounds
-2. Make rhyming pairs with your hands moving together when singing matching word pairs (cat-hat, clap-tap)
-3. Clap on the beat to emphasize the rhythm and rhyming words at the end of each verse
+1. Clap hands on the beat when singing about rhymes
+2. Stomp feet to feel the rhythm
+3. Cup hand behind ear to listen for rhyming patterns
 
 ## 📺 Intro Video Recommendation
 

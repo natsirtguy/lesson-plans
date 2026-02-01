@@ -16,35 +16,38 @@ Young learners discover that information can be collected, organized, and compar
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and steady
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
+We collect the data now
+Data now, data now
+We collect the data now
+And sort them into groups
 
-Collect the data, here we go
-Sort them all in a neat row
-Red ones here and blue ones there
-Look at all the things we share
-Patterns growing, patterns show
-Data helps us learn and grow
+Look for patterns as we go
+As we go, as we go
+Look for patterns as we go
+Compare what we have found
 
 *Verse 2*
+Sort the big ones and the small
+And the small, and the small
+Sort the big ones and the small
+Put them in neat rows
 
-Compare the tallest and the small
-Count them, count them, count them all
-Stories hiding in the groups
-Data's dancing in our loops
-Every answer, every call
-Data shows the truth to all
+Count and compare what we see
+What we see, what we see
+Count and compare what we see
+Data helps us learn
 
 **Actions/Gestures**:
-
-1. **Collecting motion**: Reach hands out to the sides and bring them together in front of your body (as if scooping items into a basket)
-2. **Sorting motion**: Use both hands to separate items left and right (place some items on left shoulder, some on right shoulder)
-3. **Pointing to patterns**: Point your finger along an imaginary line or row as if tracing a pattern on a chart
+1. Reach out and scoop hands together for "collect the data"
+2. Separate hands to left and right for "sort them into groups"
+3. Point finger along an imaginary line for "patterns" and "compare"
 
 ## Intro Video Recommendation
 

@@ -16,32 +16,36 @@ This lesson introduces young children to the skill of sustained attention and fo
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Slow and gentle
+**Tempo**: Calm and steady
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Focus, focus, watch and see
-What you do so carefully
-Listen to the sounds around
-Pay attention, you are found
-Keep your body nice and still
-Focus brings you such a thrill
+I can focus on one thing
+E-I-E-I-O
+Concentrate and attention bring
+E-I-E-I-O
+Watch it carefully with my eyes
+Being mindful helps me try
+I can focus on one thing
+E-I-E-I-O
 
 *Verse 2*
-Concentrate on one small thing
-Watch it all and notice it
-Keep your mind right here with me
-Focus, buddy, you will see
-When you focus, learn so true
-All the wonderful things you do
+Pay attention to what's here
+E-I-E-I-O
+Focus helps me see so clear
+E-I-E-I-O
+Concentrate and watch with care
+Mindful moments everywhere
+Pay attention to what's here
+E-I-E-I-O
 
 **Actions/Gestures**:
-1. Cup hand around one eye like a telescope when singing "Focus, focus" to show narrowed attention
-2. Place finger on lips when singing "Listen" to show careful listening
-3. Place hand over heart when singing "Keep your mind right here" to show presence and awareness
+1. Make binoculars with hands around eyes to show focus
+2. Point to one object and look at it carefully
+3. Place hands gently over heart to show mindful awareness
 
 ## Intro Video Recommendation
 

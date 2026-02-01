@@ -22,32 +22,28 @@ Select 3-4 vocabulary words that:
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Moderate (steady and encouraging)
+**Tempo**: Moderate and encouraging
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Wash, wash, wash your hands so clean
-Get out all the germs unseen
-With soap and water, scrub scrub scrub
-Rub them in your hands and tub
-Rinse and dry them, shiny bright
-Your hands are healthy, clean, and right
+Wash for cleanliness today, hygiene way, hygiene way
+Wash for cleanliness today, scrub bacteria away
+Soap and water nourish health, nourish health, nourish health
+Soap and water nourish health, keep us clean each day
 
 *Verse 2*
-Brush your teeth from side to side
-Morning, nighttime, with such pride
-Splash your face and wash up well
-Healthy habits we can tell
-Comb your hair and take a bath
-Self-care is the healthy path
+Brush your teeth and wash your face, wash your face, wash your face
+Brush your teeth and wash your face, cleanliness in every place
+Hygiene keeps bacteria far, bacteria far, bacteria far
+Hygiene keeps bacteria far, healthy as we are
 
 **Actions/Gestures**:
-1. Scrubbing motion with both hands together for "wash, wash, wash"
-2. Vertical brushing motion in front of face for "brush your teeth"
-3. Both hands held up with fingers wiggling to show "shiny bright" and "clean"
+1. Scrub hands together for "wash for cleanliness"
+2. Brush teeth motion for "brush your teeth"
+3. Wipe hands on towel for "keep us clean each day"
 
 ## Intro Video Recommendation
 

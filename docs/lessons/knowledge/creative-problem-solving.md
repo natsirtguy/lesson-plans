@@ -16,32 +16,38 @@ Children will discover multiple ways to solve simple challenges using everyday m
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and encouraging
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-When you find a problem here
-Think of ways to solve it clear
-Try one way, and if it's not
-Try another in this spot
-Many solutions you can find
-Creative thinking in your mind
+When you meet an obstacle
+Obstacle, obstacle
+When you meet an obstacle
+Find a solution
+
+Try and try and persist now
+Persist now, persist now
+Try and try and persist now
+Transform your problem
 
 *Verse 2*
-Don't give up when stuck today
-Find a new and better way
-Try and try with all your might
-You can solve it, yes you might!
-Problems help your brain to grow
-So much more than you could know
+Many ways to solve it here
+Solve it here, solve it here
+Many ways to solve it here
+Keep on trying
+
+Don't give up when things are hard
+Things are hard, things are hard
+Don't give up when things are hard
+You're a solver
 
 **Actions/Gestures**:
-1. Tap your head gently when singing "thinking in your mind" - reinforces that problem-solving uses the brain
-2. Make a "trying" motion (hand reaching out, flexing arms) when singing "try and try with all your might" - shows effort and persistence
-3. Shrug shoulders and smile when singing "find a new and better way" - shows flexibility and trying alternatives
+1. Put hand on hip and look puzzled for "when you meet an obstacle"
+2. Flex arms and show strength for "persist now"
+3. Clap hands together for "find a solution" to celebrate problem-solving
 
 ## Intro Video Recommendation
 

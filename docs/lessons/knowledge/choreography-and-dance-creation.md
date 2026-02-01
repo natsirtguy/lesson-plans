@@ -20,24 +20,24 @@ Choreography and dance creation empowers children to express themselves through 
 
 **Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Move and sway today
-Show what you can do
-Spinning, twirling, jumping, dancing, all together
-Your dance shines right through
+Move, move, move your body,
+Gently down the floor,
+Choreography is movement,
+That we all explore.
 
 *Verse 2*
-Let your body play
-Move in your own way
-Dancing, jumping, swaying, twirling, spinning today
-Dance shines bright each day
+Sway and spin and shimmy,
+Expression is the way,
+Sequence, dance, and movement,
+Celebrate today.
 
 **Actions/Gestures**:
-1. Sway side to side with arms extended, like a tree in the wind
-2. Spin around slowly, arms out to the sides
-3. Reach up high on "dancing" and bring arms down with a gentle bounce
+1. Sway side to side during "move, move, move your body"
+2. Make flowing motions with arms during "gently down the floor"
+3. Spin and pause in a pose during the second verse
 
 ## 📺 Intro Video Recommendation
 

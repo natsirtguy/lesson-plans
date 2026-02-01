@@ -16,32 +16,32 @@ In this lesson, children explore the difference between clean and polluted space
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate and gentle
+**Tempo**: Cheerful and bouncy
 
-**Lyrics** (2 verses, syllables counted):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Clean and pol-lu-ted, let me see
-What makes our world so fresh and free
-Clean en-vi-ron-ments are bright
-They keep us healthy, clean and right
-Pol-lu-ted places make us sad
-With dirt and trash that's really bad
+Clean, clean, environment
+Look around and see what's meant
+Fresh clean air and water bright
+No trash or dirt, it feels just right
+Clean, clean, environment
+That's where we love to play and tent
 
 *Verse 2*
-We can help our world be clean
-The best place you have ever seen
-Pick up trash and wash our hands
-To care for all our special lands
-Clean en-vi-ron-ments are great
-They help us all live long and safe
+Stop, stop, pollution now
+We can help, we'll show you how
+Pick up trash and throw away
+Keep our world so clean each day
+Stop, stop, pollution now
+We take care, we make a vow
 
 **Actions/Gestures**:
-1. Sweep arms across body in a wide circle when singing "clean"—representing cleaning and freshness
-2. Wrinkle nose and shake head when singing "polluted"—showing disapproval of dirt and mess
-3. Point outward with both hands on "help our world be clean"—showing responsibility to care for our environment
+1. Sweep arms wide in a circle for "environment" showing the space around us
+2. Hold nose and shake head side to side for "pollution" showing we don't like it
+3. Bend down and pretend to pick up trash, then toss it in a bin during "pick up trash"
 
 ## Intro Video Recommendation
 

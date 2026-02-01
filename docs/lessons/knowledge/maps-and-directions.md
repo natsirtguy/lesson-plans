@@ -22,32 +22,36 @@ Select 3-4 vocabulary words that:
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Maps show places from up high
-Like a bird up in the sky
-Symbols show the trees and streets
-Where we walk on our own feet
-Following the path we take
-To the places that we make
+We navigate with our map,
+Following the symbols here,
+Landmarks help us find our way,
+When the route is very clear
+We look for trees and houses too,
+Symbols show us where to go,
+Following the map we made,
+Learning as we go
 
 *Verse 2*
-Landmarks help us find our way
-The red mailbox, every day
-North and south and east and west
-Maps help us know what is best
-Exploring all around our town
-Following the map right down
+The route goes up and down and round,
+Navigate from here to there,
+Symbols mark the special spots,
+Landmarks everywhere
+Maps help us to find our way,
+Through the streets we walk each day,
+Following the path we see,
+Never go astray
 
 **Actions/Gestures**:
-1. Point upward on "from up high" to show bird's-eye view perspective
-2. Make a tree shape with arms on "symbols show the trees"
-3. Trace a path along the ground or in the air with your finger on "following the path"
+1. Trace a winding path in the air with your finger as you navigate
+2. Point to different landmarks around the room
+3. Make a square shape with hands to represent a map
 
 ## Intro Video Recommendation
 

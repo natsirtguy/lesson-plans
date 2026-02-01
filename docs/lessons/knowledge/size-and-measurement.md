@@ -16,32 +16,32 @@ Children explore the concepts of size, length, and measurement through hands-on 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and steady
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Big and small and short and tall
-Some things big and some are small
-We can measure, we can see
-How much bigger one can be
-All around us, everywhere
-Size and measure, we compare
+Let's use measurement to see
+How big and small things can be
+Compare the long ones and the short
+And group them up by every sort
+The dimension tells us how
+Things are tall or flat right now
 
 *Verse 2*
-Tall as trees and small as bugs
-Heavy rocks and light as hugs
-Counting, lining, we explore
-Learning what dimensions are
-With our hands and tools we measure
-Understanding size's pleasure
+We check the capacity
+How much water we can see
+Measurement helps us understand
+Things we hold right in our hand
+Compare and measure every day
+Learning size in every way
 
 **Actions/Gestures**:
-1. Stretch arms wide for "big" and pinch fingers together for "small"
-2. Raise hand high for "tall" and lower it for "short"
-3. Hold hands at various heights to show different sizes
+1. Hold hands far apart for big measurements, close together for small
+2. Raise hand up high for tall, lower down for short dimensions
+3. Cup hands like holding a container when singing about capacity
 
 ## Intro Video Recommendation
 

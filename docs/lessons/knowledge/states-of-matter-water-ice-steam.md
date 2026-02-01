@@ -16,32 +16,40 @@ Children will discover how water can exist in three different forms—liquid, so
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and gentle
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Water, water, everywhere
-Solid ice or liquid fair
-Freeze it cold and hard it grows
-Steam will rise where heat blows
-Three forms dancing all around
-Matter changes, watch it now
+Water has three forms we know
+E-I-E-I-O
+First it's solid, frozen ice
+E-I-E-I-O
+With a freeze, freeze here
+And a freeze, freeze there
+Here a solid, there a solid
+Everywhere a cold solid
+Water has three forms we know
+E-I-E-I-O
 
 *Verse 2*
-Ice cube melting in my hand
-Liquid puddles on the sand
-Heat it up and watch it rise
-Invisible clouds in the skies
-Solid, liquid, floating free
-Water's changing just for me
+Then it's liquid, flowing free
+E-I-E-I-O
+Heat it up and watch it steam
+E-I-E-I-O
+With evaporate here
+And evaporate there
+Here a vapor, there a vapor
+Rising up into the air
+Water changes as we see
+E-I-E-I-O
 
 **Actions/Gestures**:
-1. Make fists tight like ice (solid) and hold them rigid
-2. Open fingers and wiggle them like flowing water (liquid)
-3. Raise arms up and wave them slowly like rising steam (gas/evaporation)
+1. Make tight fists for "solid ice" and hold them still
+2. Wiggle fingers and flow hands for "liquid, flowing free"
+3. Raise arms slowly upward for "evaporate" and rising steam
 
 ## Intro Video Recommendation
 

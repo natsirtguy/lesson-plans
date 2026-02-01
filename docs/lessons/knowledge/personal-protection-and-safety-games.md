@@ -16,30 +16,28 @@ This lesson introduces young children to personal safety concepts through playfu
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and reassuring
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-When touch doesn't feel okay,
-I tell an adult I trust,
-My body is just for me,
-Safety starts inside of me.
+Boundaries are for me
+Keep me safe each day
+Trusted adults help me stay alert
+Consent means I can say
 
 *Verse 2*
-
-No means no, I always can,
-Always ask before you hug,
-Ask before you touch me please,
-I'm proud of my body strong.
+Boundaries help me know
+When to say yes or no
+Trusted adults keep me safe and sound
+Alert helps me to grow
 
 **Actions/Gestures**:
-1. Cross arms gently across chest when singing "My body is just for me"
-2. Point to self, then to a trusted adult when singing "I tell an adult I trust"
-3. Hold hands or give thumbs up when singing "I'm proud of my body strong"
+1. Hold arms in circle around self for "boundaries"
+2. Point to trusted adult when singing those words
+3. Nod head for "yes" and shake head for "no"
 
 ## Intro Video Recommendation
 

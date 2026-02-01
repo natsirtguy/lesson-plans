@@ -16,32 +16,28 @@ Children explore the concept of community helpers and the important roles differ
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate, warm and friendly
+**Tempo**: Gentle and rhythmic
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-(7) Com-mu-ni-ty help-ers, here we go
-(7) All a-round our town, you know
-(7) Fire-fight-ers, teach-ers, doc-tors too
-(7) Po-lice of-fi-cers help me and you
-(7) Gar-bage col-lec-tors, mail car-ries
-(7) Ev-ery-one has work we see
+Helpers, helpers all around
+In our community
+Teachers, doctors, firefighters too
+They have responsibility
 
 *Verse 2*
-(7) They co-op-er-ate ev-ery day
-(7) Help-ing peo-ple in their own way
-(7) Each one has a spe-cial job
-(7) Build-ing up our neigh-bor-hood
-(7) We say thank you, we say wow
-(7) Com-mu-ni-ty help-ers help us now
+Working, working hand in hand
+Helpers cooperate
+Building up our neighborhood strong
+Making our town great
 
 **Actions/Gestures**:
-1. Point outward in different directions when mentioning different helpers
-2. Clap hands together in a "team" motion during the "cooperate" verse
-3. Wave hand in a thank-you motion at the end of each verse
+1. Point in different directions during "all around" showing helpers everywhere
+2. Join hands together during "cooperate" showing teamwork
+3. Make building-up motions with hands during "building up our neighborhood"
 
 ## Intro Video Recommendation
 

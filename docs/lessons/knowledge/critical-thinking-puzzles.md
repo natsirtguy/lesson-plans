@@ -16,28 +16,28 @@ Through engaging puzzles and problem-solving activities, children develop persis
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and steady
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Puzzles help me solve and think,
-Pieces fit, I try and try,
-Find the answer, piece by piece,
-Solve the puzzle, feel so bright.
+Solve, solve, solve your puzzle
+Piece by piece you go
+Look for patterns as you work
+Watch your puzzle grow
 
 *Verse 2*
-Look and think and try again,
-Puzzles make me smart and strong,
-I can solve it if I'm brave,
-Problems don't scare me at all.
+Try and try and persist now
+Don't give up today
+Every puzzle has a way
+You will find the way
 
 **Actions/Gestures**:
-1. Place hands together like connecting puzzle pieces, then spread them apart to show completion
-2. Tap your temple with one finger while saying "think," then make a turning motion like fitting a piece
-3. Clap your hands together when you "solve the puzzle," celebrating the win
+1. Bring hands together like fitting puzzle pieces during "solve your puzzle"
+2. Point to your eyes during "look for patterns"
+3. Flex arms to show strength during "persist now"
 
 ## Intro Video Recommendation
 

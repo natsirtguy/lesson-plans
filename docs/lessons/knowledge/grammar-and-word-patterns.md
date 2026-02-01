@@ -16,32 +16,37 @@ In this lesson, children explore how words are built and used together in patter
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: "Old MacDonald Had a Farm"
 
 **Tempo**: Moderate, clear and engaging
 
-**Lyrics** (2 verses, matching the 7-7-7-7-7-7 syllable pattern):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Pat-tern sounds go round and round
-Words can rhyme with one same sound
-Cat and bat, they sound the same
-Find the rhymes, let's play the game
-Pat-tern sounds go round and round
-Words can rhyme with one same sound
+Words have patterns we can find
+E-I-E-I-O
+Rhymes and sounds of every kind
+E-I-E-I-O
+With a cat-bat here and a cat-bat there
+Here a rhyme, there a rhyme, everywhere a rhyme-rhyme
+Words have patterns we can find
+E-I-E-I-O
 
 *Verse 2*
-Syl-la-bles go clap clap clap
-Tap them out, you'll have a snap
-But-ter-fly has three, you see
-Clap with me one two and three
-Words can mix and make something new
-Sun-flow-er shows us what they do
+Syllables we clap along
+E-I-E-I-O
+Compound words make new things strong
+E-I-E-I-O
+With a clap-clap here and a clap-clap there
+Sun-flower, rain-bow, compound words we know
+Words can grow and change their song
+E-I-E-I-O
 
 **Actions/Gestures**:
-1. Clap out syllables in words—one clap per sound chunk (reinforces understanding that words are made of smaller sound pieces)
-2. Sway or bounce side-to-side in a repeating pattern while singing (physically demonstrates repeating patterns)
-3. Make rhyming motions with hands (bring both hands together when rhyming words occur, showing they "match")
+1. Clap out syllables during "clap-clap" sections
+2. Bring hands together during rhyming words to show they match
+3. Start with hands apart and bring together for compound words
+4. Make repeating pattern motions during "patterns we can find"
 
 ## Intro Video Recommendation
 

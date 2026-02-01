@@ -16,32 +16,32 @@ Children explore the natural relationships between animals and their food source
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
 **Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-The sun grows plants so green and tall
-Rabbits eat the plants, that's all
-Foxes eat the rabbits, you see
-Building food chains wild and free
-Every creature has its place
-In this food chain we all trace
+This sun grows plants so tall,
+Rabbits eat them all,
+Foxes hunt and chase the prey,
+Food chain every day.
+With a munch-munch here, a munch-munch there,
+Food chains everywhere!
 
 *Verse 2*
-Plants need sun and soil so deep
-Deer come eat and then they leap
-Hawks that soar up in the sky
-Watch the little creatures fly
-Nature's chain goes round and round
-Food webs all over on the ground
+Herbivores eat plants so green,
+Carnivores hunt the scene,
+Predator and prey so fine,
+Nature's web, a perfect line.
+With a click-click here, a click-click there,
+Food chain's everywhere!
 
 **Actions/Gestures**:
-1. For "plants growing": Start crouched low, slowly reach arms up high like a growing plant
-2. For "animals eating": Bring hands to mouth in a munching motion
-3. For "food chain connection": Link arms together with others to show how creatures are connected
+1. Start crouched low, then slowly reach arms up high like a growing plant
+2. Bring hands to mouth in a munching motion for eating
+3. Link arms together with others to show how creatures are connected
 
 ## Intro Video Recommendation
 

@@ -16,30 +16,30 @@ Children will learn how to organize, sort, and create simple filing systems by m
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and cheerful
+**Tempo**: Upbeat and cheerful
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Files and records, neat and square,
-Put them in their places there,
-Sort them by their colors bright,
-Keeping all things organized.
+If you're filing and you know it, clap clap!
+If you're organizing, categorize!
+System helps us find our records,
+Sort them, arrange them, that's so wise!
+If you're filing and you know it, clap clap!
 
 *Verse 2*
-
-Sorting, filing, what a game,
-Find your records, know their name,
-Circles, others, line them so,
-Watch your system grow and grow.
+Sorting items in their places, clap clap!
+Everything organized and neat,
+Filing, sorting, it's a system,
+Making life both clean and neat!
+Watch your records grow and grow, clap clap!
 
 **Actions/Gestures**:
-1. Hold hands up flat and spread them wide to show "sorting" or "organizing"
-2. Make a placing motion with both hands, as if putting items into a container
-3. Point to the left, then right, as if moving between different filing groups
+1. Clap twice when singing "clap clap" to emphasize organizing
+2. Make placing motions with both hands as if putting items into containers
+3. Point left and right to show moving between different filing groups
 
 ## Intro Video Recommendation
 

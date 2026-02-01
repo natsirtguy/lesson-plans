@@ -16,35 +16,32 @@ Children develop problem-solving skills, logical thinking, and persistence throu
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate and playful
+**Tempo**: Playful and curious
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-We can find the hidden clues
-Mysteries are all around
-Solve the puzzle, find the prize
-Look and search and use our eyes
-We are solvers, we are smart
-Working hard to find the code
+Look, look for the clues
+Yes we can, yes we can
+Follow clues to solve the mystery
+Find the puzzle, crack the code
+Every clue will help us know
+We can solve it, yes we can
 
 *Verse 2*
-
-Follow clues to find the way
-Searching, thinking every day
-Think and wonder, play and try
-We discover what to see
-We can solve the mystery
-Finding answers in this place
+Search and find what's hiding there
+Yes we will, yes we will
+Mystery solving takes our thinking
+Use each clue to find our way
+Puzzles help us learn today
+We can solve it, yes we will
 
 **Actions/Gestures**:
-
-1. **Searching gesture**: Cup hand above eyes and look around (scanning for clues)
-2. **Following gesture**: Point with one finger ahead in a trail motion (following the clue path)
-3. **Discovery clap**: Clap hands together with excitement (finding the answer)
+1. Cup hand above eyes on "look" and scan around for clues like a detective
+2. Point forward on "follow clues" as if tracing a path to solve the mystery
+3. Make an "aha!" gesture (finger pointing up) on "solve" when you figure out the puzzle
 
 ## Intro Video Recommendation
 

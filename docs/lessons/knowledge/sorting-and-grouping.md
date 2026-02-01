@@ -18,32 +18,30 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate (e.g., us
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-All the red ones, put right here
-All the blue ones, make it clear
-Sorting, sorting, what a game
-Each group different, same by name
-Big ones here and small ones there
-Sorting things with loving care
+We can categorize our things, E-I-E-I-O
+Sort by all their attributes, E-I-E-I-O
+With a red here and a blue there
+Here a sort, there a sort, everywhere we classify
+We can categorize our things, E-I-E-I-O
 
 *Verse 2*
-Round and square and long and tall
-Grouping shapes both big and small
-Smooth and bumpy, soft and hard
-Organizing is so smart
-Find the patterns that we make
-Sorting fun for goodness sake
+Let's classify by shapes we see, E-I-E-I-O
+Make a pattern, one-two-three, E-I-E-I-O
+With a circle here and square there
+Here an attribute, there an attribute, everywhere a pattern
+Let's classify by shapes we see, E-I-E-I-O
 
 **Actions/Gestures**:
-1. Use both hands to gather items into a pile (gathering gesture for introducing the concept)
-2. Point to different groups as you sing about each category (sorting gesture)
-3. Jump or clap when singing about patterns to emphasize the repetition
+1. Point to different groups when singing about categorizing and classifying
+2. Trace shapes in the air (circles, squares) when singing about attributes
+3. Make repeating hand motions when singing about patterns
 
 ## Intro Video Recommendation
 

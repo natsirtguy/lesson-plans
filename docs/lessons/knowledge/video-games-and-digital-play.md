@@ -16,28 +16,34 @@ This lesson introduces young children to age-appropriate digital play, developin
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
 **Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Tap-tap-tap the screen so bright (7 syllables)
-Push the buttons, watch them light (7 syllables)
-Games are fun when we explore (7 syllables)
-Colors dancing more and more (7 syllables)
+Touch the screen now
+Tap the interface
+Navigate through games with care
+Watch how games respond
+With a tap tap here, a swipe swipe there
+Interactive fun to share
+Playing games helps skills grow strong
 
 *Verse 2*
-Take our turns and play as friends (7 syllables)
-Every game has happy ends (7 syllables)
-Screen time's best when shared and bright (7 syllables)
-Learning, laughing, day and night (7 syllables)
+Push the buttons
+Use the interface
+Navigate and interact
+See what happens next
+With a tap tap here, a swipe swipe there
+Interactive fun to share
+Digital play can help us learn
 
 **Actions/Gestures**:
-1. Tapping motion with index fingers on an imaginary screen or table
-2. Pushing motion with thumbs as if pressing game controller buttons
-3. Waving hands together in front of face (simulating colorful lights and movement on a screen)
+1. Tap index fingers on imaginary screen during "tap the interface"
+2. Swipe hands across body during "navigate through games"
+3. Point to eyes during "watch how games respond"
 
 ## Intro Video Recommendation
 

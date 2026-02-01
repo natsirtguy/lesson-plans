@@ -16,32 +16,33 @@ In this lesson, children explore basic concepts of leadership, decision-making, 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: "Baa, Baa, Black Sheep"
 
 **Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Lead-ers help us find the way
-Make de-ci-sions ev-ery day
-They lis-ten when we have to say
-What's the best thing we can do
-Lead-ers help us, me and you
-Com-mu-ni-ty in all we do
+Leaders, leaders, yes we can
+Help our community, take a stand
+Responsibilities we share
+Yes sir, yes sir, everywhere
+Listen closely, cooperate
+Make decisions, strong and great
 
 *Verse 2*
-We can be lead-ers, strong and kind
-Help-ing oth-ers, change their mind
-Work to-geth-er, hand in hand
-Build a bet-ter com-mu-ni-ty
-When we lis-ten, we can see
-Ev-ery-bod-y lead-er be
+Leaders, leaders, kind and true
+Help our neighbors, me and you
+Working together hand in hand
+Yes sir, yes sir, understand
+Communities need everyone
+Cooperation gets things done
 
 **Actions/Gestures**:
-1. Point forward with both arms extended (showing "the way")
-2. Make a large circle with arms, bringing them together in the middle (showing "community")
-3. Link hands with neighbors or put hands over heart (showing "cooperation and caring")
+1. Point to self and others during "yes we can" and "me and you"
+2. Make a circle with arms for "community"
+3. Hold hands out to sides showing sharing during "responsibilities we share"
+4. Touch ear for "listen closely" and join hands for "cooperate"
 
 ## Intro Video Recommendation
 

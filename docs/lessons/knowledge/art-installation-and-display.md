@@ -16,45 +16,32 @@ In this lesson, children explore how artwork can be displayed and arranged in cr
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate
+**Tempo**: Moderate and clear
 
-**Lyrics** (6 lines per verse):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Artworks on display so bright (Art-works on dis-play so bright = 7 syllables)
-
-Hanging on the wall up high (Hang-ing on the wall up high = 7 syllables)
-
-Colors and creations shine (Col-ors and cre-a-tions shine = 7 syllables)
-
-Place them in a special way (Place them in a spe-cial way = 7 syllables)
-
-Showing what our artists made (Show-ing what our ar-tists made = 7 syllables)
-
-Seeing how our art displays (See-ing how our art dis-plays = 7 syllables)
+Art, art, on display
+Yes we'll show it every day
+Hang the installation high
+Arrange the artwork, you and I
+Display it here and display it there
+Composition everywhere
 
 *Verse 2*
-
-Building up our art so high (Build-ing up our art so high = 7 syllables)
-
-Stacking colors, shapes, and signs (Stack-ing col-ors, shapes, and signs = 7 syllables)
-
-Placing art in special spots (Plac-ing art in spe-cial spots = 7 syllables)
-
-Every piece is proudly shown (Ev-ery piece is proud-ly shown = 7 syllables)
-
-Art works make our space feel bright (Art works make our space feel bright = 7 syllables)
-
-We display what we create (We dis-play what we cre-ate = 7 syllables)
+Art, art, beautiful
+Yes we'll arrange it wonderful
+Place the pictures on the wall
+Some are short and some are tall
+Display it here and display it there
+Artwork showing everywhere
 
 **Actions/Gestures**:
-
-1. Frame a square with your hands as if looking at art on a wall
-2. Sweep your arms outward to show arranging things in a space
-3. Point to different areas around you to show "displaying in many places"
+1. Frame hands in a square to show artwork on display
+2. Sweep arms outward showing arrangement in space
+3. Point to different heights when singing about tall and short artwork
 
 ## Intro Video Recommendation
 

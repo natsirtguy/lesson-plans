@@ -16,33 +16,32 @@ Children explore what rules are, why they help us stay safe and happy, and how c
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Head, Shoulders, Knees and Toes
 
-**Tempo**: Moderate
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Rules and cooperation
-Help us every single day
-Working together, playing fair
-We all help in every way
-When we follow all the rules
-We can have so much more fun
+Rules help us, rules help us
+Cooperate and share
+Cooperate and share
+Taking turns and showing respect
+Rules help us, rules help us
+We all care
 
 *Verse 2*
-Take your turn and share with friends
-Listen when the other speaks
-Respect each person, big and small
-Cooperation is the key
-Together we are strong and kind
-Working as a team each day
+Work together, work together
+Cooperate each day
+Cooperate each day
+Follow rules and take your turn now
+Work together, work together
+Let's all play
 
 **Actions/Gestures**:
-1. Clap hands together twice on "cooperation" to show joining together
-2. Make a "stop" hand gesture on "rules" to show stopping/boundaries
-3. Link arms or hands together for "working together" verses to show unity
-4. Point to others on "share with friends" and "the other speaks"
+1. Touch head when singing "rules," then touch shoulders for "cooperate"
+2. Hold hands out to sides for "taking turns" and bow slightly for "respect"
+3. Join hands together and sway side-to-side during "work together"
 
 ## Intro Video Recommendation
 
