@@ -16,32 +16,36 @@ Young learners explore the magical properties of light and sound through interac
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and flowing
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Light and sound are all around
-Bounce and travel, every sound
-See the shadows on the floor
-Hear the music, more and more
-Watch the light dance through the air
-Sound and light are everywhere
+Light, light, shining bright
+Illuminate the way
+See the shadows on the ground
+Dancing as we play
+Light reflects off mirrors now
+Bouncing all around
+Vibrate, shake, and hear the drums
+Making every sound
 
 *Verse 2*
-Drums go boom and bells go ring
-Tap and play and hear them sing
-Mirrors sparkle, bright and clear
-Light bounces where we steer
-Close your eyes and listen well
-Sound tells stories it can tell
+Sound, sound, all around
+Vibrate through the air
+Shadows grow when light is blocked
+See them everywhere
+Light and sound together work
+Helping us to see
+All the wonderful things
+In the world for you and me
 
 **Actions/Gestures**:
-1. For "Light and sound are all around" - spread arms wide in a big circle to show everything around
-2. For "bounce and travel" - make bouncing motions with hands moving forward and back
-3. For "Watch the light dance" - wiggle fingers above head like light dancing
+1. Flutter fingers overhead like light rays on "illuminate"
+2. Make shadow shapes with hands on "shadows on the ground"
+3. Shake hands gently on "vibrate" to show sound waves moving
 
 ## Intro Video Recommendation
 

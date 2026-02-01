@@ -16,35 +16,30 @@ Children explore how their brain and body communicate through simple, sensory-ba
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate, steady and gentle
+**Tempo**: Upbeat and interactive
 
-**Lyrics** (2 verses, matching the 7-syllable structure):
-
-*Verse 1*
-Brain, brain, you're in my head (7: Brain, brain, you're in my head)
-You help me move and think instead (7: You help me move and think in-stead)
-You get messages from far and wide (8: You get mes-sa-ges from far and wide) ← ADJUST
-
-Let me recount and fix this:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Brain, brain, up in my head (7: Brain, brain, up in my head)
-Helping me to move and read (7: Help-ing me to move and read)
-You catch the signals, fast and bright (7: You catch the sig-nals, fast and bright)
-Telling body, left and right (7: Tell-ing bod-y, left and right)
+My brain sends signals to my hands (clap clap)
+My brain sends signals to my feet (stomp stomp)
+My five senses help me know
+Where to stop and where to go
+My brain controls my body with reflexes quick and neat
 
 *Verse 2*
-Eyes and ears and nose and skin (7: Eyes and ears and nose and skin)
-Send their messages within (7: Send their mes-sa-ges with-in)
-Brain receives them, understands (7: Brain re-ceives them, un-der-stands)
-Tells my feet and legs and hands (7: Tells my feet and legs and hands)
+When I see and hear and smell (sniff sniff)
+When I taste and touch as well (rub hands)
+My brain gets all the messages
+From my senses every day
+My nervous system helps me work and move and play
 
 **Actions/Gestures**:
-1. Point to head gently when saying "Brain, brain, up in my head"
-2. Make a flowing motion from eyes/ears down to body when singing "send their messages"
-3. Bounce or clap when singing "tells my feet and legs and hands" to show movement response
+1. Point to your head when singing about the brain
+2. Touch eyes, ears, nose when singing about senses
+3. Clap hands quickly together to demonstrate fast reflexes and signals
 
 ## Intro Video Recommendation
 

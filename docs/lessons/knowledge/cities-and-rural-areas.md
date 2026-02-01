@@ -16,32 +16,32 @@ In this lesson, children explore the differences between busy cities and peacefu
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and descriptive
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Cit-ies are so bus-tling bright (7 syllables)
-Tall build-ings reach way up in sight (7 syllables)
-Man-y peo-ple walk a-round (7 syllables)
-Cars and bus-es make a sound (7 syllables)
-Stores and lights shine all the day (7 syllables)
-Cit-ies come a-live to play (7 syllables)
+Urban places, cities bright
+Buildings tall that reach the height
+Bustling streets with people all around
+Communities in every part of town
+Busy, noisy, full of life
+Cities humming day and night
 
 *Verse 2*
-Ru-ral ar-eas spread so wide (7 syllables)
-O-pen fields with room in-side (7 syllables)
-Farm-ers work and an-i-mals play (7 syllables)
-Sun shines on the hay all day (7 syllables)
-Qui-et peace and na-ture's grace (7 syllables)
-Ru-ral is a spe-cial place (7 syllables)
+Rural areas, fields so wide
+Open spaces countryside
+Quiet farms and animals that play
+Communities in their own special way
+Trees and grass and sky so blue
+Rural places peaceful too
 
 **Actions/Gestures**:
-1. For "cities are so bustling bright"—move arms quickly in all directions like busy traffic
-2. For "tall buildings reach way up in sight"—reach arms high overhead and stretch upward
-3. For "rural areas spread so wide"—open arms wide and stretch them out to the sides
+1. Reach arms up high during "buildings tall" showing urban height
+2. Move arms quickly during "bustling streets" showing city activity
+3. Spread arms wide during "fields so wide" showing rural openness
 
 ## Intro Video Recommendation
 

@@ -16,28 +16,34 @@ Children explore fun knowledge games and simple trivia questions, learning to th
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
 **Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Let's learn trivia today (7 syllables)
-Ask yourself what you may know (7 syllables)
-Think of facts inside your brain (7 syllables)
-Animals and colors too (7 syllables)
+Let's play trivia
+Questions all day long
+Use your memory
+Think of what you know
+With a challenge here, a question there
+Learning games are fun to share
+Thinking hard makes our brains grow strong
 
 *Verse 2*
-When you answer right, hooray! (7 syllables)
-Learning games are such great fun (7 syllables)
-Ask your friends a trivia (7 syllables)
-Learn and play all day long too (7 syllables)
+Answer questions now
+What's the sound dogs make
+Use your memory
+Think and concentrate
+With a challenge here, a question there
+Learning games are fun to share
+Every answer helps us learn and grow
 
 **Actions/Gestures**:
-1. Point to your head when singing "inside your brain" - helps children connect thinking with memory
-2. Clap hands together on "hooray!" - celebrates correct answers
-3. Reach arms out wide on "such great fun" - shows the joy and openness of playing games
+1. Point to your head during "use your memory" to show thinking
+2. Raise hand high when answering questions
+3. Clap hands together on "learning games are fun to share"
 
 ## Intro Video Recommendation
 

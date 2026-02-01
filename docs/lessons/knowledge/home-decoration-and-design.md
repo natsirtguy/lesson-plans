@@ -16,35 +16,32 @@ In this lesson, children explore how to make their own special spaces beautiful 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Moderate and gentle
+**Tempo**: Playful and gentle
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Decorate the walls so bright,
-Hanging pictures, plants up high,
-Make my room a lovely place,
-Where I play and rest each day,
-Pillows soft and rug so grand,
-I arrange my things with care.
+Design your space so cozy and nice
+Arrange your things and make it bright
+Add some colors, soft and sweet
+Make your room a special treat
+Design your space so cozy and nice
+Everything fits just right
 
 *Verse 2*
-
-Colors work and blend so nice,
-Soft and bright, they make me smile,
-Curtains, lamps, and softness too,
-Every thing has special place,
-I can design my own space,
-Home looks lovely, feel so glad.
+Decorate the walls with care
+Hang your pictures here and there
+Choose the colors that you like
+Make your space feel just right
+Decorate with love and style
+Home is lovely all the while
 
 **Actions/Gestures**:
-
-1. **Sweeping motion**: Brush hands outward as if spreading colors and designs across a wall (on "Decorate the walls so bright")
-2. **Pointing upward**: Point fingers up to the sky, then gradually lower hands as if hanging pictures and plants (on "Hanging pictures, plants up high")
-3. **Hugging yourself**: Wrap arms around yourself to show coziness and comfort (on "Pillows soft and rug so grand")
+1. Make sweeping motions with hands while "decorating" the air
+2. Point upward and slowly lower hands to show arranging items
+3. Hug yourself to show how cozy the space feels
 
 ## Intro Video Recommendation
 

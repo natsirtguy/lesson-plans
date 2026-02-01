@@ -16,32 +16,30 @@ This lesson introduces young learners to simple, playful quiz activities where a
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and encouraging
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Questions help me learn so well (7 syllables)
-When I answer, I can tell (7 syllables)
-All the things that I now know (7 syllables)
-Watch how bright my answers glow (7 syllables)
-Questions help me learn and grow (7 syllables)
-I'm so clever, yes I know (7 syllables)
+When I answer questions, I discover what I know
+When I answer questions, I discover what I know
+Every challenge makes me smart
+Questions are a special art
+When I answer questions, I discover what I know
 
 *Verse 2*
-What is red and round and sweet (7 syllables)
-Apples are a yummy treat (7 syllables)
-Dogs have four legs, yes that's true (7 syllables)
-Tell me now, what can you do (7 syllables)
-Every time you answer right (7 syllables)
-Your smart brain is shining bright (7 syllables)
+If you know the answer, shout it out
+If you know the answer, shout it out
+Questions help us learn and grow
+Discover all the things we know
+If you know the answer, shout it out
 
 **Actions/Gestures**:
-1. Point to your head and tap it gently when singing "smart brain" - celebrating thinking
-2. Give a thumbs up when the child answers - showing approval and confidence
-3. Open hands wide like a blooming flower when singing "answers glow" - celebrating learning
+1. Point to your head during "discover what I know"
+2. Give thumbs up during "answer"
+3. Shout and raise hands during "shout it out"
 
 ## Intro Video Recommendation
 

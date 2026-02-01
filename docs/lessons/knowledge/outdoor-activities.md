@@ -16,32 +16,32 @@ Children explore the world beyond indoor spaces, discovering natural elements, w
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, matching 7 syllables per line):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Out-doors is where we love to go (7)
-In the sun and wind and snow (7)
-We can run and jump and play (7)
-In the sun-light ev-ery day (7)
-Grass and trees and sky so blue (7)
-Out-doors has so much to do (7)
+Outside, outside, let's explore
+Feel the terrain beneath our feet
+Touch the elements and more
+Landscape wide is such a treat
+Atmosphere is fresh and clear
+Nature's wonders far and near
 
 *Verse 2*
-Dirt and mud and sticks and sand (7)
-Ev-ery-thing is close at hand (7)
-Climb and slide and swing a-round (7)
-Lots of fun is to be found (7)
-Bugs and birds and grass so green (7)
-Best out-doors place we've ev-er seen (7)
+Outside, outside, come and play
+Feel the grass and dirt and stone
+Weather changes through the day
+Every landscape is our own
+Elements of earth and sky
+Outdoor fun for you and I
 
 **Actions/Gestures**:
-1. Reach arms high and stretch for "sun and sky"
-2. Run in place for "run and jump and play"
-3. Make digging motions for "dirt and mud and sticks and sand"
+1. Point outside and reach arms wide for "landscape"
+2. Touch the ground to show "terrain beneath our feet"
+3. Breathe deeply and stretch for "atmosphere is fresh and clear"
 
 ## Intro Video Recommendation
 

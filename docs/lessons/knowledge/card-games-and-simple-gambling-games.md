@@ -16,28 +16,28 @@ In this lesson, children explore games that combine cards and simple chance-base
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate, playful
+**Tempo**: Moderate and playful
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Cards are fun to match and play
-Take your turn and do your best
-Find the match and pass the rest
-Games teach us to wait and see
+Match, match, match the cards
+Playing games today
+Turn-taking is the way we learn
+Every time we play
 
 *Verse 2*
-Every player gets a turn
-Take a guess and watch them turn
-Match or flip or pick a card
-Play by rules and have such fun
+Prediction helps us guess
+Strategy makes it fun
+Find the matching pairs of cards
+Until the game is done
 
 **Actions/Gestures**:
-1. Pretend to hold a card in each hand during "cards are fun"
-2. Point to yourself, then to a friend during "take your turn"
-3. Clap hands together when you find a match during "find the match"
+1. Pretend to flip two cards during "match, match, match the cards"
+2. Point to yourself then another person during "turn-taking"
+3. Tap your temple during "prediction" showing thinking ahead
 
 ## Intro Video Recommendation
 

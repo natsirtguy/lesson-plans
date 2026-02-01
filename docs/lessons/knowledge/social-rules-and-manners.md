@@ -18,35 +18,30 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Moderate and gentle
+**Tempo**: Gentle and friendly
 
-**Lyrics** (2 verses, matching the 7-syllable pattern of Twinkle, Twinkle):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
+We say please when we ask nicely, ask nicely, ask nicely
+We say please when we ask nicely, showing courtesy
 
-Please and thank you, every day (7: Please-and-thank-you-ev-ry-day)
-Help us live in every way (7: Help-us-live-in-ev-ry-way)
-Say excuse me, show respect (7: Say-ex-cuse-me-show-re-spect)
-Treating others with effect (7: Treat-ing-oth-ers-with-ef-fect)
-Manners make us kind and bright (7: Man-ners-make-us-kind-and-bright)
-Social rules help everything right (8: Social-rules-help-ev-ry-thing-right) *[Adjusted to 8 to maintain melody]*
+We show gratitude with thank you, with thank you, with thank you
+We show gratitude with thank you, being respectful
 
 *Verse 2*
+Being considerate means we're thoughtful, we're thoughtful, we're thoughtful
+Being considerate means we're thoughtful, caring for friends
 
-Listen when your friends all speak (7: Lis-ten-when-your-friends-all-speak)
-Share your toys throughout the week (7: Share-your-toys-through-out-the-week)
-Wait your turn and take your time (7: Wait-your-turn-and-take-your-time)
-Being kind is so sublime (7: Be-ing-kind-is-so-sub-lime)
-Everyone deserves respect (7: Ev-ry-one-de-serves-re-spect)
-Courtesy brings joy direct (7: Cour-te-sy-brings-joy-di-rect)
+When we're respectful we are kind, we are kind, we are kind
+When we're respectful we are kind, using good manners
 
 **Actions/Gestures**:
-
-1. **Folded hands at chest** for "please" and "thank you" - shows respect and gratitude
-2. **Gentle hand wave** for "excuse me" - demonstrates polite acknowledgment
-3. **Open arms spread wide** for "kindness and respect" - shows inclusion and care for others
+1. Fold hands politely at chest when singing about "please" and courtesy
+2. Place hand on heart when singing "gratitude" and "thank you"
+3. Point gently to others when singing about being considerate and respectful
 
 ## Intro Video Recommendation
 

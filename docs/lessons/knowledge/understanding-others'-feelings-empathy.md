@@ -18,32 +18,28 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
 **Tempo**: Slow and gentle
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-When my friend is sad and cries
-I can see it in their eyes
-I will sit right by their side
-Help them feel so safe inside
-When I see they need some care
-I can show that I'm right there
+Friend, friend, feeling sad
+I can recognize your tears
+Show some empathy and care
+Comfort you when you need me
 
 *Verse 2*
-When my friend is happy too
-I can smile the way they do
-All their feelings help me grow
-Care for others, let them know
-Understanding how they feel
-Makes our friendship oh so real
+Friend, friend, feeling glad
+I can see your happy smile
+Compassion helps me understand
+Caring for you all the while
 
 **Actions/Gestures**:
-1. Place hand on heart when singing about recognizing feelings, showing you're thinking about emotions
-2. Reach out arms toward a friend on "sit right by their side," mimicking the action of being there for someone
-3. Mirror the expression (sad face, then happy face) when singing about different feelings to demonstrate recognizing emotions
+1. Place hand on heart during "empathy and care" to show feeling
+2. Reach out arms toward friend during "comfort you"
+3. Point to own eyes during "recognize" to show noticing feelings
 
 ## Intro Video Recommendation
 

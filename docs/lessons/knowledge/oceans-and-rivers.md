@@ -16,35 +16,28 @@ In this lesson, children explore the characteristics of oceans and rivers throug
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Rivers flow down to the sea
-Rushing, splashing wild and free
-Oceans big and deep and blue
-Salty water through and through
-With the fish that swim below
-Watch the water swirl and flow
+Rivers flow with currents strong, currents strong, currents strong
+Rivers flow with currents strong, down to the sea
+Tributaries join as one, join as one, join as one
+Tributaries join as one, flowing free
 
 *Verse 2*
-Rivers start up in the hills
-Bubbling, splashing, dancing thrills
-Flowing gentle, flowing fast
-Water moves from first to last
-Meeting oceans far and wide
-Where the land and water collide
-
-*Verse 2 - Line 6 correction*
-Where the rivers meet the sea
+Ocean water tastes of salt, tastes of salt, tastes of salt
+Ocean water tastes of salt, salty and blue
+Estuary where rivers meet, rivers meet, rivers meet
+Estuary where rivers meet, fresh meets saltwater too
 
 **Actions/Gestures**:
-1. Move fingers in a flowing motion downward to show water moving from rivers to the ocean
-2. Sway and make wave motions with arms for ocean waves
-3. Hold arms wide to show something big and expansive (the ocean)
+1. Wave arms in flowing downward motion for "rivers flow"
+2. Bring both hands together to show tributaries joining
+3. Make wide sweeping arm motions for the big ocean
 
 ## Intro Video Recommendation
 

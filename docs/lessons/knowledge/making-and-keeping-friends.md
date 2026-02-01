@@ -16,32 +16,36 @@ Children explore the fundamentals of friendship through playful interaction, lea
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and warm
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Make a friend by say-ing hi
-Look them in the eye and smile
-Share and take your turn to play
-Friends will want to come each day
-Listen when they talk to you
-That is what good friends all do
+Companionship means playing together
+Cooperation makes us strong
+Sharing, helping one another
+Friendship lasts all day long
+Empathy helps us feel kindness
+Connection grows and grows
+That's how friends care for each other
+That's how friendship grows
 
 *Verse 2*
-Hold their hand and show you care
-Friends are special, fun, and rare
-Help them when they seem sad too
-Friends help me and I help you
-When you're kind and when you're true
-You will have good friends like you
+When we show our friends we care now
+Listen to what they say
+Cooperation, working as one friend
+Helping every single day
+Empathy means understanding feelings
+Connection makes us smile
+That's how friendships become special
+Being kind all the while
 
 **Actions/Gestures**:
-1. Wave your hand gently and smile when you sing "say-ing hi"
-2. Place your hand over your heart when you sing "show you care"
-3. Point to yourself and a friend when you sing "friends help me and I help you"
+1. Hold hands with a friend or join hands together on "companionship"
+2. Work hands together like building something on "cooperation"
+3. Place hand on heart on "empathy" to show caring about feelings
 
 ## Intro Video Recommendation
 

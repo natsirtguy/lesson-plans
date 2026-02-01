@@ -16,32 +16,32 @@ Children explore the fascinating world of natural phenomena—observable events 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and engaging
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Rain falls down from clouds up high
-Drip drop drip drop from the sky
-Wind blows leaves and makes them dance
-Shadows follow ev'ry glance
-Nature's wonders all around
-See the magic all around
+Natural phenomenon we see,
+Wind and rain and shadows free,
+We observe the cause and effect each day,
+Watching how they transform in every way,
+Nature's phenomena all around,
+Wonders everywhere we've found
 
 *Verse 2*
-Sunshine warms us through the day
-Moonlight shows a gentle way
-Storms bring thunder, flash of light
-Nature dances day and night
-Every season brings a change
-Natural wonders all around
+Observe the clouds up in the sky,
+Natural phenomenon floating by,
+Cause and effect we see and understand,
+Sunlight transforms ice across the land,
+Phenomenon of wind and rain,
+Nature's wonders we'll explain
 
 **Actions/Gestures**:
-1. Rain falling: Wiggle fingers downward slowly from above head
-2. Wind blowing: Wave arms side to side gently, make whooshing sounds
-3. Shadows: Raise one hand up and watch the shadow on the ground or wall, move hand to make shadow dance
+1. Shield eyes with hand in observing gesture
+2. Point up to the sky for "phenomenon" in the clouds
+3. Make flowing transformation motions with hands for "transform"
 
 ## Intro Video Recommendation
 

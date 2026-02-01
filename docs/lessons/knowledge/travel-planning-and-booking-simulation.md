@@ -16,30 +16,28 @@ Children engage in pretend travel planning and booking activities, learning abou
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate
+**Tempo**: Moderate and rhythmic
+
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Pack your bags and find a map,
-Choose your destination here,
-Beach or mountains, far or near,
-Get your tickets, books to read,
-Everything that you will need,
-Welcome to your trip away!
+Pack, pack, pack your bags
+Choose your destination
+Navigate the map with care
+Plan your great vacation
 
 *Verse 2*
-Traveling by plane so high,
-Through the clouds we soar and fly,
-Or by train or boat or car,
-Going places near and far,
-See the world and have great fun,
-Adventures just have begun!
+Make, make your itinerary
+Pack your luggage tight
+Travel to a place so new
+What a fun delight
 
 **Actions/Gestures**:
-1. Pretend to pack a suitcase - make folding and packing motions with both hands
-2. Point to a map or globe - reach out and point in different directions
-3. Sway back and forth - move like you're on a train, plane, or boat traveling
+1. Pretend to fold and pack items into a suitcase
+2. Point to different directions on an imaginary map
+3. Wave goodbye and sway like traveling on a boat or train
 
 ## Intro Video Recommendation
 

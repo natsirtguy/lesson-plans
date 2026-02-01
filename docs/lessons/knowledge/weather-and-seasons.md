@@ -16,32 +16,32 @@ In this lesson, children explore the weather patterns and seasonal changes that 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
 **Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Rain-y days and sun-ny days (7 syllables)
-Win-ter, spring, and sum-mer ways (7 syllables)
-Fall winds blow the leaves a-round (7 syllables)
-Snowy flakes fall to the ground (7 syllables)
-Sea-sons change through-out the year (7 syllables)
-Watch-ing weath-er all so clear (7 syllables)
+The temperature goes up and down
+Up and down, up and down
+The temperature goes up and down
+Through all the seasons
 
 *Verse 2*
-Hot and cold and warm and cool (7 syllables)
-Weath-er chang-es all the while (7 syllables)
-Tem-per-a-ture goes up and down (8 syllables - adjust to: Tem-per-a-ture change-es round) (7 syllables)
-Tem-per-a-ture chang-es 'round (7 syllables)
-Four sea-sons dance through-out the year (7 syllables)
-Each one brings some-thing we love dear (7 syllables)
+The precipitation falls from clouds
+Falls from clouds, falls from clouds
+The precipitation falls from clouds
+The atmosphere brings weather
+Watch the seasonal changes come
+Changes come, changes come
+Watch the seasonal changes come
+All throughout the year
 
 **Actions/Gestures**:
-1. Rain falling: Flutter fingers down from high above head to show rain falling
-2. Seasons turning: Spin around slowly, arms extended, to show the year changing
-3. Temperature changes: Start huddled up small for cold, then stretch arms out wide for hot
+1. Raise arms up for hot, lower down for cold during "up and down"
+2. Flutter fingers down like rain during "precipitation falls"
+3. Spin around slowly during "seasonal changes" to show the year turning
 
 ## Intro Video Recommendation
 

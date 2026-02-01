@@ -16,32 +16,38 @@ In this lesson, children explore the wonderful variety of people, languages, tra
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle, warm and inviting
+**Tempo**: Upbeat and celebratory
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-People all around the world
-Wearing clothes in ev-ry hue
-Speak-ing lan-guag-es so bright
-Cel-e-brat-ing through the night
-Danc-ing, sing-ing, laugh-ing loud
-Each face shines out so proud
+The cultures of the world are diverse and bright
+Diverse and bright, diverse and bright
+The cultures of the world are diverse and bright
+All around the world
+
+People celebrate in different special ways
+Different special ways, different special ways
+People celebrate in different special ways
+Sharing their traditions
 
 *Verse 2*
-Dif-fer-ent foods and dif-fer-ent ways
-Mak-ing ev-ery cul-ture great
-Red and yel-low, brown and white
-Sha-ring jour-neys ev-ery night
-Sis-ters, broth-ers, hand in hand
-We are hap-py all a-cross the land
+Every culture has something beautiful
+Something beautiful, something beautiful
+Every culture has something beautiful
+All around the world
+
+We can celebrate together hand in hand
+Hand in hand, hand in hand
+We can celebrate together hand in hand
+Everyone is welcome
 
 **Actions/Gestures**:
-1. **Spin around** - Represent the world turning and people in different places all living together
-2. **Reach arms out wide** - Show opening up to and welcoming people who are different from us
-3. **Clap hands together** - Celebrate togetherness and connection across all cultures and traditions
+1. Make a big circle with arms for "all around the world"
+2. Clap hands for "celebrate"
+3. Hold hands out to sides or join hands together for "hand in hand"
 
 ## Intro Video Recommendation
 

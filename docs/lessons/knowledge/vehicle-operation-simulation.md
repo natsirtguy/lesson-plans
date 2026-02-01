@@ -16,57 +16,30 @@ Children will engage in dramatic play as vehicle operators, learning about diffe
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate, steady and playful
+**Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Steering, steering, hold the wheel
-(Steer-ing, steer-ing, hold the wheel = 7 syllables)
-
-Driving down the road so slow
-(Driv-ing down the road so slow = 7 syllables)
-
-What a fun and safe trip too
-(What a fun and safe trip too = 7 syllables)
-
-Wheels go round the whole day long
-(Wheels go round the whole day long = 7 syllables)
-
-Watch me honk and steer with care
-(Watch me honk and steer with care = 7 syllables)
-
-I'm a driver everywhere
-(I'm a driv-er ev-ery-where = 7 syllables)
+When you operate a car, turn the wheel
+When you operate a car, turn the wheel
+Use your steering left and right
+Keep your route within your sight
+When you operate a car, turn the wheel
 
 *Verse 2*
-
-Bus and car and big truck too
-(Bus and car and big truck too = 7 syllables)
-
-Train goes fast on shiny track
-(Train goes fast on shin-y track = 7 syllables)
-
-Honk the horn and wave your hand
-(Honk the horn and wave your hand = 7 syllables)
-
-Safe and fun where we now stand
-(Safe and fun where we now stand = 7 syllables)
-
-Taxi, plane, and scooter bright
-(Tax-i, plane, and scoot-er bright = 7 syllables)
-
-Operating brings delight
-(Op-er-at-ing brings de-light = 7 syllables)
+When you want to go fast, accelerate
+When you want to go fast, accelerate
+Follow routes from here to there
+Operate with skill and care
+When you want to go fast, accelerate
 
 **Actions/Gestures**:
-
-1. **Steering motion**: Hold hands out as if gripping a steering wheel and turn it side to side
-2. **Honking gesture**: Pretend to push a horn button in the center of the wheel
-3. **Waving**: Wave out a car window to say goodbye or hello to others
+1. Turn hands side to side like steering a wheel
+2. Press foot down gently to show accelerating
+3. Point forward to show following a route
 
 ## Intro Video Recommendation
 

@@ -16,32 +16,28 @@ Children work collaboratively with peers to create a large-scale painting on a s
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Moderate - Cheerful but not rushed
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Paint together on the wall (7)
-Everyone can help us paint (7)
-Adding colors, big and small (7)
-Red and yellow, blue and green (7)
-See what pretty things we paint (7)
-Brush strokes mixing, blend and blend (7)
+We collaborate today, paint today, paint today
+We collaborate today, making our mural bright
+Mix colors on our palette, our palette, our palette
+Mix colors on our palette, blending colors right
 
 *Verse 2*
-Work together, side by side (7)
-Sharing brushes, turn by turn (7)
-Make a mural, big and bright (7)
-Where we paint together proud (7)
-Colors blending, can't you see? (7)
-Made together, bright and true (7)
+Our composition looks so grand, looks so grand, looks so grand
+Our composition looks so grand, painted side by side
+Big mural made together, together, together
+Big mural made together, filled with joy and pride
 
 **Actions/Gestures**:
-1. Pretend to dip a brush in paint and paint upward and outward to show adding colors to a large surface
-2. Gently touch arms with neighbors while singing "side by side" to reinforce teamwork
-3. Open arms wide at "big and bright" to show the size and beauty of the group's creation
+1. Pretend to paint on a large surface for "mural"
+2. Stir imaginary paint on a palette with finger
+3. Stand side by side and link arms for "collaborate"
 
 ## Intro Video Recommendation
 

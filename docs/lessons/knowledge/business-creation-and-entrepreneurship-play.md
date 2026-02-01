@@ -16,28 +16,28 @@ Children will create and run their own pretend shop or business, exploring found
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and cheerful
 
-**Lyrics**:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can make my little shop
-Selling things so happily
-Customers will come and buy
-Trading things is so much fun
+The entrepreneur opened up their shop
+Products on the shelves to sell
+Customers came in to look and buy
+Exchange their money, that went well
 
 *Verse 2*
-I can be entrepreneur
-Customers will trade with me
-Your own shop is in your mind
-That is entrepreneurship
+The products that we made are on display
+Customers can choose what's best
+We exchange the items for pretend pay
+Being entrepreneurs is a test
 
 **Actions/Gestures**:
-1. Pretend to arrange items on a shelf (hands moving side to side)
-2. Wave with both hands to welcome customers (open, welcoming motion)
-3. Rub hands together with excitement (showing enthusiasm)
+1. Pretend to open a door and welcome customers in
+2. Arrange items on a pretend shelf with both hands
+3. Exchange one hand to the other (trading/exchanging)
 
 ## Intro Video Recommendation
 

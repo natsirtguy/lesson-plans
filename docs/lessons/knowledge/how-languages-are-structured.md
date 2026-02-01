@@ -16,32 +16,34 @@ Children explore how languages are made up of different sounds, words, and patte
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Slow and gentle
+**Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Sounds combine to make a word
-Making messages that can be heard
-Syl-la-bles, they clap and beat
-Words in order can't be beat
-Patterns help us speak just right
-Gram-mar makes our talk so bright
+Languages have building blocks
+Phonemes make each word
+With a syllable here and a sentence there
+Here a sound, there a sound
+Grammar helps us all around
+Languages have building blocks
+That's how we've learned
 
 *Verse 2*
-Sto-ries flow with word by word
-Ev-ery sen-tence to be heard
-Sounds and meanings intertwine
-Building blocks of talk divine
-Start with sounds so small and clear
-Language grows when we all hear
+Words combine in special ways
+Following the rules
+With a phoneme here and syllable there
+Here a word, there a word
+Sentences are what we've heard
+Languages are structured well
+That's how we speak
 
 **Actions/Gestures**:
-1. Clap on each syllable when words are mentioned (demonstrates syllable awareness)
-2. Bring hands together and slowly pull them apart while saying longer words (shows how sounds combine)
-3. Point to different people and gesture to them speaking (represents how different people communicate)
+1. Clap on each syllable when singing about syllables
+2. Stack hands on top of each other like building blocks for "building blocks"
+3. Point to mouth when singing about phonemes and sounds
 
 ## Intro Video Recommendation
 

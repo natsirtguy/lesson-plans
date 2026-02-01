@@ -16,35 +16,30 @@ Children will explore the scientific concept of fire and combustion through safe
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
 **Tempo**: Moderate
 
-**Lyrics** (2 verses, matching the 7-7-7-7-7-7 syllable pattern):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Fire needs three things to grow (7: Fire-needs-three-things-to-grow)
-Heat and fuel, here we go (7: Heat-and-fuel-here-we-go)
-Oxygen's floating in the air (8: Ox-y-gen's-float-ing-in-the-air) — *Adjust to 7: Ox-y-gen floats in air* (7: Ox-y-gen-float-in-air)
-Watch the flames dance everywhere (8: Watch-the-flames-dance-ev-ery-where) — *Adjust to 7: Watch flames dance in the air* (7: Watch-flames-dance-in-the-air)
-Light so bright and warmth so true (7: Light-so-bright-and-warmth-so-true)
-Fire teaches us what's new (7: Fire-teach-es-us-what's-new)
+Old MacDonald burned a flame, E-I-E-I-O,
+And fire needs three things, E-I-E-I-O,
+Heat and fuel with a whee,
+Oxygen from air so free,
+Combustion burns, E-I-E-I-O.
 
 *Verse 2*
-
-Heat gives energy to all (7: Heat-gives-en-er-gy-to-all)
-Combustion answers nature's call (8: Com-bus-tion-an-swers-na-ture's-call) — *Adjust to 7: Com-bus-tion-an-swers-call* (7: Com-bus-tion-an-swers-call)
-Fuel burns up in the flame (7: Fuel-burns-up-in-the-flame)
-Hot and bright, it's nature's game (7: Hot-and-bright-it's-na-ture's-game)
-Respect the fire, safe we stay (7: Re-spect-the-fire-safe-we-stay)
-Learning science every day (7: Learn-ing-sci-ence-ev-ery-day)
+Heat and light and warmth come fast, E-I-E-I-O,
+Fire's energy and blast, E-I-E-I-O,
+We respect the flame so hot,
+Safety rules cannot be forgot,
+Learning fire, E-I-E-I-O!
 
 **Actions/Gestures**:
-
-1. **Hands reaching up like flames**: Start with hands low by sides, then slowly wave hands upward and apart, spreading fingers to show flames growing and flickering
-2. **Deep breath in (oxygen)**: Place hand on chest and take a visible deep breath in through nose, then exhale slowly to show oxygen being used
-3. **Rub hands together for heat**: Vigorously rub hands together while singing about heat energy, showing how friction creates warmth
+1. Wave hands upward and apart, spreading fingers to show flames growing and flickering
+2. Take a visible deep breath in through nose to show oxygen being used
+3. Rub hands together vigorously to show how friction creates heat
 
 ## Intro Video Recommendation
 

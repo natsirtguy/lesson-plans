@@ -16,28 +16,30 @@ Children become curators and designers by creating their own mini museum or gall
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and inviting
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Showcase all your artwork bright,
-Curate what you love to see,
-Build a space where art is shared,
-Galleries make hearts feel glad.
+If you want to curate art, make a gallery
+If you want to curate art, make a gallery
+Choose the artifacts to show,
+Make an exhibit all aglow,
+If you want to curate art, make a gallery
 
 *Verse 2*
-Organize your treasured things,
-Place them where they look so nice,
-People come to see and learn,
-Everyone will smile and play.
+Come and see our gallery, view the exhibit
+Come and see our gallery, view the exhibit
+Artifacts are on display,
+Curate special art today,
+Come and see our gallery, view the exhibit
 
 **Actions/Gestures**:
-1. Sweep arms wide outward to show displaying artwork
-2. Hold hands up to frame a picture, like looking at something special on a wall
-3. Clap hands together when visitors arrive to celebrate sharing creations
+1. Frame your hands like looking at a picture during "gallery" and "exhibit"
+2. Sweep arms wide to show displaying all the artifacts
+3. Clap hands on "make a gallery" and "view the exhibit"
 
 ## Intro Video Recommendation
 

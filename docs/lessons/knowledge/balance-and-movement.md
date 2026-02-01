@@ -18,35 +18,28 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: This Old Man
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and bouncy
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Balance, balance, stand up tall
-Feel your feet upon the ground
-Use your arms to steady all
-Turn and sway and spin around
-Feel equilibrium
-
-*Verse 1 (Corrected)*
-Balance, balance, stand up tall
-Feel your feet upon the ground
-Use your arms to steady all
-Turn and sway and spin around
+Balance here, balance there
+Standing steady everywhere
+With coordination and stability
+We move with equilibrium gracefully
 
 *Verse 2*
-Walk with careful, gentle steps
-Feel your body move with grace
-Stretch and reach with arms out wide
-Balance helps us through the day
+Stand on one foot, don't fall down
+Turn and spin all around
+Proprioception helps us know
+Where our body needs to go
 
 **Actions/Gestures**:
-1. Stand tall on both feet, then carefully lift one foot while extending arms out to sides for balance
-2. Sway gently side-to-side with arms relaxed, keeping feet planted firmly
-3. Reach arms up high above your head, then slowly bring them down while keeping your body centered
+1. Stand on one foot and hold the position while singing about balance
+2. Stretch arms wide to the sides to demonstrate stability
+3. Touch different body parts (head, shoulders, knees) to show body awareness and proprioception
 
 ## Intro Video Recommendation
 

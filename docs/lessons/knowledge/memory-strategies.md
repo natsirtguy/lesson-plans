@@ -18,30 +18,32 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and thoughtful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Remember, remember, hold it tight
-Pictures in your mind so bright
-See the colors, count them too
-One, two, three, and four, then five
-Memory helps your brain come alive
+I try to recall things that I know,
+Remembering the patterns that I saw,
+I visualize the pictures in my mind,
+And then I can recall them one more time
+Remember things by saying them out loud,
+Practice makes my memory feel proud
 
 *Verse 2*
-Close your eyes and think so deep
-All the things you want to keep
-Repeat the words, say them out
-That's what memory's all about
-Practicing helps you win the game
+I look for patterns everywhere I go,
+They help me to remember what I know,
+I visualize and picture in my brain,
+And then I can recall it once again
+Memory strategies help me learn,
+Remembering is easy when it's my turn
 
 **Actions/Gestures**:
-1. Tap your head gently with fingers while singing "hold it tight" to emphasize thinking and remembering
-2. Make a framing motion with hands around your face for "pictures in your mind" to show visualization
-3. Tap your temple while saying "memory helps your brain" to show where memory is stored
+1. Point to your head when singing "recall" and "remember"
+2. Frame your eyes with hands for "visualize" to show seeing pictures
+3. Make a repeating pattern motion with hands (tap, clap, tap, clap)
 
 ## Intro Video Recommendation
 

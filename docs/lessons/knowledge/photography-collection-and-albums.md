@@ -16,33 +16,28 @@ This lesson introduces children to collecting and organizing photographs, creati
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Pictures tell our stories true
-Moments caught for me and you
-Gather them and organize
-Put them in our album bright
-Sorted and arranged with care
-Show the people that we love
+We collect our photographs, photographs, photographs
+We collect our photographs, pictures that we treasure
+Organize them in a book, in a book, in a book
+Organize them in a book, albums hold our memories
 
 *Verse 2*
-Look and smile at all these days
-Memories we save and hold
-See the growth and joy we've known
-Organize them neat and safe
-Photos show the things we love
-Albums help us to recall
+Photographs show special times, special times, special times
+Photographs show special times, moments that we captured
+Sort and arrange them with care, them with care, them with care
+Sort and arrange them with care, stories we can share
 
 **Actions/Gestures**:
-1. Pretend to hold a camera, click the button, and smile big
-2. Make sorting motions with hands, separating photos into groups
-3. Point at photos in an imaginary album, looking closely at each one
-4. Give yourself a gentle hug and place hands over heart to "treasure the memories"
+1. Pretend to hold a camera and press the button (click)
+2. Make sorting motions with hands, arranging photos in groups
+3. Open hands like a book to show the album pages
 
 ## Intro Video Recommendation
 

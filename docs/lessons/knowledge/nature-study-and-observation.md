@@ -16,45 +16,28 @@ Children develop their natural curiosity by closely examining plants, insects, r
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and wondering
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-I observe the world so wide
-(I / ob-serve / the / world / so / wide = 7 syllables)
-
-All the colors, textures, light
-(All / the / col-ors / tex-tures / light = 7 syllables)
-
-Watch the creatures, see the trees
-(Watch / the / crea-tures / see / the / trees = 7 syllables)
-
-Nature's magic all around
-(Na-ture's / mag-ic / all / a-round = 7 syllables)
+Observe, observe what we see,
+Natural things all around,
+Touch the texture, rough and smooth,
+Nature study makes no sound
 
 *Verse 2*
-
-Look at beetles, bugs, and ants
-(Look / at / bee-tles / bugs / and / ants = 7 syllables)
-
-Touch the bark and soft, soft leaves
-(Touch / the / bark / and / soft / soft / leaves = 7 syllables)
-
-Hear the birds and rustling sounds
-(Hear / the / birds / and / rus-tling / sounds = 7 syllables)
-
-Nature study everywhere
-(Na-ture / stud-y / ev-ery / where = 7 syllables)
+Habitats where creatures live,
+Observe the natural way,
+Textures, colors, shapes we find,
+Nature study every day
 
 **Actions/Gestures**:
-1. Make binoculars with both hands and look around (for "observe")
-2. Rub thumb and fingers together slowly (for "texture")
-3. Gently touch imaginary bark, leaves, and petals (for different textures)
-4. Point to different areas around you (for "everywhere")
+1. Make binoculars with hands and look around for "observe"
+2. Rub fingers together to feel different textures
+3. Point to different habitats and natural things around you
 
 ## Intro Video Recommendation
 

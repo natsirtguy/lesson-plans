@@ -16,45 +16,36 @@ Children explore color, sequence, and pattern-making by threading beads and past
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Moderate and playful
+**Tempo**: Steady and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Thread the beads right on the string
-
-One by one the beads you see
-
+We can make a pattern now
+Pattern now, pattern now
+We can make a pattern now
+With beads in a sequence
 Red and blue and red again
-
-Pattern makes a pretty chain
-
-Smooth and bumpy textures here
-
-Twist it round your neck so tight
+Red again, red again
+Feel the texture, smooth or rough
+Making it symmetric
 
 *Verse 2*
-
-Beads and pasta round and round
-
-Matching colors side by side
-
-Organize in pretty ways
-
-Every necklace tells a tale
-
-Make a pattern you like best
-
-Wear it proudly, what a treat
+Thread the beads upon the string
+On the string, on the string
+Watch the pattern as we go
+Sequence makes it special
+Smooth and bumpy side by side
+Side by side, side by side
+Every bead shows texture clear
+Making necklaces so pretty
 
 **Actions/Gestures**:
-
-1. Pinch fingers together to show threading motions while singing "Thread the beads"
-2. Point to eyes during "the beads you see" and pretend to examine beads
-3. Make a circle with hands around neck during "Twist it round your neck" to show wearing the necklace
+1. Point to beads in order on "pattern" and "sequence" to show the arrangement
+2. Touch fingertips together on "texture" to show feeling smooth and bumpy
+3. Make mirror motions with both hands on "symmetric" to show matching sides
 
 ## Intro Video Recommendation
 

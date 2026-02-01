@@ -16,31 +16,28 @@ Children explore the concept that all living things are made of tiny building bl
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Steady and engaging
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Cells are tiny, cells are small
-You cannot see them with your eyes at all
-Millions live inside of you
-Working together, me and you
-Making us alive and strong and true
+The cells in our body work all day
+Work all day, work all day
+The cells in our body work all day
+Keeping us living
 
 *Verse 2*
-In your skin and in your bones
-Cells are building little homes
-Every creature, plant and tree
-Made of cells for all to see
-Cells so small but strong and free
-Building all of you and me
+Every organism's made of cells
+Made of cells, made of cells
+We use a microscope to see them well
+Tiny building blocks
 
 **Actions/Gestures**:
-1. Make tiny pinching motion with thumb and forefinger to show how small cells are
-2. Slowly expand arms outward in a growing motion to show cells multiplying and creating growth
-3. Point to different parts of body (skin, arm, hair) and say "cells live here" to show cells are everywhere in our bodies
+1. Make tiny pinching motion with fingers during "cells" showing how small they are
+2. Point to different body parts during "in our body" showing cells everywhere
+3. Make circular motion with hands around eyes during "microscope" like looking through a lens
 
 ## Intro Video Recommendation
 

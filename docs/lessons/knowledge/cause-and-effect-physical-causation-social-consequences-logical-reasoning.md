@@ -16,32 +16,28 @@ Children explore the relationship between actions and consequences through hands
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Moderate
+**Tempo**: Moderate and clear
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Push the ball, watch it go
-See it roll across the floor
-Push and pull, cause the change
-Actions make a different range
-Everything has reasons why
-Effect comes after, that is why
+Every cause has an effect
+An effect, an effect
+Every cause has an effect
+Watch it happen
 
 *Verse 2*
-When I smile, friends smile too
-Kind actions make good feelings true
-What I do will make a change
-Consequences rearrange
-First the cause, then the effect
-Everything connects, inspect
+When we push, then things will move
+Things will move, things will move
+What we do brings consequence
+Predict the outcome
 
 **Actions/Gestures**:
-1. Push hands forward together ("Push") when singing "Push the ball" to show physical action
-2. Open arms wide and sweep them across body when singing "watch it go" to show movement/effect
-3. Point to self then to others when singing "I smile, friends smile too" to show social cause and effect
+1. Push hands forward during "when we push" showing the cause
+2. Sweep hands across showing movement during "things will move" showing the effect
+3. Point to head during "predict" showing thinking about what will happen next
 
 ## Intro Video Recommendation
 

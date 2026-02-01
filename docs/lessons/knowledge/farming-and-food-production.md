@@ -18,32 +18,30 @@ Select vocabulary words that are sophisticated but age-appropriate, directly rel
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
 **Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Plant a seed down in the ground (Plant - a - seed - down - in - the - ground = 7 syllables)
-Water, sunshine all around (Wa - ter, sun - shine all - a - round = 7 syllables)
-Watch it grow so green and tall (Watch - it - grow - so - green - and - tall = 7 syllables)
-Farmer cares for one and all (Far - mer cares - for - one - and - all = 7 syllables)
-Growing food for you and me (Grow - ing - food - for - you - and - me = 7 syllables)
-That's what farmers help us see (That's - what - far - mers - help - us - see = 7 syllables)
+Old MacDonald had a farm, E-I-E-I-O,
+And on that farm he plants a seed, E-I-E-I-O,
+With water here and sunshine there,
+A little plant grows everywhere,
+Old MacDonald cultivates, E-I-E-I-O.
 
 *Verse 2*
-Harvest time has come around (Har - vest - time - has - come - a - round = 7 syllables)
-Pick the vegetables from ground (Pick - the - veg - e - ta - bles - from - ground = 8 syllables) [adjusted]
-Apples red and carrots bright (Ap - ples - red - and - car - rots - bright = 7 syllables)
-Farmers work from dawn to night (Far - mers - work - from - dawn - to - night = 7 syllables)
-From the farm into our home (From - the - farm - in - to - our - home = 7 syllables)
-Everything we eat has grown (Ev - ry - thing - we - eat - has - grown = 7 syllables)
+Old MacDonald harvests crops, E-I-E-I-O,
+And fills his farm with lots of food, E-I-E-I-O,
+Fresh vegetables and fruit so fine,
+Carrots, apples, and more to find,
+From the farm to our home we go!
 
 **Actions/Gestures**:
-1. Crouch down low and pretend to plant a seed, then slowly stand up and reach arms high like a growing plant
-2. Make circular motions with hands around the body to show watering and sunshine
-3. Pretend to pick vegetables from an imaginary garden, bringing them close and looking at them with wonder
+1. Crouch down and pretend to plant a seed, then slowly stand up and reach arms high like a growing plant
+2. Make circular motions with hands to show watering and sunshine
+3. Pretend to pick vegetables from an imaginary garden with hands
 
 ## Intro Video Recommendation
 

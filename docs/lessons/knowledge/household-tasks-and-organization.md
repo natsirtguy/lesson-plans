@@ -16,32 +16,28 @@ Children explore the daily routines and organization systems that keep a home ru
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate
+**Tempo**: Steady and purposeful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-We can sort things all day long
-Blocks and toys and socks so strong
-Red and blue and colors bright
-Putting everything just right
-Organization is so fun
-Working together, we are done
+Sort, sort, sort all day, one, two, three
+Sort the toys and organize
+This old home runs happily
+Responsibility's the key
 
 *Verse 2*
-Tidy up and find a place
-For the toys in our small space
-Responsibility's the key
-Helping family, you and me
-When we organize with care
-A happy home is everywhere
+Tidy, tidy, keep it neat, one, two, three
+Find each toy its proper place
+Organization helps us see
+Working together happily
 
 **Actions/Gestures**:
-1. Make sorting motions with both hands—reach right then left—as if placing items into baskets
-2. Sweep your arms across your body to show tidying or organizing items into spaces
-3. Put hands together in front of your chest, then open them outward to show "everything in its place"
+1. Make sorting motions with both hands reaching left and right
+2. Sweep arms across body to show tidying
+3. Put hands together, then open outward to show "everything in its place"
 
 ## Intro Video Recommendation
 

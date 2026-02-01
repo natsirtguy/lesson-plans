@@ -16,32 +16,30 @@ Children explore the concept of climate zones and discover how different parts o
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and gentle
+**Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Cli-mate zones a-round the Earth (7 syllables)
-Ev-ery place has its own worth (7 syllables)
-Trop-i-cal is hot and bright (7 syllables)
-Po-lar zones are cold and white (7 syllables)
-Tem-per-ate has spring and fall (7 syllables)
-Cli-mate zones a-round us all (7 syllables)
+If you're in a tropical zone, fan your face
+If you're in a tropical zone, fan your face
+Hot temperature and sunny days
+Climate warm in many ways
+If you're in a tropical zone, fan your face
 
 *Verse 2*
-Some places hot, some places cold (7 syllables)
-Some have sto-ries to be told (7 syllables)
-Hot and dry or wet and warm (7 syllables)
-Ev-ery zone has its own form (7 syllables)
-We can learn about each one (7 syllables)
-Learn-ing is so much of fun (7 syllables)
+If you're in a polar zone, give a shiver
+If you're in a polar zone, give a shiver
+Cold and icy all around
+Frozen water on the ground
+If you're in a polar zone, give a shiver
 
 **Actions/Gestures**:
-1. For tropical zone: Stretch arms wide like the sun, sway like palm trees, wipe forehead as if hot
-2. For polar zone: Wrap arms around yourself, shiver, pretend to be a penguin waddling
-3. For temperate zone: Make a slow circle with arm to show seasons changing, point to ground for grass, then up for snow
+1. Fan face with hand during "tropical zone" showing it's hot
+2. Hug self and shiver during "polar zone" showing it's cold
+3. Clap hands on "fan your face" and "give a shiver" like the original tune pattern
 
 ## Intro Video Recommendation
 

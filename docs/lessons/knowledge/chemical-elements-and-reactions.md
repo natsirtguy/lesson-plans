@@ -16,32 +16,28 @@ Children explore how different materials and liquids react and change when combi
 
 ## 🎵 Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Slow and gentle
+**Tempo**: Energetic and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Mix and mix what do we see?
-Colors dancing, wild and free
-Bubbles pop and fizz so bright
-Watch the transformation right
-Mix and blend and see it change
-Things transform in wondrous ways
+When you combine the ingredients, watch them fizz
+When you combine the ingredients, watch them fizz
+See the chemical reaction, bubbles make a big distraction
+When you combine the ingredients, watch them fizz
 
 *Verse 2*
-Red and yellow make orange hue
-New and different, something new
-Baking soda, vinegar too
-Watch what happens when we brew
-Mix together, science play
-Reactions happen every day
+When the colors transform, something new appears
+When the colors transform, something new appears
+Red and yellow make an orange, mixing makes the colors change
+When the colors transform, something new appears
 
 **Actions/Gestures**:
-1. Stirring motion: Hold hands together and make slow stirring motions to represent mixing ingredients together
-2. Explosion gesture: Start with hands together, then slowly open them wide and move them upward to show bubbles or reactions happening
-3. Color blend: With hands at chest, move them together slowly while rotating wrists to show colors and ingredients combining into something new
+1. Stirring motion with hands during "combine the ingredients"
+2. Explosion gesture with hands bursting outward during "watch them fizz"
+3. Swirl hands together during "colors transform" showing mixing
 
 ## 📺 Intro Video Recommendation
 

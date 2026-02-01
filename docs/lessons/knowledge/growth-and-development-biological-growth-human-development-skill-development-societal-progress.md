@@ -16,36 +16,37 @@ Children explore the concept of growth through observing living things, measurin
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: "Wheels on the Bus"
 
 **Tempo**: Moderate (steady, encouraging pace)
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-I was small when I was born
-Growing bigger every day
-My body changes more and more
-In my own special way
-
-Growing, growing, up so high
-Learning skills both new and great
+We all grow bigger day by day
+Day by day, day by day
+We all grow bigger day by day
+Watch us transform now
+Plants develop in the sun
+In the sun, in the sun
+Plants develop in the sun
+Growing, growing, grow
 
 *Verse 2*
-
-Plants reach up toward the sun
-Friends get taller, strong, and wise
-Everything's transforming now
-Growing, growing before my eyes
-
-Progress happens every day
-Watch us change in every way
+Children make progress all the time
+All the time, all the time
+Children make progress all the time
+Learning something new
+Seeds transform into a plant
+Into a plant, into a plant
+Seeds transform into a plant
+Growing strong and true
 
 **Actions/Gestures**:
-1. Start low and crouch down, then slowly stand up taller while singing about growing
-2. Make a caterpillar shape with your body curled, then stretch into a butterfly shape (transform)
-3. Clap hands in rhythm with "progress happens" lines to show forward movement
+1. Start crouched low and slowly stand up taller during "grow bigger" lines
+2. Reach arms up high like a growing plant during plant verses
+3. Make a caterpillar motion then stretch arms out like butterfly wings for "transform"
+4. Take steps forward during "progress" to show moving ahead
 
 ## Intro Video Recommendation
 

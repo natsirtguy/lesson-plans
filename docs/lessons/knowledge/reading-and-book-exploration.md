@@ -16,35 +16,32 @@ Young learners will develop a genuine love of books and discover that stories co
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and warm
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Stories come in books so bright
-Pictures dancing on each page
-Words that fill us with delight
-Let me turn each brand new page
-Books are treasures, old and new
-Stories waiting just for you
+Books, books, full of tales
+Narratives that never fail
+Illustrations bright and clear
+Stories that we love to hear
+Anticipate what's coming next
+Literature we can explore
 
 *Verse 2*
-
-Open covers, feel the joy
-See the pictures, hear the sound
-Stories here for girl and boy
-Wonder waits in books around
-Pages turning, hearts aglow
-What exciting tales we'll know
+Books, books, turn the page
+Perfect for every age
+Pictures show us what is true
+Words and images brand new
+Open covers, look inside
+Stories waiting there for you
 
 **Actions/Gestures**:
-
-1. Open hands outward like opening a book cover gently
-2. Make slow turning motions with your hand as if turning pages
-3. Point and tap your finger on imaginary pictures, looking with wide eyes
+1. Open hands like opening a book cover
+2. Point to imaginary pictures on pages
+3. Turn hand slowly as if turning pages gently
 
 ## Intro Video Recommendation
 

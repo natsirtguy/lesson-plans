@@ -16,35 +16,28 @@ Children explore compassion and stewardship through imaginative role-play where 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and steady
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-I will care for small animals (7 syllables)
-Keep them safe and warm and well (7 syllables)
-I will help them find a place (7 syllables)
-Where they're loved and full of grace (7 syllables)
-With my hands and with my heart (7 syllables)
-I will help them make a start (7 syllables)
+Care, care, care for friends
+Animals need love
+Show compassion, rescue them
+Nurture from above
 
 *Verse 2*
-
-Watch them play and jump around (7 syllables)
-See them run and make a sound (7 syllables)
-I will give them food and drink (7 syllables)
-Care for them in just a blink (7 syllables)
-When they're tired they need to rest (7 syllables)
-Helping them is so much fun (7 syllables)
+Feed, feed, feed them well
+Give them cozy beds
+Stewardship means caring well
+For our animal friends
 
 **Actions/Gestures**:
-
-1. **Gentle cradling motion**: Rock arms as if holding a small animal while singing about caring
-2. **Protective wrap**: Cross arms across chest like making a safe shelter while singing "where they're loved"
-3. **Reaching out with both hands**: Open palms outward when singing about helping animals
+1. Rock arms gently as if cradling a small animal
+2. Pretend to put food in a bowl when singing "feed them well"
+3. Make a heart shape with hands over chest when singing about compassion and love
 
 ## Intro Video Recommendation
 

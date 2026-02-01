@@ -16,32 +16,28 @@ Children will observe and explore the life cycle of plants, discovering how seed
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and flowing
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Plant a seed so small and round (Plant-a-seed-so-small-and-round = 7 syllables)
-Push it gently in the ground (Push-it-gent-ly-in-the-ground = 7 syllables)
-Give it water, give it light (Give-it-wa-ter-give-it-light = 7 syllables)
-Watch it grow through day and night (Watch-it-grow-through-day-and-night = 7 syllables)
-Soon a sprout will push up high (Soon-a-sprout-will-push-up-high = 7 syllables)
-Reaching green leaves to the sky (Reach-ing-green-leaves-to-the-sky = 7 syllables)
+Seeds will germinate and grow
+Pushing through the ground
+Root systems drinking water deep
+Life is all around
 
 *Verse 2*
-Some plants flower, pink and bright (Some-plants-flow-er-pink-and-bright = 7 syllables)
-Some grow strong like trees of height (Some-grow-strong-like-trees-of-height = 7 syllables)
-Roots beneath drink water deep (Roots-be-neath-drink-wa-ter-deep = 7 syllables)
-While the leaves their sunshine keep (While-the-leaves-their-sun-shine-keep = 7 syllables)
-Every plant has its own way (Ev-ery-plant-has-its-own-way = 7 syllables)
-Growing stronger every day (Grow-ing-strong-er-ev-ery-day = 7 syllables)
+Photosynthesis brings food
+Sunlight helps plants thrive
+Biodiversity everywhere
+Plants are so alive
 
 **Actions/Gestures**:
-1. Start with hands closed in a fist (seed), then slowly open and spread fingers upward (growing sprout)
-2. Pretend to water by making gentle pouring motions with hands, then reach arms up high toward the sun
-3. Wiggle fingers downward below body (representing roots drinking water underground)
+1. Start in a ball like a seed, then slowly stand and reach up like a germinating sprout
+2. Wiggle fingers downward like root systems growing underground
+3. Reach arms up high toward the sun for photosynthesis
 
 ## Intro Video Recommendation
 

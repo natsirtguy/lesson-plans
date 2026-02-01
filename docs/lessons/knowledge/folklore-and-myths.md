@@ -16,32 +16,32 @@ Children will discover the magical world of folklore and mythological stories th
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: This Old Man
 
 **Tempo**: Slow and gentle with moments of wonder
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Once there lived a magical tale
-Of a hero so brave and so true
-Dragons fierce and castles so bright
-Legends passed down through the night
-Ancient stories from lands far away
-Myths to treasure every single day
+This old myth, it told a tale,
+Of heroes brave so true,
+With legends, folklore, and magic spells,
+Stories passed on through.
+With a clickety-clack and a magical spell,
+Myths and legends we can tell.
 
 *Verse 2*
-Magic spells and wishes come true
-Enchanted forests filled with delight
-Wise old creatures showing the way
-Learning lessons in folklore today
-Stories whispered from ear to ear
-Passed through ages, generation to dear
+This enchanted story's wise,
+Teaching what we know,
+Dragons, wishes, ancient tales,
+From long, long ago.
+With a clickety-clack and a legendary track,
+Folklore comes right back.
 
 **Actions/Gestures**:
-1. Wave hands in gentle circles like casting a magic spell when singing about enchanted and magic moments
-2. Lean in close with one hand cupped around mouth like telling a secret when singing about stories being passed down
-3. Make an upward sweeping motion with both arms like opening a magical book during the verse about tales and legends
+1. Wave hands in gentle circles like casting a magic spell
+2. Lean in close with one hand cupped around mouth like telling a secret
+3. Make an upward sweeping motion with both arms like opening a magical book
 
 ## Intro Video Recommendation
 

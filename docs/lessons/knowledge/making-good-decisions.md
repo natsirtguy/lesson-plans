@@ -16,32 +16,30 @@ Children learn that decisions are choices we make every day, and that thinking a
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Slow and gentle
+**Tempo**: Thoughtful and encouraging
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-When you have to make a choice
-Think about it, use your voice
-Is it safe? Is it kind?
-Keep good choices on your mind
-Think, then choose, and you will see
-Good decisions help you, me
+When you make a good decision, think it through
+When you make a good decision, think it through
+Look at every option here
+Ask yourself, "Is this safe and clear?"
+Every consequence will help you, yes it's true
 
 *Verse 2*
-When your friends all want to play
-Choices help you every day
-Stop and think before you act
-That is how to stay on track
-Look ahead and think it through
-Good decisions come from you
+When you have to make a choice, stop and think
+When you have to make a choice, stop and think
+Think of all your options now
+Make decisions, here's how
+Good decisions help us all stay safe and kind
 
 **Actions/Gestures**:
-1. Hand on chin, thinking pose when singing "think about it"
-2. Point to self when singing about "your voice" and personal choices
-3. Nod head affirmatively when singing "good decisions"
+1. Place hand on chin in thinking pose on "think it through"
+2. Count on fingers on "option" to show different choices available
+3. Nod head yes on "safe and kind" to affirm good choices
 
 ## Intro Video Recommendation
 

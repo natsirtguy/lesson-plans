@@ -16,32 +16,28 @@ Children explore the concept of collecting and developing interests through hand
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Steady and cheerful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I like to find things ev-ery-day (7)
-Rocks and leaves that come my way (7)
-Shells and but-tons shiny bright (7)
-I col-lect them, keep them tight (7)
-Treas-ures that I gath-er up (7)
-Fill my spe-cial col-lec-tion cup (7)
+We collect things all day long, all day long, all day long
+We collect things all day long, treasures that we find
+Rocks and shells and buttons bright, shells and buttons bright
+We organize them in our collection
 
 *Verse 2*
-Hob-bies make our hearts feel glad (7)
-Find-ing things is fun we had (7)
-Ar-range them all in my spe-cial place (8... adjust to 7: Ar-range them in my spe-cial place) (7)
-Each one treas-ured, has its space (7)
-I love my col-lec-tion so (7)
-Watch-ing how my gath-er-ing grow (7)
+My hobby makes me very glad, very glad, very glad
+My hobby makes me very glad, I love to gather things
+Organize and sort them well, sort them well, sort them well
+My special collection grows and grows
 
 **Actions/Gestures**:
-1. Reach down and pretend to pick something up from the ground
-2. Cup hands together like holding a treasure, then bring to chest
-3. Sweep arms wide and slowly to show organizing items in a line
+1. Reach down and pretend to pick up items on each "collect"
+2. Organize items with sweeping hand motions during "organize"
+3. Cup hands and bring to chest when singing "treasures that we find"
 
 ## Intro Video Recommendation
 

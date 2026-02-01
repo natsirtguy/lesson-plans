@@ -16,32 +16,30 @@ Children engage in imaginative play by creating stories together and taking on d
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate (steady, playful)
+**Tempo**: Playful and animated
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can be a brave knight (7 syllables)
-With a sword and armor bright (7 syllables)
-I can make up stories too (7 syllables)
-With my friends in all I do (7 syllables)
-We create a magic world (7 syllables)
-Where our great adventures start (7 syllables)
+When we improvise a tale, make it up
+When we improvise a tale, make it up
+Characters in every scene
+Acting out our narrative
+When we improvise a tale, make it up
 
 *Verse 2*
-Playing games with many friends (7 syllables)
-The adventure never ends (7 syllables)
-We imagine something new (7 syllables)
-Dragons, castles, wishes true (7 syllables)
-Every character we play (7 syllables)
-Brings joy to us every day (7 syllables)
+We can use our props to play, yes we can
+We can use our props to play, yes we can
+Blankets, hats, and spoons we find
+Characters we play with mind
+We can use our props to play, yes we can
 
 **Actions/Gestures**:
-1. **"I can be a brave knight"** - Stand tall and pretend to hold up a shield
-2. **"We create a magic world"** - Make a large circle with arms above head, then sweep arms out wide
-3. **"Every character we play"** - Point to self, then gesture to others, showing different character poses
+1. Make up motions spontaneously to show improvisation
+2. Act out different characters with exaggerated poses
+3. Pick up imaginary props and use them creatively in play
 
 ## Intro Video Recommendation
 

@@ -16,35 +16,32 @@ This lesson teaches children how to engage respectfully in structured group lear
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and cheerful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-When we gather for a class,
-We can learn so many things.
-Listen to the grown-up speak,
-And we'll follow what they say.
-Raise your hand and wait your turn,
-We are learning, growing strong.
+When we participate in class
+In our class, in our class
+When we participate in class
+We pay attention
 
 *Verse 2*
-
-When the lesson time is done,
-We will wait for what comes next.
-Thank you, friend, for sharing time,
-Friends and teachers all work well.
-We are part of something big,
-Learning, growing, having fun.
+We can follow instruction well
+Instruction well, instruction well
+We can follow instruction well
+And collaborate together
+Listening and learning grow
+Learning grow, learning grow
+Listening and learning grow
+In our workshop time
 
 **Actions/Gestures**:
-
-1. Sit up straight and touch your chest when you hear "listen"—shows body awareness and focus
-2. Raise your hand high in the air on "raise your hand"—practices the actual participation gesture
-3. Clap your hands gently on "learning, growing, having fun"—celebrates the joy of learning together
+1. Raise hand high during "participate in class"
+2. Point to ears during "pay attention" to show listening
+3. Join hands with a friend during "collaborate together"
 
 ## Intro Video Recommendation
 

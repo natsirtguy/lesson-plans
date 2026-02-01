@@ -16,32 +16,32 @@ Children explore the fascinating journey of how humans learn to communicate thro
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and rhythmic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-(7) Words grow up in-side our brain
-(7) First we sound like "ba" and "ma"
-(7) Lis-ten to each sound we make
-(7) Ges-tures help us com-mu-nate
-(7) Ev-ery child learns in their way
-(7) Lan-guage grows a lit-tle each day
+Words we learn to communicate
+Sounds we make, yes sounds we make
+First come gestures, then we say
+Our expressions show the way
+Watch me point and hear me speak
+Language grows from day to day
 
 *Verse 2*
-(7) Lis-ten close to what I say
-(7) Lis-ten to the words we share
-(7) Talk-ing, point-ing, smile and wave
-(7) All these ways help us ex-press
-(7) When we share our feel-ings too
-(7) Lan-guage grows when I talk to you
+Ba ba da da, sounds I make
+Sounds I make, sounds I make
+Using gestures when I play
+My expressions show the way
+Watch me communicate today
+Language helps me grow each day
 
 **Actions/Gestures**:
-1. Point at different objects around the room while saying their names (reinforces gesture + vocabulary connection)
-2. Make simple baby sounds ("ba," "ma," "da") while bouncing gently (demonstrates early language sounds)
-3. Use exaggerated facial expressions showing happy, sad, surprised, and curious faces (shows expression as non-verbal communication)
+1. Point to different objects around the room while singing about gestures
+2. Make baby sounds ("ba," "ma," "da") during the second verse
+3. Use exaggerated facial expressions showing happy, sad, and surprised faces to demonstrate expression
 
 ## Intro Video Recommendation
 

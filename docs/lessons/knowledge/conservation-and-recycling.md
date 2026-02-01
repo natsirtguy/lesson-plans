@@ -16,32 +16,28 @@ Children explore the concepts of reusing, recycling, and protecting our environm
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Moderate
+**Tempo**: Moderate and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Recycling, recycling, here we go
-Plastic, paper, metal too
-When we sort them, don't you know
-Treasures new will come from you
-Recycling, recycling, helps us care
-Makes our world so clean and fair
+Sort, sort, sort the items,
+Gently in the bin,
+Plastic, paper, metal too,
+Recycling can begin.
 
 *Verse 2*
-Reuse bottles, cans and more
-Give old things a second life
-Paint them, fill them, explore
-Cut and stick them without strife
-Save our planet, watch it glow
-Everything we recycle, grow
+Reuse, conserve, and care,
+For the Earth so blue,
+Second life for old things,
+Making something new.
 
 **Actions/Gestures**:
 1. Make a sorting motion with both hands, separating items into imaginary bins
-2. Pretend to place items in a bin and then transform them by opening your hands like something new is being created
-3. Hold both arms open wide to show the Earth, then gently bring them together to show care and protection
+2. Pretend to place items in bins and open hands showing transformation
+3. Hold arms open wide to show Earth, then bring them together to show care
 
 ## Intro Video Recommendation
 

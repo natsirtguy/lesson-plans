@@ -16,51 +16,34 @@ Children explore creative thinking and role-playing through fantasy scenarios, p
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Slow and gentle with playful moments
+**Tempo**: Upbeat and playful
 
 **Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Imag-ine now and pre-tend with me (7)
-We can be what-ev-er we want to be (8) [RECOUNT: "we can be what ev er we want to be" = 8 - ADJUST]
-
-Let me recount line 2: "We can be whatever we want to be"
-We=1, can=2, be=3, what=4, ev=5, er=6, we=7, want=8, to=9, be=10 [Too many - need 7]
-
-*Verse 1 (CORRECTED)*
-Imag-ine now and pre-tend with me (7: I-mag-ine-now-and-pre-tend-with-me)
-We can be what-ev-er we want (7: We-can-be-what-ev-er-we-want)
-Trans-form the world a-round us here (7: Trans-form-the-world-a-round-us-here)
-A scen-ar-i-o we hold so dear (8: A-scen-ar-i-o-we-hold-so-dear)
-Dra-ma-tic, fan-tas-tic, wild and free (8: Dra-mat-ic-fan-tas-tic-wild-and-free)
-Cre-a-tive play is what we be (7: Cre-a-tive-play-is-what-we-be)
-
-Wait, let me verify the Twinkle Twinkle structure: typically 7-7-7-7-7-7
-
-Let me recount more carefully:
-
-*Verse 1 (FINAL)*
-Im-ag-ine now and pre-tend with me (1-2-3-4-5-6-7) ✓
-We can be what-ev-er we want (1-2-3-4-5-6-7) ✓
-Trans-form the world a-round us here (1-2-3-4-5-6-7) ✓
-A scen-ar-i-o, oh so dear (1-2-3-4-5-6-7) ✓
-Let your i-mag-i-na-tion grow (1-2-3-4-5-6-7) ✓
-Cre-a-tive play is where we go (1-2-3-4-5-6-7) ✓
+When we play we can pretend
+Anything we want
+With imagination here and transform there
+Here we pretend, there we pretend
+Everywhere a scenario
+When we play we can pretend
+Using our minds well
 
 *Verse 2*
-Be a doc-tor, be a cat (1-2-3-4-5-6-7) ✓
-Be a pi-rate, wear a hat (1-2-3-4-5-6-7) ✓
-Pre-tend that you can fly so high (1-2-3-4-5-6-7) ✓
-Let your mind reach for the sky (1-2-3-4-5-6-7) ✓
-Ev-ery thing can change and grow (1-2-3-4-5-6-7) ✓
-In your i-mag-i-na-tion's glow (1-2-3-4-5-6-7) ✓
+I imagine I'm a chef
+Or a flying bird
+With a pretend here and imagine there
+Here transform, there transform
+Everywhere a new play scene
+I imagine what I want
+In my creative world
 
 **Actions/Gestures**:
-1. Make a thinking gesture with finger to temple during "imagine," then point outward to show the world expanding
-2. Sweep hands from side to side like transforming something, changing hand positions
-3. Point to self during "be," then alternate pointing to others to include everyone in the play
+1. Point to head when singing about imagination
+2. Sweep hands from side to side showing transformation
+3. Act out different roles mentioned while singing
 
 ## Intro Video Recommendation
 

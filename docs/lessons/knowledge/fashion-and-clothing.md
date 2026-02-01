@@ -16,32 +16,28 @@ In this lesson, children explore the wonderful world of clothes and fashion thro
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
 **Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Put your shirt on, one, two, three
-Buttons loop so carefully
-Zip it up and tuck it neat
-Socks and shoes protect our feet
-Clothes in colors, styles so bright
-Wearing outfits feels just right
+Dress, dress, dress yourself,
+Button, zip, and tie,
+Garments keep us warm and cool,
+Protected you and I.
 
 *Verse 2*
-Hat upon your head it goes
-Jacket keeps you warm when cold
-Skirt and pants for me to wear
-Everyone has fashion there
-Strip and dress and play and grow
-Showing style from head to toe
+Shirts and pants and hats,
+Texture, style, and drape,
+Fashion shows your personality,
+In a lovely shape.
 
 **Actions/Gestures**:
-1. Point to different body parts as you sing (shirt, feet, head, etc.) to build body awareness and follow along with the lyrics
-2. Pretend to button, zip, and tuck as you mime putting on clothes, reinforcing the fine motor movements of dressing
-3. Twirl or sway to show how fabric moves and drapes, making the concept of garments physical and fun
+1. Point to different body parts (shirt, feet, head) while singing
+2. Pretend to button, zip, and tuck to show dressing movements
+3. Twirl or sway to show how fabric moves and drapes
 
 ## Intro Video Recommendation
 

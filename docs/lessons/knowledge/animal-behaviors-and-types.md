@@ -16,32 +16,36 @@ Children explore the fascinating world of animals by observing and mimicking dif
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and bouncy
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Animals move in different ways
-Some hop, skip, and play all day
-Some swim fast and some fly high
-Some crawl slowly passing by
-Watch them move both big and small
-Each animal's behavior's special, that's for all (12 syllables - extends for longer lines in verse)
+Animals have behaviors too
+E-I-E-I-O
+Watch them hop and crawl and chew
+E-I-E-I-O
+Some predators hunt their prey
+Herbivores eat plants all day
+Animals have behaviors too
+E-I-E-I-O
 
 *Verse 2*
-See the cat that pounces quick
-Watch the snake that moves so slick
-Birds will chirp and hop around
-Dogs will bark with happy sound
-Different homes for every friend
-Every animal's unique from start to end (12 syllables - extends for longer lines in verse)
+Every animal has a home
+E-I-E-I-O
+That's their habitat to roam
+E-I-E-I-O
+Rabbits hop on forest ground
+Birds fly high without a sound
+Every animal has a home
+E-I-E-I-O
 
 **Actions/Gestures**:
-1. Hop like a rabbit - bent knees, bouncing up and down on two feet
-2. Slither like a snake - undulating body movements side to side while crouching or lying down
-3. Flap like a bird - arms at sides, move them up and down like wings
+1. Hop like a bunny when singing about hopping animals
+2. Flap arms like wings when singing about birds
+3. Pretend to munch on plants when singing about herbivores
 
 ## Intro Video Recommendation
 

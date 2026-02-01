@@ -16,32 +16,36 @@ Children learn to take on the role of teacher or tutor, practicing communication
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
 **Tempo**: Moderate and encouraging
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can teach like teacher does
-Show my friends the things I know
-When I guide them step by step
-They will learn and they will grow
-Teaching others helps us all
-Learning something new each day
+Guide, guide, teach my friends
+Yes I will, yes I will
+I demonstrate the way to learn
+I instruct with patient skill
+I communicate so clear
+Help my students understand
+Guide, guide, teach my friends
+Lending them a hand
 
 *Verse 2*
-I can be a teacher too
-Teach my toys and teach my friends
-When I share what I have learned
-Help them grow and comprehend
-Teaching is a special gift
-When we help each other learn
+Show, show, show the way
+That's what teachers do
+I can demonstrate and guide
+Share my knowledge through and through
+I communicate with care
+Teaching is my special gift
+Show, show, show the way
+Give my friends a lift
 
 **Actions/Gestures**:
-1. Point forward with both hands when singing "I can teach" (showing yourself as a teacher)
-2. Wave hands outward when singing "show my friends" (sharing knowledge outward)
-3. Walk fingers in a staircase motion when singing "step by step" (moving up gradually through learning)
+1. Point to yourself then gesture to others during "teach my friends"
+2. Show a teaching gesture (palms up, offering) during "demonstrate"
+3. Walk fingers up your other arm like climbing stairs during "guide"
 
 ## Intro Video Recommendation
 

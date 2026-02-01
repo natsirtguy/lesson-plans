@@ -16,33 +16,32 @@ Children explore the concept of innovation and invention by discovering how ever
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and encouraging
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Think it up, now make it real
-Build and test to see what's real
-Try your blocks and try your strings
-See the magic that comes in
-You're an inventor, strong and true
-Look what you can do, hooray!
+I can invent something new
+Something new, something new
+I can innovate today
+Make a prototype to play
+Test and experiment with care
+Inventing everywhere
 
 *Verse 2*
-Every idea starts so small
-Building, testing, that's not all
-Make it better, make it new
-Invent something just like you
-Experiment and have some fun
-Every inventor has begun
+Build it, test it, try again
+Try again, try again
+Make a prototype that's mine
+Innovate and it will shine
+Experiment and invent too
+Look what I can do
 
 **Actions/Gestures**:
-1. "Think it up" - Point to your head with both hands
-2. "Make it real" - Bring hands together in front of body as if building or assembling
-3. "Try your blocks" - Pretend to stack blocks up high, reaching upward
-4. Wave hands in celebration during the "hooray" and "fun" parts
+1. Point to head during "invent" to show thinking
+2. Make building motions with hands during "prototype"
+3. Pretend to test and adjust something during "experiment"
 
 ## Intro Video Recommendation
 

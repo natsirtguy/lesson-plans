@@ -16,28 +16,36 @@ Children learn to share special items with others through simple presentations, 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and encouraging
+**Tempo**: Cheerful and encouraging
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Please look at what I'm holding here (7 syllables)
-Come and listen, do not fear (7 syllables)
-Show and tell is so much fun (7 syllables)
-Share your things with everyone (7 syllables)
+When I present something special
+I show my audience
+With confidence I hold it up
+This thing that's special to me
+I present here, present there
+Show my audience with care
+With confidence I share something special
+For all to see
 
 *Verse 2*
-Now it is my turn to speak (7 syllables)
-Listen while I talk to you (7 syllables)
-My toy means so much to me (7 syllables)
-Let's all play and have good fun (7 syllables)
+The audience watches closely now
+I present with pride
+My special toy is shown to all
+With confidence inside
+Present here, present there
+My audience is everywhere
+With confidence I show my special things
+I do not hide
 
 **Actions/Gestures**:
-1. Hold up object in front of chest with both hands (when singing "holding here")
-2. Hold hand to ear and nod (when singing "listen")
-3. Clap hands together (when singing "fun")
+1. Hold up an imaginary object proudly for "present" and "special"
+2. Gesture to others around for "audience"
+3. Stand tall with chest out for "confidence"
 
 ## Intro Video Recommendation
 

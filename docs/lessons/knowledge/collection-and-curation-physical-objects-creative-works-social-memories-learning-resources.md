@@ -16,28 +16,26 @@ In this lesson, children explore the joy of collecting special items and learn h
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
-**Tempo**: Moderate and gentle
+**Tempo**: Steady and cheerful
 
-**Lyrics**:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can find things here and there
-Special treasures everywhere
-Gather, sort, and make them neat
-My collection is complete
+We collect our special things, special things, special things
+We collect our special things
+Let's curate them
 
 *Verse 2*
-Every item has a place
-Cared for with a gentle grace
-Organize and sort and find
-Leave a special home in mind
+We organize our collection, our collection, our collection
+We organize our collection
+Preserve each treasure
 
 **Actions/Gestures**:
-1. Hold hands out wide (finding things everywhere)
-2. Pretend to gather items in both hands (collecting)
-3. Place items down gently in a row (organizing and displaying)
+1. Reach down and pretend to pick up objects while singing "collect our special things"
+2. Sort items into groups with hand motions during "organize our collection"
+3. Hold hands over items protectively during "preserve each treasure" showing gentle care
 
 ## Intro Video Recommendation
 

@@ -16,32 +16,28 @@ Young children explore the world of art by looking carefully at colors, shapes, 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Cheerful and moving
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Colors, shapes, and lines so bright,
-Artists paint with joy and care,
-Look and see what's all around,
-Art is everywhere we go,
-Every picture tells a tale,
-Choose the ones you love the most.
+The art we curate is beautiful
+Beautiful, beautiful
+The art we curate is beautiful
+Look at composition
 
 *Verse 2*
-Curvy lines and colors blend,
-Smooth and rough and big and small,
-Feel the texture with your eyes,
-You can choose what you like best,
-Make a special place to show,
-All the art you love the most.
+The colors in the palette shine
+Palette shine, palette shine
+The colors in the palette shine
+The medium is special
 
 **Actions/Gestures**:
-1. Frame your eyes with your hands like you're looking through a camera at artwork all around you
-2. Make sweeping, painting motions with your arm across the air as if painting a big canvas
-3. Point to imaginary artworks on the walls around the room and nod to show which ones you like
+1. Make a frame with your hands and look through it at artwork
+2. Sweep arms in painting motions when singing about palette
+3. Point to different spots around you as if curating an art gallery
 
 ## Intro Video Recommendation
 

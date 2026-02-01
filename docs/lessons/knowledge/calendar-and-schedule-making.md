@@ -16,35 +16,32 @@ Children will explore the concepts of time, sequencing, and daily routines by cr
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate, steady pace
+**Tempo**: Steady and organized
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Days and weeks in order go
-Monday starts our week, we know
-Tuesday, Wednesday come around
-Thursday, Friday bring new sound
-Seven days that help us best
-Calendars complete the rest
+Calendar shows every day
+Helps us plan our work and play
+With a schedule, we can see
+What our routine's going to be
+Days in sequence, one by one
+Calendar helps everyone
 
 *Verse 2*
-
-Morning comes with schedule clear
-Breakfast time and friends are near
-Things to do throughout the day
-Lunch and rest and playtime stay
-Evening comes and we can see
-Plans for you and plans for me
+Monday, Tuesday, on we go
+Wednesday's next, then more to know
+Thursday, Friday come around
+Saturday and Sunday found
+Seven days make up our week
+Calendar's the plan we seek
 
 **Actions/Gestures**:
-
-1. **Days of the week march**: Step or bounce with each day of the week, counting on fingers as you go
-2. **Point to the calendar**: Reach up and point to an imaginary calendar on the wall during the first verse
-3. **Activity motions**: Mime eating breakfast, playing, resting, during the second verse to show schedule activities
+1. Point to an imaginary calendar on the wall during "calendar shows every day"
+2. Count on fingers for the days of the week during verse 2
+3. Draw a big circle in the air showing the weekly cycle during "seven days"
 
 ## Intro Video Recommendation
 

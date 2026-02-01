@@ -16,30 +16,36 @@ Children explore who they are by recognizing their own name, physical characteri
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-My name is [child's name], yes it's true
-I am special, I am you
-I have eyes and a nose too
-I have things I like to do
-I am unique from head to toe
-My own special, only me, I know
-I like colors, I like songs
-I know what I like and wrong
-I have feelings big and small
-I am special most of all
-Nobody else is quite like me
-My own person, special, can't you see
+I have my own identity
+I'm unique and that's just me
+I recognize my special face
+With preferences all my own to embrace
+My name here, my eyes there
+Everywhere my identity
+I am special, I am me
+I'm unique and proud to be
+
+*Verse 2*
+I can recognize myself
+I'm unique like no one else
+With my preferences day by day
+My identity in every way
+I like this, I choose that
+Everywhere my own thoughts at
+I am special, I am me
+I'm unique for all to see
 
 **Actions/Gestures**:
-1. Point to yourself as you sing your name, then point to others when saying "you"
-2. Use hands to outline your body from head to toe when singing "from head to toe"
-3. Show a big smile and give yourself a gentle hug when singing about being special
+1. Point to self when singing "identity" and "I am me"
+2. Frame face with hands for "recognize my special face"
+3. Hug self gently when singing "I am special, I am me"
 
 ## Intro Video Recommendation
 

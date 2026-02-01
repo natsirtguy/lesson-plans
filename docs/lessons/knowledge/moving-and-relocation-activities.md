@@ -16,35 +16,36 @@ This lesson introduces children to the concept of moving and helps them understa
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Upbeat and playful
+**Tempo**: Upbeat and energetic
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-We are packing up our things
-Boxes, bags, and everything
-Organizing, putting care
-In a box or anywhere
-Carrying boxes, moving day
-Getting ready, come and play
+We are packing up to relocate,
+E-I-E-I-O
+Organize our things in boxes straight,
+E-I-E-I-O
+With an inventory here and inventory there,
+Here we pack, there we pack, everywhere we pack pack,
+We are packing up to relocate,
+E-I-E-I-O
 
 *Verse 2*
-
-Loading trucks with all our stuff
-Now we have enough, enough
-Moving to a brand new place
-New adventures we embrace
-Unpacking boxes, finding space
-In our new and special place
+Time to transport everything we own,
+E-I-E-I-O
+Organize and move to our new home,
+E-I-E-I-O
+With a relocate here and relocate there,
+Here we move, there we move, everywhere we move move,
+Transport all our things to our new home,
+E-I-E-I-O
 
 **Actions/Gestures**:
-
-1. Pretend to pack items into boxes by making folding and placing motions with your hands
-2. Lift and carry imaginary boxes by bending knees and hoisting arms as if holding a heavy load
-3. Point around the room to show exploring and discovering a new space
+1. Pretend to pack items into boxes with folding and placing motions
+2. Lift and carry imaginary boxes with both arms
+3. Point to different locations to show organizing and relocating
 
 ## Intro Video Recommendation
 

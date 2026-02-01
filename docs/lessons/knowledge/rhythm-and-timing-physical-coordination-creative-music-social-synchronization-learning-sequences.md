@@ -16,28 +16,32 @@ Children explore the foundational concept of rhythm—the organized pattern of b
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate and steady (steady beat throughout)
+**Tempo**: Steady with a strong beat
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Clap your hands and beat the drum (clap-your-hands-and-beat-the-drum = 7)
-Rhythm makes us move as one (rhythm-makes-us-move-as-one = 7)
-Tap and stomp and sway along (tap-and-stomp-and-sway-a-long = 7)
-Listen to the timing song (listen-to-the-timing-song = 7)
+Rhythm, rhythm, feel the beat
+Clapping hands and stomping feet
+Tempo tells us fast or slow
+Synchronize as patterns flow
+Listen to the steady sound
+Moving rhythm all around
 
 *Verse 2*
-Fast and slow and smooth and strong (fast-and-slow-and-smooth-and-strong = 7)
-Syncing up with others here (syncing-up-with-others-here = 7)
-Patterns help us learn and grow (patterns-help-us-learn-and-grow = 7)
-Feeling rhythms as we go (feeling-rhythms-as-we-go = 7)
+Rhythm, rhythm, in our song
+Patterns help us move along
+Tempo changes, watch us go
+Fast like running, soft like snow
+Synchronize with friends so near
+Rhythm that we love to hear
 
 **Actions/Gestures**:
-1. Clap hands on each beat to reinforce the steady tempo
-2. Tap one foot while clapping to coordinate different body parts
-3. Sway or rock side to side with the rhythm for whole-body synchronization
+1. Clap hands steadily on the beat to show rhythm
+2. Change speed (tempo) between fast and slow movements
+3. Link arms or hold hands to show synchronization with others
 
 ## Intro Video Recommendation
 

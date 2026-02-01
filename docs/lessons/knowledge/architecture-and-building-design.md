@@ -16,32 +16,30 @@ Children explore the principles of building and design by constructing structure
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate, with clear, distinct syllables
+**Tempo**: Steady and rhythmic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Build it up so straight and tall
-Blocks will stand up strong and all
-Stack them careful, one by one
-Make a tower, oh what fun
-Balance, balance, don't you fall
-Build your building big and tall
+Build a structure, nice and tall
+Foundation holds it, won't let fall
+With a balance, steady stance
+Architecture gives a chance
+Buildings stand both big and small
 
 *Verse 2*
-Walls go up and doors go on
-Roofs will cover everyone
-Windows let the bright light in
-Where the people live within
-Design it tall or short or wide
-Every building filled with pride
+Stack the blocks with careful care
+Balance buildings everywhere
+With a structure, strong and true
+Foundation helps us build for you
+Buildings standing in the air
 
 **Actions/Gestures**:
-1. Stack hands on top of each other slowly while singing "build it up so straight and tall" to show blocks stacking
-2. Make a large triangle shape with arms above head for "roof" and spread arms wide for "big and tall"
-3. Make a square frame with fingers for "windows" and pretend to look through them
+1. Stack one fist on top of the other to show building upward
+2. Make a wide base with arms to show foundation
+3. Sway gently side to side then plant feet firmly to show balance
 
 ## Intro Video Recommendation
 

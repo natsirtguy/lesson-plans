@@ -16,32 +16,32 @@ Children explore the concept of exchange and value through hands-on activities i
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate, steady and engaging
+**Tempo**: Steady and cheerful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Trading things is so much fun
-I can trade with ev-ery one
-Give my toy to get your ball
-Trade-ing things is best of all
-Money helps us buy and sell
-Trade and sharing work so well
+Trade, trade, coins and bills,
+Do you have some things to trade?
+Yes sir, yes sir, three coins full,
+One for currency we use,
+One for a transaction made,
+One to negotiate the price we choose
 
 *Verse 2*
-Coins and bills are money too
-Trading helps me share with you
-Fair ex-change is what we do
-You give some and I give too
-Buy and sell and trade each day
-Learning money-sense this way
+Trade, trade, buy and sell,
+Money helps us get what we need,
+Yes sir, yes sir, trading well,
+Currency to buy our toys,
+Transactions happen when we trade,
+Negotiate with girls and boys
 
 **Actions/Gestures**:
-1. Open hands wide, then bring them together (exchange/trade motion)
-2. Pretend to hand over coins and receive items (buying/selling motion)
-3. Rub thumb and fingers together to show money (universal money gesture)
+1. Pretend to hold coins and exchange them hand-to-hand during "trade"
+2. Rub fingers together in the universal money gesture for "currency"
+3. Shake hands gently for "negotiate" to show making agreements
 
 ## Intro Video Recommendation
 

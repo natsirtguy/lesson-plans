@@ -18,32 +18,32 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Slow and soothing
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Rest and sleep will help you grow
-Eyes grow heavy, moving slow
-Settle down into your bed
-Soft and cozy for your head
-Dreams will come to you tonight
-Rest will make you strong and bright
+When you're feeling very drowsy
+Time to settle down and rest
+Close your eyes and breathe so gently
+Resting helps you feel your best
+When you rest your body listens
+And recharges through the night
 
 *Verse 2*
-Recharge your body, recharge your mind
-Leave your busy day behind
-Close your eyes and take a rest
-Sleeping time is oh-so-best
-When you wake up fresh and new
-Sleep has given strength to you
+Rest gives energy tomorrow
+While you settle in your bed
+Drowsy feelings mean you're ready
+For sweet dreams inside your head
+When you recharge all night long
+You wake up healthy, rested, strong
 
 **Actions/Gestures**:
-1. Sway gently side to side with arms relaxed at sides (mimics calm, drowsy movement)
-2. Place both hands against cheek and lean head slightly to one side (settling into rest)
-3. Stretch arms up and out slowly, then bring them down gently across chest (recharging energy)
+1. Place hands on cheeks and tilt head to side like resting on pillow
+2. Close eyes gently when singing "drowsy" and "settle"
+3. Stretch arms overhead then bring down slowly for "recharge"
 
 ## Intro Video Recommendation
 

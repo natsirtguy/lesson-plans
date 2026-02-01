@@ -22,34 +22,36 @@ Select 3-4 vocabulary words that:
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Here I am, I know my place (7: Here-I-am-I-know-my-place)
-In my space with all this grace (7: In-my-space-with-all-this-grace)
-Over there and over here (7: O-ver-there-and-o-ver-here)
-Far away and very near (7: Far-a-way-and-ver-y-near)
-I can move and I can see (7: I-can-move-and-I-can-see)
-All the world that's around me (7: All-the-world-that's-a-round-me)
+I navigate around the room
+Finding where to go
+My position changes here and there
+Moving high and low
+I know my orientation
+Which way I should face
+Finding my proximity
+In every single space
 
 *Verse 2*
-
-Beside and under, in and out (7: Be-side-and-un-der-in-and-out)
-Left and right is what's about (7: Left-and-right-is-what's-a-bout)
-Forward, backward, up and down (7: For-ward-back-ward-up-and-down)
-All around my neighborhood (7: All-a-round-my-neigh-bor-hood)
-I can find my way back home (7: I-can-find-my-way-back-home)
-Never lost, I'm not alone (7: Nev-er-lost-I'm-not-a-lone)
+Over, under, all around
+Through the spaces wide
+Beside and between the objects
+Moving side to side
+Navigate with confidence
+Know just where I am
+Understanding my position
+That's my spatial plan
 
 **Actions/Gestures**:
-1. Point to yourself when singing "Here I am," then extend arms out to show space around you
-2. Walk forward for "forward," then backward for "backward," exaggerating the movements
-3. Place hand above eyes and scan the room left to right when singing "All the world that's around me"
+1. Walk in a circle while singing "navigate around the room"
+2. Point to different positions (up, down, beside) as you sing those words
+3. Turn your body to face different directions during "orientation"
 
 ## Intro Video Recommendation
 

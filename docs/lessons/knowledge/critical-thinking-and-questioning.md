@@ -16,35 +16,30 @@ In this lesson, children develop foundational critical thinking skills by learni
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate, gently encouraging
+**Tempo**: Upbeat and curious
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Why is the sky so very blue?
-How do birds know what to do?
-Ask a question, wonder why
-Look around with curious eyes
-Think and reason all day long
-Questions help us grow so strong
+If you want to wonder why, ask a question
+If you want to wonder why, ask a question
+Use your eyes to observe things
+See what each new moment brings
+If you want to wonder why, ask a question
 
 *Verse 2*
-
-What is hiding in that box?
-Why do we unlock with locks?
-Thinking helps us find the way
-Every question helps us play
-Wonder, question, explore, learn
-New discoveries at each turn
+If you want to reason how, think it through
+If you want to reason how, think it through
+Ask a question every day
+Wonder, learn, and think and play
+If you want to reason how, think it through
 
 **Actions/Gestures**:
-
-1. **Wonder gesture**: Place hand on chin thoughtfully, tilt head slightly to show thinking
-2. **Question gesture**: Hold hand up with palms forward in a curious, "I'm asking" pose while tilting head
-3. **Discovery gesture**: Open both arms wide and raise them upward while opening mouth in an "aha!" expression
+1. Place hand on chin thoughtfully for "wonder why"
+2. Point to your eyes for "observe things"
+3. Tap temple with finger for "reason how" and "think it through"
 
 ## Intro Video Recommendation
 

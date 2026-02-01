@@ -16,32 +16,38 @@ Children participate in a dramatic play scenario where toys and dolls have exper
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and caring
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Toys are hurt and need our care (7 syllables)
-Let's all help them everywhere (7 syllables)
-Wash their faces, fix their hair (7 syllables)
-We can rescue with great care (7 syllables)
-Cuddle them and show them love (7 syllables)
-Toys deserve our gentle touch (7 syllables)
+We can rescue toys in need
+Toys in need, toys in need
+We can rescue toys in need
+With comfort and with care
+
+Nurture them and make them well
+Make them well, make them well
+Nurture them and make them well
+Show love everywhere
 
 *Verse 2*
-Toys feel happy when we care (7 syllables)
-Thank you, friends, you're always there (7 syllables)
-Gentle hands and kind, kind hearts (7 syllables)
-Every toy is a dear friend (7 syllables)
-Help them heal, help them feel joy (7 syllables)
-Toys feel better, me and you (7 syllables)
+We restore our toys with love
+Toys with love, toys with love
+We restore our toys with love
+Comfort them today
+
+Rescue, nurture, help them heal
+Help them heal, help them heal
+Rescue, nurture, help them heal
+In a gentle way
 
 **Actions/Gestures**:
-1. Gently rock toys back and forth like cradling during "cuddle" and "gentle touch" lines
-2. Mime washing faces with soft circular motions on your own cheeks
-3. Place both hands on your heart during "kind, kind hearts" and "dear friend" lines
+1. Make gentle cradling motions on "rescue" and "comfort" to show caring for toys
+2. Rock arms gently on "nurture" to show gentle, loving care
+3. Make fixing/mending motions with hands on "restore" to show helping toys feel better
 
 ## Intro Video Recommendation
 

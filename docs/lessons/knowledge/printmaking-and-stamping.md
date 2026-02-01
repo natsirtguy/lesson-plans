@@ -16,35 +16,28 @@ Children explore creative mark-making by pressing stamps into paint and transfer
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Upbeat and playful
+**Tempo**: Energetic and playful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Stamp it down and watch it go
-Colors make a pretty show
-Press your paint all on the ground
-Making marks that spin around
-Stamp it down and watch it go
-Rainbow patterns that we know
+When you stamp and make a pattern, press it down
+When you stamp and make a pattern, press it down
+See the imprint on the page, transfer colors center stage
+When you stamp and make a pattern, press it down
 
 *Verse 2*
-
-Dip your stamp into the paint
-Make designs without restraint
-Press and pull and twist it round
-Look at all the marks you've found
-Every stamp will tell a tale
-Watch your pretty patterns sail
+Feel the texture on your stamp, dip and press
+Feel the texture on your stamp, dip and press
+Pattern, imprint, transfer too, making art is what we do
+Feel the texture on your stamp, dip and press
 
 **Actions/Gestures**:
-
-1. **Dipping motion**: Pretend to dip a stamp into paint with a downward dipping motion of your hand
-2. **Pressing motion**: Make a firm pressing gesture with your hand flat against an imaginary paper
-3. **Lifting and twirling**: Lift your hand up and rotate it in a circle to show colors spinning
+1. Pretend to dip a stamp into paint
+2. Press hand firmly down on imaginary paper to make an imprint
+3. Lift hand up and repeat to create a pattern
 
 ## Intro Video Recommendation
 

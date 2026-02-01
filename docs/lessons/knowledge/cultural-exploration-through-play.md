@@ -16,35 +16,28 @@ Children discover how people around the world celebrate, create, and live differ
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Upbeat and playful
+**Tempo**: Moderate and playful
 
-**Lyrics**:
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Cultures dancing all around
-Making music, joy profound
-Foods and songs from everywhere
-Learning customs, showing care
-Colors, rhythms, old and new
-Every culture beautiful too
+Explore the cultures all around the world
+Learning every tradition as we go
+We celebrate with music and with dance
+At every festival we love to show
 
 *Verse 2*
-
-Wear the colors they might wear
-Dance to rhythms in the air
-Taste the treats from far away
-Play the games they love to play
-Every person has a way
-Celebrate throughout the day
+Taste the foods from cultures far away
+Wear the clothes and play the games they play
+Every culture has its special way
+We celebrate together every day
 
 **Actions/Gestures**:
-
-1. Sway gently side to side while singing to represent dancing from different cultures
-2. Sweep arm in a wide arc from left to right on "from everywhere" to show the wide world
-3. Bring hands together to heart on "learning customs" to show acceptance and appreciation of all cultures
+1. Walk fingers up in climbing motion for "explore the cultures"
+2. Clap hands or dance in place for "celebrate with music"
+3. Bring hands to heart for "every culture has its special way"
 
 ## Intro Video Recommendation
 

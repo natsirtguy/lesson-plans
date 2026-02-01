@@ -16,32 +16,28 @@ Children will discover the connection between spoken numbers, physical objects, 
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Row, Row, Row Your Boat
 
 **Tempo**: Moderate and playful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-One, two, three, let's all count (7)
-Four and five, we shout it out (7)
-Count your fingers, count your toes (7)
-Count the stars up in the sky (7)
-Numbers help us, count up high (7)
-One, two, three, four, five—hooray! (7)
+Count, count, count the numbers,
+One and two and three,
+Quantity helps us know,
+Just exactly how many we see.
 
 *Verse 2*
-More and more, the numbers grow (7)
-One becomes two—now we know (7)
-Two becomes three, watch them rise (7)
-Numbers help us realize (7)
-Things we see right before our eyes (7)
-Count them, count them, one through five (7)
+Four and five come next,
+Numbers help us grow,
+Counting, one through five,
+Watch how numbers flow.
 
 **Actions/Gestures**:
 1. Point to fingers one at a time while singing each number
 2. Make "counting" gesture with hand moving up and down as numbers increase
-3. Hold arms wide apart on "high" or "grow" to show quantity expanding
+3. Hold arms wide apart to show quantity expanding
 
 ## Intro Video Recommendation
 

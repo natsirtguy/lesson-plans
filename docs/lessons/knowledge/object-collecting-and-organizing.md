@@ -16,35 +16,28 @@ Children learn to gather, classify, and organize objects into groups based on sh
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and playful
+**Tempo**: Moderate and cheerful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Gather, gather all the things,
-Put them in a tidy ring.
-Sort them by their color bright,
-Group them left and group them right.
-Some are big and some are small,
-Find the patterns in them all.
+Let's collect all our toys today
+Sort them out in our own way
+With a categorize, organize, put them in a line
+We can find them any time
 
 *Verse 2*
-
-Find the toys and find the stones,
-Make two piles and mark two zones.
-Same things go together here,
-Some go here and some stay there.
-Gather helps us learn and grow,
-Organize the things we know.
+Gather rocks and buttons round
+Organize what we have found
+With a pattern here, a pattern there, colors everywhere
+Sorting helps us learn to care
 
 **Actions/Gestures**:
-
-1. **Gathering motion**: Sweep arms in a circle toward your body as if collecting things
-2. **Sorting motion**: Point left and right with both arms to show dividing into groups
-3. **Pattern clap**: Clap a beat while touching items in sequence to show pattern repetition
+1. Sweep arms in gathering motion when singing "collect"
+2. Point to different piles when singing "categorize, organize"
+3. Make a line with hands to show "pattern" and arrangement
 
 ## Intro Video Recommendation
 

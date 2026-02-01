@@ -16,32 +16,28 @@ Children will discover how their bodies grow stronger through movement and activ
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Upbeat and playful
+**Tempo**: Energetic and playful
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Flex your muscles, make them strong (7)
-Move your body all day long (7)
-Stretch up high and bend down low (7)
-Watch your strength and power grow (7)
-Push and pull and run and play (7)
-Stronger body every day (7)
+When you're building up your strength, flex your muscles
+When you're building up your strength, flex your muscles
+Feel the power in your arms, move and play without alarm
+When you're building up your strength, flex your muscles
 
 *Verse 2*
-Arms are strong and legs can go (7)
-Core muscles help us bend and throw (8)
-Running, jumping, climbing high (7)
-Reaching upward to the sky (7)
-Rest and eat to help us grow (7)
-That's how strength begins to show (7)
+Show resilience, try again, don't give up
+Show resilience, try again, don't give up
+When it's hard, you persevere, build endurance through the year
+Show resilience, try again, don't give up
 
 **Actions/Gestures**:
-1. Flex both arms and make muscle shapes, then release
-2. Reach arms high overhead and stretch, then bend down to touch toes
-3. March in place with big, strong steps while swinging arms
+1. Flex both arms to show muscles getting stronger
+2. March in place with high knees and swinging arms
+3. Stand up tall and reach arms high overhead
 
 ## Intro Video Recommendation
 

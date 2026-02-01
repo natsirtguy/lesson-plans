@@ -16,32 +16,34 @@ Children discover the natural rhythm of day and night by exploring how the sun a
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and gentle
 
-**Lyrics** (2 verses, matching the familiar melody):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Sun comes up to light the day
-Bright and warm in every way
-Sky is blue and yellow gold
-Stories of the day we're told
-Sun goes down, the day is done
-Time for rest when day is done
+Earth's rotation makes the day
+Yes it does, yes it does
+Celestial sun gives illumination
+Light and warmth for everyone
+When the sun goes down at night
+Nocturnal creatures come to sight
+Earth keeps spinning round and round
 
 *Verse 2*
-Moon comes up to light the night
-Soft and gentle, glowing bright
-Stars are twinkling all around
-Peaceful, quiet is the sound
-When the sun comes back once more
-Day begins again, explore!
+Day and night, they come and go
+Yes they do, yes they do
+Sun brings light with illumination
+Moon and stars shine in the night
+Earth keeps turning, rotation spins
+Every day the cycle begins
+Celestial bodies in the sky
 
 **Actions/Gestures**:
-1. **Sun rise**: Slowly raise both arms from low to high above head, fingers wiggling to represent sunlight spreading
-2. **Moon rise**: Make a gentle curved motion with one arm across the sky from left to right, then make a circle shape with both hands
-3. **Sleep/rest**: Place both hands together against cheek and tilt head gently to the side
+1. Spin hands in circles for "rotation" and "spinning round and round"
+2. Raise arms up high for the sun and "illumination"
+3. Make circle with hands for moon and lower arms for nighttime
 
 ## Intro Video Recommendation
 

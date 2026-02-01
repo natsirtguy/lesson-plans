@@ -16,31 +16,28 @@ This lesson introduces children to the confidence and joy of sharing their thoug
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Slow and gentle (gives time for children to process and practice confidence)
+**Tempo**: Upbeat and encouraging
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Stand up tall and show your smile
-Tell your friends a fun new style
-Use your voice so strong and clear
-Everyone will want to hear
-Share your thoughts with all your pride
-Let your bright ideas shine wide
+I can present to my friends, to my friends, to my friends
+I can present to my friends, sharing with expression
+The audience will listen close, listen close, listen close
+The audience will listen close, I speak with confidence
 
 *Verse 2*
-Clap your hands and feel so great
-Tell them what you think today
-Everyone will cheer and say
-You are brave and you are kind
-Show the magic in your mind
+I communicate my thoughts, share my thoughts, share my thoughts
+I communicate my thoughts, using clear expression
+Present your ideas so bright, ideas bright, ideas bright
+Present your ideas so bright, audience hears you right
 
 **Actions/Gestures**:
-1. Stand tall and place hand on heart - builds posture and confidence awareness
-2. Make a big smile with your mouth and point to it - encourages positive expression
-3. Cup hand to mouth and project voice outward - demonstrates speaking loudly and clearly
+1. Stand tall and gesture outward to show presenting
+2. Point to listening ears to represent the audience
+3. Place hand on heart and smile to show confidence and expression
 
 ## Intro Video Recommendation
 

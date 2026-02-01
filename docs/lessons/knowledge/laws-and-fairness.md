@@ -16,32 +16,30 @@ Children explore the concept of fairness through everyday rules and sharing, dis
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate
+**Tempo**: Upbeat and cheerful
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Rules are fair when we all share (7)
-Taking turns shows that we care (7)
-Everyone gets their turn to play (7)
-That is how we act each day (7)
-Rules help us be safe and kind (7)
-Fair is what we want to find (7)
+If the rules are fair for all, share and care
+If the rules are fair for all, share and care
+When we take our turns to play
+That's the justice way each day
+If the rules are fair for all, share and care
 
 *Verse 2*
-When it's fair, it's right for all (7)
-Listening is big not small (7)
-Sharing things and being kind (7)
-That is justice we will find (7)
-Respect each friend from start to end (7)
-Fair means we're a caring friend (7)
+When we show respect to friends, kind and true
+When we show respect to friends, kind and true
+Everyone gets what they need
+That's how fairness helps us lead
+When we show respect to friends, kind and true
 
 **Actions/Gestures**:
-1. On "rules are fair," hold hands in a circle to show everyone together
-2. On "everyone gets their turn," take turns pointing to each person around you
-3. On "share" and "caring," place hand over heart and smile
+1. Clap hands on "share and care" to show agreement and joy
+2. Point to different people around you on "everyone gets what they need"
+3. Place hand over heart on "respect to friends" to show caring
 
 ## Intro Video Recommendation
 

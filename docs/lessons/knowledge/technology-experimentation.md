@@ -16,32 +16,29 @@ Children explore how technology responds to their actions through safe, hands-on
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and playful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Buttons, screens, and tools we find,
-Tap and touch and watch them shine.
-See how they respond with light,
-Every click brings something new.
-We explore with buttons, keys,
-I learn through technology.
+If you want to explore, press a button
+If you want to explore, press a button
+Technology is fun, interactive for everyone
+If you want to explore, press a button
 
 *Verse 2*
-Swipe and drag across the screen,
-Touch-screens show things never seen.
-Colors, sounds, and moving things,
-Playing teaches what tech brings.
-Interactive and so bright,
-All my tech brings joy and light.
+Every device has something new to show
+Every device has something new to show
+We can tap and swipe and play
+Explore technology today
+Every device has something new to show
 
 **Actions/Gestures**:
-1. Tap your finger in the air repeatedly (like pressing a button)
-2. Swipe one hand across your other arm (like swiping on a screen)
-3. Point to your eyes, then open your hands wide (seeing new things on a screen)
+1. Press finger in the air like pushing a button during "press a button"
+2. Swipe hand across during "tap and swipe"
+3. Spread arms wide during "something new to show"
 
 ## Intro Video Recommendation
 

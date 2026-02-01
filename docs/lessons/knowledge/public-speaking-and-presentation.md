@@ -16,34 +16,28 @@ Children learn the fundamentals of speaking confidently to an audience through p
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Upbeat and playful
+**Tempo**: Upbeat and encouraging
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-I can speak and share my words
-Everyone will hear my voice
-Tell the things that make me smile
-Standing tall and being brave
-When I speak up friends will hear
-Speaking is a special skill
+When I speak with confidence, I stand up tall and strong
+Articulate my words so clear, the audience hears my song
+I communicate my thoughts and share what's on my mind
+When I speak with confidence, kind words I always find
 
 *Verse 2*
-
-I can show the things I know
-Share my ideas loud and clear
-Raise my hand and tell my thoughts
-Every voice is wonderful
-Speaking up will help me grow
-I am brave, I speak with pride
+Standing here before you now, I'm ready to present
+My confidence is growing strong with every word I've sent
+The audience is listening to everything I say
+I articulate and communicate in my own special way
 
 **Actions/Gestures**:
-1. Stand tall and puff out chest when singing "standing tall and being brave"
-2. Make a big circle with both arms above head like an "O" when singing "everyone will hear my voice"
-3. Point outward to the audience while taking a bow at the end
+1. Stand tall with shoulders back to show confidence
+2. Point to mouth and speak clearly to demonstrate articulating
+3. Gesture outward to the audience with open arms
 
 ## Intro Video Recommendation
 

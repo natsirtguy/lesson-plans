@@ -16,32 +16,32 @@ Children explore multiple ways to express themselves beyond words—through phys
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Moderate and playful
+**Tempo**: Upbeat and friendly
 
-**Lyrics** (2 verses):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-I can clap my hands up high
-When I smile, I say hello
-With my arms, I wave and sway
-Can you show me what you know
-We can dance and we can sing
-Every way we play and grow
+We communicate each day
+We express in many ways
+Wave a gesture, create art
+Use your voice to share your heart
+We communicate each day
+Show your feelings when you play
 
 *Verse 2*
-Draw and paint your feelings out
-Tell your friends about your day
-Clap your hands and say hooray
-Talking, laughing, helping too
-All these ways we share and grow
-When we listen, others know
+Talk and listen, laugh and sing
+Drawing shows most everything
+Make a face to say hello
+Tell your friends the things you know
+Talk and listen, laugh and sing
+Communication's everything
 
 **Actions/Gestures**:
-1. Clap hands together on the word "clap" and raise arms up high
-2. Wave hands side to side during "wave and sway" line
-3. Make large circles in the air with arms during "draw and paint"
+1. Wave hands and point during "wave a gesture" showing hand communication
+2. Make drawing motions in the air during "create art" and "drawing shows"
+3. Point to mouth during "talk" and cup hand behind ear during "listen"
 
 ## Intro Video Recommendation
 

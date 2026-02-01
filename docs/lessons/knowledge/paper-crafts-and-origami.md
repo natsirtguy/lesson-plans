@@ -16,32 +16,28 @@ Children explore the art of paper folding, tearing, and transforming paper into 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Row, Row, Row Your Boat
 
-**Tempo**: Slow and gentle
+**Tempo**: Moderate and rhythmic
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Paper folds and shapes come true
-Make a boat or bird to play
-Crease and fold with gentle hands
-Colors blend in our display
-Tear and crumple, smooth and roll
-Paper magic, let it show
+Fold, fold, fold your paper
+Make a crease so fine
+Transform it with origami
+Layer line by line
 
 *Verse 2*
-Fold your paper once or twice
-Watch it change before your eyes
-Stack and paste and paint with care
-Make designs that fill the air
-Every fold tells stories new
-Paper crafts bring joy to you
+Fold, fold, fold it gently
+Watch it change its shape
+Transform the paper carefully
+Layer, crease, create
 
 **Actions/Gestures**:
-1. Pretend to fold paper with both hands, bringing them together gently
-2. Make a wave motion with hands to show something transforming or changing
-3. Rub your palms together in a circular motion as if feeling and smoothing paper
+1. Fold hands together to show folding paper
+2. Press down with fingers to show making a crease
+3. Hold hands apart then bring together to show transformation
 
 ## Intro Video Recommendation
 

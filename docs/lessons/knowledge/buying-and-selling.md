@@ -16,32 +16,32 @@ Children explore the fundamental concept of exchanging money or items for goods 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and playful
+**Tempo**: Cheerful and bouncy
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Going to the store to-day
-Pick up things in ev-ry way
-Count my coins to see what's there
-Buy some food and things to wear
-Give my mon-ey, take a treat
-Shop-ping makes the day so sweet
+In the store, we shop today
+Count our currency, then pay
+With a transaction, trade, and buy
+Customers can try and try
+Give some money, get a treat
+Shopping makes our day complete
 
 *Verse 2*
-I'm a cus-tom-er so proud
-Shop-keep-er helps me out loud
-Trade my mon-ey for my wish
-May-be ap-ples, bread, or fish
-Ex-change hap-pens ev-ry-where
-Buy-ing sell-ing ev-ry-where
+Merchants help us find our way
+Selling things throughout the day
+We are customers who come
+Trading money, having fun
+Buying, selling, that's the way
+We exchange things every day
 
 **Actions/Gestures**:
-1. Pretend to reach into a pocket or wallet and pull out coins (miming payment)
-2. Extend both hands as if handing over money or an item in a trade
-3. Bring both hands together as if receiving something purchased
+1. Pretend to reach into pocket and pull out coins during "count our currency"
+2. Hand forward motion during "give some money" showing the transaction
+3. Receive motion pulling hands toward body during "get a treat"
 
 ## Intro Video Recommendation
 

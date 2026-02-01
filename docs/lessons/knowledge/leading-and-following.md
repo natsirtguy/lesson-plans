@@ -16,32 +16,32 @@ Children explore the roles of leader and follower through interactive activities
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Upbeat and playful
+**Tempo**: Moderate and flowing
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Lead-ing, fol-low-ing, back and forth we go (7 syllables)
-One be-comes the lead-er, now here's how you know (8 syllables)
-Fol-low ev-ery move-ment, step and clap and swing (8 syllables)
-Lis-ten to di-rec-tions, that is our song-ing (8 syllables)
-Lead-ing, fol-low-ing, work-ing all as one (8 syllables)
-Take your turn as lead-er, ev-ery-one has fun (8 syllables)
+When you lead the way out front
+Others follow your direction
+Take your turn and show the path
+Leading with a kind connection
+Watch the followers behind you
+Copying the steps you do
 
 *Verse 2*
-Now I'm the fol-low-er, you can lead the way (8 syllables)
-Cop-y what I'm do-ing, we can jump and sway (8 syllables)
-Lis-ten to each oth-er, mov-ing side by side (8 syllables)
-Lead-ing and fol-low-ing, work-ing as a team with pride (9 syllables)
-Turn-ing all to-geth-er, left and right we go (8 syllables)
-Lead-ing and fol-low-ing, watch our dance-es grow (8 syllables)
+When you follow someone else
+Copy their direction closely
+Wait your turn to lead again
+Moving forward, gently, slowly
+Leaders and the followers
+Working as a team together
 
 **Actions/Gestures**:
-1. Point forward with arm extended when saying "leading"—then follow by walking forward
-2. Mirror hand movements at chest level when saying "following"—copy the leader's claps and waves
-3. Rotate arms in circles when singing about "turning"—switch roles and signal with a tap on the shoulder
+1. Walk forward with arm pointing ahead on "lead the way"
+2. Step behind and copy movements on "follow" and "direction"
+3. Switch positions and gesture to trade places on "take your turn"
 
 ## Intro Video Recommendation
 

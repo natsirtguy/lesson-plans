@@ -16,30 +16,34 @@ Children will explore the outdoor world as nature detectives, discovering insect
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate and playful
+**Tempo**: Gentle and curious
 
-**Lyrics** (2 verses, 4 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Little bugs are all around
-Look for them up-on the ground
-With my glass I see them well
-All the secrets they can tell
+On our bug hunt we observe
+Looking carefully
+Magnify the insects small
+In their habitat we see
+With a look look here and a search search there
+Here a bug, there a bug, everywhere a bug bug
+Finding insects takes such care
 
 *Verse 2*
-
-Black and brown and green so bright
-Tiny creatures, what a sight
-Bugs are crawl-ing here and there
-Living in the earth and air
+Bugs are crawling on the ground
+In their homes so small
+We observe them with our glass
+Magnify them all
+With a buzz buzz here and a crawl crawl there
+Here an ant, there a beetle, watching everywhere
+Nature's creatures great and small
 
 **Actions/Gestures**:
-1. Make binoculars with your hands (form circles with both hands at eyes) and pretend to look through a magnifying glass
-2. Crouch down low and move your body slowly and quietly across the ground, like a nature detective stalking
-3. Point with your finger and open your eyes wide in wonder, as if you've spotted something amazing
+1. Make circles with fingers around eyes like looking through a magnifying glass
+2. Crouch down low and search the ground with careful movements
+3. Point excitedly when you spot an imaginary insect
 
 ## Intro Video Recommendation
 

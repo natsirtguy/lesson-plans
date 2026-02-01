@@ -16,31 +16,29 @@ Children explore the joy of making visible marks and early writing through paint
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Mary Had a Little Lamb
 
-**Tempo**: Moderate
+**Tempo**: Moderate and cheerful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-Scribble, scribble on the page,
-Making marks so bright and free,
-Lines and loops and swirls so wide,
-All my feelings shown inside.
+Make some marks upon the page, on the page, on the page,
+Make some marks upon the page, scribble all you like!
+Trace the lines and draw a loop, draw a loop, draw a loop,
+Trace the lines and draw a loop, expression feels so right!
 
 *Verse 2*
-
-Crayons, markers, paint will do,
-Colors mixed in every hue,
-Tell your story through the marks,
-Scribbles bright like rainbow sparks.
+Red and blue and green marks too, green marks too, green marks too,
+Red and blue and green marks too, colors bright and bold!
+Mark-making is fun to do, fun to do, fun to do,
+Mark-making is fun to do, watch your story unfold!
 
 **Actions/Gestures**:
-
-1. Make scribbling motions in the air with your hand moving freely in circles and lines
-2. Point to different parts of your body (heart, head) when singing about feelings and expression
-3. Sweep your arms wide when singing about "swirls so wide" and "colors mixed"
+1. Make scribbling motions in the air with your finger when singing "make some marks"
+2. Trace imaginary lines and loops in front of you during "trace the lines and draw a loop"
+3. Point to different colors around you or on your clothes during verse 2
+4. Open arms wide when singing "watch your story unfold" to show sharing and expression
 
 ## Intro Video Recommendation
 

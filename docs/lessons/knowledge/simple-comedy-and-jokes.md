@@ -16,32 +16,36 @@ This lesson introduces children to the joy of humor through simple jokes, funny 
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: London Bridge Is Falling Down
 
 **Tempo**: Upbeat and playful
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Jokes are funny, make us laugh
-Laughter spreads across the room
-Tell a joke with joy and care
-Everyone will giggle there
-Funny words and silly sounds
-Comedy brings joy all round
+Comedy makes everyone laugh
+Everyone laugh, everyone laugh
+Comedy makes everyone laugh
+Tell a funny joke
+Wait for timing, here's the punchline
+Here's the punchline, here's the punchline
+Wait for timing, here's the punchline
+Jokes are so much fun
 
 *Verse 2*
-Say your jokes and jokes with glee
-Silly faces make folks smile
-Comedy is quite worthwhile
-Tickle jokes and funny puns
-Make the day much, much more fun
-Laugh together, everyone
+Tell your joke with good timing
+Good timing, good timing
+Tell your joke with good timing
+Wait for the punchline
+Comedy is something special
+Something special, something special
+Comedy is something special
+Laughter all around
 
 **Actions/Gestures**:
-1. Slap knees and bounce up and down when saying "make us laugh"
-2. Cover mouth with hands, then burst into exaggerated giggling
-3. Make a silly face with tongue out and eyes crossed during "silly faces"
+1. Slap knees and laugh out loud for "comedy" and "laugh"
+2. Pause and hold one finger up for "timing"
+3. Clap hands together for "punchline" and make silly faces
 
 ## Intro Video Recommendation
 

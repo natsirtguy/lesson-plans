@@ -16,32 +16,32 @@ Children will explore cause and effect relationships by investigating how everyd
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: This Old Man
 
-**Tempo**: Moderate and engaging
+**Tempo**: Lively and energetic
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Push the but-ton, see it go (7 syllables)
-Wheels are tur-ning, watch them slow (7 syllables)
-Levers lift-ing, mov-ing things (7 syllables)
-See what cau-se and ef-fect brings (7 syllables)
-Gears and springs and push-es too (7 syllables)
-How things work, now you know true (7 syllables)
+See the lever, watch it lift
+Mechanisms work so swift
+With a push and pull, we make things go
+Cause and effect, now watch the show
+Propel the wheel and see it spin
+How things work, let's begin
 
 *Verse 2*
-Click and clack and round a-bout (7 syllables)
-Mov-ing parts, without a doubt (7 syllables)
-Pull the string, the toy will go (7 syllables)
-Wind it up and watch it grow (7 syllables)
-Press and turn and squeeze and slide (7 syllables)
-Dis-cov-er how things work in-side (7 syllables)
+Push the button, turn the gear
+Levers lifting far and near
+With a push and pull, we make things move
+Mechanisms in the groove
+Cause and effect we understand
+How things work is really grand
 
 **Actions/Gestures**:
-1. Push your hand forward and say "Go!" (for push/button action)
-2. Make circular motions with both hands (for wheels and gears)
-3. Press down one hand and lift the other like a seesaw (for levers)
+1. Push your hand forward firmly when singing about pushing
+2. Make circular motions with both hands for wheels and gears
+3. Press down one hand and lift the other like a seesaw for levers
 
 ## Intro Video Recommendation
 

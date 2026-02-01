@@ -16,37 +16,36 @@ Through playful games and hands-on exploration, children discover that numbers a
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Moderate, playful
+**Tempo**: Lively and engaging
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-
-One, two, three, let's count and play
-Four, five, six, let's play all day
-Count the blocks and count the toys
-Math is fun for girls and boys
-Seven, eight, and nine, ten too
-Numbers help me learn with you
+We can count our quantity,
+One, two, three, four, five
+Comparing numbers, more or less,
+One, two, three, four, five
+With a pattern here and pattern there,
+Red, blue, red, blue everywhere
+We can sequence all our numbers,
+One, two, three, four, five
 
 *Verse 2*
-
-Add two blocks and more will come
-One plus one equals the sum
-Count them up and count them down
-Numbers dance all around town
-Numbers show us one, two, three
-Learning math brings you and me
+Math games help us learn to count,
+Six, seven, eight, nine, ten
+Compare the groups and find which has more,
+Six, seven, eight, nine, ten
+With a sequence here and sequence there,
+Patterns, numbers everywhere
+Quantity and counting games,
+Six, seven, eight, nine, ten
 
 **Actions/Gestures**:
-
-1. **Counting on fingers**: Hold up fingers one at a time as you sing each number (one, two, three, four, five, six, seven, eight, nine, ten).
-
-2. **Stacking motion**: Pretend to stack blocks up with both hands during "Count the blocks," then slowly lower them down during "Count them down."
-
-3. **Circle motion**: Make a circular motion with your hands during "Numbers dance all around town," suggesting movement and playfulness.
+1. Hold up fingers to show the quantity as you count each number
+2. Spread hands apart to compare two groups (more or less)
+3. Make a repeating pattern motion with hands (clap, tap, clap, tap)
 
 ## Intro Video Recommendation
 

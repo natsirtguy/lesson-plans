@@ -16,32 +16,36 @@ This lesson introduces children to the concept of spiritual and religious practi
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Wheels on the Bus
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and reverent
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-We all have special things we do
-Different ways to honor, it is true
-Some light candles, some ring a bell
-Some sing and dance and do things well
-All these practices are special, too
-Showing love in all we do
+The rituals we practice every day
+Every day, every day
+The rituals we practice every day
+With reverence and care
+Gratitude fills up our hearts
+Up our hearts, up our hearts
+Gratitude fills up our hearts
+As we gather here
 
 *Verse 2*
-Grateful hearts and mindful ways
-Honoring what matters through our days
-Quiet moments, time to share
-Showing others that we care
-Every family has their own
-Special ways to call it home
+Mindfulness helps us to be aware
+To be aware, to be aware
+Mindfulness helps us to be aware
+In this peaceful time
+Special moments that we share
+That we share, that we share
+Special moments that we share
+Make our spirits shine
 
 **Actions/Gestures**:
-1. Place hands over heart and bow gently—showing reverence and gratitude for what we have
-2. Ring a pretend bell or chime while extending arms upward—representing celebration and calling attention to sacred moments
-3. Breathe slowly and deeply while closing eyes—demonstrating mindfulness and peaceful awareness
+1. Place hands over heart when singing about gratitude
+2. Close eyes gently and breathe deeply for mindfulness
+3. Bow head slightly to show reverence and respect
 
 ## Intro Video Recommendation
 

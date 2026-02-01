@@ -16,32 +16,32 @@ Children explore clay as a transformable, tactile material by squeezing, rolling
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: Baa, Baa, Black Sheep
 
-**Tempo**: Slow and gentle
+**Tempo**: Steady and rhythmic
 
-**Lyrics**
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Clay is soft, I squeeze and knead
-Rolling, pushing, what a treat
-Shape it now into a ball
-Make it squiggly, big or small
-With my hands I twist and turn
-Smooth and bumpy—what I learn
+Sculpt, sculpt, tactile clay
+Feel the texture as you play
+Manipulate it with your hands
+Soft and squishy, it expands
+Smooth or bumpy, try them all
+Roll it, shape it, big or small
 
 *Verse 2*
-Press and poke and squeeze so tight
-Clay creations feel just right
-I can make a pot or snake
-Any shape is mine to make
-Clay is special, soft and new
-Look at what my hands can do
+Squeeze, squeeze, twist and turn
+So much texture you will learn
+Clay is tactile, fun to touch
+Manipulate it very much
+Sculpt a ball or sculpt a snake
+Any shape is yours to make
 
 **Actions/Gestures**:
-1. Squeezing motion with both hands, as if holding and pressing clay
-2. Rolling hands together in circular motions, as if making a clay ball
-3. Stretching and shaping arms, twisting hands in the air to show transforming clay
+1. Squeeze and knead hands like manipulating clay
+2. Roll hands in circles to show making clay balls
+3. Touch fingertips together to explore different textures
 
 ## Intro Video Recommendation
 

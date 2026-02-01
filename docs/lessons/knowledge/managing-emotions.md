@@ -18,32 +18,40 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: Old MacDonald Had a Farm
 
-**Tempo**: Slow and gentle
+**Tempo**: Gentle and reassuring
 
-**Lyrics** (2 verses, 4-6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-[Line 1] I have feelings big and small
-[Line 2] Happy, sad, and mad and all
-[Line 3] Feelings help me understand
-[Line 4] How I feel both here and there
-[Line 5] In my heart and in my head
-[Line 6] Every color, green and red
+I can identify my feelings
+All my emotions today
+Happy, sad, and mad and calm
+I can name them, that's okay
+With an emotion here
+And an emotion there
+Here a feeling, there a feeling
+Everywhere an emotion
+I can identify my feelings
+Name them every day
 
 *Verse 2*
-[Line 1] When I'm angry, I can stop
-[Line 2] Take some breaths until it drops
-[Line 3] When I'm scared, I'll hold you tight
-[Line 4] Squeeze my stuffy through the night
-[Line 5] All my feelings help me grow
-[Line 6] More and more I come to know
+I can regulate when I'm upset
+Finding ways to be calm
+Take deep breaths and hug my bear
+Safe and peaceful in my arms
+With a breath, breath here
+And a breath, breath there
+Here a breath, there a breath
+Everywhere a calm breath
+I can regulate my feelings
+Being calm today
 
 **Actions/Gestures**:
-1. Place hand on heart when singing about feelings, and point to different body parts (head, heart, belly) to show where emotions are felt
-2. Make slow, deep breathing motions with arms rising and falling when singing about calming down
-3. Wrap arms around self in a gentle hug when singing about managing emotions
+1. Point to different parts of body on "identify" to show where emotions are felt
+2. Take deep breaths with arms rising and falling on "regulate" and "calm"
+3. Hug self or a stuffed animal on "hug my bear" to show self-soothing
 
 ## Intro Video Recommendation
 

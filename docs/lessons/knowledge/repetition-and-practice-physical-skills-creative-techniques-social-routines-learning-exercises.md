@@ -16,32 +16,34 @@ This lesson introduces children to the powerful concept that improvement comes t
 
 ## Learning Song
 
-**Tune**: Twinkle, Twinkle, Little Star
+**Tune**: The Itsy Bitsy Spider
 
-**Tempo**: Upbeat and playful
+**Tempo**: Steady and encouraging
 
-**Lyrics** (2 verses, 6 lines each):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Practice, practice, every day
-Helps us learn and grow and play
-Try again if you fall down
-You can do it all around
-Practice, practice, every day
-That's the best and finest way
+Repetition helps us learn
+Practice makes us grow
+Persistence keeps us trying
+Watch our mastery show
+Progression step by step we make
+Getting better every day
+That's how we learn and grow
 
 *Verse 2*
-Stretch your arms and touch your toes
-Paint a picture as it grows
-Sing a song and dance around
-Make a wonderful new sound
-Every time you try and try
-You can reach up to the sky
+Try it once and try again
+That's how skills appear
+Practice with persistence
+Mastery drawing near
+Repetition builds the way
+Getting stronger as we play
+Learning throughout the year
 
 **Actions/Gestures**:
-1. Clap hands together repeatedly to the beat during "practice, practice" lines
-2. Bounce or jump gently up and down when singing about trying again and dancing
-3. Reach arms up high toward the sky at the end, showing growth and reaching goals
+1. Clap hands repeatedly to show repetition
+2. Keep trying gesture (pump fists gently) for persistence
+3. Reach arms up progressively higher to show progression and mastery
 
 ## Intro Video Recommendation
 

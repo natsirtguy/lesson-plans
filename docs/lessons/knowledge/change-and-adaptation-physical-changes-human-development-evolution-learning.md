@@ -18,32 +18,28 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate and direc
 
 ## Learning Song
 
-**Tune**: "Twinkle, Twinkle, Little Star"
+**Tune**: If You're Happy and You Know It
 
-**Tempo**: Moderate, steady
+**Tempo**: Upbeat and encouraging
 
-**Lyrics** (2 verses, 7 syllables per line):
+**Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Things are chang-ing all a-round (7: things-are-chang-ing-all-a-round)
-Every sin-gle day we're found (7: every-sin-gle-day-we're-found)
-Grow-ing tall-er, learn-ing new (7: grow-ing-tall-er-learn-ing-new)
-All the things that we can do (7: all-the-things-that-we-can-do)
-Things trans-form and things a-dapt (7: things-trans-form-and-things-a-dapt)
-Chang-ing is the sweet-est fact (7: chang-ing-is-the-sweet-est-fact)
+If you're growing and you know it, show your growth
+If you're growing and you know it, show your growth
+We develop every day, we adapt in every way
+If you're growing and you know it, show your growth
 
 *Verse 2*
-Ba-bies grow to be so tall (7: ba-bies-grow-to-be-so-tall)
-Seeds be-come flow-ers in the fall (7: seeds-be-come-flow-ers-in-the-fall)
-Cat-er-pil-lars fly a-way (7: cat-er-pil-lars-fly-a-way)
-Learn-ing some-thing new each day (7: learn-ing-some-thing-new-each-day)
-Ev-ery-bod-y chang-es fast (7: ev-ery-bod-y-chang-es-fast)
-Chang-ing makes our lives so vast (7: chang-ing-makes-our-lives-so-vast)
+We transform just like the seeds, watch us change
+We transform just like the seeds, watch us change
+From a baby learning new, to the big things we can do
+We transform just like the seeds, watch us change
 
 **Actions/Gestures**:
-1. Start in a small crouch position and gradually stretch up tall while singing about growing (represents physical growth)
-2. Make circular motions with hands to show transformation (caterpillar becoming butterfly) when singing "transform"
-3. Point to different body parts and nod while singing about learning new things (represents development of skills)
+1. Start small and crouched, then stand tall during "show your growth"
+2. Make circular transformation motions with hands during "transform"
+3. Point to yourself during "we develop" showing personal growth
 
 ## Intro Video Recommendation
 
