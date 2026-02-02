@@ -23,16 +23,16 @@ Library and Book Exploration transforms reading time into an adventure of discov
 **Lyrics**
 
 *Verse 1*
-Books are on the shelf, on the shelf, on the shelf
-Books are on the shelf, on the shelf, on the shelf
-Books are on the shelf, on the shelf, on the shelf
-Pick a story, now let's go
+Books are on the creaky shelf, creaky shelf, creaky shelf
+Books are on the creaky shelf with stories we don't know
+Characters and tales await, tales await, takes await 
+Characters and tales await, pick your fav'rite, now let's go
 
 *Verse 2*
-Pages turning, turn, turn, turning
-Pages turning, turn, turn, turning
-Pages turning, turn, turn, turning
-Read the words and pictures show
+Pages turning quickly now, quickly now, quickly now
+Pages turning quickly now; the story has us hooked
+Each adventure teaches us, teaches us, teaches us
+Each adventure teaches us, what awesome things are books
 
 **Actions/Gestures**:
 1. Reach up and down to show books at different heights on the shelf
