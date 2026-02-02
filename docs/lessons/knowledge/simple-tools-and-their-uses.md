@@ -25,23 +25,23 @@ Select 3-4 vocabulary words that expand beyond toddler basics:
 **Lyrics** (2 verses, with actions):
 
 *Verse 1*
-Every tool has a purpose here
+Every tool here has a purpose
 Each one helps us so
 A spoon for stirring, brush for paint
-That's how the tools all go
+That's how the tools go
 With a handle here and handle there
 Here a tool, there a tool
-Every tool has function, yes
-They help us do our work
+Everywhere a cool tool
 
 *Verse 2*
-Tools have purposes we know
+Every tool here has a purpose
 Each one has a job
 The hammer taps, the broom will sweep
 Their function helps us all
 With a handle here and handle there
 Here a tool, there a tool
-Every tool with purpose clear
+Everywhere a cool tool
+Each tool with a purpose clear
 We use them every day
 
 **Actions/Gestures**:
