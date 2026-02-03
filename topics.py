@@ -119,7 +119,7 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
         "Puppet shows and storytelling", "Simple comedy and jokes", "Circus movements and performance"
     ],
     "Creative and Expressive - Literary Arts": [
-        "Creative storytelling and narrative", "Reading and book exploration", "Poetry and rhyming games",
+        "Creative storytelling and narrative", "Reading and book exploration", "Deep reading", "Poetry and rhyming games",
         "Writing and mark-making", "Script creation for plays", "Public speaking and presentation",
         "Debate and discussion games", "Language learning and practice", "Letter writing and calligraphy"
     ],
