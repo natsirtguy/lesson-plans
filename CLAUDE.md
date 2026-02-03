@@ -108,6 +108,13 @@ The site is a single-page app at `docs/index.html`. There is no build step or st
 - **`topics.py`**: Source of truth for topic definitions (used by verification scripts and lesson plan generation)
 - **`docs/initial-data.json`**: The JSON file the website actually loads at runtime. Contains topic IDs, names, categories, and initial queue order. **If you only update `topics.py`, the website will not reflect the changes.**
 
+**When adding a new topic (including when adding a new lesson plan for a topic that doesn't yet exist), you MUST update all three things:**
+1. `topics.py` — add the topic name to the appropriate category list
+2. `docs/initial-data.json` — add a new entry with a unique `id`, `name`, and `category` to the appropriate queue in `masterLists`
+3. `docs/lessons/{queue}/{topic-name}.md` — the lesson plan file itself
+
+If you only create the lesson plan file without registering the topic in both data sources, it will be invisible to search and inaccessible from the queue UI.
+
 **How lesson plans are loaded at runtime:**
 1. App converts topic name to filename (lowercase, spaces→hyphens, strip special chars)
 2. Fetches `docs/lessons/{queue}/{filename}.md` via HTTP
