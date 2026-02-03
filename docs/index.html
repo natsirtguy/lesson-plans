@@ -141,6 +141,14 @@
                 </div>
                 <div class="flex items-center gap-2">
                 <button
+                    @click="openSearch()"
+                    class="p-2 rounded-lg hover:bg-indigo-700 active:bg-indigo-800"
+                    title="Search topics">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                    </svg>
+                </button>
+                <button
                     @click="toggleDarkMode()"
                     class="p-2 rounded-lg hover:bg-indigo-700 active:bg-indigo-800"
                     title="Toggle dark mode">
@@ -228,6 +236,47 @@
 
     <!-- Hidden file input for import -->
     <input type="file" x-ref="importFile" @change="importData($event)" accept=".json" class="hidden">
+
+    <!-- Search Overlay -->
+    <div x-show="showSearch"
+         x-transition:enter="transition ease-out duration-200"
+         x-transition:enter-start="opacity-0"
+         x-transition:enter-end="opacity-100"
+         x-transition:leave="transition ease-in duration-150"
+         x-transition:leave-start="opacity-100"
+         x-transition:leave-end="opacity-0"
+         @keydown.escape.window="showSearch = false"
+         class="fixed inset-0 bg-black bg-opacity-50 z-20 flex items-start justify-center pt-16"
+         style="display: none;"
+         @click.self="showSearch = false">
+
+        <div class="w-full max-w-lg mx-4 bg-white dark:bg-gray-800 rounded-xl shadow-2xl overflow-hidden">
+            <div class="p-4">
+                <input type="text"
+                       x-ref="searchInput"
+                       x-model="searchQuery"
+                       @input="performSearch()"
+                       placeholder="Search all topics..."
+                       class="w-full px-4 py-3 text-lg border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-indigo-500">
+            </div>
+            <div class="max-h-80 overflow-y-auto">
+                <template x-if="searchQuery.length > 0 && searchResults.length === 0">
+                    <p class="px-4 py-6 text-center text-gray-500 dark:text-gray-400">No topics found</p>
+                </template>
+                <template x-for="result in searchResults" :key="result.topic.id + result.queue">
+                    <button @click="openSearchResult(result)"
+                            class="w-full text-left px-4 py-3 hover:bg-gray-100 dark:hover:bg-gray-700 border-t border-gray-100 dark:border-gray-700 btn-touch">
+                        <p class="font-medium" x-text="result.topic.name"></p>
+                        <p class="text-sm text-gray-500 dark:text-gray-400">
+                            <span x-text="result.queue === 'knowledge' ? '🧠 Knowledge' : result.queue === 'physical' ? '⚽ Physical' : '🎵 Songs'"></span>
+                            <span class="mx-1">·</span>
+                            <span x-text="result.topic.category"></span>
+                        </p>
+                    </button>
+                </template>
+            </div>
+        </div>
+    </div>
 
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto px-4 py-6 pb-20">
@@ -426,6 +475,38 @@
                 currentLessonTopic: null,
                 isPlaying: false,
                 darkMode: document.documentElement.classList.contains('dark'),
+                showSearch: false,
+                searchQuery: '',
+                searchResults: [],
+
+                openSearch() {
+                    this.showSearch = true;
+                    this.searchQuery = '';
+                    this.searchResults = [];
+                    this.$nextTick(() => this.$refs.searchInput.focus());
+                },
+
+                performSearch() {
+                    const q = this.searchQuery.toLowerCase().trim();
+                    if (!q) { this.searchResults = []; return; }
+                    const results = [];
+                    for (const queue of ['knowledge', 'physical', 'songs']) {
+                        for (const topic of this.data.masterLists[queue]) {
+                            if (topic.name.toLowerCase().includes(q) || (topic.category && topic.category.toLowerCase().includes(q))) {
+                                results.push({ topic, queue });
+                                if (results.length >= 30) break;
+                            }
+                        }
+                        if (results.length >= 30) break;
+                    }
+                    this.searchResults = results;
+                },
+
+                async openSearchResult(result) {
+                    this.showSearch = false;
+                    this.currentLessonTopic = { topic: result.topic, queueName: result.queue };
+                    await this.showLessonPlan(result.topic.name, result.queue);
+                },
 
                 toggleDarkMode() {
                     this.darkMode = !this.darkMode;
