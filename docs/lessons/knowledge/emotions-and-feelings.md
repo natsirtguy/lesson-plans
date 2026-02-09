@@ -6,13 +6,13 @@ Children learn to identify, name, and express their emotions through songs, acti
 
 ## Vocabulary
 
-**Emotion**: A strong feeling inside your body that shows how you're doing right now—like happy, sad, angry, or scared. When you smile because something is funny, that's an emotion.
+**Limbic system**: A group of structures deep inside your brain that generate emotions. The amygdala (an almond-shaped cluster of neurons) detects danger and triggers fear. The hippocampus stores emotional memories — that's why a certain smell can suddenly make you feel happy or sad. Your limbic system is one of the oldest parts of the brain, shared with reptiles and other mammals.
 
-**Express**: To show or tell someone how you're feeling using your words, face, body, or voice. You can express happiness by laughing, or sadness by crying.
+**Neurotransmitter**: A chemical messenger molecule that carries signals between neurons (brain cells). Dopamine makes you feel pleasure and motivation. Serotonin helps you feel calm and content. Cortisol floods your body during stress and fear. Different emotions are produced by different combinations of these chemical messengers.
 
-**Recognize**: To notice and identify something, like seeing a friend at the store or noticing when someone is sad because they're crying. We can recognize emotions on faces and in voices.
+**Facial muscles**: Your face has over 40 muscles that work together to express emotions. The zygomatic major muscle pulls your mouth corners up into a smile. The corrugator supercilii muscle pulls your eyebrows down and together into a frown. Scientists have mapped every possible facial expression to specific muscle combinations — this system is called the Facial Action Coding System (FACS).
 
-**Calm**: A peaceful, quiet feeling where your body is relaxed and your mind is still. You might feel calm when you're snuggled with a blanket or listening to soft music.
+**Mirror neurons**: Special brain cells that fire both when you do something AND when you watch someone else do it. When you see someone smile, your mirror neurons activate the same brain areas as if you were smiling yourself — which is why emotions are contagious. This is a biological basis for empathy: your brain literally simulates what another person is feeling.
 
 ## Learning Song
 
@@ -97,31 +97,27 @@ Children explore emotions through a multi-sensory activity using emotion faces, 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   "Today we're exploring all the different feelings we have! Everyone has lots of feelings—happy ones and sad ones, calm ones and excited ones. They're all okay. Let's learn about feelings together!"
+   "Today we're going to learn WHERE feelings come from — they come from your brain! Deep inside your brain there's a part called the limbic system. It has a tiny piece called the amygdala." (Point to a spot behind the ear.) "The amygdala decides if something is scary or safe. When it detects danger, it sends chemical messengers called neurotransmitters racing through your brain and body — that's what makes your heart pound when you're scared."
 
-   Show the emotion faces one at a time: "This is a happy face. When do YOU feel happy?" Wait for child's response. Repeat with each face.
+   Show the emotion faces one at a time: "This is a happy face. When you feel happy, your brain is releasing a neurotransmitter called dopamine. When do YOU feel happy?" Wait for child's response. Repeat with each face, naming the brain chemistry: sad = lower serotonin, scared = amygdala activating cortisol, calm = serotonin.
 
 2. **Exploration** (7-10 minutes):
 
-   **Mirror exploration**: Hold up the mirror and invite the child to look at their own face. Say, "Make a happy face! Now look in the mirror—do you see your happy face?" Repeat with other emotions: sad, silly, calm, angry, surprised.
+   **Mirror exploration with facial muscle science**: Hold up the mirror. "Make a happy face! Now feel your cheeks — that muscle pulling your mouth up is called the zygomatic major. It's one of over 40 muscles in your face!" Try other emotions: "Make an angry face — feel your eyebrows pulling together? That's the corrugator supercilii muscle squeezing." Repeat with sad, surprised, scared — naming which muscles are moving each time.
 
-   **Matching game**: Show an emotion face and ask, "Can you make THIS face?" Child attempts to copy. Celebrate their expression: "Yes! That's a sad face!"
+   **Mirror neuron experiment**: Make a big smile at the child and watch. "Did you smile back? That's your mirror neurons! Special brain cells fired in your brain just from watching me smile. Your brain copied my emotion automatically — that's why feelings are contagious."
 
-   **Storytelling prompts**:
-   - "Show me the face you make when you get a big hug"
-   - "Show me your face when you taste yummy food"
-   - "Show me your face if you lost your favorite toy"
-   - "Show me your calm, sleepy face"
+   **Facial Action Coding System game**: Show an emotion face and ask, "Can you make THIS face? Which muscles are you using?" Try mixing: "Can you make just the mouth smile but keep your eyebrows angry? It's hard because the brain tends to activate muscle groups together."
 
 3. **Discovery** (3-5 minutes):
 
-   Ask reflective questions:
-   - "What does your body feel like when you're happy? Are you bouncy or calm?"
-   - "When you feel sad, what do you need? A hug? Someone to talk to?"
-   - "Can two different feelings happen at the same time?" (Hint: yes! You can feel excited AND nervous)
-   - "What helps you feel calm when you're upset?"
+   Connect body sensations to physiology:
+   - "When you're scared, your heart beats faster. That's because your amygdala told your body to release cortisol and adrenaline — chemicals that prepare your muscles to run or fight. It's called the fight-or-flight response."
+   - "When you're happy and relaxed, your brain is making serotonin. That's why a hug feels calming — touch triggers serotonin release."
+   - "Can two different neurotransmitters be active at the same time? Yes! That's why you can feel excited AND nervous — dopamine (excitement) and cortisol (anxiety) at once."
+   - "Why do we have emotions at all? They evolved to help animals survive. Fear keeps you away from danger. Happiness makes you seek out good things. Disgust keeps you from eating rotten food. Every emotion has a purpose."
 
-   Point out: "Every person in the whole world has all these feelings. Your feelings are important. They tell us something about what we need."
+   Point out: "Every human brain has the same limbic system. Everyone in the whole world feels these same emotions because we all have the same brain structures."
 
 4. **Wrap-up** (2-3 minutes):
 
@@ -132,22 +128,20 @@ Children explore emotions through a multi-sensory activity using emotion faces, 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on just 2-3 emotions: happy, sad, calm (fewer to process)
-- Use simpler, shorter sentences: "Happy! You're happy!" rather than explanations
-- Emphasize the mirror work and facial expression copying (concrete, observable)
-- Keep storytelling prompts very simple and connected to their immediate experience
+- Focus on just 2-3 emotions: happy, sad, scared (fewer to process)
+- Use the real terms alongside simple ones: "Happy! Your brain is making dopamine!" "Scared! That's your amygdala!" — they'll absorb the vocabulary through repetition even without full comprehension
+- Emphasize the mirror work — mirror neurons are directly observable: smile at them, watch them smile back, name what's happening: "Mirror neurons!"
+- Focus on the facial muscle exploration — feeling muscles move is concrete and physical
 - Expect shorter attention span; 10-12 minutes may be maximum
-- Use the song to help transition and maintain engagement
 - Lots of repetition across multiple days
 
 **3-4+ years**:
-- Introduce 4-5 emotions including more nuanced ones: happy, sad, angry, scared, calm, excited, shy
-- Ask "why" questions: "Why do you think he looks sad?" (encourages theory of mind)
-- Discuss physical sensations more: "When I'm angry, my face gets hot and my fists get tight. What happens to YOUR body?"
-- Introduce emotion combinations: "Can you feel happy AND sad at the same time? Like when your friend moves away?"
-- Create a "feelings chart" together and revisit throughout the day
-- Extend to solving problems: "If you're sad, what would help you feel better?"
-- Introduce the idea of expressing feelings safely: "We can feel angry, but we use kind words instead of hitting"
+- Introduce all major neurotransmitters by name: dopamine (pleasure/reward), serotonin (calm/contentment), cortisol (stress), adrenaline (excitement/fear), oxytocin (bonding/trust — released during hugs)
+- Discuss the evolutionary purpose of each emotion: "Disgust evolved to stop our ancestors from eating poisonous or rotten food. That's why your face scrunches up — you're closing your nose and mouth to keep bad things out."
+- Explore the Facial Action Coding System more deeply — try to isolate individual facial muscles and make "mixed" expressions
+- Discuss physical sensations with physiology: "When I'm angry, my face gets hot because blood vessels dilate — more blood flows to my muscles. My fists clench because my body is preparing to fight. That's the fight-or-flight response."
+- Theory of mind + mirror neurons: "Why do you think he looks sad? Your mirror neurons are helping you feel what he feels. That's called empathy — and it's built into your brain."
+- Create a "brain chemistry chart" — which neurotransmitters go with which feelings
 
 ### Extension Ideas
 

@@ -6,13 +6,13 @@ Children will discover multiple ways to solve simple challenges using everyday m
 
 ## Vocabulary
 
-**Solution**: A way to fix a problem or answer a challenge. When your block tower falls, stacking them differently is a solution.
+**Hypothesis**: A guess about what might work that you can test. Scientists don't just try random things — they form a hypothesis first: "I think the stick will be long enough to reach the toy." Then they test it. If it doesn't work, they form a new hypothesis. This cycle of guess-test-revise is called the scientific method, and it's the most powerful problem-solving system humans have ever developed.
 
-**Obstacle**: Something that gets in the way or makes something difficult. A toy that's stuck under the couch is an obstacle you need to solve.
+**Divergent thinking**: The ability to generate many different possible solutions to a single problem — your brain spreading out in all directions like branches of a tree. "How many uses can you think of for a cardboard box?" If you say house, car, boat, hat, drum, tunnel, and bed, that's strong divergent thinking. It's the opposite of convergent thinking, where you narrow down to the single best answer.
 
-**Persist**: To keep trying even when something is hard. When your puzzle piece doesn't fit at first, persisting means trying different positions.
+**Constraint**: A rule or limitation that shapes how you can solve a problem. "You can only use what's in this room" is a constraint. Constraints sound limiting, but they actually fuel creativity — having fewer options forces your brain to think in unusual ways. Engineers and designers use constraints deliberately to push innovation.
 
-**Transform**: To change something into something different or new. You can transform a cardboard box into a house, a car, or a boat!
+**Iteration**: Trying a solution, seeing what happens, then improving it and trying again. Each version is called an iteration. The first attempt is almost never the best — real problem-solving means going through multiple iterations, each one better than the last. Engineers might iterate dozens of times before a design works well.
 
 ## Learning Song
 
@@ -106,26 +106,26 @@ Children will work through a series of playful problem-solving challenges using 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit with the child and present the first challenge cheerfully: "Oh, your toy got stuck here! It's stuck under the couch. Your job is to figure out HOW to get it out. You can try any way you think might work. There are lots of right answers!"
+   Sit with the child and introduce the scientific method: "Today we're going to solve problems like scientists and engineers. Real problem-solvers don't just try random things — they follow a process. First, you look at the problem. Then you form a hypothesis — a guess about what might work. Then you test it. Then you look at what happened and try again. That cycle is called the scientific method."
 
-   Model thinking aloud: "Hmm, I see a problem. My toy is stuck. Let me think... what could I use to help?"
+   Present the first challenge: "Your toy is stuck under the couch. Before you do anything — what's your hypothesis? What do you think will work?" Wait for their answer. "Okay, let's test that hypothesis!"
 
 2. **Exploration** (8-10 min):
-   Present challenges one at a time:
+   Present challenges one at a time, using the scientific method at each step:
 
-   **Challenge 1 - Stuck toy**: Child explores ways to retrieve it (reaching with a stick, moving furniture, using string to pull it, asking for help, etc.). Resist helping immediately—let them try multiple solutions first.
+   **Challenge 1 - Stuck toy (hypothesis testing)**: "Before you try anything — form a hypothesis. What do you think will work? Reaching with your arm? Using a stick? Pulling with string?" After each attempt, narrate: "Your hypothesis was that your arm would reach. We tested it. It didn't reach — the arm is too short. That's not a failure, that's data! Now form a new hypothesis." This is iteration — each attempt teaches you something.
 
-   **Challenge 2 - Unstable tower**: Show a tower that's hard to stack higher. "This tower keeps falling. What could you do to make it stronger and taller?" Let them experiment with different arrangements, materials, or foundations.
+   **Challenge 2 - Unstable tower (divergent thinking)**: "This tower keeps falling. Let's use divergent thinking — generate as many ideas as you can, even silly ones. Wide base? Different materials? Lean it against something? Glue?" List all ideas before testing any. Then switch to convergent thinking: "Now, which of these ideas should we actually test first?"
 
-   **Challenge 3 - Getting across**: Create a simple "obstacle" (cushions on the floor, string across the path). "How can you get to the other side? What ways can you move?"
+   **Challenge 3 - Getting across with constraints**: Create a simple obstacle, then add a constraint: "You have to get to the other side, BUT you can't step on the floor. You can only use these cushions." Constraints force creative thinking: "Engineers face constraints all the time — budgets, materials, physics. Constraints make solutions more creative, not less."
 
-   Observe and acknowledge effort, not just success: "I see you tried putting the blocks closer together. That was smart thinking!"
+   After each attempt: "What did you learn from that iteration? What will you change for the next one?"
 
 3. **Discovery** (3-5 min):
-   After each challenge, highlight the multiple solutions:
-   - "You found three different ways to get your toy out! First you tried reaching with your arm, then you used a stick, then you asked for help. All three were great solutions!"
-   - Ask guiding questions: "Can you think of another way?" "What else could work?" "What happens if we try that?"
-   - Celebrate persistence: "That was hard, but you kept trying. You didn't give up!"
+   After each challenge, review the scientific method they just used:
+   - "You went through three iterations! Your first hypothesis didn't work — that's data. Your second hypothesis partially worked — more data. Your third hypothesis solved it. That's exactly how scientists and engineers work. Thomas Edison tested thousands of materials before finding the right filament for the light bulb."
+   - Connect to divergent vs. convergent thinking: "First you brainstormed lots of ideas — that's divergent thinking. Then you picked the best one to try — that's convergent thinking. Both parts are essential."
+   - "The constraint made you more creative, not less. When everything is possible, your brain doesn't have to work as hard. When options are limited, your brain finds unusual connections."
 
 4. **Wrap-up** (2-3 min):
    Reflect together: "You solved so many problems today! You're a problem-solver! You tried different ways, and you kept going even when it was tricky. That's what problem-solvers do."
@@ -134,22 +134,20 @@ Children will work through a series of playful problem-solving challenges using 
 ### Age Adaptations
 
 **2-3 years**:
-- Use fewer challenges (1-2 instead of 3)
-- Make problems very concrete and obvious ("Your toy is stuck!")
-- Offer more hand-over-hand guidance
-- Use simpler solutions (direct reaching vs. tool use)
+- Use one challenge with clear physical setup ("Your toy is stuck!")
+- Introduce "hypothesis" as a word even at this age: "What's your hypothesis? What do you think will work?" — they'll learn the word through repeated use
+- After each attempt, narrate simply: "That didn't work. New hypothesis!" — framing failure as information, not defeat
 - Keep exploration shorter (5-8 minutes total)
-- Focus on trying and attempting, not perfect solutions
-- Celebrate effort heavily: "You're trying! You're working hard!"
+- Focus on the cycle: guess → test → learn → guess again. That cycle IS the scientific method, even at age 2
+- Name what they're doing: "You're iterating! You tried something, learned from it, and tried something different. That's what engineers do."
 
 **3-4+ years**:
-- Introduce more complex scenarios with multiple steps
-- Use tools (sticks, strings, cups) to extend their thinking
-- Ask more open-ended questions: "What else could we try?" "Why do you think that worked?"
-- Encourage them to explain their solutions: "Tell me how you did that"
-- Introduce timing elements: "Can you find a faster way?"
-- Challenge them to find multiple solutions to the same problem
-- Introduce collaborative problem-solving: "How could we solve this together?"
+- Run formal divergent thinking exercises: "How many uses can you think of for this cup in 60 seconds?" Count them. Try to beat the record next time — this is a real creativity assessment psychologists use (Torrance Test of Creative Thinking)
+- Introduce explicit constraints and discuss how they change the solution space: "What if you couldn't use your hands?" "What if you could only use paper?"
+- Ask for hypotheses BEFORE testing, and ask them to predict what will happen — developing the habit of prediction before experimentation
+- After solving, ask: "How many iterations did it take? What did you learn from each one?"
+- Introduce the concept of an algorithm: a step-by-step procedure that solves a problem every time. "Can you make a rule that would help someone else solve this problem too?"
+- Collaborative problem-solving: "Scientists work in teams because different brains generate different hypotheses."
 
 ### Extension Ideas
 

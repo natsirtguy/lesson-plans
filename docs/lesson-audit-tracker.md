@@ -42,13 +42,23 @@ Each lesson is evaluated for:
 | Managing Emotions | Knowledge | FAIL -> FIXED | "Regulate" was real terminology but lesson was mostly craft (paper plate faces) with basic emotion labeling. No neuroscience of emotions. | Replaced vocabulary with amygdala, fight-or-flight response, cortisol, regulate (with vagus nerve mechanism). Rewrote activity to explain the amygdala alarm system, cortisol release, and how deep breathing activates the parasympathetic nervous system via the vagus nerve. Added dopamine for 3-4+. |
 | Market and Sales Activities | Knowledge | FAIL -> FIXED | Good vocabulary (vendor, transaction, commerce) but no actual economics concepts. Running a pretend stall with uniform pricing taught social skills, not economics. | Replaced vocabulary with supply and demand, scarcity, profit, medium of exchange. Rewrote activity to include price-setting based on scarcity, supply-depletion price experiments, profit calculation, and barter vs. money comparison. Added competition and "double coincidence of wants" for 3-4+. |
 
+### Batch 3 (2026-02-09) - 5 Lessons
+
+| Lesson | Queue | Verdict | Issues Found | Fixed |
+|--------|-------|---------|-------------|-------|
+| Cooking and Recipe Following | Knowledge | FAIL -> FIXED | Vocabulary was all everyday words (ingredients, measure, sequence, texture). Zero food science — purely procedural "mix, stir, taste" with no explanation of what happens chemically when ingredients combine. No mention of chemical reactions, dissolving, emulsification, or protein denaturation. | Replaced vocabulary with chemical reaction, emulsification, dissolve, protein (with denaturation). Rewrote activity flow to explain dissolving, oil-water immiscibility, oxidation (banana browning), acid-base reactions (baking soda), and physical vs. chemical changes. Added Maillard reaction, leavening, pH, and melting points to 3-4+ adaptations. |
+| Simple Tools and Their Uses | Knowledge | FAIL -> FIXED | Vocabulary was "tool," "purpose," "handle," "function" — entirely everyday words. No physics whatsoever. No mention of simple machines, levers, fulcrums, inclined planes, wedges, or mechanical advantage. "Tools have different shapes because they do different jobs!" with no explanation of how shapes make work easier. | Replaced vocabulary with simple machine, lever, mechanical advantage, inclined plane (with wedge). Rewrote each tool exploration to identify the simple machine inside it: spoon as lever, scissors as two levers + wedge, broom as lever with mechanical advantage, screw as inclined plane wrapped around a cylinder. Added all six simple machines to 3-4+ adaptations. |
+| Emotions and Feelings | Knowledge | FAIL -> FIXED | Vocabulary was "emotion," "express," "recognize," "calm" — no neuroscience. No brain anatomy, no explanation of what produces emotions physiologically. Activity was labeling paper plate faces with no scientific content. | Replaced vocabulary with limbic system (amygdala, hippocampus), neurotransmitter (dopamine, serotonin, cortisol), facial muscles (zygomatic major, corrugator supercilii, FACS), mirror neurons. Rewrote activity to include facial muscle exploration, mirror neuron experiments, neurotransmitter identification per emotion, and evolutionary purpose of emotions. |
+| Creative Problem-Solving | Knowledge | FAIL -> FIXED | Vocabulary was "solution," "obstacle," "persist," "transform" — no cognitive science. Activity was retrieving stuck toys with no systematic thinking framework. No scientific method, no distinction between divergent and convergent thinking. | Replaced vocabulary with hypothesis, divergent thinking, constraint, iteration. Rewrote activity to use the scientific method explicitly: form hypothesis → test → analyze → iterate. Added divergent vs. convergent thinking exercise, constraints as creativity drivers, and algorithm concept for 3-4+. |
+| Meditation and Breathing Exercises | Physical | FAIL -> FIXED | No vocabulary section at all. No physiology — just "breathe in, breathe out" with no explanation of why it works. "Calm your nervous system" mentioned once but never explained. No anatomy of breathing. | Added vocabulary section with diaphragm, autonomic nervous system (sympathetic/parasympathetic), vagus nerve, heart rate variability. Rewrote all techniques to explain the physiology: diaphragm mechanics, vagus nerve stimulation through long exhales, parasympathetic activation. Added pulse-checking experiments and respiratory sinus arrhythmia for 3-4+. |
+
 ## Summary Statistics
 
-- **Total audited**: 20
-- **Passed**: 5 (25%)
-- **Fixed**: 15 (75%)
-- **Remaining unaudited**: ~413 lesson plans
+- **Total audited**: 25
+- **Passed**: 5 (20%)
+- **Fixed**: 20 (80%)
+- **Remaining unaudited**: ~408 lesson plans
 
 ## Lessons Still Needing Audit
 
-All lessons not listed above remain unaudited. Continue selecting random batches of 10 and working through them incrementally.
+All lessons not listed above remain unaudited. Continue selecting random batches and working through them incrementally.
