@@ -27,12 +27,27 @@ Each lesson is evaluated for:
 | Food Chains and Relationships | Knowledge | FAIL -> FIXED | Had good basic vocabulary (herbivore, carnivore, predator, prey) but missing major concepts. No energy transfer, no decomposers, no producer/consumer framework. | Added producer, decomposer, and energy transfer to vocabulary with full explanations (10% energy rule). Updated discovery section with decomposer cycle and energy pyramid concept. Enhanced 3-4+ adaptations with food webs, phytoplankton, and full vocabulary list. |
 | Game Creation and Rule-Making | Knowledge | FAIL -> FIXED | Reasonable social/creative focus but missed opportunities to connect to formal concepts. Rules were treated as informal, not as logical structures. | Added conditional logic framing (if-then rules) and fairness/game theory to vocabulary. Updated rule-making phase to explicitly teach if-then structure and rule conflicts. Connected to computer programming and law as parallel systems. Added game theory framing to social negotiation. |
 
+### Batch 2 (2026-02-09) - 10 Lessons
+
+| Lesson | Queue | Verdict | Issues Found | Fixed |
+|--------|-------|---------|-------------|-------|
+| Making Good Decisions | Knowledge | FAIL -> FIXED | Vocabulary was all everyday words (consequence, option, decision, safe). No cognitive science — just "is it safe? is it kind?" with no actual decision theory. | Replaced vocabulary with trade-off, prefrontal cortex, cost-benefit analysis. Rewrote activity flow to model cost-benefit thinking at each step. Added opportunity cost and genuine dilemma discussion for 3-4+. |
+| Sensory Exploration Activities | Knowledge | FAIL -> FIXED | No neuroscience about how senses work. Vocabulary was basic (texture, sensory, tactile, explore). Activity was touching things in a bin with no science explanation. | Added receptor, neuron, sensory cortex to vocabulary with real explanations (2,500 receptors per cm² in fingertips). Rewrote activity to include fingertip-vs-elbow receptor density test, thermoreceptor concept, and blindfolded identification. Added two-point discrimination test for 3-4+. |
+| Personal Hygiene and Self-Care | Knowledge | FAIL -> FIXED | Had "bacteria" but never explained how soap works or what bacteria actually are. Purely procedural (wet, soap, scrub, rinse, dry) with no science. | Replaced vocabulary with bacteria (single-celled organisms, microbiome), surfactant (hydrophilic/hydrophobic ends), microorganism, antibacterial. Rewrote handwashing to explain surfactant mechanism at each step. Added oil-and-soap experiment and germ theory (Louis Pasteur) for 3-4+. |
+| Making and Keeping Friends | Knowledge | PASS | Vocabulary (companionship, cooperation, empathy, connection) IS the real developmental psychology terminology. Activities involve genuine practice of social skills through cooperative planting. | N/A |
+| Animal Care and Rescue Games | Knowledge | FAIL -> FIXED | Pure themed dramatic play. No animal biology, habitat needs, or species-specific knowledge. "What do animals need?" asked but never answered with real information. | Replaced vocabulary with habitat, veterinarian, herbivore/carnivore/omnivore (with teeth adaptations), thermoregulation (warm-blooded vs cold-blooded). Rewrote activity to classify each animal by diet and thermoregulation. Added species-appropriate habitat building and veterinary diagnosis. |
+| Sorting and Grouping | Knowledge | PASS | Real mathematical vocabulary (categorize, classify, attribute, pattern). Core concept that same objects can be classified differently by attribute is genuine mathematical thinking. | N/A |
+| Building with Blocks and Materials | Knowledge | FAIL -> FIXED | Missing physics/engineering. No gravity, center of mass, load distribution, or why shapes matter structurally. Just stacking blocks with vocabulary overlay. | Replaced vocabulary with center of gravity, compression, load, structural engineer. Rewrote activity to include gravity demonstrations, base-width experiments, triangle-vs-square strength test, and heavy-on-bottom stability concept. Added tension and load testing for 3-4+. |
+| Stretching and Flexibility Exercises | Physical | FAIL -> FIXED | No muscle names, no anatomy, no physiology. "Feel how your muscles are getting longer" without naming any muscle. Previous physical lessons that passed used terms like "bilateral coordination" and "explosive power." | Added muscle names to every stretch: hamstrings, quadriceps, deltoids, gastrocnemius, obliques, abdominals, adductors. Added tendon and muscle fiber concepts. Rewrote animal stretches to name specific muscles. Added antagonist muscle pairs and blood flow physiology for 3-4+. |
+| Managing Emotions | Knowledge | FAIL -> FIXED | "Regulate" was real terminology but lesson was mostly craft (paper plate faces) with basic emotion labeling. No neuroscience of emotions. | Replaced vocabulary with amygdala, fight-or-flight response, cortisol, regulate (with vagus nerve mechanism). Rewrote activity to explain the amygdala alarm system, cortisol release, and how deep breathing activates the parasympathetic nervous system via the vagus nerve. Added dopamine for 3-4+. |
+| Market and Sales Activities | Knowledge | FAIL -> FIXED | Good vocabulary (vendor, transaction, commerce) but no actual economics concepts. Running a pretend stall with uniform pricing taught social skills, not economics. | Replaced vocabulary with supply and demand, scarcity, profit, medium of exchange. Rewrote activity to include price-setting based on scarcity, supply-depletion price experiments, profit calculation, and barter vs. money comparison. Added competition and "double coincidence of wants" for 3-4+. |
+
 ## Summary Statistics
 
-- **Total audited**: 10
-- **Passed**: 3 (30%)
-- **Fixed**: 7 (70%)
-- **Remaining unaudited**: ~433 lesson plans
+- **Total audited**: 20
+- **Passed**: 5 (25%)
+- **Fixed**: 15 (75%)
+- **Remaining unaudited**: ~413 lesson plans
 
 ## Lessons Still Needing Audit
 

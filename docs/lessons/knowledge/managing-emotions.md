@@ -8,13 +8,13 @@ Children will learn to recognize and name their emotions through interactive act
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
 
-**Emotion**: A feeling inside our body that tells us something about what we're experiencing. When you feel happy, sad, angry, or scared—those are all emotions. You can recognize your emotion by noticing how your body feels.
+**Amygdala**: A small, almond-shaped part deep inside your brain that acts as your alarm system. When you feel scared, angry, or threatened, your amygdala fires off a signal before you even think about it — that's why big emotions feel so fast and powerful. The amygdala is doing its job: keeping you safe by reacting quickly.
 
-**Calm**: A peaceful, quiet feeling when your body is relaxed and your breathing is slow and easy. You feel calm when you're resting, listening to soft music, or sitting with someone you love.
+**Fight-or-flight response**: When your amygdala detects danger (or something that feels like danger), it triggers your body's fight-or-flight response: your heart beats faster, you breathe quickly, your muscles tense up, and your body releases a chemical called cortisol. This response evolved to help humans escape predators — but it also activates when you're upset about a toy or frustrated with a friend.
 
-**Identify**: To recognize and name something, like pointing out what color a toy is or saying "I feel angry" when you notice that feeling inside. When you identify your emotion, you're becoming a feelings detective!
+**Regulate**: To manage your emotions by activating the calmer part of your nervous system — the parasympathetic nervous system. When you take slow, deep breaths, you send a signal from your lungs through a nerve called the vagus nerve to your brain, telling it: "We're safe. Slow down." That's why deep breathing actually works — it's not just a trick, it's real neuroscience.
 
-**Regulate**: To manage or control your feelings and actions in a way that feels healthy and safe. When you take deep breaths or hug your stuffed animal when you're upset, you're regulating your emotions.
+**Cortisol**: A stress chemical (hormone) your body releases during the fight-or-flight response. Cortisol makes your heart pound and your muscles tighten. When you calm down — by breathing, hugging, or feeling safe — your cortisol levels drop and your body relaxes. Too much cortisol for too long isn't good for your body, which is why learning to regulate is important.
 
 ## Learning Song
 
@@ -111,24 +111,35 @@ Children will create an "Emotion Faces" exploration using craft materials, mirro
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Start by sitting together and asking, "What do your faces look like when you feel happy? Show me!" Demonstrate different emotions with exaggerated facial expressions—happy (big smile), sad (corners of mouth down), angry (eyebrows down), scared (eyes wide, mouth open). Use the mirror so children can see themselves making these expressions. Say: "We all have feelings, and our face shows what we're feeling!"
+   Point to the middle of the child's forehead: "Inside your brain, there's a tiny part called the amygdala — it's shaped like an almond. Your amygdala is like an alarm system. When something scary or upsetting happens, your amygdala fires FAST — before you even think about it."
+   Show emotion faces — happy, sad, angry, scared — using mirror: "When your amygdala fires, it triggers something called the fight-or-flight response. Your heart beats faster (put hand on chest), you breathe quickly, and your body makes a chemical called cortisol that makes your muscles tense."
+   "All these feelings are your brain doing its job. Let's learn about them AND learn how to calm the alarm down."
 
 2. **Exploration** (8-12 minutes):
-   Provide each child with a paper plate and basic materials to create emotion faces. They can draw eyes, nose, and mouth using markers to show different feelings. Encourage them to look in the mirror while creating—"Does your happy face look like this?" Allow children to add texture with cotton balls, pom-poms, or other materials to add personality. Some children may create one face, others may want to make several. This is exploratory, so let them lead. Ask open-ended questions: "What emotion are you making?" "How does that face feel?" "When do you feel that way?"
+   Provide materials to create emotion faces on paper plates. As they create each face, connect to the neuroscience:
+   - **Angry face**: "When you feel angry, your amygdala has sent the alarm signal. Cortisol is flooding your body. Your heart is pounding. That's the fight-or-flight response."
+   - **Scared face**: "Fear is your amygdala's specialty — it evolved to detect danger and react FAST. Eyes go wide, muscles tense. Your body is getting ready to run."
+   - **Happy face**: "When you feel happy, your brain releases different chemicals — dopamine and serotonin. These feel good and help you relax."
+   - **Calm face**: "When you're calm, your parasympathetic nervous system is in charge. Your heartbeat slows, cortisol drops, and your body relaxes."
+   Let them create freely while you weave in the science naturally.
 
 3. **Discovery** (3-5 minutes):
-   Gather the emotion faces and examine them together. Hold up each creation and ask, "What feeling is this?" and "Can you make that face in the mirror?" Discuss situations that trigger emotions: "When do you feel happy?" "What makes you sad?" "When were you angry?" Help children connect their emotional experiences to specific situations. Point out that everyone feels all these emotions, and that's perfectly normal.
+   Practice the regulation mechanism: "Here's the amazing part — you can actually TURN DOWN the amygdala's alarm. Watch." Demonstrate slow, deep breathing.
+   Explain: "When you breathe slowly, your lungs send a signal through a special nerve called the vagus nerve all the way to your brain. The vagus nerve tells your brain: 'We're safe. Turn off the alarm.' Your cortisol goes down, your heart slows, and you feel calmer."
+   Practice together: breathe in for 3, hold for 2, out for 4. "That's not just calming down — that's activating your parasympathetic nervous system. You're using real neuroscience!"
+   Discuss triggers: "What makes YOUR amygdala fire? Is it when someone takes your toy? When it's too loud?"
 
 4. **Wrap-up** (2-3 minutes):
-   Display the emotion faces in a visible spot where the child can see them daily. Explain: "These are all your feelings. When you notice a feeling inside, you can look at these faces and say the name of your feeling. Knowing your feelings helps you take care of yourself!" Transition with: "Now let's take three deep breaths together" (demonstrate slow, deep breathing) before moving to the next activity.
+   Display the emotion faces. "These faces show what happens in your brain. Every emotion is your amygdala and your nervous system doing their jobs. And now you know the secret: slow breathing activates the vagus nerve, which calms everything down."
+   Practice three final deep breaths together: "In... hold... out... Your cortisol is dropping right now. Your parasympathetic nervous system is taking over. You're regulating."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep it simple and sensory-focused. Provide pre-cut circles and let children place googly eyes and materials freely without pressure to create specific faces. Use a mirror and make exaggerated expressions together. Label emotions as they occur naturally throughout the day: "You're happy! You're smiling!" Keep activity to 10 minutes max. Focus on recognition rather than creation.
+Keep it simple but still use real words. Point to their chest when their heart is racing: "That's your amygdala sending the alarm. Cortisol is making your heart go fast." Practice the breathing technique as a physical game — no pressure to understand the science, but say "vagus nerve" and "amygdala" each time. The words become familiar through exposure. Use a mirror for emotion faces. Label emotions naturally: "You're crying — that's your amygdala telling your brain something is wrong." Keep activity to 10 minutes max.
 
 **3-4+ years**:
-Encourage more detailed creation with markers, intentional feature placement, and adding details. Have them draw multiple faces showing different emotions. Use emotion cards to match their creation to vocabulary. Ask "why" questions: "Why do you think this face is angry?" Have them act out scenarios: "Show me your face when you're excited about a birthday!" Challenge them to create combination emotions: "Can you make a surprised-happy face?" Extend to discussing strategies for managing emotions.
+Create detailed emotion faces with the brain science labeled. Draw a simple brain diagram showing where the amygdala is. Explain the full chain: "Scary thing happens → amygdala fires → cortisol releases → heart pounds → fight-or-flight." Then the calming chain: "Deep breath → vagus nerve activates → parasympathetic system turns on → cortisol drops → calm." Challenge them: "Can you feel your heartbeat speed up when you're angry? That's cortisol. Can you slow it down with breathing? That's the vagus nerve." Have them act out scenarios and practice regulation in real-time. Introduce dopamine: "When you feel proud of something you built, that good feeling is dopamine — your brain's reward chemical."
 
 ### Extension Ideas
 

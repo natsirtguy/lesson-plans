@@ -93,15 +93,15 @@ Stretching and flexibility exercises help young children develop body awareness,
 
 **Skill breakdown**:
 - **Understanding body position**: Learning which parts move and which stay still during a stretch
-- **Gentle range of motion**: Exploring how far to stretch comfortably without forcing
-- **Body awareness**: Noticing which muscles are being stretched and how it feels
+- **Muscle identification**: Learning the names of muscles being stretched — hamstrings (back of thigh), quadriceps (front of thigh), deltoids (shoulders), gastrocnemius (calf muscle)
+- **Flexibility physiology**: Understanding that muscles are made of tiny fibers that slide and lengthen when you stretch, and that tendons connect muscles to bones
 
 **Coaching cues**:
 - "Breathe slowly, in and out through your nose"
-- "Stretch only as far as it feels nice - no pain, just a gentle pull"
-- "Tell me if anything doesn't feel good"
-- "Feel how your muscles are getting longer and stronger"
-- "You're doing such a good job being gentle with your body"
+- "Can you feel the stretch in your hamstrings? Those are the muscles on the back of your thigh"
+- "When you stretch, the tiny fibers inside your muscle are sliding apart and lengthening"
+- "The stretchy feeling is your tendons — they connect your muscles to your bones"
+- "Stretching also increases blood flow — that warm feeling is extra blood bringing oxygen to your muscles"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -112,12 +112,12 @@ Stretching and flexibility exercises help young children develop body awareness,
 2. Hold the stretch gently while we count slowly to 5
 3. Relax and rest, then move to the next animal
 
-**Variations**:
-- **Tall animals** (giraffe, crane) - Reach arms high, stand on tiptoes, lengthen whole body
-- **Long animals** (snake, alligator) - Lie on belly and gently arch back, arms extended
-- **Wide animals** (frog, starfish) - Sit with legs spread wide, gently lean forward
-- **Twisty animals** (owl, cat) - Gentle side-to-side twists at the waist
-- **Reach animals** (monkey, bear) - Reach arms down toward toes
+**Variations** (name the muscles being stretched):
+- **Tall animals** (giraffe, crane) - Reach arms high, stand on tiptoes. "We're stretching our deltoids (shoulders) and our gastrocnemius (calf muscles)!"
+- **Long animals** (snake, alligator) - Lie on belly and gently arch back. "We're stretching our abdominal muscles — the muscles on the front of your tummy."
+- **Wide animals** (frog, starfish) - Sit with legs spread wide, gently lean forward. "Feel the stretch in your hamstrings — the big muscles on the backs of your thighs. Your adductor muscles on the inside of your legs are stretching too."
+- **Twisty animals** (owl, cat) - Gentle side-to-side twists. "We're stretching our obliques — the muscles that wrap around the sides of your body."
+- **Reach animals** (monkey, bear) - Reach arms down toward toes. "Your hamstrings and your lower back muscles are lengthening. The tendons behind your knees are stretching too."
 
 **Turn-taking** (if applicable):
 - If multiple children: Each takes a turn choosing an animal
@@ -153,14 +153,12 @@ Allow child to explore their own stretches and movements:
 ### 2-3 years
 
 **Modifications**:
-- Use 2-3 simple stretches only - keep variety minimal and repetitive (toddlers enjoy repetition)
-- Very short hold times (2-3 seconds maximum) - attention span is brief
-- Make stretches into games or stories rather than formal "exercise"
-- Use lots of repetition - do the same stretches multiple times
-- Emphasize play and exploration over correct form
-- Consider music or movement without stretching language
-- Offer lots of adult guidance and hand-holding
-- Expect distraction - some may only participate for 5-8 minutes
+- Use 2-3 simple stretches only, but name the muscles each time: "We're stretching our hamstrings!" (touch back of thigh)
+- Very short hold times (2-3 seconds maximum)
+- Make stretches into animal games — but still name the real muscles alongside the animal name
+- Point to muscles on the child's body as you name them — the tactile connection helps retention
+- Say "tendon" when pointing to the back of the knee or wrist: "Feel that cord? That's a tendon connecting your muscle to your bone."
+- Expect distraction — some may only participate for 5-8 minutes, and that's fine
 
 **Duration**: 5-10 minutes total
 
@@ -174,14 +172,13 @@ Allow child to explore their own stretches and movements:
 ### 3-4+ years
 
 **Challenges to add**:
-- Increase to 5-6 different stretches across the session
-- Longer hold times (5-10 seconds) - growing attention span
-- Add more complex animal movements with multiple parts (e.g., "stretch down like a giraffe bending to drink, now stretch back up")
-- Introduce left-right differentiation (stretch right arm, then left arm)
-- Ask descriptive questions: "How does that feel? Which muscle is stretching?"
-- Encourage child-led suggestions: "What animal should we stretch like next?"
-- Can incorporate partner stretches with adult or peer
-- May introduce simple yoga pose names (Downward Dog, Cobra, Star Pose)
+- Increase to 5-6 different stretches, each with named muscles: "Downward Dog stretches your hamstrings, gastrocnemius, and deltoids all at once"
+- Longer hold times (5-10 seconds) and explain why: "Holding the stretch gives your muscle fibers time to lengthen"
+- Quiz muscle names: "We're reaching for our toes — which muscles are stretching?" (hamstrings!)
+- Introduce the concept of antagonist muscles: "When your quadriceps (front of thigh) contracts, your hamstrings (back of thigh) stretches. They work as a pair."
+- Introduce left-right differentiation: "Stretch your right deltoid, then your left"
+- Explain why warm muscles stretch better: "Blood carries oxygen to muscles. When muscles are warm, they have more blood flow and stretch more easily."
+- Yoga pose names with anatomy: "Cobra Pose stretches your abdominals and hip flexors"
 
 **Duration**: Can extend to 15-20 minutes with multiple rounds
 
