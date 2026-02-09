@@ -6,15 +6,13 @@ This lesson introduces children to common household and simple tools, exploring 
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that expand beyond toddler basics:
+**Simple machine**: One of six basic devices that all other tools are built from — the lever, inclined plane, wedge, screw, wheel and axle, and pulley. Every complex tool (even a car or a crane) is made of combinations of these six simple machines. A pair of scissors is actually two levers joined at a fulcrum.
 
-**Tool**: A special object or instrument designed to help us do a job or task more easily. When you use a spoon to stir paint or a brush to paint a picture, you are using tools.
+**Lever**: A stiff bar that pivots on a fixed point (called the fulcrum) to multiply your force. When you use a spoon to pry open a paint can lid, the rim of the can is the fulcrum — you push down a long distance on one end, and the short end pushes up with much more force. That's called mechanical advantage.
 
-**Purpose**: The reason why we use or need something; what something is meant to do. The purpose of a hammer is to push nails into wood, and the purpose of scissors is to cut paper.
+**Mechanical advantage**: Getting more force out of a tool than you put in by trading distance for force. A long-handled broom is a lever — your hands move a small distance at the top, but the bristles sweep a big distance at the bottom. A longer handle gives you more mechanical advantage.
 
-**Handle**: The part of a tool that we hold onto when we use it. A paintbrush has a handle you grip, a spoon has a handle you hold, and a shovel has a long handle for digging.
-
-**Function**: What something does or is supposed to do; how something works. The function of a cup is to hold drinks, and the function of a broom is to sweep up dirt.
+**Inclined plane**: A flat surface tilted at an angle — a ramp. It's easier to push something up a ramp than to lift it straight up, because you spread the effort over a longer distance. A wedge (like a knife blade or axe head) is two inclined planes pushed together into a point, which concentrates force into a tiny area to cut or split things apart.
 
 ## Learning Song
 
@@ -112,24 +110,24 @@ Children will explore a collection of safe, child-friendly tools and discover wh
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Say: "Today we're going to explore special helpers called tools. Tools help us do jobs! Let's see what tools can do." Show one tool at a time, name it clearly, and demonstrate its purpose simply (e.g., "This is a spoon. A spoon helps us stir and eat").
+   Say: "Today we're going to explore tools — and discover WHY they work. Every tool is built from something called a simple machine. There are only six simple machines in the whole world, and every tool ever invented — even giant cranes and cars — is made from combinations of these six." Show one tool at a time, name it, and explain the physics: "This spoon is a lever. When you push down on the handle, the bowl end lifts food up. You're using mechanical advantage — the handle is longer than the bowl, so a small push becomes a bigger lift."
 
 2. **Exploration** (8-12 min):
-   Guide the child to pick up each tool and let them discover what it does through play:
-   - Paintbrush: Dip in water and "paint" on paper or a surface
-   - Spoon: Practice stirring in water or sand
-   - Broom: Sweep up small piles of paper or debris
-   - Hammer: Gently tap foam pegs or plastic nails
-   - Scissors: Practice safe cutting with child-safe scissors on paper
-   Allow plenty of time for exploration; don't rush from tool to tool. Narrate what you see: "You're stirring with the spoon!"
+   Guide the child to pick up each tool, use it, and discover the simple machine inside:
+   - **Spoon (lever)**: Stir in water, then try prying a lid off a container. "The spoon is a lever — the rim of the container is the fulcrum. Your hand pushes down, and the other end pushes up with more force."
+   - **Scissors (two levers + wedge)**: Practice safe cutting. "Scissors are two levers joined at a pivot point — the screw in the middle is the fulcrum. And the blades are wedges — they concentrate your squeezing force into a thin line that splits the paper apart."
+   - **Broom (lever)**: Sweep up debris. "A broom is a lever. Your top hand is the fulcrum. Notice how a tiny movement at the top makes the bristles sweep a huge distance. That's mechanical advantage — try holding higher vs. lower and feel the difference."
+   - **Hammer (lever)**: Tap foam pegs. "The hammer handle is a lever. A longer handle lets you swing faster, which hits harder. That's why real hammers have long handles — more mechanical advantage."
+   - **Screwdriver or child-safe screws (inclined plane)**: "A screw is actually an inclined plane wrapped around a cylinder. Look at the spiral threads — if you unwound them, they'd make a ramp. Each turn moves the screw a tiny distance into the material with a lot of force."
+   Allow plenty of time for exploration — the physics concepts sink in through repeated hands-on experimentation.
 
 3. **Discovery** (3-5 min):
-   Ask questions as the child plays:
-   - "What does this tool do?"
-   - "How does it help us?"
-   - "What part do we hold?" (point to the handle)
-   - "Can you show me another way to use this tool?"
-   Point out: "Tools have different shapes because they do different jobs!"
+   Ask questions that connect tools to physics:
+   - "Where is the fulcrum on the scissors? What happens if you cut near the fulcrum versus near the tips?" (Near the fulcrum = more force, easier to cut thick things)
+   - "Why does a longer broom handle make sweeping easier?" (More mechanical advantage)
+   - "What simple machine is hiding inside this tool?"
+   - "Why is a knife blade thin and sharp?" (It's a wedge — concentrating force into a tiny area)
+   Summarize: "Every tool works because of physics. The six simple machines — lever, inclined plane, wedge, screw, wheel and axle, and pulley — are the building blocks of every tool humans have ever invented."
 
 4. **Wrap-up** (2-3 min):
    Return tools to the basket. Say: "We explored lots of tools today! Each tool had a special job. Tools help us work and play. Let's put our helpers away safely." End with the learning song if time allows.
@@ -137,20 +135,20 @@ Children will explore a collection of safe, child-friendly tools and discover wh
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on just 2-3 tools (spoon, brush, broom) to avoid overwhelm
-- Keep exploration time short but repetitive
-- Use very simple language ("spoon stirs," "brush paints")
-- Prioritize sensory play over precision (let them make marks with brush, not worry about artistic result)
+- Focus on just 2-3 tools (spoon, broom, hammer) to avoid overwhelm
+- Name the simple machine each time: "The spoon is a lever!" "The broom is a lever!" — repetition of the real term builds familiarity
+- Demonstrate mechanical advantage physically: hold the broom at different points and let them feel the difference in how far the bristles move
+- Let them try prying a lid with a spoon and feel how the lever multiplies their force — "You're not strong enough to pull it off, but the lever makes you strong enough to push it off!"
 - Use child-sized versions of tools when possible
 - Offer more adult guidance and modeling
 
 **3-4+ years**:
-- Introduce more tools (5-6 total) and their specific purposes
-- Ask open-ended questions about what each tool does and why
-- Challenge them to match tools to pictures of their uses
-- Introduce the vocabulary words (tool, handle, purpose, function)
-- Encourage them to problem-solve: "What tool could help you sweep up this mess?"
-- Add sequencing: "First we gather, then we sweep, then we put away"
+- Introduce all six simple machines by name and find examples of each in the house
+- Challenge them to identify which simple machine is inside each tool: "Is a doorknob a wheel and axle? Yes! The knob is the wheel, the shaft through the door is the axle."
+- Experiment with mechanical advantage: try cutting paper near the scissor pivot vs. near the tips — which is easier? Why?
+- Introduce the wheel and axle (doorknob, rolling pin) and pulley (if you have a blinds cord or flagpole) to complete all six simple machines
+- Build a simple ramp (inclined plane) and compare rolling a ball up the ramp vs. lifting it straight up — same height, but the ramp requires less force over a longer distance
+- Ask: "Could you invent a new tool using simple machines?"
 
 ### Extension Ideas
 

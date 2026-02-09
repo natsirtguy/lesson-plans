@@ -6,13 +6,13 @@ In this hands-on culinary experience, children participate in preparing simple f
 
 ## Vocabulary
 
-**Ingredients**: Individual foods or items we combine together to make something new (e.g., flour, eggs, and sugar mix to make cookies).
+**Chemical reaction**: When two or more substances combine and change into something completely new that you can't change back — like when you heat sugar and it turns brown and tastes different (that's called caramelization), or when baking soda meets vinegar and makes bubbles of carbon dioxide gas. Cooking is full of chemical reactions.
 
-**Measure**: To find out exactly how much of something to use with special tools like cups and spoons (e.g., measuring out two cups of flour for a recipe).
+**Emulsification**: Mixing two liquids that normally won't stay together — like oil and water — by shaking or whisking them so hard that tiny droplets of one get trapped inside the other. Mayonnaise is an emulsion: oil droplets suspended in egg yolk. The egg yolk acts as an emulsifier, a molecule with one end that grabs oil and another end that grabs water.
 
-**Sequence**: The special order of steps we follow to make or do something correctly (e.g., first mix, then taste, then eat).
+**Dissolve**: When a solid (the solute) breaks apart into pieces so tiny you can't see them and spreads evenly through a liquid (the solvent) — like sugar disappearing into water. The sugar molecules separate and fit between the water molecules. Hot water dissolves things faster because the molecules are moving faster and pull the solid apart more quickly.
 
-**Texture**: The way something feels when you touch it—soft, bumpy, smooth, crunchy, or sticky (e.g., oats feel bumpy but yogurt feels smooth and creamy).
+**Protein**: A large, complex molecule found in foods like eggs, meat, milk, and beans. When you heat an egg, the protein molecules unfold and tangle together — that's called denaturation — which is why a runny egg becomes solid and white when you cook it. You can't uncook an egg because the proteins are permanently changed.
 
 ## 🎵 Learning Song
 
@@ -102,23 +102,23 @@ Children will select simple ingredients and follow recipe steps with adult guida
 1. **Introduction** (2-3 minutes):
    - Show the finished dish or a picture of it: "Today we're going to make [food name]! Look what we'll create together."
    - Let the child smell the ingredients to build anticipation
-   - Explain the simple process: "First we'll mix, then we'll taste, and then we can eat our creation!"
-   - Point out that cooking is like a fun experiment where ingredients transform
+   - Explain: "Cooking is real science. When we mix things together, chemical reactions happen — the ingredients change into something completely new. That's why batter doesn't taste like cake yet!"
+   - Frame cooking as chemistry: "A kitchen is a laboratory. We're going to watch substances dissolve, mix, and transform."
 
 2. **Exploration** (3-5 minutes):
    - Let the child touch, smell, and examine each ingredient freely
-   - Ask: "What does this feel like? Is it soft or hard? What color is it?"
-   - Allow the child to squeeze, crumble, or manipulate safe ingredients with their hands
-   - Narrate what they're experiencing: "You're feeling the bumpy texture of the oats"
+   - Ask about states of matter: "Is this a solid or a liquid? Flour is a solid — each grain is tiny, but it's not a liquid. Watch what happens when we pour it — it flows like a liquid but it's millions of tiny solids!"
+   - Try dissolving sugar in water: "Watch the sugar disappear. It's dissolving — the sugar molecules are spreading out between the water molecules. They're still there, you just can't see them. Taste it — still sweet!"
+   - Compare: "Oil doesn't dissolve in water. Pour some oil in water — see how it floats on top? Oil molecules and water molecules don't want to mix. That's why we need emulsifiers to hold them together."
 
 3. **Discovery** (8-15 minutes):
    - Demonstrate the first step slowly and clearly (pouring, mixing, stirring)
    - Hand the child the tool and guide their hand if needed
-   - Use clear language: "Now we pour the oats in. Can you stir it?"
-   - Read the recipe card or point to pictures for the next step
-   - Allow plenty of time for the child to execute—don't rush
-   - After each step, ask: "What happened? What do you notice?" (texture, color, smell changes)
-   - Let the child taste during the process if safe: "Does it taste sweet? Crunchy?"
+   - Narrate the science at each step: "When we stir, we're distributing the ingredients evenly — that's called mixing. But when sugar dissolves into the wet ingredients, that's a different process — the sugar molecules are actually separating and spreading out."
+   - Point out chemical reactions as they happen: "See how the banana turned brown after we cut it? That's called oxidation — the fruit's molecules are reacting with oxygen in the air. It's the same reason iron turns to rust."
+   - If using baking soda/vinegar or lemon: "Watch — bubbles! That's carbon dioxide gas being created by a chemical reaction. The acid and the base are combining and making a completely new substance."
+   - After each step, ask: "What changed? Is this a physical change (just mixing together) or a chemical change (becoming something new)?"
+   - Let the child taste during the process: "The batter tastes different from the finished product because heat causes more chemical reactions — proteins denature and sugars caramelize."
 
 4. **Wrap-up** (3-5 minutes):
    - Gather together to admire the finished creation
@@ -134,21 +134,22 @@ Children will select simple ingredients and follow recipe steps with adult guida
 - Use ONLY no-bake recipes with 3-4 ingredients maximum
 - Choose items with safe textures (no choking hazards like nuts or hard candy)
 - Pre-cut or pre-measure most ingredients; child mostly mixes and combines
-- Keep verbal instructions to 1-2 words: "Mix now." "Taste it!"
-- Expect more mess; focus is on sensory experience and participation, not final product
+- Focus on one or two science concepts per session: dissolving sugar in water, or oil floating on water
+- Name what's happening simply: "The sugar is dissolving!" "That's a chemical reaction!" — they'll absorb the language even without full understanding
+- Expect more mess; focus is on sensory experience and real science observation, not final product
 - Duration: 15-25 minutes (shorter attention span)
-- Suggested recipes: yogurt parfait, snack mix, no-bake energy balls, smoothies, edible play dough
+- Suggested recipes: yogurt parfait (layering = density), smoothies (emulsification), dissolving sugar in water, mixing oil and water experiments alongside cooking
 
 **3-4+ years**:
 - Introduce recipes with 4-6 ingredients and more complex steps
-- Child can help measure (pour from measuring cup into bowl with guidance)
+- Child can help measure — connect to math: "We need exactly 250 milliliters. That's a precise measurement, just like scientists use in a laboratory."
 - Include simple cutting with child-safe knife or spreading with butter knife
-- Introduce concepts: "This is called measuring. We use cups and spoons."
-- Follow multi-step recipes that require waiting between steps
-- Encourage independence: "You mix this. I'll watch you!"
-- Ask "why" questions: "Why do you think we add the sugar? What will it do?"
+- Teach the Maillard reaction: "When bread toasts, the heat rearranges the sugar and protein molecules on the surface into hundreds of new flavor compounds. That's why toast smells different from bread — new molecules!"
+- Discuss leavening: "Baking powder makes carbon dioxide gas bubbles inside the batter. The bubbles get trapped and make the bread rise and become fluffy. Without it, the bread would be flat and dense."
+- Ask scientific questions: "Why do you think butter melts but flour doesn't? They have different melting points — butter's molecules let go of each other at a lower temperature."
+- Introduce pH: "Lemon juice is an acid. Baking soda is a base. When an acid meets a base, they react — that's why it fizzes!"
 - Duration: 25-35 minutes (can sustain longer engagement)
-- Suggested recipes: simple cookies, sandwiches with choices, salad creation, pizza faces, layered snacks
+- Suggested recipes: simple cookies (protein denaturation, Maillard reaction), bread (leavening with yeast — a living organism producing CO2), vinegar-baking soda volcano alongside cooking, salad dressing (emulsification)
 
 ### Extension Ideas
 
