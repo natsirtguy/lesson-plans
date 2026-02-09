@@ -93,6 +93,13 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 - Activities should be genuinely engaging, not condescending. The goal is wonder and discovery, not simplified busywork dressed up in a topic's theme.
 - Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
 
+### Intellectual Rigor Audit
+Existing lesson plans are being audited in batches against the above philosophy. Audit progress, results, and fixes are tracked in **[`docs/lesson-audit-tracker.md`](docs/lesson-audit-tracker.md)**. When auditing or generating new lessons, consult the tracker to avoid duplicating work. Common patterns found in dumbed-down lessons:
+- Vocabulary that uses only everyday words (e.g., "technology," "device") instead of real technical terms (e.g., "circuit," "sensor," "processor")
+- Activities described as educational but containing no actual intellectual content — just themed play
+- Missing key concepts that are central to the topic (e.g., a food chains lesson with no mention of energy transfer or decomposers)
+- Process-only lessons that teach the feeling of learning without any real subject matter
+
 ### Lesson Plan Structure
 All lesson plans follow age-appropriate educational design (ages 2-4+):
 - Activity summaries with duration and materials

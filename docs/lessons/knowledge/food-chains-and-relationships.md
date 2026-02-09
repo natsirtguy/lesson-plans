@@ -14,6 +14,12 @@ Children explore the natural relationships between animals and their food source
 
 **Prey**: An animal that gets hunted and eaten by another animal. A mouse is prey for an owl, and a fish is prey for a bear fishing in a river.
 
+**Producer**: A living thing (usually a plant) that makes its own food from sunlight through photosynthesis. Producers are the starting point of every food chain because they convert the sun's energy into food energy that animals can eat. Grass, trees, and algae in the ocean are all producers.
+
+**Decomposer**: A living thing that breaks down dead plants and animals and returns nutrients to the soil. Mushrooms, earthworms, and bacteria are decomposers. Without decomposers, dead leaves and animals would just pile up forever — instead, decomposers recycle them back into the soil so new plants can grow. They complete the cycle.
+
+**Energy transfer**: When one animal eats another, it gets energy from that food — but not all of it. Scientists discovered that only about one-tenth of the energy passes from one level to the next. That means a fox gets much less energy from eating a rabbit than the rabbit got from eating grass. This is why there are always more plants than herbivores, and more herbivores than carnivores — there simply isn't enough energy to support as many predators.
+
 ## Learning Song
 
 **Tune**: This Old Man
@@ -105,7 +111,7 @@ Children become food chain detectives, sorting animal cards into groups (plant-e
    Then create a food chain: "Start with the sun. The sun helps the grass grow. Now, what eats the grass? The rabbit! What eats the rabbit? The fox! We made a food chain!"
 
 3. **Discovery** (3-5 min):
-   Ask questions: "Can the rabbit start the food chain without the sun and grass?" "What would happen to the fox if there were no rabbits?" "Are humans in a food chain too? What do we eat?" Point out that every creature has a job in the food chain—plants feed everyone, some animals eat plants, some animals eat the plant-eaters.
+   Ask questions: "Can the rabbit start the food chain without the sun and grass?" "What would happen to the fox if there were no rabbits?" "Are humans in a food chain too? What do we eat?" Introduce the concept of energy transfer: "Here's something amazing — when the rabbit eats the grass, it only gets a little bit of the grass's energy. And when the fox eats the rabbit, it gets even less. That's why there are lots of plants, fewer rabbits, and even fewer foxes." Ask: "What happens when the fox dies? Decomposers — like mushrooms and worms and tiny bacteria — break it down and put the nutrients back in the soil. Then new plants grow from that soil. It's not just a chain — it's a circle!"
 
 4. **Wrap-up** (2-3 min):
    Act out a simple food chain: "Let's be the food chain! You be the grass, I'll be the rabbit eating you. Now the fox eats the rabbit! Watch how we're all connected." Transition to cleanup or next activity.
@@ -116,7 +122,7 @@ Children become food chain detectives, sorting animal cards into groups (plant-e
 Keep it very simple with 3-4 familiar animals (cow, rabbit, bird, cat). Use real objects when possible (a toy cow, toy rabbit) rather than just pictures. Focus on: "Cows eat grass. Birds eat seeds. Cats eat mice." Don't worry about the full chain concept—just start with "Who eats what?" Use very simple language and lots of repetition. Let them touch and hold the items.
 
 **3-4+ years**:
-Introduce the full food chain concept with arrows showing the direction (sun → plant → animal → bigger animal). Ask deeper questions: "What would happen if all the grass disappeared?" "Can you think of another animal that eats rabbits?" Create multiple food chains (ocean chains with fish, woodland chains with deer). Introduce vocabulary words: herbivore, carnivore, predator, and prey. Challenge them to create their own food chain with cards or drawings.
+Introduce the full food chain concept with arrows showing the direction (sun → producer → herbivore → carnivore). Explain energy transfer: "Only about one-tenth of the energy passes to the next animal — that's why the bottom of a food chain has the most living things." Ask deeper questions: "What would happen if all the grass disappeared?" "What happens to dead animals and plants? Decomposers break them down!" Create multiple food chains (ocean chains with phytoplankton → fish → shark, woodland chains with plants → deer → wolf). Introduce all vocabulary: producer, herbivore, carnivore, predator, prey, decomposer, energy transfer. Challenge them to create their own food web — where chains overlap and connect.
 
 ### Extension Ideas
 

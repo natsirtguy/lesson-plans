@@ -6,13 +6,13 @@ Study and Homework Play transforms academic practice into joyful, playful learni
 
 ## Vocabulary
 
-**Practice**: The act of repeating something over and over to get better at it. When you practice writing letters, you try many times so your hand learns how to make that shape. Your child is practicing when they trace the letter A again and again.
+**Deliberate practice**: A specific kind of practice where you focus on the parts you find hardest, not just the parts you already know. Scientists who study learning (cognitive scientists) discovered that repeating easy things doesn't help much — what builds skill fastest is working right at the edge of what you can do. When tracing letters, deliberate practice means spending extra time on the tricky ones, not just repeating the easy ones.
 
-**Persistence**: The ability to keep trying even when something is hard or takes a long time. Persistence means not giving up. When your child keeps attempting to write their name even though it's wobbly, they are showing persistence.
+**Working memory**: The part of your brain that holds information while you're using it — like a mental workspace. When you hear "find three red blocks," your working memory holds "three," "red," and "blocks" all at once while you search. Young children's working memory is still developing, which is why shorter instructions work better than long ones.
 
-**Focus**: The ability to concentrate on one thing and give it your attention. Focus means staying with a task and not getting distracted. When your child sits at the homework station and works on counting objects, they are using their focus.
+**Metacognition**: Thinking about your own thinking. When you notice "this is hard for me" or "I already know this one," that's metacognition — your brain monitoring itself. Even very young children can start developing this skill when adults help them notice their own learning process: "You figured that out! How did you know?"
 
-**Effort**: The energy and attention you put into trying to do something. Effort is about how hard you try, not about getting it perfectly right. When your child works on tracing a letter with care and concentration, they are making a great effort.
+**Persistence**: The ability to keep trying even when something is hard. Neuroscience shows that struggling with something difficult actually builds stronger neural connections than doing easy tasks. When your child keeps attempting to write their name even though it's wobbly, their brain is literally growing stronger pathways.
 
 ## 🎵 Learning Song
 
@@ -100,10 +100,10 @@ Children engage with learning materials related to letters, numbers, colors, or 
    Create excitement about homework play: "Today we have special learning time together!" Use props or costumes to shift into learning mode. Show the materials with enthusiasm and frame it as a game rather than a test. Emphasize that this is practice time where trying and having fun matter more than being perfect.
 
 2. **Exploration** (10-15 min):
-   Introduce one learning focus and model the task first: "I'm going to trace the letter A. Watch me." Make it playful and approachable by connecting to familiar things (e.g., "This letter is like a mountain"). Invite your child to try using available materials. Support their attempts without correcting: celebrate their effort, ask open-ended questions, and let them explore and repeat in their own way. Allow them to continue independently, introduce variations if they show readiness, or move to another task based on their interest.
+   Choose real content to engage with — not generic "practice" but something with substance. For letters: "The letter A makes the sound 'ah' — it's called a vowel because you make it with your mouth open and your voice on. Consonants like B and D are different — you use your lips or tongue to block the air." For numbers: "When we count to 5, each number is one more than the last. Mathematicians call this a sequence." For shapes: "A triangle always has three sides and three angles — 'tri' means three in Latin, like tricycle has three wheels." Model the task with real explanation, then invite your child to try. Support their attempts by asking questions that build metacognition: "Was that one harder? What made it tricky?" Let them explore and repeat in their own way.
 
 3. **Discovery** (remaining time):
-   Ask curious questions: "What letter does this look like?" and "What do you notice?" Allow your child to teach you or play "teacher" with the materials. Follow their lead for what to practice next. Support their own creative extensions of the learning task.
+   Build metacognition by asking questions about their thinking process: "How did you figure that out?" "Which one was hardest? Why do you think so?" "What would you do differently next time?" Allow your child to teach you or play "teacher" with the materials — explaining things to someone else is one of the most effective ways to strengthen understanding (researchers call this the "protege effect"). Follow their lead for what to practice next, steering toward deliberate practice on the challenging parts rather than comfortable repetition of what they already know.
 
 4. **Wrap-Up** (2-3 min):
    Signal ending time gently: "We have time for one more practice, then we'll finish." Reflect on what was practiced and celebrate specific efforts: "Today we practiced letters. You tried so hard!" Discuss what they learned and make cleanup part of the learning experience: "Let's put all our letters away in the right box."

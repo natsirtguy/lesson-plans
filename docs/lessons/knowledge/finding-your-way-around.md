@@ -14,6 +14,10 @@ Children explore spatial awareness and navigation skills by learning how to iden
 
 **Route**: The path or way you take to get from one place to another. A route is like a map in your head of how to get somewhere. For example, the route from home to school might pass the park, then the library, then the school building.
 
+**Cardinal directions**: The four main directions — North, South, East, and West. These never change no matter where you are or which way you're facing. The sun rises in the East and sets in the West every single day, which is how people figured out directions thousands of years ago. A compass has a magnetic needle that always points North because the Earth itself is a giant magnet.
+
+**Map**: A picture of a place drawn from above, as if you were a bird looking down. Maps use symbols and a smaller scale to represent real places — so one inch on a map might equal one mile in real life. Cartography is the science of making maps, and cartographers have to decide what details to include and what to leave out.
+
 ## Learning Song
 
 **Tune**: Wheels on the Bus
@@ -104,7 +108,7 @@ Children will create and navigate a simple indoor obstacle course or path using 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Point out the landmarks you've set up and talk about what makes each one special and easy to remember. Ask the child, "Which landmark is biggest?" or "Which one is your favorite color?" Help them understand that these items will help them remember where to go on their special route.
+   Point out the landmarks you've set up and talk about what makes each one special and easy to remember. Ask the child, "Which landmark is biggest?" or "Which one is your favorite color?" Introduce cardinal directions: "The sun comes in through that window in the morning, so that direction is East. The opposite wall is West." Help them understand that these items will help them remember where to go on their special route, just like real navigators use landmarks and cardinal directions.
 
 2. **Exploration** (8-10 min):
    Guide the child through the route one time together, narrating directions: "We're walking toward the big pillow. That's our landmark! Now we turn right—can you feel which way is right? Now we go toward the stuffed animal!" Let them walk the route again independently while you follow along, offering encouragement. Then switch roles: have the child guide you through the path, using the landmarks to give YOU directions.
@@ -121,7 +125,7 @@ Children will create and navigate a simple indoor obstacle course or path using 
 Keep the route very simple with only 2-3 landmarks. Use clear, simple language: "Go to the pillow. Now go to the chair." Offer more physical guidance and hand-holding. Focus on one-step directions at a time. Consider placing favorite toys at each landmark as motivation. Keep the session shorter (10 minutes).
 
 **3-4+ years**:
-Create a more complex route with 5-6 landmarks. Use multi-step directions: "Walk to the pillow, then turn left toward the chair." Challenge them to find different routes or shortcuts. Ask them to create their own landmarks and describe their route. Introduce compass directions (north/south/east/west) in simplified form. Have them draw a simple map of the path they created.
+Create a more complex route with 5-6 landmarks. Use multi-step directions: "Walk to the pillow, then turn left toward the chair." Challenge them to find different routes or shortcuts. Ask them to create their own landmarks and describe their route. Introduce cardinal directions properly: "North, South, East, West — the sun always rises in the East. A compass has a magnetic needle that points North because the Earth is a giant magnet." Have them draw a simple map of the path they created — explain that a map shows the room from above, like a bird would see it. Talk about scale: "This small drawing represents our whole big room."
 
 ### Extension Ideas
 
@@ -148,7 +152,7 @@ Create a more complex route with 5-6 landmarks. Use multi-step directions: "Walk
 
 1. **Daily Navigation Practice**: Point out landmarks during regular outings (trips to the grocery store, walks around the neighborhood). Ask your child to identify landmarks and describe how they help us find our way: "Remember this big tree? We're getting close to the park."
 
-2. **Create a Simple Map**: Draw a basic picture of your route together, labeling landmarks with simple words or pictures. This helps children visualize the connection between the real space and a map representation, building pre-literacy and spatial reasoning skills.
+2. **Create a Simple Map (Cartography)**: Draw a basic picture of your route together from a bird's-eye view, labeling landmarks with simple words or pictures. Explain that this is what cartographers do — they represent real places on paper, using symbols for different things. Talk about scale: "Our whole room fits on this one piece of paper because we drew everything smaller." This helps children understand the fundamental abstraction that maps provide.
 
 3. **Practice Real-Life Navigation**: Let your child lead you from one room to another: "Take me to the kitchen!" or "Show me the way to your bedroom." Praise their navigation: "You remembered exactly how to get there!"
 
