@@ -6,13 +6,13 @@ Children explore compassion and stewardship through imaginative role-play where 
 
 ## Vocabulary
 
-**Compassion**: A feeling of caring deeply about someone else's feelings and wanting to help them feel better. When you see a sad friend and give them a hug, or when you gently care for a hurt animal.
+**Habitat**: The natural environment where an animal lives, which provides everything it needs to survive — food, water, shelter, and the right temperature. A fish's habitat is water; a polar bear's habitat is Arctic ice. When an animal loses its habitat, it can't survive — that's why habitat destruction is the biggest threat to wildlife.
 
-**Rescue**: To save someone or something that is in trouble and bring them to a safe place. A firefighter rescues people from danger, or you rescue a lost toy animal and give it a safe home.
+**Veterinarian**: A doctor who specializes in animal medicine. Veterinarians study anatomy (body structure), diagnose illnesses, perform surgery, and prescribe medicine — just like human doctors, but they need to understand many different species. A cat's body works very differently from a bird's body.
 
-**Nurture**: To care for and help something grow strong and healthy by giving it what it needs. You nurture a plant with water and sunlight, or you nurture a baby animal by feeding it and keeping it warm and safe.
+**Herbivore / Carnivore / Omnivore**: Animals classified by what they eat. Herbivores (like rabbits and horses) eat only plants — their flat teeth are designed for grinding leaves. Carnivores (like cats and hawks) eat other animals — their sharp teeth are designed for tearing meat. Omnivores (like dogs, bears, and humans) eat both plants and animals.
 
-**Stewardship**: The care and responsibility you take for things or creatures that depend on you. When you're a good steward of animals, you make sure they have food, shelter, and love.
+**Thermoregulation**: How an animal controls its body temperature. Warm-blooded animals (mammals and birds) make their own body heat — that's why a puppy feels warm when you hold it. Cold-blooded animals (reptiles, amphibians, fish) rely on their environment for warmth — a lizard basks in the sun because it can't warm itself up internally.
 
 ## Learning Song
 
@@ -98,23 +98,21 @@ Children will transform a play space into an animal shelter or rescue center, th
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Show a toy animal: "Oh no! There are animals who need our help. Some are lost, some are lonely, and some need food and care."
-   - Explain: "We're going to open a special animal rescue center. Your job is to rescue and care for these animals so they feel safe and loved."
-   - Ask: "What do you think animals need? How can we help them feel better?"
+   - Show a toy animal: "Animals who are lost or hurt need a special kind of help. Real animal rescuers need to know about each animal — what it eats, what habitat it needs, and how its body works."
+   - Explain: "We're going to be veterinarians and rescue workers today. A veterinarian is an animal doctor. But to help an animal, you first need to know: is this animal a herbivore, carnivore, or omnivore? Is it warm-blooded or cold-blooded? What habitat does it need?"
+   - Hold up a toy: "Is this dog a herbivore or an omnivore? Dogs are omnivores — they eat meat AND plants."
 
 2. **Rescue Phase** (4-6 min):
    - Invite child to find and "rescue" each animal, bringing them one at a time to the shelter
-   - Ask about each: "Is this animal okay? What do you think it needs?"
-   - Point out: "Look how gently you're picking up that animal!"
-   - Model the rescue mindset: "This puppy looks scared. Let's help it feel safe."
+   - For EACH animal, ask: "What kind of animal is this? Is it a herbivore, carnivore, or omnivore? Is it warm-blooded or cold-blooded?"
+   - Give real information: "This is a cat — cats are carnivores. See how cats have sharp teeth? Those are for tearing meat. And cats are warm-blooded mammals, so this kitty makes its own body heat."
+   - "This is a lizard — lizards are cold-blooded. That means they can't warm themselves up. They need a warm habitat with a heat lamp. That's thermoregulation."
 
 3. **Care and Nurturing** (8-10 min):
-   - Demonstrate making a habitat: "This bear is cold. Let's make a cozy nest with blankets."
-   - Invite child to feed animals: "What does this animal eat? Let's give it food in a bowl."
-   - Encourage ongoing care: "Does this one need water? Should we give it a soft bed?"
-   - If appropriate, do pretend bathing or medical care: "This animal needs help. Let's give it a bandage."
-   - Ask questions naturally: "How do you think this animal feels now? Is it happy? Does it feel safe?"
-   - Use vocabulary naturally: "You're showing compassion by being so gentle." "You're nurturing that animal."
+   - Build species-appropriate habitats: "This bear needs a forest habitat with space to move. Bears are omnivores — they eat berries AND fish. And they're warm-blooded, so they grow thick fur for winter."
+   - Feed animals correctly: "What does a rabbit eat? Rabbits are herbivores — they eat hay, vegetables, and leafy greens. Their flat teeth are for grinding plants. We can't give a rabbit meat!"
+   - Veterinary play with real concepts: "Let's be veterinarians. First, we check the heartbeat — mammals have four-chambered hearts. Then we check: is the animal eating? Is its habitat right? Does it have fresh water?"
+   - Compare animals: "The puppy is warm to touch because it's warm-blooded. If we had a pet frog, it would feel cool — because frogs are cold-blooded and don't make their own heat."
 
 4. **Wrap-Up** (2-3 min):
    - Walk through the shelter together: "Let's check on all our animals. Are they safe? Are they happy?"
@@ -126,22 +124,21 @@ Children will transform a play space into an animal shelter or rescue center, th
 ### Age Adaptations
 
 **2-3 years**:
-- Start with just 2-3 animals to avoid overwhelming the child
-- Use very simple, concrete language: "Puppy is cold. Give it blanket." "Kitty is hungry. Give it food."
-- Focus on basic care (feeding, wrapping in blankets) rather than complex role-play
-- Expect more parallel play and imitation than independent problem-solving
-- Be the main caretaker with child helping
+- Start with 2-3 familiar animals (dog, cat, bird)
+- Use the real terms with simple pairings: "Kitty is a carnivore — that means it eats meat." "Puppy is warm-blooded — feel how warm it is!"
+- Focus on one key distinction: herbivore vs. carnivore (what does it eat?)
+- Model matching food to animal type: "Plants for the rabbit. Meat for the cat."
 - Keep activity to 10-15 minutes
-- Provide very active adult modeling and guidance
+- Repeat the key terms frequently — "herbivore" and "carnivore" become familiar through repetition
 
 **3-4+ years**:
-- Introduce multiple animals and complex rescue scenarios
-- Encourage child to create their own stories: "What happened to this animal? How can we help?"
-- Add role-play elements: "Now you be the veterinarian. This animal is sick."
-- Introduce animal facts naturally: "This animal eats plants. Can we find plant food?"
-- Encourage dialogue and problem-solving: "The animal looks lonely. What can we do?"
-- Sustain 20-30 minutes with complex care routines
-- Allow child to lead the activity while you support and ask questions
+- Introduce 5-8 animals across different classifications (mammals, birds, reptiles, fish)
+- The child plays veterinarian: "What's your diagnosis? Is this animal in the right habitat?"
+- Teach the three diet types with teeth comparisons: flat teeth = herbivore, sharp teeth = carnivore, both = omnivore
+- Add thermoregulation: sort animals into warm-blooded and cold-blooded groups. Discuss what each needs in its habitat.
+- Create habitat cards: forest, ocean, desert, Arctic — and match animals to their correct habitat. "Can a polar bear live in the desert? Why not?"
+- Introduce animal classification: "Mammals have fur and feed babies milk. Birds have feathers and lay eggs. Reptiles have scales and are cold-blooded."
+- Sustain 20-30 minutes with complex veterinary scenarios and habitat-building
 
 ### Extension Ideas
 

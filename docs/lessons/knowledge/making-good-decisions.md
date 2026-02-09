@@ -6,13 +6,13 @@ Children learn that decisions are choices we make every day, and that thinking a
 
 ## Vocabulary
 
-**Consequence**: What happens as a result of a choice or action. If you choose to run in the grass, the consequence might be getting tired. If you choose to be gentle with a toy, the consequence is the toy stays nice.
+**Trade-off**: When you choose one thing, you give up something else — that's a trade-off. If you choose to play with blocks, you trade off time you could spend painting. Every decision has a trade-off because you can't do everything at once.
 
-**Option**: A choice you can pick from several possibilities. At snack time, you might have the option to eat an apple or a banana.
+**Consequence**: What happens as a result of a choice or action — the effect that follows a cause. If you choose to run in the grass, the consequence might be getting tired. If you choose to be gentle with a toy, the consequence is the toy stays nice. Every choice creates a chain of consequences.
 
-**Decision**: Making a choice between two or more things. When you decide whether to play with blocks or paint, you are making a decision.
+**Prefrontal cortex**: The front part of your brain, right behind your forehead, that helps you think before you act. When you stop and think instead of grabbing a toy, your prefrontal cortex is working! In young children, this part of the brain is still growing, which is why pausing to think takes practice.
 
-**Safe**: Free from harm or danger. Holding hands when crossing the street is safe. Playing too rough with the dog is not safe.
+**Cost-benefit analysis**: Thinking about what you gain (the benefit) and what you lose (the cost) before making a choice. If you eat your dessert first, the benefit is sweetness now, but the cost might be a tummy ache. Real decision-makers — doctors, engineers, even astronauts — use cost-benefit analysis every day.
 
 ## Learning Song
 
@@ -105,48 +105,46 @@ Children engage in "Choice Scenarios" where they practice making decisions throu
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Say: "Today we're learning about decisions—that means making choices. Every day, we make lots of decisions. Some decisions are really good ones, and some need practice. Let's explore together!"
-   Show a simple scenario (e.g., "Here's a choice: Someone has a toy you want. What do you do?").
-   Use an excited, conversational tone. Validate that decisions can be tricky.
+   Say: "Today we're learning about decisions — that means making choices. Your brain has a special part right here (touch forehead) called the prefrontal cortex that helps you think before you act. It's like your brain's decision-making headquarters! Let's practice using it."
+   Show a simple scenario (e.g., "Here's a choice: You want a toy someone else has. What could you do?").
+   Explain: "Every choice has a trade-off. If you grab the toy, the trade-off is your friend feels sad. If you wait, the trade-off is you don't get it right away — but you keep the friendship."
 
 2. **Exploration** (8-10 min):
-   Introduce the sorting activity: "I have some choice cards. For each one, we'll decide: Is this a good choice, or does it need practice?"
+   Introduce the sorting activity: "I have some choice cards. For each one, we'll do a cost-benefit analysis — that means we'll think about what you gain and what you lose."
    Show the first card slowly. Ask: "What's happening in this picture?"
-   Guide the child to think: "What happens when we make this choice? Is it safe? Is it kind?"
+   For each card, model cost-benefit thinking: "If we share, the benefit is both friends are happy. The cost is you use the toy less. If you don't share, the benefit is you keep the toy, but the cost is your friend feels left out. Which has more benefits?"
    Place the card in the appropriate bin together.
-   Continue with 5-7 more scenarios, letting the child do most of the sorting with your guidance.
-   Celebrate good choices: "That's a good choice! It keeps everyone safe and happy."
-   For "needs practice" choices, be gentle: "This one needs practice. Let's think about a better way."
+   Continue with 5-7 more scenarios. For each, ask: "What's the trade-off? What's the consequence?"
+   Reinforce: "Your prefrontal cortex is working hard right now — you're thinking before acting!"
 
 3. **Discovery** (4-5 min):
-   Pick one "needs practice" scenario and role-play a better choice.
-   Use props or stuffed animals: "Let's pretend we're friends who both want the same toy. What's a good decision?"
-   Guide the child to suggest or act out solutions (sharing, taking turns, playing together, asking for help).
-   Repeat with 1-2 more scenarios if time allows.
-   Ask reflection questions: "What made that a good choice? Who felt happy?"
+   Pick one "needs practice" scenario and role-play different choices.
+   Use props or stuffed animals: "Let's pretend we're friends who both want the same toy. Let's think of three different options and do a cost-benefit analysis for each one."
+   Guide the child to compare solutions: sharing, taking turns, playing together, or finding a different toy. Ask: "Which option has the most benefits and the fewest costs?"
+   Introduce the idea that sometimes the best decision isn't obvious: "Sometimes two choices both have good parts and hard parts. That's a real trade-off, and it's okay to take time to think."
 
 4. **Wrap-up** (2-3 min):
-   Summarize: "You just learned about making good decisions! When you have a choice, you can stop and think: Is it safe? Is it kind? Will it make people happy?"
-   Give specific praise: "You made great choices today about [specific scenario]. That shows you're thinking!"
-   Offer a bridge: "This week, notice all the big and small decisions you make. You're a great decision-maker!"
+   Summarize: "You practiced using your prefrontal cortex today! When you have a choice, you can do a cost-benefit analysis: What do I gain? What's the trade-off? What are the consequences?"
+   Touch forehead together: "Your prefrontal cortex is still growing — every time you stop and think, you're making it stronger."
+   Give specific praise: "You thought about trade-offs today — that's what scientists and leaders do when they make important decisions!"
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use 4-5 simple scenarios instead of 8-10; focus on very concrete choices (safe/not safe, gentle/not gentle)
-- Keep role-play very brief and fun rather than problem-solving focused
-- Use puppets or stuffed animals to model choices (less pressure on child)
-- Use single words or very short phrases: "Safe choice!" or "Uh-oh, not safe"
-- Celebrate participation and any thinking attempt, not just correct answers
-- May need significant adult guidance in sorting; focus on the fun of trying
+- Use 4-5 simple scenarios with very concrete choices (safe/not safe, gentle/not gentle)
+- Keep role-play brief; use puppets to model choices (less pressure on child)
+- Simplify cost-benefit to two parts: "If you do this, what happens?" (consequence) and "Is that what you want?" (evaluation)
+- Touch forehead to introduce prefrontal cortex: "Your thinking brain is right here!"
+- Still use the real terms — say "trade-off" and "consequence" even if the child won't fully grasp them; the exposure matters
+- May need significant adult guidance; celebrate any thinking attempt
 
 **3-4+ years**:
 - Include 7-10 scenarios with more nuance (e.g., "telling the truth vs. being scared to tell the truth")
-- Extend role-play to full problem-solving: "What else could we do?" and "Why is that a good choice?"
-- Introduce a simple decision-making chart: "When I make a choice, I think: Is it safe? Is it kind? Am I being a good friend?"
-- Ask: "What do you think will happen if we make this choice?" (consequences)
-- Challenge: "Can you think of another good choice for this problem?"
-- Encourage independent sorting with minimal prompts
+- Introduce explicit cost-benefit charts: draw a simple T-chart with "Benefits" on one side and "Costs" on the other
+- Discuss that the prefrontal cortex is the last part of the brain to fully develop — "Even grown-ups are still learning to use theirs!"
+- Introduce **opportunity cost**: "When you chose to play blocks, the opportunity cost was painting. You can't do both at the same time."
+- Ask: "Can you think of a decision where both choices have good trade-offs?" (genuine dilemmas, not just right/wrong)
+- Challenge: "What would a scientist do? They'd gather information before deciding — let's try that!"
 
 ### Extension Ideas
 

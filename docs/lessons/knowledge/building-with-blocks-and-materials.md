@@ -6,13 +6,13 @@ Children discover the joy of construction by stacking, arranging, and creating s
 
 ## Vocabulary
 
-**Construct**: To build or put things together in a purposeful way. When you construct a tower with blocks, you are carefully placing each piece to create something new. Children construct when they stack blocks higher and higher.
+**Center of gravity**: The point where all the weight of an object is balanced. When a tower's center of gravity is directly above the base, it stands. When blocks lean too far to one side, the center of gravity shifts past the edge of the base — and gravity pulls the whole thing down. That's why structures with wide bases are more stable than narrow ones.
 
-**Structure**: A building or framework that is made from multiple pieces held together in a particular way. A house is a structure made of walls, a roof, and a foundation. Your block tower is a structure you created.
+**Compression**: A pushing force that squeezes material together. When you stack blocks, the bottom block is under compression — all the weight above is pushing down on it. Real buildings use strong materials like stone and concrete on the bottom because they resist compression well.
 
-**Foundation**: The solid base that supports and holds up the entire structure. Just like a house needs a strong foundation to stand safely, your block structure needs a solid foundation of blocks on the bottom to keep it from toppling over.
+**Load**: The weight or force that a structure must support. The blocks on top are the load that the blocks on the bottom must carry. Engineers calculate loads to make sure buildings won't collapse. A bridge's load includes its own weight plus the cars and people on it.
 
-**Balance**: When something is steady and even, not leaning to one side or about to tip over. A balanced structure stays upright because the weight is distributed evenly. When you carefully place blocks, you are learning to balance your creation.
+**Structural engineer**: A person who designs buildings, bridges, and other structures by understanding forces like gravity, compression, and tension. Structural engineers figure out what shapes and materials will hold up the most load without collapsing. The triangle is the strongest shape in engineering because it can't be pushed out of shape without breaking a side.
 
 ## Learning Song
 
@@ -95,26 +95,24 @@ In this hands-on exploration, your child will discover how blocks fit together, 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Begin by showing your child one block and naming it. Ask, "What can we do with this block?" Stack two blocks to show them how blocks can go on top of each other. Say something like: "When we put blocks on top of each other, we are constructing. We are building something new!" Invite your child to try stacking with you: "Can you put a block on top of mine?"
+   Begin by holding one block high and letting go (onto a soft surface): "Gravity pulled that block down. Gravity is the force that pulls everything toward the ground. When we build, we're working AGAINST gravity — trying to stack things up while gravity tries to pull them down."
+   Stack two blocks: "Now the bottom block is under compression — that means the top block's weight is pushing down on it. The bottom block has to be strong enough to carry that load." Invite your child: "Can you put a block on top? Now the bottom block carries even more load!"
 
 2. **Exploration** (8-12 minutes):
-   Let your child freely explore the blocks. They may:
-   - Stack them into towers
-   - Arrange them in lines
-   - Knock them down and rebuild
-   - Create open structures
-   - Transport them from place to place
-
-   Your role is to observe and occasionally extend the play with open-ended questions: "I wonder what happens if we make the foundation even bigger?" or "Tell me about your structure—what is it?"
+   Let your child freely explore the blocks. As they build, narrate the physics:
+   - When stacking: "Every block you add increases the load on the bottom blocks. That's compression."
+   - When something leans: "The center of gravity is shifting. See how it's leaning? The center of gravity is moving past the edge of the base."
+   - When it falls: "Gravity won! The center of gravity moved outside the base. What could we change to keep it inside?"
+   - Try different base widths: "Let's test: a tower with a one-block base vs. a three-block base. Which one can go taller before falling? That's because a wider base keeps the center of gravity supported."
+   - Ask: "What would a structural engineer do to make this stronger?"
 
 3. **Discovery** (3-5 minutes):
-   Guide your child toward observation and thinking:
-   - "What happens when we stack too many blocks on top and don't have a strong foundation?"
-   - "I notice your tower is leaning—what could we do to balance it?"
-   - "Can you show me where the foundation is in your structure?"
-   - "This structure is very tall—how did you make it so strong?"
+   Guide hands-on experiments:
+   - "Try making a triangle shape with blocks. Now push on it. Try making a square shape. Push on it. Which one changes shape? The triangle is the strongest shape in engineering because it can't deform without breaking a side."
+   - "Stack a heavy block on top and a light block on the bottom. Now swap them. Which arrangement is more stable?" (Heavy on bottom = lower center of gravity = more stable.)
+   - "Real structural engineers use these exact same principles to build skyscrapers, bridges, and stadiums. They calculate every load and make sure the center of gravity stays supported."
 
-   If a structure falls, reframe it as learning: "Your structure tumbled! That's how we figure out what works and what we need to try differently."
+   If a structure falls: "That's useful data! A structural engineer would study why it fell and redesign."
 
 4. **Wrap-up** (2-3 minutes):
    Sit back and admire the creations together. Take a moment to photograph or sketch the structure if your child is interested. Ask: "What was your favorite part of building?" or "What do you want to build next time?" Return materials to their container together, turning cleanup into cooperative play.
@@ -122,10 +120,10 @@ In this hands-on exploration, your child will discover how blocks fit together, 
 ### Age Adaptations
 
 **2-3 years**:
-Keep structures simple and focus on the joy of stacking. Your child may mostly enjoy placing blocks and knocking them down—this is perfect for their developmental stage and helps them understand cause and effect. Use larger, easier-to-grip blocks. Provide lots of narration about what they're doing ("You're stacking!" "It fell down!"). Let them play freely without pressure to create a specific structure. Expect short attention span (5-10 minutes); have other activities nearby.
+Keep structures simple. Knocking towers down is great — narrate the physics: "Gravity pulled it down! The center of gravity went past the edge." Use larger blocks and focus on one concept at a time: gravity (things fall when unsupported), and compression (bottom blocks carry the load). Say "gravity" and "compression" naturally as you play — the words become familiar through repetition. Let them experiment with knocking down and rebuilding. Expect short attention span (5-10 minutes).
 
 **3-4+ years**:
-Introduce planning conversations: "What are you going to build?" Encourage taller structures and more complex arrangements. Ask your child to describe their structure and explain how they kept it balanced. Introduce natural materials like cups or tubes alongside blocks. Suggest themed building ("Let's build a house for the doll" or "Can you make a bridge?"). These children can sustain longer play (15-20+ minutes) and will enjoy the challenge of making structures with specific purposes.
+Introduce structural engineering challenges: "Can you build a bridge between two books that holds a toy car? That's a load test!" Teach the triangle principle explicitly — have them build both triangle and square frames and test which is stronger. Introduce the concept of tension (pulling forces) alongside compression (pushing forces): "In a bridge, the top is under compression and the bottom is under tension — being pulled apart." Suggest themed builds: "Build the tallest tower you can — but it has to survive me blowing on it. Think about the center of gravity!" These children can sustain 15-20+ minutes and enjoy engineering challenges.
 
 ### Extension Ideas
 

@@ -6,13 +6,13 @@ Children learn about economics, social interaction, and community commerce by ru
 
 ## Vocabulary
 
-**Vendor**: A person who sells goods or services at a market or stall. When you see someone at a farmer's market selling fresh vegetables from their stand, that person is a vendor.
+**Supply and demand**: Two forces that determine what things cost. Supply is how much of something is available. Demand is how many people want it. When lots of people want something but there isn't much of it (low supply, high demand), the price goes up. When nobody wants something (low demand), the price drops. That's why a rare toy costs more than a common one.
 
-**Transaction**: An exchange where money or goods are traded between a buyer and a seller. When you give a coin and receive an item in return, that's a transaction.
+**Scarcity**: When there isn't enough of something for everyone who wants it. Scarcity is the fundamental problem of economics — there's never enough of everything for everyone. If you have only one special painted rock, it's scarce, and people might pay more for it. If you have twenty plain rocks, they're abundant and cost less.
 
-**Commerce**: The activity of buying and selling goods—the business that happens when people exchange things they need or want. Markets, stores, and yard sales are all examples of commerce happening in your community.
+**Profit**: The money left over after you subtract what something cost to make from what you sold it for. If you spend 2 coins buying supplies to make a necklace and sell it for 5 coins, your profit is 3 coins. Profit is the reason businesses exist — it's the reward for creating something people want.
 
-**Negotiate**: To discuss and agree on terms, such as price or how much something should cost. When you ask "How much does this cost?" and the seller suggests a price, you're beginning to negotiate.
+**Medium of exchange**: Anything people agree to use as money. Before coins existed, people used barter — trading goods directly (a chicken for a bag of wheat). But barter is hard because both people need what the other has. Money solves this: it's a medium of exchange that everyone accepts, so you can sell your eggs to one person and use the money to buy bread from someone else.
 
 ## 🎵 Learning Song
 
@@ -99,16 +99,22 @@ Children set up and run a pretend market stall, taking turns as shopkeepers and 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Introduce the concept with enthusiasm: "Today we're going to run our own market! Have you ever been to a store or farmer's market? We're going to be shopkeepers and customers!" Show the market stall and items. Demonstrate the role with energy, starting as the customer to model what the activity looks like. Explain expectations: "We treat the money and items carefully and use kind words with our customers."
+   "Today we're going to learn about economics — that's the science of buying, selling, and why things cost what they cost." Show the play money: "Before money existed, people used barter — trading one thing directly for another. But barter was hard: you'd have to find someone who wanted YOUR stuff and had what YOU wanted. Money is a medium of exchange — everyone agrees it has value, so it makes trading much easier."
+   Show the stall: "You're going to be a shopkeeper. But here's the key question: how do you decide what price to charge?"
 
 2. **Exploration & Setup** (3-5 minutes):
-   Invite the child to help arrange the stall and examine items. Ask: "Which of these do you think people will want to buy first?" As the child handles items and arranges them, narrate their actions: "You've arranged this so nicely—look how the colors catch the light!" Observe their interest in organizing and describing items.
+   Have the child arrange items and SET PRICES. Guide with economics: "Think about scarcity — is this item rare or common? If you only have ONE of this pretty rock, it's scarce. People might pay more for it." "Is there demand for this item? Will people want it? Things people want a lot cost more."
+   Help them make price tags using supply-and-demand reasoning: "You have lots of these blocks — high supply. So the price should be lower. But this sparkly stone is the only one — low supply, high demand. That should cost more."
 
 3. **Role-Play as Shopkeeper** (8-15 minutes):
-   Take the customer role while the child runs the market. Approach with interest: "Hello! What are you selling today?" Allow the child to describe items, show them, or respond in any way. Select an item and ask: "How much does this cost?" Accept the child's price suggestion, pay with play money, and thank them warmly. Repeat with several purchases, varying which items you choose and how much you question. Watch for engagement, language use, and comfort with the role.
+   Take the customer role. Ask about prices and challenge them: "Why does this cost 5 coins but that one costs 2? That's a lot! Is there a reason?"
+   Introduce negotiation: "I'll offer you 3 coins instead of 5. Will you accept?" If they refuse: "That's smart — you know the demand is high."
+   After a few purchases, run a supply-and-demand experiment: "You sold three of your painted rocks. Now you only have one left. What happens to the price?" (It should go up — lower supply!) "That's supply and demand in action."
+   Calculate profit together: "This necklace cost you 2 coins to make. You sold it for 5 coins. Your profit is 3 coins. Profit is what's left after you subtract your costs."
 
 4. **Switch Roles** (5-10 minutes):
-   The child becomes the customer and you become the shopkeeper. Welcome them warmly: "Welcome to my market!" Let them browse without pressure to choose immediately. Celebrate their selections: "You found the shiny stone! Would you like to buy it?" Complete simple transactions and repeat with new selections. Notice whether the child initiates choices or needs prompts, and whether they feel confident in this role.
+   The child becomes the customer. Price items deliberately: some cheap, some expensive. Ask them: "Why do you think this one costs more?" Test their understanding: "I only have one of these left and everyone wants it. What do you think will happen to the price?"
+   Introduce the concept of value: "Would you rather buy two cheap items or one special expensive one? That's a trade-off — another economics concept."
 
 5. **Wrap-Up** (2-3 minutes):
    Signal the ending: "We're going to finish our market soon. Let's make this the last round of shopping." Ask reflection questions: "What was your favorite part? Did anyone buy what you thought they would?" Praise specific observations: "You were such a helpful shopkeeper—customers felt welcome!" Make cleanup collaborative: "Let's put all the items back together in this basket." Give the child a specific cleanup role ("You're in charge of collecting the coins"), and count items together during cleanup.
@@ -116,10 +122,10 @@ Children set up and run a pretend market stall, taking turns as shopkeepers and 
 ### Age Adaptations
 
 **2-3 years**:
-Use only 4-6 simple items (colorful blocks, toy animals, natural objects like stones or pinecones) to avoid overwhelming. Adult takes the lead role as shopkeeper; the child observes and participates minimally at first. Use very simple language: "Want to buy this?" and "One coin, please." Expect short engagement (10-15 minutes). Skip complex pricing—use "one coin" for everything or exchange without money. The child may primarily enjoy handing items back and forth. Provide high adult support and don't push for longer participation.
+Use 4-6 simple items. Simplify to the core concept of exchange: "Give a coin, get an item. That's a transaction." Introduce scarcity concretely: hold up two items, take one away. "Now there's only one left — it's scarce!" Use "medium of exchange" naturally: "This coin is our medium of exchange — it's what we use instead of trading." Keep engagement to 10-15 minutes. The child may primarily enjoy the exchange ritual, and that's real economics learning.
 
 **3-4+ years**:
-Increase item variety to 8-15 pieces with different prices. Introduce more complex pricing with numbers (1-5) or picture price cards. The child can create items to sell (painted rocks, playdough sculptures, drawn pictures). Set up two stalls and let children swap between customer and seller roles. Add a writing component where the child creates signs or names for their market stall. Encourage more sophisticated dialogue: "What would you like? Do you have enough coins?" Practice counting coins and completing transactions. Invite the child to suggest new items, new rules, or special deals as "marketing concepts." Duration can extend to 30-40 minutes with natural breaks.
+Use 8-15 items with varied prices based on supply and demand reasoning. Have the child calculate profit: "You made this for 1 coin of supplies. You sold it for 4 coins. How much profit?" Introduce competition: set up two stalls and discuss why customers might choose one over the other (price, quality, variety). Explore price changes: when an item is nearly sold out, ask the child if they should raise the price. Introduce the concept of barter vs. money: try trading items directly without coins to experience the "double coincidence of wants" problem. "You want my apple but I don't want your rock. Barter doesn't work here — that's why money was invented!" Duration can extend to 30-40 minutes.
 
 ### Extension Ideas
 
