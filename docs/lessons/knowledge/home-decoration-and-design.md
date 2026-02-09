@@ -6,13 +6,13 @@ In this lesson, children explore how to make their own special spaces beautiful 
 
 ## Vocabulary
 
-**Design**: The plan or pattern you create by choosing and arranging things in a specific way. When you plan out where colors go, where pictures hang, or how furniture sits in your room, you are designing your space.
+**Symmetry**: When both sides of something look the same, like a mirror image. Our brains are wired to find symmetry beautiful — most faces are symmetrical, most buildings are symmetrical, and interior designers use symmetry (matching lamps on each side of a bed, for example) to make rooms feel balanced and calm. *Asymmetry* (deliberate imbalance) can also be used on purpose to create visual interest.
 
-**Decorate**: To make something look more beautiful or special by adding pretty things to it. When you add stickers to a wall, hang pictures, or put flowers in a vase, you are decorating.
+**Complementary Colors**: Colors that sit opposite each other on the color wheel — red and green, blue and orange, yellow and purple. When placed side by side, complementary colors create strong *contrast* that makes each color look more vivid. Interior designers use this principle: a blue room with orange cushions looks more striking than a blue room with blue cushions.
 
-**Arrange**: To place things in a careful order or pattern. When you move your toys to organized spots, line up pillows on a bed, or place books on a shelf, you are arranging them.
+**Proportion**: The size relationship between objects in a space. A huge painting on a tiny wall looks wrong because the *proportion* is off — the painting is too big relative to the wall. Good proportion means objects relate to each other and their space in ways that feel harmonious. The ancient Greeks discovered the *golden ratio* (~1.618:1), a mathematical proportion that appears throughout nature and architecture.
 
-**Cozy**: Warm, comfortable, and inviting—a feeling of being comfortable and safe. A cozy space has soft textures, warm colors, good lighting, and makes you feel happy and secure.
+**Ergonomics**: The science of designing spaces and objects to fit the human body comfortably and efficiently. A chair that's the right height for your legs, a table that's the right height for your arms, a light positioned where you need it — that's ergonomic design. Poor ergonomics causes discomfort; good ergonomics makes a space feel naturally comfortable.
 
 ## Learning Song
 
@@ -103,44 +103,38 @@ Children will create their own decorated space by arranging and personalizing a 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Show the child a blank poster board or shoebox and say: "We're going to design and decorate a special room! This is YOUR space, and you get to choose everything that makes it cozy and beautiful."
-   - Ask: "What colors make you happy? What things do you like in your room?" Listen to their ideas.
-   - Explain: "We can use these colors, pictures, and materials to create your perfect room."
+   - Introduce design as a science: "Interior designers don't just pick things that look pretty — they use real principles to make rooms work. Today we're going to learn some of these principles: *symmetry*, *complementary colors*, *proportion*, and *ergonomics*."
+   - Demonstrate symmetry by placing two matching objects on either side of the board: "See how balanced this looks? That's *symmetry* — both sides match. Our brains find symmetry calming."
+   - Then move one object off-center: "Now it's *asymmetrical*. Does it feel different? Designers use both on purpose."
 
 2. **Exploration** (8-10 min):
-   - Invite the child to choose colors first: "What color do you want for the walls? The floor?" Have them select colored paper and glue it onto the poster board as a background.
-   - Offer stickers, pictures, and materials: "What do you want in your room? Do you want a bed? Pictures? Plants? Soft things?" Let the child choose and arrange items before gluing them down.
-   - Encourage texture exploration: "Feel this fabric—it's soft and cozy, like a rug or curtain. Where should we put it?" Let them touch different materials.
-   - Ask guiding questions: "What makes a room cozy?" "What colors do you like together?" "What's your favorite thing you added?"
+   - Start with color: Show the color wheel. "What color do you want for walls? Now let's find its *complementary color* — the one directly opposite on the wheel. Blue walls? The complement is orange — let's use orange for accent pieces like cushions. See how they make each other pop?" Let the child experiment with complementary vs. similar color pairs and discuss which creates more *contrast*.
+   - Introduce *proportion*: "This picture is big — should it go on the big wall or the small wall? If we put a huge picture on a tiny wall, the *proportion* is wrong. Things need to match the size of their space." Let them experiment with placing different-sized cutouts.
+   - Apply *ergonomics*: "Where should the chair go? Near the table, so you don't have to reach far — that's *ergonomic* design, making things fit your body."
 
 3. **Discovery** (3-5 min):
-   - Once the room design is complete, step back together and admire it
-   - Ask: "Tell me about your room! What did you choose? Why do these colors look nice together?"
-   - Point out their design choices: "I notice you chose soft fabrics for the rug and curtains—that makes it very cozy!"
-   - Discuss: "How does this room make you feel? Happy? Calm? Why?" Help them connect their choices to feelings.
+   - Analyze the completed room using design vocabulary: "Is your room symmetrical or asymmetrical? Which complementary colors did you use? Is the proportion of the furniture right for the room size?"
+   - Discuss how design affects *psychology*: "Warm colors like red and orange make rooms feel energetic. Cool colors like blue and green make rooms feel calm. That's not just opinion — scientists have measured that colors actually change your heart rate and mood. This is called *environmental psychology*."
 
 4. **Wrap-up** (2-3 min):
-   - Display their creation in a prominent spot or take a photo
-   - Say: "You are a great designer! You made thoughtful choices about colors, textures, and things that make a space feel good. You can do this in real rooms too!"
-   - Transition: "Now let's go play!" or "Let's read a story about homes."
+   - Review: "Today you used four real design principles: *symmetry* for balance, *complementary colors* for contrast, *proportion* for things fitting their space, and *ergonomics* for body comfort."
+   - Connect to real world: "Every room you walk into was designed by someone using these same ideas — next time you're in a restaurant or store, look for the symmetry and color choices."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use a shoebox instead of poster board (easier to handle and less overwhelming)
-- Provide fewer choices (3-4 colors, 5-6 stickers or pictures)
-- Use pre-cut shapes and pre-attached materials—the child's job is to arrange and place them with glue or tape
-- Focus on the tactile experience: "Feel how soft this is! Should we put it in our room?"
-- Keep language simple and use lots of narration of what they're doing
-- Allow more freeform gluing without worrying about neatness
+- Use a shoebox (natural 3D room) with fewer choices (3-4 colors)
+- Focus on *symmetry* — the most concrete principle: "Put a pillow here... now put a matching one on the other side. *Symmetry*!"
+- Demonstrate *complementary colors* with two vivid examples: "Blue wall, orange pillow — see how bright they look together?"
+- Keep *proportion* concrete: "This big couch fits here, but this tiny chair goes in the small corner"
+- Name the science simply: "That's *symmetry*!" every time they balance something
 
 **3-4+ years**:
-- Use full-size poster board and encourage more complex designs
-- Offer more choices and let them make more independent decisions
-- Introduce the concept of "balance" and "working together": "Where should we put bright colors? Where should we put calm colors?"
-- Ask them to explain their choices: "Why did you pick that color?" "What does this make you think of?"
-- Challenge them to create specific room types: "Design a bedroom," "Design a play area," "Design a calm, quiet space"
-- Encourage them to draw or add details with markers after arranging items
+- Full poster board with complete color wheel reference. Let them plan using all four principles before gluing
+- Introduce the *golden ratio* concept: "There's a special number — about 1.6 — that shows up everywhere in nature: in sunflower spirals, seashell curves, and in buildings people find beautiful. Designers place the most important object about one-third from the edge, not in the center — this creates more interesting *proportion*"
+- Discuss *environmental psychology*: "Hospitals use calming blue-green colors because they lower stress. Fast-food restaurants use red and yellow because those colors make people eat faster. Colors aren't just pretty — they change how your brain works"
+- Challenge them to design rooms for specific moods: "Design a room that makes people feel calm" (cool colors, symmetry, soft textures) vs. "Design a room that makes people feel excited" (warm colors, asymmetry, bold contrast)
+- Introduce *negative space*: "The empty parts of a room matter too — a room crammed full feels cluttered, but leaving open space makes it feel peaceful"
 
 ### Extension Ideas
 

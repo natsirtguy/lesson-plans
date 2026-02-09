@@ -6,13 +6,13 @@ This lesson explores the foundational social skills of cooperation and sharing, 
 
 ## Vocabulary
 
-**Cooperate**: Working together with someone toward a shared goal. When you and a friend build a block tower together, you are cooperating because you both want to make the tower taller.
+**Theory of Mind**: The ability to understand that other people have their own thoughts, feelings, and desires that are different from yours. When you realize your friend wants the red block because *they* like red (even though you prefer blue), you're using theory of mind. This is one of the most important cognitive skills humans develop — most children begin developing it between ages 3 and 5.
 
-**Share**: Giving someone a turn with something you're using, or letting them use it with you. When you have crayons and let your friend use the red one while you use blue, you're sharing.
+**Collective Action**: When a group of individuals work together to achieve something none of them could accomplish alone. One person can't build a bridge, but a hundred people cooperating can. Most of human civilization — cities, farms, hospitals, space programs — exists because of collective action.
 
-**Teammate**: A person who works with you to accomplish something together. Your friend becomes your teammate when you both decide to build a puzzle or create a painting together.
+**Reciprocal Altruism**: Helping someone now with the expectation that they (or others) will help you later. Scientists have found this in many animal species — vampire bats share blood meals with hungry bats who shared with them before. Human cooperation is largely built on this principle: I share with you, you share with me.
 
-**Patience**: Staying calm and waiting your turn without getting upset or rushing. Patience helps you feel less frustrated when it's your friend's turn with the toy before yours.
+**Fairness**: The concept of equal or equitable treatment. Even very young children and some primates have an innate sense of fairness — experiments show that capuchin monkeys reject food rewards if they see another monkey getting a better reward for the same task. Fairness is a biological instinct, not just a social rule.
 
 ## Learning Song
 
@@ -94,37 +94,24 @@ In this activity, children will engage in cooperative play by working together t
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Introduce the idea: "Today we're going to build/create something TOGETHER. We'll share the blocks and help each other. When we work as a team, we can make something bigger and more fun!"
-   Point out one material basket: "We have ONE set of blocks. We need to share and take turns so everyone gets to build."
+   Introduce the science behind cooperation: "Today we're going to discover something amazing — working together lets us build things that are *impossible* alone. Scientists call this *collective action*. One ant can't carry a leaf, but fifty ants working together can carry something a hundred times heavier than any single ant. We're going to test whether the same is true for us!"
 
 2. **Exploration** (8-10 min):
-   Guide children to begin building: "Let's make a tall tower together!" or "We're going to paint a big picture as a team."
-   Encourage specific cooperative actions:
-   - "Can you pass the blue block to your friend?"
-   - "Your turn to add a block. Then it will be their turn."
-   - "I see you both wanting the red crayon. Can you work together? Maybe you both color parts of the same picture?"
-   - "Tell your friend what you want to build and listen to their idea too."
-   Allow children to naturally discover sharing—don't force it, but guide conflicts toward solutions.
+   First, give each child blocks and ask them to build the tallest tower they can alone in 2 minutes. Measure the results. Then combine all blocks and build together. The group tower will be taller — this demonstrates collective action concretely. During the build, name the cognitive work: "You just thought about what *your friend* wants, not just what you want — scientists call that *theory of mind*. You realized they wanted the red block, so you offered it. That's a very sophisticated thing your brain just did." When sharing happens naturally, label it: "You shared your block and your friend shared back — that's *reciprocal altruism*. You help them, they help you, and both of you end up with a better tower."
 
 3. **Discovery** (3-5 min):
-   Ask reflection questions:
-   - "What did we make together?"
-   - "Did you need help from your friend? How did that feel?"
-   - "What was your favorite part about sharing the blocks/crayons?"
-   - "Could you have made this tower/picture all by yourself? Why not?"
-   Point out the completed creation: "Look how big this is! We made this TOGETHER by sharing and cooperating. Isn't that amazing?"
+   Compare the solo towers to the group tower. Ask: "Why is the group tower bigger?" (More blocks, more hands, more ideas.) Introduce the *fairness* concept: "Did everyone get equal turns? How did it feel when someone took more turns? Even baby monkeys get upset about unfairness — scientists tested this with capuchin monkeys and grapes!" Discuss: "Could one person build a house? A bridge? A city? Almost everything humans have built required collective action — people cooperating."
 
 4. **Wrap-up** (2-3 min):
-   Let children show or display their creation. Give specific praise: "I noticed you waited patiently for your turn." "You asked your friend for help—that was great teamwork!"
-   Sing the song together while doing the gestures.
+   Summarize: "Today we proved that collective action works — our group tower was taller than any solo tower. We used *theory of mind* to understand what our friends wanted. We practiced *reciprocal altruism* — sharing back and forth. And we discovered that *fairness* matters to everyone, even animals."
 
 ### Age Adaptations
 
 **2-3 years**:
-Start with very simple shared activities. Use larger blocks and materials that are easier to handle. Focus on just two children cooperating at first. Use simpler language: "You share. I wait. Then my turn." Keep activities short (10 minutes). Expect more parallel play than true cooperation—this is normal development. Model sharing frequently: "I'm sharing my crayons with you."
+Focus on concrete demonstrations of collective action — the solo-vs-group tower comparison works perfectly. Use "you help me, I help you — that's *reciprocal*" in simple exchanges. Expect parallel play (playing near each other but not truly together) — this is developmentally normal at this age; *theory of mind* is still developing. When a child shows awareness of another's feelings or wants, name it enthusiastically: "You noticed they wanted that! Your brain is learning to understand other people's minds." Keep to 10 minutes with high adult support.
 
 **3-4+ years**:
-Increase complexity by adding more children (3-4) to the group. Introduce simple rules: "Everyone takes a turn before anyone goes twice." Use more sophisticated vocabulary: "We're cooperating." Ask children to plan together before starting: "What should we build?" Encourage children to problem-solve conflicts about materials themselves with gentle guidance. Extend to longer projects that take multiple days.
+Introduce the *free rider problem*: what happens when one person doesn't contribute but still benefits? ("If everyone builds and one person just watches, is that fair?") This is a core concept in economics and political science. Run experiments with asymmetric resources — give one child more blocks and discuss fairness. Introduce *negotiation*: "You both want the same block. Can you make a deal? Maybe trade for a different block." Discuss how animals cooperate: wolves hunt in packs (collective action), chimpanzees share food with allies (reciprocal altruism), cleaner fish remove parasites from larger fish (mutualism). Let children plan complex builds together, practicing theory of mind through discussing what each person wants the structure to look like.
 
 ### Extension Ideas
 

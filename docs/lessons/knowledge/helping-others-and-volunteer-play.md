@@ -6,13 +6,13 @@ In this activity, children engage in pretend play scenarios where they help othe
 
 ## Vocabulary
 
-**Volunteer**: Someone who chooses to help others without being asked to do so. When you volunteer, you offer your time and energy to help make something better for someone else—like helping a friend build a block tower.
+**Altruism**: Helping someone else even when you get nothing in return. Scientists study why altruism exists — one reason is *kin selection* (we instinctively help family because they share our genes), and another is *reciprocal altruism* (I help you now, you help me later). Even very young children show altruistic behavior, which suggests it's partly built into our biology.
 
-**Empathy**: The ability to understand and share the feelings of another person. When you see someone sad and you feel sad too, and want to help them feel better, that's empathy.
+**Division of Labor**: When people in a community each do different specialized jobs instead of everyone doing everything. A baker bakes, a doctor heals, a farmer grows food. This *specialization* makes the whole community more efficient — one expert baker makes better bread than 100 people each baking their own.
 
-**Community**: A group of people who live or work together and help and support one another. Your family is a small community, and your neighborhood is a larger community.
+**Interdependence**: When people depend on each other to survive and thrive. No person can do everything alone — farmers need doctors, doctors need builders, builders need farmers. This web of mutual need is what holds communities together and is the reason civilizations formed.
 
-**Reciprocal**: Taking turns helping each other back and forth. When you help someone and they help you, that's reciprocal helping—you both care for each other.
+**Civic Duty**: The responsibility that members of a community have to contribute to the common good. Firefighters, librarians, and garbage collectors all perform civic duties — jobs that benefit everyone. Volunteering is civic duty you choose freely.
 
 ## Learning Song
 
@@ -95,24 +95,24 @@ Children explore helping through dramatic play and role-playing as community hel
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show a picture of a community helper and ask: "What does this person do? How do they help others?" Model a simple helping action: "Watch me pretend to be a baker. I'm making bread to share with friends!" Describe what children will do: "Today, we're going to pretend to help people in our community. You can be a helper too!"
+   Introduce the concept of interdependence: "Nobody in the world can do everything by themselves. Can a baker fix a broken bone? Can a doctor grow wheat? That's why communities exist — people with different skills help each other. This is called *interdependence* — everyone depends on everyone else." Show pictures of community helpers and ask: "What does this person specialize in? What would happen if nobody did this job?"
 
 2. **Exploration** (5-8 min):
-   Show available dress-up items and props one at a time. Ask: "Who could wear this hat? What would they do?" Let children choose a prop or costume piece. Introduce one helper scenario: "Let's play store! I'm the baker, and you're my customer." Model the scenario first: "I'm wrapping this pretend bread. Here you go! Thank you for coming!"
+   Set up a community with *division of labor*. Assign specific roles with real content about what each specialist knows: "The doctor checks your heart rate and listens to your lungs with a stethoscope — they learned about the human body for many years. The baker knows that yeast is a living organism that makes dough rise by releasing carbon dioxide gas. The mail carrier plans routes — the most efficient path to deliver to every house." Let children pick a role and learn one real fact about that profession.
 
 3. **Discovery** (8-12 min):
-   Ask guiding questions: "How does the customer feel? What should we say?" Rotate roles so children experience both helper and person being helped. Introduce new scenarios gently: clinic play, delivering items, cleaning up together. Demonstrate simple helping tasks: "I'm helping sweep the floor!" Support children playing together: "You're both helpers! Great teamwork!"
+   Run the community and demonstrate interdependence: "The baker is hungry but has no vegetables — they need the farmer. The farmer is sick but can't heal herself — she needs the doctor. The doctor's roof is leaking — she needs the builder." Ask: "What would happen if we removed the farmer from our community?" (Everyone goes hungry.) Introduce *altruism*: "Sometimes people help even when they won't get anything back. Scientists call this *altruism*. When you help a stranger pick up dropped groceries, you're being altruistic — you help because it's the right thing, not because you expect a reward."
 
 4. **Wrap-up** (2-3 min):
-   Signal ending: "In a few minutes, we'll finish our helper play." Transition to cleanup by making it part of helping: "Real helpers clean up too!" Reflection question: "Who did you help today in our pretend play? How did it feel?" Share observation: "I noticed how gently you helped your friend. That was so kind!"
+   Reflect on the web of interdependence the children built: "Every helper in our community needed someone else. That's how real communities work — it's a web where everyone is connected." Ask: "What happens when one person stops helping?" Introduce *civic duty*: "Some helping is a *civic duty* — a responsibility we all share to keep the community working. Picking up litter, being kind to neighbors, volunteering — these are things we do because the community needs them."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep scenarios very simple (one helper role at a time). Use familiar, concrete items (real food props, actual dolls). Model extensively with minimal expectation of independent role-play. Focus on following simple actions: handing items, gentle touching. Use lots of verbal narration: "You're giving water to the baby. The baby is happy!" Shorter engagement (15-20 minutes). Provide high adult support with frequent modeling and narration of actions.
+Keep to one or two helper roles. Focus on concrete interdependence: "The farmer grows the food, you're the cook who makes it into dinner — you *need* the farmer!" Use real props and narrate the *division of labor*: "You're the doctor checking the teddy bear's heartbeat — doctors learn about hearts and lungs so they can help people." Name the *altruism* when you see it: "You just helped without being asked — that's called *altruism*!" Shorter engagement (15-20 minutes) with high adult support.
 
 **3-4+ years**:
-Introduce multiple scenarios and encourage children to choose their own helper role. Ask children to create their own helping scenarios: "What kind of helper would you like to be?" Encourage longer narrative play: "Tell me about who you're helping." Support peer collaboration where children organize play together. Introduce problem-solving: "The toy needs help. What should we do?" Create scenarios with more props and multi-step helping tasks. Can sustain 25-30 minutes or longer.
+Build a full community with 4-5 interdependent roles. Challenge children to figure out the dependency chain: "If the truck driver can't deliver, who else is affected?" Introduce the concept of *public goods* — things everyone benefits from but no single person provides alone (roads, parks, clean water). Discuss *reciprocal altruism*: "Why do you think people help strangers? One reason is that if you help others, they're more likely to help you later — scientists call this *reciprocal altruism*." Let children create new community roles and explain why the community needs them. Introduce historical context: "In ancient times, before division of labor, every family had to hunt, build, cook, and heal all by themselves."
 
 ### Extension Ideas
 

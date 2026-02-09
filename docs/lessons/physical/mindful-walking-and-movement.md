@@ -14,6 +14,16 @@ Mindful walking and movement teaches children to move with intentional awareness
 
 **Space Required**: 20-30 feet of clear walking space
 
+## Vocabulary
+
+**Proprioception**: Your body's hidden "sixth sense" — the ability to know where your body parts are in space without looking at them. Close your eyes and touch your nose — you can do it because *proprioceptors* (tiny sensors in your muscles, tendons, and joints) constantly send position data to your brain. Mindful walking enhances proprioception by directing conscious attention to these signals that normally operate below awareness.
+
+**Vestibular System**: The balance system inside your inner ear. Three tiny, fluid-filled semicircular canals detect rotation, and two organs (the utricle and saccule) detect linear acceleration and gravity. When you tilt your head, fluid moves across tiny hair cells that send electrical signals to your brain. Your brain combines vestibular data with proprioception and vision to keep you upright. Slow, deliberate walking challenges and strengthens this system.
+
+**Prefrontal Cortex Attention**: The prefrontal cortex is the brain region that controls *directed attention* — the ability to focus on one thing while ignoring distractions. When you deliberately notice your footsteps instead of thinking about lunch, your prefrontal cortex is actively suppressing competing thoughts. This "attention muscle" strengthens with practice, which is why mindfulness training measurably improves focus and impulse control.
+
+**Mechanoreceptor**: A sensory receptor that responds to physical pressure or deformation. The soles of your feet contain thousands of mechanoreceptors — *Meissner's corpuscles* detect light touch, *Pacinian corpuscles* detect vibration, and *Merkel's discs* detect sustained pressure. When you walk barefoot or step slowly, you activate all these receptor types, sending rich sensory data to your brain's *somatosensory cortex* for processing.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -72,39 +82,31 @@ Mindful walking and movement teaches children to move with intentional awareness
 ### Main Activity (7-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Explain that we're going to take a special walk where we notice everything slowly
-- Show what mindful walking looks like: slow steps, relaxed posture, looking around gently
-- Demonstrate taking one slow step and pausing to notice how the foot feels
-- Emphasize that this is a calm, peaceful walk, not a fast walk
+- Introduce the neuroscience: "Right now, your brain is doing something amazing — it's receiving signals from sensors all over your body. The bottoms of your feet have thousands of *mechanoreceptors* sending touch data. Your inner ears have a *vestibular system* keeping you balanced. And *proprioceptors* in your muscles tell your brain where every body part is. Usually you ignore all this — but today we're going to tune in."
+- Demonstrate one slow step: "Feel your heel touch the ground — that activates *Meissner's corpuscles* (light touch sensors). Now roll forward — feel the pressure shift? That's *Merkel's discs* (pressure sensors). Your *prefrontal cortex* is working right now to keep your attention on your feet instead of wandering."
 
 #### Skill Practice (3-7 minutes)
 
 **Skill breakdown**:
 
-**1. Mindful Stepping**:
-- Stand and take very slow steps
-- After each step, pause for 1-2 seconds
-- Notice how the foot feels touching the ground
-- Feel the weight shifting from one foot to the other
-- Continue for 8-10 steps
+**1. Proprioceptive Walking**:
+- Stand and close eyes briefly: "Can you feel where your feet are without looking? That's *proprioception* — sensors in your muscles and joints telling your brain your body's position"
+- Take very slow steps, pausing after each to notice: "Which part of your foot touched first? Heel, then ball, then toes — that's your gait cycle"
+- Feel weight shifting: "Your *vestibular system* in your inner ear is detecting every shift of weight, keeping you balanced"
 
-**2. Focused Walking**:
-- Walk slowly along predetermined path
-- Focus attention on breathing: in with each few steps, out with each few steps
-- Notice the rhythm of breathing and walking together
-- Keep eyes soft and relaxed, noticing surroundings without rushing
+**2. Mechanoreceptor Walk**:
+- Walk on different surfaces if available (carpet, tile, grass, gravel): "Each surface activates different *mechanoreceptors*. Soft carpet stimulates light-touch sensors. Hard tile stimulates pressure sensors. Gravel activates vibration sensors called *Pacinian corpuscles*"
+- Try barefoot if safe: "Without shoes, you activate far more mechanoreceptors — your brain receives much richer data about the ground"
+- Focus on breathing synchronized with steps: "Your *prefrontal cortex* is coordinating two things at once — walking and breathing. That's directed attention."
 
-**3. Sensory Awareness Walk**:
-- Walk and notice specific senses: What do you see? What do you hear? What do you smell?
-- Pause occasionally to really focus on one sense at a time
-- Touch interesting items along the way (soft leaf, smooth rock, rough bark)
-- Notice textures, colors, and sounds
+**3. Sensory Integration Walk**:
+- Walk and isolate individual senses: "First, only notice what you see — *photoreceptors* in your retina are turning light into electrical signals. Now close your eyes and only notice sounds — *hair cells* in your cochlea are vibrating. Now notice smells — *olfactory receptors* in your nose are detecting airborne molecules"
+- Touch items along the way and describe the specific sensation: "This bark is rough — lots of *mechanoreceptor* signals. This leaf is smooth — fewer, gentler signals"
 
 **Coaching cues**:
-- "Take one slow step. Feel your foot on the ground. Good. Now take another slow step."
-- "Breathe in slowly as you walk... breathe out slowly. In... and out..."
-- "Look around gently. What interesting things do you see?"
-- "This is peaceful, calm walking. We're not in a hurry. We're just noticing."
+- "Feel your heel hit — that's *mechanoreceptors* firing. Roll through to your toes. Your *vestibular system* adjusts your balance with every step"
+- "Your *prefrontal cortex* is keeping your attention on your feet right now. When your mind wanders to something else, notice that — then bring your attention back. That's the exercise"
+- "Each sense uses different receptors that turn physical energy — light, sound waves, pressure, molecules — into electrical signals your brain can read"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -144,26 +146,23 @@ Mindful walking and movement teaches children to move with intentional awareness
 
 ### 2-3 years
 **Modifications**:
-- Keep walk very short (5-10 minutes)
-- Shorter path (10-15 feet of walking)
-- More physical support; hold hands throughout walk
-- Focus on one sense at a time rather than multiple
-- Use very simple language
-- Allow frequent stops and sitting breaks
-- Make it more playful and less "meditation"-like
+- Keep to 5-10 minutes with short path (10-15 feet). Hold hands throughout
+- Focus on one concept: *mechanoreceptors* in feet. "Feel the floor — your feet are sending messages to your brain right now!" Try two surfaces (carpet vs. tile) and ask "Does this feel different? Different *mechanoreceptors* are firing!"
+- Name *proprioception* simply: "Close your eyes — can you feel your arms without seeing them? That's your body's secret sense called *proprioception*!"
+- Touch 3-4 objects and name the sensation type: "Smooth, rough, soft, hard — each one makes different sensors in your fingertips send different signals"
+- Allow frequent stops — attention stamina is limited at this age
 
 **Duration**: 5-10 minutes
 
-**Adult support**: Hand-holding for safety and connection; frequent verbal cues; lots of encouragement
+**Adult support**: Hand-holding, frequent verbal cues naming sensory science, lots of encouragement
 
 ### 3-4+ years
 **Challenges to add**:
-- Longer walks (15-20 minutes)
-- Multiple sensory focuses (notice color AND texture)
-- More independence; adult walks nearby but not always holding hands
-- Add counting elements (count steps, count colors found)
-- Include deeper reflection questions ("How do you feel?" "What was peaceful about the walk?")
-- Incorporate weather awareness ("Feel the breeze on your face")
+- Full sensory isolation exercises: walk 10 steps focusing ONLY on feet (proprioception), then ONLY on ears (auditory), then ONLY on eyes (visual). "Your *prefrontal cortex* is choosing which sensory channel to pay attention to — that's called *selective attention*"
+- *Vestibular challenges*: walk along a line, walk heel-to-toe, walk with eyes closed for 3 steps — all challenge the vestibular system to work harder. "Your inner ear's *semicircular canals* are working overtime right now!"
+- Count heartbeats before and after the walk — mindful walking typically lowers heart rate (parasympathetic activation)
+- Discuss *sensory habituation*: "When you first walk on gravel, it feels intense. After a minute, you barely notice it. Your brain stops paying attention to unchanging signals — that's *habituation*. Mindful walking is about overriding habituation and noticing what your brain usually filters out"
+- Try walking backwards (reverses normal proprioceptive patterns, challenges the cerebellum)
 
 **Duration**: 15-20 minutes
 

@@ -6,13 +6,13 @@ Children set up and operate a simple store, taking on roles as shopkeeper and cu
 
 ## Vocabulary
 
-**Transaction**: An exchange where one person gives money and another person gives something in return, like when you give coins to buy a toy at the store.
+**Supply and Demand**: The relationship between how much of something is available (supply) and how many people want it (demand). When lots of people want something but there isn't much of it, the price goes up. When there's plenty and fewer people want it, the price goes down — this invisible push-and-pull determines almost every price you see.
 
-**Commerce**: The buying and selling of things between people, like when shopkeepers sell items and customers purchase them to use at home.
+**Scarcity**: When there isn't enough of something for everyone who wants it. Scarcity is the fundamental problem of economics — there are limited resources but unlimited wants. That's why we have to make choices about what to buy.
 
-**Currency**: Money that people use to buy things, such as coins or paper bills, which have different values and amounts.
+**Profit**: The money left over after a shopkeeper pays for the items they sell. If a shopkeeper buys apples for 2 cents each and sells them for 5 cents, the profit is 3 cents. Profit is why people open stores — it's their reward for providing things others need.
 
-**Consumer**: A person who buys goods or services for themselves or their family, making choices about what to purchase and what they need.
+**Medium of Exchange**: Something that people agree to use as money — it could be coins, shells, beads, or paper bills. Before money existed, people had to barter (trade item for item), which only worked if each person had exactly what the other wanted. Money solves this problem by being universally accepted.
 
 ## 🎵 Learning Song
 
@@ -98,24 +98,24 @@ Children explore buying and selling through hands-on pretend play. This activity
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Introduce the store by showing the child the items and asking: "Look at all these wonderful things in our store! What would you like to be - the shopkeeper who sells things, or the customer who buys things?" Demonstrate a simple transaction: pick up an item, announce its price, pretend to give money, receive the item. Explain the two roles: "The shopkeeper takes care of the store and sells things. The customer buys things they want."
+   Introduce the store and the economics behind it: "We're going to run a real store! Stores exist because of something called *scarcity* — nobody can make everything they need by themselves. So people specialize: one person grows apples, another bakes bread, and they trade. But trading directly is hard — what if the apple grower doesn't want bread? That's why people invented *money* — a medium of exchange that everyone agrees to accept."
 
 2. **Exploration** (3-5 min):
-   Let the child walk around and examine all the items in the store. Ask questions: "What's your favorite thing? How much does it cost?" Point out the prices and help them read them. Allow them to handle items gently and explore the layout.
+   Set up items with different prices and ask: "Why do you think this toy costs more than this block?" Introduce the concept: "When something is *scarce* — there's only one of it — people want it more, so the price goes up. When there are lots of something, the price goes down. That's called *supply and demand*." Let the child examine items and predict which ones should cost more based on how rare or desirable they are.
 
 3. **Discovery** (10-15 min):
-   Model the shopkeeper role first by saying "Welcome to my store! What would you like to buy?" Let the child pick an item and point to its price. Give them money and let them hand it to you, then place their item in a bag. Praise their transaction: "You gave me the right money!" Then switch roles: "Now you're the shopkeeper and I want to buy something." As the child becomes confident, continue rotating roles naturally. Introduce variations like "I want to buy 2 things" or "I only have 2 pennies - what can I get?" Let the child lead the play.
+   Run the store with real economic principles. The shopkeeper must calculate *profit*: "I bought these items for 2 cents each. If I sell them for 5 cents, I keep 3 cents profit — that's how shopkeepers earn a living." Introduce scarcity experiments: start with 5 of one item, sell them, then announce "Only 1 left!" and ask "Should the price go up or down now that it's scarce?" Let the child experience the *demand* side: "I only have 5 pennies — I want all these things but I can't afford them all. I have to make a *choice*. That's what scarcity means — not enough for everything, so we must decide what matters most."
 
 4. **Wrap-up** (3-5 min):
-   Signal the end: "We've played store for a while. It's almost time to clean up." Ask a reflection question: "What was the best part of playing store today?" Celebrate their role-playing: "You were such a good shopkeeper (or customer)!" Make cleanup part of the game: "Let's put all the items back on the shelf so the store is ready for tomorrow!" Count the money together as you collect it.
+   Count the shopkeeper's profits together: "We started with 10 cents of items and earned 20 cents — that's 10 cents profit!" Ask: "What happened when we had only one toy left? Why did the price change?" Reflect on the key concepts: "Today we learned that prices aren't random — they come from supply and demand. And money exists because bartering was too hard."
 
 ### Age Adaptations
 
 **2-3 years**:
-Use fewer items (5-7 instead of 12) to reduce complexity. Use very simple prices (just 1-2 cents per item). Rely more on adult modeling and participation. Use real coins rather than paper money for sensory engagement. Keep transactions simple with one item at a time. Focus on sensory and social aspects more than accuracy. Adult stays very involved and participates fully.
+Use fewer items (5-7) with simple prices (1-2 cents). Focus on the core exchange: "You give money, I give the item — that's a *transaction*." Demonstrate scarcity concretely: have only one of a popular item and say "It's *scarce* — only one left! Everyone wants it." Use real coins for sensory engagement. Keep profit simple: "I paid 1 cent, I sell for 2 cents, I keep 1 cent extra — that's *profit*."
 
 **3-4+ years**:
-Add more items with varied pricing (5-25 cents). Introduce simple change-making: "That costs 3 cents, you gave me 5, so you get 2 back." Use paper money for more complex math. Have the child write receipts with marks or letters. Multiple customers can take turns with one shopkeeper. Introduce special sales or themes. Allow the child to create price tags and organize the store independently. Introduce shopping lists: "I need to buy 3 things." Take turns for longer periods without adult participation. Encourage dramatic details: "I'm going on a trip and need supplies."
+Run full supply-and-demand experiments. Start the day with items at one price, then change prices based on demand: "Everyone wants the red car — the price goes up to 10 cents!" Introduce *competition*: set up two stores and see how competing sellers lower prices to attract customers. Calculate profit at session end. Discuss *opportunity cost*: "If you spend all your money on the car, you can't buy the book — what's more important to you?" Introduce the concept of *barter* by trying to trade without money and discovering the "double coincidence of wants" problem — both people must want exactly what the other has. Let the child set prices and discover what customers will pay.
 
 ### Extension Ideas
 

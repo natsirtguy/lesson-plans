@@ -6,13 +6,13 @@ This lesson introduces children to the concept that skills develop through repea
 
 ## Vocabulary
 
-**Practice**: Doing something many times so you get better and better at it. When you throw a ball over and over, you're practicing your throwing skill.
+**Myelination**: When you practice something, your brain wraps a fatty substance called *myelin* around the nerve fibers (axons) that control that movement. Myelin acts like insulation on an electrical wire — it makes the signal travel up to 100 times faster. This is literally why practice makes you better: more practice = more myelin = faster, more automatic signals. A professional pianist has heavily myelinated pathways between their motor cortex and their fingers.
 
-**Persistence**: Keeping trying even when something is hard or you don't get it right the first time. When you keep attempting to climb a structure even after you slip, you're showing persistence.
+**Procedural Memory**: The type of memory your brain uses for skills you can do without thinking — riding a bike, tying shoes, throwing a ball. Unlike *declarative memory* (facts you can state), procedural memory is stored in the cerebellum and basal ganglia. That's why you can ride a bike years after learning, even if you can't explain how — the knowledge is stored in a different part of your brain than words.
 
-**Progress**: Getting better and stronger at something because you've been working on it. When you can catch a ball after many tries, that's progress.
+**Cerebellum**: A fist-sized structure at the back of your brain that coordinates movement, balance, and timing. Even though it's only 10% of the brain's volume, it contains more than half of all the brain's neurons. When you practice a physical skill, your cerebellum is refining the timing and coordination of every muscle involved — making movements smoother and more precise with each repetition.
 
-**Skill**: Something you can do well because you've learned it and practiced it many times. Climbing, throwing, drawing, and buttoning are all skills.
+**Deliberate Practice**: Practicing with focused attention on the specific parts you find hardest, not just repeating what you already know. A scientist named Anders Ericsson discovered that experts in every field — musicians, athletes, chess players — got better through *deliberate practice*: identifying weaknesses, working on them specifically, getting feedback, and adjusting. Mindless repetition is less effective than focused, intentional effort.
 
 ## Learning Song
 
@@ -95,50 +95,29 @@ Children will practice a specific gross motor skill (throwing and catching) in a
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - Sit with your child and explain: "Today we're going to practice throwing! When we practice, we do something many times so we get better and better at it."
-   - Demonstrate a gentle throw toward the target
-   - Say: "When you practice, your arm gets stronger and you get better at hitting the target. Let's try!"
-   - Sing a quick verse of the learning song while demonstrating
+   - Explain the neuroscience: "Something incredible happens inside your brain when you practice. There's a part at the back of your head called the *cerebellum* — it coordinates your movements. Every time you throw this ball, your cerebellum adjusts, making tiny corrections. And your brain wraps a substance called *myelin* around the nerve pathways you use — myelin makes signals travel faster. More throws = more myelin = smoother, faster throws. Practice literally changes the physical structure of your brain."
+   - Demonstrate a throw: "Watch — my cerebellum has already been trained for this because I've thrown thousands of times. Your cerebellum is learning right now."
 
 2. **Exploration** (8-12 minutes):
-   - Invite your child to pick up the soft ball
-   - Encourage them to throw it toward the target
-   - Whether they hit the target or not, celebrate the attempt: "You tried! That's great! You're practicing!"
-   - Retrieve the ball and invite them to try again
-   - Continue for 10-15 throws, celebrating each attempt
-   - Optional: Count the successful hits on fingers: "That's one! Now two! Look at your progress!"
-   - Keep the atmosphere playful and non-competitive
+   - Apply *deliberate practice*: don't just throw randomly. "First, let's throw 5 times and see what happens." After 5 throws, analyze: "Which throws went closest? What did your arm do differently on the good ones? *Deliberate practice* means paying attention to what works and doing more of that — not just throwing mindlessly."
+   - Track accuracy: "Throw 1: missed left. Throw 2: missed right. Throw 3: closer! Your cerebellum is adjusting." Explain each correction: "Your brain noticed the ball went too far left, so it told your arm to aim slightly right — that's your cerebellum doing real-time error correction."
+   - Introduce the concept of *procedural memory*: "After enough practice, you'll be able to throw without even thinking about it. That's called *procedural memory* — your cerebellum stores the skill so your conscious mind doesn't have to."
 
 3. **Discovery** (3-5 minutes):
-   - Ask simple questions:
-     - "Did your throw feel different than before? Getting better?"
-     - "How many times did we throw the ball?"
-     - "Do you think we could throw 10 times? Let's count!"
-   - Point out progress: "Your throws are getting stronger! You're really practicing well!"
-   - Let them initiate additional rounds if engaged
+   - Compare early throws to later throws: "Your first throw went here, your tenth throw went there — that's your *myelination* at work! The nerve signals are already getting faster."
+   - Demonstrate the difference between mindless and deliberate practice: throw 3 times while looking away (mindless) vs. 3 times while focusing intently on the target (deliberate). "Which way works better? That's why *deliberate practice* — focused, intentional effort — matters more than just doing something over and over."
 
 4. **Wrap-up** (2-3 minutes):
-   - Celebrate with enthusiasm: "You practiced so hard today! You threw the ball many times and you got better and better!"
-   - Give a special "Practice Award" (sticker, high-five, special praise)
-   - Transition with a song or simple movement activity
+   - Summarize the neuroscience: "Today your *cerebellum* made corrections after every throw. Your brain wrapped *myelin* around the nerve pathways for throwing, making them faster. You built *procedural memory* — skill knowledge stored deep in your brain. And you used *deliberate practice* by paying attention to what worked."
+   - Connect to the real world: "This is exactly how athletes, musicians, and surgeons get good at their skills — the same brain processes, just more practice time."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use larger, lighter targets (5-gallon bucket, large hula hoop)
-- Stand closer to the target (2-3 feet away)
-- Focus on the act of throwing rather than accuracy
-- Keep sessions shorter (8-10 minutes)
-- Provide immediate, enthusiastic celebration for every attempt
-- Use simpler language: "Throw! Try again! Good trying!"
+- Use larger targets closer (2-3 feet). Focus on the *cerebellum's* learning process: "Every throw teaches your cerebellum something new!" Name the brain parts simply: "Your *cerebellum* is at the back of your head — give it a pat! It's working hard right now." Even at this age, demonstrate *deliberate* vs. careless throws: "Watch the bucket... aim... throw! Your brain aims better when your eyes focus on the target." Keep to 8-10 minutes. Celebrate every throw as a myelin-building event: "More myelin! Your brain is getting faster!"
 
 **3-4+ years**:
-- Gradually increase distance to target (4-6 feet)
-- Challenge them to throw different ways (underhand, overhand, sitting)
-- Keep score of successful hits and track progress over sessions
-- Ask them to reflect on their improvement: "Did you do better than yesterday?"
-- Introduce more complex challenges (throwing while standing on one foot, throwing with non-dominant hand)
-- Encourage them to set personal goals: "Can you make 5 hits today?"
+- Introduce *deliberate practice* formally: set specific goals and analyze performance. "Your target is 5 hits out of 10. Let's count." After each set, reflect: "What did your body do differently on the hits vs. misses?" Track progress across sessions on a chart — make *myelination* visible: "See how your accuracy goes up over days? That's myelin building up." Try different skills (catching, balancing, drawing circles) and explain that each uses different neural pathways that need their own *myelination*. Introduce *cross-training*: "Practicing with your left hand builds NEW pathways — your cerebellum has to learn all over again!" Discuss how experts practice: "A concert pianist practices the hardest parts, not the easy parts — that's *deliberate practice*."
 
 ### Extension Ideas
 

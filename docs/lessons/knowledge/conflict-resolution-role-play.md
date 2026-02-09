@@ -6,13 +6,13 @@ Children practice peaceful problem-solving by acting out common conflicts (like 
 
 ## Vocabulary
 
-**Empathy**: Understanding and sharing how someone else feels; imagining what it's like to be in their shoes. When your friend feels sad because you took their toy, empathy means recognizing that sad feeling and caring about it.
+**Amygdala**: A small, almond-shaped structure deep inside your brain that acts as an alarm system. When you feel threatened — someone grabs your toy, says something mean — your amygdala fires and triggers the *fight-or-flight response*: your heart speeds up, your muscles tense, and you feel a surge of anger or fear. This happens *before* your thinking brain can evaluate the situation, which is why children (and adults) sometimes react with hitting or yelling before they think.
 
-**Peaceful**: Calm and free from fighting or meanness; solving problems with words instead of actions. When two friends use calm words to decide who gets the toy first, they are being peaceful.
+**Prefrontal Cortex**: The front part of your brain, right behind your forehead, responsible for planning, decision-making, and impulse control. When you *stop and think* before reacting, that's your prefrontal cortex overriding your amygdala. In young children, the prefrontal cortex is still developing (it doesn't fully mature until around age 25!), which is a biological reason why managing emotions is genuinely harder for children than for adults.
 
-**Compromise**: Finding a solution where both people get something they want or need, even if it's not exactly what they hoped for. Instead of one person getting the toy, you might compromise by taking turns or playing together.
+**Negotiation**: A structured process where two people with different wants try to find a solution that works for both. Real negotiation involves *stating your position* ("I want the toy"), *understanding the other person's position* ("You want it too"), and *generating options* ("We could take turns, share, or find another toy"). Diplomats, lawyers, and business people use negotiation every day — it's one of the most important skills in human society.
 
-**Communicate**: Sharing your thoughts and feelings with words so others understand what you need or feel. When you tell a friend "I'm sad" or "I want a turn," you are communicating.
+**Perspective-Taking**: The cognitive ability to understand a situation from someone else's point of view — what they see, feel, and want. This is related to *theory of mind* (understanding that others have different thoughts than you). Perspective-taking requires your brain to temporarily suppress your own viewpoint and simulate another person's experience — a demanding cognitive task that develops between ages 3 and 7.
 
 ## Learning Song
 
@@ -95,36 +95,31 @@ Children watch you model a conflict scenario, then practice acting out conflicts
 **Activity Flow**:
 
 1. **Introduction** (3-4 minutes):
-   Explain: "Today we're going to practice what to do when friends disagree or can't share. Disagreements happen to everyone, and there are ways to solve them. We're going to act out some situations, kind of like a play, so we can practice what to do when real disagreements happen. Remember, during our practice, we use gentle voices and bodies—no real hitting or yelling, even in pretend."
+   Explain the brain science of conflict: "When someone grabs your toy, a tiny part of your brain called the *amygdala* fires an alarm — DANGER! Your heart speeds up, your muscles get tight, and you feel like hitting or yelling. That's called the *fight-or-flight response* — it's your brain trying to protect you, just like it protected cave people from lions. But here's the thing: a toy dispute isn't a lion. The *prefrontal cortex* — the thinking part right behind your forehead — can tell the amygdala 'calm down, this isn't dangerous, let me handle it.' Today we're going to practice letting our prefrontal cortex take charge."
 
 2. **Exploration** (10-15 minutes):
-   Start with a simple scenario (like two people wanting the same toy). You and the child act it out:
-   - Model the conflict: "I really want this toy!"
-   - Stop the action and ask: "What's the problem here?"
-   - Guide solutions: "What could we do instead of fighting? We could take turns, play together, or find another toy."
-   - Act out the solution together
-   - Then present another scenario for the child to practice: "Let's pretend we both want this toy. Show me what you could do or say."
-   - Give choices if needed, but let the child lead the solution
-   - If the child defaults to hitting or yelling, gently redirect: "In our practice, we use words instead. What could you say?"
+   Start with a scenario (two people want the same toy). Act it out, then freeze:
+   - "What just happened in your brain? Your *amygdala* fired — you felt angry. Now let's activate the *prefrontal cortex*. Take a deep breath — that actually sends a signal to your amygdala to stand down."
+   - Teach *negotiation* steps: "Step 1: State your position — 'I want the toy.' Step 2: *Perspective-taking* — ask what THEY want and why. 'What do you want? Why?' Step 3: Generate options — 'We could take turns, play together, or find two toys.' Step 3 is where you find a solution that works for both."
+   - Practice the full negotiation sequence. When the child defaults to grabbing or yelling: "That's your *amygdala* talking — it reacted before your *prefrontal cortex* could think. Let's try again: deep breath first, then use the negotiation steps."
 
 3. **Discovery** (3-5 minutes):
-   After each scenario, ask:
-   - "What was the problem in that story?"
-   - "How did the character feel?"
-   - "What did they do to solve it?"
-   - "Have you ever had this problem?"
-   - "What could you do if this happens to you?"
+   After each scenario, analyze the brain science:
+   - "What did your amygdala want you to do?" (Hit, grab, yell)
+   - "What did your prefrontal cortex help you do instead?" (Talk, negotiate, compromise)
+   - Practice *perspective-taking*: "Now pretend you're the other person. How did THEY feel? What did THEY want? This is hard because your brain has to temporarily stop thinking about what YOU want and imagine being someone else."
+   - "Every time you practice this, the connections between your prefrontal cortex and your amygdala get stronger — it gets easier to stay calm during real conflicts."
 
 4. **Wrap-up** (2-3 minutes):
-   Bring everyone back together and say: "You did such a good job practicing how to solve problems! Today we learned that we can use our words and ask for help when we disagree. Everyone has disagreements sometimes. Now you know what to do. I'm so proud of how you're learning to solve problems!"
+   Summarize: "Today you practiced the most important brain skill there is: letting your *prefrontal cortex* override your *amygdala*. You practiced *negotiation* — stating positions, *perspective-taking*, and generating solutions. These are the same skills that diplomats use to prevent wars and that business people use every day. And every time you practice, those neural pathways get stronger."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep scenarios very simple and concrete (just sharing a toy or taking a turn). Use puppets or stuffed animals more than having the child act themselves. Repeat the same scenario several times—children learn through repetition. Don't expect the child to generate solutions; guide them to specific options like "take turns" or "play together." Focus more on naming feelings ("You're upset!") than on elaborate problem-solving. Accept simpler solutions and provide lots of positive modeling. Expect this to take 15-20 minutes with high adult support.
+Keep scenarios simple (one toy, two people). Use puppets — it's easier for children to identify brain processes in characters than themselves. Name the brain parts with every scenario: "Teddy's *amygdala* just fired — he feels angry! Can we help Teddy's *prefrontal cortex* take over?" At this age, *perspective-taking* is just emerging, so model it explicitly: "Teddy wants the ball. Bunny wants the ball too. They want the SAME thing — that's why there's a conflict." Focus on the deep-breath-first habit — this physiologically activates the parasympathetic nervous system and gives the prefrontal cortex time to engage. 15-20 minutes with high adult support.
 
 **3-4+ years**:
-Introduce more complex scenarios (someone left you out, someone took your turn, you disagree about the rules). Ask children to generate their own solutions rather than offering choices. Discuss why characters did things: "Why do you think they did that?" Ask children to think about the other person: "How do you think your friend felt?" Have children role-play multiple solutions to the same problem. Create scenarios based on actual conflicts they've experienced. Let children in pairs role-play with minimal adult involvement. Introduce problem-solving steps in order: "First we use our words, then we listen, then we find a solution." Discuss what to do when first solutions don't work.
+Full *negotiation* practice with multi-step conflicts. Teach *perspective-taking* as a formal exercise: "Before you respond, tell me what the OTHER person is thinking and feeling." This is cognitively demanding — praise the effort. Introduce the concept of *win-win* vs. *win-lose* outcomes: "A compromise where both people get something is called *win-win*. When only one person gets what they want, that's *win-lose* — and it usually creates MORE conflict later." Discuss the biology: "Your *prefrontal cortex* won't be fully developed until you're about 25 years old — that's why managing emotions is genuinely hard right now. Every time you practice, you're building those neural connections ahead of schedule." Create scenarios based on real conflicts and have children practice generating multiple solutions before choosing one.
 
 ### Extension Ideas
 
