@@ -83,6 +83,16 @@ Note: The former `arts-culture-lesson-generator` has been merged into `knowledge
 
 **Note on Write operations**: Subagents may require approval for Write tool use depending on Claude Code settings. If auto-approval is not enabled, lesson plan content will need to be extracted from subagent output and saved manually.
 
+### Educational Philosophy: Intellectual Rigor for Young Children
+Lesson plans should be fun and hands-on, but **never dumbed down**. Young children — even toddlers — are capable of engaging with genuinely complex ideas. They won't understand everything, and that's fine. Early exposure to real concepts (real vocabulary, real mechanisms, real phenomena) primes children to see the world differently and builds a foundation for deeper understanding later.
+
+**Guiding principles:**
+- Use real scientific/technical terms alongside simple explanations. Say "photosynthesis" and then explain it — don't replace it with "how plants eat."
+- Include actual content, not just themed play. A lesson on photosynthesis should teach that plants convert light into energy using chlorophyll, not just that "plants need sun."
+- Trust that partial understanding has value. A 2-year-old who hears "carbon dioxide" during a plant lesson won't memorize the carbon cycle, but they're building neural pathways and comfort with scientific language.
+- Activities should be genuinely engaging, not condescending. The goal is wonder and discovery, not simplified busywork dressed up in a topic's theme.
+- Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
+
 ### Lesson Plan Structure
 All lesson plans follow age-appropriate educational design (ages 2-4+):
 - Activity summaries with duration and materials
