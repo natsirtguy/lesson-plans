@@ -17,7 +17,7 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     "Physical World - Life Sciences": [
         "Cell (basic unit of life)", "Animal behaviors and types", "Plant growth and types",
         "Human body and functions", "Ecosystems and habitats", "Life cycles and development",
-        "Food chains and relationships"
+        "Food chains and relationships", "Photosynthesis"
     ],
     "Physical World - Physical Sciences": [
         "Chemical elements and reactions", "Forces and motion", "Light and sound", "Heat and cold",
