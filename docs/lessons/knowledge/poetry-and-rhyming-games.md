@@ -6,13 +6,13 @@ Poetry and rhyming games introduce young children to the rhythmic patterns, soun
 
 ## Vocabulary
 
-**Rhyme**: Two or more words that have the same ending sound. When you say "cat" and "hat," they rhyme because they both end with the "at" sound. Rhyming helps your ear notice patterns in language, like in songs and poems.
+**Phoneme**: The smallest unit of sound in a language. The word "cat" has three phonemes: /k/ /a/ /t/. English has about 44 phonemes — every word you've ever said is built from combinations of these 44 sounds. When children learn to hear individual phonemes, they're developing *phonological awareness* — the brain skill that is the single strongest predictor of later reading ability.
 
-**Rhythm**: The repeating pattern of sounds and beats in music, poetry, or speech. When you clap along to a song or chant words in a steady beat, you're creating rhythm. Rhythm makes language feel musical and fun.
+**Meter**: The pattern of stressed (LOUD) and unstressed (quiet) syllables in poetry that creates its rhythmic beat. "TWIN-kle TWIN-kle LIT-tle STAR" has a da-DUM da-DUM pattern called *trochaic meter*. "The CAT in the HAT" has a da-DUM pattern called *iambic meter*. Meter is mathematical — it's a repeating pattern of strong and weak beats, just like a time signature in music.
 
-**Pattern**: A repeated arrangement of sounds, movements, or objects that happens in the same way over and over. In a rhyming poem, you notice a pattern of rhyming words: "cat, hat, mat, sat." Spotting patterns helps your brain predict what comes next.
+**Alliteration**: When words close together start with the same sound: "Peter Piper picked a peck of pickled peppers." Alliteration works because our brains notice the repeated *onset* (the consonant sound at the beginning of a syllable). Tongue twisters use alliteration to deliberately confuse your mouth's motor planning.
 
-**Verse**: A line or group of lines in a poem or song. A verse is where the words and ideas come together with rhythm and rhyme. Think of a verse as a "chunk" of a song or poem that tells part of the story.
+**Onomatopoeia**: Words that sound like what they describe — "buzz," "splash," "crack," "sizzle," "pop." These words exist in every language but sound different: a rooster says "cock-a-doodle-doo" in English, "kikeriki" in German, and "kokekokkō" in Japanese. Onomatopoeia shows how language tries to imitate the real world through sound.
 
 ## Learning Song
 
@@ -95,24 +95,24 @@ Children explore how words sound alike by playing with rhyming sounds, matching 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start with enthusiasm: "Today we're going to play with words that sound funny together!" Begin with a familiar rhyme they may know: "Mary had a little LAMB... is there something that rhymes with LAMB?" (pause for response). Say pairs of rhyming words with exaggerated pronunciation: "CAT...HAT! DOG...LOG! BEE...TREE!" Pause after each pair to let them notice: "Did you hear how those words sound alike?"
+   Introduce the science of language sounds: "Words are made of tiny sound pieces called *phonemes*. 'Cat' has three: /k/ /a/ /t/. 'Hat' has three: /h/ /a/ /t/. They *rhyme* because they share the same ending phonemes — /a/ /t/. Your brain is amazing at noticing when sounds match!" Demonstrate by breaking words apart: "CAT — /k/ /a/ /t/. HAT — /h/ /a/ /t/. Same ending! BEE — /b/ /ee/. TREE — /t/ /r/ /ee/. Same ending!"
 
 2. **Exploration** (5-10 min):
-   Play interactive rhyming games. **Object Matching Game**: Pull out rhyming objects from a bag one at a time. "I have a CAT - what rhymes with cat?" (show hat if child struggles). Let child match the pair. **Action Rhyming**: Pair rhymes with movements: "JUMP and BUMP" - jump when you say jump, bump when you say bump. "SPIN and WIN" - spin around, then celebrate "winning." **Simple Rhyming Chant**: Teach one simple rhyme with motions: "Star, star, bright star / Who are you from so far?" (reach up high, then look far away). Repeat 2-3 times.
+   **Phoneme Matching Game**: Pull rhyming objects from a bag. "I have a CAT — it ends in /at/. What else ends in /at/?" (hat, mat, bat). "Your brain just did *phonological awareness* — it isolated the ending phonemes and matched them!" **Alliteration Challenge**: "Now let's try words that START the same: Big Blue Ball, Silly Slippery Snake. That's called *alliteration*." Try tongue twisters: "She sells seashells" — "It's hard because your mouth has to keep switching between similar sounds — your motor cortex gets confused!" **Meter Clapping**: Clap the beats in "TWIN-kle TWIN-kle LIT-tle STAR" (da-DUM da-DUM da-DUM-da-DUM). "That pattern of strong and weak beats is called *meter* — it's like a drumbeat inside the words."
 
 3. **Discovery** (3-5 min):
-   Ask questions to guide observation: "What rhymes with [word]?" "Do [word] and [word] rhyme? Do they sound the same?" "Can you make up a word that rhymes with [word]?" Encourage the child to suggest rhymes. Act out rhyming pairs together: "Let's be CAT and HAT - you be the cat and I'll be the hat!" Create silly rhymes: "What rhymes with nose? TOES! HOSE! THOSE! CLOTHES!" Model enthusiasm and playfulness with language without making it feel like a lesson or test.
+   **Onomatopoeia hunt**: "Some words sound like what they mean — 'SPLASH!' 'BUZZ!' 'POP!' 'CRASH!' These are called *onomatopoeia*." Make the sounds together. "A dog goes 'woof' in English but 'wan wan' in Japanese and 'gav' in Russian — different languages invented different onomatopoeia for the same sound!" **Create a couplet** together: two lines that rhyme. "The cat sat on the mat / It wore a funny hat." Identify: "The rhyming words are at the end — mat and hat share the /at/ phonemes. Two rhyming lines together are called a *couplet*."
 
 4. **Wrap-up** (2-3 min):
-   Signal transition: "We're going to do one more favorite rhyme before we finish." Sing or chant a favorite rhyme from the session together one more time. Celebrate: "You were such a great rhyming friend today! You found so many words that rhyme!" Reference something from the activity for the next transition: "Remember how [word] and [word] rhyme? Keep listening for rhyming words as we play outside!"
+   Review the linguistics: "Today we learned that words are made of *phonemes*, that *meter* gives poems a beat pattern, that *alliteration* is when words start with the same sound, and that *onomatopoeia* means words that sound like their meaning. You practiced *phonological awareness* — hearing the sound patterns inside words. That's one of the most important skills for learning to read."
 
 ### Age Adaptations
 
 **2-3 years**:
-Focus on rhyming sounds rather than understanding the concept. Use more repetition and familiar songs (Twinkle Twinkle, Mary Had a Little Lamb). Pair rhymes with physical movements and exaggerated facial expressions. Use objects/pictures rather than abstract word pairs. Accept all attempts - at this age, recognizing sounds is the goal. Keep activities to 10-15 minutes maximum. Provide high adult support - model all activities, provide lots of demonstrations, expect mostly listening rather than participating.
+Focus on phoneme recognition through repetition. Use familiar songs and exaggerate the rhyming endings: "Twinkle twinkle little STAR, how I wonder what you ARE — hear how STAR and ARE sound the same at the end?" Clap *meter* together — the beat is the most accessible concept at this age. Play simple *alliteration* games: "Big blue ball! Silly soft sock!" Use *onomatopoeia* freely — toddlers love "SPLASH!" "BOOM!" "POP!" Name it: "That word sounds like what it means — that's *onomatopoeia*!" Keep to 10-15 minutes with high adult modeling.
 
 **3-4+ years**:
-Introduce the concept that rhymes have the same ending sounds. Play more interactive rhyming games with back-and-forth exchanges. Encourage children to generate their own rhymes: "Can you make up a rhyming word?" Create simple rhyming couplets together: "The cat sat on the mat / It wore a funny hat." Use rhythm instruments to emphasize rhyming patterns. Introduce rhyming picture books and follow along. Play rhyming guessing games: "I'm thinking of something that rhymes with shoe..." Create rhyming chants about the child or classroom. Can sustain 20-25 minutes with varied activities.
+Explicitly teach *phoneme* segmentation: break words into individual sounds and rebuild them. Introduce *syllable* counting (clap each syllable: "el-e-phant" = 3 claps). Compose *couplets* together and identify the rhyme scheme. Use instruments to tap out *meter* patterns — distinguish between "da-DUM" (iambic) and "DUM-da" (trochaic). Try *alliteration* tongue twisters and discuss why they're hard (the motor cortex has to rapidly switch between similar mouth positions). Explore *onomatopoeia* across languages: "A pig goes 'oink' in English, 'groin-groin' in French, 'buu-buu' in Japanese." Introduce *simile*: "fast *like* a cheetah" and *metaphor*: "the sun is a golden coin." These are *figurative language* — words used in creative, non-literal ways. Can sustain 20-25 minutes.
 
 ### Extension Ideas
 
