@@ -6,13 +6,13 @@ Children explore how technology responds to their actions through safe, hands-on
 
 ## Vocabulary
 
-**Technology**: Tools and machines that help us do things, like tablets, computers, and toys with buttons. When you press a button on a remote control and the TV turns on, you're using technology.
+**Circuit**: A loop that electricity travels through to make things work. Inside every electronic toy, electricity flows from the battery, through tiny wires, to the part that makes light or sound, and back again. When you press a button, you close the circuit — you complete the loop so electricity can flow. When you let go, the loop breaks and the electricity stops.
 
-**Interactive**: When something responds to what you do. A game that changes when you touch the screen is interactive because it talks back to you with sounds, lights, or moving pictures.
+**Input**: Something you do to a device — pressing a button, tapping a screen, or speaking into a microphone. The device detects your input and responds. Your finger pressing a button is the input; the sound or light that happens is the **output**. Every piece of technology works this way: it takes an input and produces an output.
 
-**Explore**: To investigate something carefully by looking, touching, and trying different things. When you press different buttons to see what happens, you are exploring.
+**Sensor**: A part inside a device that detects something — light, touch, sound, or movement. A touchscreen has sensors under the glass that feel where your finger presses. A toy that plays music when you clap has a sound sensor (a microphone) listening for noise.
 
-**Device**: A machine or tool made for a specific job. A phone is a device that makes calls, and a tablet is a device you can touch to see pictures and play games.
+**Processor**: The tiny "brain" inside electronic devices that decides what to do when it receives an input. When you press a button on a toy, the signal travels through the circuit to the processor, which decides "play this sound" or "turn on this light." Even simple toys have processors making decisions.
 
 ## Learning Song
 
@@ -116,10 +116,11 @@ Children will safely experiment with interactive technology, discovering how tap
    - Adult narrates observations without directing: "You found the button! What happened when you pressed it?"
    - Child experiences cause-and-effect naturally (press button → sound/light happens)
 
-   **What to comment on:**
-   - "You pressed it and it made a sound!"
-   - "The light turned on when you touched that!"
-   - "You're watching what happens—good exploring!"
+   **What to comment on (use real concepts as backdrop):**
+   - "You pressed the button and completed the circuit — the electricity flowed through and made a sound!"
+   - "The light turned on because your finger touched the sensor under the screen!"
+   - "That toy has a tiny processor inside — when you pressed the button, the processor decided to play that sound!"
+   - "See how it stops when you let go? You broke the circuit — the electricity can't flow anymore."
 
 3. **Guided Discovery** (3-5 minutes):
    - Demonstrate slowly pressing a button and waiting to see what happens
@@ -129,10 +130,10 @@ Children will safely experiment with interactive technology, discovering how tap
    - Introduce comparisons: Hold up a wooden block and device—"Which one makes a sound?"
 
    **Questions to ask:**
-   - "What did you discover?"
-   - "Can you find the button that makes it light up?"
-   - "What happens if you press this one?"
-   - "Which one makes a sound?"
+   - "What input did you give it? What output did you get back?"
+   - "Can you find the button that completes the circuit to the light?"
+   - "What happens if you press this one? What do you think the processor decides to do?"
+   - "This one needs batteries. Batteries store electricity — where do you think the electricity goes when you press the button?"
 
 4. **Wrap-Up** (2-3 minutes):
    Signal ending time: "We're going to put these away soon."
@@ -160,8 +161,8 @@ Children will safely experiment with interactive technology, discovering how tap
 - Ask prediction questions: "What do you think will happen if you press that one?"
 - Introduce problem-solving: "How do you turn it back on? Let's figure it out"
 - Support longer sequences (button combinations, turning on/off, volume control)
-- Introduce technical language: "battery," "button," "light," "sound," "on/off"
-- Encourage discussion: "It needs batteries to work"
+- Introduce real technical language: "circuit," "sensor," "processor," "input," "output," "electricity"
+- Encourage discussion about how things work: "The battery stores electricity. When you press the button, the circuit closes and electricity flows to the speaker. The processor tells it which sound to play."
 - May engage for 20+ minutes with more complex items
 
 ### Extension Ideas

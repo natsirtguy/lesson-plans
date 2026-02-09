@@ -12,7 +12,9 @@ Fix-it activities and repair play invite young children to explore problem-solvi
 
 **Problem-solve**: To figure out how to fix something that isn't working the way it should. When we ask "What tool should we try?" or "Let's see what's inside," we're finding solutions.
 
-**Mechanism**: The parts inside something that work together to make it function. Screws, springs, wheels, and gears are all mechanisms that help toys and objects do their jobs.
+**Mechanism**: The parts inside something that work together to make it function. A screw is actually a ramp wrapped around a cylinder — that spiral shape (called threads) converts turning motion into pulling force, which is why screws hold things together so tightly. A spring stores energy when you compress or stretch it and releases that energy when you let go. Gears are toothed wheels that transfer spinning motion from one part to another — a big gear turning a small gear makes the small one spin faster.
+
+**Diagnose**: To figure out what's wrong with something before you fix it. Real repair people diagnose problems by testing different parts, looking for what's broken, and thinking about how the parts connect. When a toy doesn't work, a good diagnostician asks: "Is it the battery? The switch? A loose wire? A broken gear?"
 
 ## 🎵 Learning Song
 
@@ -102,7 +104,7 @@ In this hands-on activity, children safely explore broken or "broken" items usin
    Show the child a broken item with enthusiasm: "This toy doesn't work quite right—would you like to help fix it?" Introduce tools one at a time, demonstrating each gently. Ask the child to notice details: "What do you see? What parts do you notice?" Set simple safety expectations: "Tools help us learn—let's be careful and kind with them."
 
 2. **Exploration** (5-8 minutes):
-   Invite the child to pick up items, turn them over, shake them, and listen. Narrate what they're discovering: "You found a screw! What else do you see inside?" Offer a flashlight: "Let's shine light in there and see what's hidden." Ask open-ended questions to deepen curiosity: "Do you see any other screws?" "What do you think that part does?"
+   Invite the child to pick up items, turn them over, shake them, and listen. Start by diagnosing: "Before we fix it, let's figure out what's wrong — that's called diagnosing the problem." Narrate what they're discovering with real explanations: "You found a screw! See how the threads spiral around? A screw is actually a ramp wrapped in a circle — that's why turning it pulls things tight." Offer a flashlight: "Let's shine light in there and see what's hidden." If you find a spring: "This spring stores energy — watch me push it down. When I let go, the energy releases!" Ask open-ended questions to deepen curiosity: "What do you think that part does? How does it connect to the other parts?"
 
 3. **Discovery** (5-10 minutes):
    Model using tools gently: align the screwdriver tip with a screw, turn it slowly, and narrate the action. Demonstrate removing and reattaching bolts or nuts, taping broken pieces, and using a hammer gently on nails. Encourage the child to try the same actions, offering hand-over-hand help if needed. Celebrate attempts: "You're turning it—that takes strength!" When something doesn't work, normalize problem-solving: "That way didn't work—let's try this way instead."
@@ -116,7 +118,7 @@ In this hands-on activity, children safely explore broken or "broken" items usin
 Start with very simple items (old remote, wooden container with a hinged lid). Use only 2-3 tools maximum. Focus on removal and reassembly rather than "fixing." Use very large bolts and screws that don't require much force. The adult leads most actions while the child observes, touches, and tries. Keep sessions to 10-15 minutes. Provide very high adult support with hand-over-hand guidance and constant narration.
 
 **3-4+ years**:
-Introduce 4-5 different types of tools. Offer slightly more complex items with multiple parts. Ask the child to identify problems before fixing: "Why do you think this doesn't work?" Encourage drawing or explaining what they fixed. Introduce cause-and-effect thinking: "When we tightened this bolt, what happened?" Allow more independence with tool use (with supervision). Extend sessions to 20-30 minutes. Challenge the child: "Can you fix this using only the screwdriver?"
+Introduce 4-5 different types of tools. Offer slightly more complex items with multiple parts. Ask the child to identify problems before fixing: "Why do you think this doesn't work?" Encourage drawing or explaining what they fixed. Introduce cause-and-effect thinking and mechanical reasoning: "When we tightened this bolt, what happened? The threads on the bolt pulled the two pieces together." Explain simple machines: "A screwdriver is a lever — you turn the handle (big circle) to move the tip (small circle), which gives you more force. That's called mechanical advantage." If you find gears: "See how these teeth interlock? When one gear turns, it makes the other turn too — but in the opposite direction!" Allow more independence with tool use (with supervision). Extend sessions to 20-30 minutes. Challenge the child to diagnose: "What do you think is wrong with this? Let's test each part to find out."
 
 ### Extension Ideas
 

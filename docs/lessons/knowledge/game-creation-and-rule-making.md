@@ -12,7 +12,9 @@ Children design and create their own simple games with rules they establish toge
 
 **Design**: To create and plan something new, like when you invent your own game from scratch
 
-**Rule**: A direction or guideline that tells you what you can and cannot do in a game or activity
+**Rule**: A direction or guideline that tells you what you can and cannot do in a game or activity. Rules are conditional statements — they follow an "if-then" pattern: "IF you land on a red square, THEN you hop like a bunny." Computer programs and legal systems work the same way, with chains of if-then rules.
+
+**Fairness**: When all players have an equal chance to win or enjoy the game. Game designers think carefully about fairness — if one player always goes first and that gives an advantage, the game isn't fair. Mathematicians study this using game theory, which analyzes how people make decisions when the outcome depends on what others do too.
 
 ## 🎵 Learning Song
 
@@ -99,7 +101,7 @@ In this hands-on activity, children explore materials and design their own game 
    Open the basket and let the child handle and examine items. Ask: "What do you notice about these things? How could they move? Stack? Hide?" Listen to ideas and build on them: "If blocks are mountains, what would we need to do in our game?" Model creative thinking: "I'm wondering... could we stack these to make an obstacle?"
 
 3. **Game Design & Rule-Making** (7-10 minutes):
-   Help the child narrow down to one game idea. Co-create the rules by asking key questions: Where does the game start? Where does it end? How do we move? What happens if something goes wrong? How do we know who wins? Document the rules simply with drawings or words. Encourage creative thinking: "Should we have a silly rule that makes everyone laugh?"
+   Help the child narrow down to one game idea. Co-create the rules by asking key questions: Where does the game start? Where does it end? How do we move? What happens if something goes wrong? How do we know who wins? Frame rules as conditional logic: "Rules are 'if-then' statements. IF you roll a 3, THEN you move 3 spaces. IF you land on the star, THEN you get another turn. What if-then rules should our game have?" Also consider fairness: "Is this fair for everyone? Does anyone have an advantage?" Document the rules simply with drawings or words. Encourage creative thinking: "Should we have a silly rule that makes everyone laugh?"
 
 4. **Play Testing & Refinement** (5-8 minutes):
    Play the game together. Observe and comment on what you notice. After one round, pause and ask: "What was fun? What was tricky? Do we want to change any rules?" Be flexible with rule adjustments. Play at least one more round with any new rules. Your role is to be an enthusiastic participant and co-creator, playing by their rules exactly as stated.
@@ -113,7 +115,7 @@ In this hands-on activity, children explore materials and design their own game 
 Keep the game extremely simple with just one action (push, throw, stack, hide/find). Provide more structure by offering 2-3 material choices instead of a full basket. Make rules very concrete and tied to physical space: "We push this car to the couch." Expect rules to focus on what you DO rather than winning/losing. Use lots of repetition and high adult involvement - you're a co-player who helps guide and demonstrate.
 
 **3-4+ years**:
-Introduce more complex rule types like turn-taking, scoring, and obstacles. Encourage thinking about winning conditions: "How does someone win this game?" Support creation of a game board with a simple drawn path. Introduce consequences or special spaces: "If you land here, you have to hop like a bunny." Encourage them to write or draw their rules. Play with multiple children to practice rule negotiation. Ask them to teach the game to someone else to reinforce their thinking.
+Introduce more complex rule types like turn-taking, scoring, and obstacles. Encourage thinking about winning conditions and fairness: "How does someone win this game? Is it fair — does everyone have the same chance?" Support creation of a game board with a simple drawn path. Frame all rules as explicit conditional logic: "IF you land here, THEN you hop like a bunny. IF you roll doubles, THEN you get an extra turn." Discuss how rules interact: "What happens if two rules apply at the same time? Which one wins?" This is the same kind of reasoning used in computer programming and law. Encourage them to write or draw their rules. Play with multiple children to practice rule negotiation — this is real-world game theory, where everyone's decisions affect each other. Ask them to teach the game to someone else to reinforce their thinking.
 
 ### Extension Ideas
 

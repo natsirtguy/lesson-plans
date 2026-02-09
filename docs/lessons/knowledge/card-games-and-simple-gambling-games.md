@@ -12,6 +12,8 @@ In this lesson, children explore games that combine cards and simple chance-base
 
 **Prediction**: A thoughtful guess about what might happen next based on what you know. "I predict the card under this pile will be red because I saw it before."
 
+**Probability**: How likely something is to happen. A die has six sides, so each number has a one-in-six chance of being rolled — that means if you want a 3, you'll probably need to roll about six times before you get one. Probability helps us understand why some things happen more often than others in games.
+
 **Strategy**: A plan or a smart way to play a game to try to win. Using strategy means thinking ahead about what move to make. "My strategy is to watch what cards other people pick so I remember where they are."
 
 ## Learning Song
@@ -108,8 +110,8 @@ Children will play simple card and dice-based games that teach about matching, m
    During play, make observations and ask questions:
    - "You found a match! You were watching where that cat was earlier!"
    - "It's my turn now. I have to wait for you to finish. You're being such a good game player!"
-   - "When you roll the dice, we don't know what number will come up. That's luck!"
-   - "You remembered where that card was! Your memory is growing strong!"
+   - "This die has six sides. Each side has the same chance of landing on top — that's called probability. We can't control which number comes up because each one is equally likely!"
+   - "You remembered where that card was! In a memory game, the more cards you remember, the higher your probability of finding a match. Your memory changes your odds!"
 
 4. **Wrap-up** (2-3 min):
    Finish the game naturally or stop when energy dips. Say: "We played such a great game together! You took turns so nicely and matched so many pairs. Want to play again tomorrow?" Help put cards away together, celebrating effort over winning/losing.
@@ -129,9 +131,9 @@ Children will play simple card and dice-based games that teach about matching, m
 - Keep score with simple tally marks on paper
 - Introduce prediction: "What will we flip next?"
 - Play actual turns with winners and losers (frame losing positively: "Great try!")
-- Add simple dice games where they understand they can't control the roll
+- Add simple dice games and discuss probability: "There are six sides, so you have a one-in-six chance of rolling the number you want"
 - Play with 2-4 players to practice social skills
-- Talk about strategy: "I'm watching where she puts her cards so I remember them"
+- Talk about strategy and how it interacts with probability: "In memory games, strategy can beat luck — if you remember where cards are, your probability of matching goes way up. In dice games, no strategy helps because each roll is random and independent."
 
 ### Extension Ideas
 
