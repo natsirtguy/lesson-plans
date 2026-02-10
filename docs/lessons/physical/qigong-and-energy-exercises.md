@@ -14,6 +14,16 @@ Qigong and energy exercises introduce children to gentle, flowing movements sync
 
 **Space Required**: 8x10 feet minimum (less space needed than active sports)
 
+## Vocabulary
+
+**Diaphragm**: The dome-shaped muscle beneath your lungs that powers breathing. When you inhale deeply (as in qigong belly breathing), the diaphragm contracts and flattens, pulling air into the lungs by creating a vacuum. This deep diaphragmatic breathing draws 6-8 times more air than shallow chest breathing. The diaphragm is innervated by the phrenic nerve, which originates in the neck — one of the longest single-function nerves in the body.
+
+**Parasympathetic Nervous System**: The "rest and digest" branch of your autonomic nervous system. Slow, deep breathing — the foundation of qigong — activates the parasympathetic system through the vagus nerve (the longest cranial nerve, running from brainstem to abdomen). This lowers heart rate, reduces blood pressure, decreases cortisol (stress hormone), and increases digestion. The opposite system — sympathetic ("fight or flight") — speeds everything up. Qigong deliberately shifts the balance from sympathetic toward parasympathetic dominance.
+
+**Proprioception**: Your body's sense of its own position in space, sometimes called the "sixth sense." Proprioceptors — specialized sensors in your muscles, tendons, and joints — continuously report your body's position to the cerebellum without you needing to look. Qigong's slow, deliberate movements heighten proprioceptive awareness because moving slowly requires more precise feedback from these sensors. Standing meditation (zhan zhuang) is essentially pure proprioceptive training.
+
+**Fascia**: A continuous web of connective tissue that wraps every muscle, organ, bone, and nerve in your body — like a three-dimensional body stocking. Fascia contains more sensory nerve endings than muscle and plays a major role in force transmission and body awareness. Qigong's slow, whole-body movements are thought to stimulate fascial sliding and hydration (fascia needs movement to stay supple). When fascia becomes dehydrated or stuck, it restricts movement — the "stiffness" you feel after sitting still for too long.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -86,26 +96,25 @@ Qigong and energy exercises introduce children to gentle, flowing movements sync
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Explain that qigong is about slow, calm movements and breathing
-- Show that we're moving to help our body feel good and calm
-- Demonstrate standing in center posture: feet shoulder-width apart, knees soft, arms relaxed
-- Explain: "We're going to move slowly and breathe together. This helps our body feel calm and peaceful"
+- "Qigong uses slow movement and deep breathing to activate your parasympathetic nervous system — the 'rest and digest' part of your nervous system. When you breathe slowly and deeply, your vagus nerve sends signals to your brain that lower your heart rate and reduce cortisol, the stress hormone."
+- Demonstrate standing posture: feet shoulder-width apart, knees soft. "Notice how many tiny muscles are working to keep you balanced right now — your proprioceptors in your ankles, knees, and hips are sending thousands of signals per second to your cerebellum to keep you upright."
+- "When we move slowly, we train our proprioception — our body's sense of where it is in space. Fast movements are easier because momentum carries you; slow movements require much more precise control."
 
 #### Skill Practice (4-6 minutes)
 
 **Skill breakdown**:
-- Centered standing posture: rooted yet relaxed
-- Belly breathing: breathing deeply into the belly rather than shallow chest breathing
-- Flowing arm movements: smooth, continuous motion synchronized with breath
-- Weight shifting: gently shifting weight side to side or forward/back
-- Combined movement and breath: coordinating movement with inhalation and exhalation
+- Centered standing posture: activating proprioceptors in ankles, knees, and hips for balance feedback
+- Diaphragmatic breathing: engaging the diaphragm to draw air deep into the lungs (6-8x more volume than chest breathing)
+- Flowing arm movements: slow, continuous motion that trains proprioception and stimulates fascial sliding
+- Weight shifting: lateral and anterior/posterior weight transfer, training the vestibular system and ankle proprioceptors
+- Breath-movement coordination: linking diaphragm cycles to limb movement, which activates the vagus nerve and shifts toward parasympathetic dominance
 
 **Coaching cues**:
-- "Feel your feet on the ground like roots of a tree"
-- "Breathe slowly and deeply - feel your belly expand"
-- "Let your arms float up as you breathe in, float down as you breathe out"
-- "Smooth like water, no rushing, no stopping"
-- "Feel the calm in your body as you move and breathe"
+- "Feel your feet pressing into the ground. Your proprioceptors — sensors in your ankles and feet — are telling your cerebellum exactly how your weight is distributed."
+- "Breathe into your belly — your diaphragm is flattening, creating a vacuum that pulls air deep into your lungs. Much deeper than chest breathing."
+- "Let your arms float up as you inhale — your deltoids are contracting very slowly. Exhale and lower — now gravity is helping while your deltoids control the descent (eccentric contraction)."
+- "Moving this slowly is harder than moving fast because your cerebellum needs more precise proprioceptive feedback to control each millimeter of movement."
+- "Each slow exhale activates your vagus nerve, which sends 'calm down' signals to your heart and digestive system — that's the parasympathetic nervous system working."
 
 #### Guided Practice (4-6 minutes)
 
@@ -156,14 +165,13 @@ Let children experiment with slow, flowing movements
 ### 2-3 years
 
 **Modifications**:
-- Keep movements very simple - just 1-2 movement patterns
-- Make movements playful and imaginative (floating like a butterfly, growing like a flower)
+- Keep movements very simple — just 1-2 movement patterns
+- Name the body parts working: "Your diaphragm is under your ribs — feel it move when you breathe in!"
+- Introduce proprioception simply: "Close your eyes and touch your nose. You can do it without looking because your body knows where your body is! That's called proprioception."
 - Very short practice (5-8 minutes)
 - Adult provides constant modeling
-- Use lots of imagery and storytelling
-- Expect limited focus and attention
-- No expectation of "correct" breathing - just gentle exploration
-- Use hand-over-hand guidance if needed
+- Make it playful: "Float your arms up like a butterfly — your deltoid muscles are lifting them. Now let them float down — gravity is pulling while your muscles control the landing."
+- No expectation of "correct" breathing — just awareness: "Can you feel your belly move when you breathe? That's your diaphragm!"
 
 **Duration**: 5-8 minutes
 
@@ -172,14 +180,13 @@ Let children experiment with slow, flowing movements
 ### 3-4+ years
 
 **Challenges to add**:
-- More complex movement sequences (3-5 movements in flow)
-- Longer practice duration (12-15 minutes)
-- Introduction of directional breathing cues
-- Understanding of energy concepts in simple terms
-- Longer holds in stationary positions
-- More focus on breath coordination with movement
-- Introduction of visualization (imagine energy flowing, imagine healing light)
-- Ability to follow longer sequences without constant adult modeling
+- More complex movement sequences (3-5 movements in flow) — challenges procedural memory in the cerebellum
+- Longer practice duration (12-15 minutes) with sustained proprioceptive awareness
+- Check pulse before and after practice: "Count heartbeats for 15 seconds, multiply by 4. Is your heart rate lower after practice? That's your parasympathetic nervous system — the vagus nerve slowed your heart down!"
+- Standing meditation (zhan zhuang): hold a single position for 30-60 seconds. "Your proprioceptors are firing constantly to make micro-adjustments. Your body is never truly 'still' — it's a dynamic balance of thousands of tiny corrections per second."
+- Discuss fascia: "Feel stiff when you wake up? Your fascia — the web of tissue wrapping every muscle — gets dehydrated overnight. Slow movement in the morning rehydrates it, like squeezing water through a sponge."
+- Explore the relationship between breathing rate and heart rate: "Breathe in — heart speeds up slightly. Breathe out — heart slows down. This is called respiratory sinus arrhythmia, and it's a sign of a healthy nervous system."
+- Longer sequences without constant adult modeling to build motor independence
 
 **Duration**: Can extend to 12-15 minutes
 

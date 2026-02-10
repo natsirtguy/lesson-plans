@@ -14,6 +14,16 @@ Pilates and core strengthening introduces young children to controlled, intentio
 
 **Space Required**: 6x8 feet minimum (space for child to lie down and extend limbs)
 
+## Vocabulary
+
+**Transverse Abdominis**: The deepest layer of abdominal muscle, wrapping around your torso like a natural corset. Unlike the rectus abdominis (the "six-pack" muscle on the front), the transverse abdominis compresses inward, stabilizing your spine and pelvis during every movement. Joseph Pilates designed his entire method around activating this muscle — he called the core "the powerhouse." When you gently draw your belly button toward your spine, you're engaging your transverse abdominis.
+
+**Rectus Abdominis**: The long, flat muscle running vertically down the front of your abdomen, divided into segments by horizontal bands of connective tissue (tendinous intersections) — creating the "six-pack" appearance. This muscle flexes the spine forward (like in a sit-up). It originates at the pubic bone and inserts at the sternum and lower ribs. During Pilates, the rectus abdominis works with the transverse abdominis and obliques to control spinal movement.
+
+**Erector Spinae**: A group of three long muscles (iliocostalis, longissimus, and spinalis) running along both sides of your spine from your pelvis to your skull. They extend (straighten) your spine and prevent you from folding forward under gravity. During the "cat-cow" exercise, the erector spinae contracts during the cow (arching) phase and stretches during the cat (rounding) phase. Weak erector spinae muscles contribute to poor posture.
+
+**Diaphragm**: A dome-shaped muscle that separates your chest cavity from your abdominal cavity — it's the primary muscle of breathing. When you inhale, the diaphragm contracts and flattens, pulling air into the lungs by creating negative pressure (like pulling back a plunger on a syringe). When you exhale, it relaxes back into its dome shape, pushing air out. Pilates breathing emphasizes lateral (ribcage) breathing so the diaphragm can work while the transverse abdominis stays engaged.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -79,32 +89,31 @@ Pilates and core strengthening introduces young children to controlled, intentio
 
 **Skill breakdown**:
 
-**1. Belly Awareness & Breathing**:
+**1. Diaphragm Awareness & Breathing**:
 - Lie on back with knees bent, feet flat on floor
-- Place hands on belly
-- Breathe in slowly through nose (belly expands)
-- Breathe out slowly through mouth (belly draws inward gently)
-- Repeat 5-8 times, feeling the belly rise and fall
+- Place hands on belly: "You're going to feel your diaphragm working. It's a dome-shaped muscle under your ribs."
+- Breathe in slowly through nose (belly expands): "Your diaphragm is contracting — flattening downward. This creates negative pressure in your lungs, pulling air in, like pulling back a syringe plunger."
+- Breathe out slowly through mouth (belly draws inward): "Your diaphragm is relaxing back into its dome shape, pushing air out. Feel your transverse abdominis engage as your belly draws in."
+- Repeat 5-8 times, feeling the diaphragm and transverse abdominis work alternately
 
-**2. Pelvic Tilts (Core Engagement)**:
+**2. Pelvic Tilts (Transverse Abdominis Engagement)**:
 - Lie on back, knees bent, feet flat
-- Gently tilt pelvis so lower back presses slightly into mat
-- Hold for 2-3 seconds
-- Release and repeat 8-10 times
-- This teaches engagement of lower core muscles
+- "Gently tilt your pelvis so your lower back presses into the mat. Feel your transverse abdominis wrapping around like a corset — it's pulling your belly button toward your spine."
+- Hold for 2-3 seconds: "Your rectus abdominis (front of belly) and transverse abdominis (deep layer) are both working to tilt your pelvis."
+- Release: "Now your erector spinae muscles along your spine are gently arching your back."
+- Repeat 8-10 times, naming the muscles each time
 
-**3. Marching Bridge (Glute & Core)**:
+**3. Marching Bridge (Gluteus Maximus & Core)**:
 - Lie on back, knees bent, feet hip-width apart
-- Push through feet to lift hips up (bridge position)
-- Once stable, slowly lift one foot off ground a few inches
-- Place foot down, lift other foot
-- Repeat slowly, alternating 6-8 times each side
+- "Push through your feet to lift your hips. Your gluteus maximus (the largest muscle in your body!) is doing the lifting. Your hamstrings (back of thigh) are helping, and your erector spinae keeps your spine stable."
+- Once stable, slowly lift one foot: "Now your transverse abdominis and obliques (side muscles) have to work extra hard to keep your pelvis level — they're preventing you from tilting to one side."
+- Alternate feet, 6-8 times each side: "Each time you lift a foot, your opposite-side obliques fire to stabilize — that's called contralateral stabilization."
 
 **Coaching cues**:
-- "Breathe in through your nose, out through your mouth - imagine your belly is a balloon filling and emptying"
-- "Press your feet into the ground to make a strong bridge with your body"
-- "Keep your core tight, like you're giving your belly a hug"
-- "Slow movements help our muscles learn and get stronger"
+- "Breathe in — feel your diaphragm flatten and pull air into your lungs. Breathe out — your diaphragm relaxes back up."
+- "Press your feet into the ground — your gluteus maximus and hamstrings are lifting your hips."
+- "Draw your belly button toward your spine — that's your transverse abdominis engaging, wrapping around like a corset."
+- "Feel your erector spinae muscles along your spine keeping you straight. Slow, controlled movements train your cerebellum (the motor learning part of your brain) better than fast ones."
 
 #### Guided Play/Game (2-3 minutes)
 
@@ -116,9 +125,9 @@ Pilates and core strengthening introduces young children to controlled, intentio
 3. Stop whenever you feel tired
 
 **Variations**:
-- "Strong Bear" pose - plank position on knees (modified), hold for 5-10 seconds
-- "Sleeping Star" - lie flat and make a big star shape, press limbs gently into floor
-- "Turtle Tucks" - lie on back, gently draw knees to chest, hold for 3 seconds, extend
+- "Strong Bear" pose - modified plank on knees: "Your rectus abdominis, transverse abdominis, and deltoids (shoulder muscles) are all working together. Your body is like a bridge under compression!" Hold 5-10 seconds
+- "Sleeping Star" - lie flat in star shape, press limbs into floor: "You're activating your entire core isometrically — the muscles are working without moving, creating internal tension"
+- "Turtle Tucks" - draw knees to chest: "Your hip flexors (iliopsoas) pull your knees up while your rectus abdominis curls your pelvis. The rectus abdominis and iliopsoas are a team!" Hold 3 seconds, extend
 
 **Turn-taking**: Child does movement, adult demonstrates, then repeat together
 
@@ -144,9 +153,9 @@ Pilates and core strengthening introduces young children to controlled, intentio
 **Modifications**:
 - Keep exercises very short (5-8 minutes total)
 - Use mostly lying-down movements to prevent balance challenges
-- Focus heavily on breathing awareness with visual/verbal cues
+- Name the muscles simply: "This is your rectus abdominis — your front belly muscle!" Point to it. "And your diaphragm lives under your ribs — feel it move when you breathe."
 - Adult provides physical support and positioning help
-- Use simple, concrete language ("strong belly," "deep breathing")
+- Touch and name: let child feel their own muscles contracting. "Put your hand here — feel that getting hard? That's your rectus abdominis working!"
 
 **Duration**: 5-10 minutes
 
@@ -154,11 +163,11 @@ Pilates and core strengthening introduces young children to controlled, intentio
 
 ### 3-4+ years
 **Challenges to add**:
-- Add longer holds (10-15 seconds instead of 5-10)
-- Include sitting exercises (seated marches, seated twists)
-- Introduce resistance band for added challenge
-- Add counting during holds ("Count to 10 while holding")
-- Include more complex sequences (3-4 movements in a row)
+- Add longer holds (10-15 seconds) and name what's happening: "Your muscle fibers are sustaining contraction — your brain is sending continuous electrical signals down the motor neurons to keep them firing"
+- Include sitting exercises: seated twists target the internal and external obliques. "Your obliques wrap around your sides like two diagonal belts crossing in opposite directions — one set rotates you left, the other rotates you right!"
+- Introduce the concept of isometric vs. isotonic: "When you hold a position without moving, that's isometric contraction — the muscle generates force but doesn't change length. When you move through a range, that's isotonic — the muscle shortens as it contracts."
+- Introduce antagonist muscle pairs: "Your rectus abdominis (front) and erector spinae (back) are antagonists — when one contracts, the other stretches. They work together like two teams pulling from opposite sides."
+- Include more complex sequences (3-4 movements in a row) to challenge procedural memory
 
 **Duration**: 12-15 minutes
 

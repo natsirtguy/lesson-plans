@@ -6,13 +6,13 @@ Baking and measuring activities combine sensory exploration, mathematical learni
 
 ## Vocabulary
 
-**Measure**: To find out exactly how much of something you have using special tools like cups or spoons
+**Chemical Reaction**: When two or more substances combine to create something entirely new that didn't exist before. When baking soda meets an acid like vinegar or lemon juice, they react to produce carbon dioxide gas — those bubbles are a chemical reaction happening right before your eyes. Baking uses many chemical reactions: heat denatures proteins in eggs (changing their structure permanently), and the Maillard reaction between amino acids and sugars creates the brown crust and delicious smell of fresh bread.
 
-**Combine**: To mix two or more ingredients together into one
+**Gluten**: A stretchy, elastic protein network that forms when wheat flour is mixed with water. Flour contains two proteins — glutenin and gliadin — that are separate when dry, but when you add water and stir, they link together into long, stretchy chains called gluten. That's why bread dough is stretchy but cookie dough is crumbly (less mixing = less gluten). Gluten traps gas bubbles from yeast or baking powder, which is how bread rises.
 
-**Texture**: How something feels when you touch it (smooth, rough, bumpy, soft)
+**Leavening**: The process of making dough or batter rise by filling it with gas bubbles. There are three types: biological (yeast — living fungi that eat sugar and exhale carbon dioxide), chemical (baking soda or baking powder that release CO2 when they react with acids or heat), and mechanical (whipping air into egg whites or cream). Without leavening, bread would be as flat and dense as a cracker.
 
-**Transform**: To change from one form into something completely different (like how flour and liquid become batter)
+**States of Matter**: The forms that substances can take — solid, liquid, and gas. Baking transforms matter between states: solid butter melts into liquid when heated (melting point: 32°C/90°F), liquid water turns to steam (gas) in the oven at 100°C/212°F, and liquid batter solidifies into solid cake as proteins and starches set. Ice cream reverses the process — liquid cream becomes solid when cooled below 0°C/32°F.
 
 ## 🎵 Learning Song
 
@@ -100,24 +100,24 @@ Children become young bakers by measuring ingredients, pouring, stirring, and mi
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child the empty bowl and the ingredients. Let them smell or touch safe ingredients like flour or sugar. Show them the measuring cups and say, "These help us know exactly how much to use." Set expectations: "We're going to scoop and measure, then mix everything together. Baking is messy and fun—that's okay!"
+   Show the child the empty bowl and the ingredients. Let them touch flour: "This is wheat flour. It has two invisible proteins inside called glutenin and gliadin. Right now they're separate, but when we add water, they'll link together into stretchy chains called gluten!" Let them smell or touch each ingredient. Show measuring cups: "Scientists and bakers both measure precisely — in baking, the exact amounts control the chemical reactions that happen."
 
 2. **Exploration** (5-10 min):
-   Child scoops flour (or the first ingredient) into the measuring cup and pours into the mixing bowl—you may assist or let child do it independently. Move to the next ingredient and ask, "What's next? That's sugar. How much sugar?" Continue measuring each ingredient one at a time. Comment on what you observe: "You filled that cup all the way full! Great measuring!" or "You're being so careful."
+   Child scoops flour into the measuring cup and pours into the mixing bowl. "That's our dry ingredient — it's a solid. Now let's add the liquid." When adding water or milk to flour: "Watch what happens when liquid meets flour — the glutenin and gliadin proteins are starting to connect into gluten!" If using baking soda: "This is our leavening agent. It's a chemical called sodium bicarbonate. When it gets hot in the oven, it releases carbon dioxide gas — those bubbles are what make our [cookies/muffins] rise instead of staying flat!" As they stir: "Feel how the batter is getting thicker? That's gluten forming — those protein chains are getting longer and stickier the more you stir."
 
 3. **Discovery** (5-10 min):
-   Hand child the wooden spoon or spatula and encourage vigorous mixing. Talk about the changes: "What's happening to the flour? It's mixing with the liquid. The color is changing!" If adding mix-ins (chocolate chips, sprinkles), let child scatter them into the bowl. Allow time for sensory exploration—touching the texture, smelling the mixture, listening to the sound of stirring.
+   Hand child the wooden spoon or spatula and encourage mixing. Talk about the science: "The batter is changing states of matter — we started with separate solids and liquids, and now they've combined into something new!" If adding chocolate chips: "Chocolate melts at about 34°C — that's just below body temperature, which is why it melts in your mouth!" If the recipe uses eggs: "Egg proteins are curled up like tiny balls right now. When we heat them in the oven, they'll uncoil and link together — that's called denaturation. It's a chemical reaction that makes the egg go from liquid to solid, and it can never go back!" Allow time for sensory exploration — noticing how texture changes with mixing.
 
 4. **Wrap-Up** (2-3 min):
-   Shape or place batter into forms (scoop onto plate, place in muffin liners, or use cookie cutters). If baking, set timer and say, "It will cook for 12 minutes. We can play while we wait and listen for the beep!" Once done, celebrate: "Look at what we made! We measured the ingredients, mixed them, and now we have [cookies/muffins]!" Allow child to eat a small portion and take a photo to document the experience.
+   Shape or place batter into forms. If baking, explain what will happen: "In the oven, the heat will cause chemical reactions. The Maillard reaction between amino acids and sugars will turn the outside brown and create that amazing baking smell. The leavening agent will release gas bubbles that make it rise. The proteins will denature and set, turning liquid batter into solid [cookies/muffins]. All those state changes happen because of heat energy!" Set timer and note: "The oven is about 180°C — that's hot enough to cause all these chemical reactions." When done, observe: "Look — it went in as liquid batter and came out as a solid. The chemical reactions changed it permanently — you can't un-bake a cookie!"
 
 ### Age Adaptations
 
 **2-3 years**:
-Use simpler no-bake recipes to avoid waiting for oven time. Pre-measure ingredients in small bowls to reduce complexity and let child focus primarily on scooping and mixing rather than exact measurement. Use larger measuring cups that are easier to hold and manage. Consider just one or two ingredients maximum (e.g., yogurt and granola, or peanut butter and honey). Provide high adult support—hold the bowl steady, guide the spoon, and manage ingredient containers. Keep duration to 15-20 minutes.
+Use simpler no-bake recipes (no-bake cookies, edible playdough). Pre-measure ingredients in small bowls. Even with simple recipes, name the science: "We're dissolving the sugar — it's disappearing into the liquid because the water molecules are pulling the sugar molecules apart!" When mixing peanut butter and honey: "The honey is viscous — that means it flows slowly because its molecules stick together." Use larger measuring cups. Provide high adult support. Keep duration to 15-20 minutes. Focus on observable state changes: "It was a powder, now it's a paste — we changed its state!"
 
 **3-4+ years**:
-Use actual recipes with multiple ingredients requiring different measurements. Introduce the concept: "A recipe tells us exactly what to do and how much to use." Have child read the recipe (or read it aloud and have child identify which ingredient is next). Explore fractions: "We need 1/2 cup of flour. That's half a cup." If baking, have child set the timer and predict when it will be done. Try oven-baked recipes so child experiences the full baking process and longer engagement (25-35 minutes total).
+Use actual recipes with multiple ingredients. Explore the science at each step: "A recipe is like a chemistry formula — it tells us exactly which substances to combine and in what quantities to get the right reaction." Explore fractions: "We need 1/2 cup — that means we divide the cup into two equal parts and use one." Discuss the three types of leavening: "Yeast is alive — it's a single-celled fungus that eats sugar and breathes out carbon dioxide, just like we breathe out CO2. Baking soda is a chemical leavener — it reacts with acids. And when you whip egg whites, you're mechanically trapping air bubbles — that's mechanical leavening!" Test: put baking soda in vinegar to see the CO2 reaction before baking. Discuss the Maillard reaction when things turn brown: "It's not burning — it's a chemical reaction between amino acids and sugars that creates hundreds of new flavor compounds. That's why toast tastes different from bread!"
 
 ### Extension Ideas
 
