@@ -6,13 +6,13 @@ Photography and picture-taking is a creative visual activity where children expl
 
 ## Vocabulary
 
-**Observe**: To look at something carefully and notice details about it. When you observe a flower, you might see its color, shape, and how many petals it has.
+**Lens**: A curved piece of glass (or plastic) that bends light rays to focus them into a sharp image. Light travels in straight lines, but when it passes through curved glass, it refracts (changes direction) — a convex lens (thicker in the middle) bends all the light rays inward to meet at a single point called the focal point. Your eye has a lens too — a flexible one that changes shape to focus on near or far objects. Camera lenses work on exactly the same principle. The word "lens" comes from the Latin word for "lentil" because early lenses were lentil-shaped.
 
-**Composition**: The way things are arranged in a picture - what goes in the middle, what's on the edges, and how parts fit together. Good composition makes a picture interesting to look at.
+**Sensor**: The part of a digital camera that captures light and converts it into an image. A sensor contains millions of tiny light-detecting cells called photosites — each one measures how much light hits it and what color the light is. Each photosite becomes one pixel in the final image. A 12-megapixel camera has 12 million photosites. Before digital sensors, cameras used film — a sheet coated with silver halide crystals that changed chemically when light hit them.
 
-**Capture**: To record or hold onto an image using a camera so you can see it again later. When you capture a photo, you're saving a memory.
+**Exposure**: The amount of light that reaches the sensor. Three things control exposure: aperture (how wide the lens opening is), shutter speed (how long the sensor is exposed to light), and ISO (how sensitive the sensor is). Too much light = overexposed (washed out). Too little light = underexposed (too dark). Photography literally means "writing with light" — from Greek "photo" (light) + "graph" (writing).
 
-**Frame**: The edges or border of a picture that shows what the camera sees. You can decide what to include in your frame by moving the camera closer or farther away.
+**Composition**: The deliberate arrangement of elements within a photograph — what you include, exclude, and where you place subjects. The rule of thirds (dividing the frame into a 3x3 grid and placing subjects at intersections) is one of the oldest composition principles, used by painters since the Renaissance. Your brain's visual cortex finds certain spatial arrangements more pleasing than others — composition is the science of working with that biology.
 
 ## Learning Song
 
@@ -94,18 +94,15 @@ Children explore using a camera or phone to capture images of their world. Throu
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Show the camera and explain: "This is like a special eye that remembers what it sees"
-   - Take one silly photo together (a toy, their hand, their face) and immediately show the result
-   - Create excitement: "You get to decide what stories to tell with pictures!"
-   - Emphasize: "All photos are wonderful - there are no wrong pictures"
+   - Show the camera and explain how it works: "This camera has a lens — curved glass that bends light. Light bounces off everything you see, enters through the lens, and hits a sensor inside with millions of tiny light detectors. Each detector becomes one pixel — one tiny colored dot. Millions of dots together make a photograph."
+   - Take one photo together and immediately show the result. Zoom in on the screen: "See how it looks smooth? But it's actually made of millions of tiny squares called pixels — zoom in close enough and you can see them."
+   - Explain: "Photography means 'writing with light.' Without light, there's no photo. That's why dark rooms make blurry pictures — the sensor doesn't get enough light."
 
 2. **Exploration** (7-12 min):
-   - Guide their attention to interesting subjects: "Look at how light comes through the window"
-   - Let them hold the camera (with your support if needed)
-   - Ask observation questions: "What do you notice? What colors do you see?"
-   - Point to something simple: "Should we take a picture of that?"
-   - Try different perspectives together: taking photos standing up, then crouching down
-   - Experiment with close-ups: "Can you photograph just the flower? Just one toy?"
+   - Guide their attention to light: "See how light comes through the window and makes shadows? The camera needs this light. Where light hits your subject, the sensor gets lots of information. Where there's shadow, less information." Photograph the same object in light and shadow — compare.
+   - Let them hold the camera. Explain the lens: "When you move closer, the lens focuses on nearby things and the background goes blurry. When you step back, more things are in focus."
+   - Try different perspectives: "When you photograph from below, things look big and powerful. From above, things look small. Photographers choose their angle to tell different stories about the same subject."
+   - Experiment with composition: "Try putting the interesting thing NOT in the center but to one side — that's called the rule of thirds, and photographers have used it for hundreds of years."
 
 3. **Creative Expression** (5-8 min):
    - Let them lead - ask what THEY want to photograph next
@@ -131,14 +128,12 @@ Children explore using a camera or phone to capture images of their world. Throu
 - Celebrate every photo enthusiastically
 
 **3-4+ years**:
-- Child can hold and direct camera independently with supervision
-- Introduce simple composition: "What should be in the middle of your picture?"
-- Create photo challenges: "Can you find something round? Something shiny?"
-- Encourage storytelling through a series of photos: "Can you show the bear's journey?"
-- Try themed sessions: "Today we look for warm colors" or "Things that are smooth"
-- Let them explain why they took each photo: "Tell me why you chose this one"
-- Create photo books or displays with their pictures
-- Introduce simple editing if device allows (filters, brightness)
+- Child can hold and direct camera independently. Teach the exposure triangle: "Bright sunlight = lots of light reaching the sensor. Shade = less light. That's why indoor photos can look darker."
+- Practice the rule of thirds: draw a 3x3 grid on a piece of clear plastic to hold over the screen. Place subjects at grid intersections.
+- Introduce depth of field: photograph a toy up close with background blurry vs. from far away with everything sharp. Explain that the lens controls what's in focus.
+- Try a light experiment: photograph the same object in sunlight, shade, and lamplight. Compare how light direction creates shadows that change the mood.
+- Introduce the concept of shutter speed: "The camera opens its sensor for a tiny moment — if something moves during that moment, it appears blurry. That's motion blur." Try photographing a fast-moving hand vs. a still object.
+- Create photo stories (photojournalism): document a process from start to finish (making a sandwich, a walk). Discuss how photographers choose which moments to capture — each choice tells a different story about the same event.
 
 ### Extension Ideas
 

@@ -6,13 +6,13 @@ Children learn real woodworking techniques by exploring wood textures, using chi
 
 ## Vocabulary
 
-**Grain**: The pattern of fibers running through wood that you can see and feel. When you run your hand along the wood grain, it feels smooth in one direction and rough in the other direction.
+**Grain**: The visible pattern of cellulose fibers in wood — tubes that carried water and nutrients when the tree was alive. Grain runs in the direction the tree grew. Cutting or sanding "with the grain" (parallel to fibers) is easy and smooth; going "against the grain" is harder because you're slicing through fibers. Each piece of wood has a unique grain pattern that tells the story of how that tree grew.
 
-**Texture**: The way something feels when you touch it, like rough or smooth. Wood has different textures - a freshly cut piece is rough, but after sanding it becomes smooth like velvet.
+**Growth rings**: The concentric circles visible when a tree is cut crosswise. Each ring represents one year of growth — a light ring for fast spring growth and a dark ring for slower summer growth. Count the rings to find the tree's age. Wide rings mean plenty of rain; narrow rings mean drought. Scientists called dendrochronologists read tree rings to reconstruct climate patterns thousands of years into the past.
 
-**Craftsperson**: A person who makes things skillfully by hand, using tools and their own ideas. A woodworker is a craftsperson who creates things from wood.
+**Wedge**: One of the six simple machines identified since ancient Greece. A nail is a wedge: its pointed tip concentrates the force of the hammer onto a tiny area, generating enormous pressure that splits wood fibers apart. An axe, a knife, and a chisel are all wedges. A wedge converts a pushing force into a splitting force by redirecting energy outward along its angled surfaces.
 
-**Stabilize**: To hold something firmly so it doesn't move or fall. When we stabilize the wood block, we keep it steady so you can hammer safely without it sliding away.
+**Lever**: Another of the six simple machines. A hammer is a lever — the handle amplifies the force of your arm swing through mechanical advantage. The longer the handle, the more force is multiplied at the head. This is why a hammer can drive a nail that your thumb cannot push in — the lever multiplies your force several times over.
 
 ## 🎵 Learning Song
 
@@ -95,13 +95,13 @@ Children explore real woodworking through tactile sensory experiences with wood,
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Invite the child to touch and explore a piece of real wood. Pass it around and talk about what they notice - the bumpy grain, the smell, the weight. Tap it gently and listen to the sound. Show a finished example project and explain: "Today you're going to create something special with real wood, just like woodworkers do." Set expectations: "We use the hammer carefully - it's for nails only. It's okay if nails don't go in perfectly - that's part of learning."
+   Invite the child to touch and explore a piece of real wood. Explain what it is: "This was part of a living tree. See these lines? That's the grain — these are cellulose fibers, the tubes that carried water from the roots to the leaves. Feel how it's smooth one way and rough the other? That's because you're feeling the fiber direction." If the end is visible: "These circles are growth rings — each ring is one year. Let's count — this tree was [X] years old." Tap it and listen: "The sound depends on the wood's density — how tightly packed the fibers are."
 
 2. **Exploration** (5-10 min):
-   Allow free sensory exploration of wood and materials. The child touches different wood pieces, compares textures and weights, listens to sounds, and observes grain patterns. They can sand a small corner to feel the difference between rough and smooth wood. As they explore, narrate observations: "You discovered the grain goes in one direction" or "The sanded part feels so smooth now."
+   Compare different wood pieces. If you have softwood (pine) and hardwood (oak), feel the weight difference: "Pine grows fast — wide growth rings, lighter, softer. Oak grows slowly — narrow rings, heavier, harder. That's why hardwood furniture lasts longer." Sand a small corner: "Sandpaper has tiny mineral crystals (usually aluminum oxide) glued to paper. These crystals are harder than wood, so they scrape off the raised fibers. The number on sandpaper (120, 220) tells you how fine the crystals are — higher number, smaller crystals, smoother finish."
 
 3. **Discovery** (5-10 min):
-   Demonstrate hammer and sanding techniques. Show how to hold the mallet with two hands and tap gently. Let the child place their first nail with your hand guiding theirs for positioning. Ask questions: "What does the wood feel like now that you've sanded it?" and "Which nails went in easiest?" Encourage free expression - the child chooses how many nails to add, whether to sand more, paint, or leave the wood natural. They can combine pieces with glue to make larger structures if interested.
+   Introduce the simple machines in woodworking tools. Show the nail: "This is a wedge — see the point? It concentrates your hammer force onto a tiny area. The pressure at the tip is enormous, splitting the wood fibers apart." Demonstrate the hammer: "This is a lever — the long handle multiplies the force of your arm. Watch how a small swing makes a big impact." Let the child drive their first nail with guidance. Ask: "Did the nail go in easier along the grain or across it? Along is easier because you're pushing between the fibers instead of through them."
 
 4. **Wrap-up** (2-3 min):
    Celebrate the child's creation: "You're a real woodworker - look at what your hands created!" Ask a reflection question: "What was your favorite part - the sanding, the nailing, or the decorating?" Transition to cleanup together: "Now we're going to take care of our tools, just like real woodworkers do."
@@ -112,7 +112,7 @@ Children explore real woodworking through tactile sensory experiences with wood,
 Provide pre-drilled holes where nails will go to reduce difficulty. Use larger, blunt nails that are easier to control. Focus on tactile exploration with lots of sanding and touching different woods. Limit to one nail per child - emphasize exploration over creation. You hold the wood block very securely while the child taps the nail. Keep sessions shorter (15-20 minutes) and provide hands-on support for all tool use.
 
 **3-4+ years**:
-Challenge them to drive multiple nails independently (you position, they hammer). Allow them to combine wooden pieces to create structures like houses or towers. Introduce wood stain or paint with intentional color choices. Add decorative elements or challenges like "Can you make something that balances on all its points?" They may engage for 30+ minutes and can work more independently.
+Challenge them to drive multiple nails at different angles and discuss how angled nails grip better (more friction against the grain). Introduce all six simple machines: lever (hammer), wedge (nail, chisel), inclined plane (a ramp to slide heavy wood up), wheel and axle (drill), screw (a nail with threads — an inclined plane wrapped around a cylinder, which is why screws grip tighter than nails), and pulley (used in construction cranes). Compare hardwood vs. softwood for different projects: "Softwood like pine is easier to nail but dents easily. Hardwood like oak is tough to nail but lasts centuries — cathedral beams are oak." Introduce wood glue: "Glue works by seeping into the porous wood fibers and creating mechanical bonds as it hardens — the dried glue grips the inside of the fiber tubes." They may engage for 30+ minutes.
 
 ### Extension Ideas
 

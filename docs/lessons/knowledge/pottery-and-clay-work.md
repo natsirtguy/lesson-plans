@@ -6,13 +6,13 @@ Children explore clay as a transformable, tactile material by squeezing, rolling
 
 ## Vocabulary
 
-**Sculpt**: To shape and mold clay or other materials with your hands into different forms and designs.
+**Clay**: A natural material made of extremely tiny mineral particles (mainly kaolinite and other silicate minerals) that formed over millions of years as rocks weathered and broke down. Clay particles are flat and plate-shaped — when water gets between the plates, they slide over each other, which is why wet clay feels smooth and can be shaped. When the water evaporates, the plates lock together and the clay becomes rigid. Humans have been shaping clay for over 25,000 years — some of the oldest human artifacts are clay figurines.
 
-**Texture**: The way something feels when you touch it, like smooth, bumpy, rough, or squishy (clay has wonderful changing textures).
+**Plasticity**: The ability of a material to be permanently deformed (changed in shape) without breaking. Clay has excellent plasticity because water acts as a lubricant between the mineral particles, allowing them to slide past each other. Too much water = soupy and won't hold shape. Too little water = cracks when bent. The perfect amount = smooth, workable plasticity. This same property is why metals can be bent when heated.
 
-**Tactile**: Related to the sense of touch; experiences you have through feeling and touching with your hands.
+**Kiln**: A specialized furnace that fires clay at extremely high temperatures — typically 1,000-1,300°C (1,800-2,400°F). During firing, the heat causes a permanent chemical change called vitrification: the mineral particles fuse together into a glass-like structure that can never be turned back into soft clay. This is an irreversible chemical reaction, unlike drying (which can be reversed by adding water). Humans invented kilns about 6,000 years ago — this technology was one of the most important developments in civilization.
 
-**Manipulate**: To handle, control, and change something using your hands and fingers (like shaping clay into new forms).
+**Ceramics**: The broad category of materials made by shaping and then firing clay at high temperatures. Pottery, porcelain, bricks, tiles, and even spacecraft heat shields are all ceramics. The word comes from Greek "keramos" (potter's clay). Ceramics are among the most durable materials humans make — ancient pottery survives thousands of years underground, which is why archaeologists find so much of it.
 
 ## Learning Song
 
@@ -99,28 +99,24 @@ Children will have a sensory-rich experience with clay, exploring how it respond
 
 1. **Introduction** (2-3 min):
    - Let children observe and smell the clay first without touching
-   - Ask: "What color is it? How do you think it feels?"
-   - Demonstrate: squeeze a small ball of clay and let them see it change
-   - Invite: "Let's discover what YOUR hands can do with clay"
+   - Explain what it is: "This clay is made of tiny mineral particles — pieces of ancient rock that broke down over millions of years. The particles are so small you can't see them individually, but they're flat like tiny plates."
+   - Add a drop of water and demonstrate: "Water gets between the plates and lets them slide — that's called plasticity. It's why wet clay bends and dry clay cracks."
+   - Invite: "Let's discover how these mineral particles respond to your hands."
 
 2. **Exploration** (8-12 min):
    - Give each child a ball of clay about the size of their fist
-   - Encourage free exploration with open-ended prompts:
-     - "What happens when you squeeze it hard?"
-     - "Can you make it longer?"
-     - "Feel how it's soft... now squish it flat"
-     - "Roll it between your hands"
-     - "Poke it with your fingers"
-   - Play the learning song softly in background
-   - Join in the exploration alongside them, modeling different movements
-   - Show how tools (if using) can poke, press, or mark the clay
+   - Guide exploration with science-grounded prompts:
+     - "Squeeze it hard — what happens? The mineral plates slide over each other. That's plasticity!"
+     - "Roll it into a long snake — you're stretching the particles apart. How thin can you make it before it breaks?"
+     - "Poke holes with your fingers — notice how the clay moves AROUND your finger? The particles are rearranging."
+     - "Leave a piece in the air for a minute. Feel it again — it's getting less plastic as water evaporates."
+   - Explain the warm feeling: "Your hands are transferring heat energy to the clay. Warm clay has more plasticity because heat makes the water molecules move faster."
+   - Show how tools create different marks: pressing creates compression, dragging creates shear forces, poking creates displacement
 
 3. **Discovery** (3-4 min):
-   - Point out observations: "Look, when you pressed hard, it got thinner"
-   - Celebrate varied creations: "You made something so bumpy!"
-   - Ask questions: "What does it feel like now? Warmer? Softer?"
-   - If children create shapes, acknowledge without labeling (let them describe it)
-   - Invite them to feel texture: "Touch your creation—is it smooth or bumpy?"
+   - Explain the difference between physical and chemical changes: "Right now, everything we do to clay is a physical change — we can always add water and reshape it. But if we put it in a kiln at over 1,000 degrees, it undergoes a chemical change called vitrification — the minerals fuse into glass-like ceramics and can NEVER be made soft again."
+   - Show texture science: "Smooth surfaces happen when the mineral plates all lie flat. Bumpy surfaces happen when they're pushed at different angles."
+   - Compare to everyday ceramics: "Your dinner plate was once soft clay like this. A toilet, a flower pot, a brick — all started as soft clay that went through a kiln."
 
 4. **Wrap-up** (2-3 min):
    - Gather clay and place back in container
@@ -140,13 +136,12 @@ Children will have a sensory-rich experience with clay, exploring how it respond
 - Allow repetition of the same movements many times
 
 **3-4+ years**:
-- Introduce tools (plastic knife, fork, rolling pin) for complex texturing
-- Add challenges: "Can you make it into a long snake?" or "Poke holes all over"
-- Introduce cookie cutters or leaf-pressing for pattern-making
-- Extend duration to 15-20 minutes
-- Encourage naming creations if they wish
-- Try mixing two colors to observe color blending
-- Save creations to dry and display in a "gallery"
+- Introduce the potter's wheel concept: spin a turntable and shape clay as it rotates — centripetal force pushes the clay outward, and your hands counteract it to create symmetrical forms. The potter's wheel was invented around 3,500 BCE in Mesopotamia.
+- Explore coil building (one of the oldest pottery techniques): roll clay into long coils and stack them in circles, smoothing the seams. Explain that ancient civilizations used this method before the wheel was invented.
+- Test clay's structural limits: build upward and discover that gravity pulls clay down — walls must be thick enough to support their own weight. This is the same principle architects use with buildings.
+- Mix two clay colors and observe: the colors marble together because the mineral particles blend at the boundary — this is a physical change, not a chemical one (no new substance is created).
+- Save creations to dry (air-dry clay) and discuss: "As water evaporates, the mineral plates lock together. The clay shrinks because the water spaces disappear — that's why dried clay is smaller than wet clay."
+- Compare different types of clay: earthenware (fires at lower temperatures, porous), stoneware (higher temperature, waterproof), porcelain (highest temperature, translucent — invented in China around 200 BCE)
 
 ### Extension Ideas
 

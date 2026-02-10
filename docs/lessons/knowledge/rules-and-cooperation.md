@@ -6,13 +6,13 @@ Children explore what rules are, why they help us stay safe and happy, and how c
 
 ## Vocabulary
 
-**Cooperate**: Working together with someone else toward the same goal. When you and a friend build a block tower together instead of each building alone, you are cooperating.
+**Social contract**: An agreement — often unspoken — where everyone in a group gives up some freedom in exchange for benefits for the whole group. When you agree to take turns on the slide (giving up the freedom to slide whenever you want), you get a fair, peaceful playground where nobody pushes. Philosophers like Thomas Hobbes and Jean-Jacques Rousseau studied this: without social contracts, everyone would fight over everything. Every classroom rule, traffic law, and game rule is a social contract.
 
-**Rules**: Special instructions that tell us what we can do and what we cannot do to keep ourselves and others safe and happy. Rules at a playground help everyone have fun—like taking turns on the slide.
+**Reciprocity**: The principle of "I do something for you, you do something for me." It's one of the most fundamental patterns in human societies — and it appears in other animals too (vampire bats share blood meals with bats who shared with them previously). Reciprocity is the glue of cooperation. Game theorists call the most effective strategy "tit-for-tat" — cooperate first, then mirror what the other person does.
 
-**Respect**: Treating people and things with care and kindness; listening to others and honoring what they say matters to them. When you listen to your friend's ideas and don't interrupt them, you show respect.
+**Norm**: An expected behavior within a group. Norms can be explicit (written rules like "no running in the hall") or implicit (unwritten understandings like waiting in line at a store). Norms develop naturally whenever humans form groups, and even toddlers enforce them — a 3-year-old who says "that's not fair!" is enforcing a norm. Norms are a form of collective memory: the group remembers what works.
 
-**Turn-taking**: Waiting patiently for your chance to do something, then letting someone else have their turn. In a game, one player goes first, then the other player gets their turn.
+**Free rider**: Someone who benefits from the group's cooperation without contributing. If everyone cleans up but one person doesn't help, they still get a clean room — they're a free rider. Economists and game theorists study this extensively because free riding is one of the biggest threats to cooperation. Even 3-year-olds get upset at free riders. Rules exist partly to prevent free riding.
 
 ## Learning Song
 
@@ -104,17 +104,17 @@ Children participate in a series of simple cooperative games and turn-taking cha
 
 2. **Exploration** (10-12 min):
 
-   **Game 1 - Building Together (4 minutes)**:
-   Place blocks in front of you and the child. Say: "Can you help me build a tower? I'll add a block, then you add a block. We're cooperating!" Take turns placing blocks. Narrate: "You helped! That was wonderful teamwork." When it falls (it will!), laugh together and say: "Let's build again—cooperation helps us try again!"
+   **Game 1 - Building Together: Social Contract in Action (4 minutes)**:
+   Place blocks in front of you and the child. "Before we build, let's make a social contract — an agreement about how we'll work together. Our contract: we take turns placing one block each, and we both decide where it goes. You give up the freedom to place blocks whenever you want, but you get a partner who helps." Take turns placing blocks. When it falls: "The social contract still holds — we agreed to work together, even when things go wrong. Rebuilding together IS the contract."
 
-   **Game 2 - Turn-Taking Game (4 minutes)**:
-   Sit together with a simple dice game or "I Spy" taking turns. If using dice: "You roll the dice, then I roll. That's taking turns—part of cooperation." Make it clear and celebrate each turn: "Your turn!" / "My turn!" / "Good waiting—you're cooperating!"
+   **Game 2 - The Reciprocity Game (4 minutes)**:
+   Sit together with a simple dice game. Before playing: "This game uses reciprocity — I wait for your turn, and you wait for mine. We're both giving something (patience) and getting something (a fair game)." During play: "Right now you're waiting — that's your contribution to our social contract. Now it's your turn — that's the reciprocity, the payback."
 
-   **Game 3 - Passing and Sharing (2-3 minutes)**:
-   Stand in a circle (or sit with just two of you). Pass a soft ball, toy, or scarf back and forth with music or singing. Stop music occasionally and celebrate whoever holds the item. Say: "You shared! Great cooperation!"
+   **Game 3 - The Free Rider Experiment (2-3 minutes)**:
+   Build something cooperatively. Then pose the scenario: "What if I stopped helping but still wanted to play with what you built? That's called a free rider — someone who gets the benefits without doing the work. How does that feel? That's why we have norms — expectations that everyone contributes."
 
 3. **Discovery** (3-4 min):
-   Sit together and ask: "What makes cooperation work?" Prompt with: "We took turns. We helped each other. We listened to each other. Everyone got a chance to play." Show a picture of children arguing or not listening, then one of children playing together. Ask: "Which one shows cooperation?" Reinforce that cooperation makes everyone happy and play is more fun when people work together.
+   Sit together and discuss: "Every game we played had a social contract — rules we agreed to follow. Why did we follow them? Because reciprocity: when everyone follows the rules, everyone benefits. What happens when someone breaks the contract?" Help them articulate the concept: "Rules aren't just instructions — they're agreements between people. And the reason cooperation WORKS is because of reciprocity: I help you, you help me, and we both end up better than if we worked alone. Mathematicians have actually proven this — cooperative strategies beat selfish ones almost every time."
 
 4. **Wrap-up** (1-2 min):
    Offer high-fives or fist bumps. Say: "You were amazing at cooperating today! You took turns, you helped, and you listened. That's what cooperation looks like." Transition to the next activity with: "Remember, cooperation is working together. You can use it with your friends and family every day!"
@@ -125,7 +125,7 @@ Children participate in a series of simple cooperative games and turn-taking cha
 Keep games very simple with just one rule per activity. Use very concrete language: "Your turn / My turn" rather than abstract explanations. Celebrate attempts even if the child doesn't fully understand. Use physical touch (hand guiding) rather than verbal instructions. Games should last 1-2 minutes each before moving to next activity. Let the child lead sometimes to maintain engagement.
 
 **3-4+ years**:
-Introduce more complex games with 2-3 rules (like a simple board game with turn order). Ask "why" questions: "Why do we take turns?" to encourage critical thinking. Let them help set up and explain rules to younger children. Add challenges like working with two partners instead of one. Create simple scoreless competitions to reinforce teamwork over winning. Introduce consequences for not following rules gently: "When we don't listen, our friend feels sad. What can we do to help them feel happy?"
+Introduce games where children create their own social contracts: "What rules do we need for this game to be fair?" Let them discover through experience why certain rules are necessary. Explore the free rider problem explicitly: play a cooperative building game and discuss what happens when one person stops contributing. Introduce the concept of enforcement: "Who makes sure rules are followed? In games, players enforce rules. In society, we have referees, police, and judges." Try the Prisoner's Dilemma in simple form: each person can choose to share or keep — if both share, both get a reward; if both keep, neither does; if one shares and one keeps, the keeper wins big and the sharer loses. This teaches why cooperation requires trust. Ask: "What makes you trust someone to follow the social contract?" Introduce cross-cultural rule comparison: different cultures have different norms, but all cultures have norms because cooperation is universal to humans.
 
 ### Extension Ideas
 

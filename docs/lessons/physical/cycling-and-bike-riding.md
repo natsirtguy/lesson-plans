@@ -14,6 +14,16 @@ Cycling and bike riding activities introduce young children to pedal-powered mov
 
 **Space Required**: Large open area (20x20 feet minimum for safe exploration)
 
+## Vocabulary
+
+**Gyroscopic effect**: The phenomenon that makes a spinning wheel resist tipping over. A bicycle wheel acts as a gyroscope — once it's spinning, it wants to stay upright due to angular momentum (the rotational equivalent of inertia). This is a major reason bikes are easier to balance when moving than when stopped. The faster the wheel spins, the stronger the gyroscopic effect. This same principle keeps a spinning top upright and allows a thrown football to fly straight through the air.
+
+**Center of gravity**: The point where all your body weight is effectively concentrated. On a bike, your center of gravity is roughly at your midsection. To stay balanced, your center of gravity must stay over the line between the two wheel contact points (the "base of support"). When you lean too far to one side, your center of gravity moves outside the base and gravity pulls you into a fall. Skilled cyclists make constant micro-adjustments to keep their center of gravity aligned.
+
+**Quadriceps and hamstrings**: The two main muscle groups that power pedaling. Your quadriceps (four muscles on the front of your thigh) contract during the downstroke — the power phase — extending your knee to push the pedal down. Your hamstrings (three muscles on the back of your thigh) help pull the pedal back up during the upstroke. These muscles work as an antagonist pair: when one contracts, the other relaxes. Together they convert the back-and-forth motion of your legs into the circular motion of the pedals.
+
+**Wheel and axle**: One of the six simple machines. A bicycle wheel is a large circle (the wheel) that rotates around a smaller cylinder (the axle). This arrangement provides mechanical advantage: a small rotation of the axle (driven by the chain and pedals) creates a much larger rotation of the wheel's outer edge, allowing the bike to cover ground much faster than walking. The larger the wheel, the more distance covered per pedal rotation.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -103,11 +113,11 @@ Cycling and bike riding activities introduce young children to pedal-powered mov
 - Start with wide, gentle curves before attempting tighter turns
 
 **Coaching cues**:
-- "Sit up tall with your feet reaching the pedals - you've got this!"
-- "Pedals go round and round like wheels turning - smooth and steady"
-- "Look where you want to go, not down at the ground - your body follows your eyes"
-- "Handlebars are your steering wheel - gentle turns, just like in a car"
-- "You're doing amazing - keep going! Your legs are so strong!"
+- "Push down with your quadriceps — those are the four big muscles on the front of your thigh. They're some of the strongest muscles in your body, and they do most of the work when pedaling."
+- "Feel how it's easier to balance when you're moving? That's the gyroscopic effect — the spinning wheels resist tipping over. The faster you go, the more stable you become."
+- "Look where you want to go, not at the ground — your body follows your eyes because your brain automatically adjusts your center of gravity to align with where you're looking. Cyclists call this 'target fixation.'"
+- "Gentle turns with the handlebars — when you turn the front wheel, you shift where your base of support is, and your center of gravity must follow or you'll tip."
+- "Each time your foot pushes down, your quadriceps contract. When that foot comes back up, your hamstrings on the other leg help push the other pedal down. Your legs work in alternating pairs — one pushes while the other recovers."
 
 #### Guided Play/Game (3-6 minutes)
 

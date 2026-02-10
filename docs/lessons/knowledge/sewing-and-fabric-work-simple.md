@@ -6,13 +6,13 @@ Simple sewing introduces young children to textile arts through tactile explorat
 
 ## Vocabulary
 
-**Textile**: Fabric made by weaving or stitching threads together. You see textiles in clothes, blankets, curtains, and the cloth your child wears every day—when you sew, you're working with textiles to create something new.
+**Fiber**: The basic building block of all fabric — a thin, flexible strand that can be natural or synthetic. Natural fibers come from plants (cotton from seed pods, linen from flax stems) or animals (wool from sheep, silk from silkworm cocoons — a single cocoon contains up to 900 meters of silk thread). Synthetic fibers like polyester and nylon are made from petroleum, melted and extruded through tiny holes to create strands. Fibers are twisted together to make thread, and thread is woven or knitted to make fabric. Humans have been spinning fibers into thread for over 30,000 years.
 
-**Stitch**: A loop of thread created by pushing a needle through fabric and pulling it to the other side. Each stitch is like a tiny knot of thread that holds the fabric together, and many stitches joined together create a seam or decoration.
+**Running stitch**: The most basic and ancient sewing stitch — the needle goes down through fabric, travels underneath, then comes back up, creating a dashed-line pattern. It works because each pass of thread creates friction against the fabric, and the accumulated friction of many stitches holds the pieces together. A sewing machine creates a different type: a lock stitch, where two threads interloop through the fabric, which is much stronger.
 
-**Tension**: How tight or loose the thread is when you pull it through fabric. If tension is too tight, the thread might snap; if it's too loose, the stitch might fall apart. Finding just the right tension is what makes stitching work beautifully.
+**Warp and weft**: The two directions of thread in woven fabric. Warp threads run vertically on a loom under tension. Weft threads are woven horizontally, passing over and under the warp in alternating patterns. This interlocking structure gives woven fabric its strength — each thread is held in place by crossing threads. The specific over-under pattern creates different fabrics: plain weave (over one, under one), twill (diagonal pattern in denim jeans), satin (long floats that create shine).
 
-**Embellish**: To make something look more beautiful or interesting by adding decorative details. When you sew colorful stitches onto plain fabric, you're embellishing it and turning something ordinary into something special.
+**Tension**: The pulling force transmitted through thread as you sew. Correct tension draws fabric together with stitches lying flat. Too much tension puckers the fabric; too little creates loose loops. This is the same physics principle that makes a drawstring bag close when you pull the cord — the thread transmits your pulling force through the fabric.
 
 ## 🎵 Learning Song
 
@@ -97,13 +97,13 @@ Children will work with large plastic needles and colorful yarn to create basic 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show a simple piece of pre-made stitching to the children and let them touch and feel the texture. Demonstrate slowly how you push the needle through fabric and pull it out the other side. Say: "Watch the needle go in... and it comes out here! Now we pull the yarn."
+   Show a piece of pre-made stitching and a piece of woven fabric. Have children feel both. Explain: "This fabric is made of fibers — tiny threads woven together. See the warp going this way and the weft going that way? Every piece of clothing you wear is threads interlocked in this pattern." Point to the stitching: "Sewing adds MORE thread to connect pieces or decorate. Each stitch holds because of friction — the thread rubs against the fabric and doesn't slip out."
 
 2. **Exploration** (5-10 min):
-   Give each child a pre-threaded needle and fabric piece. Guide their hand to push the needle through a hole or area of fabric. Let them pull the yarn through after the needle passes. Observe their hand coordination—do they use a pincer grip? Can they coordinate both hands? Offer encouragement: "You pushed the needle right through! See the yarn on the other side?"
+   Give each child a pre-threaded needle and fabric. Explain what they're about to do: "You're making a running stitch — the oldest stitch in human history. The needle punches through the woven fibers, and the thread follows. When you pull, the thread creates friction that holds it in place." Guide their hand through the first stitch. Ask: "Can you feel the needle pushing through the fibers? Those are tiny threads packed tightly together, and the needle has to push them apart." After pulling through: "See how the thread sits in the fabric? That's friction holding it — the thread rubs against the woven fibers."
 
 3. **Discovery** (5-10 min):
-   Demonstrate the up-and-down stitching motion slowly using descriptive language: "In through the hole, pull the yarn, then in again!" Guide the child's hand as needed (hold their wrist gently, help them push the needle, assist with pulling). After 3-5 stitches together, step back and let them continue independently. Ask: "Where does the needle go next?" When interest wanes or the knot is reached, offer a fresh threaded needle.
+   Demonstrate the running stitch pattern: "In, under, out — that's one stitch. The needle travels under the fabric where you can't see it." After 3-5 stitches, examine the back of the fabric together: "Look — the back shows where the thread travels underneath. The front and back of your stitching are mirror images." Discuss tension: "Pull the thread gently — see how the fabric stays flat? Now pull HARD — see how it bunches up? That's too much tension. The amount of pulling force changes how the stitch looks."
 
 4. **Wrap-up** (2-3 min):
    Signal transition: "Let's finish with two more stitches, then we'll stop." Safely remove the needle and set it aside. Admire the creation: "You made this! Look at all your stitches!" Take a photo for documentation. Help the child gather materials and wash hands.
@@ -120,14 +120,12 @@ Children will work with large plastic needles and colorful yarn to create basic 
 - Use very thick, brightly colored yarn (easier to see and manipulate)
 
 **3-4+ years**:
-- Guide children to thread needles with your verbal coaching ("Thread the needle... good! Now pull it through")
-- Introduce naming of stitches ("up stitch, down stitch")
-- Create simple patterns on fabric before sewing (pencil dots marking where to stitch)
-- Encourage independent threading attempts, then assist
-- Introduce different thread types and compare them (thin vs. thick)
-- Suggest creating stitched pictures (sew around a pre-drawn shape)
-- Challenge them: "Can you make a line of stitches?" or "Can you cover this part with stitches?"
-- Sessions can extend to 20-30 minutes; children may want to continue longer
+- Introduce different stitch types: running stitch (dashed line), whip stitch (wrapping over the edge), cross stitch (X patterns). Each creates different structural properties — whip stitch is stronger for joining edges because thread wraps around both pieces.
+- Compare fiber types: give children different fabrics to feel. Cotton (soft, absorbs water — plant fiber), felt (compressed wool — animal fiber), burlap (rough, loose weave — jute plant fiber). Explain: "Different fibers have different properties because they come from different sources."
+- Examine warp and weft with a magnifying glass on loose-weave burlap — children can actually see the individual threads crossing.
+- Thread a simple cardboard loom to understand weaving: "Your needle is doing what a loom does — passing thread over and under to create fabric. Every piece of clothing started on a loom."
+- Introduce the concept of seam allowance: "Real garment makers sew a little distance from the edge so the fabric doesn't fray and pull apart."
+- Discuss the history: "The sewing needle is one of the oldest human tools — bone needles from 40,000 years ago have been found. Before needles, humans couldn't make fitted clothing."
 
 ### Extension Ideas
 
