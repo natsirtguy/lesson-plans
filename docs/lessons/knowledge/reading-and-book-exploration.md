@@ -6,13 +6,13 @@ Young learners will develop a genuine love of books and discover that stories co
 
 ## Vocabulary
 
-**Narrative**: The story being told in a book—the sequence of events, characters, and ideas that unfold from the beginning to the end.
+**Phoneme**: The smallest unit of sound in a language. The English language has about 44 different phonemes — for example, the word "cat" has three phonemes: /k/ + /æ/ + /t/. Your brain must learn to break words into these individual sounds (called phonological awareness) before it can match sounds to written letters. Babies can hear all the phonemes from every language in the world, but by age 1, their brains specialize to hear primarily the phonemes of the languages spoken around them — the unused neural connections get pruned away.
 
-**Illustration**: A picture or drawing created by an artist to show what is happening in the story and help readers understand the words.
+**Broca's area**: A region in the left frontal lobe of your brain that controls speech production — turning your thoughts into spoken words. It's named after Paul Broca, the French physician who discovered in 1861 that patients with damage to this area could understand language but couldn't speak fluently. When you read aloud, Broca's area activates to produce the sounds. Even when you read silently, Broca's area partially activates — you're subvocalizing (silently saying the words in your head).
 
-**Anticipate**: To think ahead and guess or predict what might happen next in a story based on what you've already read and seen.
+**Wernicke's area**: A region in the left temporal lobe of your brain responsible for language comprehension — understanding the meaning of words you hear or read. Named after Carl Wernicke, who discovered in 1874 that damage to this area causes people to speak fluently but without meaning. When you listen to a story and understand what it means, Wernicke's area is processing the meaning of every word. Broca's area and Wernicke's area are connected by a bundle of nerve fibers called the arcuate fasciculus.
 
-**Literature**: Books and stories written and illustrated by authors and artists that are shared with readers to entertain, teach, or inspire.
+**Decoding**: The cognitive process of converting written symbols (letters) into sounds and then into meaning. Your brain doesn't naturally know how to read — unlike spoken language, which humans evolved to do, reading was invented only about 5,000 years ago. Your brain must repurpose its visual cortex (which evolved for recognizing faces and objects) to recognize letter shapes, then connect those shapes to phonemes, then connect those sound patterns to word meanings stored in Wernicke's area. This complex neural circuit is why learning to read takes years of practice.
 
 ## Learning Song
 
@@ -97,24 +97,24 @@ Children will explore a curated collection of different types of books in a cozy
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Invite your child to your cozy reading space. Say: "I have some wonderful books we can explore together! Look at all these pictures. What do you see?" Point to the books and invite them to choose one. Use an enthusiastic, warm tone to convey that books are special.
+   Invite your child to the reading space and introduce the neuroscience of reading: "Something amazing is about to happen in your brain. You have two special brain regions that work together for language: Broca's area, in the front left of your brain, which helps you produce speech, and Wernicke's area, in the left side of your brain, which helps you understand what words mean. When I read to you, Wernicke's area lights up as your brain processes every word's meaning. And here's a fascinating fact: humans only invented reading about 5,000 years ago — your brain isn't naturally built for it. It has to repurpose brain areas that evolved for other things, like recognizing faces!"
 
 2. **Exploration** (7-10 minutes):
-   Open the first book slowly and invite your child to touch the pages (gently). Let them turn pages at their own pace—this is about discovery, not rushing through the story. As you turn pages together, point to and name pictures: "Look! A dog! The dog is running." Use simple language. If the book has textures (fuzzy, smooth, bumpy), invite your child to feel and describe them. Ask simple questions: "What color is that?" or "What's the dog doing?"
+   Open a book and begin reading. As you go, introduce phonological awareness: "Listen to this word: 'cat.' It has three sounds: /k/, /æ/, /t/. Those individual sounds are called phonemes. English has about 44 different phonemes. When you learn to read, your brain will learn to match written letters to these phonemes — that's called decoding." Point to pictures: "Your visual cortex — the part of your brain that processes what you see — is recognizing this dog picture instantly because it evolved to recognize shapes. Someday it will also learn to recognize letter shapes and convert them to sounds." Let the child turn pages at their own pace.
 
 3. **Discovery** (3-5 minutes):
-   Look together at a few different books. Notice how they're different: "This one has soft fuzzy parts. That one has shiny pages. This one shows animals." Let your child choose which book they want to look at longer. Listen to their reactions—giggles, pointing, sounds—and respond with enthusiasm. If they seem interested in a specific book, stay with it. Let the child lead the pace.
+   Explore different book types and introduce book-making science: "This board book is thick and sturdy because it's made from pressed layers of cardboard. Paper comes from wood — trees are broken down into cellulose fibers, mixed with water, pressed flat, and dried. This book has thousands of words, but a printing press can print thousands of copies in an hour — before the printing press was invented by Johannes Gutenberg around 1440, every single book had to be copied by hand!" Compare different books: "Look at the illustrations — these were created by an artist, then printed using tiny dots of just four ink colors: cyan, magenta, yellow, and black (CMYK). Your brain blends those tiny dots together to see full-color images."
 
 4. **Wrap-up** (2-3 minutes):
-   Place the books back in their special spot together. Say: "Books are such treasures! We can read them again tomorrow. Which book was your favorite today?" Give a cuddle or high-five to celebrate reading time together.
+   Connect reading to brain development: "Every time someone reads to you, your brain is doing incredible work — Wernicke's area is processing word meanings, your visual cortex is connecting pictures to words, and you're building the neural pathways that will eventually let you decode written symbols on your own. The more stories you hear, the more phonemes your brain catalogs and the more vocabulary your Wernicke's area stores. Reading literally makes your brain grow."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep it very simple. Choose board books (sturdy, safe for chewing). Focus on single objects on pages: "Dog! Doggy!" Use lots of repetition. Let them turn pages even if they're rough. Celebrate every page turn. Keep sessions to 5-10 minutes. Reading time is about togetherness, not understanding complex narratives.
+Choose board books. Use the real terms in simplified form: "Your brain has a special part called Wernicke's area that understands words — it's working right now!" Do simple phoneme play: "Dog starts with /d/. Can you make the /d/ sound?" Even if they can't isolate phonemes yet, the exposure builds phonological awareness. Name pictures with enthusiasm and repetition — each repetition strengthens the neural connection between the word's sound (stored in Wernicke's area) and its meaning. Sessions of 5-10 minutes are perfect.
 
 **3-4+ years**:
-Choose books with simple stories (beginning, middle, end). Ask more questions: "What happens next?" or "Why is the cat sleeping?" Introduce the idea that stories have characters and they do things. Point out that the same character appears on different pages. Let them retell parts of the story using the pictures. Introduce the concept of their favorite books and why they like them.
+Introduce more phoneme awareness activities: clap out syllables ("el-e-phant" = 3 claps), identify rhyming words ("cat, hat, bat — they all share the /æt/ phoneme pair!"), and spot words that start with the same phoneme (alliteration). Explain how writing systems vary: "English uses an alphabet — each letter represents a phoneme. But Chinese uses characters where each symbol represents a whole word or idea. Arabic is written right to left. There are thousands of writing systems humans have invented!" Point out letters and explain decoding: "This letter 'S' makes the /s/ sound. Your brain's visual cortex is learning to recognize that shape and connect it to a sound." Introduce narrative structure: protagonist, conflict, resolution — the same story architecture used for thousands of years from Sumerian epics to modern picture books.
 
 ### Extension Ideas
 

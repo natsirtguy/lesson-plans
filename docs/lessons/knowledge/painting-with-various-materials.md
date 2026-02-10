@@ -6,13 +6,13 @@ Children explore creative expression by painting with unconventional tools beyon
 
 ## Vocabulary
 
-**Transform**: To change something into something different or new. When you paint yellow paint on top of blue paint, it transforms into green—a completely new color.
+**Pigment**: Tiny solid particles that give paint its color by absorbing certain wavelengths of light and reflecting others back to your eyes. Red pigment absorbs blue and green light wavelengths and reflects red wavelengths — that's why you see red. White pigment reflects ALL wavelengths; black pigment absorbs ALL wavelengths. For thousands of years, humans ground up minerals, plants, and even insects to make pigments: ochre (iron oxide) for red and yellow, lapis lazuli (a gemstone) for blue, malachite (copper carbonate) for green.
 
-**Texture**: The way something feels when you touch it, and what patterns or marks it creates. A sponge has a bumpy, rough texture that makes bumpy marks on paper.
+**Binder**: The sticky liquid in paint that holds pigment particles together and makes them stick to a surface. Different binders create different types of paint: egg yolk is the binder in tempera paint (used by medieval painters), linseed oil is the binder in oil paint, acrylic polymer is the binder in acrylic paint, and gum arabic is the binder in watercolor. The binder you're using today (in washable tempera) is a water-soluble polymer — it dissolves in water, which is why the paint washes off.
 
-**Palette**: A range of colors or materials you can choose from. Your painting palette includes red, blue, and yellow paint, plus sponges, leaves, and string to paint with.
+**Capillary action**: The ability of a liquid to flow through narrow spaces without gravity's help, even upward. When you dip a sponge or string in paint, capillary action pulls the paint into the tiny gaps between fibers. This happens because paint molecules are attracted to the material's surface (adhesion) and to each other (cohesion). Different materials have different-sized gaps, so they absorb paint differently — a sea sponge's large holes produce a different pattern than a kitchen sponge's small, uniform holes.
 
-**Stroke**: A mark or line created by moving a painting tool across paper. When you drag a brush across paper, you make a stroke.
+**Subtractive color mixing**: When you mix paints together, each pigment absorbs (subtracts) more wavelengths of light, so the mixture reflects fewer wavelengths and appears darker. Yellow pigment absorbs blue light; blue pigment absorbs red and yellow light. Mixed together, the only wavelength neither absorbs is green — so you see green. This is why mixing all paint colors eventually makes brown or black: almost all light wavelengths get absorbed. This is the opposite of how colored light works (additive mixing), where combining all colors makes white.
 
 ## 🎵 Learning Song
 
@@ -107,13 +107,13 @@ Your child will freely explore how different painting tools and materials create
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Invite your child to sit at the prepared table. Show 2-3 unusual painting tools and ask curious questions: "What do you think will happen if we paint with this sponge?" or "Can you guess what mark this string will make?" Demonstrate one quick example by dipping a sponge in paint and pressing it on paper to show the texture pattern. Use excited language: "Let's discover what happens!"
+   Introduce paint science before painting: "Paint is made of two main things: pigment — tiny particles that give paint its color — and a binder — the sticky liquid that holds the pigment together and makes it stick to paper. The pigment in this red paint absorbs blue and green light and reflects red light back to your eyes. That's why you see red!" Show 2-3 unusual tools: "Different tools carry and deposit paint differently because of capillary action — the way liquid flows into tiny spaces. Let's see how a sponge's holes, a string's fibers, and a leaf's veins each carry paint in their own way."
 
 2. **Exploration** (5-10 minutes):
-   Let your child select their first painting tool and explore freely. They may dip the tool in paint (with your hand-over-hand support if needed), press it, stamp it, or drag it across the paper. Comment with genuine excitement on what they discover: "That sponge made a bumpy pattern!" or "Look how the paint spreads!" Encourage them to try different tools in sequence. All exploration is valid—painting with arms, fingers, or tools.
+   Let your child select tools and explore. Narrate the science: "See how the sponge soaks up paint? That's capillary action — the paint molecules are attracted to the sponge fibers and flow into all those tiny holes. Now press it down — each hole releases paint, creating that dotted pattern!" When they try string: "String is made of twisted fibers with tiny gaps between them. Capillary action pulls paint into those gaps. When you drag the string, paint releases from the fibers in a thin, wavy line." With leaves: "Look at the pattern the leaf made — you can see the veins! Those veins are the leaf's circulatory system, carrying water and nutrients. They hold more paint than the flat parts, so they print darker."
 
 3. **Discovery** (3-5 minutes):
-   Introduce new techniques if your child shows interest: rolling, pressing and lifting (to see the shape), dragging to create lines, mixing colors, or pressing leaves to transfer their shape. Ask open-ended questions: "What happens if we use two different colors?" or "Which tool is your favorite so far?" Keep demonstrations simple and optional—they guide rather than direct.
+   Introduce subtractive color mixing: "Let's try mixing yellow and blue paint together. Watch — it makes green! Here's why: yellow pigment absorbs blue light, and blue pigment absorbs yellow and red light. When you mix them, the only light wavelength that neither pigment absorbs is green — so green is what you see!" Try mixing all colors: "What do you think happens if we mix ALL the colors? Each pigment absorbs more light wavelengths, so eventually almost no light reflects back — and we see brown or almost black. This is called subtractive color mixing because each color subtracts more light."
 
 4. **Wrap-up** (2-3 minutes):
    Signal the ending gently: "We have time for a few more marks, then we'll pause our painting." Ask them to place their painting in a designated drying area. Make cleanup playful: "Let's see if we can wash these sponges back to their colors." Praise their exploration and effort.
@@ -121,28 +121,20 @@ Your child will freely explore how different painting tools and materials create
 ### Age Adaptations
 
 **2-3 years**:
-- Limit tools to 3-4 at a time to avoid overwhelm
+- Limit tools to 3-4 but use real terminology: "This sponge uses capillary action to soak up the pigment"
 - Start with easy tools: sponges and foam rollers
-- Expect more hand-painting and less tool control
-- Focus entirely on sensory exploration
-- Use hand-over-hand support for dipping
-- Provide larger paper to reduce pressure
-- Use thicker paint so it shows up clearly
-- Keep water separate to prevent tasting
-- Expect paint on face, hair, and clothes—this is normal sensory learning
+- When they hand-paint, explain: "Your fingertip has ridges — fingerprints! Those ridges hold pigment in their tiny grooves, making a pattern unique to you"
+- Demonstrate one color mix: "Yellow and blue make green because of subtractive color mixing!"
+- Use thicker paint (more pigment, less water) so colors are vivid
 - Duration: 10-15 minutes
 
 **3-4+ years**:
-- Introduce multiple sheets for creating a series
-- Teach intentional color mixing: "Let's make orange by mixing red and yellow"
-- Show how layering colors creates new effects
-- Introduce more complex tools: string stamping, natural materials, stencil painting
-- Suggest scenes without dictating: "Paint a garden" or "Paint a sunset"
-- Challenge them to use only one tool per painting, then switch
-- Encourage pattern creation and controlled mark-making
-- Ask them to explain their process and choices
-- Encourage collaborative painting on large shared paper
-- Duration: 20-30 minutes or longer with sustained focus
+- Teach the full color wheel through subtractive mixing: red + yellow = orange, yellow + blue = green, blue + red = purple. Explain why each combination works in terms of light absorption
+- Compare subtractive mixing (paint) with additive mixing (light): "Mixing paint colors makes darker colors. But mixing colored lights makes lighter colors — if you mix all light colors you get white! TVs and phone screens use additive mixing with tiny red, green, and blue lights"
+- Introduce viscosity: thin (watery) paint flows and spreads; thick paint holds its shape. "Viscosity means how thick or runny a liquid is. Honey has high viscosity, water has low viscosity. Thick paint and thin paint make very different marks"
+- Discuss historical pigments: "Ultramarine blue was made from lapis lazuli gemstones ground to powder — it was more expensive than gold! That's why the Virgin Mary's robe is always painted blue in old paintings — to show she was precious"
+- Challenge: paint the same subject with a sponge, then with string — compare how the tool changes the result even though the subject is the same
+- Duration: 20-30+ minutes
 
 ### Extension Ideas
 

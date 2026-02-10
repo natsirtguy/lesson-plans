@@ -6,13 +6,13 @@ Children engage in the planning, preparation, and hosting of a pretend or real c
 
 ## Vocabulary
 
-**Hospitality**: The kind and friendly way you welcome and take care of guests to make them feel special and loved. When you offer someone a snack or show them around your party space, you are showing hospitality.
+**Logistics**: The science of planning and organizing all the steps, resources, and timing needed to make something happen. Real logistics involves figuring out: what resources do we need? In what order must things happen? What depends on what? Militaries, hospitals, and space agencies all use logistics to ensure complex operations go smoothly. Planning a party is logistics in miniature — you must sequence tasks (invitations before the party, food preparation before serving), allocate resources (enough plates for every guest), and manage constraints (limited time, limited space).
 
-**Orchestrate**: To plan and organize all the different parts of something so they work together beautifully. When you decide what decorations to put where and when to serve snacks, you are orchestrating your party.
+**Ritual**: A ceremony or set of actions performed in a specific order that holds special meaning for a group of people. Every human culture in recorded history has rituals — birthday celebrations, harvest festivals, coming-of-age ceremonies, seasonal feasts. Anthropologists (scientists who study human cultures) believe rituals evolved because they strengthen social bonds: when people celebrate together, their brains release oxytocin and endorphins, reinforcing group cohesion. A party is a modern ritual.
 
-**Coordinate**: Making sure different things work together smoothly and at the right time. When you plan decorations that match your party theme, you are coordinating your ideas.
+**Resource allocation**: The process of deciding how to distribute limited resources (time, materials, space, money) among competing needs. Every party planner faces resource allocation: "We have 10 plates but 12 guests — what do we do?" "We have 30 minutes to set up — what's most important to do first?" This is the same fundamental challenge that economists, engineers, and governments face at larger scales. Scarcity (having less than you want) forces choices.
 
-**Welcoming**: Creating a warm, friendly, and happy environment where people feel safe, comfortable, and wanted. A welcoming space has decorations, friendly greetings, and snacks ready to enjoy.
+**Delegation**: Assigning specific tasks to different people based on their abilities and availability, so that work gets done in parallel rather than one person doing everything sequentially. When a party host asks one person to hang decorations while another prepares food, they're delegating — and the party gets ready faster because tasks happen simultaneously. This is the same principle behind division of labor in factories, hospitals, and orchestras.
 
 ## 🎵 Learning Song
 
@@ -102,16 +102,16 @@ In this hands-on dramatic play activity, children plan and host a celebration ev
 **Activity Flow**:
 
 1. **Introduction** (3-5 minutes):
-   Introduce the party planning concept by asking exciting questions: "We're going to plan a special party! What kind of party would you like? Who should we invite? What will we serve?" Listen to the child's ideas and incorporate them into the plan. Show the available supplies and let excitement build.
+   Frame party planning as a logistics challenge: "Planning a party is a real logistics problem — that means figuring out everything we need, what order to do things in, and how to use our resources wisely. Real event planners, military commanders, and space mission controllers all use the same kind of thinking. Let's be logistics planners!" Introduce the concept of ritual: "Did you know that every human culture in history has had celebrations? Anthropologists — scientists who study human cultures — found that rituals like parties strengthen social bonds. When people celebrate together, their brains release chemicals that make them feel connected."
 
 2. **Planning & Decision-Making** (5-10 minutes):
-   Help the child make key decisions: party theme (birthday, tea party, dance party), number of guests (keep it to 3-4 for manageability), decorations to use, and simple menu. Model writing a basic invitation together. Support the child in creating invitations for each guest with drawings, colors, and words.
+   Teach resource allocation: "First, let's figure out our resources — what do we have to work with? How many plates? How many guests? If we have fewer plates than guests, that's called scarcity — and we need to figure out a solution." Create a simple task sequence together: "Some things must happen before others — we need to make invitations before we deliver them, and we need to set up the table before we put food on it. That's called sequencing. In project management, the order things must happen in is called the critical path — the steps that can't be skipped or rearranged." Write a simple task list together.
 
 3. **Preparation & Decoration** (8-15 minutes):
-   Work together to transform the party space into something special. The child helps hang or arrange decorations, creating a welcoming environment. Create simple party hats, place cards, or table settings if desired. Arrange plates, cups, and napkins in a serving area. Talk about how the space feels special and welcoming.
+   Practice delegation: "We have lots of tasks. If one person does everything one at a time, that's called sequential work — it takes longer. But if we divide the work and different people do different tasks at the same time, that's delegation and parallel work — it's much faster!" Assign tasks: "You hang decorations while I prepare the food. We're working in parallel!" As you set up, discuss the anthropology: "Humans have been decorating celebration spaces for at least 40,000 years — cave paintings show evidence of ritual gatherings. Decoration signals to everyone: something special is happening here."
 
 4. **Hosting & Celebration** (remaining time):
-   The child welcomes each guest, greeting them warmly. Practice hospitality by offering refreshments: "Would you like a snack? Here's a napkin." Facilitate conversations between child and guests about the party. Play music, sing happy birthday, dance, or play simple games. Allow the child to lead the celebration naturally.
+   As the child hosts, frame the social dynamics: "Offering food to guests is one of the oldest hospitality rituals in human history. In many cultures, sharing food creates a social contract — a bond of trust between host and guest. The word 'companion' literally comes from Latin: 'com' (together) + 'panis' (bread) — a companion is someone you share bread with." Let the child lead naturally while naming what they're doing: "You're delegating — you asked your bear to sit here and your doll to sit there. You're managing the flow of the event — first greetings, then food, then games. That's event logistics!"
 
 5. **Wrap-Up** (3-5 minutes):
    When party energy winds down, have the child thank guests and say goodbye with hugs or waves. Reflect together: "What was your favorite part? What did your guests enjoy?" Transition to cleanup by explaining that hosts help restore the space. The child assists with putting away decorations and cleaning up.
@@ -119,10 +119,10 @@ In this hands-on dramatic play activity, children plan and host a celebration ev
 ### Age Adaptations
 
 **2-3 years**:
-Simplify significantly by having the adult make most planning decisions while the child participates in choosing. Skip elaborate planning and focus on the celebration itself: decorations, snacks, and dancing. Use pre-made invitations the child colors rather than creating from scratch. Keep the activity to 20-25 minutes with shorter planning (5 min) and longer celebration (15-20 min). Provide substantial adult support throughout, actively hosting most of the party alongside the child.
+Simplify but keep the core concepts: use "logistics" and "resource" as regular vocabulary. Focus on the celebration itself but weave in real content: "We're sharing food with our guests — that's one of the oldest human rituals!" Count plates and guests together: "Do we have enough? That's resource allocation!" Keep to 20-25 minutes. Even simple delegation works: "You put the cups, I'll put the plates — we're working in parallel!"
 
 **3-4+ years**:
-Extend the planning phase with written lists and sketches. The child can design and create invitations with words (with adult help for spelling). Explore more sophisticated party themes with matching decorations. Introduce menu planning: "What foods match our theme?" Create place cards with guests' names, plan party games or entertainment, and establish multiple party phases (arrival, food, games, goodbye). Allow the child to take more leadership in hosting and managing the party flow. Duration can extend to 35-45 minutes.
+Extend the logistics challenge significantly. Introduce a simple budget: "We have 10 pretend coins to spend. Decorations cost 3, food costs 4, games cost 3. Do we have enough? What if we want more food — what do we give up? That's a trade-off." Create a written task sequence with a timeline. Discuss rituals across cultures: birthday parties with candles (originating from ancient Greek offerings to Artemis), Chinese New Year with red envelopes, Día de los Muertos with ofrendas, Diwali with diyas (oil lamps). Ask: "What do all these celebrations have in common?" (Answer: gathering people, sharing food, decorating spaces — universal human rituals). Introduce the concept of contingency planning: "What if it rains? What's our backup plan?" Real logistics always includes planning for what might go wrong.
 
 ### Extension Ideas
 

@@ -14,6 +14,16 @@ Progressive muscle relaxation introduces children to the powerful technique of i
 
 **Space Required**: 6x8 feet minimum (space for child to lie down)
 
+## Vocabulary
+
+**Muscle fiber**: The individual cells that make up your muscles. Each muscle fiber contains tiny proteins called actin and myosin that slide past each other to make the fiber shorten (contract). When your brain sends an electrical signal down a motor neuron to a muscle fiber, calcium ions flood in, causing actin and myosin to grab onto each other and pull — that's a contraction. When the signal stops, calcium is pumped back out, actin and myosin release, and the muscle relaxes. A single muscle like your bicep contains hundreds of thousands of individual muscle fibers.
+
+**Golgi tendon organ**: A specialized sensor located where your muscles connect to your tendons. When you tense a muscle strongly, the Golgi tendon organ detects the force and sends a signal to your spinal cord that triggers automatic relaxation of that muscle — a safety reflex called autogenic inhibition. This is exactly why progressive muscle relaxation works: by deliberately tensing a muscle hard, you activate the Golgi tendon organ, which then produces a deeper relaxation than you could achieve by just "trying to relax." The tension phase isn't just for contrast — it's triggering a neurological reflex.
+
+**Autonomic nervous system**: The part of your nervous system that controls automatic body functions (heart rate, breathing, digestion) without you thinking about them. It has two branches: the sympathetic nervous system (fight-or-flight — speeds up heart rate, releases cortisol and adrenaline, tenses muscles) and the parasympathetic nervous system (rest-and-digest — slows heart rate, relaxes muscles, promotes recovery). Progressive muscle relaxation shifts your body from sympathetic activation to parasympathetic dominance.
+
+**Cortisol**: A stress hormone produced by your adrenal glands (small glands on top of your kidneys). When you're stressed or anxious, cortisol floods your bloodstream, increasing heart rate, tensing muscles, and suppressing non-essential functions like digestion and immune response. Progressive muscle relaxation has been clinically shown to reduce cortisol levels. Lower cortisol means lower heart rate, relaxed muscles, improved immune function, and better sleep.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -85,40 +95,39 @@ Progressive muscle relaxation introduces children to the powerful technique of i
 
 **1. Hand & Arm Tension Release**:
 - Make tight fists with both hands; hold for 2-3 seconds
-- Really tense the hands hard
-- Then let them go completely loose and relaxed
-- Notice the difference between tight and loose
+- "Inside your fist, your flexor muscles in your forearm are contracting — the actin and myosin proteins are pulling on each other. Your Golgi tendon organs are measuring the force..."
+- Release: "Now the Golgi tendon organs triggered autogenic inhibition! Your flexor muscles are relaxing deeper than they could without the tension first."
 - Repeat 1-2 times
 
 **2. Shoulder & Neck Tension Release**:
-- Shrug shoulders up toward ears; tense as tight as possible for 2-3 seconds
-- Then drop shoulders down and let them be heavy and relaxed
-- Notice the difference and how good relaxation feels
+- Shrug shoulders up toward ears, tensing the trapezius muscles; hold for 2-3 seconds
+- "Your trapezius muscles — the big diamond-shaped muscles across your upper back and neck — are contracting hard right now!"
+- Drop shoulders: "Release! The Golgi tendon organs in your trapezius just fired. Feel how heavy and relaxed they become — that's autogenic inhibition at work."
 - Repeat 1-2 times
 
 **3. Face & Head Tension Release**:
 - Scrunch up the whole face (like you tasted something sour); hold for 2-3 seconds
+- "Your face has over 40 individual muscles! Right now your corrugator supercilii is scrunching your eyebrows, your orbicularis oculi is squeezing your eyes shut, and your nasalis is wrinkling your nose."
 - Relax and let face become soft and smooth
-- Repeat 1-2 times
-- Note: Make this playful and fun rather than serious
+- Repeat 1-2 times. Make this playful — naming the muscles makes the silly faces even more fun!
 
 **4. Belly & Core Tension Release**:
-- Tighten belly muscles as tight as possible; hold for 2-3 seconds
-- Release and let belly be soft and relaxed
-- Breathe deeply into relaxed belly
+- Tighten belly muscles (rectus abdominis and obliques) as tight as possible; hold for 2-3 seconds
+- "Your rectus abdominis — the muscle that runs down the front of your belly — and your obliques on the sides are all contracting!"
+- Release and breathe deeply into relaxed belly: "When your belly muscles relax, your diaphragm — the dome-shaped muscle under your lungs — can drop down further, letting you take a deeper breath."
 - Repeat 1-2 times
 
 **5. Leg & Foot Tension Release**:
-- Tighten leg muscles, point toes down; hold for 2-3 seconds
-- Release and let legs become heavy and relaxed
-- Notice feet becoming loose and slack
+- Tighten leg muscles (quadriceps and hamstrings) and point toes down (activating gastrocnemius — the calf muscle); hold for 2-3 seconds
+- "Your quadriceps on the front of your thighs, hamstrings on the back, and gastrocnemius in your calves are all contracting at once!"
+- Release: "All those muscle fibers are now letting go — calcium is being pumped out of the fibers, actin and myosin are releasing their grip."
 - Repeat 1-2 times
 
 **Coaching cues**:
-- "Make it really, really tight... hold it... hold it... now let it go and feel how soft it becomes"
-- "That tight feeling means your muscles are working. This relaxed feeling is what we want."
-- "You can feel your muscles learning to be calm and peaceful"
-- "Let that tension melt away like ice cream melting in the sun"
+- "Squeeze really tight... inside your muscle fibers, actin and myosin proteins are grabbing onto each other and pulling! Hold it... now your Golgi tendon organs are detecting all that force... now release! The Golgi tendon organs just triggered autogenic inhibition — a reflex that makes your muscles relax even deeper than before!"
+- "Feel that deep relaxation? That's your parasympathetic nervous system activating — the 'rest and digest' branch. Your heart rate is slowing down and your cortisol levels are dropping."
+- "Each muscle has hundreds of thousands of individual muscle fibers. Right now, all of them are releasing — actin and myosin are letting go of each other, calcium is being pumped out of the fibers."
+- "Notice the difference between tension and relaxation. Your brain is learning to recognize the signals from your muscles — that body awareness is called interoception."
 
 #### Guided Play/Game (1-2 minutes)
 
@@ -157,26 +166,23 @@ Progressive muscle relaxation introduces children to the powerful technique of i
 
 ### 2-3 years
 **Modifications**:
-- Keep it very short and playful (6-10 minutes)
-- Focus on only 2-3 body parts (hands, shoulders, face)
-- Use very simple language and imagery
-- Make it more game-like than meditative
-- Adult demonstrates with exaggerated movements
-- Allow frequent wiggling and position changes
-- Shorter hold times (1-2 seconds for tension)
+- Keep it short and playful (6-10 minutes), focusing on hands, shoulders, and face
+- Use the real muscle names in simplified form: "Squeeze your fists — your flexor muscles are working!" Touch the forearm so they feel it.
+- Name the Golgi tendon organ concept simply: "When you squeeze really hard and then let go, your body has a special relaxation reflex — it makes your muscles go EXTRA relaxed!"
+- Make it game-like: "Robot!" (tense) then "Ragdoll!" (relax)
+- Shorter hold times (1-2 seconds)
 
 **Duration**: 6-10 minutes
 
-**Adult support**: Hands-on guidance, lots of verbal encouragement, model all movements, stay very playful
+**Adult support**: Hands-on guidance, model exaggerated movements. Name at least one muscle per body part (flexors for hands, trapezius for shoulders). Touch the muscle so they can feel where it is.
 
 ### 3-4+ years
 **Challenges to add**:
-- Include more body parts (add legs, feet, core)
-- Longer tension holds (up to 3-4 seconds)
-- Longer relaxation periods (10-15 seconds lying still)
-- Incorporate deeper breathing with relaxation
-- Add more complex visualizations
-- Include full body tension and release sequence
+- Include all body parts and name every muscle: quadriceps, hamstrings, gastrocnemius, rectus abdominis, obliques, trapezius, deltoids
+- Explain the full Golgi tendon organ reflex in detail: "There's a sensor called a Golgi tendon organ where your muscle connects to your tendon. When you tense hard, it detects the force and sends a signal to your spinal cord that triggers a reflex — automatic deep relaxation. That's why the tension step matters — it's not just to feel the contrast, it's activating a real neurological reflex."
+- Introduce heart rate monitoring: have children find their pulse before and after the session — "Your heart rate dropped! That's your parasympathetic nervous system taking over from the sympathetic fight-or-flight system."
+- Discuss cortisol: "When you're stressed, your adrenal glands release cortisol, which tenses your muscles and raises your heart rate. What we just did lowers cortisol levels."
+- Add the concept of muscle antagonist pairs: "When you tense your bicep, your tricep has to relax. They always work as a team."
 
 **Duration**: 12-15 minutes
 

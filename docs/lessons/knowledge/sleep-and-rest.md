@@ -6,15 +6,13 @@ Children explore the importance of sleep and rest for their bodies and minds, le
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relating to sleep and rest concepts that can be demonstrated or experienced.
+**Circadian rhythm**: Your body's internal clock that tells you when to feel sleepy and when to feel awake. This clock runs on a roughly 24-hour cycle, controlled by a tiny brain region called the suprachiasmatic nucleus. When it gets dark, your brain reads the signal and starts making you drowsy; when light returns, it tells your body to wake up. Every living thing — humans, animals, even plants — has a circadian rhythm.
 
-**Rest**: A state of calm relaxation when your body and mind slow down from activity. When you rest, your muscles relax and your breathing becomes slower and gentler—like when you lie quietly under a cozy blanket before naptime.
+**Melatonin**: A hormone (a chemical messenger) that your brain's pineal gland releases when darkness falls, signaling your body that it's time to sleep. Melatonin doesn't make you sleep directly — it tells your body "nighttime is here, prepare for sleep." Bright light suppresses melatonin production, which is why screens before bed can make it harder to fall asleep.
 
-**Drowsy**: Feeling sleepy and tired, with eyes getting heavy and movements becoming slower. You might feel drowsy after playing hard outside or later in the evening when it's almost bedtime.
+**REM sleep**: Rapid Eye Movement sleep — a special sleep stage where your eyes dart back and forth under your closed eyelids and your brain becomes almost as active as when you're awake. This is when most dreaming happens. During REM sleep, your brain is busy consolidating memories — moving what you learned during the day from short-term storage (hippocampus) into long-term storage throughout the cortex. Babies spend about 50% of their sleep in REM; adults only about 20%.
 
-**Recharge**: To regain energy and strength after resting or sleeping, like filling a battery with power. When you sleep well, your body recharges so you have energy to play, learn, and explore the next day.
-
-**Settle**: To become calm and still, moving gently into a comfortable position for rest. You settle into your bed by snuggling under blankets and finding the most comfortable spot to sleep.
+**Growth hormone**: A chemical your pituitary gland (a pea-sized gland at the base of your brain) releases mostly during deep sleep. Growth hormone tells your bones and muscles to grow and repair. This is why sleep is especially important for young children — your body literally does most of its growing while you're asleep.
 
 ## Learning Song
 
@@ -105,34 +103,24 @@ Children create a cozy "rest nest" exploration space and engage in sensory activ
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather children and talk about rest: "Our bodies need sleep to grow strong and feel good. Let's explore what makes a cozy rest space. What helps you feel sleepy?" Point to the prepared rest corner and invite them to explore together. Ask open-ended questions: "What do you notice about this space? What feels soft?"
+   Gather children and introduce the science of sleep: "Your body has an amazing clock inside your brain called a circadian rhythm. It runs on a 24-hour cycle and tells you when to feel sleepy and when to feel awake. When it starts getting dark outside, a tiny gland in your brain called the pineal gland starts making a chemical called melatonin. Melatonin is your brain's way of saying 'nighttime is here — time to get ready for sleep.'" Point to the prepared rest corner: "Let's explore what helps our bodies get ready for sleep."
 
 2. **Exploration** (7-10 min):
-   Invite children to enter the rest nest and explore the textures and comfort items. Encourage them to:
-   - Feel different blankets and fabrics (soft, smooth, cozy)
-   - Arrange pillows in comfortable positions
-   - Snuggle with stuffed animals
-   - Listen to calm music playing softly
-   - Notice how their body feels in this cozy space
-   Play soft, calming music. Let children spend time exploring at their own pace. Narrate what you observe: "I notice you're snuggling that soft blanket. That helps your body settle and feel calm."
+   Invite children to enter the rest nest and explore the comfort items. As they explore, introduce the science: "Notice how we dimmed the lights? That's because darkness signals your pineal gland to release melatonin. Bright lights — especially from screens — actually stop your brain from making melatonin, which is why it's harder to fall asleep with the lights on." Let children feel different blankets: "When you feel warm and cozy, your body temperature actually needs to drop slightly to fall asleep. A blanket helps because it keeps you just warm enough while your core temperature lowers." Play soft music and let them explore at their own pace: "Your brain is already starting to slow down its activity, preparing for sleep."
 
 3. **Discovery** (3-5 min):
-   Introduce simple relaxation techniques:
-   - Slow, deep breathing: "Let's take slow breaths together. Breathe in for a count of three, hold for two, breathe out for three."
-   - Progressive relaxation: "Squeeze your hands tight, then let them relax. Notice how good that feels."
-   - Body awareness: "Where do you feel most comfortable? Point to the coziest spot."
-   Ask questions: "How does your body feel now? Are you getting drowsy? What helps you feel calm?"
+   Introduce what happens during sleep: "When you fall asleep, your brain goes through different stages. One special stage is called REM sleep — that stands for Rapid Eye Movement. During REM, your eyes move back and forth under your eyelids, and your brain is almost as active as when you're awake! That's when you dream. But here's the amazing part: during REM sleep, your hippocampus — a seahorse-shaped part of your brain — is busy moving everything you learned today into long-term memory." Practice slow breathing: "Deep breathing activates your parasympathetic nervous system — that's the part that helps you calm down. Breathe in slowly... and when you breathe out, imagine your brain releasing melatonin."
 
 4. **Wrap-up** (2-3 min):
-   Transition gently: "Our bodies are learning what rest feels like. When it's time for sleep tonight, you can remember this cozy rest nest and use these calm feelings." Let children help put items away slowly (keeping the calm mood). Praise their learning: "You're learning wonderful ways to help your body rest!"
+   Share one more key fact: "Here's something incredible: while you sleep, your pituitary gland — a tiny gland the size of a pea at the base of your brain — releases growth hormone. That's the chemical that tells your bones and muscles to grow. Your body does most of its growing while you're asleep! So when we say 'sleep helps you grow,' it's literally true — growth hormone is released during deep sleep." Transition gently: "Tonight, when you start feeling drowsy, that's your circadian rhythm and melatonin working together. Your brain knows exactly what to do."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep activity very simple and concrete. Focus on sensory exploration rather than relaxation techniques. Use shorter music selections (2-3 minutes). Allow them to spend time in the rest nest at their own pace. Use very simple language: "Soft. Cozy. Rest." Provide more adult guidance and comfort items. Skip deep breathing—instead focus on noticing when they seem calm.
+Focus on the core concepts with simple language: "Your brain has a special clock called a circadian rhythm — it knows when it's daytime and nighttime." Use the light/dark contrast directly: turn lights on and off and explain "Light tells your brain 'stay awake!' Dark tells your brain 'make melatonin!'" Keep the sensory exploration but narrate with real terms: "Your body releases growth hormone when you sleep — that's how you grow!" Shorter sessions (10-12 min). The real vocabulary exposure matters even if they don't retain it all.
 
 **3-4+ years**:
-Extend activity by adding relaxation techniques like deep breathing and progressive muscle relaxation. Ask more detailed questions about how their body feels. Introduce the concept of "recharging" energy. Let them create their own cozy space using the materials. Discuss what they notice: textures, colors, sounds. Play longer musical selections. Introduce the idea of routines before sleep.
+Go deeper into sleep stages: explain that sleep has cycles (light sleep → deep sleep → REM sleep) that repeat about every 90 minutes. Introduce the concept of sleep debt — that skipping sleep means your brain misses chances to consolidate memories and release growth hormone. Discuss why babies sleep so much (50% REM sleep vs. 20% for adults — their brains are building massive numbers of neural connections). Ask: "What did you learn today that your hippocampus will store while you sleep tonight?" Introduce the term "adenosine" — a chemical that builds up in your brain while you're awake, making you sleepier and sleepier until sleep clears it away (like taking out the trash).
 
 ### Extension Ideas
 

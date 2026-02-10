@@ -6,13 +6,13 @@ Children explore the concept of collecting and developing interests through hand
 
 ## Vocabulary
 
-**Collection**: A group of items that belong together because someone chose to gather them. Like when you save all your favorite rocks in a box, or your stuffed animals on your shelf.
+**Taxonomy**: A system for classifying and organizing things into groups based on shared characteristics. Carl Linnaeus, a Swedish scientist, created the most famous taxonomy in 1735 to classify every living thing on Earth into a hierarchy: Kingdom → Phylum → Class → Order → Family → Genus → Species. When you sort your rocks by color, then by size within each color, you're building a taxonomy — a multi-level classification system. Museums, libraries, and scientists all rely on taxonomies to organize knowledge.
 
-**Hobby**: Something you enjoy doing over and over again because it makes you happy. Playing with blocks, drawing pictures, or splashing in puddles could all be hobbies.
+**Specimen**: A single example of something collected for study or display. In a natural history museum, each rock, shell, or pressed flower is a specimen. Scientists label their specimens with information about where and when they were found — this is called provenance. When you collect a special rock and remember where you found it, you're thinking like a scientist preserving a specimen with its provenance.
 
-**Organize**: To arrange things in a way that makes sense, like putting all the blue blocks together or lining up your toy cars by size.
+**Classification**: The process of sorting things into groups based on shared properties (attributes). The same set of objects can be classified in many different valid ways — rocks can be classified by color, by size, by texture, by type (igneous, sedimentary, metamorphic), or by where they were found. Choosing which attributes to classify by is a fundamental scientific decision. Charles Darwin's classification of finch beaks by shape helped him discover evolution by natural selection.
 
-**Treasure**: Something special and valuable to you, even if others might not think it's expensive. It could be a smooth pebble, a colorful leaf, or a favorite toy that makes you smile.
+**Curation**: The careful selection, organization, and presentation of a collection to tell a story or reveal patterns. A museum curator doesn't just pile objects together — they choose which specimens to display, arrange them in a meaningful order, write explanatory labels, and design the layout to help visitors understand something new. When you decide which items to include in your collection, how to arrange them, and why certain ones are special, you're curating.
 
 ## Learning Song
 
@@ -93,31 +93,24 @@ Children go on a treasure hunt to collect natural and classroom items, then orga
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child a small collection you've gathered (5-6 items of different types). Say: "I found these special things! I collected them because I like them. They are my treasures. What kinds of things do you like?" Let them look and touch your collection.
+   Show the child a small collection and introduce the science of classification: "Scientists have been collecting and organizing things for hundreds of years. Carl Linnaeus created a system called taxonomy in 1735 to classify every living thing on Earth. Museums have millions of specimens — single examples of things collected for study. Each specimen is labeled with its provenance — where and when it was found. Today, you're going to be a scientist-collector and build your own classified collection!"
 
 2. **Exploration** (7-10 min):
-   Give the child a basket or bag and say: "Let's go collect treasures! Find things you think are pretty, interesting, or fun. You can find them outside, or here in our room. Let's gather them together." Allow free exploration as they select items. Don't limit their choices—let them find what appeals to them. Narrate what you observe: "You found a red button! That's shiny. You're building your collection."
+   Give the child a basket and say: "Go collect specimens! When real scientists collect, they notice details about each specimen: What does it look like? Where did you find it? What is it made of? What's special about it?" As they collect, use scientific language: "That's a beautiful specimen! Notice its properties — it's smooth, round, and gray. Remember its provenance — you found it by the window." Encourage selective collecting: "A good curator doesn't collect everything — they choose specimens that are interesting, representative, or unusual."
 
 3. **Discovery** (5-7 min):
-   Spread all collected items on the large surface. Ask open-ended questions:
-   - "Which treasures do you like the best?"
-   - "Can we put the rocks over here and the leaves over there?"
-   - "Which one is smooth? Which one is bumpy?"
-   - "Which are big? Which are small?"
-   - "Do we have more of these or more of those?"
-
-   Help the child organize items by color, size, texture, or type. Make comments: "You made a line of all your smooth treasures! That's a collection organized by how they feel."
+   Spread all specimens on the surface and practice taxonomy: "Now let's classify our specimens. Classification means sorting things into groups based on shared properties. Let's try sorting by material first: rocks here, leaves here, buttons here." Then reclassify: "Now let's reorganize by color instead. The same specimens, but a completely different taxonomy! This is a key scientific insight: the same collection can be classified many different ways, and each way reveals different patterns." Introduce multi-level taxonomy: "Can we sort within our groups? All the rocks by color, then within each color group by size? That's a hierarchical taxonomy — groups inside groups, just like Linnaeus used."
 
 4. **Wrap-up** (2-3 min):
-   Say: "You are a collector! You found these things and organized them because they matter to you. This is your special collection. Where should we keep it so you can look at it again?" Discuss where they want to store their treasures. Take a photo if desired so they can remember.
+   Introduce curation: "Now you're going to be a curator — like someone who runs a museum. A curator decides which specimens to display, how to arrange them, and writes labels to explain them. Pick your best specimens, arrange them the way you think tells the most interesting story, and let's make labels: what is it, where did you find it, and what's special about it?" Take a photo of the curated display. "You just built a museum exhibit. Real natural history museums like the Smithsonian do exactly this — collect, classify, curate, and display."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep the collection small (5-8 items max) and simpler. Focus on large, safe items with distinct differences (big button vs. small button, red leaf vs. green leaf). Use simple categories with one sorting rule: "Let's put all the rocks here. Let's put all the leaves here." Offer hand-over-hand assistance if needed. Celebrate effort more than accuracy.
+Keep the collection small (5-8 specimens). Use real vocabulary in simplified form: "This is a specimen — one special example for your collection! Let's classify — put all the rocks here and all the leaves there." One sorting rule at a time is fine. When they remember where they found something, say "That's the provenance!" The goal is exposure to the concepts and terms, not mastery.
 
 **3-4+ years**:
-Increase the challenge with 15-20 items and multiple sorting categories. Ask them to sort two ways: "First, let's organize by color. Now let's reorganize by size." Introduce the word "organize" and discuss why we arrange collections. Ask prediction questions: "If we add one more rock, how many rocks will we have?" Encourage them to describe their collection to others.
+Increase to 15-20 specimens with multi-level taxonomy: sort by type, then sub-sort by color within each type. Introduce the concept of a field guide: "Scientists use field guides to identify specimens — let's look at this rock and figure out if it might be igneous (made from cooled lava), sedimentary (made from layers of sand pressed together), or metamorphic (changed by heat and pressure underground)." Discuss famous collectors: Charles Darwin collected beetles and finches, Mary Anning collected fossils and discovered the first complete ichthyosaur skeleton at age 12. Create specimen labels with name, provenance, date, and one interesting property. Introduce the concept of a catalog — a complete list of every specimen in a collection with its classification — and help them create one.
 
 ### Extension Ideas
 
