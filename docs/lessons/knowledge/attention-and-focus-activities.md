@@ -6,13 +6,13 @@ This lesson introduces young children to the skill of sustained attention and fo
 
 ## Vocabulary
 
-**Focus**: To direct your attention and eyes toward one thing, keeping your mind on it without getting distracted.
+**Prefrontal cortex**: The front part of your brain, right behind your forehead, that controls attention, planning, and decision-making. It's like the brain's director — it decides what to focus on and what to ignore. In young children, the prefrontal cortex is still developing (it doesn't fully mature until around age 25!), which is why sustained attention is harder for children than for adults. Every time you practice paying attention, you're strengthening the neural connections in your prefrontal cortex.
 
-**Attention**: Noticing something carefully and keeping your mind on what you're doing, listening, or watching.
+**Selective attention**: Your brain's ability to focus on one specific thing while filtering out everything else. Right now, your brain is receiving millions of signals — sounds, sights, smells, body sensations — but your selective attention system (controlled by the prefrontal cortex and parietal cortex) decides which signals reach your conscious awareness and which get suppressed. It's like a spotlight: whatever it shines on, you notice; everything else fades into the background.
 
-**Concentrate**: To think hard and carefully about one thing, putting all your mind-power into that one activity.
+**Executive function**: A set of mental skills controlled by the prefrontal cortex that includes working memory (holding information in your mind), inhibitory control (stopping yourself from being distracted), and cognitive flexibility (switching your focus when needed). Executive function is what allows you to follow multi-step instructions, resist impulses, and stay on task. These skills develop rapidly between ages 2 and 7 and are stronger predictors of school success than IQ.
 
-**Mindful**: Being fully aware of what you're doing right now, noticing details, and thinking about the present moment instead of other things.
+**Neural pathway**: A chain of connected neurons (brain cells) that fire together when you perform a specific mental task. When you practice focusing attention, the neural pathways for attention get stronger — neurons that fire together wire together (a principle called Hebbian learning). Each time you sustain focus, myelin (a fatty insulating layer) builds up around those neural pathways, making the signal travel faster and more efficiently. This is why attention improves with practice — you're literally rewiring your brain.
 
 ## Learning Song
 
@@ -111,40 +111,33 @@ Children will explore a carefully curated "Focus Basket" containing 3-4 interest
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit with your child in the quiet space. Show the basket and say something like: "Today we're going to look at some special things, one at a time. We're going to use our eyes, our hands, and our ears to notice all the interesting things about each one. Let's pick the first one and really focus on it."
+   Introduce the neuroscience of attention: "Right behind your forehead is a part of your brain called the prefrontal cortex. It's like the director of your brain — it decides what you pay attention to and what you ignore. Right now, your ears are hearing sounds, your skin is feeling the floor, your eyes are seeing this whole room — but your prefrontal cortex is going to help you focus on just one thing at a time. That's called selective attention — like shining a spotlight on one thing while everything else goes dark."
 
 2. **Exploration** (8-12 min):
-   - Remove one object from the basket and place it in front of your child
-   - Invite them to touch it, feel it, hold it, listen to it: "How does this feel? Is it smooth or bumpy? Is it heavy or light? What sound does it make?"
-   - Model focused attention yourself — pick up the object, examine it slowly, comment on what you notice: "Oh, I notice this is very smooth. It's cool when I touch it. Listen... it makes a quiet sound when I tap it."
-   - Let your child explore for 1-2 minutes without rushing
-   - After they've explored one object, gently return it to the basket and select the next one
-   - Repeat with each object, using simple language to highlight the sensory qualities
+   - Remove one object and explain what the brain is doing: "When you look at this object, your brain is receiving signals from millions of neurons in your eyes, fingers, and ears. But your selective attention system is filtering out everything that isn't this object. Your brain is actually suppressing the other signals — it takes real effort!"
+   - As they explore each object: "Notice how your brain is picking up details — the texture, the weight, the temperature. Each of these sensations travels along a neural pathway from your hand to your brain's somatosensory cortex. The more carefully you explore, the stronger those pathways become."
+   - Between objects, name what's happening: "Now we're switching focus to a new object. That requires your executive function — specifically something called cognitive flexibility, the ability to shift your attention from one thing to another. Your prefrontal cortex is managing that switch right now."
 
 3. **Discovery** (2-3 min):
-   - Pause and reflect together: "Which one felt the nicest? Which one made a sound? Which one was your favorite?"
-   - Ask focused questions that direct attention: "Look at this one again — can you see the bumps? Can you feel them?"
-   - Celebrate their observations: "You're noticing so much! You're focusing really well!"
+   - Test working memory (another executive function): "Without looking, can you remember what the first object felt like? Your working memory — that's your brain's ability to hold information even when the thing isn't in front of you — is what lets you remember."
+   - Introduce inhibitory control: "I'm going to put two objects in front of you, but I want you to only look at this one and ignore that one. That's hard! Your prefrontal cortex has to actively suppress the urge to look at the other object. That's called inhibitory control."
 
 4. **Wrap-up** (1-2 min):
-   Return all objects to the basket together. Praise their focus: "You did such a good job paying attention and noticing all the details. That's what focus means — keeping your mind on one thing and really seeing it well."
+   Connect practice to brain development: "Every time you practice focusing, you're strengthening the neural pathways in your prefrontal cortex. Neurons that fire together wire together — that's called Hebbian learning. The more you practice selective attention, the faster and easier it gets because myelin — a fatty insulating layer — builds up around those neural pathways, making the signals travel faster. You just gave your brain a workout!"
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use only 2-3 objects with very obvious differences (soft vs. hard, loud vs. quiet)
-- Keep exploration brief (30-60 seconds per object)
-- Provide more modeling and narration yourself
-- Expect frequent redirects and shorter overall attention span
-- Focus on the sensory experience rather than detailed observation
+- Use 2-3 objects with obvious differences. Use simplified but real terminology: "Your prefrontal cortex is working right now — it's the part behind your forehead!" Point to their forehead.
+- Keep exploration brief (30-60 seconds per object). Name the science: "Your brain just used selective attention — you focused on this one thing!"
+- When they get distracted, narrate without judgment: "Your brain noticed something else! That's normal — your prefrontal cortex is still growing. Let's bring our spotlight back to this object."
 
 **3-4+ years**:
-- Use 4-5 objects with more subtle differences
-- Invite longer exploration (1-2 minutes per object)
-- Ask more open-ended questions: "Tell me about how this feels" or "What do you notice?"
-- Introduce a magnifying glass to deepen focus and observation
-- Can create a simple chart or drawing showing each object explored
-- Challenge them to remember which object they explored first, second, etc.
+- Use 4-5 objects with subtle differences. Explicitly teach all three executive functions: working memory ("Can you describe the first object from memory?"), inhibitory control ("Try to ignore this distraction while examining that object"), and cognitive flexibility ("Now switch your focus quickly to this new object")
+- Introduce the concept of attention span development: "Your prefrontal cortex won't be fully developed until you're about 25 years old! That's why focusing gets easier as you grow — more myelin builds up around those neural pathways"
+- Use a magnifying glass to practice sustained attention on fine details
+- Introduce the "cocktail party effect": in a noisy room, your brain can selectively attend to one voice and suppress others — demonstrate with two people talking simultaneously while the child listens to just one
+- Challenge: time how long they can sustain focus on one object. Track improvement over weeks to demonstrate neural pathway strengthening
 
 ### Extension Ideas
 

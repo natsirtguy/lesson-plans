@@ -6,13 +6,13 @@ In this tender, imaginative play activity, children develop nurturing skills and
 
 ## Vocabulary
 
-**Nurture**: To care for, comfort, and support the growth of another being; when you cuddle your baby doll and make sure she is warm and happy, you are nurturing her.
+**Oxytocin**: A hormone (chemical messenger) your brain releases when you cuddle, hug, or care for someone. Scientists call it the "bonding hormone" because it makes you feel warm and connected to the person you're caring for. When a parent holds a baby, both the parent's and baby's brains release oxytocin — it strengthens the bond between them. Your brain releases oxytocin even when you care for a doll, which is why it feels good.
 
-**Gentleness**: The quality of being soft, kind, and careful with someone or something you care about; using a gentle voice and gentle touch shows you care.
+**Attachment**: The deep emotional bond that forms between a child and their caregiver through consistent, responsive care. Psychologist John Bowlby discovered that babies are biologically programmed to form attachments — it's a survival mechanism. Babies who feel securely attached (safe and loved) explore the world more confidently. When you practice caregiving with your doll, you're rehearsing the attachment behaviors you've experienced.
 
-**Empathy**: The ability to understand and feel what another being might be experiencing; when you notice your doll seems sad and give her a hug, you are showing empathy.
+**Mirror neurons**: Special brain cells that fire both when you perform an action AND when you watch someone else perform that same action. When you see someone smile, your mirror neurons activate as if YOU were smiling — which is why smiles are contagious. Mirror neurons are the biological basis of learning through imitation. When children watch caregivers and then repeat those caring behaviors with dolls, mirror neurons are how the learning transfers.
 
-**Compassion**: A feeling of deep care and concern for someone who is hurt, scared, or struggling; compassion moves us to help and comfort others.
+**Theory of mind**: The ability to understand that other people (or even your doll, in pretend play) have their own thoughts, feelings, and needs that are different from yours. When you think "my doll is hungry" or "my bear is scared," you're practicing theory of mind — imagining what another being might be experiencing. This cognitive ability develops between ages 2-5 and is critical for empathy, communication, and all social relationships.
 
 ## 🎵 Learning Song
 
@@ -104,16 +104,16 @@ Children engage in child-led pretend play where they become caregivers for dolls
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Bring out a doll or stuffed animal with an obvious "need": "Oh, look! This baby bear looks sleepy. I think she needs someone to help take care of her." Let your child notice the doll first and explore it naturally. Demonstrate gentle touch with a calm, caring voice: "We can be very gentle. Listen to my soft voice when I'm caring for my baby." Emphasize that there's no "right way"—it's about loving and caring.
+   Bring out a doll or stuffed animal and introduce the biology of caregiving: "When a parent takes care of a baby, something amazing happens in both of their brains — they release a chemical called oxytocin. Oxytocin is the bonding hormone. It makes you feel warm and connected to the person you're caring for. And here's the incredible part: your brain releases oxytocin even when you care for a doll! That's why it feels so good to cuddle and take care of your baby." Let your child pick up the doll naturally.
 
 2. **Exploration** (5-10 min):
-   Invite your child to pick up and explore the doll. Ask: "What do you notice about your friend? Does she look happy? Hungry? Sleepy?" Observe and comment on what your child does: "You're being so gentle." "You're wrapping your friend up so she stays warm." Follow their lead rather than directing them.
+   Invite your child to explore caring for the doll. As they do, introduce theory of mind: "What do you think your baby is feeling right now? Is she hungry? Tired? Scared? When you imagine what someone else might be feeling — even a doll — you're using something called theory of mind. That means you can think about what's going on in another person's mind, not just your own. That's an incredibly powerful brain skill." Observe and narrate: "You noticed your baby might be cold and wrapped her up. You're reading her signals, just like a real caregiver does."
 
 3. **Guided Exploration** (5-10 min):
-   Gently introduce caregiving activities as natural extensions of play. Model one simple care task: "I think my baby needs a drink. Let me give her some water from this cup. Your turn!" Present options without pressure: "Our friends might be hungry, tired, or need a bath. What do you think your friend needs?" Offer care items one at a time. Ask open-ended questions: "How will you help your friend feel better?" Let your child lead—they know what their "baby" needs.
+   Model caregiving while explaining mirror neurons: "Watch what I do — I'm rocking my baby gently. Now, your brain has special cells called mirror neurons. These fire both when YOU do something and when you WATCH someone else do it. So when you watched me rock my baby, your mirror neurons activated as if you were doing the rocking! That's how babies learn — by watching their caregivers and then imitating them." Present caregiving scenarios: "Our babies might need feeding, comfort, or cleaning. A real caregiver has to figure out what a baby needs because babies can't use words yet — they communicate through crying, facial expressions, and body language. What signals is your baby giving you?"
 
 4. **Extended Play** (remaining time):
-   Step back and observe as your child develops their own caregiving routines and scenarios. They may talk to or "listen" to their doll, narrating what the doll "says." Your role becomes a gentle observer and validator. Provide narration that celebrates care: "You're such a loving caregiver." If multiple children play together, they may cooperate or play alongside each other. If you notice rough play, gently redirect: "Your doll has a soft body. Let's use gentle hands."
+   As children develop their own caregiving routines, name the attachment science: "What you're doing is building an attachment — a deep bond between you and your baby. Psychologist John Bowlby discovered that babies are biologically programmed to form attachments with their caregivers. It's a survival mechanism — babies who have a secure attachment feel safe enough to explore the world confidently." If children talk to or "listen" to their doll, celebrate the theory of mind work: "You're imagining what your baby is thinking and feeling. That's your prefrontal cortex working — the front part of your brain that develops the most between ages 2 and 5."
 
 5. **Wrap-Up** (2-3 min):
    Suggest settling the doll for rest: "I think your baby is very sleepy now. Shall we tuck her into her bed?" Ask a reflective question: "What did your doll like best today? What made them happy?" Celebrate your child's care: "You were such a wonderful caregiver today. Your doll is so lucky to have you." Make cleanup part of the caring narrative: "Let's put our friend's toys away so they're ready for tomorrow." Suggest the doll stays in its cozy spot: "Let's leave her here so she can rest. She can have more adventures tomorrow."
@@ -121,10 +121,10 @@ Children engage in child-led pretend play where they become caregivers for dolls
 ### Age Adaptations
 
 **2-3 years**:
-Toddlers this age are just beginning to understand caring. Keep it very simple—focus on one or two care tasks like wrapping, feeding, or rocking. Use shorter play sessions (10-15 minutes) that you can repeat throughout the day. Your gentle modeling of caregiving is the most powerful teaching tool. Expect sensory exploration (touching, mouthing)—this is developmentally normal. Offer one or two dolls/animals to avoid overwhelm. Stay highly engaged, using soft voice and patient language.
+Focus on the core concepts with simple language: "Cuddling makes your brain release oxytocin — the bonding chemical!" Use one or two care tasks. When they imitate your actions, name it: "Your mirror neurons helped you learn that by watching me!" Shorter sessions (10-15 minutes). The key vocabulary exposure — oxytocin, mirror neurons, attachment — matters even at this age. When they attribute feelings to the doll ("baby sad!"), celebrate it: "You're using theory of mind — imagining what someone else feels!"
 
 **3-4+ years**:
-Introduce more complex scenarios: the doll is sick and needs medicine, has a birthday, or goes to school. Multiple children can cooperate in caregiving or run a "daycare" together. Add narrative complexity by asking: "What's your doll's name? Where does she live? What's her favorite food?" Introduce problem-solving: "Your doll seems sad. What could help her feel happy?" Children this age engage in extended pretend play (30-40+ minutes) and can explain their caregiving choices. Create simple "tools" for care like a doctor kit or feeding station.
+Go deeper into the psychology. Introduce the concept of secure vs. insecure attachment: "When a baby knows their caregiver will always come back and take care of them, that's called secure attachment. It makes them feel brave enough to explore." Discuss how different species care for their young: birds feed their babies regurgitated food, kangaroos carry joeys in pouches, penguin fathers incubate eggs for months. Compare altricial species (born helpless, like humans — need years of care) vs. precocial species (born ready to move, like horses — can walk within hours). Ask: "Why do you think human babies need so much care?" (Answer: our brains are so large and complex that they need years of development outside the womb). Introduce the concept of the protégé effect: teaching or caring for someone else actually strengthens your own understanding.
 
 ### Extension Ideas
 

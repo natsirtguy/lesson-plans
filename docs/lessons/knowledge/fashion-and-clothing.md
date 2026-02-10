@@ -6,13 +6,13 @@ In this lesson, children explore the wonderful world of clothes and fashion thro
 
 ## Vocabulary
 
-**Texture**: The way something feels when you touch it—like how a soft blanket feels different from a bumpy sweater, or how smooth silk feels different from rough denim.
+**Fiber**: The tiny thread-like strands that all fabric is made from. Natural fibers come from plants or animals: cotton fibers grow around cotton seeds, wool fibers are sheep hair, silk fibers are spun by silkworm caterpillars, and linen comes from flax plant stems. Synthetic fibers like polyester and nylon are made from petroleum (oil) through chemical processes. The type of fiber determines how a fabric feels, how warm it keeps you, and whether it absorbs or repels water.
 
-**Garment**: A piece of clothing worn on the body—like a shirt, pants, dress, jacket, or hat. Each garment serves a different purpose and covers a different part of your body.
+**Thermal insulation**: The ability of a material to trap air and slow down heat transfer between your body and the outside environment. Wool is an excellent insulator because each fiber is crimped and wavy, creating millions of tiny air pockets that trap your body heat. Down feathers (from ducks and geese) insulate even better because their fluffy structure traps enormous amounts of air. This is why a puffy winter coat keeps you warm — it's the trapped air, not the fabric itself, that holds in your heat.
 
-**Drape**: The way fabric falls and folds naturally on the body—notice how a loose skirt flows and swings when you twirl, while tight leggings cling close to your legs.
+**Weaving**: The method of making fabric by interlocking two sets of threads (yarn) at right angles — warp threads run vertically and weft threads run horizontally, passing over and under each other on a loom. This crisscross structure is what gives woven fabrics like denim, cotton shirts, and silk their strength. Knitting is different — it uses a single continuous thread looped through itself, which is why knitted fabrics (like your stretchy socks and sweaters) can stretch while woven fabrics generally cannot.
 
-**Adornment**: Something decorative that you add to make clothing or yourself look more interesting or pretty—like buttons, bows, sequins, sparkles, patches, or colorful ribbons sewn onto a shirt.
+**Dye**: A chemical substance that bonds to fiber molecules to change their color permanently. For thousands of years, humans extracted dyes from nature: indigo (blue) from the indigo plant, Tyrian purple from sea snails (so rare that only royalty could afford it), and red from cochineal insects or madder root. Today most dyes are synthetic (made from chemicals), but the principle is the same: dye molecules attach to fiber molecules through chemical bonds.
 
 ## Learning Song
 
@@ -99,20 +99,16 @@ Children engage in a hands-on exploration of clothing textures, styles, and purp
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Begin by holding up a single garment (such as a colorful t-shirt) and ask the child: "What is this? Where do we wear it? Can you touch it? How does it feel?" Let the child examine it with their hands and fingers, discovering the texture. Use vocabulary words naturally: "This shirt is so soft!" or "Feel how smooth this silk scarf is!" Show them how the item drapes by holding it up or wrapping it loosely around their shoulders. Build excitement by asking them to pick a favorite item to explore first.
+   Hold up a cotton t-shirt and introduce fiber science: "Every piece of clothing is made from tiny threads called fibers. This shirt is made from cotton — fibers that grow around cotton seeds in a cotton plant. Feel how soft it is? Cotton fibers are actually hollow tubes, which is why cotton absorbs water so well — the water gets sucked inside the fiber." Hold up a wool item: "This is wool — it's actually sheep hair! Feel how different it is from cotton? Wool fibers are crimped and wavy, which creates millions of tiny air pockets that trap your body heat. That's called thermal insulation." Let the child feel both fabrics side by side.
 
 2. **Exploration** (8-12 minutes):
-   Invite the child to handle, feel, and explore all the clothing items freely. As they investigate, narrate what they're doing: "You're feeling how rough that denim is!" or "Look at how that fabric drapes when you lift it!" Introduce a simple sorting activity: "Can you make a pile of soft things and a pile of rough things?" or "Let's separate the things that go on your feet from the things that go on your head." Encourage them to try putting items on (with help as needed): "Let's wrap this scarf around your shoulders! How does it feel?" Let them look in the mirror at themselves wearing different items. Keep language rich and descriptive: colors, textures, how items move and fall.
+   Invite the child to explore all the clothing items, introducing the science of each: "This is denim — it's made of cotton, but it's woven very tightly. Weaving means two sets of threads are interlocked at right angles on a machine called a loom. Warp threads go up and down, weft threads go side to side." Compare with a stretchy sock: "This is knitted, not woven. Knitting uses one continuous thread looped through itself — that's why it stretches! Pull it and watch the loops open up." Sort items by fiber type: "Let's make a pile of natural fibers — cotton, wool, silk — and a pile of synthetic fibers — polyester, nylon. Synthetic means made by humans from chemicals, usually from petroleum — the same oil we pump from underground."
 
 3. **Discovery** (3-5 minutes):
-   Ask open-ended questions to deepen understanding:
-   - "Why do we wear this on our feet instead of our head?"
-   - "What happens when you move your arm in this loose shirt? Does it feel different in this tight shirt?"
-   - "Can you find all the things that keep us warm?"
-   - "Which one is your favorite to touch? Why?"
-   - "Do you recognize any of these? Does Mommy/Daddy wear this?"
-
-   Point out details: "See how this button goes through the hole? That's how it stays closed!" or "Watch how the fabric moves when you spin—it's draping all around you!" Help them make connections: "This jacket is waterproof—it keeps the rain out!"
+   Test the science of clothing properties:
+   - Drip a tiny bit of water on cotton vs. polyester: "Cotton absorbs the water because its hollow fibers suck it in. Polyester repels it because its synthetic fibers don't absorb water — the molecules don't bond with water molecules."
+   - Compare a thin cotton shirt to a puffy winter coat: "This coat has thermal insulation — it traps air in pockets. It's the trapped air, not the fabric, that keeps you warm. That's why a puffy coat works better than a thin one even though both are fabric."
+   - Point out dyes: "The color in this shirt comes from dye — chemicals that bond to the fiber molecules. For thousands of years, blue dye came from the indigo plant. Purple dye was so rare — extracted from sea snails — that only kings and queens could afford purple clothes!"
 
 4. **Wrap-up** (2-3 minutes):
    Guide the child to return items to the basket while narrating: "Let's fold this soft shirt. Here's the scarf. Into the basket they go!" Transition by saying: "Great exploring! You learned so much about clothes today. Now let's wash our hands so we're all clean and ready for [next activity]." Consider taking a photo of their favorite outfit combination to show family members, creating a memory and reinforcing their sense of accomplishment.
@@ -120,25 +116,19 @@ Children engage in a hands-on exploration of clothing textures, styles, and purp
 ### Age Adaptations
 
 **2-3 years**:
-- Limit to 4-5 simple clothing items to avoid overwhelming choices
-- Focus on large, easy-to-manipulate pieces (oversized t-shirts, soft scarves, large socks)
-- Provide more physical support with putting items on and taking them off
-- Use very simple language: "Soft!" "Hat!" "Big!" "Cover your head!"
-- Shorter activity window (10-15 minutes) with frequent transitions
-- Emphasize sensory exploration more than sorting or conceptual understanding
-- Use repetition: same items across multiple sessions to build familiarity and confidence
-- Keep narration simple and use lots of repetition of vocabulary
+- Limit to 4-5 items but use the real terminology: "This is cotton — from a plant!" "This is wool — from a sheep!"
+- Simple thermal insulation demonstration: hold wool against their arm ("Feel how it traps warmth?") vs. thin cotton
+- Use "fiber," "weaving," and "dye" in conversation even if they don't repeat them yet — exposure builds recognition
+- Focus on sensory contrast between natural fibers (cotton, wool) and synthetic ones (polyester)
+- Shorter sessions (10-15 min). Repeat same items across sessions for familiarity
 
 **3-4+ years**:
-- Expand to 8-10 items with more variety in style, color, and texture
-- Introduce more complex sorting categories: "Things with buttons," "Things that zip," "Things with pockets," "Light colors vs. dark colors"
-- Challenge them to match clothing items (matching socks, coordinating colors)
-- Encourage independent dressing with minimal help; celebrate their attempts
-- Ask more detailed questions: "Why might we wear this in winter?" "What's different about this fabric?"
-- Introduce the concept of occasions: "What would you wear to the beach? What would you wear in the snow?"
-- Encourage longer imaginative play: "You're getting dressed for a fancy party!" or "Let's dress up like a chef!"
-- Record them describing what they're wearing: "Tell me about your outfit"
-- Create outfit combinations and discuss choices: "Why do you think that matches?"
+- Introduce the full weaving concept: create a simple paper weaving (over-under strips) to demonstrate warp and weft
+- Discuss how different cultures developed different textiles: Egyptian linen, Chinese silk, Scottish wool tartan, Indian cotton
+- Explore how silk is made: silkworm caterpillars spin a cocoon from a single continuous silk fiber up to 900 meters long, which is then unwound and woven into fabric
+- Do a simple dye experiment: use turmeric (yellow), beetroot (red), or blueberries (blue) to dye a white cotton cloth — explain that the plant chemicals are bonding to the cotton fibers
+- Compare waterproof vs. water-absorbing fabrics and ask "Why would you want each one?" (raincoat vs. towel)
+- Introduce the concept of fabric engineering: how humans have spent thousands of years developing materials for specific purposes — armor, spacesuits, surgical gowns — each with different fiber and weaving requirements
 
 ### Extension Ideas
 

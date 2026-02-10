@@ -14,6 +14,16 @@ Gross motor skill practice focuses on developing large muscle movements and body
 
 **Space Required**: Large open area (at least 15x15 feet for multiple movements)
 
+## Vocabulary
+
+**Motor cortex**: A strip of brain tissue running across the top of your brain (like a headband) that sends electrical signals down your spinal cord to your muscles, telling them when and how to contract. The motor cortex has a "map" of your body — different sections control different body parts. The hands and face take up a disproportionately large area of the motor cortex because they require the most precise control. Every voluntary movement you make starts as an electrical signal in the motor cortex.
+
+**Cerebellum**: A fist-sized brain structure at the back and bottom of your skull that contains over 50% of all the neurons in your brain, despite being only 10% of the brain's volume. The cerebellum coordinates movement timing, balance, and motor learning. When you first learn to jump, your cerebellum is constantly correcting errors — adjusting how much force each muscle uses, timing when each muscle fires. With practice, the cerebellum stores these patterns so movements become automatic and smooth.
+
+**Quadriceps and hamstrings**: Two major muscle groups in your thigh that work as antagonist pairs — when one contracts, the other must relax. The quadriceps (four muscles on the front of your thigh) extend (straighten) your knee, powering jumping, kicking, and running. The hamstrings (three muscles on the back of your thigh) flex (bend) your knee and help control landing. Understanding antagonist muscle pairs is fundamental to biomechanics — nearly every joint in your body has opposing muscle groups.
+
+**Proprioception**: Your body's sense of where its parts are in space without looking at them. Proprioceptors — tiny sensors in your muscles, tendons, and joints — constantly send position data to your cerebellum and motor cortex. Close your eyes and touch your nose — proprioception is how you know where your finger and nose are without seeing them. This "sixth sense" is essential for all coordinated movement, balance, and spatial awareness.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -97,11 +107,11 @@ Gross motor skill practice focuses on developing large muscle movements and body
 - **Stopping and starting**: Quick changes of direction, freezing on cue, coordination control
 
 **Coaching cues**:
-- "Keep your arms out like an airplane for balance!"
-- "Soft landings like a cat - bend your knees!"
-- "Hands and feet, hands and feet - crawl like a bear!"
-- "Roll the ball gently to your friend"
-- "Freeze like a statue when you hear the music stop!"
+- "Keep your arms out like an airplane for balance! Your cerebellum is using information from your arms to help calculate your center of gravity!"
+- "Soft landings — bend your knees! Your quadriceps on the front of your thighs are doing eccentric contraction — lengthening while under load — to absorb the impact force!"
+- "Hands and feet, hands and feet — crawl like a bear! You're using cross-lateral movement — right hand with left knee — which builds connections between both hemispheres of your brain!"
+- "Roll the ball gently — your motor cortex is calculating exactly how much force to send to your arm muscles, and your cerebellum is fine-tuning the timing!"
+- "Freeze like a statue! That's your motor cortex sending a sudden inhibition signal to all your muscles — stopping requires just as much brain power as starting!"
 
 #### Guided Play/Game (5-8 minutes)
 
@@ -169,26 +179,24 @@ Children move through stations with adult support, spending 1-2 minutes at each
 **Modifications**:
 - Focus on basic movements: walking, crawling, rolling, very simple jumping
 - Use lower obstacles (2-4 inches height)
-- Reduce complexity - practice one skill at a time rather than combinations
-- Provide more hands-on support and spotting for balance activities
-- Use shorter, more frequent breaks
-- Keep instructions very simple (1-2 words: "Jump!" "Crawl!")
-- Offer choices rather than demands: "Do you want to jump or crawl?"
+- Name the muscles and brain regions in simple terms: "Your quadriceps — the big muscles on the front of your legs — are working!" Touch the muscle so they feel it contract.
+- Use proprioception language: "Your body knows where your arms are even with your eyes closed — that's proprioception!"
+- Keep instructions simple but science-rich: "Jump! Your cerebellum is calculating how much power your legs need!"
+- Provide hands-on support for balance while naming what's happening: "Your cerebellum is learning to balance — it takes lots of practice!"
 
 **Duration**: 10-15 minutes total (shorter activity with more breaks)
 
-**Adult support**: Lots of hands-on guidance - hold hand for balance, spot during climbing, model movements closely
+**Adult support**: Lots of hands-on guidance — hold hand for balance, spot during climbing, model movements closely. Name at least one muscle or brain region per activity.
 
 ### 3-4+ years
 
 **Challenges to add**:
-- Combine movements: walk backward while carrying a ball; jump while turning
+- Combine movements: walk backward while carrying a ball (challenges proprioception), jump while turning (challenges vestibular system)
 - Increase obstacle height and complexity (4-8 inches)
-- Add speed challenges: move fast or slow on cue
-- Include directional changes: forward, backward, sideways movements
-- Practice controlled stopping and starting
-- Add coordination challenges: throw ball while balancing
-- Encourage children to set their own movement challenges
+- Introduce antagonist muscle pairs explicitly: "Feel the front of your thigh — that's your quadriceps — now feel the back — those are your hamstrings. When you jump, your quadriceps extend your knee. When you land, your hamstrings help control the landing. They work as a team — when one contracts, the other relaxes."
+- Close-eyes balance challenges to isolate proprioception from vision
+- Discuss how the cerebellum makes movements smoother with practice: "The first time you tried this, it was wobbly. Now your cerebellum has stored the pattern — that's motor learning!"
+- Name specific muscles during each exercise: gluteus maximus (buttocks) for climbing, deltoids (shoulders) for throwing, gastrocnemius (calf) for jumping
 
 **Duration**: 20-25 minutes (can sustain longer attention and more complexity)
 
