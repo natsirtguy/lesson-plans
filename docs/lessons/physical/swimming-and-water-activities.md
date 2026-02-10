@@ -14,6 +14,16 @@ Swimming and water activities introduce young children to water safety, comfort,
 
 **Space Required**: Shallow water minimum 1-2 feet deep (waist height on adult)
 
+## Vocabulary
+
+**Buoyancy**: The upward force that water exerts on any object placed in it. Archimedes discovered this principle around 250 BCE: an object in water is pushed up by a force equal to the weight of water it displaces. Your body is slightly less dense than water (because your lungs are full of air), which is why humans can float. When you breathe in deeply, your lungs expand with air, making you LESS dense and more buoyant — you float higher. When you breathe out, you become denser and sink slightly. This is why breathing control is fundamental to swimming.
+
+**Drag**: The resistance force water exerts against a body moving through it. Water is about 800 times denser than air, so moving through water requires much more force than moving through air. Drag increases with speed (move twice as fast, experience roughly four times the drag) and with surface area (a spread-out body creates more drag than a streamlined one). Swimmers reduce drag by streamlining their bodies — arms extended, body straight, head down. This is why Olympic swimmers shave their body hair: even tiny amounts of extra drag matter at high speeds.
+
+**Propulsion**: The force that moves a swimmer forward, created by pushing water backward. This is Newton's Third Law of Motion: for every action, there is an equal and opposite reaction. When you kick water backward with your feet, the water pushes YOU forward with equal force. Cupping your hands increases the surface area pushing water, creating more propulsion. Fish use their tails for propulsion; dolphins use their entire body in a wave motion; humans use a combination of arm strokes and leg kicks.
+
+**Thermoregulation**: Your body's ability to maintain its internal temperature at approximately 37°C (98.6°F). Water conducts heat away from your body about 25 times faster than air at the same temperature. This is why 20°C (68°F) air feels comfortable but 20°C water feels cold — the water strips heat from your body much faster. Young children lose body heat especially quickly in water because they have a higher surface-area-to-body-mass ratio (more skin relative to their body size), meaning more surface for heat to escape through.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -123,10 +133,10 @@ Swimming and water activities introduce young children to water safety, comfort,
    - Use scooping motions with hands cupped
 
 **Coaching cues**:
-- "Keep your back nice and straight while I hold you."
-- "Let your legs do tiny, happy kicks - not big splashes!"
-- "Reach for the toy - I've got you safe!"
-- "You're doing such a great job staying calm in the water!"
+- "Take a deep breath — feel your lungs fill with air. That air makes you more buoyant, which means the water pushes you up more. You're literally lighter when your lungs are full!"
+- "Kick with straight legs — small, fast kicks. Each kick pushes water backward, and Newton's Third Law pushes YOU forward. That's propulsion!"
+- "Keep your body stretched out long and straight — a streamlined shape creates less drag, so the water doesn't slow you down as much."
+- "Feel how the water pushes against your hands when you move them? That's drag — water is 800 times denser than air, so it takes more force to move through it. That resistance is also what makes swimming such great exercise for your muscles."
 
 #### Guided Play/Game (4-8 minutes)
 

@@ -14,6 +14,16 @@ Rock climbing and bouldering for young children introduces them to climbing move
 
 **Space Required**: 12x12 feet minimum with clear zone around base / Climbing wall area with 6-foot safety mat perimeter
 
+## Vocabulary
+
+**Center of gravity**: The single point where all of an object's weight is effectively concentrated. For a standing human, it's roughly at the belly button. When climbing, you must keep your center of gravity over your base of support (your feet on the holds) — if it shifts too far to one side, gravity pulls you off the wall. This is why "keeping your hips close to the wall" works: it keeps your center of gravity directly over your feet. Every balance decision in climbing is about center of gravity management.
+
+**Friction**: The force that resists sliding between two surfaces in contact. Your hands grip climbing holds because of friction between your skin and the hold surface. Rough surfaces create more friction (which is why climbing holds are textured). Chalk increases friction by absorbing sweat (wet surfaces have less friction). Rubber climbing shoes maximize friction because rubber has a very high friction coefficient against rock. Without friction, climbing would be impossible — you'd slide off every hold.
+
+**Forearm flexors**: The muscles in your forearm that curl your fingers closed to grip. When you grab a climbing hold, your flexor digitorum profundus and flexor digitorum superficialis contract to close your fingers. These muscles fatigue quickly during climbing because they're relatively small muscles sustaining high force — this is why climbers' forearms "pump out" (fill with lactic acid from sustained contraction). Grip strength is the primary limiting factor in climbing performance.
+
+**Lactic acid**: A byproduct of anaerobic metabolism — produced when muscles work hard without enough oxygen. During sustained gripping on a climbing wall, your forearm flexors produce lactic acid faster than your blood can remove it, causing the burning "pump" sensation and eventual loss of grip strength. Resting between climbs allows blood flow to clear the lactic acid. This is why climbers shake out their arms between moves — increased blood flow helps flush lactic acid from the forearms.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -106,11 +116,11 @@ Rock climbing and bouldering for young children introduces them to climbing move
 5. **Continuous movement**: Flow from one hold to next in rhythm without pausing or jumping
 
 **Coaching cues**:
-- "Make a strong fist on the hold - squeeze it tight!"
-- "Feel the wall with your feet - like finding steps on stairs"
-- "Push from your legs, not pull from your arms - let your legs do the work!"
-- "Move like a slow-motion animal - one paw at a time"
-- "Keep your belly close to the wall"
+- "Grip the hold firmly — your forearm flexors are contracting to curl your fingers closed. Don't squeeze harder than you need to — over-gripping wastes energy and fills your forearms with lactic acid faster."
+- "Feel for the hold with your foot — the rubber on your shoe creates friction that prevents sliding. Press the sole flat against the hold to maximize the contact area and friction."
+- "Push from your legs — your quadriceps and gluteus maximus are the biggest, strongest muscles in your body. Your arms (forearm flexors) are small muscles that fatigue quickly. Legs do the lifting; arms keep you balanced."
+- "Keep your hips close to the wall — that keeps your center of gravity directly over your feet. When your hips swing away from the wall, your center of gravity shifts and gravity pulls you off."
+- "Move one limb at a time — three points of contact keeps you stable. This is called static climbing, and it's more energy-efficient than dynamic (jumping between holds)."
 
 #### Guided Play/Game (4-7 minutes)
 

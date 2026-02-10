@@ -14,6 +14,16 @@ Yoga and mindful movement introduces young children to gentle stretching, body a
 
 **Space Required**: Small space okay (need 6x6 feet minimum per child for stretching arms overhead)
 
+## Vocabulary
+
+**Proprioception**: Your body's "sixth sense" — the ability to know where your body parts are without looking at them. Proprioceptors are sensors in your muscles, tendons, and joints that constantly send position information to your cerebellum. Close your eyes and touch your nose — you can do this because of proprioception. Yoga develops proprioception by requiring you to hold specific body positions and feel whether they're correct without a mirror.
+
+**Fascia**: A continuous web of connective tissue that wraps around every muscle, bone, organ, and nerve in your body — like a bodysuit under your skin. Fascia contains more sensory nerve endings than muscle does. When you hold a yoga stretch, you're not just stretching muscle — you're lengthening fascia, which becomes stiffer when you don't move regularly. Fascia also contains water, and stretching helps "rehydrate" it, which is why your body feels looser after yoga.
+
+**Parasympathetic nervous system**: The "rest and digest" branch of your autonomic nervous system. When activated, it slows your heart rate, lowers blood pressure, and reduces cortisol (stress hormone). Deep, slow breathing during yoga activates the parasympathetic system through the vagus nerve (the longest nerve in your body, running from your brainstem to your abdomen). This is the scientific mechanism behind why yoga breathing makes you feel calm — it's not just psychological; it's a measurable physiological response.
+
+**Isometric contraction**: A muscle contraction where the muscle generates force but doesn't change length — like pushing against a wall that doesn't move. Many yoga poses use isometric contraction: in Warrior Pose, your quadriceps contract to hold your knee bent, but the muscle isn't shortening or lengthening. Isometric holds build strength and endurance differently than dynamic movement, training your muscles to sustain force over time.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -90,11 +100,11 @@ Yoga and mindful movement introduces young children to gentle stretching, body a
    - Lying on Back Relaxation: Lie flat with arms and legs relaxed, focus on breathing
 
 **Coaching cues**:
-- "Take a deep breath in through your nose, and slowly let it out through your mouth. That's perfect!"
-- "Feel your feet on the ground. You're strong and steady like a mountain."
-- "Stretch gently - if it feels tight, that's okay. No bouncing, just hold it and breathe."
-- "There's no such thing as doing yoga wrong. Your body is perfect just the way it is."
-- "Listen to your body. If something doesn't feel good, try a different pose."
+- "Take a deep breath in — feel your diaphragm pull down and your lungs expand. Now breathe out slowly. That long exhale activates your vagus nerve, which tells your parasympathetic nervous system to calm your whole body."
+- "In Mountain Pose, feel your feet pressing into the ground. Your proprioceptors in your ankles and feet are sending balance information to your cerebellum right now."
+- "Hold this stretch — you're lengthening your fascia, the connective tissue wrapping around your muscles. It's like gently pulling on a spider web."
+- "In Warrior Pose, your quadriceps (front thigh muscles) are doing an isometric contraction — they're working hard but not moving. That builds a different kind of strength than running or jumping."
+- "Cat stretch: when you arch your back, your erector spinae muscles contract. When you round your spine, your rectus abdominis (belly muscles) contract. Feel the switch between them."
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -153,13 +163,12 @@ Yoga and mindful movement introduces young children to gentle stretching, body a
 ### 3-4+ years
 
 **Challenges to add**:
-- Longer holds in poses (up to 8 breaths per pose)
-- More challenging balance poses (Tree pose with eyes closed, Warrior III with extended leg)
-- Introduce basic breathing techniques (counted breaths, "smell the flower, blow the candle" breathing)
-- Add partner poses that require cooperation (mirroring, gentle hand holds)
-- Use more yoga terminology while keeping it fun
-- Introduce concept of "mind" alongside body: "Feel your mind becoming quiet as you move slowly"
-- Create mini sequences (3-4 poses in a row that tell a story)
+- Longer isometric holds (up to 8 breaths per pose) — explain: "Your muscles are building endurance by holding force over time"
+- Balance poses with eyes closed — "Without vision, your brain relies entirely on proprioception and your vestibular system (the fluid-filled semicircular canals in your inner ear). This is much harder because you've removed one information source."
+- Teach specific breathing: "Breathe in for 4 counts, out for 6. The longer exhale activates the parasympathetic nervous system more strongly." Have children feel their pulse before and after — they can measure the effect.
+- Name muscles in each pose: "Downward Dog stretches your hamstrings (back of thigh) and gastrocnemius (calf) while your deltoids (shoulders) and triceps hold your weight"
+- Introduce the concept of antagonist muscle pairs: "In Warrior, your quadriceps contract while your hamstrings relax. They work in opposite pairs — when one tightens, the other must release"
+- Partner balance poses: "When you hold hands for balance, you're combining two proprioceptive systems — your brain is processing both your own body position and the force coming from your partner"
 
 **Duration**: 15-20 minutes (including warm-up and cool-down)
 

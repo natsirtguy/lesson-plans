@@ -14,6 +14,16 @@ Gymnastics and tumbling introduces young children to body control, balance, coor
 
 **Space Required**: Large open area (15x15 feet minimum recommended for safe tumbling practice)
 
+## Vocabulary
+
+**Angular momentum**: The rotational equivalent of momentum — a measure of how much rotational motion a body has. When you tuck into a ball during a forward roll, you spin faster because you've brought your mass closer to your axis of rotation (the conservation of angular momentum — the same total momentum distributed across a smaller radius means faster spinning). When you extend your body, you slow down. Figure skaters use this same principle: they spin fast in a tight tuck, then slow down by extending their arms. Every roll, flip, and spin in gymnastics is governed by angular momentum.
+
+**Center of gravity**: The point where your body weight is effectively concentrated — roughly at your belly button when standing. In gymnastics, controlling your center of gravity is everything. During a balance beam walk, your center of gravity must stay directly over the beam (your base of support). During a handstand, it must be directly over your hands. If your center of gravity moves outside your base of support, gravity creates a turning force (torque) that tips you over.
+
+**Vestibular system**: Three semicircular canals filled with fluid in your inner ear that detect rotation and acceleration. When you roll, the fluid in these canals moves, bending tiny hair cells that send signals to your brain about which direction you're spinning. This is why rolling makes you dizzy — the fluid keeps moving after you stop, sending conflicting signals. Gymnasts train their vestibular system to reduce dizziness through repeated exposure. The vestibular system works with proprioception and vision to maintain balance.
+
+**Core muscles**: The group of muscles surrounding your trunk that stabilize your spine during movement — primarily the transverse abdominis (deepest layer, wraps around like a corset), rectus abdominis (the "six-pack" muscle, flexes the spine forward), internal and external obliques (rotate and side-bend the trunk), and erector spinae (extend the spine backward). In gymnastics, every movement — rolling, balancing, jumping, landing — requires core activation to protect the spine and control body position. Core strength is the foundation of all gymnastics skills.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -97,11 +107,11 @@ Gymnastics and tumbling introduces young children to body control, balance, coor
 - **Balance walks**: Walk heel-to-toe in a straight line on the floor or taped line, focusing on balance and coordination.
 
 **Coaching cues**:
-- "Make your body like a log when rolling - nice and straight!"
-- "Keep your chin tucked like you're holding an orange under your chin"
-- "Roll over your shoulder, not your neck - feel the difference"
-- "Walk like a tightrope walker - one foot in front of the other"
-- "Take your time - we're not in a race!"
+- "Log roll: keep your body straight and stiff — your core muscles (transverse abdominis wrapping around your middle like a corset) hold your spine rigid. You're rolling on the OUTSIDE of your body, not bending through the middle."
+- "Forward roll: tuck your chin to your chest — this protects your cervical spine (neck vertebrae) and puts the rolling contact on your upper back (trapezius area), not your neck. The tighter you tuck, the faster you rotate because of angular momentum — bringing your mass closer to the center speeds up the spin."
+- "Roll over your shoulders, not your neck — your shoulder blades (scapulae) have muscle padding from the trapezius. Your neck vertebrae are small and vulnerable."
+- "Balance walk: keep your center of gravity directly over the line. Your arms help — extending them out wide shifts weight to counteract any tipping. That's why tightrope walkers carry long poles — the weight at the ends resists tipping."
+- "After rolling, sit still for a moment — the fluid in your vestibular system (semicircular canals in your inner ear) is still moving, which makes you feel dizzy. Wait for it to settle."
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -231,9 +241,9 @@ Let children explore movements on the mat without specific direction. They may:
 **Timeline**: Many children overcome this fear within 2-3 sessions with patient encouragement; some may take longer, and that's completely normal
 
 **Challenge**: Child feels dizzy or loses balance frequently
-**Why**: Inner ear development is still maturing in young children; some children are naturally less coordinated; dizziness after spinning or rolling is normal but can be scary
-**Solution**: Limit spinning movements. After rolling, have them rest for a moment before moving again. Practice balance work frequently as this improves with repetition. Use visual focus points (looking at a specific spot) to help maintain balance. Celebrate small improvements in balance - this skill develops significantly between ages 2-4.
-**Timeline**: Balance improves dramatically with practice; expect noticeable improvements within 2-3 weeks of regular practice
+**Why**: The vestibular system (semicircular canals in the inner ear) is still developing sensitivity and calibration in young children. Dizziness after rolling occurs because the fluid inside the canals continues to move after the body stops, sending conflicting signals to the brain. Balance requires coordination between three systems — vestibular, visual, and proprioceptive — and integrating these systems takes years of practice.
+**Solution**: Limit rolling to 1-2 consecutive rolls before resting. Teach "spotting" — focusing eyes on a fixed point, which gives the brain a stable visual reference to counteract vestibular confusion. Practice balance work frequently; the vestibular system adapts through repeated exposure (gymnasts become less dizzy over time as their brain recalibrates). Use wider balance surfaces initially and narrow them as proprioception improves.
+**Timeline**: Balance improves dramatically with practice; expect noticeable improvements within 2-3 weeks of regular practice. Vestibular adaptation to rolling typically takes 4-6 weeks of consistent exposure.
 
 **Challenge**: Child seems to rush through movements and appears reckless
 **Why**: Young children may not understand the connection between speed and safety; they may be overexcited; some children are naturally more impulsive

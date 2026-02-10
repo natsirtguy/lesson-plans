@@ -6,13 +6,13 @@ Puppet shows and storytelling invite children to bring characters and narratives
 
 ## Vocabulary
 
-**Character**: A person, animal, or creature in a story who does things, says things, and has feelings—like the bunny in your puppet show or the bear who dances.
+**Protagonist**: The main character in a story — the one whose problem or journey the audience follows. Every story needs a protagonist. In a puppet show, your puppet IS the protagonist, and the audience watches to see what happens to them. The word comes from Greek: "proto" (first) + "agonist" (actor) — literally "the first actor."
 
-**Narrative**: The sequence of events that makes up a story, with a beginning (what happens first), middle (what happens next), and end (how it finishes)—like when the puppet wakes up, finds a friend, and they play together.
+**Dramatic arc**: The shape of a story — it starts with a setup (who and where), builds through rising action (a problem or challenge gets bigger), reaches a climax (the most exciting or tense moment), then resolves (the problem is solved). Even a 30-second puppet show has an arc: puppet is hungry → searches for food → finds it → celebrates. This structure appears in stories across every human culture because our brains are wired to find this pattern satisfying.
 
-**Expression**: The showing of feelings, ideas, or thoughts through your face, voice, movements, and actions—like when you make the puppet smile to show happiness or make its voice sound scared.
+**Projection**: Making your voice loud and clear enough for an audience to hear by pushing air from your diaphragm (the dome-shaped muscle under your lungs) rather than straining your throat. Actors and puppeteers train their diaphragm so they can speak for hours without losing their voice. When you take a deep breath and speak from your belly, that's projection.
 
-**Pantomime**: The art of telling a story or showing an idea using only movements and actions, without using words—like making the puppet wave hello or dance without saying anything.
+**Suspension of disbelief**: The audience's willingness to temporarily accept that a puppet is alive, that a sock has feelings, or that a cardboard box is a castle. The audience KNOWS it's not real, but they choose to believe because it makes the story work. This concept was named by poet Samuel Taylor Coleridge in 1817. It's the fundamental agreement that makes all theater, film, and storytelling possible.
 
 ## 🎵 Learning Song
 
@@ -95,19 +95,19 @@ Children explore puppet manipulation and storytelling by watching adult-led pupp
 **Activity Flow**:
 
 1. **Introduction** (3-4 min):
-   Bring out puppets one by one with silly voices or movements. Demonstrate a simple puppet movement (dancing or waving). Explain that puppets will perform stories and children can help make up what happens.
+   Bring out puppets one by one with different voices. Explain: "Puppets are one of the oldest forms of theater — people have been using puppets to tell stories for over 3,000 years. In Japan, there's a puppet theater called bunraku where three people control one puppet together. In Indonesia, shadow puppets called wayang are cut from leather and projected onto screens with light." Show how a puppet comes alive when you move it with purpose rather than randomly — this is the beginning of suspension of disbelief: "You KNOW this is a sock, but when I move it like this and give it a voice, part of your brain starts to believe it's alive. That's called suspension of disbelief."
 
 2. **Exploration** (5-7 min):
-   Let each child hold and explore a puppet freely. Encourage movement—walking, dancing, nodding, spinning. Ask: "What sound does your puppet make?" and "How does your puppet move?" Narrate what you observe to model language.
+   Let each child hold and explore a puppet. Practice projection: "Speak from your belly, not your throat. Take a deep breath — feel your diaphragm push down — now let the air carry your puppet's voice out big and strong." Ask: "Who is your puppet? This puppet is your protagonist — the main character whose story we'll follow." Narrate observations using real terms: "You're giving your puppet a personality through movement and voice."
 
 3. **Demonstration** (5-10 min):
-   Use two or three puppets to act out a very simple story with exaggerated movements and voices. Pause and ask: "What do you think happens next?" Incorporate children's ideas. Keep the story arc simple: introduction, action, ending.
+   Use two or three puppets to act out a story, explicitly narrating the dramatic arc: "Here's our setup — we meet the protagonist, a hungry bear. Now the rising action — the bear searches everywhere but can't find food. Here comes the climax — the most exciting moment — the bear finds a beehive! And the resolution — the bear shares honey with friends." Pause and ask: "What do you think happens next in the rising action?" Incorporate children's ideas.
 
 4. **Performance** (remaining time):
-   Invite children to use puppets to tell their own stories. Ask guiding questions: "Who is your puppet?" "Where does she live?" "What's he doing?" Let children perform for each other. Celebrate each storyteller's effort with genuine enthusiasm.
+   Invite children to tell their own stories. Coach the dramatic arc: "Your protagonist needs a problem. What does your puppet want? What's in the way? That's your conflict — and every good story needs one." Ask: "How does your protagonist solve the problem?" Encourage projection so the audience can hear. Remind the audience about suspension of disbelief: "Let's all believe this puppet is real while the story happens."
 
 5. **Wrap-up** (3-4 min):
-   Gather children and puppets. Ask: "What was your favorite part?" Have each puppet "say goodbye" in its voice. Help children put puppets away playfully: "The puppets are getting sleepy, let's tuck them in."
+   Gather children and puppets. Ask: "What was the dramatic arc of your story? What was the climax?" Discuss different types of puppets briefly: hand puppets (what we used), marionettes (controlled by strings from above), shadow puppets (flat shapes behind a lit screen). Have each puppet "say goodbye" in its projected voice.
 
 ### Age Adaptations
 
@@ -115,7 +115,7 @@ Children explore puppet manipulation and storytelling by watching adult-led pupp
 Focus on puppet exploration and simple repeated phrases rather than complex narratives. Use the same puppets consistently for familiarity. Keep stories to 2-3 sentences. Spend more time on free puppet play (15-20 minutes). You provide most narration while children make brief contributions like pointing or making sounds.
 
 **3-4+ years**:
-Children can follow more complex stories and create their own. Encourage acting out familiar picture books with puppets, creating characters, and problem-solving within narratives. Use multiple puppets in one performance. Challenge them: "What happens if the story was different?" Offer fewer adult prompts as they lead storytelling (30-40 minutes).
+Children can construct full dramatic arcs with protagonist, conflict, climax, and resolution. Introduce the concept of an antagonist (the character who creates the conflict — from Greek "anti" + "agonist," the one who acts against). Experiment with different puppet types: try shadow puppets behind a backlit sheet to explore how light and opacity create images. Discuss how puppeteers use their bodies as the puppet's "nervous system" — every movement must be intentional. Introduce the concept of dialogue vs. narration and try both. Challenge them: "Can you make your audience feel an emotion using only the puppet's movements, no words? That's pantomime — and it's the oldest form of theater" (30-40 minutes).
 
 ### Extension Ideas
 

@@ -6,13 +6,13 @@ Children explore creative thinking and role-playing through fantasy scenarios, p
 
 ## Vocabulary
 
-**Imagine**: To create a picture or idea in your mind of something that isn't really there right now. When you imagine, you're thinking of something new and pretend. For example, imagining you're a chef cooking in a kitchen, or a astronaut floating in space.
+**Symbolic representation**: Using one thing to stand for another thing — a stick becomes a sword, a box becomes a spaceship, a banana becomes a telephone. This is one of the most powerful abilities of the human brain. It's the same cognitive skill that makes language possible (the word "dog" is a symbol that represents a real animal), that makes mathematics work (the number "3" represents a quantity), and that eventually makes reading possible (squiggles on a page represent sounds). When a child pretends a block is a phone, they're exercising the exact same brain circuitry used for abstract thinking.
 
-**Transform**: To change something into something completely different. When you transform, you're making one thing become another thing. For example, transforming a cardboard box into a spaceship, or a blanket into a fort or cave.
+**Theory of mind**: The understanding that other people have thoughts, feelings, beliefs, and knowledge that are different from your own. When you pretend to be a doctor and imagine what a doctor would say and think, you're practicing theory of mind — stepping into someone else's mental world. This ability develops between ages 2-5 and is one of the most important cognitive milestones in human development. Chimpanzees have limited theory of mind; humans develop it extensively, and pretend play is one of the main ways children build it.
 
-**Pretend**: To act like something or someone you're not, while knowing it's not really true. When you pretend, you're playing a made-up game where you use your imagination. For example, pretending to be a dinosaur, a doctor, or a bird flying through the air.
+**Executive function**: The set of mental skills controlled by your prefrontal cortex (the front part of your brain, right behind your forehead) that let you plan, make decisions, switch between tasks, and control impulses. Pretend play exercises all three components: working memory (remembering the rules of your pretend world), cognitive flexibility (switching between being yourself and being a character), and inhibitory control (not breaking character). Research shows pretend play builds executive function more effectively than most structured activities.
 
-**Scenario**: A made-up situation or story that you act out and play through. A scenario is like the setting and story for your pretend play. For example, a grocery store scenario, a camping trip scenario, or a hospital scenario.
+**Counterfactual thinking**: Imagining "what if" — thinking about things that aren't real or haven't happened. "What if I could fly?" "What if this box were a rocket?" This type of thinking is uniquely human and is the foundation of scientific reasoning (hypotheses are counterfactuals), engineering (designing something that doesn't exist yet), and creative problem-solving. Every invention in human history started as a counterfactual thought.
 
 ## Learning Song
 
@@ -104,28 +104,25 @@ Children engage in guided imaginative play scenarios using simple props and open
 
 1. **Introduction** (2-3 min):
    - Sit with the child and hold up a simple prop (like a hat)
-   - Say: "Look what I have! When I put on this hat, I transform into a chef. Who do YOU want to become?"
-   - Model putting on the hat and making a simple chef action (stirring, tasting)
-   - Explain: "When we pretend and imagine, we can be anyone or anything we want!"
+   - Say: "Watch — this hat is just a hat. But when I put it on and act like a chef, suddenly it means something else. That's symbolic representation — using one thing to stand for another. It's one of the most powerful things your brain can do."
+   - Model putting on the hat and acting as a chef (stirring, tasting)
+   - Explain: "When you pretend, your prefrontal cortex — the front part of your brain — is working incredibly hard. It has to remember who you're pretending to be, follow the rules of the pretend world, and stop you from breaking character. That's called executive function."
 
 2. **Exploration** (7-10 min):
-   - Invite the child to choose a prop or scenario
-   - Ask open-ended questions: "What character do you want to be?" "What's happening in your pretend world?"
-   - Play alongside them: mirror their actions, ask "what next?" to extend the narrative
-   - Introduce vocabulary: "You're transforming into a veterinarian!" "What an amazing scenario!"
-   - Allow the child to lead the play while you support and narrate
-   - If desired, gently introduce a second prop or role to expand the scenario
+   - Invite the child to choose a prop and a role
+   - Practice theory of mind explicitly: "You're pretending to be a doctor. What does a doctor think about? What does a doctor know that you don't know? When you imagine being someone else with different thoughts, that's called theory of mind."
+   - Encourage symbolic representation: Pick up a stick or spoon and ask: "What could this BE? It's a stick right now, but what if it were a magic wand? A microphone? A telescope?" Each transformation exercises the same brain pathway that makes reading and math possible.
+   - Play alongside them, modeling counterfactual thinking: "What if the restaurant were on the moon? What would be different? That's a counterfactual — imagining something that isn't real to explore what COULD be."
 
 3. **Discovery** (3-5 min):
-   - Pause during play to reflect: "Tell me what you're imagining right now"
-   - Point out: "You transformed that box into a spaceship! How creative!"
-   - Ask connecting questions: "What does your character do?" "Who else might be in this scenario?"
-   - Validate their ideas enthusiastically
+   - Pause during play to make thinking visible: "Right now, your brain is doing something amazing — it's holding two realities at once. You KNOW that box is a box, but you're also treating it as a spaceship. Both are true at the same time. Only humans can do this."
+   - Ask connecting questions: "What does your character feel right now? How do you know?" (Theory of mind practice)
+   - Point out symbolic representation in action: "You used that blanket as an ocean. That's the same skill you use when you learn that the letter A stands for a sound."
 
 4. **Wrap-up** (2-3 min):
    - Begin to wind down: "Our imaginary adventure is finishing for now"
-   - Ask: "What was your favorite part of pretending?"
-   - Take off props together and praise creative thinking: "You had such an amazing imagination today!"
+   - Reflect: "You used symbolic representation (turning objects into other things), theory of mind (imagining what someone else thinks), and counterfactual thinking (imagining what-ifs). Those are some of the most advanced things a human brain can do."
+   - Take off props together
 
 ### Age Adaptations
 
@@ -139,13 +136,12 @@ Children engage in guided imaginative play scenarios using simple props and open
 - Use simple one-word or two-word prompts: "Chef! Cook!" or "Doctor! Help baby!"
 
 **3-4+ years**:
-- Introduce more complex scenarios (hospital visit, grocery shopping, camping trip)
-- Support multiple roles and character interactions
-- Ask more sophisticated questions: "Why is the doctor visiting the zoo?" "What will happen next?"
-- Encourage longer narratives and extended story lines
-- Support peer interaction during imaginative play (two children playing together)
-- Introduce props that require more complex problem-solving (building materials for structures)
-- Allow for more child-led direction with gentle scaffolding
+- Introduce multi-character scenarios requiring advanced theory of mind (each character has different knowledge and goals — "The customer doesn't know the store is closing, but the shopkeeper does")
+- Practice nested counterfactuals: "What if your character could fly? What would change about their day?"
+- Encourage metacognition — thinking about thinking: "You're pretending to be a firefighter. What do you have to REMEMBER to stay in character? That's your working memory."
+- Challenge executive function with rule-based pretend: "In our restaurant, we only serve food that starts with the letter B — what's on the menu?"
+- Discuss how pretend play connects to real-world skills: scientists imagine what MIGHT be true (hypothesis), engineers imagine things that don't exist yet (design), writers create entire worlds (fiction)
+- Support peer interaction where children must negotiate shared fictional realities — a powerful theory of mind exercise
 
 ### Extension Ideas
 
