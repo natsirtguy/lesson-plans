@@ -6,13 +6,13 @@ In this lesson, children explore spatial awareness, problem-solving, and creativ
 
 ## Vocabulary
 
-**Structure**: The way something is built or organized, with parts connected together to hold it up. When you build a blanket fort, you're creating a structure by arranging blankets and pillows so they don't fall down.
+**Load-Bearing**: The ability of a structural element to support weight above it without collapsing. In your blanket fort, the chairs or furniture are load-bearing supports — they hold up the blanket roof. Real buildings use load-bearing walls, columns, and beams for the same purpose. If you remove a load-bearing support, everything above it collapses — that's why structural engineers carefully calculate which parts carry the weight.
 
-**Drape**: To hang soft material loosely over something, letting it fall naturally into folds. When you drape a blanket over chairs, it spreads out and covers the space underneath.
+**Tension**: A pulling force that stretches a material. When you drape a blanket between two chairs, the blanket is under tension — gravity pulls it down while the chairs hold the edges up, stretching it taut. The tighter you pull the blanket (more tension), the flatter and more stable the roof becomes. Bridges use tension cables for the same reason — the Golden Gate Bridge's main cables are under enormous tension, holding up the road deck.
 
-**Stability**: How steady and solid something is, so it doesn't tip over or collapse. A fort with good stability stays up because the blankets are arranged carefully and the base is strong.
+**Compression**: A pushing force that squeezes a material together. The chair legs of your fort are under compression — the weight of the blanket pushes down, and the floor pushes back up. Columns, pillars, and walls in real buildings work by compression. Stone and concrete are excellent at resisting compression, which is why ancient Roman arches (built 2,000 years ago) still stand.
 
-**Shelter**: A covered space that protects you and keeps you safe from the outside. Your blanket fort becomes a cozy shelter where you can hide away and feel protected.
+**Center of Gravity**: The single point where all of an object's weight is balanced. If a fort's center of gravity is inside its base of support, it stands; if it shifts outside the base, it topples. A wider base makes the center of gravity harder to shift — that's why pyramids (very wide base, narrow top) are among the most stable structures humans have ever built, and why your fort is more stable with chairs spread apart.
 
 ## Learning Song
 
@@ -96,37 +96,35 @@ Children gather soft materials from around the home and work together to build a
 
 1. **Introduction** (2-3 min):
 
-   Gather the child and show them the materials you've collected. Say something like: "We're going to build our own special fort today using blankets and pillows! Your fort will be a safe, cozy space just for you. We'll be architects - that means we get to design and build."
+   Gather the child and show them the materials. "We're going to be structural engineers today! Structural engineers figure out how to make buildings stand up without falling down. They think about forces — pushes and pulls — acting on every part of a structure."
 
-   Point out a few simple structures around the home: "See how the table has a top and legs that hold it up? Our fort will work the same way - we need something to hold the blankets up."
+   Point to the table: "See the table legs? They're under compression — the tabletop pushes down, and the floor pushes back up. That's how they hold weight. Our fort needs load-bearing supports just like that — something strong to hold up our blanket roof."
 
 2. **Exploration** (8-12 min):
 
-   Guide the child through building by offering choices rather than completing it for them:
+   Guide the child through building, explaining the engineering at each step:
 
-   - "Let's start with the base. Should we use the couch, or these chairs? What do you think?" Help them choose a sturdy piece of furniture.
+   - "First, we need load-bearing supports. Should we use the couch or these chairs? The heavier and wider the support, the more stable — because it's harder to shift the center of gravity."
 
-   - "Now we need to drape blankets over our base. Can you help me spread this blanket evenly? Feel how soft it is?"
+   - "Now let's drape the blanket over our supports. Feel how it pulls? That pulling force is called tension. The blanket is being stretched between the two supports. If we pull it tighter, there's more tension, and the roof will be flatter and won't sag as much."
 
-   - Add pillows inside: "Let's make the floor soft and comfortable. Where should we put the pillows?"
+   - "Let's anchor the edges with pillows. The pillows add weight that keeps the blanket from sliding — they're using gravity to hold things in place, just like paperweights."
 
-   - Create a door: "Every fort needs a way to get in and out. Should we leave a gap here, or here?"
+   - "Now we need a doorway — an opening. But notice: when we remove blanket from one side, the structure might get less stable because we've changed where the forces balance."
 
-   - For older toddlers, let them experiment with different arrangements. If something falls, celebrate the attempt: "That didn't work that time. What could we do differently?"
+   - If something collapses: "Excellent! The center of gravity shifted outside the base of support, so it toppled. What if we make the base wider? Wider base = more stable. That's why the Egyptian pyramids have such wide bases — they've stood for 4,500 years!"
 
 3. **Discovery** (3-5 min):
 
-   Once the fort is standing, explore it together:
+   Once the fort is standing, explore the physics from inside:
 
-   - "How does it feel inside? Is it warm? Is it quiet?"
+   - "It's warmer in here! The blanket is acting as thermal insulation — it traps a layer of air between you and the room. Air is a poor conductor of heat, so your body warmth stays inside. That's the same principle as a sleeping bag or a real house's insulation."
 
-   - "Look at the light. How does it change under the blankets?"
+   - "It's quieter too! The blanket absorbs sound waves instead of reflecting them. Hard surfaces bounce sound (echo), but soft materials absorb the vibrations."
 
-   - "Can you stretch your arms out? How big is your fort?"
+   - "Push gently on the wall. Feel how the blanket flexes? It's a flexible membrane under tension. A rigid wall (like a real wall) resists compression instead."
 
-   - "What sounds can you hear from inside?"
-
-   - "Let's sit inside together. Does this feel like a safe place?"
+   - "Look at how the blanket sags between the supports. Gravity pulls it down, and the only thing holding it up is the tension from the chairs at the edges. If we added a support pole in the middle, it would eliminate the sag — that's how tent poles work!"
 
 4. **Wrap-up** (2-3 min):
 
@@ -136,21 +134,20 @@ Children gather soft materials from around the home and work together to build a
 
 **2-3 years**:
 
-- Keep it very simple: one blanket draped over a low chair or table
-- Use larger, fewer materials to avoid overwhelming choices
-- Stay inside with them the entire time - this is about shared experience
-- Focus on the sensory experience: soft blankets, enclosed space, quiet
-- Don't expect them to "help build" - more like they're present and exploring
-- Make it lower and easier to access (not a tall structure)
+- Keep it simple: one blanket draped over a low table
+- Name the forces: "The table legs are pushing up (compression) and the blanket is pulling across (tension)"
+- When it sags: "That's gravity pulling the blanket down!"
+- Notice warmth inside: "The blanket traps warm air — that's insulation!"
+- Stay inside with them — focus on experiencing the physics through senses
+- Use the word "structure" and "stable" naturally: "Our structure is stable!"
 
 **3-4+ years**:
 
-- Introduce more materials and more complex designs
-- Ask open-ended questions: "How could we make it stronger?" "What would happen if we..."
-- Let them lead more of the design decisions
-- Introduce simple "planning": "Let's think about what we need before we start"
-- Challenge them: "Can you make it bigger?" "Can you create two rooms?"
-- Extend play with activities: "Let's tell stories inside" or "Pretend this is a restaurant/cave/spaceship"
+- Experiment with structural principles: "What happens if we move the supports closer together? Farther apart? The blanket sags more with wider spans — that's why bridges need supports at regular intervals."
+- Introduce the triangle as the strongest shape: "Lean two cushions together in an A-frame shape. See how it's very stable? Triangles resist forces better than rectangles because they can't be pushed into a parallelogram. Real buildings use triangular trusses for this reason."
+- Discuss cantilevers: extend a blanket past a support with books weighing down one end. "The books are a counterweight — they balance the overhanging part. Balconies and diving boards work this way."
+- Test load-bearing capacity: carefully place a stuffed animal on the roof. "Can our structure bear this load? If not, we need more supports or to redistribute the weight."
+- Compare to real architecture: "Gothic cathedrals used flying buttresses — external supports that pushed inward against the walls to keep them from collapsing outward. Our pillow walls work similarly!"
 
 ### Extension Ideas
 

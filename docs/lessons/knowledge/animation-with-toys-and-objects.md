@@ -6,13 +6,13 @@ In this creative exploration, children discover how to bring toys and objects to
 
 ## Vocabulary
 
-**Animate**: To make something appear alive or give it movement and personality through intentional motion. When you animate a toy, you're making it seem like it has its own thoughts and feelings—like when you make a stuffed animal "dance" or "walk."
+**Persistence of Vision**: A property of the human visual system where your retina retains an image for about 1/25th of a second after it disappears. This means that if you show a series of slightly different still images fast enough (at least 12-15 per second), your brain blends them together and perceives continuous motion — even though nothing is actually moving. This optical phenomenon is the entire basis of all film, animation, and video. Every movie you've ever watched is actually thousands of still photographs shown rapidly.
 
-**Sequence**: A series of actions or events that happen one after another in a specific order. In animation, the sequence is how you move a toy from one position to the next to tell a story—first it walks, then it sits, then it waves.
+**Frame Rate**: The number of individual still images (frames) shown per second in an animation or film, measured in frames per second (fps). Early silent films used 16 fps, modern movies use 24 fps, and video games often run at 60 fps. More frames per second means smoother-looking motion because there's less change between each frame for your brain to fill in.
 
-**Motion**: The action of moving or changing position from one place to another. You create motion with toys when you slide them across a table, bounce them up and down, or spin them around.
+**Stop-Motion Animation**: A technique where physical objects are moved in tiny increments between individually photographed frames. When the photos are played in sequence, persistence of vision makes the objects appear to move on their own. Wallace & Gromit, Shaun the Sheep, and Coraline are all stop-motion — each second of film required 12-24 individual photographs with the characters repositioned by hand between every shot.
 
-**Narrative**: A story or chain of events that unfolds over time, often with a beginning, middle, and end. When you animate toys, you're creating a narrative—like a toy bear going on an adventure or two toys having a conversation.
+**Phi Phenomenon**: The visual illusion where your brain perceives motion between two stationary objects that appear in rapid succession at slightly different positions. Discovered by psychologist Max Wertheimer in 1912, this is different from persistence of vision — it's your brain actively constructing the perception of movement that isn't there. Flip books work because of the phi phenomenon: your brain connects the slightly different drawings into a continuous movement.
 
 ## Learning Song
 
@@ -93,24 +93,22 @@ Children will create simple animations by moving toys and objects to tell a stor
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Say: "Today we're going to make our toys come alive! We're going to be animators—people who make things move in special ways to tell stories. Watch what happens when I move this toy very slowly... now very quickly! See how the speed makes it seem different? Let's create our own animations together."
-   Show the child how moving an object slowly versus quickly changes how it "feels" and the story it tells.
+   "Today we're going to discover how animation works! Here's something amazing about your eyes: if I show you pictures fast enough, your brain sees movement even though nothing is actually moving. Scientists call this persistence of vision — your retina holds onto each image for a tiny fraction of a second, so they all blur together."
+   Demonstrate with a simple flip: hold a toy in one position, then quickly move it to another. "Your brain just connected those two positions into one smooth movement — that's the phi phenomenon! Real animators use this trick. Let's make our own animations!"
 
 2. **Exploration** (5-10 min):
-   Guide the child through creating simple animations:
-   - Choose a toy together and decide what it should do: walk, dance, jump, spin, hide, or explore
-   - Move the toy slowly and intentionally while the child watches and narrates: "The bear is walking... walking... now it's dancing!"
-   - Invite the child to take a turn moving a toy while you narrate, then switch roles
-   - Encourage longer sequences: "What happens next? Does the toy meet a friend? Go somewhere new? Find something?"
-   - Use simple prompts: "Make it move like it's happy. Now make it move like it's tired. Now make it move super fast!"
+   Guide the child through the principles of animation:
+   - Start with a flip book demonstration: draw a stick figure in slightly different positions on the corner of several pages. Flip through them quickly. "See movement? Nothing actually moved — your brain created the motion from still pictures! That's persistence of vision."
+   - Move a toy in tiny increments across a surface: "Real stop-motion animators move objects just a tiny bit between each photograph. If they take 12 photos with tiny movements and play them back in one second, your brain sees smooth motion. That's 12 frames per second!"
+   - Experiment with frame rate: move a toy in big jumps vs. tiny increments. "Big jumps look jerky — that's like a low frame rate. Tiny movements look smoother — that's a higher frame rate! Movies use 24 frames per second."
+   - Try stop-motion with a phone camera: take 5-6 photos of a toy in slightly different positions. Play them back quickly. "You just made a real animation using the same technique as Wallace & Gromit!"
 
 3. **Discovery** (3-5 min):
-   Ask questions that deepen thinking:
-   - "What do you think this toy is feeling right now?"
-   - "Can you make two toys have a conversation by moving them back and forth?"
-   - "What happens if we move it really, really slowly? Does it feel different?"
-   - "Can you create a sequence: the toy wakes up, eats breakfast, plays, then goes to sleep?"
-   Observe and comment on what the child creates: "I notice you made that jump really high—it looks very excited!"
+   Deepen understanding of the science:
+   - "Why does animation look smoother with smaller movements? Because there's less change between each frame, so the phi phenomenon works better — your brain fills in less missing information."
+   - "Movie theaters show 24 frames every second. That means for one minute of film, someone had to create 1,440 individual images! For stop-motion, they had to move the characters by hand 1,440 times."
+   - Experiment with speed: flip through photos slowly vs. quickly. "When we go slowly, you see individual photos. Speed up past about 12 per second, and persistence of vision kicks in — your brain merges them into motion!"
+   - "Can you create a sequence where the toy moves across the table? Think about how many 'frames' you need — more frames means smoother animation!"
 
 4. **Wrap-up** (2-3 min):
    Say: "You were amazing animators today! You made your toys come alive and tell stories. Every time you move something with purpose and tell what happens next, you're animating. That's exactly what movie makers do!"
@@ -119,10 +117,10 @@ Children will create simple animations by moving toys and objects to tell a stor
 ### Age Adaptations
 
 **2-3 years**:
-Keep it very simple and concrete. Focus on basic movements (roll, bounce, slide, walk) and very short sequences (2-3 moves). Use toys the child already loves and is emotionally attached to. Keep sessions to 10-15 minutes maximum. You should demonstrate movements frequently and let the child copy and explore at their own pace. Emphasize the sensory experience of moving toys rather than complex narratives. Use lots of narration and sound effects to keep their attention and model what animation is. Celebrate any intentional movement.
+Focus on the core discovery: things that aren't moving can look like they're moving. Make a simple two-position flip: show a toy in one spot, hide it, show it in another spot. "Did it move? No — your brain THOUGHT it moved! That's the phi phenomenon!" Create a 3-page flip book with a simple circle in different positions — flip the pages. "Animation!" Use the word "frame" naturally: "Here's frame one, here's frame two." Keep to 10-15 minutes. Let the child move toys and narrate the "animation" they're creating.
 
 **3-4+ years**:
-Introduce more complex narratives and longer sequences. Ask them to plan the animation before executing it: "Tell me your story first, then show me with the toys." Incorporate multiple toys interacting with each other in meaningful ways. Introduce simple cause-and-effect animations: one toy pushes another, one toy chases another, toys help each other. Consider recording short animations and playing them back, which helps children understand the "movie" they created. Encourage them to add sound effects, voices, or music to accompany the movement. Introduce the idea of different scenes or "acts" in their story.
+Create real stop-motion animations using a phone camera. Set up a simple scene, take a photo, move the toy slightly, take another photo. Aim for at least 10-15 frames. Play back as a slideshow and adjust speed. "At what speed does it stop looking like separate photos and start looking like movement? That's the threshold of persistence of vision — about 12-15 frames per second!" Introduce the concept of a storyboard: "Before animators start shooting, they draw every key moment — that's called a storyboard. Let's plan our animation before we shoot it." Discuss different animation techniques: stop-motion (physical objects), cel animation (hand-drawn frames — Walt Disney used this), CGI (computer-generated — Pixar). Build a simple zoetrope from a paper plate: draw figures in slightly different positions around the edge, spin the plate, and view through slits cut in a strip of paper. "The zoetrope was invented in 1834 — before movies existed! It proved that the phi phenomenon could create the illusion of motion."
 
 ### Extension Ideas
 

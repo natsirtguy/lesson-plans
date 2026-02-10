@@ -6,13 +6,13 @@ Children explore the concept of beauty through colors, patterns, textures, and v
 
 ## Vocabulary
 
-**Aesthetic**: The way something looks and how it makes us feel when we see it. When you arrange colorful pillows on a couch in a pretty pattern, you're creating something aesthetic.
+**Symmetry**: When one half of something mirrors the other half. Bilateral symmetry (two-sided mirroring, like a butterfly's wings) is found throughout nature — human faces, leaves, flowers, insects. Your brain's fusiform face area is tuned to detect facial symmetry, and across cultures, people consistently rate more symmetrical faces as more attractive. Scientists believe this is because symmetry signals healthy development — it's hard to grow perfectly symmetrical, so symmetry indicates strong genes.
 
-**Texture**: How something feels when you touch it, and what it looks like on the surface. Rough tree bark and smooth river stones have very different textures.
+**Golden Ratio**: A mathematical proportion (approximately 1:1.618) that appears throughout nature and has been used in art and architecture for millennia. A sunflower's spiral seed pattern, a nautilus shell's curve, and the proportions of the Parthenon all approximate the golden ratio. The Greeks called it "phi" (φ). When rectangles follow this proportion, people consistently rate them as more pleasing — your visual cortex appears to process golden ratio proportions more efficiently.
 
-**Pattern**: A design that repeats in the same way over and over. Stripes on a zebra, polka dots on a ladybug, and checks on a picnic blanket are all patterns.
+**Complementary Colors**: Colors that sit opposite each other on the color wheel — red/green, blue/orange, yellow/purple. When placed next to each other, complementary colors create maximum visual contrast because they stimulate completely different cone cells in your retina. Your eyes have three types of cone cells (red-sensitive, green-sensitive, blue-sensitive), and complementary colors activate opposing sets, creating a vibrant, high-contrast effect that your visual cortex finds attention-grabbing.
 
-**Balance**: When things are arranged in a way that feels pleasing and even. When you put the same amount of toys on each side of a shelf, you create balance.
+**Neuroaesthetics**: The scientific study of how the brain processes beauty. Neuroscientists have discovered that viewing something beautiful activates the medial orbito-frontal cortex — the same brain region that responds to delicious food and pleasant music. Beauty is not just opinion — it's a measurable brain response. Across cultures, humans find similar things beautiful: symmetry, certain color combinations, fractal patterns (patterns that repeat at different scales, like tree branches or coastlines).
 
 ## Learning Song
 
@@ -94,13 +94,17 @@ Children create a "Beauty Exploration Box" where they discover and arrange objec
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit with your child and ask: "What makes something beautiful?" Open the box slowly and say, "We're going to explore things that are beautiful in different ways. Some might be pretty colors, some might feel interesting, and some might have special patterns."
+   "What makes something beautiful? Scientists who study neuroaesthetics have discovered that when you see something beautiful, a specific part of your brain — the medial orbito-frontal cortex — lights up. It's the same part that responds to delicious food! Today we're going to explore what kinds of things activate that beauty response in YOUR brain."
 
 2. **Exploration** (7-10 min):
-   Invite your child to touch, feel, and examine each item. Encourage them to hold objects up to the light, touch them with their fingertips, and describe what they notice. Ask open-ended questions: "How does this feel?" "What colors do you see?" "Does this have a pattern?" Let them arrange items on the tray or mat board as they choose, creating their own "beautiful display."
+   Start with symmetry: hold up a leaf or butterfly picture. "Look — one side mirrors the other. That's bilateral symmetry. Your brain is wired to notice symmetry because it signals healthy growth in nature." Test objects: "Is this stone symmetrical? What about this pinecone?" Sort objects into symmetrical vs. asymmetrical groups.
+   Explore color relationships: place complementary colors next to each other (red next to green, blue next to orange). "Notice how these colors seem to vibrate when they touch? They're complementary colors — they sit opposite each other on the color wheel and stimulate different cone cells in your retina. That's why the contrast is so vivid!"
+   Look for fractal patterns: examine a fern frond, broccoli floret, or tree branch photo. "See how the same pattern repeats at smaller and smaller scales? That's called a fractal. Your brain finds fractals especially beautiful — scientists have measured this!"
 
 3. **Discovery** (3-5 min):
-   Point out specific features: "This is bumpy—we call that a rough texture." "See how this fabric has stripes? Stripes are a pattern that repeats." "The colors in this picture are arranged in a balanced way—it doesn't feel lopsided." Help them notice patterns, colors, and textures they might have missed. Ask: "Which item do you think is the most beautiful?"
+   Introduce the golden ratio: draw two rectangles — one that's a standard shape and one with golden ratio proportions (roughly 5cm × 8cm). "Which rectangle looks more pleasing? Most people choose this one — it follows the golden ratio, a mathematical proportion of about 1 to 1.618 that appears throughout nature: spiral shells, sunflower seeds, even the proportions of your own face."
+   Discuss neuroaesthetics: "Why do most humans agree that sunsets, flowers, and certain faces are beautiful? It's not random — your brain evolved to find certain patterns, symmetries, and proportions beautiful because they often signal something useful: ripe fruit (bright colors), healthy mates (symmetry), safe landscapes (fractal patterns of trees and water)."
+   Ask: "Which item activates YOUR beauty response the most? What is it about that object — symmetry, color, pattern, texture?"
 
 4. **Wrap-up** (2-3 min):
    Admire the arrangement they've created: "You've made something really beautiful! You found things with different colors, textures, and patterns and arranged them in a way that makes you happy." Take a photo of their arrangement and transition to the next activity.
@@ -108,10 +112,10 @@ Children create a "Beauty Exploration Box" where they discover and arrange objec
 ### Age Adaptations
 
 **2-3 years**:
-Simplify by using just 6-8 objects with very different textures (smooth rock, soft toy, bumpy bark). Focus on sensory exploration and basic language: "Smooth" and "bumpy," "soft" and "hard." Let them move items freely without worrying about organization. Use fewer colors and very obvious patterns. Repeat the same descriptive words often so they can learn them.
+Use 6-8 objects with distinct differences. Focus on symmetry as the entry point: "Look at this leaf — both sides match! That's symmetry. Is this rock symmetrical? No — it's asymmetrical." Name complementary colors when placing items: "Red and green are complementary colors — they look extra bright next to each other because they activate different parts of your eye!" Point out simple fractals: "This broccoli has little branches that look like the big branches — the same shape, smaller! That's a fractal." Use fewer items and more repetition of vocabulary.
 
 **3-4+ years**:
-Introduce more complex objects with subtle colors, multiple patterns, and mixed textures. Ask them to categorize items by color or texture: "Which things are red?" "Which ones are bumpy?" Have them recreate patterns you show them. Encourage them to use more descriptive words: "bumpy," "rough," "smooth," "shiny," "striped," "spotted," "speckled." Ask them to explain why they think something is beautiful.
+Build a color wheel using colored paper — place complementary pairs opposite each other and explain why (opposing cone cell stimulation). Explore the golden ratio in nature: measure a shell's spiral, count sunflower seed spirals (they follow the Fibonacci sequence: 1, 1, 2, 3, 5, 8, 13..., which converges on the golden ratio). Test symmetry preferences: create two versions of a face drawing — one symmetrical, one slightly asymmetrical. "Which looks more 'right'? Your fusiform face area is highly sensitive to facial symmetry!" Discuss cultural variation: "While some aspects of beauty (symmetry, certain proportions) are universal, cultures differ on specifics — Japanese wabi-sabi finds beauty in imperfection and impermanence, while classical Greek aesthetics valued perfect geometric form. Beauty has universal foundations but cultural layers on top." Create fractal art by drawing a Y shape, then adding smaller Y shapes to each branch, and smaller ones to those.
 
 ### Extension Ideas
 
