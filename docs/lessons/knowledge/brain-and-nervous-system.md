@@ -6,13 +6,13 @@ Children explore how their brain and body communicate through simple, sensory-ba
 
 ## Vocabulary
 
-**Brain**: The control center inside your head that helps you think, remember, move your body, and feel things. When you solve a puzzle, feel happy, or decide to jump—your brain is working!
+**Neuron**: A tiny cell in your brain and body that carries messages using electrical impulses. You have about 86 billion neurons in your brain alone, and they send signals at up to 270 miles per hour. Each neuron has a long arm called an **axon** that sends signals out, and branching arms called **dendrites** that receive signals from other neurons.
 
-**Senses**: The special tools your body uses to explore and understand the world—seeing with your eyes, hearing with your ears, touching with your fingers, tasting with your tongue, and smelling with your nose.
+**Synapse**: The tiny gap between two neurons where messages jump across. Neurons don't actually touch each other — instead, the first neuron releases chemicals called **neurotransmitters** (like dopamine and serotonin) that float across the synapse to deliver the message to the next neuron. Your brain has about 100 trillion synapses.
 
-**Reflex**: An automatic, super-fast response your body makes without thinking. When you touch something hot and quickly pull your hand away, that's a reflex protecting you!
+**Reflex arc**: A super-fast shortcut pathway where a signal goes from your body to your spinal cord and back without waiting for your brain. When you touch something hot, the signal travels to your spinal cord, which sends a "pull away!" command back to your muscles in about 50 milliseconds — that's 20 times faster than a blink. Your brain finds out what happened *after* your hand has already moved.
 
-**Signal**: A message that travels through your body to tell your brain what's happening, or from your brain to tell your body what to do. Signals travel faster than you can blink!
+**Cerebral cortex**: The wrinkly outer layer of your brain, about 2-4 millimeters thick, where most of your thinking happens. If you unfolded all the wrinkles (called **gyri** and **sulci**), it would be the size of a large pillowcase. Different areas handle different jobs: the **occipital lobe** at the back processes what you see, the **temporal lobes** on the sides process what you hear, and the **frontal lobe** at the front handles planning and decision-making.
 
 ## Learning Song
 
@@ -103,57 +103,57 @@ Children discover how their brain and senses work together through a series of s
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by pointing to your head: "Your brain is inside here, and it's like the boss of your whole body! It helps you think, move, feel, and learn. Today we're going to discover how your brain talks to your body. Ready? Let's go!"
+   Start by pointing to your head: "Inside here is your brain — about 86 billion tiny cells called neurons. Each neuron sends electrical signals to other neurons. Right now, millions of your neurons are firing just to help you listen to me. Today we're going to discover how neurons send messages through your body."
 
-   Ask simple questions: "When I clap, can you hear that? That's because your ears send a message to your brain really, really fast!"
+   Demonstrate: "When I clap" — clap — "sound waves hit your eardrums, which vibrate tiny bones, which send electrical signals through your auditory nerve to your temporal lobe — that's the part of your brain on the side of your head that processes sound. All of that happened in less than a tenth of a second!"
 
 2. **Exploration** (8-12 min):
 
-   **Station 1 - Reflex Discovery (3 min)**:
-   - Gently touch the child's palm with a cotton ball. "Your skin feels that! How fast does your body know?"
-   - Tap the back of their hand gently. "Your brain got that message super-quick!"
-   - Slowly bring your hand toward their face (not touching). Watch them blink. "Did you see? Your brain made you blink to protect your eyes—that's a reflex!"
+   **Station 1 - Reflex Arc Discovery (3 min)**:
+   - Gently touch the child's palm with a cotton ball. "Your skin has receptors — tiny sensors — that detected that touch. The signal traveled up sensory neurons in your arm to your spinal cord and brain."
+   - Slowly bring your hand toward their face (not touching). Watch them blink. "That blink is a reflex arc! The signal went from your eyes to your brainstem and back to your eyelid muscles in about 50 milliseconds. Your brain's cerebral cortex — the thinking part — didn't even get involved. The signal took a shortcut through your spinal cord. That's why reflexes are so fast — they skip the thinking step."
+   - Try the knee reflex: gently tap just below the kneecap. "That's the patellar reflex — the signal goes from your knee to your spinal cord and straight back to your quadriceps muscle. Your brain finds out about it after your leg has already kicked!"
 
-   **Station 2 - Five Senses (5-7 min)**:
-   - **Sight**: Shine a flashlight on the wall or show a bright toy. "Your eyes tell your brain what's bright and colorful!"
-   - **Sound**: Ring a bell softly. "Your ears tell your brain: 'I hear something!'"
-   - **Smell**: Let them smell an orange peel or cinnamon stick (optional). "Your nose sends smell signals to your brain!"
-   - **Touch**: Let them feel different textures. "Soft, rough, bumpy—your fingers tell your brain what they feel!"
-   - **Taste**: If safe, let them taste something (cracker, apple slice). "Your tongue tells your brain: 'This tastes yummy!'"
+   **Station 2 - Sensory Neuron Pathways (5-7 min)**:
+   - **Sight**: Shine a flashlight on the wall. "Light enters through your pupil, hits your retina at the back of your eye — that's a layer of 130 million light-detecting cells called rods and cones — and sends signals down your optic nerve to your occipital lobe at the back of your head. That's where your brain builds the picture you see."
+   - **Sound**: Ring a bell. "Sound waves vibrate your eardrum, which vibrates three tiny bones — the malleus, incus, and stapes, the smallest bones in your body — which send the vibration to your cochlea, a spiral tube filled with fluid. Hair cells inside the cochlea convert vibrations into electrical signals for your temporal lobe."
+   - **Smell**: Let them smell an orange peel. "Smell molecules float into your nose and land on about 400 different types of olfactory receptors. Each receptor detects a different molecule shape. The signal goes straight to your olfactory bulb, which connects directly to your limbic system — that's why smells trigger memories so powerfully."
+   - **Touch**: Feel different textures. "Your fingertips have about 2,500 receptors per square centimeter — that's why fingers are so sensitive. Different receptors detect different things: Meissner's corpuscles detect light touch, Pacinian corpuscles detect vibration, and Ruffini endings detect stretching."
+   - **Taste**: If safe, taste something (cracker, apple). "Your tongue has about 10,000 taste buds, each with 50-100 receptor cells that detect five basic tastes: sweet, salty, sour, bitter, and umami."
 
-   **Station 3 - Brain Controls Movement (2-3 min)**:
-   - "Your brain tells your body to move. Watch!" Wave your arm, jump, spin around slowly. "I told my brain 'jump!' and look what happened!"
-   - Invite them to copy: "Can you touch your nose? Clap your hands? Wiggle your toes? That's your brain sending commands!"
+   **Station 3 - Motor Cortex Commands (2-3 min)**:
+   - "Now let's go the other direction — signals FROM your brain TO your muscles. Your motor cortex is a strip across the top of your brain." Trace a line from ear to ear across the top of the head. "When you decide to move, your motor cortex sends electrical signals down your spinal cord and out through motor neurons to your muscles."
+   - "Wiggle your fingers. Your motor cortex just sent signals down neurons in your spinal cord, out through nerves in your arm, all the way to the 34 muscles in your hand. Touch your nose — that took your cerebellum too, the part at the back-bottom of your brain that coordinates precise movements."
 
 3. **Discovery** (3 min):
    Ask guiding questions:
-   - "What did your eyes tell your brain about that bright light?"
-   - "How fast did you blink when I moved my hand toward your face? Super fast, right? That's a reflex!"
-   - "When your tummy says 'I'm hungry,' what does your brain tell you? It tells you to eat!"
-   - "If your brain didn't tell your legs to work, what would happen?" (Encourage them to think about moving)
+   - "When you blinked, the signal took a shortcut — it went to your spinal cord, not your cerebral cortex. Why would your body have a shortcut like that?" (Speed — protecting your eyes can't wait for thinking.)
+   - "Your fingertips have way more touch receptors than your elbow. Why do you think that is?" (You use fingers to explore and grip — they need more information.)
+   - "Smell goes straight to your limbic system, which handles memories. Has a smell ever reminded you of something?"
+   - "Your neurons send signals using electricity AND chemicals. The electricity travels along the neuron, but at the synapse — the tiny gap between neurons — chemicals called neurotransmitters carry the message across."
 
 4. **Wrap-up** (2-3 min):
-   Recap by pointing to different body parts: "Your brain got messages from your eyes, your ears, your nose, your skin, and your tongue today. That's called your 'nervous system'—it's like your body's telephone line! Your brain gets all the messages and says, 'Okay, body, here's what we do next!'"
+   "Today we traced signals through your nervous system — from sensory receptors in your skin, eyes, ears, nose, and tongue, along sensory neurons to your brain, where different parts of your cerebral cortex process the information, and back out through motor neurons to your muscles. You have about 86 billion neurons connected by 100 trillion synapses, all firing electrical and chemical signals right now. That's your nervous system — the most complex structure we know of in the entire universe."
 
    Sing a quick verse from the learning song or do the actions one more time.
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep explanations very simple and concrete: "Brain helps you move. Brain helps you think."
-- Focus on the reflex discovery and immediate sensory responses
+- Focus on the reflex arc and one or two senses per session rather than all five
 - Use shorter exploration time (10-15 minutes total)
-- Let them move freely; don't force participation
-- Repeat single sensations several times rather than covering all five senses
-- Use pointing and gestures more than words
+- Point to your own head and say "neurons" — let them hear the word even if they can't say it yet
+- The knee reflex (patellar) is a great concrete demonstration — they can see and feel it
+- Name body parts with real terms: "occipital lobe" while touching back of head, "temporal lobe" while touching sides
+- Repeat the reflex demonstrations multiple times — repetition builds neural pathways (and you can say that!)
 
 **3-4+ years**:
-- Introduce the vocabulary words naturally during exploration
-- Ask more "why" and "how" questions: "Why do you think you blinked so fast?"
-- Extend the reflex test: "Let's see if you can NOT blink when I move my hand—can you stop your reflex?"
-- Create a "sense challenge": Cover eyes and identify objects by feel/sound/smell
-- Introduce the concept of "fast signals": "Brain signals are faster than Superman!"
-- Talk about feelings: "When your brain feels happy, your face smiles. When it feels scared, your heart beats faster."
+- Introduce all four vocabulary words and use them throughout
+- Try the two-point discrimination test: touch their back with one pencil tip vs. two close together — can they tell the difference? Their fingertips can distinguish points just 2mm apart, but their back needs 40mm. That's because fingertips have far more sensory receptors
+- Extend the reflex test: "Can you NOT blink? Reflexes bypass your cerebral cortex, so they're very hard to override with thinking"
+- Create a "neuron chain" game: children stand in a line, each one is a neuron. First child squeezes the next child's hand (that's the synapse), signal travels down the chain to the last child who does an action (that's the muscle). Time it — that's your reaction time!
+- Introduce neurotransmitters: "Dopamine is a chemical your neurons release when something feels rewarding. Serotonin helps regulate your mood. These are the chemicals that float across your synapses."
+- Discuss brain plasticity: "Every time you practice something, the connections between your neurons get stronger — the synapses grow. That's literally what learning IS."
 
 ### Extension Ideas
 

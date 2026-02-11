@@ -14,6 +14,16 @@ Bowling and precision rolling teaches children how to control their movements, a
 
 **Space Required**: 12-15 feet minimum (length for rolling)
 
+## Vocabulary
+
+**Momentum**: Mass multiplied by velocity — how much "oomph" a moving object carries. A heavier ball rolling at the same speed has more momentum than a lighter one, and transfers more force to the pins on impact. This is why bowling balls are heavy — more mass means more momentum, which means more force to knock pins over. Newton's First Law: an object in motion stays in motion unless acted on by a force (like friction with the floor).
+
+**Friction**: The force that resists motion between two surfaces in contact. A ball rolling on carpet has more friction than on a smooth wood floor — that's why it slows down faster. The ball's surface texture matters too: a rough ball grips the floor more (higher friction coefficient), while a smooth ball slides more. Without friction, a rolling ball would never stop — it would roll forever (Newton's First Law).
+
+**Force transfer**: When the ball hits a pin, its momentum transfers to the pin — the ball slows down and the pin accelerates. If the ball hits the pin dead center, the force transfers straight through. If it hits off-center, some force goes sideways, making the pin spin and hit other pins — that's why aiming slightly off-center in real bowling (the "pocket") knocks down more pins than hitting the front pin head-on.
+
+**Trajectory**: The path an object follows through space. A perfectly aimed roll sends the ball in a straight trajectory toward the target. But even small forces — an uneven floor, a slightly sideways release — deflect the trajectory. Your **cerebellum** (the part of your brain with 50% of all your neurons) learns to predict and correct trajectories with practice — each roll gives it feedback data to improve the next one.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -74,16 +84,15 @@ Bowling and precision rolling teaches children how to control their movements, a
 2. **Reaching stretches**: Have child reach up high, then bend down toward toes - "Reach up high, then touch the ground!"
 3. **Walking and marching**: Walk or march around the space together - "Let's march to where we're going to roll the ball!"
 
-**Warm-up cues**: "Our arms are getting ready to be great rollers! Let's make sure our bodies are loose and ready!"
+**Warm-up cues**: "Let's warm up the muscles we'll use for rolling — your deltoids (shoulder muscles) power the arm swing, and your latissimus dorsi (the big muscles on your back) control the follow-through. Roll those shoulders to get blood flowing to the muscle fibers!"
 
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Show the child the soft foam ball and the pins/targets
-- Explain: "We're going to roll the ball down the lane and try to knock over the pins. Rolling is like when the ball slides along the ground!"
-- Demonstrate a gentle roll from the starting line, letting the ball travel toward the pins
-- Point out what happens: "Look! The ball is rolling. It's moving toward the pins!"
-- Key coaching point: Emphasize that this is about trying and having fun, not getting everything knocked over
+- Show the child the ball and pins. "When I roll this ball, I'm giving it momentum — that's its mass times its velocity. The heavier the ball and the faster it moves, the more momentum it carries."
+- Demonstrate a gentle roll. "Watch — the ball is slowing down. That's friction between the ball and the floor stealing its momentum. On a smoother floor, there's less friction and the ball rolls farther."
+- When it hits: "The ball's momentum just transferred to the pin! The ball slowed down, and the pin accelerated. That's Newton's Third Law — for every action, there's an equal and opposite reaction."
+- Key coaching point: "We're doing physics with every roll — trajectory, momentum, friction, and force transfer."
 
 #### Skill Practice (2-3 minutes)
 
@@ -93,10 +102,10 @@ Bowling and precision rolling teaches children how to control their movements, a
 3. **Follow-through**: Complete the motion naturally, stepping forward slightly if needed for balance
 
 **Coaching cues**:
-- "Hold the ball with both hands - nice and gentle"
-- "Watch the ball roll like it's sliding on ice"
-- "Let it roll out of your hands smoothly"
-- "You're doing great! That's exactly how to roll!"
+- "Hold the ball with both hands — your flexor digitorum muscles in your forearms are gripping it. Feel them working?"
+- "Swing your arm back — that's your deltoid and latissimus dorsi loading up energy. Now swing forward and release — you're converting potential energy into kinetic energy"
+- "Follow through — extending your arm after release keeps your trajectory straight. If you stop short, you'll jerk the ball sideways"
+- "That roll had more momentum! More speed = more momentum = more force when it hits the pins"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -125,11 +134,11 @@ Let the child experiment with rolling in different ways:
 - Rolling at other targets (walls, marked spots)
 
 **What to encourage**:
-- "I love how you experimented with that roll!"
-- "Try rolling it a different way and see what happens"
-- "You're learning about how things move!"
+- "You increased velocity — that gives the ball more momentum. Does it knock down more pins?"
+- "Try rolling on different surfaces — carpet vs. smooth floor. Where does friction slow the ball more?"
+- "Aim slightly to the side of the front pin — off-center hits transfer force sideways, making pins knock into other pins. That's called a chain reaction."
 
-**When to observe**: Watch for natural problem-solving ("If I roll faster, does it go further?") and let them discover answers
+**When to observe**: Watch for natural physics discovery — "faster = more pins down" (momentum), "carpet slows it" (friction), "hitting the side works better" (angular force transfer). Name the physics when you see them discovering it.
 
 ### Cool-Down (2-3 minutes)
 
@@ -140,7 +149,7 @@ Let the child experiment with rolling in different ways:
 2. **Seated stretching**: Sit down and gently stretch arms and legs ("Reach one arm up high, now the other")
 3. **Breathing together**: Sit quietly and take 3-4 deep breaths - "Big breath in... slow breath out"
 
-**Transition**: "That was such great rolling! Our bodies are getting tired now. Let's help put things away and then we can have some quiet time."
+**Transition**: "We explored so much physics today — momentum, friction, trajectory, and force transfer. Every roll was a physics experiment! Your cerebellum learned from every single roll, adjusting your aim and force each time. That's motor learning."
 
 ## Age Adaptations
 

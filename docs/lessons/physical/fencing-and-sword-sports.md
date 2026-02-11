@@ -14,6 +14,16 @@ Fencing and sword sports introduce children to basic sword movements, footwork, 
 
 **Space Required**: 15x20 feet minimum for safety
 
+## Vocabulary
+
+**Reaction time**: The delay between seeing a stimulus and producing a physical response — typically 150-300 milliseconds in adults. The signal travels from your retina → visual cortex (occipital lobe) → motor cortex (frontal lobe) → spinal cord → muscles. Fencing has the fastest reaction times of any sport — elite fencers respond in under 200 milliseconds. Children's reaction times are slower (300-500ms) because their neurons haven't fully myelinated yet. Every practice session builds myelin insulation on the neural pathways, literally speeding up signal transmission.
+
+**Lunge**: The fundamental fencing attack — a rapid forward extension of the front leg (quadriceps contract explosively) while the back leg pushes off (gastrocnemius and gluteus maximus provide propulsive force). The front foot lands heel-first with the knee directly over the ankle. A competitive fencer's lunge covers 1.5-2 meters in about 300 milliseconds. The biomechanics are identical to a sprinter's start — ground reaction force (Newton's Third Law) propels the body forward.
+
+**En garde**: The ready stance — front foot pointing forward, back foot perpendicular, knees bent, weight centered. This position optimizes two things: low center of gravity (bent knees lower it, increasing stability) and rapid movement in any direction (weight centered between feet means equal push-off force forward, backward, or sideways). Your quadriceps and hamstrings co-contract (both firing simultaneously) to maintain this spring-loaded position.
+
+**Fencing history**: Sword combat is as old as metallurgy (Bronze Age, ~3000 BCE), but fencing as a sport evolved in 15th-century Spain and Italy when masters published the first fencing manuals. The three modern fencing weapons — foil, epee, and sabre — each have different target areas and rules. Fencing was in the first modern Olympics in 1896 (Athens) and has been in every Olympics since. Electronic scoring was introduced in 1933 — a circuit completes when the sword tip touches the opponent's metallic vest, registering the hit.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -78,15 +88,14 @@ Fencing and sword sports introduce children to basic sword movements, footwork, 
 2. Arm circles and shoulder rolls - "Circle your arms like spinning a sword slowly"
 3. Lunges forward and back - "Step forward and back, like fencing movements"
 
-**Warm-up cues**: "Stand tall like a brave knight! Make big circles with your arms. Can you step forward and back smoothly?"
+**Warm-up cues**: "Circle your arms to warm up your deltoids (shoulder muscles) and rotator cuff. Lunge forward — feel your quadriceps stretching in the back leg and contracting in the front leg. Fencers need explosive power from these muscles. Step side to side — your adductor and abductor muscles move your legs sideways."
 
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Show the foam sword and explain it's a "practice sword" for movement games
-- Demonstrate safe grip: holding sword with one hand on hilt, arm at side ready
-- Show basic standing position: feet shoulder-width apart, one foot slightly forward
-- Emphasize that this is movement practice, not fighting - "We're learning to move like heroes"
+- "Fencing is one of the oldest sports in the world — sword fighting has existed since the Bronze Age, about 5,000 years ago. Modern sport fencing started in 15th-century Spain and Italy, and it's been in every Olympic Games since 1896."
+- Demonstrate the en garde stance: "Front foot forward, back foot sideways. Knees bent — this lowers your center of gravity for stability. Your quadriceps and hamstrings are co-contracting right now, like loaded springs."
+- "Fencing has the fastest reaction times of any sport — elite fencers respond in under 200 milliseconds. That signal goes from your eyes to your visual cortex, then to your motor cortex, down your spinal cord, and out to your muscles."
 
 #### Skill Practice (3-5 minutes)
 
@@ -97,10 +106,10 @@ Fencing and sword sports introduce children to basic sword movements, footwork, 
 - Recovery: returning to neutral stance after each movement
 
 **Coaching cues**:
-- "Hold your sword like you're holding a magic wand - gently but firmly"
-- "Plant your feet like trees - strong and steady"
-- "Swish and step - move your feet when you move your sword"
-- "Big movements are slow movements - control is the magic"
+- "Grip with your flexor digitorum muscles in your forearm — firm enough to control the sword, relaxed enough that your wrist stays flexible for quick direction changes"
+- "En garde position: knees bent to lower your center of gravity. Feel your quadriceps holding you in this spring-loaded stance? They're ready to fire for a lunge"
+- "Lunge forward — your back leg's gastrocnemius (calf) and gluteus maximus (hip) push you forward. Front leg extends with your quadriceps. Newton's Third Law: you push backward on the floor, the floor pushes you forward"
+- "Control comes from your cerebellum — it coordinates the timing of all these muscles. Slow practice builds better cerebellar maps than fast, sloppy practice"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -140,7 +149,7 @@ Let children experiment with different sword movements and stances
 2. Breathing exercise - "Breathe in as you raise sword, breathe out as you lower it"
 3. Gentle stretches - shoulder stretches while holding sword lightly
 
-**Transition**: "Now we rest our swords and our bodies. Let's move very slowly and gently like the sun setting."
+**Transition**: "We practiced the same biomechanics that Olympic fencers use — en garde stance for stability, lunges powered by quadriceps and gastrocnemius, and reaction time that gets faster as your neurons build myelin insulation. Every practice session literally speeds up your nervous system."
 
 ## Age Adaptations
 
