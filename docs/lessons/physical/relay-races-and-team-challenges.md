@@ -4,6 +4,16 @@
 
 Relay races and team challenges are cooperative physical activities where children work together in pairs or small groups to complete movement tasks in sequence. These activities build teamwork, turn-taking, speed awareness, and gross motor skills while keeping energy high and engagement fun. They're excellent for developing social skills, communication, and the understanding that teams can accomplish more together than individuals working alone.
 
+## Vocabulary
+
+**Acceleration**: The rate at which your speed increases — when you start running from a standstill, your quadriceps and gluteus maximus muscles contract to push against the ground (Newton's Third Law: push ground backward, ground pushes you forward). Acceleration requires more energy than maintaining speed, which is why the first few steps of a sprint feel hardest.
+
+**Anaerobic exercise**: Short, intense bursts of activity (like sprinting) where your muscles work faster than your cardiovascular system can deliver oxygen. Your muscle cells switch to anaerobic metabolism — breaking down glucose without oxygen — which produces lactic acid as a byproduct. That burning feeling in your legs after sprinting is lactic acid accumulating. Relay races alternate anaerobic bursts with rest periods, which is called interval training.
+
+**Quadriceps/hamstrings**: The two major muscle groups powering running — they work as an antagonist pair. Quadriceps (four muscles on the front of the thigh) extend the knee to push off the ground. Hamstrings (three muscles on the back of the thigh) flex the knee to pull the foot up for the next stride. During a sprint, these muscles contract and relax in alternation up to 5 times per second.
+
+**Cardiovascular system**: The heart, blood vessels, and blood that deliver oxygen to working muscles. During running, the heart rate increases from about 80 beats per minute at rest to 150-180 bpm during sprinting. The heart pumps more blood per beat (stroke volume increases), and blood vessels in the leg muscles dilate to allow more blood flow. This is why your heart pounds and your face gets red — your cardiovascular system is working at maximum capacity.
+
 **Activity Type**: Team Sport / Cooperative Motor Skill Development
 
 **Duration**: 15-20 minutes (with natural breaks)
@@ -73,14 +83,14 @@ Relay races and team challenges are cooperative physical activities where childr
 **Purpose**: Prepare muscles and cardiovascular system for running and exertion; build excitement and understanding of what's coming
 
 **Warm-up activities**:
-1. Gentle jogging in place - Have children march, then gradually increase to light jogging. Say "Let's wake up our legs!"
-2. Walking around the space - Walk in different directions, encouraging awareness of the space boundaries
-3. Dynamic stretches - Arm circles, leg swings, and reaching movements. Make it playful: "Reach up to the sky! Touch your toes! Twist like a tree!"
+1. Gentle jogging in place — "Feel your quadriceps — the big muscles on the front of your thighs — contracting to lift your knees. Those four muscles are the main engine for running."
+2. Walking around the space with increasing speed — "Notice your heart beating faster? Your cardiovascular system is preparing — increasing blood flow to deliver more oxygen to your leg muscles."
+3. Dynamic stretches — Leg swings (hamstrings and hip flexors), arm circles (deltoids), and reaching movements. "We're warming up the muscles we'll use — the hamstrings on the back of your thigh pull your foot up, the quadriceps on the front push you forward."
 
 **Warm-up cues**:
-- "We're getting our bodies ready to run fast and work as a team!"
-- "Feel your heart beating faster? That's your body getting ready for fun!"
-- "Let's move like different animals - march like a bear, hop like a bunny, trot like a horse!"
+- "Put your hand on your chest — feel your heart rate increasing? That's your heart pumping more blood to your muscles, delivering oxygen for the work ahead."
+- "Swing your leg forward and back — that's your hamstrings and quadriceps stretching. Warm muscles are more flexible and less likely to get injured."
+- "Your body is switching from rest mode to exercise mode — blood vessels in your legs are dilating (getting wider) to allow more blood flow."
 
 ### Main Activity (12-15 minutes)
 
@@ -99,9 +109,9 @@ Relay races and team challenges are cooperative physical activities where childr
 - **Movement component 3 - Waiting and cheering**: Practice standing as the waiting teammate, being ready, and watching closely when it's time to run; understanding turn-taking
 
 **Coaching cues**:
-- "Run with happy feet - not too fast so you stay in control!"
-- "Look at your teammate's hand and put the baton there gently - like giving them a high-five with the stick"
-- "Stay ready! Watch your friend and get ready to zoom when they come back!"
+- "Push off with your quadriceps — the big muscles on the front of your thigh. Feel them working? They're pushing against the ground, and the ground pushes you forward — that's Newton's Third Law!"
+- "When you start running, that's acceleration — going from zero speed to fast. Your muscles use the most energy in those first few steps."
+- "Watch your teammate's hand for the baton exchange — your visual cortex is tracking the hand position and your motor cortex is planning the grab. Eyes on the baton!"
 
 #### Guided Play/Game (8-10 minutes)
 
@@ -139,12 +149,12 @@ Allow children to run, skip, and move freely in the space with the objects if th
 **Purpose**: Slow heart rate gradually; transition from high energy to calm; reflect on teamwork and accomplishments
 
 **Cool-down activities**:
-1. Walking slowly around the space - Have children walk slowly, gradually reducing pace and taking deep breaths. Say "Our bodies did such good work!"
-2. Seated stretching - Sit down together and gently stretch legs, arms, and back. "Let's give our muscles a gentle stretch because they worked so hard"
-3. Calming breathing - Sit together and take 3-5 deep breaths together. "In through the nose, out through the mouth. You worked as a great team!"
+1. Walking slowly around the space — "We're letting our heart rate come back down gradually. Your cardiovascular system is slowing the blood flow to your legs and returning to resting mode."
+2. Seated stretching — stretch quadriceps (pull foot toward buttock), hamstrings (reach toward toes), and gastrocnemius/calves (flex foot). "Your muscles produced lactic acid during those sprints — that's the burning feeling. Stretching helps blood flow clear the lactic acid away."
+3. Deep breathing — "Breathe in through the nose, out through the mouth. Your lungs are repaying the oxygen debt from the anaerobic exercise — replacing the oxygen your muscles used faster than your blood could deliver it."
 
 **Transition**:
-Move to a calm activity next (snack, quiet play, story time). Use transition language: "Great job running and working together as a team! Now let's have some rest time."
+"Your cardiovascular system just got a workout — your heart is a muscle too, and it gets stronger every time you exercise. The more you run, the more blood your heart can pump per beat, which is why athletes have lower resting heart rates."
 
 ## Age Adaptations
 
