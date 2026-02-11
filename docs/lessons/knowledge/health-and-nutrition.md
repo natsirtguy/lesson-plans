@@ -6,19 +6,13 @@ Children explore what our bodies need to grow strong and healthy through hands-o
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that:
-- Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")
-- Are adult words that expand beyond toddler basics
-- Directly relate to the topic
-- Can be demonstrated or experienced
+**Macronutrient**: One of the three main types of food components your body needs in large amounts: carbohydrates (sugars and starches that provide quick energy), proteins (amino acid chains that build and repair muscles, bones, and organs), and lipids/fats (concentrated energy storage, brain structure — your brain is 60% fat). Each food contains a different balance of these three macronutrients.
 
-**Nourish**: To give food and care that helps something grow strong and healthy. When you eat nutritious foods like fruits and vegetables, you nourish your body so it can run, jump, and play.
+**Vitamin**: A specific chemical compound your body needs in small amounts but cannot make on its own, so you must get it from food. Beta-carotene in orange foods (carrots, sweet potatoes) converts to vitamin A for vision. Ascorbic acid (vitamin C) in citrus fruits helps build collagen and fight infection. There are 13 essential vitamins, each with a specific job.
 
-**Nutrient**: Something in food that our bodies need to be healthy and strong. Fruits have nutrients that help your eyes see, and milk has nutrients that help your bones grow.
+**Digestion**: The process of breaking food into tiny molecules small enough to absorb through your intestinal wall into your blood. It starts in your mouth (teeth grind, saliva contains amylase enzyme that breaks down starch), continues in your stomach (hydrochloric acid and pepsin break down protein), and finishes in your small intestine (6 meters long — the main absorption site).
 
-**Consume**: To eat or drink something. When you consume foods from different groups—fruits, vegetables, proteins, and grains—your body gets all the energy and strength it needs.
-
-**Energy**: The power that helps your body move, think, and play all day long. Your body gets energy from the foods you eat, especially grains and fruits that give you fuel to run and explore.
+**Metabolism**: All the chemical reactions happening inside every cell of your body right now — converting food molecules into energy (measured in calories) and building materials. Your metabolic rate determines how fast you burn energy. Even sleeping, your body uses energy for breathing, pumping blood, and growing — children's metabolisms are faster than adults' because they're building new cells rapidly.
 
 ## Learning Song
 
@@ -112,13 +106,13 @@ Children explore a rainbow of real foods organized by color and food group, disc
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the rainbow of foods and ask, "What colors do you see?" Point to each color and name the foods. Say, "These foods have different colors, and each color helps our bodies in special ways! Red foods help our hearts, orange foods help our eyes, and green foods help our bones grow strong." Let the child choose which color to explore first.
+   Show the rainbow of foods. Say: "These foods have different colors because they contain different chemical compounds. Orange foods like carrots contain beta-carotene — your body converts it into vitamin A, which your retina cells need to detect light. That's how beta-carotene literally helps your eyes see! Red strawberries contain anthocyanins and vitamin C — ascorbic acid — which helps your body build collagen, the protein that holds your skin together." Let the child choose which color to explore first.
 
 2. **Exploration** (7-10 min):
-   Invite the child to pick up and examine foods from each color group. Ask questions like: "What does this feel like? Is it soft or crunchy? Can you smell it?" Let them squish a strawberry, crunch a carrot, feel the bumps on broccoli. Provide narration: "You're discovering what fresh food feels like! That crunch means it's healthy and full of nutrients." Allow them to taste each item if interested (no pressure), describing flavors: "Bananas are sweet and soft. Cucumbers are cool and crunchy."
+   Pick up each food and explain the science: "This carrot is crunchy because its cells are full of water — that's called turgor pressure. When a carrot gets bendy and soft, the cells have lost water." Let them taste and touch. "The banana is sweet because it contains natural sugars — a type of carbohydrate, one of the three macronutrients. Carbohydrates give your muscles and brain quick energy." For protein foods: "This cheese contains protein — long chains of amino acids your body uses to build and repair muscles. Your body breaks the protein apart during digestion using enzymes in your stomach." For broccoli: "Green vegetables contain iron, which your red blood cells need to carry oxygen, and fiber, which your digestive system needs to move food through your 6-meter-long small intestine."
 
 3. **Discovery** (3-5 min):
-   Once exploration is complete, gather the foods and ask reflection questions: "Which color did you like touching the best? Which food was crunchiest? Which smelled interesting?" Point out specific nutrients: "See how orange carrots are orange? That special color helps your eyes see bright and clear! The red strawberries have seeds—count them. Inside those seeds and the red part is food that keeps your heart healthy."
+   Connect to metabolism: "Right now, your body is performing metabolism — thousands of chemical reactions converting the food you just tasted into energy and building materials for your cells." Trace digestion: "First your teeth grind the food. Then saliva — which contains the enzyme amylase — starts breaking down starches. Your stomach adds hydrochloric acid and pepsin to break down protein. Your small intestine absorbs the nutrients into your blood." Ask: "Which foods had the most carbohydrates? Which had protein? Which had vitamins?"
 
 4. **Wrap-up** (2-3 min):
    Create a simple "Rainbow Plate" together on paper or a plate by having the child point to or place a picture/piece of each colored food. Say, "You discovered the rainbow of healthy foods! When we eat foods from all the colors, we nourish our whole body. Tomorrow we can make another rainbow with different foods!" Transition to handwashing and next activity.

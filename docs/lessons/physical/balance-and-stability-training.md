@@ -14,6 +14,16 @@ Balance and stability training develops core strength, body awareness, and propr
 
 **Space Required**: 10x10 feet minimum (larger is better for walking activities)
 
+## Vocabulary
+
+**Vestibular system**: Three tiny fluid-filled semicircular canals inside each inner ear that detect rotation and movement of your head. When you tilt or turn, the fluid shifts and bends tiny hair cells that send signals to your brain about your body's position. This is your primary balance-sensing organ — when fluid keeps sloshing after you spin (causing dizziness), that's your vestibular system still sending rotation signals even though you've stopped.
+
+**Center of gravity**: The single point where all of your body's weight is balanced — roughly behind your belly button for a standing person. When your center of gravity stays over your base of support (the area between your feet), you stay balanced. When it moves outside that base, you fall. This is why a wide stance (feet apart) is more stable — bigger base of support — and why leaning too far in any direction causes you to topple.
+
+**Proprioception**: Your body's "sixth sense" — the ability to know where your body parts are in space without looking at them. Sensors in your muscles (muscle spindles), tendons (Golgi tendon organs), and joint capsules constantly send position data to your cerebellum. Close your eyes and touch your nose — that's proprioception. It's essential for every balance activity.
+
+**Core muscles**: The group of muscles that stabilize your spine and pelvis during balance: transverse abdominis (deepest core layer, wraps around your torso like a corset), rectus abdominis (the "six-pack" muscle for spinal flexion), obliques (side-bending and rotation), and erector spinae (three muscles running along your spine for extension). Strong core muscles are the foundation of all balance.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -109,11 +119,11 @@ Balance and stability training develops core strength, body awareness, and propr
    - Use arms for counterbalance
 
 **Coaching cues**:
-- "Keep your eyes on where you're going—not down at your feet"
-- "Hold your arms out like an airplane for balance"
-- "Breathe steadily—in and out—we're not in a race"
-- "If you feel wobbly, that's your body learning. It's perfectly okay"
-- "Lean forward a little from your ankles, not your waist"
+- "Keep your eyes on where you're going — your vestibular system in your inner ears works better when your eyes give it a fixed reference point"
+- "Hold your arms out to the sides — you're moving your center of gravity adjustment. Your arms act as counterbalances, like a tightrope walker's pole!"
+- "Feel your core muscles — your transverse abdominis wrapping around your torso like a corset, holding your spine steady"
+- "If you feel wobbly, that's your proprioceptors sending signals to your cerebellum, which is making tiny adjustments. Wobbling IS learning!"
+- "Feel your tibialis anterior — the muscle on the front of your shin — working to keep you from tipping forward. Your gastrocnemius (calf muscle) keeps you from tipping backward. They take turns!"
 
 #### Guided Play/Game (3-7 minutes)
 

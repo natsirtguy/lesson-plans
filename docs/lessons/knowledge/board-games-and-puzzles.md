@@ -6,13 +6,13 @@ Children explore the concepts of strategy, pattern recognition, and problem-solv
 
 ## Vocabulary
 
-**Strategy**: A plan or method you choose to win a game or solve a problem. When you move your game piece to a special square to get closer to winning, you're using strategy.
+**Probability**: The mathematical chance of something happening, expressed as a fraction or ratio. A standard die has 6 faces, so each number has a 1-in-6 probability of appearing — about 16.7%. When you roll two dice, there are 36 possible combinations, and some totals (like 7) are more probable than others (like 2) because more combinations produce them.
 
-**Pattern**: Something that repeats in the same way over and over. A puzzle with a repeating pattern might show: red, blue, red, blue—and you predict what comes next!
+**Spatial reasoning**: The ability to mentally picture how shapes fit together, rotate, or relate to each other in space. When you look at a puzzle piece and imagine rotating it to fit a gap, your parietal lobe is performing spatial reasoning — the same cognitive skill used by architects, surgeons, and engineers.
 
-**Persistence**: Keeping going even when something is hard or doesn't work the first time. When a puzzle piece doesn't fit, persistence means trying again instead of giving up.
+**Working memory**: The brain system (centered in the prefrontal cortex) that holds information temporarily while you use it. When you remember which face-down card was a cat and where it was, that's working memory at work. Young children can hold about 2-3 items in working memory; adults hold about 7.
 
-**Rule**: A direction that tells us what we can and cannot do in a game. In a game, the rule might be "take turns" or "move your piece when you roll the dice."
+**Algorithm**: A step-by-step set of instructions for solving a problem. When you sort puzzle pieces by color first, then by edge shape, you're using an algorithm — a systematic strategy rather than random guessing. Computer programs are made of algorithms, and so is every game strategy you develop.
 
 ## Learning Song
 
@@ -100,21 +100,19 @@ Children will engage in hands-on exploration of simple puzzles and beginner game
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Gather children and show them the puzzle. Say: "Today we're exploring something special—puzzles and games! These help our brains think in new ways."
-   - Hold up the puzzle and let children feel a piece. Ask: "Where do you think this piece goes? Can you find another piece that might be nearby?"
-   - Introduce vocabulary: "Puzzles have pieces that fit together like friends holding hands. When we play games, we follow rules so everyone has fun."
+   - Gather children and show them the puzzle. Say: "Today we're exploring puzzles and games — and discovering what your brain does when it solves problems!"
+   - Hold up a puzzle piece. Say: "When you look at this piece and imagine rotating it to fit, your parietal lobe — a part of your brain near the top of your head — is performing spatial reasoning. That's the same skill architects use to design buildings!"
+   - Show the die: "This die has 6 faces. Each number has a 1-in-6 probability of appearing — that means about a 16% chance. Let's see what probability gives us today!"
 
 2. **Exploration** (8-12 min):
-   - Start with the puzzle. Dump pieces out on the table and let children explore freely. Narrate what you see: "You're looking at all the pieces. That piece is blue like the sky!"
-   - Guide children to flip pieces right-side up and try connecting them. Celebrate effort: "You're thinking about how pieces go together!"
-   - Once puzzle progress begins, move to the board game. Show the board and ask: "Where should we start?" Place game pieces and explain turns: "First you roll the dice, then you move your piece that many spaces. Then it's my turn."
-   - Play several rounds, letting children roll and move pieces. Emphasize turn-taking with a visual cue: "It's your turn now!" and "Now it's my turn!"
+   - Start with the puzzle. Say: "Before we grab pieces randomly, let's use an algorithm — a step-by-step plan. First, let's flip all pieces right-side up. Then sort by color. Then find the edge pieces. That's a systematic strategy!" Guide children through the algorithm, narrating each step.
+   - As they work: "Your brain's working memory — in the prefrontal cortex, right behind your forehead — is holding information about which pieces go where. Young brains can hold about 2-3 things in working memory at once."
+   - Move to the board game with dice. Before rolling: "What's the probability of rolling a 6? One chance in six! Let's count — 1, 2, 3, 4, 5, 6 faces. Let's test it!" After several rolls, note which numbers came up: "Did we get each number once? Probability doesn't mean equal results every time — that's why games are exciting!"
 
 3. **Discovery** (3-5 min):
-   - Ask guiding questions about the puzzle: "What color is this piece?" "Where do you see matching pieces?" "Which pieces fit together?"
-   - Ask about the game: "What number did you roll?" "How many spaces can you move?" "Whose turn is it now?" "Do you want to go again?"
-   - Celebrate persistence: "You tried that piece three times and it finally fit! That's persistence!"
-   - Point out patterns if applicable: "Look—every time we roll, we get a number between 1 and 6. That's a pattern!"
+   - Reflect on cognitive processes: "When you remembered where that puzzle piece was, that was your working memory! When you rotated a piece to fit, that was spatial reasoning!"
+   - For the dice game: "Let's count what we rolled — did any numbers come up more than others? With lots of rolls, each number should come up about the same number of times. That's the law of large numbers in probability."
+   - Ask: "What algorithm did we use for the puzzle? Sort by color, find edges, then fill in the middle. Did that strategy help us solve it faster than random guessing?"
 
 4. **Wrap-up** (2-3 min):
    - Help complete the puzzle or finish a game round
@@ -126,24 +124,21 @@ Children will engage in hands-on exploration of simple puzzles and beginner game
 
 **2-3 years**:
 - Use puzzles with only 4-6 large, chunky pieces with thick pegs or handles
-- Focus more on the sensory exploration of pieces and fitting them together
-- Play very simple games with minimal rules (roll and move, no scoring)
+- Name the cognitive processes simply: "You're doing spatial reasoning — figuring out how shapes fit!"
+- Play very simple dice games; count dots together and name probability: "We got a 3! There was a 1-in-6 chance of that."
 - Use larger dice and large game pieces easy to grip
-- Emphasize turn-taking over winning/losing
-- Provide hands-on guidance: "Let's try it here together"
-- Keep game rounds to 5-10 minutes maximum before transitioning to other play
-- Celebrate any attempt, no matter how small
+- Practice simple algorithms: "Our plan is: flip pieces over, then try to match colors"
+- Keep game rounds to 5-10 minutes maximum
+- Celebrate working memory: "You remembered where that piece was! Your brain held onto that information!"
 
 **3-4+ years**:
-- Introduce puzzles with 8-20 pieces; work toward picture-guided puzzles
-- Play games with simple scoring or point systems
-- Introduce the concept of winning and losing in positive ways: "You got to the finish line first—great job!"
-- Ask children to predict what will happen: "Roll the dice—what number do you think you'll get?"
-- Encourage pattern recognition: "Do you see a pattern on the game board?"
-- Challenge them with variations: "Can you put the puzzle together without looking at the picture?"
-- Introduce memory or matching games
+- Introduce puzzles with 8-20 pieces; develop systematic algorithms for solving (edge-first strategy, color sorting)
+- Explore probability with dice: roll many times and tally results — do all numbers appear equally? Introduce the concept of "expected" vs. "actual" outcomes
+- Play memory/matching games to explicitly exercise working memory: "Your prefrontal cortex is working hard to hold all those card positions!"
+- Challenge spatial reasoning: "Can you put the puzzle together without looking at the picture? That's pure spatial reasoning!"
+- Introduce basic strategy concepts: "If you move here, what might happen next? That's thinking ahead — like a chess player"
+- Compare algorithms: "Let's try random puzzle-solving first, then our organized algorithm. Which was faster? That's why algorithms matter — computers use them too!"
 - Allow longer game play (15-20 minutes) with multiple rounds
-- Discuss strategy: "Where do you want to move your piece to get closer to the end?"
 
 ### Extension Ideas
 

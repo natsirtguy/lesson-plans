@@ -6,13 +6,13 @@ Children explore the concept of family structures, relationships, and the roles 
 
 ## Vocabulary
 
-**Relationship**: A connection between two people that involves caring, talking, and spending time together. Your relationship with your mom is special because she hugs you, reads to you, and takes care of you every day.
+**Attachment**: The deep emotional bond between a child and their primary caregiver, first described by psychologist John Bowlby in the 1950s. Securely attached children use their caregiver as a "safe base" to explore from, returning when frightened. This bond forms through consistent, responsive care and shapes how a child builds relationships throughout their life.
 
-**Family**: A group of people who live together or love each other and care for one another. Your family might include your parents, siblings, grandparents, or other people who take care of you.
+**Kinship**: The system of family relationships that every human culture organizes, including biological connections (parents, siblings, grandparents) and social bonds (adoption, godparents, chosen family). Anthropologists have studied kinship systems across thousands of cultures and found they vary enormously — in some cultures, your mother's sister is called "mother" too, while others have separate words for each relationship.
 
-**Sibling**: A brother or sister. If you have a sibling, they are part of your family and you can play together.
+**Oxytocin**: A hormone (chemical messenger) released by the brain during physical contact like hugging, cuddling, and holding hands. It strengthens the emotional bond between people — sometimes called the "bonding hormone." Oxytocin is released in both the caregiver and the child during nurturing touch, which is why hugs feel so good.
 
-**Caregiver**: An adult who takes care of a child by feeding them, keeping them safe, and helping them learn. Your caregiver might be a parent, grandparent, babysitter, or teacher.
+**Genealogy**: The study of family history and lineage — tracing who is related to whom across generations. A family tree is a genealogical diagram. Every person has 2 parents, 4 grandparents, 8 great-grandparents, 16 great-great-grandparents — the number doubles with each generation. Go back 10 generations (about 250 years) and you have over 1,000 ancestors.
 
 ## Learning Song
 
@@ -99,23 +99,22 @@ Children explore the concept of family through a tactile, interactive "Family Tr
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - Sit with your child and show them a photo of a family member (grandparent, sibling, parent)
-   - Say: "This is Grandma! She is part of our family. She loves us and we love her. Who else is in our family?"
-   - Let your child point to or name other family members they recognize
-   - Introduce the activity: "Today, we're going to make a special book/tree to show all the people in our family who love us."
+   - Sit with your child and show them a photo of a family member
+   - Say: "This is Grandma! She is part of our family. Scientists who study families have discovered something amazing — when you hug someone you love, both your brains release a chemical called oxytocin. It's sometimes called the 'bonding hormone' because it makes you feel close and safe."
+   - Introduce attachment: "A psychologist named John Bowlby discovered that the bond between children and caregivers — called attachment — is one of the most important things for a child's development."
+   - "Today, we're going to make a family tree — that's part of genealogy, which means studying who is related to whom."
 
 2. **Exploration** (8-12 minutes):
-   - Hand your child the photos one at a time and ask them to name the person and describe something they do with that person ("This is Dad. He plays with me!")
-   - Have your child place or glue the photos onto the base in any arrangement that feels right to them (no "correct" way)
-   - As they work, ask questions: "Where should Grandpa go?" "Do you want Mom near Dad?" "Who gives you the biggest hugs?"
-   - For children who can draw, invite them to draw additional family members or add simple pictures around the photos (hearts, houses, favorite activities)
-   - Point out the connections: "Look! You put all the people you love on this page together. That's your family!"
+   - Hand photos one at a time. Name the kinship relationship: "This is your grandmother — that's a kinship term. In some cultures, your mother's mother and father's mother have different names! Different cultures organize kinship differently."
+   - As they arrange: "You're building a genealogical diagram. You have 2 parents, 4 grandparents, 8 great-grandparents — the number doubles each generation! Go back 10 generations and you have over 1,000 ancestors."
+   - Draw connecting lines: "These lines show attachment bonds. Bowlby discovered that children explore the world more bravely when they feel securely attached to their caregivers — you use us as a 'safe base.'"
+   - For children who can draw, invite them to add more family members. Note: "Anthropologists — scientists who study human cultures — have found that the idea of 'family' is different in every culture."
 
 3. **Discovery** (3-5 minutes):
-   - Once the arrangement is complete, have your child point to each person and say their name and one thing they love about them
-   - Ask: "How many people are in your family?" "Who makes you feel safe?" "Who do you like to play with?"
-   - Celebrate their creation: "You made a beautiful family page/tree! You are so loved by all these people!"
-   - If appropriate, take a photo of the finished product to preserve it
+   - Count generations: "You are generation 1. Your parents are generation 2. Your grandparents are generation 3. How far back can we go?"
+   - Ask: "Who makes you feel safe? That person is one of your primary attachment figures — the people your brain trusts the most."
+   - Explore kinship vocabulary: "What do we call your mother's sister? 'Aunt!' In Hawaiian kinship systems, she would be called 'mother' too — because those cultures see family differently."
+   - "Every time you hug someone on this family tree, your brain releases oxytocin. That's your body's way of building bonds!"
 
 4. **Wrap-up** (2 minutes):
    - Display the completed project in a visible place in your home

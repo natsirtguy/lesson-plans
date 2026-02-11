@@ -6,13 +6,13 @@ Children explore creative mark-making by pressing stamps into paint and transfer
 
 ## Vocabulary
 
-**Pattern**: A repeating arrangement of colors, shapes, or designs in an organized sequence. When you stamp the same shape over and over, you create a pattern—like stamps in a row, row, row.
+**Relief printing**: A printmaking technique where the raised surface of a block or stamp carries the ink or paint, while the cut-away areas remain blank. When you press a potato stamp into paint and onto paper, the raised parts print and the carved-away parts don't — that's relief printing, the oldest printmaking method in human history (Chinese woodblock printing dates to at least 200 CE).
 
-**Imprint**: A mark or design created by pressing something firmly into a surface or substance. When you push your stamp into paint, the mark left on the paper is the imprint.
+**Pressure**: Force applied over an area (measured in pascals — newtons per square meter). When you press a stamp down firmly, you're applying pressure to transfer paint from the stamp surface to the paper. More pressure = more complete transfer. A small stamp concentrates the same force on a smaller area, creating higher pressure and a crisper print.
 
-**Texture**: How something feels or looks on its surface—whether it is smooth, bumpy, rough, or ridged. Different stamps make different textures when pressed into paint.
+**Mirror image**: When you print from a stamp, the image comes out reversed — left becomes right. This is why printmakers must carve letters backward so they read correctly when printed. Johannes Gutenberg used this principle in 1440 when he invented movable type — individual reversed metal letters that could be rearranged and reused, revolutionizing how information spread across the world.
 
-**Transfer**: To move or carry something from one place to another. When you lift your stamp away from the paint and press it on paper, you transfer the color to create your design.
+**Pigment**: The tiny solid particles in paint or ink that give it color by absorbing certain wavelengths of light and reflecting others. Red paint contains pigments that absorb blue and green light but reflect red wavelengths back to your eyes. Ancient pigments came from ground minerals (ochre, lapis lazuli), plants (indigo), and even insects (cochineal beetles for red). Modern pigments are often synthesized chemically.
 
 ## Learning Song
 
@@ -111,20 +111,16 @@ Children become young artists and inventors by creating colorful prints using st
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child one stamp and a container of paint. Say: "We're going to make beautiful patterns! Watch what happens when I dip this stamp in the paint and press it on the paper." Make 2-3 prints so they see the process. Point out the marks: "See the imprint? That's what the stamp looks like!" Invite them to try: "Now it's your turn!"
+   Show the child one stamp and paint. Say: "We're going to do relief printing — one of the oldest art techniques in human history! Chinese artists invented woodblock printing over 1,800 years ago." Demonstrate: dip stamp, press firmly. "See how the raised parts of the stamp transferred the pigment to the paper? That's relief printing — the high parts print, the low parts don't." Point out: "The image is a mirror image of the stamp — left and right are reversed! Johannes Gutenberg used this principle in 1440 to invent the printing press with movable type, and it changed the entire world."
 
 2. **Exploration** (8-12 min):
-   The child selects a stamp, dips it (or you help dip) into paint, and presses it firmly onto the paper. Encourage them to:
-   - Press down firmly for a clear print
-   - Lift straight up to avoid smudging
-   - Try the same stamp multiple times to create patterns
-   - Switch stamps and colors
-   - Cover the whole paper or create a focused design
-
-   Ask discovery questions: "What texture do you see?" "Can you make a pattern with stamps?" "What happens if you overlap the colors?" Let them experiment freely—there's no "right way."
+   The child selects a stamp, dips it, and presses firmly. Explain the physics: "You need pressure — force spread over the stamp's area — to transfer the pigment. Press firmly for more pressure and a crisper print. A small stamp needs less force because the same pressure is concentrated on a smaller area."
+   - Experiment with pressure: "Press lightly — see how faint? Now press firmly — much clearer! That's because more pressure pushed more pigment particles into the paper fibers."
+   - Explore color science: "The red paint contains pigment particles that absorb blue and green light but reflect red wavelengths back to your eyes. That's why it looks red!"
+   - Overlap colors: "What happens when red and blue pigments overlap? The pigments combine — each absorbs different wavelengths, and what's left is purple. That's subtractive color mixing!"
 
 3. **Discovery** (2-3 min):
-   Pause to observe together. Point out patterns you notice: "Look! You made red circles in a row. That's a pattern!" Celebrate their choices: "I love how you mixed the blue and yellow together." Notice textures: "This stamp made bumpy marks. This one made smooth circles."
+   Show the mirror image effect: "Hold your stamp next to the print — see how they're reversed? If you carved a letter 'R' into a potato, it would print as a backwards 'R.' That's why Gutenberg had to cast every letter in his printing press as a mirror image." Ask: "Which stamp made the clearest print? Was it the one where you pressed hardest? That's pressure at work!" Connect to history: "Before Gutenberg's press, every book had to be copied by hand. One person might spend years copying a single book. The printing press meant thousands of copies could be made in days — it spread knowledge across the world."
 
 4. **Wrap-up** (2-3 min):
    Lay the artwork aside to dry. Say: "You're an artist! You created beautiful imprints and patterns." If desired, the child can add details with markers once paint dries, or you can display the work right away. Wash hands together with soap and water.

@@ -6,13 +6,13 @@ Letter writing and calligraphy introduce children to the beautiful art of writte
 
 ## Vocabulary
 
-**Calligraphy**: The art of making letters and words beautiful through careful, decorative handwriting or brushwork. It shows that writing can be both a message and a work of art.
+**Grapheme**: The written symbol that represents a sound in language — what we call a "letter." Humans have invented thousands of different writing systems, each with different graphemes. The letter "A" started as an upside-down ox head in ancient Phoenician script (~1050 BCE) and gradually rotated and simplified into the shape we use today. Chinese has over 50,000 graphemes (characters), while English uses only 26.
 
-**Letterform**: The specific shape and structure of a letter—the parts that make it recognizable as an "A" or a "B." Each letter has its own unique form that people recognize.
+**Motor cortex**: The strip of brain tissue that controls all voluntary muscle movements, including the precise finger and wrist movements needed for writing. Writing requires your motor cortex to coordinate 34 muscles in your hand and forearm simultaneously. This fine motor control develops gradually — most children can't form recognizable letters until age 4-5 because their neural pathways are still myelinating (building insulation for faster signals).
 
-**Stroke**: A single mark or line made by a brush, pen, or pencil that becomes part of a letter or design. Letters are made up of many strokes put together.
+**Cuneiform**: The oldest known writing system, invented in Mesopotamia (modern Iraq) around 3400 BCE — over 5,000 years ago. Writers pressed a wedge-shaped reed into wet clay tablets. The word "cuneiform" means "wedge-shaped" in Latin. Before writing was invented, all human knowledge had to be memorized and spoken aloud.
 
-**Mark-making**: The process of creating visible marks or impressions on paper or another surface using tools like brushes, pens, or paint. It's the foundation of all visual communication.
+**Serif**: The small decorative lines or strokes added to the ends of letters in certain typefaces. Roman stonemasons carved serifs into letters because the chisel naturally left marks at the ends of strokes. "Sans-serif" (French for "without serifs") fonts like Helvetica have clean, straight edges. The choice between serif and sans-serif affects readability — serifs guide your eye along lines of text.
 
 ## 🎵 Learning Song
 
@@ -103,13 +103,13 @@ Children explore the art of beautiful letterforms through painting and mark-maki
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child a beautiful letter you've written or printed (perhaps their name in decorative letters). Say, "Look at this beautiful 'A'! See how it's made with big, pretty lines? Today we're going to make letters that look really special—just like artists do!" Invite the child to trace the letter shape in the air with their finger, then demonstrate how you'll paint one letter slowly and carefully.
+   Show the child a beautiful letter. Say: "This is the grapheme 'A' — a written symbol that represents a sound. Humans invented writing about 5,400 years ago in Mesopotamia — before that, everything had to be memorized! The first writing system was called cuneiform, and people pressed wedge-shaped reeds into wet clay tablets." Show how 'A' evolved: "The letter 'A' started as a picture of an ox head, upside down, in ancient Phoenician script. Over centuries it rotated and simplified into what we write today!" Invite the child to trace the shape in the air: "Your motor cortex — the strip of brain tissue that controls your muscles — is coordinating 34 muscles in your hand and forearm to make that shape!"
 
 2. **Exploration** (5-10 min):
-   Let the child dip brushes into paint and make free marks on paper—strokes, dots, swirls, and squiggles with no pressure to form recognizable letters. Encourage experimentation: "Make a big swoosh! Now tiny little dots! What happens when you press harder? What about when you're gentle?" Observe and comment on their discoveries: "I see you're making long waves!"
+   Let the child make free marks with paint. Explain the science: "When you press harder, more pigment transfers from the brush to the paper and makes a thicker, darker line. When you're gentle, less pigment deposits — that's called line weight, and calligraphers control it deliberately." Comment on discoveries: "Those thin-to-thick strokes are what makes calligraphy beautiful — the variation in line weight. Chinese and Japanese calligraphers have practiced this with ink brushes for over 3,000 years!" Point out serif-like details: "See how your brush naturally leaves a thicker mark when you start and stop? Roman stonemasons noticed the same thing with their chisels — those marks became serifs, the little lines at the end of letters."
 
 3. **Discovery** (3-5 min):
-   Introduce simple letter forms one at a time. Point to a reference letter (like "O" or "I") and say, "This is the letter 'O'—it's a circle. Can you paint a circle on your paper?" Demonstrate slowly, narrating your movements. Ask exploratory questions: "Can you make another 'O' but smaller? What if we make it a different color?" For older children, explore letters in their name.
+   Introduce letter forms with historical context: "This 'O' is the grapheme for the /o/ sound. It's one of the simplest shapes because it's been a circle since Phoenician times — over 3,000 years!" For children's names: "Every letter in your name has a history. The English alphabet has 26 graphemes, but Chinese writing has over 50,000! Arabic is written right-to-left, and Hebrew has no vowels written." Narrate the brain science: "Each time you practice a letter, your motor cortex builds stronger neural pathways — that's why it gets easier with practice. The myelin insulation on your nerve fibers is still developing, which is why fine motor control improves as you grow."
 
 4. **Wrap-up** (2-3 min):
    Signal ending: "We're going to paint for two more minutes, then we'll stop." Wash hands and brushes together. Display artwork to dry safely. Reflect: "Tell me about your letters! Which one is your favorite? What colors did you use?" Invite child to help with cleanup and celebrate their artistic creation.

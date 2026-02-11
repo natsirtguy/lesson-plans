@@ -6,13 +6,13 @@ Acting and character play allows young children to step into different roles and
 
 ## Vocabulary
 
-**Character**: A person, animal, or creature that you imagine and pretend to be, using your body, voice, and actions to show how they move and speak.
+**Theory of mind**: The ability to understand that other people have thoughts, feelings, and knowledge different from your own. When you pretend to be a scared cat, you're practicing imagining what another being thinks and feels — a cognitive skill that develops between ages 2 and 5 and is essential for empathy, deception detection, and social navigation.
 
-**Expression**: Showing your feelings, thoughts, and ideas through the way you move your body, the sounds you make with your voice, and the faces you make.
+**Mirror neurons**: Special brain cells in the premotor cortex that fire both when you perform an action AND when you watch someone else perform it. When you watch another child pretend to be a dinosaur and then you stomp too, your mirror neurons helped your brain copy the movement — the same neural system that enables all learning by observation.
 
-**Improvise**: To make up movements, sounds, and ideas on the spot without planning them ahead of time—creating as you play.
+**Dramatic arc**: The structure of a story with a beginning (setup), middle (rising action and conflict), and end (resolution). Even simple pretend play follows a dramatic arc — "The cat is hungry" (setup), "The cat hunts for food" (rising action), "The cat finds fish!" (resolution). This structure was identified by Aristotle over 2,300 years ago.
 
-**Performance**: Doing something in a special way for others to watch, like acting out a scene or showing how a character moves and behaves.
+**Projection**: Using your diaphragm — the dome-shaped breathing muscle below your lungs — to push air through your vocal cords with enough force to be heard clearly, rather than straining your throat. Actors and theater performers train their diaphragm to project their voice across a room or stage.
 
 ## 🎵 Learning Song
 
@@ -93,13 +93,13 @@ Children choose a character to become, then explore how that character moves, sp
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start with enthusiasm and energy: "Today we're going to play some fun pretending games!" Demonstrate a simple character yourself—move like a cat, make the sound, show what you're doing. Show interest in what the child might like to be: "Who would you like to be today? An animal? Someone in our family?" Make it feel like a fun game, not a performance. Say: "We can move around however we want, make sounds, and pretend to do things that character does. There's no right way to do this—everyone can be a character in their own way."
+   Start with enthusiasm and energy: "Today we're going to do something actors and performers have done for thousands of years — pretend to be someone else! Theater started over 2,500 years ago in ancient Greece, where actors wore masks to become different characters." Demonstrate a simple character yourself — move like a cat, make the sound, show what you're doing. Say: "When I pretend to be a cat, my brain is doing something amazing — it's using theory of mind, which means imagining what another creature thinks and feels. Your brain is building those connections right now!"
 
 2. **Exploration** (5-10 min):
-   Ask: "What animal do you want to be?" or "Who do you want to pretend to be?" If the child needs ideas, offer simple choices: "Do you want to be a dog, a cat, a bird, or a dinosaur?" Invite them to show you with their body and voice: "Show me how a [character] moves." Respond with genuine interest: "Oh! You're moving so fast like that! What sound does a [character] make?" Model the character alongside them—move like the animal together, make sounds together. Ask questions to deepen the play: "What does a dog eat? Can you pretend to eat? What else does a dog do?" Add simple scenarios: "The cat is sleepy—can you show me how the cat sleeps? Now the cat sees a mouse!" Introduce simple props if desired: "Here's a stick—your dog can fetch this stick."
+   Ask: "What animal do you want to be?" If the child needs ideas, offer simple choices: "Do you want to be a dog, a cat, a bird, or a dinosaur?" Invite them to show you with their body and voice: "Show me how a [character] moves." As they move, narrate the cognitive process: "Right now your mirror neurons are firing — special brain cells that help you copy movements you've seen real cats make. Your brain remembered how a cat moves and your body is recreating it!" Build a dramatic arc together: "Every good story has a beginning, middle, and end. Let's try it: The cat is hungry — that's our setup. The cat hunts for food — that's the rising action. The cat finds a fish — that's the resolution! Aristotle figured out this pattern over 2,300 years ago." Practice projection: "Can you make your character's voice fill the whole room? Actors use their diaphragm — the big muscle under your lungs — to push air out strongly. Put your hand on your belly and feel it push out when you roar!"
 
 3. **Discovery** (3-5 min):
-   Step back and let the child lead their own play with your encouragement. Provide gentle prompts only if energy is flagging: "What happens next to your character?" Join in occasionally: "Can I be a friend to your character? I could be another dog!" Allow the play to evolve naturally—characters may change, scenarios may shift. Celebrate effort and creativity: "You're so creative with how your character moves!" Narrate what you see: "You're hopping like a bunny—hop, hop, hop!"
+   Build on theory of mind explicitly: "When you pretended to be a scared cat, you were imagining what the cat was feeling. That's theory of mind — understanding that other beings have their own thoughts and feelings. Not all animals can do this — it's something special about human brains!" Let the child lead play. Join in: "Can I be another character in our story? Every story needs a protagonist — that's the main character. You're the protagonist!" Prompt dramatic arc awareness: "What happens next in our story? Remember — we need rising action before our resolution!"
 
 4. **Wrap-up** (2-3 min):
    Signal ending gently: "We're going to be regular [child's name] again in a moment." Help transition: "Let's take a big stretch and step out of our character." Reflect on the experience: "What was your favorite character you were today?" Celebrate: "You were so creative being that [character]!" Gather props together while chatting about the experience. Child can help put costume pieces back in the basket.
@@ -107,10 +107,10 @@ Children choose a character to become, then explore how that character moves, sp
 ### Age Adaptations
 
 **2-3 years**:
-Keep scenarios very simple (one or two actions: "the dog runs, the dog sleeps"). Stick with familiar animals or family members (dog, cat, mama, daddy). Make it very physical and movement-based rather than dialogue-heavy. Use lots of sound effects yourself to model how characters can sound. Expect very short attention to individual characters (may change every 1-2 minutes). Allow much more observation and imitation rather than demanding performance. Duration: 10-15 minutes with frequent breaks and character changes. You'll need a high level of participation and modeling—you are the primary actor demonstrating characters.
+Keep scenarios very simple (one or two actions: "the dog runs, the dog sleeps"). Stick with familiar animals or family members. Make it very physical and movement-based rather than dialogue-heavy. Use lots of sound effects yourself to model how characters can sound — explain "I'm using my diaphragm to make a big loud bark!" Name the mirror neuron process simply: "You watched me and your brain copied it — that's your mirror neurons working!" Expect very short attention to individual characters (may change every 1-2 minutes). Duration: 10-15 minutes. You are the primary actor demonstrating characters.
 
 **3-4+ years**:
-Introduce more complex characters (fairy tale characters, occupations, superheroes). Build short, simple storylines: "You're going to the grocery store. What will you buy?" Encourage more dialogue: "What does your character say? Can you talk like them?" Add multiple characters: "I'll be a cat, you be a mouse. Now we play together." Introduce simple props that inspire stories: "You're a doctor—here's a stethoscope made from rope." Encourage sustained play in one character for longer periods (5-10 minutes). Add costume elements (hat, scarf) to deepen engagement. Duration: 20-30 minutes; older children may return to the same character repeatedly.
+Introduce more complex characters and build explicit dramatic arcs: "Let's make a story with a beginning, middle, and end — just like Aristotle said!" Encourage multiple characters with different perspectives to develop theory of mind: "I'm the mouse — what am I feeling? I'm scared! You're the cat — what are YOU feeling? You're hungry! We're feeling different things at the same time!" Practice voice projection with diaphragm awareness. Introduce theatrical traditions: commedia dell'arte (Italian masked comedy from 500 years ago), puppetry (bunraku from Japan), shadow theater. Add protagonist/antagonist structure. Duration: 20-30 minutes.
 
 ### Extension Ideas
 

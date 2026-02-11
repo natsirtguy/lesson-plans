@@ -6,15 +6,13 @@ Children learn essential social conventions and courteous behaviors that help th
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
+**Social norm**: An unwritten rule that a group of people follow, even though no one formally decided on it. Different cultures have very different norms — in Japan, you bow to greet people; in France, you kiss both cheeks; in the US, you shake hands. Children as young as 3 years old enforce norms on others ("You're supposed to share!"), showing that norm-following is deeply wired into human social behavior.
 
-**Courtesy**: The quality of being polite and respectful toward others; showing consideration through words and actions (e.g., saying "please" when asking for a toy shows courtesy).
+**Theory of mind**: The cognitive ability to understand that other people have thoughts, feelings, and expectations that may differ from your own. Saying "please" requires theory of mind — you must understand that the other person has feelings that your request affects, and that polite words change their emotional response. This develops between ages 2-5 and is centered in the prefrontal cortex.
 
-**Considerate**: Thinking carefully about how your actions affect other people's feelings; being thoughtful and kind (e.g., waiting your turn is being considerate because you're thinking about others who want a turn too).
+**Prosocial behavior**: Actions that benefit other people — sharing, helping, comforting, cooperating. Evolutionary biologists have found that prosocial behavior exists across species (vampire bats share blood with hungry roostmates, elephants comfort distressed companions). In humans, prosocial behavior triggers dopamine release in the brain — being kind literally feels rewarding because your brain evolved to reinforce cooperation.
 
-**Respectful**: Showing honor and regard for someone's feelings, space, and belongings; treating people the way you want to be treated (e.g., listening when someone speaks to you is being respectful).
-
-**Gratitude**: The feeling of appreciation and thankfulness; expressing genuine thanks for something someone did for you (e.g., saying "thank you" shows gratitude when someone shares a snack with you).
+**Cultural variation**: The fact that social rules differ dramatically across human societies. In some cultures, making direct eye contact is respectful; in others, it's rude. In some cultures, burping after a meal signals appreciation; in others, it's offensive. There is no single "correct" set of manners — each culture developed its own norms through centuries of social evolution. Understanding cultural variation is the beginning of cultural competence.
 
 ## Learning Song
 
@@ -98,22 +96,19 @@ Children engage in role-playing scenarios where they practice using polite words
 
 1. **Introduction** (2-3 min):
    - Show a scenario card and ask: "What happens here? What could we say?"
-   - Introduce the idea that special words help us be kind to others
-   - Model one scenario first: "When I ask for something, I say 'please.' Watch me: 'Please, may I have the red block?'"
+   - Introduce the concept: "Every group of people — every culture — develops social norms: unwritten rules about how to behave. In our culture, we say 'please' when we want something. But in other cultures, the norms are completely different! In Japan, people bow. In some cultures, the way you say something matters more than the words."
+   - Model: "When I say 'please,' I'm using theory of mind — I'm thinking about how YOU feel when I ask nicely versus when I demand. My prefrontal cortex is considering your perspective."
 
 2. **Exploration** (7-10 min):
-   - Invite the child to pick a scenario card
-   - Model the scenario with polite words first: "I'm going to show you what respectful looks like"
-   - Act out both a version with polite words and without, letting them observe the difference
-   - Ask: "Which way made you feel better? Why?"
-   - Encourage the child to try the scenario with you, taking turns being the person asking and the person responding
-   - Celebrate their attempts: "You said 'please!' That was so courteous!"
+   - Invite the child to pick a scenario card. Act out both versions — with and without polite norms
+   - Explain the neuroscience: "Which way made you feel better? That's because prosocial behavior — kind actions — triggers dopamine release in both people's brains. Your brain literally rewards you for being cooperative. Evolutionary biologists think this evolved because groups that cooperated survived better."
+   - Practice perspective-taking: "Use your theory of mind — how does the other person feel when you grab without asking? Their amygdala might trigger a stress response. Now how do they feel when you say 'please'? Relief and warmth — that's prosocial behavior working."
+   - Introduce cultural variation: "In some cultures, looking someone in the eyes is a sign of respect. In other cultures, it's rude! There's no single 'right' way — each culture developed its own social norms over centuries."
 
 3. **Discovery** (3-5 min):
-   - Use the mirror to observe expressions: "Look at our faces when we say 'thank you' - how do we look?"
-   - Practice greeting with respectful body language: "Watch how we look someone in the eyes when we listen"
-   - Connect to real life: "When have you heard someone say 'please'? When did you say 'thank you'?"
-   - Ask: "How do you think the other person feels when you say these kind words?"
+   - Use the mirror: "Look at your facial expressions when you hear 'thank you' versus when someone grabs from you. Your facial muscles respond automatically — that's your mirror neurons and emotional processing system at work."
+   - Explore norm variation: "What are some norms in our family? What about at school? Norms can be different in different places."
+   - Ask: "Why do you think EVERY human culture developed norms for politeness? Because cooperation is so important for survival that our brains evolved to reward it with dopamine!"
 
 4. **Wrap-up** (2-3 min):
    - Acknowledge specific manners the child practiced: "You were so considerate when you said 'excuse me'!"

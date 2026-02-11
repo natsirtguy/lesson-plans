@@ -6,13 +6,13 @@ Children explore the daily routines and organization systems that keep a home ru
 
 ## Vocabulary
 
-**Sort**: To arrange or group items by a shared characteristic or feature. When you sort socks by color, you're putting all the red socks together, all the blue socks together, and finding matches for your drawers.
+**Taxonomy**: A system for classifying things into groups within groups, creating a hierarchy. Carl Linnaeus invented biological taxonomy in 1735 to organize all living things. You can taxonomize your toys too: "Things" → "Toys" → "Vehicles" → "Cars" → "Red cars." Every library, museum, and warehouse in the world runs on taxonomy.
 
-**Organize**: To arrange things in a planned, orderly way so they're easy to find and use. When you organize toys into baskets by type—blocks in one, cars in another—everyone knows where to look when they need something.
+**Entropy**: A concept from thermodynamics (the physics of energy) that says disorder naturally increases over time unless energy is put in to maintain order. A tidy room becomes messy on its own — that's entropy. Cleaning up is fighting entropy by adding your energy to restore order. The Second Law of Thermodynamics says this happens everywhere in the universe.
 
-**Responsibility**: The duty or task that belongs to you because it's your job to do it well. Taking care of your belongings and helping with family tasks shows responsibility—you're showing you're trustworthy and helpful.
+**Spatial memory**: Your brain's ability to remember where things are located, controlled by the hippocampus — a seahorse-shaped structure deep in your brain. When you remember that your shoes are by the door and your toothbrush is in the bathroom, that's spatial memory at work. London taxi drivers have measurably larger hippocampi because they memorize thousands of streets.
 
-**Tidy**: To make something neat and orderly by putting things in their proper places. When you tidy your toys before lunch, you're cleaning up and organizing so the space is fresh and ready for the next activity.
+**Algorithm**: A step-by-step procedure for completing a task. When you clean up using the rule "pick up one thing, identify where it goes, put it away, repeat," you're following an algorithm. Computers follow algorithms, factory assembly lines follow algorithms, and so does every organized cleanup routine.
 
 ## Learning Song
 
@@ -100,13 +100,13 @@ Children practice sorting household items into categories and organize a small s
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather your child and show them the items spread out. Say: "We have lots of things here! Some belong in the kitchen, some are toys, and some are clothes. Let's organize everything so we know where things go. When things are organized, we can find them easily and our home is happy." Point to one item and ask, "Where do you think this belongs?" Let them choose the basket and place the item inside.
+   Gather your child and show the items spread out. Say: "Look at this mess! There's a physics concept called entropy — it means disorder naturally increases over time. A tidy room gets messy all by itself, but a messy room never gets tidy by itself. That's the Second Law of Thermodynamics! To fight entropy, we have to add our energy." Point to one item: "To organize, we need a taxonomy — a classification system. Carl Linnaeus invented taxonomy in 1735 to classify all living things. We're going to build our own taxonomy for these objects!"
 
 2. **Exploration** (5-10 min):
-   Invite your child to pick up items one at a time and decide where they belong. Ask questions like: "Is this a toy or something from the kitchen?" "Where have you seen this before?" "What do we use this for?" Let them place items in baskets, even if they don't perfectly match your categories—the process of thinking about organization is the real learning. Celebrate each placement: "Yes! The spoon is a kitchen helper!"
+   Build taxonomy together: "First, what's our biggest category? 'Kitchen things' and 'Not kitchen things.' Now let's go deeper — within 'Not kitchen things,' we have 'Toys' and 'Clothes.' That's a hierarchy, just like Linnaeus used: Kingdom → Phylum → Class." As items are sorted: "Your hippocampus — a seahorse-shaped part of your brain — is building a spatial memory map of where everything goes. London taxi drivers have measurably bigger hippocampi because they memorize thousands of streets!" Let them sort. For mistakes, reclassify: "Interesting — that's a tool, not a toy. What's the difference? Tools serve a specific function."
 
 3. **Discovery** (3-5 min):
-   Once items are sorted, point out the organized baskets. Ask: "Look! Now all the kitchen things are together. Can you find a spoon?" Show how easy it is to find things when they're organized. Point out patterns: "All the clothes are here together. All the toys are here together. Now everything has a home!" If your child missed sorting something, gently move it and say, "This one is actually a kitchen thing, like the spoon."
+   Test the system: "Now use your spatial memory — can you find the spoon without looking? Your hippocampus remembers!" Try reclassifying by a different attribute: "We sorted by room. What if we re-taxonomize by material — plastic, metal, fabric, wood? The same objects go in different groups depending on which attribute we classify by. That's what makes taxonomy powerful." Connect to entropy: "Tomorrow this room will start getting messy again — that's entropy at work. Now you know the science of why we have to keep tidying up!"
 
 4. **Wrap-up** (2-3 min):
    Celebrate the organized space together. Say: "You did such a good job organizing! You're being responsible. Because you sorted everything, we can find what we need, and our space looks so tidy and nice." Ask: "What was your favorite thing to sort?" or "Where does the [item] live now?" Then either leave the sorted baskets out for continued play, or invite your child to help you put things back in their real homes around the house.

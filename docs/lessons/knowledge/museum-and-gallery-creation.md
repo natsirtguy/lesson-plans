@@ -6,13 +6,13 @@ Children become curators and designers by creating their own mini museum or gall
 
 ## Vocabulary
 
-**Exhibit**: A collection of items arranged and displayed together for people to view and learn about, like artwork hung on a wall or toys arranged on a shelf.
+**Conservation**: The science of preserving artifacts and artworks from damage and decay. Museum conservators control temperature (usually 20-22°C), humidity (45-55%), and light exposure (UV light breaks chemical bonds in paint and fabric). The Mona Lisa sits behind bulletproof glass in climate-controlled conditions. Without conservation, most ancient artworks would have crumbled to dust centuries ago.
 
-**Curate**: To carefully choose and arrange items for display, deciding what to show and how to arrange it so visitors can enjoy and understand it.
+**Provenance**: The documented history of where an object came from and who owned it over time — like a biography for an object. Museums research provenance to verify authenticity (is it real or fake?), understand historical context, and ensure items weren't stolen. A painting with provenance traced back to the original artist is worth far more than one with gaps in its history.
 
-**Gallery**: A special space designed for displaying and sharing art, where artists show their work for others to see and appreciate.
+**Taxonomy**: A hierarchical classification system used by museums to organize their collections — grouping objects by type, period, material, culture, or function. The British Museum holds over 8 million objects, so without taxonomy, no one could find anything. Natural history museums use Linnaeus's biological taxonomy; art museums classify by period, medium, and style.
 
-**Artifact**: An object made by people that has special meaning or tells a story, like a favorite toy, a family photo, a handmade creation, or something found in nature.
+**Cultural heritage**: The objects, traditions, art, and knowledge passed down through generations that define a community's identity and history. Museums exist to preserve cultural heritage for future generations. The concept includes both tangible heritage (physical objects, buildings, artworks) and intangible heritage (songs, dances, languages, recipes). UNESCO protects over 1,100 cultural heritage sites worldwide.
 
 ## Learning Song
 
@@ -97,21 +97,19 @@ Children will transform a corner of your home into a mini museum or gallery wher
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - "Today we're going to create a museum! A museum is a special place where we show things we love. We get to decide what to display and how to arrange it. Then people can come visit and see everything."
-   - Show the display area. "This is going to be our gallery. What should we put in it?"
+   - "Today we're going to create a museum! Museums exist to preserve cultural heritage — the objects and knowledge from the past that tell us who we are. The British Museum holds over 8 million objects! To organize that many things, museums use taxonomy — classification systems."
+   - Show the display area. "This is our gallery. Real museums control temperature, humidity, and light to conserve their collections — that's conservation science. Light actually breaks chemical bonds in paint over time, which is why museums keep galleries dim!"
 
 2. **Exploration & Curation** (8-10 min):
-   - Invite the child to select 4-8 items to display. Ask: "What do you love? What should people see first?"
-   - For each item, ask: "Where should this go? Should it be high up or down low? Does it look good here?"
-   - Help arrange items with intention—group similar items together, create focal points, leave space between pieces so each can be appreciated
-   - If using labels, write simple descriptions together: "Lily's painting," "Smooth rocks," "Cars collection"
-   - Step back together and look at the arrangement: "What do you think? Does it look nice? What should we change?"
+   - Invite the child to select 4-8 items. Introduce provenance: "For each item, let's document its provenance — that means its history. Where did this come from? Who made it? When? Real museums research the complete history of every object."
+   - Build taxonomy: "How should we classify our collection? By material (wood, paper, plastic)? By age (new vs. old)? By maker? Museums choose their taxonomy based on what they want visitors to learn."
+   - Write labels with real museum language: "Title: [name]. Medium: [material]. Provenance: [where it came from]. Date: [when made]."
+   - Discuss conservation: "If this were a real museum, we'd need to protect these items. Paper gets damaged by sunlight. Metal can rust from humidity. Fabric gets eaten by moths. What would we need to do to preserve each item for 100 years?"
 
 3. **Discovery & Presentation** (3-5 min):
-   - Role-play as a gallery visitor: "Can I visit your gallery? Tell me about this piece. Why did you choose it?"
-   - Let the child explain their choices and guide you through their museum
-   - Ask questions: "What's your favorite thing here? Which item took the longest to make?"
-   - Praise specific choices: "I love how you put the biggest painting in the middle. That makes it easy to notice!"
+   - Role-play as a gallery visitor: "Can I visit? Tell me the provenance of this piece — where did it come from?"
+   - Ask: "What taxonomy system did you use? Could we reclassify using a different system?"
+   - Connect to cultural heritage: "Everything in your museum tells a story about your life. That's cultural heritage — the things and memories that make you who you are. UNESCO protects over 1,100 cultural heritage sites around the world because they're so important."
 
 4. **Wrap-up & Sharing** (2-3 min):
    - Invite a family member or sibling to visit and let the child be the gallery tour guide

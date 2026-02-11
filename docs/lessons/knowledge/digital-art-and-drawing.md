@@ -6,13 +6,13 @@ Children explore creating images using digital tools and touchscreen devices, di
 
 ## Vocabulary
 
-**Digital**: Something that uses electricity or a computer to work. When you touch a tablet screen to draw, you're using a digital tool instead of paper and crayons.
+**Pixel**: The tiniest single dot of color on a screen — short for "picture element." Every image you see on a tablet or phone is made of millions of tiny pixels arranged in a grid, each one a specific color. A typical tablet has over 3 million pixels. When you zoom in very close on a digital drawing, you can see the individual pixel squares.
 
-**Palette**: A collection of colors you can choose from. On a digital screen, you can tap different colors in your palette just like an artist would mix paints on a wooden palette.
+**RGB (Red, Green, Blue)**: The three colors of light that screens mix together to create every color you see. Unlike paint (which uses subtractive mixing), screens use additive color mixing — red + green light = yellow, red + blue = magenta, all three together = white. Each pixel contains a tiny red, green, and blue light (called subpixels) that vary in brightness to produce any color.
 
-**Compose**: To create something by putting different parts together. When you draw lines and shapes on the screen, you're composing your own artwork.
+**Capacitive touchscreen**: The technology that detects your finger on a screen. The glass has an invisible grid of electrical conductors, and because your body conducts electricity, touching the screen changes the electrical field at that point. This is why gloves don't work on most touchscreens — the fabric blocks the electrical connection. A stylus has a conductive tip that mimics your finger.
 
-**Illustrate**: To create a picture that shows an idea or tells a story. When you draw a happy face or a favorite animal, you're illustrating something you're thinking about.
+**Resolution**: The number of pixels packed into a screen, measured as width × height (e.g., 2048 × 1536). Higher resolution means more pixels, which means smoother lines and more detail. Early computer screens had resolutions as low as 320 × 200 — you could see every individual pixel as a visible square.
 
 ## Learning Song
 
@@ -96,23 +96,21 @@ Children will use a digital drawing app or tool to create their first digital ar
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child the device and explain: "Today we're going to make art on the screen with your finger instead of a crayon. When you touch and move your finger, it will make marks that look like drawing. You can pick colors and make whatever you want." Let them touch the screen once or twice to feel the response.
+   Show the child the device and explain: "Today we're going to make art on a screen — and discover the science of how it works!" Point at the screen closely: "This screen is made of millions of tiny dots called pixels — short for 'picture elements.' Each pixel can be a different color, and together they make the picture you see. Can you imagine millions of tiny colored squares?" Demonstrate touch: "When your finger touches the screen, something invisible happens — the screen has a capacitive touchscreen with an electrical grid. Your body conducts electricity, so when you touch it, the screen detects exactly where your finger is!"
 
 2. **Exploration** (10-12 min):
    Give the child the device and let them explore:
-   - First, let them make marks freely without guidance (scribbling, tapping, dragging)
-   - Show them one color-changing feature: "Look, you can touch this color to change your drawing color"
-   - Point out one tool feature: "This pencil makes thinner lines, and this brush makes big thick marks"
-   - Avoid correcting or directing; celebrate exploration: "You made red marks! You're filling up the whole screen!"
-   - Let them tap "undo" or "clear" and start over several times—repetition builds understanding
+   - First, let them make marks freely. Explain: "Every mark you make is changing the color of individual pixels. When you draw a red line, you're telling thousands of tiny pixels to turn red!"
+   - Show color-changing: "This screen makes colors using RGB — Red, Green, and Blue light. Unlike paint where red + blue = purple, with light, red + green = yellow! That's because screens use additive color mixing — they add light together."
+   - Point out tool features: "A thin brush changes fewer pixels per stroke. A thick brush changes many pixels at once — that's why the line is wider!"
+   - If device allows zoom: "Let's zoom in really close — can you see the individual pixel squares? That's what your drawing is really made of!"
 
 3. **Discovery** (3-4 min):
-   Ask observational questions:
-   - "What happens when you drag your finger slowly?"
-   - "What happens when you tap fast?"
-   - "Which color do you like best?"
-   - "Do the marks disappear when you undo, or do they stay?"
-   - Make observations: "You made curved lines" / "Those dots are all in a row"
+   Ask science-grounded questions:
+   - "What happens when you drag your finger slowly vs. fast? The capacitive sensor reads your finger position many times per second!"
+   - "If we zoom in, can you see the pixels getting bigger? The resolution of this screen is [number] × [number] pixels"
+   - Try touching with a glove or through fabric: "Does it work? No — because gloves block the electrical connection that the capacitive touchscreen needs!"
+   - Compare: "How is digital drawing different from crayons? Crayons leave pigment on paper. Screens change pixel colors with light. One is physical, the other is electronic!"
 
 4. **Wrap-up** (2-3 min):
    Celebrate the creation: "You made a beautiful digital drawing! You discovered that you can use your finger to create art on a screen, just like with crayons and paper. Would you like to undo and make another one, or should we save this and try something else?"
