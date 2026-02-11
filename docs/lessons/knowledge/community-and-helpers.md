@@ -6,13 +6,13 @@ Children explore the concept of community helpers and the important roles differ
 
 ## Vocabulary
 
-**Community**: A group of people who live or work together in the same area and help take care of each other.
+**Division of labor**: When different people each focus on one specialized job instead of everyone doing everything themselves. Adam Smith described this in 1776 — a single person making pins alone could make about 1 per day, but 10 people each doing one step could make 48,000 pins per day. Communities work because of division of labor.
 
-**Helper**: Someone who does important work to take care of other people and make their neighborhood a better, safer place.
+**Specialization**: When a person develops deep expertise in one particular area through years of training and practice. A doctor specializes in the human body (studying for 11+ years after high school), a firefighter specializes in fire science and rescue, an electrician specializes in circuits. No single person can know everything, so specialization makes communities powerful.
 
-**Responsibility**: A job or task that someone is trusted to do well and that matters to other people.
+**Infrastructure**: The shared systems and structures that everyone in a community depends on — roads, water pipes, electrical grids, sewers, hospitals, schools. Infrastructure is often invisible (pipes underground, wires inside walls) but without it, modern life would be impossible. The word comes from Latin: "infra" (below) + "structure" (building).
 
-**Cooperate**: To work together with other people toward a shared goal or to make something happen as a team.
+**Interdependence**: When every person's work depends on other people's work to function. A doctor needs electricity (from electricians), clean water (from water treatment workers), roads (from construction workers), and food (from farmers) to do their job. Remove any one role and the whole community is affected.
 
 ## Learning Song
 
@@ -99,24 +99,19 @@ Children engage in a hands-on "Community Helpers Dress-Up and Role Play" explora
 
 1. **Introduction** (2-3 min):
    - Sit with your child and show the picture cards one at a time
-   - Say: "Today we're going to learn about helpers in our community. These are people who do important jobs to help take care of everyone."
-   - Point to each picture and ask: "What is this helper doing? Why do we need them?"
-   - Use simple answers: "The doctor helps keep us healthy. The firefighter helps keep us safe from fire."
+   - Say: "Today we're going to learn why communities have different helpers. It's because of something called division of labor — instead of every person doing everything, each person specializes in one important thing. That makes the whole community work much better!"
+   - Point to each picture: "A doctor specialized in the human body — they studied for over 11 years! A firefighter specialized in fire science and rescue. No single person can know everything, which is why specialization exists."
 
 2. **Exploration** (8-12 min):
-   - Invite your child to choose one helper role to start with
-   - Help them put on or try the simple costume pieces while narrating: "You're putting on the doctor's stethoscope! Now you can listen to people's hearts, just like a real doctor."
-   - Encourage them to look in a mirror to see themselves dressed up
-   - Ask open-ended questions: "What will you do as a [helper]? Who do you help?"
-   - Move through 2-3 different helper roles, allowing your child to change costumes
-   - Let them lead the play—if they want to stay as one helper longer, follow their interest
+   - Invite your child to choose one helper role. As they dress up, share real knowledge about what that specialist knows: "A doctor uses a stethoscope to listen to your heart — it amplifies the sound of your heart valves opening and closing. Your heart beats about 100 times every minute!"
+   - Build interdependence awareness: "Can the doctor do their job without electricity? No! They need the electrician. Can the electrician work without roads? No! They need construction workers. Every helper depends on other helpers — that's interdependence."
+   - Point out infrastructure: "Under this floor are water pipes, electrical wires, and sewage pipes. That's infrastructure — the hidden systems that make everything work. The word comes from Latin: 'infra' means 'below.'"
+   - Move through 2-3 different helper roles, explaining the real knowledge each specialist needs
 
 3. **Discovery** (3-5 min):
-   - After exploring different roles, sit together and review
-   - Ask: "Which helper did you like the best? Why?"
-   - Point out: "All these helpers cooperate together to keep our community safe and healthy."
-   - Show pictures again and ask: "Can you remember what each helper does?"
-   - Praise their engagement: "You learned about so many important helpers today!"
+   - Play the "remove a helper" game: "What if we had no farmers? The doctor wouldn't have food. The firefighter wouldn't have food. NOBODY would have food! That shows interdependence."
+   - Ask: "What infrastructure do we use every day? Water from pipes, electricity from wires, roads for cars — all built by specialists."
+   - Connect to division of labor: "Adam Smith discovered that when people specialize, they get much faster and better at their job. That's why we don't each build our own houses and grow all our own food!"
 
 4. **Wrap-up** (2-3 min):
    - Help your child take off the dress-up items and put them back in their containers

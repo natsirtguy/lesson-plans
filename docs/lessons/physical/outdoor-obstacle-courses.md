@@ -14,6 +14,16 @@ Outdoor obstacle courses create a challenging adventure that builds strength, co
 
 **Space Required**: Large open area (20x20 feet minimum, larger is better)
 
+## Vocabulary
+
+**Proprioception**: Your body's "sixth sense" — the ability to know where your body parts are in space without looking at them. Sensors called muscle spindles (inside muscles), Golgi tendon organs (in tendons), and joint receptors constantly send position data to your cerebellum. When you step over a log without looking at your feet, that's proprioception. Obstacle courses are excellent proprioceptive training because they constantly challenge your body-position awareness.
+
+**Motor planning**: The process by which your premotor cortex (a brain region in the frontal lobe) figures out the sequence of muscle activations needed to perform a new movement BEFORE you do it. When you look at an obstacle and figure out "I need to step up with my left foot, push off with my right, then grab with both hands," that's motor planning — also called praxis. It develops significantly between ages 2-5.
+
+**Friction**: The force that resists sliding between two surfaces in contact. Rubber shoes on rough ground have high friction (good grip); socks on smooth floor have low friction (slippery). Friction depends on both surfaces — rough textures interlock, and soft materials (like rubber) deform to increase contact area. Understanding friction helps you choose where and how to step safely.
+
+**Center of gravity**: The point where all your body's weight is balanced. When climbing or crawling, lowering your center of gravity (crouching) increases stability. Leaning forward shifts your center of gravity forward — if it moves past your toes, you'll fall forward. Every obstacle requires managing your center of gravity relative to your base of support (the area your feet or hands contact the ground).
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -98,10 +108,11 @@ Outdoor obstacle courses create a challenging adventure that builds strength, co
 - **Navigation and problem-solving** - Figuring out how to pass obstacles, choosing their own path or technique
 
 **Coaching cues**:
-- "Look where you're going, not down at your feet"
-- "Use your arms like you're a tightrope walker - out to the sides for balance"
-- "Take your time. There's no finish line race - just your own adventure"
-- "See if your feet can find the best spots to step"
+- "Look ahead — your proprioceptors (sensors in your muscles and joints) will tell your cerebellum where your feet are without you needing to watch them. That's your body's sixth sense — proprioception!"
+- "Arms out to the sides — you're shifting your center of gravity to stay balanced. Your arms work as counterweights, just like a tightrope walker's pole!"
+- "Before you try this obstacle, your premotor cortex is doing motor planning — figuring out which muscles to activate in what order. Think it through first, then move!"
+- "Feel the friction between your shoes and the ground — rubber soles on rough surfaces grip well because the textures interlock. On smooth surfaces, there's less friction, so be more careful"
+- "When you crawl under that tunnel, you're lowering your center of gravity — getting closer to the ground makes you more stable. That's why soldiers crawl!"
 
 #### Guided Play/Game (5-8 minutes)
 **Game structure**:

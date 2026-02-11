@@ -14,6 +14,16 @@ Dance and rhythmic movement activities help young children develop coordination,
 
 **Space Required**: 10x10 feet minimum (enough to move in a circle or small area without obstacles)
 
+## Vocabulary
+
+**Tempo**: The speed of music, measured in beats per minute (BPM). A lullaby might be 60 BPM (one beat per second), while a fast dance song might be 120-140 BPM. Your auditory cortex — the part of your brain that processes sound — detects the tempo and sends signals to your motor cortex to synchronize your movements. Changing tempo changes how your body wants to move.
+
+**Entrainment**: The automatic synchronization of your body movements to a rhythmic beat — when you hear music and your body starts moving to the rhythm without you deciding to. Entrainment is nearly unique to humans (only a few species, including cockatoos and sea lions, can do it). Your auditory cortex and motor cortex are connected by neural pathways that make this synchronization possible.
+
+**Dynamics**: The volume and intensity of music, ranging from pianissimo (very quiet, abbreviated "pp") to fortissimo (very loud, abbreviated "ff"). These Italian terms have been used in music for over 400 years. Changes in dynamics naturally change movement quality — quiet music inspires small, gentle movements while loud music inspires big, powerful movements.
+
+**Vestibular system**: Three fluid-filled semicircular canals in each inner ear that detect your head's rotation and acceleration. When you spin during dancing, the fluid inside these canals keeps moving after you stop — that's why you feel dizzy. Ballet dancers learn "spotting" (fixing their eyes on one point while turning) to minimize this fluid disruption and reduce dizziness.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -100,11 +110,11 @@ Dance and rhythmic movement activities help young children develop coordination,
 - Full-body coordination: Combining arm movements with leg movements and torso movement
 
 **Coaching cues**:
-- "Feel the beat in your body—can you bounce when the drums go boom-boom?"
-- "Make your arms fly up and down like a bird!"
-- "Spin around slowly like a top"
-- "Reach your arms way up high, then bring them down—you're a flower opening!"
-- "You're dancing so wonderfully! Keep moving!"
+- "Feel the beat in your body — your auditory cortex is detecting the tempo and sending signals to your motor cortex. That automatic connection is called entrainment — your body synchronizes to the rhythm!"
+- "When the music gets quieter — that's pianissimo — make your movements small and gentle. When it gets loud — fortissimo — make big, powerful movements! Dynamics change how you dance."
+- "Spin around slowly — feel your vestibular system? The fluid in your semicircular canals is swirling! When you stop, it keeps moving for a moment — that's why you feel dizzy."
+- "This song is about [X] BPM — beats per minute. Can you clap along with the tempo? Now the song changed — is this faster or slower BPM?"
+- "Your gluteus maximus (biggest muscle in your body!) powers your jumps. Your quadriceps straighten your knees. Your deltoids raise your arms. Dancing uses your whole body!"
 
 #### Guided Play/Game (3-7 minutes)
 

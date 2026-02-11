@@ -14,6 +14,16 @@ Martial arts and self-defense introduces young children to basic body awareness,
 
 **Space Required**: 15x15 feet minimum (enough for children to move without colliding)
 
+## Vocabulary
+
+**Kinetic chain**: The sequence of body segments (feet → legs → hips → torso → arm → fist) that transfer force from the ground through your body during a punch or kick. Power doesn't come from your arm alone — it starts at your feet pushing against the ground (Newton's Third Law: every action has an equal and opposite reaction), travels through hip rotation (powered by the gluteus maximus, the body's largest muscle), and ends at the striking point. Professional martial artists generate force through the entire kinetic chain.
+
+**Center of gravity**: The point where all your body's weight is balanced — roughly behind your belly button. In martial arts, a low, wide stance lowers your center of gravity and widens your base of support, making you harder to push over. This is physics — the lower and wider your base, the more force is needed to move your center of gravity outside it. Every martial art in the world teaches proper stance for this reason.
+
+**Biomechanics**: The science of how forces act on the human body during movement. A punch involves force (mass × acceleration), and a smaller fist concentrates that force on a smaller area, creating higher pressure. Kicks generate more force than punches because legs have larger, stronger muscles (quadriceps, hamstrings, gluteus) than arms. Martial artists study biomechanics to maximize efficiency and minimize injury.
+
+**Discipline**: In martial arts, the practice of controlled, deliberate movement rather than wild, uncontrolled action. Martial arts originated over 3,000 years ago across multiple cultures — kung fu in China (Shaolin monks, ~500 CE), karate in Okinawa (1600s), judo in Japan (1882, founded by Jigoro Kano), taekwondo in Korea (1950s), and capoeira in Brazil (developed by enslaved Africans in the 1500s). Every tradition emphasizes discipline: controlling your body and your emotions.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -91,10 +101,10 @@ Martial arts and self-defense introduces young children to basic body awareness,
 3. **Low Kick**: From stance, lift one leg to hip height or lower, extend foot forward gently
 
 **Coaching cues**:
-- "Stand like a superhero with strong feet and bent knees!"
-- "Punch like you're pushing a cloud slowly away from you - not fast!"
-- "Kick gently, like you're pressing a button with your foot!"
-- "We're strong but careful - always in control!"
+- "Stand with feet wide apart and knees bent — you're lowering your center of gravity and widening your base of support. That's physics — the lower and wider you are, the harder it is to push you over!"
+- "A punch uses the whole kinetic chain: push your feet into the ground (Newton's Third Law — the ground pushes back!), rotate your hips (powered by your gluteus maximus, the biggest muscle in your body), then extend your arm. The power comes from your legs and hips, not your arm!"
+- "Kick slowly — feel your quadriceps (front of your thigh) lifting your leg while your core muscles (transverse abdominis, obliques) stabilize your standing leg. Kicks generate more force than punches because your leg muscles are much bigger than your arm muscles!"
+- "Control is the heart of discipline — martial artists have practiced controlled movement for over 3,000 years, from Shaolin monks in China to capoeira practitioners in Brazil"
 
 **Progression**:
 1. Practice stance only (get comfortable with position)
