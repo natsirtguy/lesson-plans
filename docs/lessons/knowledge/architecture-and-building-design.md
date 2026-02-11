@@ -6,13 +6,13 @@ Children explore the principles of building and design by constructing structure
 
 ## Vocabulary
 
-**Structure**: The way something is built or arranged. A structure is made from parts that fit together to hold something up. A bridge is a structure that spans across water; a building is a structure where people live or work.
+**Compression**: A pushing force that squeezes material together. When you stack blocks, the bottom block is under compression — all the weight above is pushing down on it. Columns and walls work by resisting compression. Stone and brick are strong in compression, which is why ancient buildings (the Parthenon, the Pyramids) used them.
 
-**Foundation**: The strong, solid base that holds up a building and keeps it from sinking or tipping over. A house has a foundation under the ground that supports all the walls and roof above it.
+**Tension**: A pulling force that stretches material apart. When you hang a bridge from cables, the cables are under tension — they're being pulled from both ends. Rope, steel, and wood are strong in tension. Most structures use both compression AND tension together.
 
-**Architecture**: The art and science of designing and planning buildings and other structures. An architect is a person who draws plans for buildings before they are built, deciding how it will look and how it will work.
+**Arch**: A curved structure that converts downward force into compression along its curve, pushing outward into supports called **abutments**. The Romans built arches 2,000 years ago because the curve distributes weight so efficiently that an arch can span much wider gaps than a flat beam. The keystone at the top locks the arch together — remove it and the whole arch collapses.
 
-**Balance**: When weight is distributed evenly so something stays upright and doesn't tip over. A tower made of blocks stays balanced when the blocks are stacked carefully one on top of the other; if you lean too much to one side, it falls over.
+**Center of gravity**: The single point where all of an object's weight balances. A structure stays standing when its center of gravity is over its base of support. A wide pyramid has a very low center of gravity (extremely stable). A tall, narrow tower has a high center of gravity (can topple easily). The Leaning Tower of Pisa's center of gravity is barely inside its base — that's why it leans but doesn't fall.
 
 ## Learning Song
 
@@ -98,45 +98,41 @@ Children become young architects and builders by constructing their own structur
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Invite the child to be a builder or architect with you
-   - Show a simple structure you've built (a small tower or house shape) and describe it using vocabulary words: "Look at my structure! It has a strong foundation at the bottom, and I balanced the blocks carefully so it stands tall."
-   - Ask: "What buildings have you seen? Houses, stores, schools? Today we're going to build our own!"
+   - Show a simple tower you've built and point to it: "Every part of this structure is dealing with forces. The bottom block is under compression — all the weight above is pushing down on it. If I stack too many blocks and the compression exceeds what this material can handle, it crushes or buckles."
+   - Push the top block off-center: "Watch — when I move this block, the center of gravity shifts. When the center of gravity goes past the edge of the base, gravity wins and it topples." Let it fall. "That's the physics of every building collapse."
+   - "Today we're going to be structural engineers — the people who figure out how to make buildings that don't collapse."
 
 2. **Exploration** (8-12 min):
-   - Let the child choose materials and begin building freely
-   - Offer open-ended prompts rather than specific instructions: "Can you make it taller?" "What happens if you put this heavy box on top?" "Can you make a building with a door and window?"
-   - Demonstrate balance: Show how a structure falls when unbalanced, then help rebuild it more carefully
-   - Ask discovery questions as they build: "How are you keeping it from falling?" "What's holding it up?" "Which is the strongest part?"
-   - Introduce new materials gradually: "I wonder what would happen if we used these tubes as walls?"
+   - **Center of gravity experiment**: Have the child build two towers — one with a wide base and one narrow. Push each gently. "The wide base is more stable because the center of gravity has to move farther before it passes the edge. That's why pyramids — the widest base, narrowest top — are the most stable structures humans have ever built."
+   - **Compression test**: Stack blocks on top of different materials. How many blocks can a paper tube support before it buckles? A cardboard box? A wooden block? "Stone can handle about 10 times more compression than brick. Steel can handle even more. That's why skyscrapers use steel frames."
+   - **Arch construction**: Use blocks to build a flat beam bridge between two stacks. How far can it span before it falls? Now try building an arch — lean blocks against each other in a curve. "An arch is stronger than a flat beam because it converts the downward force of gravity into compression along the entire curve. The Romans discovered this 2,000 years ago."
+   - **Triangle test**: Build a square frame from popsicle sticks or straws. Push on the corner — it collapses into a diamond. Now add a diagonal brace, creating two triangles. Push again — it holds. "A triangle is the only shape that can't deform without breaking a side. That's why bridges, cranes, and roof trusses all use triangles."
 
 3. **Discovery** (2-3 min):
-   - Point out architectural features they've created: "You made a rectangular building! And look, you added a pitched roof like a house!"
-   - Test their structure: "Your foundation is so strong! Can you carefully add one more block on top?" This teaches about stability limits
-   - Count and measure: "How many blocks tall is your structure?" "Can you make one that's even taller?"
-   - Take a photo or help them label their creation with a name or sign
+   - "Point to every place in your building where you can see compression happening — material being pushed together." Then: "Where is there tension — material being pulled apart?"
+   - Test the structure's limits: "What's the maximum load your structure can bear? Let's add weight until something fails. Where did it fail? Why that spot — what force was it under?"
+   - "Why do you think real buildings have foundations that go underground?" (Foundations spread the compression force over a wider area of ground, so the building doesn't sink.)
 
 4. **Wrap-up** (2-3 min):
-   - Celebrate their design: "You're a wonderful architect! You designed something unique and creative!"
-   - Leave structures standing if possible so the child can admire their work and show others
-   - Transition: "Architects design buildings that people live and work in. You just designed a building!"
+   - "Today you worked with real engineering forces: compression pushes things together, tension pulls them apart, and gravity pulls everything toward Earth. You tested center of gravity, discovered why triangles are structurally rigid, and saw why arches can span wider gaps than flat beams."
+   - Leave structures standing so the child can explain the forces to others
 
 ### Age Adaptations
 
 **2-3 years**:
-- Provide large blocks and boxes that are easy to manipulate
-- Focus on stacking and simple placement rather than complex design
-- Keep the session short (10-12 minutes) to match attention span
-- Use simpler language: "stack," "build," "tower" rather than advanced vocabulary
-- Let them knock things down on purpose - destruction is part of learning at this age
-- One-on-one guidance and hand-over-hand help for frustration
+- Focus on the center of gravity experiment — toppling towers is fun AND teaches real physics
+- Say "compression" every time you stack a block on top of another: "That bottom block is under compression now"
+- The wide-base vs. narrow-base tower comparison is perfect for this age — they can feel the difference
+- Let them knock things down — narrate the physics: "The center of gravity went past the edge of the base. Gravity pulled it down."
+- Keep to 10-12 minutes, focusing on 1-2 concepts per session
 
 **3-4+ years**:
-- Introduce mixed materials (blocks, boxes, tubes) for more complex exploration
-- Ask more sophisticated questions about design choices: "Why did you use a box for the roof?" "What would happen if you made the foundation wider?"
-- Encourage planned design: "Can you draw your building idea first, then build it?"
-- Challenge stability: "Can you build something that doesn't tip over when we gently shake the table?"
-- Introduce architectural vocabulary more formally: "This is your foundation," "That's a great design choice!"
-- Suggest building themed structures: "Let's build a house for the toy dog," "Make a castle with towers"
+- Build arches and test how much weight they can support compared to flat beams
+- Introduce the triangle rigidity test with popsicle sticks — very hands-on and surprising
+- Discuss real buildings: "The Great Pyramid weighs 6 million tons. Its base is so wide that the center of gravity is very low — that's why it's still standing after 4,500 years"
+- Introduce load paths: trace where the force goes from the top of a structure down through each element to the ground
+- Challenge: "Can you build a cantilever — a structure that sticks out over empty space without falling?" Explain that the weight on the anchored side must exceed the weight on the extending side
+- Introduce the three main structural elements: **columns** (resist compression vertically), **beams** (resist loads horizontally), and **arches** (convert downward force into outward compression along a curve)
 
 ### Extension Ideas
 

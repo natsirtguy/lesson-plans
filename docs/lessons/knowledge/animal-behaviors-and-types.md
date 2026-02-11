@@ -6,13 +6,13 @@ Children explore the fascinating world of animals by observing and mimicking dif
 
 ## Vocabulary
 
-**Behavior**: The way an animal acts or moves, like how a cat stretches before jumping or how a bird hops to find food. You can observe animal behaviors by watching pets, videos, or visiting a park.
+**Taxonomy**: The science of classifying living things into groups. Carl Linnaeus created the system in 1735: Kingdom, Phylum, Class, Order, Family, Genus, Species. Animals are in Kingdom Animalia. Within that: **vertebrates** have a backbone (fish, amphibians, reptiles, birds, mammals — only about 5% of animal species), and **invertebrates** don't (insects, spiders, worms, jellyfish — about 95% of animal species). A dog's full classification is Animalia > Chordata > Mammalia > Carnivora > Canidae > Canis > lupus familiaris.
 
-**Habitat**: The home or natural place where an animal lives, with everything it needs to survive. A fish's habitat is water, a bird's habitat includes trees and sky, and a rabbit's habitat is an underground burrow.
+**Adaptation**: A body feature or behavior that evolved over many generations because it helped the animal survive. A giraffe's long neck is an adaptation for reaching high leaves. A chameleon's color-changing skin is an adaptation for camouflage. A polar bear's hollow, transparent fur traps air for insulation and scatters light to appear white. Every feature you see on an animal exists because it helped that animal's ancestors survive.
 
-**Predator**: An animal that hunts and eats other animals to survive. A cat is a predator that hunts mice, and an eagle is a predator that hunts fish from the sky.
+**Endotherm/Ectotherm**: **Endotherms** (mammals and birds) generate their own body heat internally through metabolism — a human maintains 37°C regardless of outside temperature. **Ectotherms** (reptiles, amphibians, fish, insects) rely on external heat sources — a lizard basks on a warm rock because it cannot heat itself. This is why you see reptiles sunbathing but never see a dog doing the same — the dog is already warm inside.
 
-**Herbivore**: An animal that eats only plants, leaves, fruits, and vegetables to get energy. Cows, rabbits, giraffes, and butterflies are all herbivores that munch on grass and plants all day long.
+**Metamorphosis**: A dramatic physical transformation during an animal's life cycle. In **complete metamorphosis** (butterflies, beetles, flies), the animal passes through four stages: egg, larva, pupa, adult — inside the pupa, the caterpillar's body literally dissolves into a soup of cells and reorganizes into a butterfly. In **incomplete metamorphosis** (grasshoppers, dragonflies), the young (nymphs) look like small adults and grow through molts without a pupa stage.
 
 ## Learning Song
 
@@ -109,24 +109,24 @@ Children become animal researchers by exploring different animal behaviors throu
 
 2. **Exploration** (8-12 min):
 
-   **Movement Exploration**:
-   - Show animal picture and ask child to move like that animal for 30-60 seconds
-   - Cycle through 4-6 animals: rabbit (hopping), snake (slithering), bird (flapping and hopping), turtle (slow walking), cat (creeping and pouncing), fish (swimming motions)
-   - Call out movements: "Hop like a bunny! Slither like a snake! Fly like a bird!"
-   - Celebrate each movement with enthusiasm
+   **Taxonomy Sorting**:
+   - Lay out animal pictures and sort them: "First, does this animal have a backbone? Vertebrate or invertebrate?" Separate into two groups. "95% of all animal species are invertebrates — insects, spiders, worms, jellyfish. Only 5% have backbones like us."
+   - Within vertebrates, classify further: "Is it a mammal (fur, warm-blooded, feeds babies milk), bird (feathers, warm-blooded, lays eggs), reptile (scales, cold-blooded), amphibian (starts in water, moves to land), or fish (scales, gills, lives in water)?"
+   - Count legs: "Insects always have 6 legs. Arachnids always have 8. Mammals have 4 (or 2 arms + 2 legs). Can you count the legs to classify this animal?"
 
-   **Sensory/Observational Discovery**:
-   - Touch textures and match to animals: "Soft cotton is like rabbit fur. Rough sandpaper is like a turtle's shell. Slippery foil is like a fish's scales"
-   - Listen to animal sounds if audio available and guess which animal makes that sound
-   - Point to animal images and describe: "This bird has long legs for running. This fish has fins for swimming. This squirrel has a bushy tail for balance"
+   **Adaptation Discovery**:
+   - Move like each animal, but explain the adaptation: "Hop like a rabbit — rabbits have powerful hind legs with long Achilles tendons that store elastic energy, like springs. That's an adaptation for escaping predators quickly."
+   - "Slither like a snake — snakes lost their legs through evolution over 100 million years. Their ribs connect to muscles that push against the ground in S-curves. Each belly scale grips the ground like a tiny tire tread."
+   - "Fly like a bird — bird bones are hollow with internal struts for strength. A pigeon's skeleton weighs less than its feathers. That's an adaptation for flight — lighter body means less energy to stay airborne."
+
+   **Endotherm vs. Ectotherm**:
+   - Touch textures: "Warm cotton is like mammal fur — mammals are endotherms that make their own heat. Cool foil is like reptile scales — reptiles are ectotherms that need the sun's heat."
+   - "A hummingbird's heart beats 1,200 times per minute to generate enough heat. A crocodile's heart beats 25 times per minute because it doesn't need to generate heat — it gets heat from the sun."
 
 3. **Discovery** (2-3 min):
-   - Ask guiding questions while showing animal images:
-     - "How is a rabbit's movement different from a turtle's movement?"
-     - "What does this animal eat?" (point to herbivore-friendly options if available)
-     - "Where would this animal make its home?"
-     - "Show me with your body how this animal moves when it's scared"
-   - Point out adaptations: "A bird has wings to fly. A fish has fins to swim. A rabbit has strong back legs to hop far and fast"
+   - "A rabbit is a mammal — endotherm, vertebrate, herbivore. A butterfly is an invertebrate, ectotherm, and goes through complete metamorphosis. How are they different? How are they similar?" (Both are herbivores!)
+   - "Why does a polar bear have white fur?" (Camouflage adaptation — actually the fur is transparent and hollow for insulation; it appears white because it scatters light)
+   - "Why are there so many more invertebrate species than vertebrate species?" (Invertebrates were here first — 500+ million years — and being small means more ecological niches)
 
 4. **Wrap-up** (2-3 min):
    - Gather in a seated position
@@ -137,21 +137,19 @@ Children become animal researchers by exploring different animal behaviors throu
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on 3-4 familiar animals only (dog, cat, bird, bunny) to avoid overwhelming
-- Use simple one-word movements: "Hop! Slither! Fly!"
-- Keep movements very exaggerated and slow so child can observe and copy
-- Use more repetition of the same animals across multiple shorter sessions
-- Allow child to move freely without expected accuracy - celebrate any attempt
-- Use stuffed animals to demonstrate behaviors if child is hesitant to move independently
-- Keep vocabulary to just "move," "animal," and animal names
+- Start with the vertebrate/invertebrate split using 3-4 familiar animals: "Does a dog have a backbone? Yes — vertebrate! Does a worm? No — invertebrate!"
+- Focus on 3-4 animals but use real terms: "A rabbit is a mammal. Mammals have fur and make milk for their babies."
+- Movement exploration with one adaptation per animal: "Jump like a frog — frogs have extra-long leg bones as an adaptation for jumping"
+- The endotherm/ectotherm concept is very concrete — they can feel warm vs. cool textures
+- Keep to 10-12 minutes, focusing on one classification concept per session
 
 **3-4+ years**:
-- Introduce 6-8 different animals across categories: land (rabbit, cat, turtle), sky (bird, butterfly), water (fish, duck)
-- Add more complex movements: "pounce," "waddle," "slither," "flutter"
-- Introduce simple habitat matching: place animal cards next to habitat pictures
-- Ask more complex questions: "Why does this animal move that way? What is it trying to do?"
-- Introduce concept of diet: "Which animals eat plants? Which animals eat other animals?"
-- Challenge with: "Can you show me how this animal moves when it's searching for food? When it's scared? When it's sleeping?"
+- Full taxonomy sorting with 8-10 animals across all vertebrate classes plus insects and arachnids
+- Compare adaptations: "Both eagles and bats fly, but eagles use feathers and bats use skin stretched between finger bones. These are different solutions to the same problem — that's called convergent evolution"
+- Introduce food chains: "Grass → rabbit → fox. Energy transfers at each step, but only about 10% — that's why there are always fewer predators than prey"
+- Discuss metamorphosis: compare butterfly (complete — egg, caterpillar, pupa, adult) with grasshopper (incomplete — egg, nymph, adult)
+- Migration and navigation: "Arctic terns fly from pole to pole — 44,000 miles per year. Monarch butterflies navigate 3,000 miles using the sun's position and Earth's magnetic field. These are inherited behaviors — no one teaches them."
+- Nocturnal vs. diurnal adaptations: "Owls have enormous eyes relative to their skull — adaptation for gathering light. Their feathers have serrated edges that break up turbulence, making their flight nearly silent — adaptation for hunting."
 
 ### Extension Ideas
 

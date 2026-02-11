@@ -6,13 +6,13 @@ Children explore the world of circus arts by learning fundamental movement patte
 
 ## Vocabulary
 
-**Acrobat**: A performer who does impressive physical tricks like flips, somersaults, and balancing feats that require strength, flexibility, and lots of practice. Acrobats are brave performers who try difficult movements!
+**Center of gravity**: The single point where all of your body's weight balances. When you stand on one foot, your center of gravity must be directly over that foot or you fall. Tightrope walkers carry long poles to lower their center of gravity — the lower it is, the more stable they are. A person's center of gravity is roughly at their navel, but it shifts when you move your limbs. Every circus balance act is a physics demonstration of keeping center of gravity over the base of support.
 
-**Balance**: The ability to keep your body steady without falling over, using core strength and awareness of where your body is in space. Walking on one foot or standing on tiptoes requires good balance.
+**Angular momentum**: The tendency of a spinning object to keep spinning. When an acrobat tucks into a ball during a somersault, they spin faster; when they extend their arms and legs, they slow down — the total angular momentum stays the same, but the distribution changes. This is exactly the same physics that makes figure skaters spin faster when they pull their arms in. A juggling ball traces a **parabolic arc** through the air — gravity pulls it down while its forward momentum carries it sideways, creating a curved path.
 
-**Perform**: To intentionally do an action for others to watch and enjoy, showing off a skill or creating entertainment. When you dance or show off a movement for your family, you are performing!
+**Proprioception**: Your body's sense of its own position in space — sometimes called the "sixth sense." Sensors in your muscles (muscle spindles), tendons (Golgi tendon organs), and joints send constant position data to your **cerebellum**, which coordinates movement. Acrobats develop extremely refined proprioception through practice — their cerebellum builds detailed internal models of where every body part is during complex movements, even with eyes closed.
 
-**Flexibility**: The ability of your muscles and joints to bend and stretch smoothly in different directions. Touching your toes or doing a gentle backbend shows flexibility.
+**Circus history**: Modern circus began in 1768 when Philip Astley, an English horse rider, created a circular ring (the "circus" ring, from Latin "circulus" meaning circle) for equestrian tricks. He made it 42 feet in diameter because that's the optimal size for a horse to gallop while a rider stands on its back — centripetal force keeps the rider balanced. Acrobatics, however, is ancient: Egyptian tomb paintings from 2000 BCE show acrobats, and Chinese acrobatic traditions date back 2,500+ years.
 
 ## Learning Song
 
@@ -98,27 +98,37 @@ In this hands-on movement activity, children explore basic circus movements thro
    Gather in the open space and set the playful mood. Say: "Today we're going to move like circus performers! We'll be acrobats who flip and tumble, tightrope walkers who balance carefully, and clowns who make silly movements. Are you ready to join the circus?" Demonstrate one simple movement like a slow spin or exaggerated clown walk to spark excitement.
 
 2. **Exploration** (8-10 min):
-   Guide children through these movements one at a time:
+   Guide children through movements with the physics and anatomy behind each:
 
-   - **Acrobat tumbling**: Show a slow forward roll. Invite children to try, offering physical support and demonstrating modifications like rolling slowly or practicing the tucking motion.
-   - **Tightrope walking**: Create a line with rope or tape on the ground. Walk slowly and carefully along it, then invite children to try with arms out for balance.
-   - **Stretching and flexibility**: Do gentle stretches together—reach high, bend to touch toes, twist gently side to side.
-   - **Juggling motions**: Show simple throwing and catching with imaginary objects or lightweight props.
-   - **Clown movements**: Make exaggerated silly movements—big stomps, wiggling hips, funny walks. Invite children to copy your silliness.
+   - **Acrobat tumbling**: Show a slow forward roll. "When you tuck into a ball, you spin faster — that's conservation of angular momentum. The tighter you tuck, the faster you rotate because your mass is closer to your axis of rotation. Extend your arms and legs and you slow down. Figure skaters use this exact same physics." Offer physical support and practice the tucking motion.
+   - **Tightrope walking**: Create a line with tape on the ground. "Real tightrope walkers carry a long pole to lower their center of gravity. The lower your center of gravity, the more stable you are. That's why you naturally crouch when you feel wobbly — your body instinctively lowers its center of gravity. Hold your arms out — they act like a balance pole, and your cerebellum adjusts your ankle muscles (tibialis anterior and peroneal muscles) hundreds of times per second."
+   - **Juggling physics**: Toss scarves or beanbags. "Every object you throw follows a parabolic arc — gravity pulls it down while forward momentum carries it sideways. Jugglers time their throws so the arcs overlap. With two objects, you need to throw the second one when the first reaches its peak. Professional jugglers can track up to 11 objects — that's their cerebellum predicting 11 parabolic arcs simultaneously."
+   - **Balance poses**: Stand on one leg, arms extended. "Your proprioceptors — sensors in your muscles, tendons, and joints — are sending position data to your cerebellum right now. Your cerebellum is making micro-adjustments to your ankle and core muscles to keep your center of gravity over your foot. Close your eyes — it gets harder because you've removed visual input, so your proprioceptive system has to work harder."
 
 3. **Discovery** (3-4 min):
-   Ask questions to deepen awareness: "Which movement was easiest for you? Which one made you feel strong? Did you feel wobbly on the tightrope? What did your body feel like when you spun around? What was your favorite circus skill?" Listen to their responses to understand what engaged them.
+   - "When you rolled, did you spin faster in a tight tuck? That's angular momentum conservation — the same physics that governs galaxies and figure skaters."
+   - "On the tightrope line, which muscles worked the hardest? Your ankles? Your core (rectus abdominis, obliques)? Those muscles were being controlled by your cerebellum — the part of your brain at the back-bottom of your skull that contains 50% of all your neurons."
+   - "Philip Astley made the circus ring exactly 42 feet across in 1768. That's because at that diameter, the centripetal force on a galloping horse keeps a standing rider balanced. The circus ring size is physics, not tradition."
 
 4. **Wrap-up** (2-3 min):
-   Sit down together and do slow, gentle movements to cool down. Strike a big "ta-da!" pose together. Say: "You were amazing circus performers today! Your body did so many wonderful things. Take three deep breaths with me. Great job, performer!"
+   Sit down and do gentle stretches to cool down. "Today you explored real physics: center of gravity on the tightrope, angular momentum during rolls, parabolic arcs in juggling, and proprioception in balance. Circus performers are applied physicists — they use these principles every day, even if they've never heard of Newton."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep movements simple and focus on one or two movements at a time. Use simple language like "Let's roll like a wheel!" or "Stand on one foot—steady!" Allow lots of repetition of favorite movements. Provide physical support for balance activities. Don't worry about perfection—joyful movement and exploration are the goals. Stay very close for safety and spotting.
+- Focus on center of gravity — the tightrope line is perfect for this age. Say "center of gravity" every time they wobble
+- The angular momentum demonstration (tight tuck = faster spin) is very concrete and surprising
+- Practice balance on one foot: "Your cerebellum is working right now — it's making tiny adjustments to your ankle muscles"
+- Name the muscles: "Your rectus abdominis — your tummy muscle — is keeping you upright"
+- Keep to 10-12 minutes, focusing on 1-2 physics concepts per session
+- Lots of repetition builds cerebellar motor maps (and you can tell them that)
 
 **3-4+ years**:
-Challenge children to combine movements: "Can you do a stretch AND a balance walk?" Introduce simple sequences like "Roll, then stand up, then reach high!" Ask them to show you movements and be creative: "Can you think of another way to move like a circus performer?" Let them lead and create their own routines. Encourage performance moments where they show their favorite skill.
+- Combine movements: "Roll (angular momentum), then balance (center of gravity), then juggle scarves (parabolic arcs) — three physics principles in one routine!"
+- Discuss circus history: "The first modern circus was in 1768, but acrobats performed for Egyptian pharaohs 4,000 years ago. Chinese acrobatics is 2,500 years old."
+- Experiment with juggling: "Start with one scarf. Watch its arc — that's a parabola. Gravity pulls it down at 9.8 meters per second squared. Now add a second scarf — you have to time two arcs."
+- Introduce centripetal force: spin a bucket of water overhead without spilling. "The water wants to fly in a straight line (inertia), but the bucket forces it into a circle. That inward force is centripetal force — the same force that kept riders on Philip Astley's horses."
+- Create routines and analyze the physics in each move
 
 ### Extension Ideas
 

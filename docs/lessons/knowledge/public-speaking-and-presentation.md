@@ -6,13 +6,13 @@ Children learn the fundamentals of speaking confidently to an audience through p
 
 ## Vocabulary
 
-**Confidence**: Feeling sure and brave enough to try something, even when others are watching. When you show your drawing to the class without being shy, you're showing confidence.
+**Rhetoric**: The art of persuasive speaking, studied for over 2,400 years since Aristotle wrote about it in 350 BCE. Aristotle identified three tools of persuasion: **ethos** (the speaker's credibility — do they know what they're talking about?), **pathos** (emotional appeal — does it make the audience feel something?), and **logos** (logical argument — does the evidence support the claim?). Every great speech uses all three.
 
-**Articulate**: To speak clearly and slowly so that others can understand every word. Using a big voice and clear sounds when you say "I made a tower" is articulating.
+**Projection**: Using your **diaphragm** (the dome-shaped muscle below your lungs) to push air through your **larynx** (voice box), where your **vocal cords** vibrate to produce sound. Ancient Greek amphitheaters held 14,000 people with no microphones — speakers projected by breathing from their diaphragm, which pushes more air and produces louder sound without straining the throat. Whispering uses only about 10% of your lung capacity; projection uses 70-80%.
 
-**Communicate**: To share thoughts, feelings, and information with other people using words, expressions, and actions. When you tell your friend what you did at the park, you're communicating.
+**Body language**: The nonverbal signals your body sends while you speak. Research by Albert Mehrabian found that when words and body language conflict, people believe the body language. Standing tall activates your **trapezius** and **erector spinae** muscles, which actually reduces cortisol (stress hormone) and increases testosterone (confidence hormone). Eye contact activates the listener's **fusiform face area** and **mirror neurons**, creating a sense of connection.
 
-**Audience**: The group of people listening to or watching you share. Your family at the dinner table is an audience when you tell them about your day.
+**Oratory**: The practice of formal public speaking, from Latin "orare" (to speak). History's great orators shaped civilizations: Demosthenes (ancient Greece) overcame a speech impediment by practicing with pebbles in his mouth. Cicero (ancient Rome) developed the five canons of rhetoric: **invention** (finding arguments), **arrangement** (organizing them), **style** (choosing words), **memory** (remembering the speech), and **delivery** (performing it). Martin Luther King Jr. used all five in "I Have a Dream."
 
 ## Learning Song
 
@@ -96,50 +96,42 @@ Children take turns presenting something they've created or chosen to a small gr
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Explain: "Today we are going to be presenters! A presenter is someone who shares something special with a group. The people listening are the audience."
-   - Model once: Hold up an item (your drawing, a toy, a block), stand in the presenter spot, say in a clear voice: "I made a tower today. I used red and blue blocks. It is very tall."
-   - Ask the group to clap and say "Great job!"
+   - "For over 2,400 years, humans have studied how to speak well in front of others. The ancient Greek philosopher Aristotle called this 'rhetoric.' He said every good speaker needs three things: ethos — that means you know what you're talking about; pathos — you make the audience feel something; and logos — what you say makes sense."
+   - Demonstrate projection: "Watch — when I speak quietly from my throat" (whisper), "you can barely hear me. But when I breathe from my diaphragm — the big muscle under my lungs — and push air through my vocal cords..." (project clearly), "my voice fills the room. Greek theaters held 14,000 people with no microphones. They all used diaphragm projection."
+   - Model a brief presentation using all three of Aristotle's tools: "I made this tower [ethos — I know about it because I made it]. I'm really proud of it because it was hard to balance [pathos — emotion]. It has five blocks and it's the tallest tower I've built [logos — evidence]."
 
 2. **Exploration** (10-15 min):
-   - Invite the first child to choose an item to share
-   - Guide them to the presenter spot and encourage them to:
-     - Stand still (or sit up straight if on the floor)
-     - Look at the audience
-     - Use a big, clear voice
-     - Tell 2-3 sentences about their item
-   - If a child is shy, help them by asking leading questions: "Can you tell us the color?" "What did you use to make this?"
-   - After each presentation, guide the audience to clap and say "Nice job!" or "We liked your presentation!"
-   - Continue with each child's turn
+   - Practice projection first: everyone place a hand on their stomach. "Breathe in — feel your diaphragm push your belly out. Now say 'HELLO' while pushing your belly in. That's diaphragm projection."
+   - Invite the first child to present. Before they start, remind them: "Stand tall — that activates your trapezius and erector spinae muscles in your back, and research shows it actually changes your brain chemistry to feel more confident. Look at the audience — when you make eye contact, mirror neurons in the listener's brain fire, creating a feeling of connection."
+   - After presenting, analyze together: "You told us you MADE it — that's ethos. You said you LIKED it — that's pathos. You described what it LOOKS like — that's logos. You just used all three of Aristotle's tools!"
+   - For the audience: "Good listening is part of rhetoric too. The audience's body language — nodding, leaning forward — sends signals back to the speaker that encourage them."
 
 3. **Discovery** (3-5 min):
-   - Ask children reflective questions:
-     - "How did it feel to be a presenter?"
-     - "What did you like about listening to your friends?"
-     - "Who was brave today?"
-   - Point out specific moments: "I noticed [child's name] used such a clear voice!" or "[Child] looked right at us while speaking!"
+   - "Which part of Aristotle's rhetoric did you use the most — ethos, pathos, or logos?"
+   - "Did you feel different when you stood tall versus when you slouched? That's body language — your posture changes both how the audience perceives you AND how your own brain responds."
+   - "Demosthenes, one of ancient Greece's greatest orators, had a speech impediment as a child. He practiced speaking with pebbles in his mouth to strengthen his articulation. Every great speaker became great through practice, not talent."
 
 4. **Wrap-up** (2-3 min):
-   - Celebrate all presenters with a group round of applause
-   - If desired, give out certificates or stickers
-   - Transition: "You are all wonderful speakers and presenters!"
+   - "Today you practiced rhetoric — the 2,400-year-old art of persuasive speaking. You used diaphragm projection to make your voice carry, body language to communicate confidence, and Aristotle's three tools: ethos, pathos, and logos."
+   - "Cicero, a Roman orator, said there are five parts to any speech: invention, arrangement, style, memory, and delivery. Today we practiced delivery. Next time we can work on invention — coming up with what to say."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep presentations very short (just naming the item is fine: "Tower!" or "Picture!")
-- Use very simple language and model sentences they can repeat back
-- Allow children to sit while presenting if standing feels uncomfortable
-- Have a smaller audience (just one or two people) to reduce anxiety
-- Offer tangible encouragement: stickers, high-fives, immediate applause
-- Accept any communication (pointing, sounds, single words) as valid sharing
+- Focus on projection: practice diaphragm breathing with hand on belly — "breathe in, belly out; speak, belly in"
+- Even one word projected from the diaphragm is a real rhetorical act — celebrate it
+- Model Aristotle's three tools yourself and label them: "I'm using pathos right now — I'm telling you how I feel about this"
+- Practice body language: stand tall vs. slouch — let them feel the physical difference
+- Accept any communication (pointing, sounds, single words) as valid oratory — Demosthenes started somewhere too
+- Small audience (1-2 people) keeps cortisol low, which helps Broca's area (speech production) function better
 
 **3-4+ years**:
-- Encourage 2-3 sentences about their item
-- Ask follow-up questions to extend their speaking: "What's your favorite part?" "How did you make it?"
-- Introduce simple turn-taking with a "talking object" (the microphone tube) that you pass between presenters
-- Add a "question time" where audience members ask the presenter simple questions
-- Challenge them to use descriptive words: "What color is it?" "Is it big or small?"
-- Encourage eye contact and standing still throughout their presentation
+- Explicitly use Aristotle's framework: before each presentation, ask "What's your ethos? Your pathos? Your logos?"
+- Practice vocal variety: loud/soft, fast/slow, high/low pitch. "Your vocal cords vibrate faster for high pitch and slower for low pitch. Varying pitch keeps the audience's auditory cortex engaged."
+- Add a Q&A period — this teaches impromptu speaking, which Cicero considered the hardest form of oratory
+- Analyze body language: "When you crossed your arms, what message did that send? When you opened your arms wide, how did that change things?"
+- Introduce the concept of the "rule of three" — "Three points are memorable. Aristotle had three types of persuasion. Cicero said good speakers inform, delight, and persuade. Martin Luther King Jr. said 'free at last, free at last, thank God almighty we are free at last.' Three is powerful."
+- Record their presentations and watch back — self-observation builds metacognitive awareness of one's own speaking patterns
 
 ### Extension Ideas
 

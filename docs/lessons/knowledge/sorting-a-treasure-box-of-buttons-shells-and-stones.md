@@ -6,13 +6,13 @@ Children explore natural and manufactured objects through hands-on tactile sorti
 
 ## Vocabulary
 
-**Classify**: To arrange or organize things into groups based on what they have in common. When you classify buttons by color, you're putting all the red ones together and all the blue ones together.
+**Taxonomy**: A hierarchical classification system — groups within groups within groups. Carl Linnaeus invented scientific taxonomy in 1735 to classify all living things, but the same principle works for any collection. You might classify your objects first by material (organic vs. mineral vs. manufactured), then within mineral by rock type (igneous, sedimentary, metamorphic), then within each type by color. Each level of the hierarchy gets more specific — that's how scientists organize 8.7 million known species and how museums organize millions of artifacts.
 
-**Texture**: The way something feels when you touch it—rough, smooth, bumpy, or slippery. A shell might have a rough, ridged texture, while a button might be smooth and slick.
+**Mineral**: A naturally occurring solid with a specific chemical composition and crystal structure. Stones are made of minerals — quartz (SiO2, silicon dioxide) is one of the most common. A smooth river stone may contain feldspar, mica, and quartz. Shells are made of calcium carbonate (CaCO3), the same mineral in limestone and chalk. Understanding what objects are MADE OF is a deeper classification than just how they look.
 
-**Properties**: The special characteristics or features that describe an object, like its color, shape, size, or how it feels. Round, red, and smooth are all properties that describe a specific button.
+**Density**: How much mass is packed into a given volume — heavy for its size vs. light for its size. A stone is denser than a button because its atoms are packed more tightly. You can test density by holding objects of similar size: the heavier one is denser. Objects denser than water (1 g/cm3) sink; less dense objects float. Metal buttons sink, wooden buttons float, and shells depend on whether they trap air.
 
-**Sort**: To arrange things in order or separate them into different groups based on how they are alike or different. You might sort your treasures into buttons here, shells there, and stones in another pile.
+**Attribute**: A measurable property of an object that can be used for classification: color, size, shape, texture, mass, density, material composition, transparency, hardness. The key mathematical insight is that the SAME set of objects can be classified differently depending on which attribute you choose — a red stone and a red button are "same" by color but "different" by material. This is the foundation of all scientific classification.
 
 ## Learning Song
 
@@ -100,39 +100,42 @@ Children select objects from a mixed collection of buttons, shells, and stones, 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Invite the child to explore a "treasure box" filled with interesting things to touch and examine. Say: "Look at all these wonderful treasures! They have so many different things about them. Some are smooth, some are bumpy. Some are big, some are tiny. We're going to explore them and make groups." Let the child pick up a few objects freely to get comfortable with them.
+   "Today we're going to be scientists who classify objects — and we're going to discover what these things are actually MADE of. Shells aren't just pretty — they're calcium carbonate, the same mineral in limestone and chalk, built by mollusks to protect their soft bodies. Stones are made of minerals like quartz and feldspar, formed by heat, pressure, or water over millions of years. Buttons might be plastic (made from petroleum), wood (made from cellulose), metal (mined and smelted), or shell (carved from actual mollusk shells). Let's investigate."
 
 2. **Exploration** (5-8 minutes):
-   Encourage the child to handle each object slowly, noticing its properties. Ask discovery questions: "How does this shell feel? Is it rough or smooth?" "What color is this button?" "Is this stone heavy or light?" Model examining an object closely—hold it to the light, run your finger over it, pretend to compare it to another. Avoid rushing; let the child spend time with objects they find interesting.
+   Investigate material science:
+   - **Hardness test**: Can a stone scratch a button? Can a button scratch a shell? "Scientists use the Mohs hardness scale, 1-10. Quartz is 7, calcium carbonate (shells) is 3, and plastic is about 2-3. Harder minerals scratch softer ones — that's how geologists identify rocks in the field."
+   - **Density test**: Hold a stone and a same-sized button. "Which is heavier for its size? The heavier one has higher density — its atoms are packed more tightly." If you have water: "Drop them in — objects denser than water sink. Less dense objects float. Can you predict which will sink before you drop them?"
+   - **Sound test**: Tap objects against each other. "Stones make a sharp 'clink' because they're rigid crystals. Plastic buttons make a dull 'clack' because the polymer chains absorb vibration. Different materials, different sounds — same physics."
 
-3. **Sorting Play** (5-10 minutes):
-   Invite the child to choose how to sort the treasures. You might suggest starting categories: "Where should we put all the smooth things? Where should the bumpy ones go?" Or let the child decide entirely: "You choose how to make groups with these treasures." As they sort, narrate what you observe: "You put all the red buttons together—that's a great category!" If the child sorts by color, affirm it; if they sort by texture or material type, affirm that too. Multiple "correct" answers celebrate flexible thinking.
+3. **Sorting Play — Taxonomy Building** (5-10 minutes):
+   "Now let's build a taxonomy — a classification system with groups inside groups." Start with the broadest category: "First, separate into three groups: organic (once alive — shells, wooden buttons), mineral (never alive — stones), and manufactured (made by humans — plastic buttons, metal buttons)." Then go deeper: "Within your mineral group, look at the stones. Are any sparkly? Those might contain mica or quartz crystals. Are any layered? Those might be sedimentary rocks, built up in layers over millions of years." Then re-classify by a different attribute entirely: "Now forget material. Sort everything by color instead. Notice how the groups are completely different? The SAME objects in different taxonomies — that's the key insight of classification science."
 
 4. **Discovery Questions** (2-3 minutes):
-   Once items are grouped, point out patterns: "I notice all your buttons are in this pile. Look—some have two holes and some have four holes. Could we make even more groups?" Invite comparison: "Which group has more? Which feels the smoothest?" Ask the child to describe their categories using vocabulary you've introduced: "Tell me about this group. What properties do these treasures share?"
+   - "You classified by material, then by color. Which classification tells you more about what the object IS? Why?"
+   - "Shells are made by living creatures — a mollusk secretes calcium carbonate in layers, building the shell as it grows. The spiral shape follows a mathematical pattern called a logarithmic spiral — the same pattern as hurricanes and galaxies."
+   - "How many levels deep can your taxonomy go? Material → specific mineral → color → size → texture? Scientists classify organisms into SEVEN levels."
 
 5. **Wrap-up** (2-3 minutes):
-   Celebrate the sorting work: "You organized all these treasures into groups! You were such a careful scientist, noticing how things are different and the same." Invite the child to help return treasures to the box, which extends fine motor practice. Store materials in a safe place for future exploration.
+   "Today you used real scientific methods: hardness testing (Mohs scale), density comparison, and hierarchical taxonomy (Linnaeus's system). You discovered that shells are calcium carbonate from mollusks, stones are minerals formed over millions of years, and the same objects can belong to completely different groups depending on which attribute you classify by. That's the fundamental insight behind all of science — how you categorize the world determines what patterns you can see."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Start with just two categories of objects (e.g., buttons and stones) to reduce overwhelm
-- Offer only 2-3 sorting containers to simplify choices
-- Use larger objects (bigger buttons, larger stones) for easier grasping
-- Focus on texture exploration: "Smooth or bumpy?"—a binary sorting choice
-- Let tactile play dominate; sorting doesn't need to be "correct"
-- Keep session shorter (10-12 minutes) and more sensory-focused
-- Use simpler language: "Same" and "different" rather than "properties" and "classify"
+- Start with just two material types (stones and shells) for a clear organic vs. mineral split
+- The density test is great for this age — "heavy" and "light" for same-sized objects is very tangible
+- Use the word "mineral" when holding stones and "calcium carbonate" when holding shells — they'll absorb the sounds
+- Binary sorting is perfect: "Did this come from something alive (shell, wood) or from the ground (stone)?"
+- The hardness scratch test is hands-on and surprising — let them try scratching a shell with a stone
+- Keep to 10-12 minutes, focusing on one attribute per session
 
 **3-4+ years**:
-- Introduce 3-4 sorting criteria simultaneously: color AND shape AND material
-- Challenge with open-ended questions: "Can you think of a different way to sort these?"
-- Encourage multi-category sorting: "Is it possible for a button to be in more than one group?"
-- Add vocabulary work: Have the child describe their groups using "because" statements
-- Extend to pattern creation: "Can you make a pattern with these?" (button-shell-stone-button-shell-stone)
-- Count items in each category and compare quantities
-- Introduce graphing: Create a simple chart showing how many buttons, shells, and stones you have
+- Build full three-level taxonomies: material → specific type → color or size
+- Re-classify the same objects 3 different ways and discuss which classification is most useful for which purpose
+- Introduce the Venn diagram: some objects share attributes across categories (a white shell and a white stone share color but not material — where do overlapping attributes go?)
+- Count and graph: make a bar chart of how many objects in each material category. "Which has the most? Can you predict which will have the most BEFORE you count?"
+- Explore shell geometry: "This shell spirals. The spiral follows a mathematical pattern called a logarithmic spiral, where each chamber is larger than the last by the same ratio. The nautilus shell, sunflower seeds, and hurricane clouds all follow this pattern."
+- Discuss rock types: "Igneous rocks formed from cooled lava (like granite or obsidian). Sedimentary rocks formed from layers of compressed sediment (like limestone or sandstone). Metamorphic rocks formed when heat and pressure transformed other rocks (like marble, which is metamorphosed limestone). Can you guess which type your stones might be?"
 
 ### Extension Ideas
 

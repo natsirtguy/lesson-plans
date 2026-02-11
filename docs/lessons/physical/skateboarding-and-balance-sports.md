@@ -14,6 +14,16 @@ This activity introduces young children to balance and coordination through safe
 
 **Space Required**: 12x12 feet minimum (clear, open area)
 
+## Vocabulary
+
+**Vestibular system**: Your inner ear's balance organ — three fluid-filled **semicircular canals** oriented in three perpendicular planes (like the X, Y, and Z axes) detect rotation in any direction. When your head tilts, fluid shifts and bends tiny hair cells that send signals to your brainstem. Nearby organs called the **utricle** and **saccule** detect linear acceleration (forward/backward/up/down) using tiny calcium carbonate crystals called otoliths. This system processes balance data 500 times per second.
+
+**Proprioception**: Your body's sense of its own position without looking — sensors in your muscles (**muscle spindles** detect stretch), tendons (**Golgi tendon organs** detect tension), and joints (mechanoreceptors detect angle) send continuous position data to your **cerebellum**. When standing on an unstable surface, proprioceptive signals increase dramatically as your muscles make constant micro-adjustments. This is why balance training improves proprioception — you're training these sensors to fire more precisely.
+
+**Center of gravity**: The point where all your body's weight balances — roughly at your navel when standing upright. Balance means keeping this point over your **base of support** (the area between your feet). On a balance board, the base of support is the contact point between the board and the ground — very small, which is why it's challenging. Bending your knees lowers your center of gravity, increasing stability. Arms extended outward increase your **moment of inertia**, which resists rotational changes (same physics as a tightrope walker's pole).
+
+**Ankle strategy vs. hip strategy**: Two neuromuscular strategies your brain uses to maintain balance. For small perturbations, your body uses the **ankle strategy**: your tibialis anterior (shin muscle) and gastrocnemius (calf muscle) make micro-adjustments at the ankle joint. For larger perturbations, your body switches to the **hip strategy**: your gluteus medius and obliques bend at the hip to reposition your center of gravity. Children develop the ankle strategy first and gradually learn the hip strategy — balance board practice accelerates this development.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -79,17 +89,17 @@ This activity introduces young children to balance and coordination through safe
 3. Standing on one leg practice - hold balance for 3-5 seconds, switch legs, no board yet
 
 **Warm-up cues**:
-- "Let's march like we're walking through a big puddle - lift those feet high!"
-- "Now sway like a tall tree in the breeze - back and forth, back and forth"
-- "Can you stand on one leg like a flamingo? Hold it... hold it... great job!"
+- "March with high knees — your hip flexors (iliopsoas) lift each leg while your quadriceps extend the knee. Feel the weight shifting side to side? Your vestibular system is tracking every shift."
+- "Sway side to side — your tibialis anterior and gastrocnemius (ankle muscles) are making micro-adjustments to keep your center of gravity over your feet. That's the ankle strategy."
+- "Stand on one leg — your base of support just got much smaller. Your cerebellum is firing proprioceptive signals to your gluteus medius (hip muscle) to keep you from tipping. How long can your proprioceptive system hold this?"
 
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Show the balance board and explain it's "wobbly like water" - it moves side to side
-- Demonstrate adult standing on board (briefly) to show it's safe and what happens
-- Explain we're learning to keep our balance by moving our body gently
-- Key coaching point: "This board is like a boat - we use our arms to help us balance"
+- "This board tilts because its base of support is very small — just one curved point on the ground. When you stand on it, your center of gravity has to stay directly over that point or you'll tilt."
+- Demonstrate: "Watch my ankles — my tibialis anterior and gastrocnemius are firing constantly, making tiny adjustments. That's the ankle strategy. If I wobble more, I'll bend at the hips — that's the hip strategy, using my gluteus medius and obliques."
+- "Your vestibular system — the semicircular canals in your inner ears filled with fluid — is detecting every tilt. And proprioceptors in your ankle joints and muscles are sending position data to your cerebellum 500 times per second."
+- "Arms out! Extending your arms increases your moment of inertia — that means your body resists rotational changes more. Same physics as a tightrope walker's pole."
 
 #### Skill Practice (3-5 minutes)
 
@@ -111,11 +121,11 @@ This activity introduces young children to balance and coordination through safe
    - Build confidence with each successful moment
 
 **Coaching cues**:
-- "Keep your knees a little bit soft and bendy - like springs!"
-- "Look ahead at me, not down at your feet"
-- "Spread your arms out like airplane wings to help you balance"
-- "Good - feel the board moving? That's what we want!"
-- "You're a surfer riding the waves!"
+- "Bend your knees — that lowers your center of gravity, making you more stable. A lower center of gravity needs a bigger tilt before it passes the edge of your base of support"
+- "Look ahead, not down — your visual cortex provides balance information too. When you stare at a fixed point, your brain has a stable reference to detect how much YOU are moving"
+- "Arms out wide — you're increasing your moment of inertia. More inertia means your body resists rotation better. This is real physics!"
+- "Feel the micro-wobbles? That's your ankle strategy — tibialis anterior and gastrocnemius firing alternately. Your cerebellum is coordinating this at speeds your conscious brain can't match"
+- "When the board tilts more, notice how you bend at the hips? That's your brain switching from ankle strategy to hip strategy — using your gluteus medius to shift your center of gravity back over the base"
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -154,9 +164,9 @@ This activity introduces young children to balance and coordination through safe
 3. Lying down for body awareness - what body parts feel tingly or warm?
 
 **Transition**:
-- "Great balancing today! Now let's calm our bodies down"
+- "Today you trained three systems: your vestibular system (inner ear fluid detecting tilt), your proprioceptive system (muscle and joint sensors reporting position), and your visual system (eyes providing reference points). Your cerebellum coordinated all three to keep your center of gravity over the board's base of support. Every session makes these neural pathways faster and more precise."
 - Move from active board work to quiet floor sitting
-- Sit together and talk about what worked and how it felt
+- "Can you feel your ankle muscles? They worked the hardest — your tibialis anterior and gastrocnemius made hundreds of micro-adjustments."
 
 ## Age Adaptations
 

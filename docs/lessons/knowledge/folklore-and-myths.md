@@ -6,13 +6,13 @@ Children will discover the magical world of folklore and mythological stories th
 
 ## Vocabulary
 
-**Legend**: A special story from long ago that people told over and over again, often about brave heroes or magical events (like stories about dragons protecting treasure in faraway kingdoms).
+**Oral tradition**: The practice of passing knowledge from one generation to the next through spoken stories, not writing. Before writing was invented about 5,400 years ago, oral tradition was the ONLY way humans preserved knowledge. Aboriginal Australian stories about sea level rise have been verified by geologists as accurate descriptions of events 7,000 years ago — passed down by voice for 300+ generations.
 
-**Myth**: An ancient story that explains something about nature or teaches an important lesson using magical characters and fantastic events (like myths that explain why the stars twinkle at night).
+**Etiological myth**: A myth that explains why something in nature exists or happens — the word comes from Greek "aitia" meaning "cause." Every culture has etiological myths: Greek myths explained thunder (Zeus throwing lightning bolts), Norse myths explained earthquakes (the giant Loki struggling against his chains), and Maori myths explained the separation of earth and sky (the god Tane pushing his parents apart). Before science, these were humanity's first attempts to explain natural phenomena.
 
-**Enchanted**: When something is under a magical spell or has been made magical and wonderful by magic (like an enchanted castle where anything could happen).
+**Archetype**: A character pattern that appears in myths across ALL cultures, independently — the hero, the trickster, the wise elder, the monster. The scholar Joseph Campbell studied myths worldwide and found they share a structure called the **monomyth** (hero's journey): a hero leaves home, faces trials, and returns transformed. This pattern appears in ancient Mesopotamian myths (Gilgamesh, ~2100 BCE), Greek myths (Odysseus), West African myths (Anansi), and modern stories (Star Wars).
 
-**Folklore**: Old stories and traditions that families and communities have shared for many, many years to pass down wisdom and culture (like fairy tales your grandmother's grandmother might have told).
+**Cultural transmission**: The process by which a community passes its knowledge, beliefs, values, and stories to the next generation. Myths are a form of cultural transmission — they encode a society's values, fears, and understanding of the world. Every known human culture, from the smallest hunter-gatherer band to the largest civilization, has myths. This universality suggests myth-making is a fundamental human cognitive behavior.
 
 ## Learning Song
 
@@ -97,54 +97,51 @@ Children will create their own mini-myth by selecting elements from a "Myth-Maki
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by saying: "Long, long ago, people told special stories called myths to explain magical things in the world. Today, we're going to create our own myth! We'll use these magical items to help us tell a story that's never been told before."
+   Begin by explaining: "Before humans invented writing — about 5,400 years ago in Mesopotamia — every single thing people knew was passed down by telling stories out loud. This is called oral tradition. Grandparents told stories to grandchildren, who told them to their grandchildren, for hundreds of generations. Myths were how people explained things they didn't understand yet. Why does thunder happen? The Greeks said Zeus was throwing lightning bolts. Why do we have seasons? The Greeks said Persephone goes underground for winter."
 
-   Show the children one picture card (like a dragon) and ask: "What could this creature do that's magical? Where might it live?" Listen to their ideas with genuine excitement.
+   "Today we're going to create an etiological myth — a myth that explains WHY something in nature happens."
 
 2. **Exploration** (7-10 min):
-   Invite the child to:
-   - Choose 2-3 picture cards of creatures or magical beings
-   - Select props they want to use in their story
-   - Hold or wear the props as they imagine their character
+   First, choose a natural phenomenon to explain:
+   - "Why does the wind blow?" / "Why do leaves change color?" / "Why does the moon change shape?" / "Why do birds sing in the morning?"
 
-   Guide their storytelling with open-ended questions:
-   - "What is this creature's name?"
-   - "What special power does it have?"
-   - "What problem does this creature solve or what does it teach us?"
-   - "Where does this story take place?"
+   Then build the myth using the archetype structure (hero's journey):
+   - "Every myth needs a character. Joseph Campbell studied myths from every culture on Earth and found they almost all have the same pattern: a hero leaves home, faces a challenge, and comes back changed. Let's follow that pattern."
+   - "Who is your hero? Where do they live?" (Departure)
+   - "What challenge or problem do they face?" (Trial)
+   - "How do they solve it — and how does that create the natural thing we're explaining?" (Return/Explanation)
 
-   Use your own animated voice and gestures to model storytelling enthusiasm. Build on their ideas: If they say "dragon," add: "Oh! A powerful dragon! What makes this dragon special or different?"
+   As they build the story, point out archetypes: "Your character is a trickster — like Anansi the spider in West African myths, or Coyote in Native American myths, or Loki in Norse myths. Tricksters use cleverness instead of strength. That archetype appears in myths on every continent!"
 
 3. **Discovery** (3-5 min):
-   Help them see that their myth contains real elements (creatures, places) mixed with magical ideas:
-   - "You created something that's never happened in real life, but it feels like it COULD happen in a magical world!"
-   - "This story you told teaches us about [bravery/kindness/protection], just like myths do."
-   - Draw simple pictures or write key words from their story on chart paper
-
-   Point out: "You just created a myth! It has magical creatures, a lesson, and an adventure—just like the myths people told a long, long time ago."
+   Compare their myth to real myths:
+   - "The Maori people of New Zealand have a myth that the sky and earth were once pressed together, and the god Tane pushed them apart. That's an etiological myth — it explains why the sky is above us."
+   - "Your myth explains [phenomenon] using [character]. Ancient peoples did exactly the same thing — they used characters and stories to explain what science hadn't figured out yet."
+   - "Here's what's amazing: cultures that never met each other — in Africa, Asia, Europe, the Americas, Australia — ALL independently created myths with heroes, tricksters, and creation stories. That tells us something about how ALL human brains work — we're story-making creatures."
+   - Draw or write key elements of their myth on chart paper, labeling the archetype and the etiological explanation
 
 4. **Wrap-up** (2-3 min):
-   Celebrate their myth creation: "You're a mythmaker, just like the ancient storytellers! Your story will be special because only you could have told it this way."
+   "You just participated in one of humanity's oldest practices — cultural transmission through oral tradition. You created an etiological myth with archetypes that people across every culture have used for thousands of years. The oldest known myth we have written down is the Epic of Gilgamesh, from about 2100 BCE in Mesopotamia — but it was told orally for hundreds of years before anyone wrote it down."
 
-   Option: Record them telling their myth in their own words, or take photos with the props for a family keepsake.
+   Option: Record them telling their myth — they're now part of an oral tradition themselves.
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use just 1-2 picture cards instead of multiple options
-- Keep props very simple and safe (soft items only)
-- Focus on one-word descriptions: "Big dragon!" "Magic wand!"
-- Let them act out the story physically rather than narrate
-- Shorten activity to 10-12 minutes with frequent movement breaks
-- Use very simple language: "This is a magic story about [creature]"
+- Choose one simple natural phenomenon: "Why is the sky blue?" or "Why does the sun go away at night?"
+- Help them build a very simple etiological myth: "Once there was a [character] who [did something] and that's why [phenomenon happens]"
+- Use the word "myth" and "etiological" — they'll absorb the sounds even before they understand fully
+- Act out the story physically — let them BE the hero character
+- Show them one picture of a Greek or Egyptian mythological creature — real art from real cultures
+- Keep to 10-12 minutes with movement breaks
 
 **3-4+ years**:
-- Offer 4-6 picture cards to choose from
-- Encourage multi-step narratives: beginning, middle, end
-- Ask them to identify the "lesson" or "magic" in their story
-- Invite them to draw or write (with your help) their myth on paper
-- Suggest combining multiple creatures: "What if the dragon AND the phoenix were in the same story?"
-- Challenge them: "Can you think of a myth that explains why something in nature happens? Like why the ocean has waves?"
+- Have them follow the full hero's journey structure: departure, trial, return
+- Compare myths across cultures: "The Norse said thunder was Thor's hammer. The Hindu god Indra also controlled thunder. The Yoruba god Shango controlled thunder too. Three different continents, three thunder gods — why do you think that happened?"
+- Introduce specific myth traditions: Greek (Mount Olympus, 12 Olympians), Norse (Asgard, Yggdrasil the world tree), Egyptian (Ra the sun god), West African Anansi stories
+- Discuss why myths persist: "Myths encode values — the Greek myth of Icarus teaches about hubris (too much pride). What value does YOUR myth teach?"
+- Create a "myth map" showing different cultures' myths about the same phenomenon (sun, creation, floods — flood myths appear in Mesopotamian, Hebrew, Hindu, and Indigenous Australian traditions independently)
+- Introduce the concept of allegory: "Sometimes a myth isn't really about what it seems to be about. The story of the tortoise and the hare isn't really about animals — it's about persistence versus overconfidence."
 
 ### Extension Ideas
 
