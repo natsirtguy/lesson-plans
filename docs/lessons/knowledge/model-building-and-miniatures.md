@@ -6,13 +6,13 @@ Children create three-dimensional structures and tiny worlds using simple materi
 
 ## Vocabulary
 
-**Architect**: A person who designs buildings and creates plans for how structures should look and be built; the architect draws pictures that show builders what to create.
+**Scale** (skayl): The ratio between a model and the real thing it represents. If a toy car is 1:24 scale, every 1 centimeter on the model equals 24 centimeters on the real car. Architects build scale models before constructing real buildings — this lets them test ideas at small size before spending millions. Maps use scale too: 1 centimeter on a map might represent 1 kilometer of real land. Scale is a mathematical concept (ratio and proportion) that connects the miniature world to the full-sized one.
 
-**Balance**: When something is steady and doesn't tip over because the weight is spread evenly; a tower has good balance when it stands straight without falling.
+**Compression** (kum-PREH-shun): A pushing force that squishes materials together. When you stack blocks, the bottom block is under compression from all the weight above it — gravity pulls everything down, and the bottom block pushes back. Columns, walls, and legs of tables all work by resisting compression. Stone and brick are excellent at handling compression, which is why ancient buildings like the Egyptian pyramids (4,500 years old) are still standing.
 
-**Structure**: Something that is built or constructed, like a building, tower, or bridge; it has parts that fit together to make a complete thing.
+**Center of gravity** (SEN-ter of GRAV-ih-tee): The single point where all of an object's weight balances. A tall, narrow tower has a high center of gravity, which makes it easy to tip over. A wide, low pyramid has a low center of gravity, which makes it very stable. This is why the pyramids have lasted thousands of years — their wide bases and low centers of gravity make them nearly impossible to topple. When your tower falls, it's because the center of gravity shifted outside the base.
 
-**Miniature**: Something that is very small, like a tiny house or a small model; miniatures are smaller versions of real things.
+**Load-bearing** (LOHD BAIR-ing): Describing a structural element that supports weight above it. In a building, load-bearing walls hold up the roof and floors — remove one and the structure collapses. In your block model, the bottom blocks are load-bearing: they carry the load (weight) of everything stacked on top. Engineers calculate exactly how much load each part of a building must bear, using mathematics to ensure nothing is overloaded.
 
 ## 🎵 Learning Song
 
@@ -95,28 +95,28 @@ Children explore how materials stack and balance while building their own miniat
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 minutes):
-   Introduce the activity by showing a simple example: "Look, I'm building a tiny house for this small person. See how the blocks stack? This can be a home, a tower, or whatever you imagine!" Ask an open-ended question: "What would you like to build today - a house, a garden, a playground, or something special?" Demonstrate placing a few blocks to show how they can be stacked and arranged. Emphasize that there's no right way to build: "You can create anything you imagine, and we can change it anytime."
+1. **Introduction — Architects and Scale** (2-3 minutes):
+   Hold up a figurine next to a block: "We're going to build a miniature world — a small version of a big world. Architects do this for real buildings. Before they build a skyscraper, they make a tiny model first. That's called building to *scale* — everything is shrunk by the same amount." Show how a block might represent a wall: "If this block is a wall, then this figurine is the person who lives inside. We're building at a scale where the figurine is like a real person." Demonstrate stacking two blocks: "Every block I stack adds weight. The bottom block has to hold up everything above it — that's called being *load-bearing*."
 
-2. **Exploration** (5-8 minutes):
-   Let the child freely explore materials and get comfortable with them. They'll pick up blocks and investigate how they stack and balance, examine figurines and small materials, and experiment with arranging pieces without a specific plan. Your role is to observe and comment positively: "I notice you're trying different heights with those blocks" or "You found a good balance there!"
+2. **Exploration — Forces and Stability** (5-8 minutes):
+   Let the child explore freely, but guide their attention to physics: "Try building a tall, skinny tower. Now build a short, wide one. Which one falls first?" Explain: "The tall tower has a high center of gravity — the balance point is way up. The wide one has a low center of gravity, close to the ground. That's why pyramids have lasted 4,500 years — wide base, low center of gravity." When blocks fall: "Gravity pulled the center of gravity outside the base. That's why it tipped." Let them test different base widths.
 
-3. **Guided Building** (7-10 minutes):
-   Show simple building techniques by demonstrating stacking blocks in different patterns (straight towers, rectangular bases, doorways). Introduce how natural materials can be used: "These leaves could be trees, or grass for the ground." Ask guiding questions: "What's living in your building? Does it need a door? Should we add a path?" Help the child place figurines and imagine scenarios. If they want to attach pieces, introduce tape: "This tape can hold pieces together so your building is stronger."
+3. **Guided Building — Structural Engineering** (7-10 minutes):
+   Demonstrate building techniques with engineering explanations: "The bottom blocks are under compression — all the weight above pushes down on them. Put the biggest, strongest blocks on the bottom." Show a doorway: "This is called a *lintel* — a horizontal block spanning across two vertical ones. The lintel carries the load of everything above the opening." If available, show a triangular arrangement: "Triangles are the strongest shape in building — they can't be pushed out of shape the way rectangles can. That's why bridges use triangles." Ask: "What's living in your building? If they need a door, we need a lintel to hold up the blocks above it."
 
-4. **Free Creation** (remaining time):
-   Step back and let the child develop their own miniature world. They may arrange pieces according to their imagination, narrate stories about inhabitants, or build multiple structures and create connections between them. Make occasional comments that validate and extend their ideas: "Your market has many different stores! Do people need anything else?" Resist the urge to correct or improve the structure.
+4. **Free Creation — Miniature World** (remaining time):
+   Step back and let the child build their world. Provide engineering commentary as opportunities arise: "You're putting heavy blocks on top of light ones — is that stable? What would an engineer do?" "That wall is leaning — its center of gravity is shifting. Can you fix it?" Let them experiment and fail safely. Make connections to real buildings: "Your tower looks like a skyscraper. Real skyscrapers have steel frames inside that carry all the load."
 
 5. **Wrap-up** (2-3 minutes):
-   Signal ending with a gentle transition: "We have about 5 more minutes with our building. What would you like to finish?" Take a photo of the creation before disassembly. Ask a reflection question: "Tell me about your world - who lives here? What's your favorite part?" Celebrate the creation: "You built so many interesting things! You really used your imagination." Then invite the child's help with cleanup: "Our building time is finishing, and now we need to put things back in their homes."
+   Take a photo and review: "You used compression, center of gravity, and load-bearing structures today — the same concepts real structural engineers use." Ask: "Which part of your building was the hardest to keep standing? Why?" Connect to the real world: "Every building you see — houses, schools, bridges — someone figured out where to put the load-bearing walls and how to keep the center of gravity low. You did the same thing with blocks."
 
 ### Age Adaptations
 
 **2-3 years**:
-Start with just 2-3 material types (blocks and figurines) to avoid overwhelming. Focus on sensory exploration: stacking, toppling, and arranging. Use larger blocks and figurines that are easier to manipulate. Provide more direct assistance with balancing and structural support. Keep explanations very simple and concrete. Sessions should be 15-20 minutes with 2-3 minute breaks for different materials. Sit beside the child and participate in building alongside them rather than directing.
+Start with large blocks and figurines. Focus on center of gravity discovery: "Stack blocks and watch — when does it fall? Why?" Name the physics: "Gravity pulled it over because the heavy part went past the edge." Use the widest blocks on the bottom and explain: "These are load-bearing — they hold everything up." Compare tall-and-skinny vs. short-and-wide towers to demonstrate stability differences. Keep sessions to 15-20 minutes. Sit alongside and build together.
 
 **3-4+ years**:
-Introduce more complex building challenges: "Can you make a tower taller than yourself?" or "Build a house with two rooms." Encourage multi-stage construction: first build, then tell a story, then modify based on the story needs. Add challenges: "Can you build a structure that won't fall over when we gently tilt the table?" Use more materials combined into integrated designs. Encourage detailed storytelling about inhabitants. Introduce concepts like symmetry, balance, proportion, and enclosure. Challenge problem-solving: "The family needs stairs to get upstairs. How could we make stairs?" Sessions can extend to 30-40+ minutes with multiple structures and elaborate scenarios.
+Introduce explicit engineering challenges: "Build a bridge that can hold this toy car" (load testing), "Build the tallest tower possible without it falling" (center of gravity optimization). Teach the triangle as the strongest shape — compare a square frame (pushes flat easily) vs. a triangle frame (rigid). Discuss scale: "If this figurine is a person, how tall should the door be?" (proportional reasoning). Add lintels over doorways and explain how they distribute load. Challenge: "Build a structure that survives a gentle table shake" (earthquake engineering — wide base, low center of gravity, bracing). Introduce symmetrical building: "Make both sides of the house match." Discuss real buildings: Egyptian pyramids (compression, low center of gravity), Roman arches (redirect compression around a curve), modern skyscrapers (steel skeleton, curtain walls). Sessions can extend to 30-40+ minutes.
 
 ### Extension Ideas
 

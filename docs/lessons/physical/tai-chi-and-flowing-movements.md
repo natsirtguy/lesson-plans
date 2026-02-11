@@ -14,6 +14,16 @@ Tai Chi and flowing movements introduce young children to gentle, continuous mot
 
 **Space Required**: Large open area (15x15 feet minimum for group, 10x10 feet for individual)
 
+## Vocabulary
+
+**Slow-twitch muscle fibers** (Type I fibers): The muscle fibers your body uses for slow, sustained movements. Your muscles contain two main fiber types: fast-twitch (for explosive movements like jumping) and slow-twitch (for endurance and control). Tai chi specifically trains slow-twitch fibers because every movement is slow and sustained. These fibers use oxygen for energy (aerobic metabolism) and resist fatigue — they're the fibers marathon runners rely on. Slow movement is actually *harder* neurologically than fast movement because your motor cortex must maintain precise, continuous control rather than firing a quick burst.
+
+**Proprioception** (proh-pree-oh-SEP-shun): Your body's ability to sense where every part of itself is without looking — sometimes called your "sixth sense." Sensors in your muscles (*muscle spindles*), tendons (*Golgi tendon organs*), and joints send constant position data to your cerebellum. When you raise your arm slowly with eyes closed, you know exactly where it is because of proprioception. Tai chi is one of the best proprioception training exercises because slow movement forces you to pay attention to body position rather than relying on momentum.
+
+**Center of gravity** (SEN-ter of GRAV-ih-tee): The single point where all your body weight balances. When you stand straight, your center of gravity is roughly behind your belly button. Every tai chi movement deliberately shifts your center of gravity — weight transfers from one foot to the other, forward and back. Keeping your center of gravity over your base of support (your feet) is the physics of balance. Wide stances lower your center of gravity, making you more stable — this is why tai chi stances are often wider than normal standing.
+
+**Tai chi history**: Tai chi (taijiquan) originated in China's Chen village in the 1600s, created by Chen Wangting, a retired military commander. The art combines martial arts movements with Daoist philosophy of flowing between opposites (*yin and yang*). "Taiji" means "supreme ultimate" — referring to the interplay of complementary forces. Originally a fighting system, it evolved into the slow, flowing practice we see today over 400+ years. There are five major family styles: Chen, Yang, Wu, Wu (Hao), and Sun — each developed by a different Chinese family lineage.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -79,29 +89,28 @@ Tai Chi and flowing movements introduce young children to gentle, continuous mot
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain that Tai Chi is "slow, beautiful movement that helps us feel calm and strong"
-- Demonstrate one simple flowing movement (e.g., arms rising and falling) at very slow speed
-- Explain: "We move like we're in slow motion. There's no right or wrong way - just feel the movement."
-- Key coaching point: "In Tai Chi, we move slowly and smoothly, like honey flowing or clouds floating in the sky."
+- Explain: "Tai chi was invented over 400 years ago in China by a retired soldier named Chen Wangting. The name means 'supreme ultimate.' It was originally a fighting art, but people discovered that the slow, flowing movements make your body strong and your mind calm."
+- Demonstrate one simple flowing movement at very slow speed: "Moving slowly is actually *harder* than moving fast. Your brain's motor cortex has to send continuous signals to your slow-twitch muscle fibers — the ones built for endurance and control."
+- Key coaching point: "Your body has a point called the center of gravity — right behind your belly button. Every tai chi movement shifts that point. When we keep it over our feet, we stay balanced."
 
 #### Skill Practice (3-6 minutes)
 
 **Skill breakdown** - Introduce simple flowing movements one at a time:
 
-1. **Rising and Falling** - Standing with feet shoulder-width apart, slowly raise both arms out to sides and up above head (inhale), then gently lower them down (exhale). Repeat 5-6 times. Focus: smooth, continuous motion with no jerking.
+1. **Rising and Falling** - Standing with feet shoulder-width apart, slowly raise both arms out to sides and up above head (inhale), then gently lower them down (exhale). Repeat 5-6 times. "Your deltoid muscles (on top of your shoulders) are lifting your arms. When you go slowly, your slow-twitch muscle fibers are doing the work — they use oxygen for fuel and don't tire easily."
 
-2. **Side-to-Side Sway** - Feet grounded, gently shift weight from one foot to other while arms flow side to side at chest height. "We sway like trees in a gentle breeze."
+2. **Side-to-Side Sway** - Feet grounded, gently shift weight from one foot to other while arms flow side to side at chest height. "You're shifting your center of gravity from over one foot to over the other. Feel the weight move? Your proprioceptors — sensors in your ankles and feet — are tracking every millimeter of that shift."
 
-3. **Circular Motions** - Make slow circles in front of body with both hands together, as if stirring a giant pot of honey. Move in both directions. "Imagine we're mixing something slow and smooth."
+3. **Circular Motions** - Make slow circles in front of body with both hands together. Move in both directions. "Your motor cortex is sending continuous signals to dozens of muscles — your deltoids, biceps, triceps, and forearm muscles all working together in sequence. That coordination is why slow circles are harder than fast ones."
 
-4. **Stepping and Reaching** - Take very slow, deliberate steps while reaching arms in different directions. "Like we're moving through thick clouds."
+4. **Stepping and Reaching** - Take very slow, deliberate steps while reaching arms in different directions. "Each slow step activates your quadriceps (front of thigh) and gluteus maximus (seat). Your cerebellum is constantly adjusting your balance as your center of gravity shifts forward."
 
 **Coaching cues**:
-- "Move like you're moving in slow motion - very, very slowly."
-- "Imagine you're underwater where everything floats and moves gently."
-- "Let your arms flow like ribbon dancing - smooth and continuous, not quick."
-- "We're not racing - the slower we go, the better. This is our peaceful time."
-- "Feel how your arms and legs connect when you move. Notice your whole body working together."
+- "Move as slowly as you can — your motor cortex has to work harder to control slow movement than fast."
+- "Feel your proprioceptors telling your brain where your arms are without looking."
+- "Keep your center of gravity over your feet — feel how wide feet make you more stable?"
+- "Your slow-twitch fibers are working right now — the same fibers marathon runners use."
+- "Close your eyes for a moment and raise your arm — you still know where it is. That's proprioception."
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -160,36 +169,31 @@ Let child experiment freely with slow, flowing movements without instruction:
 ### 2-3 years
 
 **Modifications**:
-- Use only 1-2 simple movements instead of full sequence (e.g., arms up/down and gentle swaying)
-- Much shorter practice time (5-10 minutes total)
-- Use simple language and lots of imagery: "arms like feathers," "sway like flowers"
-- Expect shorter attention span - keep it playful
-- Stay very close for balance support if needed
-- Use more frequent pauses and transitions
-- Accept that movements won't be precise - focus on the feeling and experience
-- Consider shorter sessions done multiple times rather than one long session
+- Use only 1-2 simple movements (arms up/down, gentle swaying)
+- Name one muscle per movement: "Your deltoids are lifting your arms up!"
+- Focus on proprioception awareness: "Close your eyes — can you feel where your arms are? That's your proprioceptors sending signals to your brain."
+- Stay close for balance support — their center of gravity is proportionally higher than adults' (larger head relative to body)
+- Accept approximate movements; slow-twitch fiber training happens even with imperfect form
+- Use imagery backed by science: "Arms like feathers floating — your slow-twitch fibers are controlling every inch"
 
 **Duration**: 5-10 minutes total
 
 **Adult support**:
-- Hands-on guidance: gently guide child's arms through movements initially
-- Physical support for balance as needed
-- Frequent verbal encouragement and narration
+- Hands-on guidance for arm movements; physical support for weight-shifting
+- Name the physics of balance: "Feet apart — wider base, lower center of gravity, more stable"
 - Model movements clearly and repeatedly
-- Be prepared to simplify further or switch activities if child loses interest
+- Frequent narration with body part names
 
 ### 3-4+ years
 
 **Challenges to add**:
-- Introduce 4-5 flowing movements in sequence
-- Challenge balance: practice on one foot for short periods
-- Add rhythmic breathing: breathing in during certain movements, out during others
-- Longer practice time (15-20 minutes including warm-up and cool-down)
-- Encourage mirroring movements from caregiver
-- Try partner movements where two children flow together
-- Use props like scarves to add visual complexity
-- Challenge: "Can you move even slower than before?"
-- Introduce 2-3 minute story-based sequences with multiple transitions
+- Introduce 4-5 flowing movements in sequence; name the muscles working in each
+- Challenge proprioception: perform movements with eyes closed (removes visual cues, forces proprioceptor reliance)
+- Add rhythmic breathing: "Breathe in during rising — your diaphragm contracts and pulls air into your lungs. Breathe out during lowering — your diaphragm relaxes."
+- One-foot balance: "Your center of gravity must stay over one foot now — much smaller base of support. Feel your ankle proprioceptors working overtime?"
+- Discuss tai chi history: five family styles (Chen, Yang, Wu, Wu/Hao, Sun), each from a different Chinese family
+- Compare slow-twitch vs. fast-twitch: "Jumping uses fast-twitch fibers for explosive power. Tai chi uses slow-twitch fibers for endurance and control. Different fibers, different purposes."
+- Partner mirroring: one leads, one follows — activates mirror neurons
 
 **Duration**: Can extend to 15-20 minutes with warm-up, main activity, and cool-down
 

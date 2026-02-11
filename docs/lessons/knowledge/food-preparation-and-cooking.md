@@ -6,13 +6,13 @@ Children will explore the fundamentals of food preparation through hands-on cook
 
 ## Vocabulary
 
-**Ingredients**: The individual items we combine together to make a recipe, like flour, eggs, and butter that go into a cake. When you bake cookies, the ingredients are sugar, flour, and chocolate chips.
+**Chemical reaction** (KEM-ih-kul ree-AK-shun): When substances combine and transform into entirely new substances that can't be changed back. Cooking is full of chemical reactions: when you heat an egg, the transparent liquid turns white and solid because heat causes the *protein* molecules to unfold and tangle together permanently — that's called *denaturation*. You can't un-cook an egg, because it's a chemical change (not just a physical change like melting ice, which can refreeze). Browning toast is the *Maillard reaction* — amino acids and sugars rearranging into hundreds of new flavor molecules.
 
-**Simmer**: To cook liquid at a gentle temperature so small bubbles slowly appear on the surface—not boiling hard, but warming steadily. When you make soup, you let it simmer on the stove so the vegetables become soft and flavors blend together.
+**Dissolve** (dih-ZOLV): When a substance (the *solute*) breaks apart into molecules so small they disappear into a liquid (the *solvent*), forming a *solution*. When sugar dissolves in water, the water molecules pull apart the sugar crystal molecule by molecule — the sugar is still there, but it's invisible because the molecules are too small to see. Stirring speeds dissolving by bringing fresh water molecules in contact with the sugar. Warm water dissolves sugar faster because the water molecules are moving faster (more kinetic energy) and break apart the crystal more quickly.
 
-**Transform**: To change something into something completely different through cooking or mixing. When you bake bread dough in the oven, heat transforms the soft dough into crusty, golden bread.
+**Oxidation** (OK-sih-DAY-shun): A chemical reaction where oxygen from the air reacts with molecules in food, changing their structure. When you cut an apple and it turns brown, that's oxidation — an enzyme called *polyphenol oxidase* reacts with oxygen, creating brown melanin pigments. Lemon juice prevents browning because its citric acid (vitamin C) is an *antioxidant* — it reacts with oxygen before the enzyme can, essentially sacrificing itself to protect the apple.
 
-**Texture**: The way food feels in your mouth and hands—smooth, bumpy, crunchy, soft, or creamy. Peanut butter has a smooth texture, while granola is crunchy and crumbly.
+**Emulsification** (ee-MUL-sih-fih-KAY-shun): Forcing two liquids that don't normally mix (like oil and water) to stay blended together using an *emulsifier* molecule. Mayonnaise is oil and vinegar held together by *lecithin* in egg yolk — lecithin molecules have a water-loving end and an oil-loving end (just like soap). Without the emulsifier, oil and water separate because water molecules attract each other more strongly than they attract oil molecules (due to hydrogen bonding).
 
 ## Learning Song
 
@@ -99,25 +99,25 @@ Children will prepare a simple no-bake snack (trail mix, fruit kabobs, or edible
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Start by showing each ingredient separately and naming it clearly: "This is a raisin. Raisins are dried grapes. They're wrinkly and chewy." Let children smell and touch (with clean hands) each item. Ask simple questions: "What does this feel like?" "Does it smell yummy?" Introduce the idea that they'll make something special by combining ingredients together.
+1. **Introduction — Food as Chemistry** (2-3 min):
+   Show each ingredient and explain its chemistry: "This raisin is a dried grape — the water evaporated, concentrating the sugars. That's why raisins are sweeter than grapes: same sugar, less water." "Chocolate chips started as cocoa beans that were fermented, roasted (Maillard reaction!), and ground." Introduce the concept: "Cooking is chemistry. Every time we mix, heat, or cut food, we're changing molecules. Some changes are *physical* (reversible, like melting ice) and some are *chemical* (permanent, like cooking an egg)."
 
-2. **Exploration** (8-10 min):
-   Let children mix, pour, and arrange ingredients according to their preference. Narrate their actions using vocabulary: "You're stirring all the ingredients together!" "That's a lot of texture—bumpy raisins and smooth chocolate chips!" Encourage them to touch, smell, and observe textures. For younger children, focus on the sensory experience. For older children, ask them to count scoops or discuss which ingredients go together.
+2. **Exploration — Dissolving and Mixing** (8-10 min):
+   Let children mix ingredients while you explain the chemistry: "Stir the sugar into the yogurt — watch it dissolve. The water in the yogurt is pulling sugar molecules apart one by one until they disappear. They're still there, you just can't see individual molecules." "When you mix oil and water, they separate — oil floats because it's less dense. But if we add an emulsifier like the lecithin in egg yolk, it holds them together." If cutting fruit: "Watch the apple — in a few minutes the cut surface will turn brown. That's oxidation — oxygen from the air reacting with enzymes in the apple. Squeeze lemon juice on one half and see if it stays white — the citric acid is an antioxidant."
 
-3. **Discovery** (3-5 min):
-   Ask guided questions: "What changed when we mixed everything?" "Which ingredient is your favorite? Why?" "How does it feel in your mouth? Is it crunchy or soft?" Point out textures: "Notice how the chocolate is smooth, but the granola is bumpy." Taste together and celebrate the creation: "You transformed these separate ingredients into one delicious snack!"
+3. **Discovery — Chemical vs. Physical Changes** (3-5 min):
+   Guide observation: "The sugar dissolved — is that a chemical or physical change? Physical! If we evaporated the water, the sugar crystals would come back." "But the brown apple — that's a chemical change. The melanin pigments are new molecules that didn't exist before. You can't un-brown an apple." Point out textures and explain why: "Granola is crunchy because the oats were dehydrated — water removed. Bananas are soft because they're 75% water and their cell walls are thin."
 
 4. **Wrap-up** (2-3 min):
-   Let children enjoy their creation while reviewing what they learned: "You're eating food that you prepared! You mixed ingredients, you explored textures, and you created something yummy." Discuss where this snack could be eaten (at home, on a picnic) and how they might share it with family.
+   Review: "You're eating chemistry! The sugar dissolved (solution), the apple browned (oxidation), the lemon juice stopped it (antioxidant). Every bite of food is a collection of molecules — proteins, carbohydrates, lipids, and water — that your body will break apart for energy." Discuss: "Cooking is the oldest chemistry laboratory. Humans have been using chemical reactions to make food tastier and safer for at least 1 million years."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep the activity very sensory and simple. Use only 2-3 pre-cut ingredients (banana slices, raisins, cereal pieces). Focus on naming each item, exploring textures by touch, and the simple act of putting things in a bowl together. Demonstrate the mixing action multiple times. Use shorter vocabulary words and lots of repetition. Let them pour from their own small container if possible (very short pours to build fine motor skills). Supervise closely and ensure all items are soft or dissolvable (no hard nuts, candy, or choking hazards).
+Use 2-3 pre-cut ingredients. Focus on one chemistry concept: dissolving sugar in yogurt (watch it disappear — still there, just invisible molecules). Or observe a banana turning brown after peeling (oxidation — oxygen reacting with the fruit). Name the science at each step: "The raisin was a grape that lost its water — evaporation made it wrinkly and sweet." Stirring is mechanical energy — name it. All items must be soft and safe. Duration: 10-15 minutes.
 
 **3-4+ years**:
-Increase complexity by using 4-5 ingredients and introducing measurement language: "One scoop of raisins, two scoops of cereal." Use child-safe child scissors for cutting soft items if appropriate. Ask them to predict: "What will happen when we mix these?" Encourage them to use sophisticated vocabulary: "Is this smooth or bumpy?" "Does this ingredient transform when we eat it?" Let them arrange items by color or size before mixing. Introduce the concept of recipes: "This is our special trail mix recipe." Have them help wash a soft fruit like berries or grapes at the sink.
+Use 4-5 ingredients and introduce more chemistry. Run the apple oxidation experiment: cut an apple, put lemon juice on one half, leave the other exposed. Check back in 10 minutes — the lemon-juice half stays white (antioxidant protection), the other turns brown. Dissolve sugar in warm vs. cold water and compare speed (kinetic energy). Mix oil and water, observe separation, then add a drop of dish soap (surfactant/emulsifier) and shake — it stays mixed. Ask prediction questions: "Is mixing trail mix a chemical or physical change?" (Physical — you could separate the ingredients back out.) "Is cooking an egg chemical or physical?" (Chemical — you can't un-cook it.) Introduce measurement: counting, scooping, comparing volumes. Duration: 20-25 minutes.
 
 ### Extension Ideas
 

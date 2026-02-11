@@ -6,13 +6,13 @@ This activity introduces children to non-verbal communication through sign langu
 
 ## Vocabulary
 
-**Non-verbal Communication**: Sharing meaning and ideas without using spoken words. For example, waving your hand to say goodbye, or nodding your head to say yes.
+**Sign language** (SYN LANG-gwij): A complete language with its own grammar, syntax, and vocabulary — expressed through hand shapes, facial expressions, and body movement instead of sound. American Sign Language (ASL) is not "English on your hands" — it has different word order, its own rules, and is as complex as any spoken language. ASL descended from French Sign Language (LSF) brought to America in 1817 by Laurent Clerc. There are over 300 different sign languages worldwide, each as different from each other as French is from Japanese.
 
-**Gesture**: A movement of your hands, arms, body, or head that shows what you mean or how you feel. For example, clapping your hands to show you're happy.
+**Broca's area** (BROH-kuhz): A region in the left frontal lobe of the brain that controls language production. Here's the remarkable part: Broca's area activates when producing *both* spoken words and sign language. This proved that Broca's area isn't a "speech" center — it's a *language* center. The brain processes sign language as true language, not just gesture. Damage to Broca's area causes difficulty producing language whether the person speaks or signs.
 
-**Expression**: Showing your feelings or thoughts through your face and body movements. When you smile big and jump up and down, you're expressing that you're excited.
+**Mirror neurons** (MEER-or NOOR-onz): Neurons in your premotor cortex that fire both when you perform an action AND when you watch someone else perform it. When you watch someone make a sign, the same neurons fire as if you were making that sign yourself — your brain is secretly rehearsing. This is how babies learn language: by watching mouths (for speech) or hands (for sign). Mirror neurons are the neurological basis of imitation and are critical for language acquisition.
 
-**Inclusive**: Making a space where all people feel welcome and able to join in, even if they communicate or move in different ways.
+**Phonology** (fuh-NOL-uh-jee): The study of the smallest meaningful units in a language. In spoken language, phonemes are distinct sounds (English has 44). In sign language, the equivalent units are *handshape*, *location* (where the sign is made relative to the body), *movement* (direction and type), and *palm orientation*. Change any one of these four parameters and you change the meaning — just like changing one sound in "bat" to "cat" changes the word entirely. This proves sign languages have the same structural complexity as spoken languages.
 
 ## 🎵 Learning Song
 
@@ -95,37 +95,31 @@ Children explore non-verbal communication by learning simple signs, making gestu
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 minutes):
+1. **Introduction — Language Without Sound** (2-3 minutes):
 
-   Start with hands behind your back and get children's attention through facial expression and eye contact. Show your hands with an excited gesture (both hands opening upward). Say: "Today we're going to learn a fun way to talk with our hands and bodies - using signs and silly gestures! We don't have to say words. We can tell stories and play games just by moving."
+   Start with hands behind your back. Get attention through facial expression and eye contact alone. Then sign HELLO. Say: "I just said 'hello' — not with my mouth, but with my hands. This is sign language, and it's a *real language* — as complete and complex as English or Spanish. It has its own grammar, its own word order, and its own rules." Explain: "American Sign Language — ASL — was brought to America from France in 1817. There are over 300 different sign languages around the world." Place your hand on your head: "Your brain has a spot called Broca's area that controls language. Here's the amazing part: Broca's area works the same whether you're speaking or signing. Your brain treats both as real language."
 
-   Demonstrate one simple sign like HELLO (just wave your hand). Explain: "When I show you a sign or gesture, watch carefully with your eyes and your body. There's no 'right way' - everyone's signs can look a little different, and that's wonderful."
+2. **Exploration — Phonology of Sign** (5-10 minutes):
 
-2. **Exploration** (5-10 minutes):
+   Introduce signs one at a time, but explain the structure: "Every sign has four parts — just like spoken words have sounds. The four parts are: *handshape* (what your hand looks like), *location* (where you make the sign), *movement* (how your hand moves), and *palm orientation* (which way your palm faces). Change any one part and you change the meaning."
 
-   Introduce one sign at a time, starting with 3-4 signs total. Demonstrate the sign slowly, showing hand shape, position, and movement. Invite children to copy: "Now it's your turn - can you make your hands look like mine?"
+   **Simple signs to teach (with phonological analysis)**:
+   - **HELLO**: Handshape = open palm, Location = side of head, Movement = wave outward, Palm = facing out
+   - **THANK YOU**: Handshape = flat hand, Location = chin, Movement = outward/downward, Palm = facing in then out
+   - **MORE**: Handshape = pinched fingers, Location = center chest, Movement = tap together, Palm = facing each other
+   - **HAPPY**: Handshape = open hands, Location = chest, Movement = upward brushing, Palm = facing body
 
-   **Simple signs to teach**:
-   - **HELLO**: Wave hand at side of head
-   - **THANK YOU**: Place fingertips on chin, move hand outward/downward
-   - **MORE**: Tap fingertips together (both hands)
-   - **HAPPY**: Move open hands upward on chest
-   - **CAT**: Draw whiskers from cheeks with index and middle fingers
-   - **DOG**: Snap fingers while patting leg
+   "When you watch me sign, your mirror neurons fire — the same brain cells that would fire if YOU were making the sign. Your brain is secretly practicing before your hands even move!"
 
-   Comment on what you observe: "I see your hands moving up and down, just like HAPPY! That's the sign for happy!" Allow 30-60 seconds per sign for practice. Repeat signs if children request them.
+3. **Discovery — Mirror Neurons at Work** (5-10 minutes):
 
-3. **Discovery** (5-10 minutes):
+   **Game 1: Phonology Swap** - Make the sign for HAPPY. Now change just the *location* (move it from chest to head). Ask: "It looks different now — in real ASL, changing location changes meaning!" Demonstrate how minimal changes create different words.
 
-   Play interactive gesture games:
+   **Game 2: Mirror Neuron Game** - Make a sign slowly. Ask: "Before you move your hands, can you *feel* them wanting to copy? That's your mirror neurons — brain cells that fire when you watch someone else's hands." Then have them copy.
 
-   **Game 1: Sign Story** - Make 3-4 simple signs in sequence (HELLO, CAT, HAPPY, FRIEND). Invite children to copy the sequence with you. Gradually add exaggerated gestures and create silly combinations.
+   **Game 3: Guess the Sign** - Make signs in sequence (HELLO, CAT, HAPPY). Children decode the "sentence." Then children create their own signed sentences for you to decode.
 
-   **Game 2: Guess the Gesture** - Make a simple, exaggerated gesture (large circle with arms, pretend eating, big yawn). Ask: "What am I doing? Can you show me too?" Accept various interpretations and celebrate all attempts.
-
-   **Game 3: Copy and Change** - Make a simple gesture. Child copies it. You change one thing (turn hand, make it slower, higher or lower). Child copies the new version. This builds observation skills.
-
-   **Game 4: Emotion Gestures** - Show happy (smile + hands up), sad (frown + hands down), excited (jumping + arms up), tired (yawn + slow movements). Children copy each emotion. Ask: "Can you show me a happy face with your hands?"
+   **Game 4: Facial Grammar** - Explain: "In ASL, your face is grammar — raised eyebrows mean a question, furrowed eyebrows mean emphasis. The face does what tone of voice does in spoken language." Practice signing HAPPY with different facial expressions to change meaning.
 
 4. **Wrap-up** (2-3 minutes):
 
@@ -135,11 +129,11 @@ Children explore non-verbal communication by learning simple signs, making gestu
 
 **2-3 years**:
 
-Focus on very simple, large gestures and one or two signs. Use lots of repetition with familiar routines. Pair signs with spoken words (don't replace speech). Keep games very short (2-3 minutes each). Accept that many children will watch rather than participate at first. Use exaggerated facial expressions and movements for clarity. Focus on animal signs (CAT, DOG, BIRD) as they're concrete and engaging. Reduce overall duration to 10-15 minutes with more frequent breaks. Model every gesture and sign multiple times. Use hand-over-hand guidance gently if the child is comfortable.
+Focus on 2-3 high-utility signs (MORE, HELLO, THANK YOU) with lots of repetition. Pair signs with spoken words — this is how bilingual language acquisition works naturally. Name mirror neurons in simple terms: "Your brain is practicing the sign just by watching me — clever brain!" Accept watching as active learning (mirror neurons fire during observation). Use hand-over-hand guidance gently. Focus on animal signs (CAT, DOG, BIRD) for concrete engagement. Point out the handshape each time: "See how my hand makes this shape?" Duration: 10-15 minutes. At this age, children are in the critical period for language acquisition — their brains are optimized to absorb new language systems.
 
 **3-4+ years**:
 
-Introduce 5-7 signs instead of 3-4. Create sign sentences (HELLO + NAME + HOW ARE YOU). Play more complex games like Hide and Guess (hide action, children guess what it was). Introduce emotion signs and discuss feelings in detail. Create gesture stories with beginning, middle, and end. Encourage children to teach signs to peers. Ask children to describe what others' gestures mean. Introduce directional signs (signs that move toward or away from body). Connect to literacy by pairing signs with letters and words. Extend duration to 20-25 minutes as they can sustain longer engagement.
+Introduce 5-7 signs and begin combining them into sentences. Explicitly teach the four phonological parameters: "What's the handshape? Where is it located? How does it move? Which way does the palm face?" Play the Minimal Pair game: show two signs that differ in only one parameter and ask children to spot the difference. Introduce facial grammar: raised eyebrows = question, head shake = negation. Compare ASL sentence structure to English: ASL often puts the topic first ("STORE I GO" instead of "I go to the store"). Discuss how deaf children worldwide develop language through sign just as naturally as hearing children develop it through speech — proving language is a brain capacity, not a mouth capacity. Duration: 20-25 minutes.
 
 ### Extension Ideas
 

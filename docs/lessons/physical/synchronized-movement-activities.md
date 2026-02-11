@@ -14,6 +14,16 @@ Synchronized movement activities involve moving together with a partner, small g
 
 **Space Required**: 10x10 feet minimum (enough for adult and child to move without bumping)
 
+## Vocabulary
+
+**Mirror neurons** (MEER-or NOOR-onz): Neurons in your premotor cortex that fire both when you perform an action AND when you watch someone else perform the same action. Discovered in macaque monkeys in the 1990s by Giacomo Rizzolatti's team, these neurons are the neurological basis of imitation. When a child watches you raise your arm, their mirror neurons fire as if *they* were raising their arm — the brain is internally rehearsing the movement. This is why demonstration is more powerful than verbal instruction for young children: mirror neurons learn by *seeing*, not by hearing descriptions.
+
+**Entrainment** (en-TRAYN-ment): The automatic tendency for two rhythmic systems to synchronize with each other. When you clap a steady beat and a child starts moving to it, their motor cortex has entrained to your rhythm — their brain locks onto the timing pattern without conscious effort. Entrainment happens in your auditory cortex and motor cortex simultaneously. This ability is nearly unique to humans (only a few species like cockatoos and sea lions can do it). Soldiers march in step, audiences clap together, and people walking side by side synchronize their footsteps — all entrainment.
+
+**Oxytocin** (ok-see-TOH-sin): A hormone and neurotransmitter released during synchronized movement, physical touch, and social bonding. When people move together in rhythm — dancing, marching, or doing synchronized exercises — their brains release oxytocin, which creates feelings of trust, connection, and belonging. This is why moving together feels good: it's not just fun, it's neurochemistry. Studies show that children who do synchronized activities together cooperate more and share more afterward — the oxytocin changes their social behavior measurably.
+
+**Temporal cortex** (TEM-por-ul KOR-teks): The brain region along the side of your head that processes timing, rhythm, and the sequence of events. Your temporal cortex is what allows you to perceive rhythm and predict when the next beat will happen — essential for synchronized movement. It works with the cerebellum (timing precision) and motor cortex (movement execution) to produce coordinated, on-beat movement. Damage to the temporal cortex disrupts the ability to keep time with music.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -79,10 +89,9 @@ Synchronized movement activities involve moving together with a partner, small g
 #### Introduction & Demonstration (1 minute)
 
 - Sit or stand at child's eye level
-- Say something like: "Today we're going to move together, like we're dancing as a team!"
-- Show one simple movement (e.g., raise arms up and down)
-- Invite child: "Can you do it with me?"
-- Praise the attempt immediately
+- "Today we're going to move together — at the same time, in the same rhythm. When we do this, something amazing happens in your brain: it releases a chemical called oxytocin, the bonding hormone. That's why dancing together and marching together feel so good — it's brain chemistry."
+- Show one simple movement (raise arms up and down): "Watch me first — your mirror neurons are already firing, secretly rehearsing this movement before your hands even move."
+- Invite child: "Can you do it with me? Let's match our timing."
 
 #### Skill Practice (4-6 minutes)
 
@@ -107,11 +116,11 @@ Synchronized movement activities involve moving together with a partner, small g
    - Reach high, bend down, spin around
 
 **Coaching cues**:
-- "Watch me - let's do this together!"
-- "You're doing it! You're moving just like me!"
-- "Ready? We go up, down, clap - up, down, clap!"
-- "Slow and steady - we're a team!"
-- "Look in the mirror - see you and me moving the same?"
+- "Watch my arms — your mirror neurons are copying the movement inside your brain before your muscles start."
+- "We're moving at the same time! That's entrainment — your brain locked onto my rhythm."
+- "Your temporal cortex is tracking the timing — it predicts when the next beat happens."
+- "Feel that good feeling of moving together? That's oxytocin — your brain's bonding chemical."
+- "Your deltoids (shoulder muscles) are lifting your arms, your quadriceps (front of thigh) are powering each step."
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -180,35 +189,32 @@ Synchronized movement activities involve moving together with a partner, small g
 ### 2-3 years
 
 **Modifications**:
-- Use much simpler, one-step movements (just hands up/down, not sequences)
-- Reduce number of different movements - focus on 2-3 movements per session
-- Movements should be slow and large (easier to see and copy)
-- Expect lots of approximation - child might do a different movement that's "close"
-- Use lots of verbal cues and demonstration, less verbal instruction
-- Physical hand-over-hand guidance acceptable and helpful
-- Keep pace very slow - this age needs more processing time
+- Use simple, one-step movements (hands up/down, clapping) — focus on 2-3 movements per session
+- Movements should be slow and large (easier for mirror neurons to encode)
+- Name the neuroscience simply: "Your brain is copying me! Mirror neurons at work!"
+- Expect approximation — mirror neurons are still developing at this age; watching IS active learning
+- Physical hand-over-hand guidance helps create the muscle memory that mirror neurons will later automate
+- Clap a steady beat to trigger entrainment: "Your brain heard the rhythm and your body started matching it!"
+- Keep pace slow — the temporal cortex needs more processing time at this age
 
-**Duration**: 5-10 minutes total (shorter than 3-4+ year olds)
+**Duration**: 5-10 minutes total
 
 **Adult support**:
-- Stay very engaged and enthusiastic
-- Model the movement multiple times before expecting copy
-- Use gentle hand-guiding if child isn't catching on
-- Celebrate all attempts equally
-- Expect child to sometimes prefer watching rather than participating - this is learning
-- May need to take breaks mid-activity
+- Model movements multiple times before expecting imitation
+- Name muscles when moving: "Raise your arms — deltoid muscles working!"
+- Celebrate all attempts: "Your mirror neurons are learning even when your arms don't match mine yet"
+- Watching is valid participation — mirror neuron firing occurs during observation
 
 ### 3-4+ years
 
 **Challenges to add**:
-- 3-4 movement sequences instead of single movements
-- Faster tempo (but still manageable)
-- More complex directions: backward, sideways, diagonal
-- Incorporate turns and spins (if balance is confident)
-- Lead/follow role-switching more frequently
-- Use music with more distinct rhythm
-- Add object coordination: hold ribbon/scarf while moving
-- Combine movements from multiple sessions into longer sequences
+- 3-4 movement sequences; introduce entrainment to faster rhythms
+- More complex coordination: backward, sideways, diagonal (challenges the cerebellum)
+- Lead/follow role-switching: "Now YOU lead and my mirror neurons will copy you"
+- Discuss oxytocin: "Notice how good it feels to move together? That's a real chemical in your brain — oxytocin — making us feel connected"
+- Introduce cross-lateral movements (right hand touches left knee) — these require both brain hemispheres to coordinate via the corpus callosum
+- Use music with distinct rhythm; identify the tempo: "This song has a fast beat — our temporal cortex adjusts our entrainment to match"
+- After synchronized activity, test cooperation: share a snack or build together — research shows post-synchrony sharing increases measurably
 
 **Duration**: Can extend to 15-20 minutes with good engagement
 

@@ -6,13 +6,13 @@ In this hands-on activity, young children learn to wash, dry, and care for cloth
 
 ## Vocabulary
 
-**Absorbent**: The quality of soaking up or drawing in liquids. When your sock goes into water, the fabric becomes absorbent and gets wet quickly—this is how clothes soak up water and moisture during washing.
+**Surfactant** (sur-FAK-tunt): The molecule in soap and detergent that actually does the cleaning. Each surfactant molecule has two ends: a *hydrophilic* (water-loving) end that grabs onto water, and a *hydrophobic* (water-fearing) end that grabs onto grease and dirt. When you add soap to water, millions of surfactant molecules surround each speck of dirt — hydrophobic ends pointing inward (clinging to the dirt), hydrophilic ends pointing outward (being pulled by the water). The water then carries the dirt away. Without surfactant, water alone rolls off greasy stains because water and oil don't mix.
 
-**Moisture**: Water or wetness that is present in something. Before we wash clothes, there might be moisture from sweat or rain. After we wash them, we get the moisture out by wringing and drying.
+**Fiber** (FY-bur): The tiny threads that fabric is made from. Cotton fibers come from the seed pods of cotton plants — each fiber is a single plant cell. Wool fibers are sheep hair with tiny scales that trap air for insulation. Polyester fibers are made from petroleum (the same source as plastic). Different fibers absorb water differently: cotton absorbs up to 27 times its weight in water (because cellulose is hydrophilic), while polyester absorbs almost nothing (because polymer chains are hydrophobic). That's why cotton clothes feel heavy when wet.
 
-**Texture**: The way something feels when you touch it with your hands. When clothing is dry, it has one texture; when it's wet, the texture feels different—heavier, softer, and cooler.
+**Evaporation** (ee-vap-or-AY-shun): When liquid water molecules gain enough kinetic energy (energy of motion) to escape from the fabric surface into the air as water vapor. Warm air, wind, and sunlight all speed up evaporation by giving water molecules more energy. A clothesline works because air flowing past wet fabric carries away water vapor molecules. Indoors, clothes dry more slowly because the air around them becomes saturated — too full of water vapor to accept more.
 
-**Garment**: A piece of clothing such as a shirt, sock, dress, or pair of pants. In laundry, we wash each garment carefully to keep it clean and fresh.
+**Capillary action** (KAP-ih-lair-ee): The ability of water to flow through tiny spaces in fabric without being pushed. Water molecules are attracted to cellulose fibers (adhesion) and to each other (cohesion). Together, these forces pull water through the tiny gaps between fibers — the same way water climbs up inside a paper towel. This is why a dry towel placed on a wet spot will soak up the water even against gravity: capillary action pulls it in.
 
 ## 🎵 Learning Song
 
@@ -96,20 +96,20 @@ Children participate in real laundry tasks—washing small clothing items in wat
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 minutes):
-   Show the child the basket of "dirty" clothing and ask, "What happens to these clothes? How do they get clean?" Demonstrate placing an item in water and say, "Watch how the water makes the fabric soft and ready to wash. We're going to learn how to care for clothes, just like grown-ups do every day."
+1. **Introduction — Why Does Soap Clean?** (2-3 minutes):
+   Show the basket of "dirty" clothing. "What makes clothes dirty? Sweat, food, dust — often mixed with oils from your skin. Here's the problem: water alone can't grab oil. Oil and water don't mix — oil is hydrophobic, which means 'water-fearing.'" Hold up the soap: "This has surfactant molecules. Each one has two ends — a hydrophilic end that loves water, and a hydrophobic end that loves oil. The oil-loving end grabs the dirt, and the water-loving end gets pulled away by the water. That's how soap works — it's a molecular bridge between water and oil."
 
-2. **Exploration** (5-10 minutes):
-   Invite the child to place items in the water basin and observe what happens. Encourage squeezing water through the fabric and noticing how the texture changes when wet. Comment on discoveries: "The sock is getting heavier," "The water is getting darker—the dirt is coming out." Allow natural water play and splashing with minimal pressure for "results."
+2. **Exploration — Fiber Science** (5-10 minutes):
+   Before washing, compare dry fabrics: "Feel this cotton sock — cotton fibers come from a plant. Each fiber is a single plant cell made of cellulose." Try polyester: "This is made from petroleum — the same stuff as plastic. Watch what happens when they go in water." Submerge both: "The cotton gets heavy and soaks up water — cellulose is hydrophilic, it attracts water. The polyester stays light — polymer chains are hydrophobic." Let the child squeeze water from each and compare: "Cotton absorbed way more because of capillary action — water climbs through tiny gaps between the cellulose fibers."
 
-3. **Guided Washing** (5-10 minutes):
-   Demonstrate gently rubbing two cloth items together in the water using small circular motions. Show how this helps remove dirt. Guide the child's hands if needed, narrating as you go: "We rub gently to help the water clean the clothes." If soap is used, show how bubbles form and help with cleaning. Celebrate effort: "You're being so careful. Look at how that's getting cleaner!"
+3. **Guided Washing — Surfactants in Action** (5-10 minutes):
+   Add soap to the water: "Watch the bubbles form — each bubble is a thin film of water with surfactant molecules on both surfaces." Demonstrate rubbing fabric: "We rub to help surfactant molecules reach the dirt trapped between fibers. The rubbing pushes water through the fabric — that's mechanical energy helping the chemistry work." If the water gets darker: "See the color change? Those are dirt particles surrounded by surfactant molecules being carried away by the water. The surfactant pulled them off the fiber surfaces."
 
 4. **Rinsing and Wringing** (3-5 minutes):
-   Model lifting an item from soapy water and rinsing under clean water. Demonstrate gentle squeezing motions to remove excess water. Encourage the child to wring items (this builds hand strength). Comment: "Listen—the water sounds cleaner now. Your hands are getting stronger from squeezing."
+   Rinse in clean water: "We rinse to wash away the surfactant-and-dirt clusters. If we don't rinse, dried soap residue stays in the fibers." Demonstrate wringing: "When you squeeze, you're pushing water out from between the fibers — overcoming the capillary action that holds it in. Your hand muscles are working against adhesion and cohesion forces."
 
-5. **Drying and Completion** (3-5 minutes):
-   Hang items on the clothesline with clothespins or lay them flat on a rack. Let the child place or arrange each item they washed. Step back together and admire the work: "Look at all the clean clothes you washed! Now the air and sun will dry them."
+5. **Drying — Evaporation** (3-5 minutes):
+   Hang items on the line: "Now evaporation takes over. Water molecules on the surface gain enough kinetic energy — energy of motion — to escape into the air as invisible water vapor. Sun and wind speed this up by adding energy and carrying vapor away." Touch the wet vs. dry fabric: "The wet fabric feels cool because evaporation absorbs heat from the fabric — that's why you feel cold when you're wet."
 
 6. **Wrap-up** (2-3 minutes):
    Ask the child, "How do you feel about the clothes you washed?" Connect to their daily life: "Just like grown-ups wash your clothes, you just learned how to take care of clothes too." Discuss where the clothes will go next. Make cleanup part of the learning experience.
@@ -117,10 +117,10 @@ Children participate in real laundry tasks—washing small clothing items in wat
 ### Age Adaptations
 
 **2-3 years**:
-Keep the focus on sensory water play and texture exploration. Use only 2-3 very small, lightweight items like a single sock or small washcloth. Provide constant hand-over-hand support and keep the activity to 15-20 minutes. Use minimal or no soap to reduce slipping hazards. The child explores pouring and splashing with guidance while you do most of the wringing. Emphasize the water and fabrics rather than achieving clean clothes.
+Focus on the fiber comparison: cotton vs. polyester in water (heavy vs. light — hydrophilic vs. hydrophobic). Use 2-3 small items. Demonstrate squeezing water from cotton: "So much water! Cotton cellulose loves water." Let the child feel wet vs. dry fabric and name the cause: "Water is hiding between the fibers — capillary action pulled it in." When hanging to dry, feel the fabric later: "It's drier! Water molecules evaporated into the air." Keep to 15-20 minutes. The science vocabulary exposure matters more than perfect washing.
 
 **3-4+ years**:
-Increase to 5-10 items to wash. Introduce cause-and-effect thinking: "When we rub harder, it gets cleaner faster." Add sorting activities: "Can you separate white socks from colored ones?" Use clothespins to hang items independently on a low clothesline. Ask reflective questions: "Why do clothes need washing?" "What makes them dirty?" Connect to personal investment: "These are YOUR socks—how does it feel to wash your own things?" Encourage more independence in pouring water and wringing. Sessions may last 25-40 minutes as they gain confidence.
+Increase to 5-10 items. Add a surfactant experiment: put a drop of oil on fabric, try water alone (won't remove it), then try soapy water (removes it). "See? The surfactant's hydrophobic end grabbed the oil, and the hydrophilic end let the water carry it away." Sort fabrics by fiber type: natural (cotton, wool) vs. synthetic (polyester, nylon). Discuss why wool shouldn't go in hot water (heat causes wool's protein scales to lock together — felting). Explore evaporation rates: hang identical wet cloths in sun vs. shade and check back later. Use clothespins on a low line. Introduce the concept of dyes: "Colors in fabric are dye molecules bonded to fibers — hot water can break those bonds, which is why colors bleed in warm washes." Sessions: 25-40 minutes.
 
 ### Extension Ideas
 

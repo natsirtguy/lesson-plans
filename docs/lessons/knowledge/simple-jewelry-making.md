@@ -6,13 +6,13 @@ Children create wearable art by stringing beads, pasta, or other materials onto 
 
 ## Vocabulary
 
-**Design**: A plan for how something will look or be arranged. When you choose which colors go next to each other on your necklace, you are making a design. You decide what your jewelry looks like!
+**Bead** (beed): A small object with a hole drilled through it for stringing. Humans have been making beads for over 100,000 years — the oldest known beads are pierced shells from a cave in Morocco, making jewelry one of the oldest forms of human art. Beads can be made from many materials: glass (sand melted at 1,700°C/3,090°F), wood (carved from tree cellulose), ceramic (clay fired in a kiln), stone (carved and polished mineral), or plastic (petroleum-based polymer). Each material has different weight, temperature feel, and durability.
 
-**Texture**: How something feels when you touch it—smooth, bumpy, rough, or shiny. Different beads have different textures. Some are smooth like glass, and some are bumpy like wood.
+**Sequence** (SEE-kwens): An ordered arrangement where position matters — the mathematical concept behind every pattern. When you string red-blue-red-blue, you're creating an *alternating sequence*. When you do red-red-blue-red-red-blue, that's a *repeating sequence with a period of 3*. Sequences are fundamental to mathematics (number sequences like 1, 2, 3...), music (notes in a melody), and even DNA (which is a sequence of four chemical bases that encodes all life).
 
-**Pattern**: Colors or shapes that repeat in a certain order. When you do red bead, yellow bead, red bead, yellow bead, you are making a pattern. Patterns are fun because they show a plan!
+**Bilateral symmetry** (by-LAT-er-ul SIM-uh-tree): When both sides of something are mirror images of each other around a center line. If your necklace has blue-red-yellow in the center, then red-blue on both sides, it has bilateral symmetry. Human faces, butterflies, and most animals have bilateral symmetry. Your brain's fusiform face area is specially tuned to detect symmetry — that's one reason symmetrical designs look "right" to us.
 
-**Symmetry**: When both sides of something look the same or balanced. If your necklace has the same colors on the left side and the right side, it has symmetry. It looks balanced!
+**Fine motor cortex** (FYN MOH-ter KOR-teks): The part of your brain's motor cortex that controls your fingers and hands. Threading a bead onto a string requires extraordinary precision — your brain must coordinate 34 different muscles in each hand, using signals that travel along nerve fibers called *axons* at up to 120 meters per second. The more you practice threading, the more *myelin* (insulating coating) builds up around those nerve pathways, making them faster and more accurate. This is why threading gets easier with practice — your brain is literally rewiring itself.
 
 ## 🎵 Learning Song
 
@@ -110,56 +110,50 @@ Children explore beads and materials by touch, then practice threading beads ont
 
 **Activity Flow**:
 
-1. **Introduction (2-3 minutes)**
-   - Show the child a finished sample necklace or bracelet and let them hold it and feel the beads
-   - Say: "Today you're going to make your very own special necklace that YOU get to design"
-   - Point out different bead colors and textures: "These are so smooth. These ones are bumpy!"
-   - Ask: "What colors do you want to use?" to get them excited about their choices
+1. **Introduction — Ancient Art of Beads** (2-3 minutes)
+   - Show the child a finished sample necklace and explain: "People have been making jewelry for over 100,000 years — longer than almost any other art. The first beads were shells with holes punched through them."
+   - Sort beads by material and explore differences: "This glass bead was made by melting sand at very high temperatures. Feel how smooth and cool it is — glass conducts heat away from your finger. This wooden bead is carved from a tree — feel how it's warmer and lighter? Wood is a natural insulator."
+   - "Each bead has a hole drilled through the center. That hole is what makes a bead a bead."
 
-2. **Exploration (4-6 minutes)**
-   - Invite the child to touch, feel, and examine different beads
-   - Let them pick up beads and notice textures—smooth, rough, shiny, colorful
-   - Ask: "Which bead is your favorite? Why do you like it?"
-   - Observe which colors they naturally gravitate toward
+2. **Exploration — Material Science** (4-6 minutes)
+   - Invite the child to sort beads by material: glass, wood, plastic, ceramic. "Which ones are heaviest? Glass and ceramic are denser — more matter packed into the same space."
+   - Compare temperatures: "Touch the glass bead to your cheek, then the wooden bead. Glass feels cooler because it conducts heat away from your skin faster."
+   - Tap beads on the table: "Hear how they sound different? Glass rings, wood thuds, plastic clicks. The sound tells you about the material's density and structure."
 
-3. **Guided Demonstration (2-3 minutes)**
-   - Hold a string and demonstrate slowly how to hold it steady with one hand and pick up a bead with the other
-   - Model threading a bead deliberately: "Watch as I push the string through the hole"
-   - Do 2-3 beads yourself, narrating: "Red bead... now a yellow one"
-   - Keep the demonstration simple and focused on the motion
+3. **Guided Demonstration — Fine Motor Cortex at Work** (2-3 minutes)
+   - Demonstrate threading slowly: "Watch — I hold the string steady with one hand and push the bead on with the other. My brain is coordinating 34 muscles in each hand to do this. The signals travel from my motor cortex down nerve fibers at 120 meters per second."
+   - "Threading is one of the hardest things your fingers can do. Every time you practice, your brain wraps more myelin around the nerve pathways — insulation that makes the signals faster. That's why it gets easier each time."
+   - Do 2-3 beads, narrating the sequence: "Red, then blue — I'm starting a sequence."
 
-4. **Supported Practice (8-12 minutes)**
-   - Invite the child to try with your hand nearby for encouragement but allowing independence
-   - Ask questions as they work: "What color comes next?" "Do you want another one?"
-   - Use descriptive language without directing: "You're choosing so many colors!" "Look how long your necklace is getting!"
-   - Offer help with threading when frustration appears, but let them problem-solve first
-   - Allow the child to decide when the piece is "finished"
+4. **Supported Practice — Building Sequences** (8-12 minutes)
+   - Invite the child to thread with your guidance. As they work, discuss sequences: "You chose red, blue, red — is that a pattern? If you add blue next, you've made an alternating sequence!"
+   - Introduce bilateral symmetry: "Want to try something? Put a special bead in the middle, then make both sides match — that's bilateral symmetry, like a butterfly's wings."
+   - Let the child problem-solve when beads are tricky: "Your fine motor cortex is building new pathways right now. The struggle is your brain learning."
+   - Count beads as they go for early math integration.
 
-5. **Completion and Celebration (2-3 minutes)**
-   - Tie the string ends together securely to create a closed loop (you do this)
-   - Help the child put on their creation immediately if possible, or place it in a special spot to admire
-   - Reflect together: "Tell me about your necklace. What's your favorite bead on it?"
-   - Invite them to help put beads back into containers as a sorting game if energy allows
+5. **Completion and Celebration** (2-3 minutes)
+   - Tie the string into a loop and help them wear it.
+   - Review: "You used materials from sand, trees, and minerals. You practiced sequences and maybe symmetry. And your fine motor cortex got stronger with every bead you threaded."
+   - "Humans 100,000 years ago made jewelry just like you did today — threading things onto string. You're part of the oldest art tradition on Earth."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Offer very large beads (1-2 cm diameter) with large holes—pony beads are ideal
-- Provide only 2-3 color options to reduce decision-making overwhelm
-- Use thicker stringing material (elastic or thick yarn)
-- Expect shorter attention span (10-15 minutes total)
-- Provide more physical assistance with threading—many 2-year-olds will select beads and hand them to you while you thread
-- Focus entirely on the sensory experience and color exploration
-- Expect shorter, less intentional designs
+- Use large beads (1-2 cm) with large holes; thick yarn or elastic cord for threading
+- Focus on material exploration: compare how glass, wood, and plastic beads feel, sound, and weigh
+- Introduce simple sequences: "Red, blue, red — what comes next?" (period-2 alternating sequence)
+- Many 2-year-olds will select beads and hand them to you — that's practicing sorting and decision-making
+- Name materials as you go: "That's a wooden bead — it came from a tree"
+- Keep to 10-15 minutes; the myelination of fine motor pathways is happening whether or not they finish
 
 **3-4+ years**:
-- Offer smaller beads and introduce spacing between colors
-- Challenge with pattern-making: "Can you do red, yellow, red, yellow?"
-- Encourage naming the piece: "What should we call your necklace?"
-- Create matching pairs—one necklace for the child, one as a gift
-- Introduce the concept of symmetry: "Do you want the same colors on both sides?"
-- Encourage longer strings and more complex color combinations
-- Try making bracelets with a friend for matching sets
+- Offer smaller beads; introduce sequences with longer periods: "Red, red, blue, red, red, blue" (period-3)
+- Challenge with bilateral symmetry: "Put a special bead in the center, then make both sides match"
+- Compare materials systematically: sort by weight (density), temperature feel (thermal conductivity), sound (tap test)
+- Introduce bead history: "The oldest beads ever found are 100,000-year-old shells from Morocco. Ancient Egyptians made glass beads 5,000 years ago by melting sand."
+- Count total beads and practice skip-counting by color groups
+- Create matching pairs for gifting — discuss why humans give jewelry (social bonding, oxytocin release during gift exchange)
+- Try creating an AB-AB pattern, then an ABC-ABC pattern, then invent their own
 
 ### Extension Ideas
 
