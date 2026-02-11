@@ -6,13 +6,13 @@ Children will explore the outdoor world as nature detectives, discovering insect
 
 ## Vocabulary
 
-**Observe**: To watch something carefully and notice details. When you observe a bug with a magnifying glass, you might see its legs, wings, and stripes that you couldn't see before.
+**Exoskeleton**: A hard outer skeleton that covers an insect's entire body on the outside instead of the inside like ours. Made of a material called chitin (the same material in crab shells), the exoskeleton is like a suit of armor — it protects the soft body inside, prevents water loss, and provides attachment points for muscles. Insects must shed (molt) their exoskeleton to grow, because the hard shell cannot stretch.
 
-**Magnify**: To make something look much bigger than it really is. The magnifying glass magnifies tiny insects so we can see their wonderful details like compound eyes and delicate antennae.
+**Arthropod**: The enormous group of animals that have exoskeletons, segmented bodies, and jointed legs — the name means "jointed foot" in Greek. Insects, spiders, crabs, and centipedes are all arthropods. There are more arthropod species than all other animals combined — over one million known species, and scientists estimate 5-10 million more undiscovered.
 
-**Insect**: A small animal that has six legs, three body parts (head, thorax, abdomen), and sometimes wings. Ants, beetles, butterflies, and ladybugs are all insects.
+**Compound eye**: An eye made of hundreds or thousands of tiny individual lenses called ommatidia, each pointing in a slightly different direction. A dragonfly has about 30,000 ommatidia per eye, giving it nearly 360-degree vision. Compound eyes are excellent at detecting movement (which is why flies are so hard to swat) but see less detail than our single-lens eyes.
 
-**Habitat**: The place where an animal naturally lives and finds food, water, and shelter. A bug's habitat might be under a rock, in the soil, on a plant leaf, or in the bark of a tree.
+**Metamorphosis**: The dramatic transformation many insects undergo as they grow — from egg to larva (caterpillar) to pupa (chrysalis) to adult (butterfly). This is called complete metamorphosis, and the insect's body literally dissolves inside the pupa and rebuilds into a completely different form. Some insects like grasshoppers undergo incomplete metamorphosis — they hatch looking like tiny adults and grow gradually through molts.
 
 ## Learning Song
 
@@ -100,24 +100,24 @@ In this outdoor discovery activity, children become "bug scientists" searching f
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by sitting together in the outdoor space. Ask: "Where do you think the bugs are hiding? What would it feel like to be a tiny bug?" Show the magnifying glass and demonstrate how it makes small things look bigger. Explain you're going to go on a "bug hunt" where you move slowly and quietly, like detectives looking for clues. Set the rule: we observe bugs and then leave them in their homes.
+   Start by sitting together in the outdoor space. Explain: "We're going to be entomologists today — that's the real name for scientists who study insects. There are over one million known insect species on Earth, and scientists think there are millions more we haven't discovered yet." Show the magnifying glass and explain how the curved lens bends light rays to make things appear larger (refraction — the same way your eye's lens works). Set the rule: we observe bugs and then leave them in their habitats.
 
 2. **Exploration** (10-15 min):
-   Children search the designated area for insects. Encourage them to look under leaves, around plants, in cracks of soil, under rocks (carefully replacing them), on tree bark, and in grass. When a bug is spotted, ask them to show you and use the magnifying glass to observe it. Ask: "What color is it? How many legs can you see? Does it have wings? Is it moving fast or slow?" Allow time for quiet, focused observation. There's no need to find many bugs—one or two observed carefully is perfect.
+   Children search the designated area for insects and other arthropods. Encourage them to look under leaves, around plants, in cracks of soil, under rocks (carefully replacing them), on tree bark, and in grass. When a bug is spotted, use the magnifying glass to examine it. Count legs: "If it has six legs and three body segments — head, thorax, abdomen — it's an insect. If it has eight legs, it's an arachnid, like a spider. Both are arthropods — animals with exoskeletons and jointed legs." Look for the exoskeleton: "See how its body is hard on the outside? That's chitin, an exoskeleton — like wearing armor. Our skeletons are inside, but this bug's skeleton is on the outside."
 
 3. **Discovery** (3-5 min):
-   When you find bugs, pause and examine them together. Point out details: "Look at the shiny wings!" "See how many legs it has?" "Notice how it's moving?" Ask wondering questions: "Where do you think this bug lives? What does it eat? Is it hiding or searching for food?" Let the child ask questions too. Keep the tone of respect and amazement.
+   When you find bugs, examine their adaptations closely. Look at the eyes: "See those big eyes? Many insects have compound eyes — made of hundreds or thousands of tiny lenses called ommatidia. A dragonfly has 30,000 lenses in each eye! That's why flies can see you coming and escape so fast." Look for antennae: "Those are chemoreceptors — they detect chemical molecules in the air, which is how insects smell and find food." If you find different life stages (a caterpillar and a butterfly, or larvae under a rock): "This is metamorphosis — the caterpillar will completely dissolve its body inside a chrysalis and rebuild into a butterfly. The same cells, rearranged into an entirely different animal."
 
 4. **Wrap-up** (2-3 min):
-   Thank the bugs for letting us observe them. Replace any rocks or objects you moved. Talk about what you discovered: "We saw a big beetle! We found ants working together! Bugs are everywhere!" Transition with: "The bugs need to rest now, just like we do sometimes."
+   Review what you found using real classification: "We found arthropods today — animals with exoskeletons. Were they insects (six legs) or something else?" Replace any rocks or objects you moved — "We're putting the habitat back the way we found it, because these animals depend on specific microhabitats for moisture and temperature." Transition with: "Entomologists spend years studying insects in the field, just like we did today."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep the hunt short (5-10 minutes) with close adult supervision. Focus on just finding bugs and looking with the magnifying glass—don't worry about identification. Use very simple language: "Bug! Look!" Point out obvious features (big, small, crawling, flying). Provide lots of hand-holding and directional help. It's okay if they don't find any bugs; the hunt itself is the joy.
+Keep the hunt short (5-10 minutes) with close adult supervision. Focus on finding arthropods and using the magnifying glass. Use simple language alongside real terms: "A bug! Look at its exoskeleton — that hard shell on the outside." Point out obvious features and count legs together: "One, two, three, four, five, six — six legs means it's an insect!" Touch an exoskeleton gently if safe: "Feel how hard that shell is? That's chitin." It's okay if they don't find any bugs; the hunt itself builds observation skills.
 
 **3-4+ years**:
-Extend to 15-25 minutes. Introduce simple identification: "That's an ant. Ants live in big families." Ask more detailed questions: "How many legs do you count? What color is it? Where did you find it?" Encourage them to search independently while you supervise. Let them make discoveries and share what they notice. Consider keeping a simple drawing or photo record of bugs found.
+Extend to 15-25 minutes. Practice real classification: count legs (six = insect, eight = arachnid, fourteen = isopod like woodlice), identify body segments (head, thorax, abdomen), and note whether wings are present. Discuss metamorphosis: "This caterpillar will become a butterfly through complete metamorphosis — its body will dissolve and rebuild." Introduce ecological roles: "Ants are decomposers — they break down dead material and return nutrients to the soil." Try sketching specimens with labels (antennae, compound eyes, thorax). Look up the species in a field guide and discuss its taxonomy — kingdom, phylum, class, order.
 
 ### Extension Ideas
 

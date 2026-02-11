@@ -6,13 +6,13 @@ Children explore the magical world of theatrical performance and dramatic play b
 
 ## Vocabulary
 
-**Character**: A person or creature you pretend to be in a story or play. When you put on a hat and pretend to be a chef, you are creating a character.
+**Dramatic arc**: The structure that almost every story follows, identified by the Greek philosopher Aristotle around 335 BCE in his work "Poetics" — setup (introduce characters and situation), rising action (a problem or conflict develops), climax (the most intense moment), and resolution (the problem is solved). This structure appears in everything from 2-minute puppet shows to 3-hour movies because human brains are wired to find this pattern satisfying — we need tension and release.
 
-**Stage**: The special area where actors perform and an audience watches. The stage is usually raised up so everyone can see the actors clearly.
+**Theory of mind**: The cognitive ability to understand that other people have thoughts, feelings, and knowledge different from your own — the foundation of all acting. When a child pretends to be a scared cat, they're demonstrating theory of mind by imagining what a cat might feel. This ability develops between ages 2-5 and is processed in the prefrontal cortex and temporal-parietal junction of the brain. Acting is one of the most powerful theory of mind exercises.
 
-**Expression**: The way you show feelings and emotions on your face, through your voice, and with your body movements. A big smile and open arms is a happy expression.
+**Projection**: The vocal technique of making your voice carry to an audience without shouting — actors project by using their diaphragm (the dome-shaped muscle below the lungs) to push air with controlled force, rather than straining their throat muscles. Ancient Greek theaters held 14,000 people with no microphones — actors used masks with built-in acoustic amplifiers (the mask's open mouth acted as a megaphone) and the semicircular theater shape focused sound waves toward the audience.
 
-**Ensemble**: A group of actors or performers who work together as a team in a show. Just like a team, each person in an ensemble plays an important part.
+**Suspension of disbelief**: The mental act of choosing to treat a fictional story as if it were real while watching it — a concept named by poet Samuel Taylor Coleridge in 1817. When you know a puppet is cloth on a hand but still gasp when it "falls down," your brain is voluntarily suspending disbelief. This is a sophisticated cognitive process unique to humans and possibly a few great apes.
 
 ## Learning Song
 
@@ -97,50 +97,42 @@ Children create and perform simple character scenes using props, dress-up clothi
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Say: "Today we're going to be actors and tell stories! Actors pretend to be different people and show us how they feel and move. We can be anyone we want — a funny chef, a dancing butterfly, a silly pirate! First, let's watch how actors use their faces and bodies to tell us about their character."
-
-   Demonstrate: Make an exaggerated sad face and slump shoulders. Then brighten up, smile big, and jump. "Same person, different feelings! Actors show us feelings."
+   Explain theater history: "Theater was invented by the ancient Greeks about 2,500 years ago. They built huge outdoor theaters that held 14,000 people — with no microphones! Actors wore masks with open mouths that worked like megaphones to amplify sound. The word 'theater' comes from the Greek word 'theatron,' meaning 'a place for viewing.'" Demonstrate the dramatic arc: "Every story follows a pattern that Aristotle described 2,300 years ago: setup — something normal happens; rising action — a problem appears; climax — the most exciting moment; resolution — the problem is solved." Act out a quick 30-second story following this arc with exaggerated expressions.
 
 2. **Exploration** (8-12 min):
-   - Invite the child to pick a dress-up item: "What do you want to be today?"
-   - As they put on clothing, ask: "What is your character's name? How does your character move? Is your character happy, silly, sleepy, or brave?"
-   - Suggest a simple scene: "Let's say you're a baker making a cake. Show me what you do. Use your face too!"
-   - Other scene ideas: a dancing animal, a superhero, a veterinarian caring for animals, a dancer at a concert
-   - If the child is shy, you be the first actor while they watch, then trade roles
-   - Encourage silly, exaggerated movements and expressions — more animated is better
+   - Invite the child to pick a dress-up item and create a character. Explain theory of mind: "When you pretend to be someone else, your brain is doing something amazing — imagining what another person or creature thinks and feels. Scientists call this theory of mind, and it's one of the most advanced things the human brain can do."
+   - Build a scene using the dramatic arc explicitly: "First, setup — who is your character and where are they? Now rising action — what problem happens? What's the climax — the biggest, most exciting moment? And resolution — how does it end?"
+   - Practice projection: "Put your hand on your belly. Feel that muscle under your ribs? That's your diaphragm. Actors push air from their diaphragm, not their throat, to make their voice carry. Try saying your character's name with a big belly push!"
+   - If the child is shy, demonstrate first — they become the audience practicing suspension of disbelief: "You know I'm not really a pirate, but your brain is choosing to treat the story as real for now. That's called suspension of disbelief."
 
 3. **Discovery** (3-5 min):
-   Ask questions to deepen engagement:
-   - "How did your character feel? Show me with your face."
-   - "What was your character doing? Can you move like that again?"
-   - "If your character had a friend, what would they do together?" (invite ensemble play with stuffed animal)
-   - "Let's do it differently this time — what if your character was very, very tired?"
-
-   Point out: "I noticed you used your arms a lot to show how big and strong your character was. That's what actors do!"
+   Deepen the cognitive science:
+   - "When you showed your character feeling scared, your mirror neurons fired — the same brain cells that activate when you actually feel scared. That's why good acting makes audiences feel real emotions."
+   - "Let's change the dramatic arc: same character, different problem. How does the story change? Notice how the structure stays the same — setup, problem, climax, resolution."
+   - "What if your character meets another character with a different goal? That's conflict — the engine of every story."
 
 4. **Wrap-up** (2-3 min):
-   - Suggest: "Let's give our characters a big bow" (teach simple standing bow with hand across chest)
-   - If multiple scenes happened, say: "You performed so many amazing characters today! Let's clap for ourselves."
-   - Offer: "Next time, we can be even more characters, or act out a story together!"
-   - Transition: Help child remove costume and tidy items back into basket
+   - Practice the theatrical bow: "In ancient Greek theater, actors took a bow to signal the end of suspension of disbelief — 'the story is over, we're back to reality now.'"
+   - Review: "You used theory of mind to imagine your character's feelings, projection to make your voice carry, and the dramatic arc to structure your story. Those are the same skills professional actors use."
+   - Transition: Help child remove costume and tidy items
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep scenes very short (30 seconds) and simple
-- Focus on one character per session (e.g., just being a "happy animal" and moving around)
-- Use your narration to explain what they're doing: "You're dancing! Your character loves to dance!"
-- Don't require verbal performance — movement and facial expression are enough
-- Repeat familiar scenes (same character) because repetition builds confidence
-- Use 1-2 props maximum to avoid overwhelm
+- Keep scenes short (30-60 seconds) following a simple arc: "Something happens, then a problem, then it's solved!"
+- Focus on theory of mind through simple character emotions: "How does the cat feel? Scared? Show me scared. Your brain is imagining what the cat feels — that's theory of mind!"
+- Practice diaphragm breathing for projection: put their hand on their belly and feel it push out when they speak loudly
+- Use simple theater history: "People have been acting out stories for thousands and thousands of years — it's one of the oldest things humans do"
+- Name the suspension of disbelief: "We know this scarf isn't really a cape, but we're pretending it is — our brains are choosing to believe the story"
+- 1-2 props maximum to avoid overwhelm
 
 **3-4+ years**:
-- Expand to multiple scenes and character changes in one session
-- Encourage them to use simple spoken words (child can add dialogue like "I'm baking a cake!" or animal sounds)
-- Introduce "audience" role — take turns performing and watching
-- Ask more open-ended questions about character motivation: "Why is your character angry? What happened?"
-- Suggest simple plotlines: "Your character was sleeping, but then... SURPRISE! Something woke them up! Show me!"
-- Introduce the idea of ensemble: two stuffed animals "acting together" with the child
+- Teach the full dramatic arc explicitly and have them identify each part in their scenes
+- Introduce theater traditions from multiple cultures: Greek amphitheater (masks, 2,500 years ago), Japanese bunraku (puppet theater, 400+ years), Indonesian wayang (shadow puppets projected on a screen using oil lamps), commedia dell'arte (Italian improvised comedy with stock characters like Harlequin)
+- Practice projection technique: diaphragm breathing exercises, and compare whispering (throat) vs. projecting (belly)
+- Explore character motivation: "Why does your character want this? What will happen if they don't get it? That's the dramatic conflict."
+- Create an ensemble scene with multiple characters whose goals conflict — "The cat wants the fish, but the dog is guarding it. How does this resolve?"
+- Introduce the concept of protagonist (the main character whose problem we follow) and antagonist (the force creating the problem)
 
 ### Extension Ideas
 

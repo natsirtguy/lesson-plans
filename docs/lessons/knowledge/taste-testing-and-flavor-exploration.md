@@ -6,13 +6,13 @@ Taste testing and flavor exploration is a sensory-rich activity where children d
 
 ## Vocabulary
 
-**Palate**: The roof of your mouth, but also the word we use for your ability to taste and enjoy different flavors. "You have a wonderful palate - you enjoy trying so many different foods!"
+**Gustatory papillae**: The tiny bumps on your tongue that contain taste buds — each bump holds 50-100 taste receptor cells. Your tongue has about 10,000 taste buds total, and each one lives only about two weeks before being replaced by a new one. Children actually have more taste buds than adults, which is one reason strong flavors can seem overwhelming to young eaters.
 
-**Sensory**: Something you experience through your senses like taste, touch, smell, sight, and hearing. "Tasting food is a sensory experience - we use our tongue and nose to discover flavors."
+**Five basic tastes**: The five categories your taste receptors can detect — sweet (sugars, energy source), salty (sodium, electrolyte balance), sour (acids, spoilage warning), bitter (potential toxins, protection), and umami (savory/meaty flavor from glutamate, discovered by Japanese chemist Kikunae Ikeda in 1908). Every flavor you experience is a combination of these five plus smell.
 
-**Savor**: To taste something slowly and enjoy it completely, paying close attention to the flavors. "Let's savor this apple and notice how sweet it tastes."
+**Olfactory system**: The smell-detecting system in your nose that contributes up to 80% of what we call "flavor." When you chew food, volatile molecules float up through the back of your throat to olfactory receptors in your nasal cavity — about 400 different receptor types that can distinguish over one trillion smell combinations. This is why food tastes bland when your nose is stuffed up.
 
-**Texture**: How something feels in your mouth - whether it's crunchy, smooth, creamy, chewy, or soft. "This banana has a smooth, creamy texture, but the cracker is crunchy."
+**Taste receptor**: A specialized cell on your tongue that detects specific molecules in food. Sweet receptors respond to sugar molecules that fit into them like a key in a lock. Bitter receptors can detect thousands of different compounds — humans evolved more bitter receptors than any other type because detecting potential poisons was critical for survival.
 
 ## Learning Song
 
@@ -102,16 +102,16 @@ In this hands-on activity, children taste and compare 4-6 different safe flavors
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Introduce the activity with enthusiasm: "Today we're going on a flavor adventure! We're going to taste different flavors and discover which ones we like best." Show how to take a small taste, chew slowly, and think about what it tastes like. Set expectations: "There are no wrong answers - everyone's mouth is different, and that's perfect!"
+   Explain the science: "Your tongue is covered in tiny bumps called gustatory papillae — each one has up to 100 taste receptor cells inside. Children have about 10,000 taste buds — more than adults! Today we're going to test all five basic tastes that scientists have discovered: sweet, salty, sour, bitter, and umami." Show how to take a small taste, chew slowly, and think about what the receptors are detecting. Before starting, try the nose-pinch test: "Hold your nose and taste this apple. Now let go. Notice how much more flavor you get? That's your olfactory system — about 80% of what we call 'flavor' actually comes from smell, not taste."
 
 2. **Exploration** (5-10 minutes):
-   Present flavors one at a time, starting with the mildest (soft fruit, mild cheese, plain cracker). For each taste, ask: "What does this taste like? Is it sweet, salty, or creamy?" Encourage slow tasting and description. Between each flavor, offer a sip of water to cleanse the palate. Observe reactions and allow children to skip any flavor they don't want to try.
+   Present flavors one at a time, identifying which of the five basic tastes each one triggers. Sweet (apple): "Your sweet receptors are detecting sugar molecules — these receptors evolved to help us find energy-rich foods." Salty (cracker or cheese): "Salt receptors detect sodium, which your body needs for nerve signals and muscle movement." Sour (yogurt or lemon): "Sour means acid — your tongue evolved to notice acids because they can mean food is spoiled." Bitter (dark leafy green or unsweetened cocoa): "Bitter receptors are your body's poison detectors — you have more bitter receptors than any other type because detecting toxins kept our ancestors alive." Umami (tomato, mushroom, or parmesan): "This is umami — the savory taste discovered by Kikunae Ikeda in 1908. Your receptors are detecting glutamate, an amino acid found in proteins." Between each taste, sip water to reset the taste receptors.
 
 3. **Discovery** (3-5 minutes):
-   Ask guiding questions: "Which flavor did you like best?" "Is this sweeter than the apple or not as sweet?" "Does this feel crunchy or smooth in your mouth?" Help children compare flavors and notice textures. Celebrate all exploration: "You were such a great flavor explorer!"
+   Explore combinations: "What happens when sweet and sour mix?" (Try apple with a drop of lemon.) Identify which foods trigger multiple taste receptors simultaneously. Test different areas of the tongue: "Scientists used to think different parts of the tongue tasted different things, but now we know taste buds for all five tastes are spread across the whole tongue." Compare textures as a separate sensory channel: "Texture is detected by mechanoreceptors — pressure sensors — not taste buds."
 
 4. **Wrap-up** (2-3 minutes):
-   Reflect together: "What was your favorite flavor we tried today?" Mark favorite flavors on a simple chart if desired. Make cleanup interactive and praise cooperation. Transition: "Our taste buds worked hard today!"
+   Classify everything tasted by which of the five basic tastes it triggered. Discuss: "Most real foods activate multiple receptor types at once — that's why flavors are so complex." Revisit the olfactory connection: "Remember, your 400 types of smell receptors combine with your 5 taste types to create the millions of flavors you can experience."
 
 ### Flavor Ideas by Category
 
@@ -128,10 +128,10 @@ In this hands-on activity, children taste and compare 4-6 different safe flavors
 ### Age Adaptations
 
 **2-3 years**:
-Keep flavor selection very mild and familiar (soft fruits, mild cheese, plain crackers). Use only 3-4 flavors maximum. Offer very small portions to build confidence. Focus on textures (soft, crunchy, creamy) as much as tastes. Provide high adult support - serve samples, assist with utensils, offer lots of verbal encouragement.
+Keep flavor selection mild and familiar (soft fruits, mild cheese, plain crackers). Use only 3-4 flavors covering three basic tastes (sweet, salty, sour). Pair simple language with real terms: "That's sweet — your taste receptors are detecting sugar!" Try the nose-pinch test — it works dramatically well with this age. Focus on the five basic tastes as a sorting framework: "Is this sweet or salty? Your tongue knows!" Touch the gustatory papillae: "Feel those bumps? Those are where your taste buds live."
 
 **3-4+ years**:
-Increase flavor variety and include more contrasts (sweet vs. sour vs. salty). Introduce flavor vocabulary more formally and ask detailed questions: "Does it remind you of anything else you've tasted?" Let children independently serve samples (with supervision). Create complex comparisons: "Is this sweeter than the apple?" Explore cultural flavors from different countries and traditions.
+Introduce all five basic tastes explicitly, including umami (parmesan cheese, tomato, mushroom). Create a taste map chart where children classify each food by which receptors it activates. Explore why we evolved each taste preference: "Why do humans like sweet things? Because sugar = energy, and our ancestors needed to find energy to survive." Discuss supertasters (people with extra papillae who taste bitter more intensely). Try the olfactory experiment with multiple foods. Introduce the concept of flavor pairing: why do certain combinations work? (Salt enhances sweet by suppressing bitter receptors.) Compare gustatory systems across species: catfish have 175,000 taste buds covering their entire body; butterflies taste with their feet.
 
 ### Extension Ideas
 

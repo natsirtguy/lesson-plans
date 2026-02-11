@@ -4,6 +4,16 @@
 
 Hand-eye coordination games develop the critical connection between what children see and what their hands can do. These games involve tracking moving objects, aiming, and timing hand movements to interact with targets or objects. Building strong hand-eye coordination during ages 2-4 creates the foundation for writing, sports, self-care skills, and countless daily activities.
 
+## Vocabulary
+
+**Visual cortex**: The part of the brain at the back of your head (occipital lobe) that processes everything you see. When tracking a ball, light enters your eye, hits the retina, and sends signals through the optic nerve to the visual cortex — specifically areas V1 through V5. Area V5 (also called MT) specializes in detecting motion, which is why you can track a moving ball without thinking about it. The visual cortex processes this information in about 150 milliseconds.
+
+**Cerebellum**: The brain structure at the base of your skull that contains 50% of all your brain's neurons despite being only 10% of its size. The cerebellum predicts where a moving object will be in the future — when you catch a ball, your cerebellum calculates its speed, direction, and the effects of gravity to predict the intercept point. It also corrects errors in real-time: each missed catch provides error data that the cerebellum uses to improve the next attempt.
+
+**Binocular vision**: The ability to see depth because your two eyes are spaced apart and see slightly different images. Your brain combines these two images (binocular fusion) to calculate how far away objects are — this is called stereopsis. Depth perception is essential for hand-eye coordination because you need to know exactly how far away a ball is to time your catch. Close one eye and try catching — it becomes much harder because you've lost stereopsis.
+
+**Motor planning**: The brain's process of programming a movement before executing it — coordinated by the premotor cortex and supplementary motor area. Before you throw a ball, your brain calculates the required force, angle, timing, and which of the 34 hand muscles to activate in what sequence. The gap between seeing a target and releasing the ball involves visual cortex → parietal cortex (spatial mapping) → premotor cortex (planning) → primary motor cortex (execution) — all in a fraction of a second.
+
 **Activity Type**: Motor skill development
 
 **Duration**: 10-20 minutes (with natural breaks)
@@ -70,14 +80,14 @@ Hand-eye coordination games develop the critical connection between what childre
 **Purpose**: Prepare eyes and hands to work together; get child ready to focus on targets
 
 **Warm-up activities**:
-1. Follow the leader - Adult moves hands slowly and child copies (large arm circles, hand waves)
-2. Track the ribbon - Adult slowly moves a scarf or ribbon and child watches and reaches
-3. Hand claps - Slow clapping together while singing a simple song
+1. Visual tracking warm-up — Adult moves a finger slowly, then faster, in different patterns while child follows with their eyes only (not head). "Your visual cortex area V5 is tracking the motion — the same brain area that will track the ball."
+2. Track the ribbon — Move a scarf and have child reach for it. "Your brain is doing three things at once: your visual cortex sees the ribbon, your cerebellum predicts where it's going, and your motor cortex tells your arm to reach there."
+3. Depth perception test — Hold up one finger close, then far. "Your two eyes see slightly different images — your brain combines them to calculate distance. That's binocular vision, and you'll need it for every throw and catch today."
 
 **Warm-up cues**:
-- "Watch my hands and do what I do!"
-- "Can you follow this colorful ribbon with your eyes?"
-- "Let's warm up our hands - clap, clap, clap!"
+- "Follow the ribbon with your eyes — your visual cortex is warming up, building the tracking speed you'll need for catching."
+- "Clap your hands together — that's hand-eye coordination! Your eyes see where your hands are, and your motor cortex times the clap perfectly."
+- "Close one eye and try to touch my finger. Harder, right? That's because you lost binocular vision — depth perception from two eyes."
 
 ### Main Activity (8-15 minutes)
 
@@ -96,11 +106,11 @@ Hand-eye coordination games develop the critical connection between what childre
 4. **Putting it together** - Drop, roll, or throw toward target while watching
 
 **Coaching cues**:
-- "Keep your eyes on the ball!"
-- "Hands ready - now let it go!"
-- "Watch where it lands - good job!"
-- "Your hands did exactly what your eyes told them to do!"
-- "Try again - you're getting closer!"
+- "Keep your eyes on the ball — your visual cortex area V5 is tracking it, and your cerebellum is predicting where it will be next!"
+- "Before you throw, your premotor cortex is planning the entire movement — angle, force, timing. Motor planning happens before the throw even starts."
+- "Watch where it lands — your cerebellum just got error data! It's comparing where the ball went versus where you aimed. The next throw will be more accurate because of that feedback."
+- "Use both eyes — your binocular vision calculates depth by comparing the slightly different images from each eye. That's how you know exactly how far away the target is."
+- "Each try strengthens the neural pathway between your visual cortex and motor cortex — the connection literally gets faster with practice through myelination."
 
 #### Guided Play/Game (4-8 minutes)
 
@@ -160,12 +170,12 @@ Let child experiment with movements - rolling, tossing, dropping from different 
 **Purpose**: Slow heart rate and transition from active play to calmer activity
 
 **Cool-down activities**:
-1. Slow ball roll - Adult and child gently roll ball back and forth on floor
-2. Breathing exercise - Hold ball, take deep breath, slowly release (repeat 3 times)
-3. Gentle stretches - Reach arms up, then down slowly while child watches
+1. Slow ball roll — "Roll the ball back and forth slowly. Your cerebellum is still working — predicting the ball's path and planning your hand position. Even slow rolling requires visual cortex → cerebellum → motor cortex coordination."
+2. One-eye vs. two-eye test — Roll the ball with one eye closed, then both open. "Notice the difference? With one eye, you lost stereopsis — your depth perception. Two eyes give your brain the binocular data it needs to judge distance accurately."
+3. Gentle arm and hand stretches — "Your forearm flexors and extensors did a lot of work today. These muscles connect to your fingers through tendons — when you gripped and released the ball, these muscles contracted and relaxed hundreds of times."
 
 **Transition**:
-"Great job using your eyes and hands to play! Now we're going to rest. Let's put the ball down gently and stretch..."
+"Your visual cortex, cerebellum, and motor cortex built stronger connections today. Every throw and catch added myelin to those neural pathways, making the signals faster. That's why hand-eye coordination improves with practice — your brain literally rewires itself."
 
 ## Age Adaptations
 

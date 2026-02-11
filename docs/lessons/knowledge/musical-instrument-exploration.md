@@ -6,13 +6,13 @@ Musical instrument exploration invites children to discover how different object
 
 ## Vocabulary
 
-**Vibration**: The shaking movement that travels through objects to create sound—when you tap a drum or shake a rattle, the vibration is what makes the sound you hear.
+**Frequency**: How fast something vibrates, measured in hertz (Hz) — vibrations per second. A deep drum boom might vibrate at 100 Hz (100 vibrations per second), while a tiny bell might vibrate at 2,000 Hz. Higher frequency = higher pitch. When you tighten a drum skin, it vibrates faster and the pitch goes up — same principle as tightening a guitar string.
 
-**Rhythm**: A repeating pattern of sounds or beats that creates a musical pattern—like tap-tap-tap-tap or slow-slow-fast-fast.
+**Amplitude**: How big the vibration is — which determines how loud the sound is. When you hit a drum hard, the drum skin moves a greater distance back and forth (larger amplitude), pushing more air molecules, creating a louder sound. Hit it gently and the skin barely moves (small amplitude) — quieter sound. Same frequency, different amplitude.
 
-**Resonance**: The way sound bounces and fills up the space around us, making it richer and fuller—a big drum resonates more deeply than a small bell.
+**Sound wave**: What actually travels from an instrument to your ear — a compression wave moving through air. When a drum skin pushes outward, it squeezes the air molecules in front of it (compression); when it pulls back, it creates a gap (rarefaction). These alternating compressions and rarefactions travel through the air at about 343 meters per second (767 mph) until they reach your eardrum, which vibrates in the same pattern.
 
-**Percussion**: Musical instruments that you tap, shake, strike, or scrape to make sound—drums, shakers, bells, and cymbals are all percussion instruments.
+**Timbre**: Why a drum and a bell sound different even when playing the same note — pronounced "TAM-ber." Every instrument produces a fundamental frequency plus additional frequencies called overtones or harmonics. The unique mixture of overtones is what gives each instrument its distinctive sound. Wood, metal, and skin all produce different overtone patterns because their molecular structures vibrate differently.
 
 ## 🎵 Learning Song
 
@@ -102,16 +102,16 @@ Children discover how different objects create sounds and rhythms through hands-
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Play a short, interesting sound on one instrument (e.g., shake a maraca gently) and ask "What made that sound?" to spark curiosity. Show a few different instruments without words first—let the child's eyes follow your movements. Invite excitement: "We're going to discover how things can make sounds!" Explain simply: "We can make sounds with all of these together. Your job is to explore and listen."
+   Start with the fundamental physics: "Every sound you hear is a vibration — something moving back and forth, pushing air molecules into a compression wave that travels to your ear at 343 meters per second." Demonstrate: strike a drum and touch the skin to feel the vibration. "See how the drum skin is shaking? Those vibrations push the air molecules, which push the next air molecules, all the way to your eardrum." If you have a shaker with visible contents, show the internal collisions creating vibrations.
 
 2. **Exploration** (5-10 min):
-   Hand the child one instrument at a time and observe what naturally happens (shaking, striking, waving). Notice if the child transfers shakers between hands, experiments with different movements, or creates patterns. Comment on what you hear: "That's a wonderful tinkling sound!" or "I hear fast and slow shaking." This is free exploration—let the child lead.
+   Hand the child one instrument at a time. For each, explain the physics. Drum: "When you hit harder, the skin moves farther — that's a bigger amplitude, which means a louder sound. Same frequency, more energy." Shaker: "Every time a seed hits the inside wall, it creates a tiny vibration. Hundreds of collisions per second create the sound." Bell: "Metal vibrates at a very high frequency — thousands of vibrations per second — which is why bells sound high-pitched." Compare: strike a drum and ring a bell. "The drum vibrates slowly (low frequency, low pitch), the bell vibrates fast (high frequency, high pitch)."
 
 3. **Guided Discovery** (3-5 min):
-   Gently introduce technique and sound variation. Demonstrate different ways to play one instrument: shake softly, shake hard, tap versus shake. Ask child to try: "Can you make a soft sound? Now a loud sound?" Move around the space with instruments: walk and shake, dance and play, sit and tap. Introduce rhythm words: "Let's make a slow... slow... beat" (demonstrate tapping slowly on the drum).
+   Explore amplitude: "Hit the drum softly, then hard. Same pitch but different amplitude — your ear detects the bigger sound wave as louder." Explore timbre: "Hit a wooden block and a metal pot with the same spoon. Both vibrate, but they sound completely different — that's timbre, the unique mixture of overtones each material produces. Wood absorbs high overtones; metal rings with many overtones at once." Try frequency changes: press down on the drum skin while striking to tighten it — pitch goes up. "Tighter = faster vibration = higher frequency."
 
 4. **Creative Expression** (remaining time):
-   Stand back and observe as the child chooses instruments and combines them in their own way. If the child wants to "perform" for you, be an engaged audience—clap, dance slightly, smile. Offer optional challenges if they seem ready: "Can you make this sound louder?" or "Can you play two instruments at once?"
+   Let the child choose instruments and combine them freely. Point out the physics they're demonstrating: "You're playing soft then loud — changing the amplitude! And switching between drum and bell — changing the timbre!" If they create patterns, name the rhythm: "That's a steady beat — your auditory cortex loves patterns like that. Rhythmic patterns activate the motor cortex too, which is why you want to move when you hear music."
 
 5. **Wrap-Up** (2-3 min):
    Signal ending gently: "Let's do a few final sounds together" or "Let's make one more special sound." Gather instruments gradually, perhaps asking the child to place them in a basket. Sit together and listen to one final favorite sound or rhythm. Reflect: "What was your favorite sound today?" or "Which one was the loudest?"
@@ -119,10 +119,10 @@ Children discover how different objects create sounds and rhythms through hands-
 ### Age Adaptations
 
 **2-3 years**:
-Offer only 3-4 instruments at first to avoid overwhelming. Choose instruments with strong, clear feedback (drums, large shakers, bells). Demonstrate more frequently—this age learns by imitation. Keep exploration time longer and guided instruction shorter. Focus on shaking and striking rather than complex technique. Play alongside the child rather than as an audience. Keep duration to 15-20 minutes maximum with frequent breaks.
+Offer only 3-4 instruments with strong, clear physics. Drum: "Feel the vibration with your hand on the skin — that's the sound wave being born." Shaker: "Hear the seeds hitting? Each collision is a tiny sound wave." Focus on the amplitude concept (loud vs. quiet) — this is the most tangible physics for this age. Touch the drum skin during and after striking to feel vibrations start and stop. Compare two clearly different pitches (big drum vs. small bell): "Big things vibrate slowly — low sound. Small things vibrate fast — high sound." Keep to 15-20 minutes with frequent breaks.
 
 **3-4+ years**:
-Introduce rhythm patterns (clap-tap-shake-clap). Offer more instruments and encourage combination play. Ask questions about preferences: "Which makes the nicest sound?" Introduce simple music vocabulary: "That's a high sound, that's a low sound." Encourage the child to "teach" you how to play an instrument. Create simple call-and-response patterns: You play a pattern, child repeats. Extend duration to 20-30 minutes as this age can sustain longer engagement.
+Introduce frequency explicitly: "Fast vibrations = high pitch, slow vibrations = low pitch. A hummingbird's wings beat 80 times per second — that's 80 Hz, and you can hear the hum!" Compare timbre across materials systematically: strike wood, metal, plastic, and skin with the same mallet and sort by sound quality. Explain overtones: "A bell rings with many frequencies at once — the fundamental note plus overtones. That's why it shimmers." Build a simple xylophone from glasses filled to different water levels — more water = lower frequency because the heavier glass vibrates more slowly. Create rhythm patterns and name the meter: "That's 4/4 time — four beats per measure, which is the most common pattern in music worldwide." Duration: 20-30 minutes.
 
 ### Extension Ideas
 
