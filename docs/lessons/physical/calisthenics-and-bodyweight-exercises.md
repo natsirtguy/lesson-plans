@@ -14,6 +14,16 @@ Calisthenics and bodyweight exercises are simple, natural movements using just t
 
 **Space Required**: 10x10 feet minimum (larger is better for running space)
 
+## Vocabulary
+
+**Quadriceps and hamstrings** (KWOD-rih-seps / HAM-strings): The two major muscle groups on the front and back of your thigh that work as an *antagonist pair* — when one contracts (shortens), the other relaxes (lengthens). Quadriceps (four muscles on the front) straighten your knee (extension); hamstrings (three muscles on the back) bend your knee (flexion). During a squat, your quadriceps control the lowering (eccentric contraction — muscle lengthens under load) and power the standing up (concentric contraction — muscle shortens). Your brain's motor cortex must coordinate both sides of the pair simultaneously.
+
+**Bodyweight leverage** (LEV-ur-ij): How the position of your body changes how hard your muscles must work, without adding any external weight. A wall push-up is easier than a floor push-up because the angle reduces how much of your body weight your muscles must push. This is physics: your body acts as a *lever*, and changing the angle changes the *moment arm* (the distance between the force and the pivot point). The steeper the angle, the more gravity resists your muscles. Calisthenics uses this principle to increase difficulty progressively — same body, harder angles.
+
+**Motor cortex** (MOH-ter KOR-teks): The strip of brain along the top of your head that sends electrical signals to your muscles, telling them when and how hard to contract. It contains a *motor map* (called a homunculus) where different areas control different body parts — your hand area is disproportionately large because hands require more precise control. When you practice a movement repeatedly, the motor cortex dedicates more neurons to that movement and wraps myelin around the nerve pathways, making signals faster and more accurate. This is the neuroscience of "practice makes perfect."
+
+**Core muscles** (KOR): The group of muscles that wrap around your torso and stabilize your spine: *transverse abdominis* (deepest layer, wraps around like a corset), *rectus abdominis* (the "six-pack" muscle on the front), *obliques* (on the sides, two layers — internal and external), and *erector spinae* (three muscles running up your back). Together, these muscles form a cylinder of support around your spine. Every calisthenics movement requires core activation because the core transfers force between your upper and lower body — without it, your movements would be floppy and uncontrolled.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -88,33 +98,31 @@ Calisthenics and bodyweight exercises are simple, natural movements using just t
 
 **Skill breakdown** (introduce one at a time):
 
-**Movement 1: Standing Tall**
+**Movement 1: Standing Tall (Core Activation)**
 - Stand with feet about shoulder-width apart
-- Keep body straight from head to toes
-- Gentle engagement of core (without saying technical words)
-- Practice: "Stand as tall as a giraffe!" then "Make yourself smaller like a penguin"
+- "Tighten your core — your transverse abdominis wraps around your belly like a corset. Your rectus abdominis is the front wall. Your erector spinae runs up your back. Together they hold your spine straight."
+- Practice: "Stand as tall as a giraffe! Feel your core muscles working — they're stabilizing your entire skeleton."
 
-**Movement 2: Squats (Assisted)**
-- Start in standing position
-- Adult holds child's hands or child holds onto furniture
-- Bend knees slightly, lowering body a few inches
-- Return to standing
-- Practice: "Sit back like you're sitting in a chair, then stand back up!"
+**Movement 2: Squats (Quadriceps and Hamstrings)**
+- Start standing; adult holds hands or child holds furniture
+- "When you bend your knees, your quadriceps — four muscles on the front of your thigh — are doing an eccentric contraction: they're getting longer while working hard. When you stand back up, they do a concentric contraction: shortening to push you upward."
+- "Your hamstrings on the back of your legs are the antagonist pair — they bend your knees."
+- Practice: "Sit back like a chair — your quadriceps are lowering you against gravity!"
 
-**Movement 3: Marching with High Knees**
-- March in place, lifting knees up high
-- Arms move naturally with each step
-- Practice: "Lift your knees high! Step, step, step!"
+**Movement 3: Marching with High Knees (Hip Flexors)**
+- March in place, lifting knees high
+- "Your hip flexors — the iliopsoas muscles — are pulling your thigh up toward your chest. Your quadriceps straighten the knee. Your arms swing naturally: right arm with left leg — that's cross-lateral coordination using both brain hemispheres."
+- Practice: "Lift those knees! Iliopsoas muscles working hard!"
 
-**Movement 4: Arm Movements**
-- Reach arms up high toward ceiling
-- Sweep arms out to sides
-- Practice: "Stretch up to the sky! Now stretch out wide!"
+**Movement 4: Arm Raises (Deltoids and Leverage)**
+- Reach arms up high toward ceiling, sweep out to sides
+- "Your deltoid muscles — three sections on each shoulder — are lifting your arms against gravity. Arms straight out to the side is harder than arms down because of leverage: the weight is farther from the shoulder joint, increasing the moment arm."
+- Practice: "Arms up — feel your deltoids working? Now hold them out to the side — that's harder because of leverage!"
 
 **Coaching cues**:
-- "Keep your body tight and straight - like a strong tree!"
-- "Move slowly and controlled - you're stronger when you go slower"
-- "I can see your muscles working! That's strength!"
+- "Your motor cortex is sending electrical signals to every muscle — the more you practice, the more myelin wraps around those nerve pathways, making signals faster."
+- "Slow squats are harder because your quadriceps must maintain tension longer — that's called time under tension."
+- "Your core muscles are working in every exercise — they're the foundation that connects upper and lower body."
 
 #### Guided Play/Game (4-6 minutes)
 
@@ -168,40 +176,37 @@ Calisthenics and bodyweight exercises are simple, natural movements using just t
 ### 2-3 years
 
 **Modifications**:
-- Movements should be gentle and more supported
-- Adult provides hand-holding support for balance and stability
-- Keep movements very simple - single movements, not combinations
-- Use much more playful language and storytelling
-- Shorter work periods with more frequent breaks
-- Focus on body awareness rather than repetition
-- Don't worry about form - celebrate any attempt to move
+- Single movements with muscle naming: "Your quadriceps are bending! Your deltoids are lifting!"
+- Adult provides hand-holding support for squats and balance
+- Focus on body part identification: touch the muscle that's working — "Feel your quadriceps tighten when you squat? Right here on the front of your thigh."
+- Keep playful: "Squat like a frog — frogs have enormous quadriceps relative to their body size, which is why they jump so far!"
+- Shorter work periods (1-2 minutes per movement) with breaks
+- Name the motor cortex: "Your brain is sending signals to your muscles right now!"
 
 **Duration**: 8-12 minutes (including warm-up and cool-down)
 
 **Adult support**:
-- Hands-on support for balance during squats and movements
-- Constant verbal encouragement and enthusiasm
-- Modeling every movement
-- Frequent check-ins for fatigue or overstimulation
+- Hands-on support for balance; model every movement
+- Name one muscle per exercise so the child starts associating body sensations with anatomy
+- Celebrate attempts: "Your motor cortex is building new pathways — every try makes the signals faster"
 
 ### 3-4+ years
 
 **Challenges to add**:
-- Introduce longer sequences: "squat, then reach up, then march"
-- Add repetitions: "Do 5 squats together, let's count!"
-- Include balance challenges: "Can you stand on one foot?"
-- Add variations: "Do squats slowly, now do them fast"
-- Introduce gentle jump squats (for older 3.5+) - land softly with both feet
-- Create more complex games with multiple rules
-- Encourage child to suggest movements to do together
+- Introduce sequences with muscle narration: "Squat (quadriceps), reach up (deltoids), march (iliopsoas)"
+- Count repetitions: "5 squats — that's 5 eccentric and 5 concentric contractions for your quadriceps!"
+- One-foot balance: "Your core muscles — transverse abdominis, obliques, erector spinae — are all firing to keep you upright on a tiny base of support"
+- Wall push-ups to teach leverage: "Try pushing against the wall (easy) then pushing from a lower angle (harder). Same muscles, same body weight — but the angle changes the leverage."
+- Compare slow vs. fast squats: "Slow = more time under tension = harder for your muscles"
+- Introduce the antagonist pair concept explicitly: "Quadriceps and hamstrings take turns — one works, one rests"
+- Jump squats (3.5+): "Your quadriceps do a concentric contraction so fast they launch you off the ground — that's explosive power using fast-twitch muscle fibers"
 
-**Duration**: 12-15 minutes (children this age can sustain longer focus)
+**Duration**: 12-15 minutes
 
 **Advanced extensions**:
-- Teach proper form for movements like push-ups against wall
-- Introduce body awareness cues: "Feel your leg muscles working!"
-- Create longer movement sequences: 5-6 different movements in order
-- Partner exercises with other children (when appropriate)
+- Teach proper wall push-up form with pectoralis major (chest) and triceps (back of upper arm) identification
+- Create a "muscle map": point to each muscle group worked during the session
+- Introduce the concept of progressive overload: "To get stronger, we make exercises slightly harder over time — deeper squats, steeper push-up angle, longer holds"
 
 ## Parent/Caregiver Notes
 

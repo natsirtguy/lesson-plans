@@ -6,13 +6,13 @@ Children explore the art of paper folding, tearing, and transforming paper into 
 
 ## Vocabulary
 
-**Transform**: To change the shape or form of something into something different. When you fold a flat sheet of paper into a paper boat, you transform it from a simple rectangle into a floating object.
+**Cellulose** (SEL-yoo-lohs): The long, strong molecule that makes up plant cell walls — and paper. Paper is made from wood pulp: trees are broken down into millions of tiny cellulose fibers, then pressed flat and dried into sheets. When you tear paper, you're actually ripping apart a mat of tangled cellulose fibers. Tearing along the *grain* (the direction most fibers are aligned) is easier than tearing across it — try tearing a newspaper both ways to feel the difference.
 
-**Crease**: A line made by folding something. When you press your finger firmly along a fold line in paper, you make a crisp crease that helps hold the shape you're creating.
+**Bisect** (by-SEKT): To divide something exactly in half. When you fold a piece of paper corner to corner, you bisect the angle — splitting a 90-degree square corner into two equal 45-degree angles. Origami is built on precise bisection: each fold divides angles and lengths into exact halves, which is why folded shapes come out symmetrical. Mathematicians have proven you can bisect any angle with a single paper fold.
 
-**Layer**: To place one thing on top of another, building up thickness or depth. In collage, you layer different colored paper pieces on top of each other to create depth and interest.
+**Symmetry** (SIM-uh-tree): When one side of something is a mirror image of the other. A fold line creates an *axis of symmetry* — everything on the left matches everything on the right. Butterflies, human faces, and snowflakes all have symmetry. In origami, one fold creates bilateral symmetry (two matching halves); multiple folds can create radial symmetry (like a paper snowflake, identical in every direction from the center).
 
-**Origami**: The Japanese art of folding paper into decorative shapes and figures without cutting or pasting the paper. A paper crane or paper boat are classic examples of origami.
+**Geometry** (jee-OM-uh-tree): The branch of mathematics that studies shapes, angles, and spatial relationships. Origami is applied geometry — every fold creates geometric shapes (triangles, rectangles, diamonds). A square folded in half diagonally creates two congruent right triangles. The word comes from Greek: *geo* (earth) + *metron* (measurement). Japanese mathematician Kazuo Haga proved that a single fold on a square piece of paper can demonstrate dozens of geometric theorems.
 
 ## Learning Song
 
@@ -98,42 +98,40 @@ In this hands-on experience, children will fold, tear, and manipulate paper to c
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 minutes):
-   Hold up colorful paper and comment: "Look at all these beautiful papers! We can fold them, tear them, and stick them together to make something new." Show a simple pre-made example like a folded paper fan or bird shape. Explain that there is no "right way" to make paper crafts—each creation is unique and special. Emphasize that the fun is in the making, not just the finished product.
+1. **Introduction — What Is Paper?** (2-3 minutes):
+   Hold up a sheet of paper and explain: "This paper is made from trees. Trees are built from a molecule called cellulose — millions of tiny fibers pressed flat and dried. That's why paper tears!" Demonstrate tearing paper along the grain vs. across it: "See how it tears more easily this direction? That's because the cellulose fibers are mostly lined up this way — we call that the *grain*." Show a pre-made origami example: "People have been folding paper for over 1,000 years. It started in Japan and China. Every fold uses geometry — the math of shapes and angles."
 
-2. **Exploration Phase** (5 minutes):
-   Start with free exploration before structured folding. Give each child a piece of paper to fold, tear, and crumple. Observe their discoveries and comment on actions: "You're folding the paper in half! That makes it smaller" and "I hear that tearing sound! The paper comes apart." Allow sensory exploration—this is learning about material properties. Let them hear the sounds and feel the textures.
+2. **Exploration Phase — Cellulose and Fiber Direction** (5 minutes):
+   Give each child paper to fold, tear, and crumple. Guide their attention to the material science: "Crumple it up — hear that sound? That's cellulose fibers bending and breaking. Now try to flatten it — the creases stay because the fibers remember where they bent." Have them tear paper both directions to feel the grain. Try different paper types (construction paper, tissue paper, newspaper): "Tissue paper has shorter, looser cellulose fibers — that's why it tears so easily. Construction paper has longer, denser fibers — harder to tear."
 
-3. **Guided Folding** (8-10 minutes):
-   Choose ONE simple project (e.g., paper boat or simple hat) and demonstrate each fold clearly. Narrate as you go: "I'm bringing this corner to meet this corner." Have the child copy your movements using simple language like "Fold it like a sandwich" or "Make a crease like this." Offer hand-over-hand assistance if needed. Celebrate each successful fold, even if it's not perfect. For a paper boat: start with a rectangle held horizontally, fold in half lengthwise then unfold, fold top two corners down to meet at center line, fold top edge up, fold opposite bottom edge up and over, then gently pull inside corners to open the boat.
+3. **Guided Folding — Geometry in Action** (8-10 minutes):
+   Choose ONE simple project and narrate the geometry: "Watch — I'm folding corner to corner. That bisects the square. Now we have two triangles. Each corner angle went from 90 degrees to 45 degrees — we split it exactly in half." Have the child copy your movements. Point out symmetry: "Open it back up — see the crease line? That's an axis of symmetry. Everything on the left matches the right." For a paper boat: "First we fold the rectangle in half — that's a bisection. Now fold the top corners down to meet the center line — those are two identical right triangles. Each fold creates new geometric shapes." Offer hand-over-hand assistance. Celebrate each fold.
 
-4. **Decoration and Personalization** (3-5 minutes):
-   Once the basic fold is complete, offer decorating options: draw faces or patterns, add stickers or googly eyes, write their name, or paint with washable paint. This gives children ownership and creativity within the structured activity.
+4. **Decoration and Discovery** (3-5 minutes):
+   While decorating, explore more concepts: "Let's fold this paper in half and cut a shape — when you open it, both sides will be symmetrical because we cut through both layers at once." If making a paper snowflake: "We fold multiple times to create radial symmetry — the pattern repeats around a center point, just like a real snowflake crystal." Let children decorate with crayons, stickers, or paint.
 
 5. **Wrap-Up and Celebration** (2 minutes):
-   Display finished creations where the child can see them. Gather together and invite each child to show their work and describe it. Ask open-ended questions: "Tell me about what you made" or "What was your favorite part?" Take photos of each creation for documentation. Transition to cleanup as a game: "Let's put all the paper scraps in the trash" and "Can you find all the scissors?"
+   Display creations and review: "You used geometry today — folding angles in half (bisection), creating symmetry, making triangles from rectangles. And you did it all with cellulose fibers from trees." Ask: "What shapes can you see in your creation?" Take photos for documentation.
 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on sensory exploration and simple actions (folding, tearing, gluing)
-- Pre-cut paper into child-sized pieces to reduce frustration
+- Focus on cellulose exploration: tearing (fiber direction), crumpling (fiber memory), and simple one-fold bisections
+- Pre-cut paper into child-sized pieces; use thicker paper (cardstock) for easier folding
+- Emphasize the grain direction experiment — tearing both ways is fascinating at this age
 - Offer glue sticks instead of liquid glue for easier control
-- Skip traditional origami and focus on free-form paper manipulation
-- Provide shorter, wider materials that are easier to handle
-- Offer hand-over-hand assistance with folding and gluing
-- Keep activities under 10-15 minutes to maintain attention
-- Use thicker, more durable paper (like cardstock or watercolor paper)
+- Demonstrate single folds and point out the symmetry: "Both sides match!"
+- Hand-over-hand assistance with folding; celebrate the crease line as geometry
+- Keep activities under 10-15 minutes; focus on material discovery over finished products
 
 **3-4+ years**:
-- Introduce simple origami: paper airplane, paper boat, jumping frog (with demonstration)
-- Teach folding in specific patterns to create predictable results
-- Challenge children to combine multiple techniques in one creation
-- Encourage planning: "What will you make today?"
-- Offer more sophisticated decorating options: sequins, stickers, yarn
-- Support collaborative projects: one large creation made together
-- Create paper collages by tearing and layering colored papers
-- Extend duration to 15-20 minutes with multiple projects possible
+- Introduce simple origami with explicit geometry narration: paper airplane (angle of attack affects flight — aerodynamics), paper boat (hull shape and buoyancy), jumping frog (stored elastic energy in creases)
+- Teach angle bisection: "We're splitting this 90-degree corner into two 45-degree angles"
+- Explore paper snowflakes: multiple folds create radial symmetry (rotational symmetry where the pattern repeats around a center point)
+- Introduce *valley fold* (fold toward you) vs. *mountain fold* (fold away) — the two fundamental origami operations
+- Count sides and angles on resulting shapes: "This fold made a pentagon — five sides"
+- Discuss paper engineering: how corrugated cardboard uses geometry (triangular ridges) for strength
+- Challenge: "Can you fold a piece of paper so it stands up by itself?" (introduces structural rigidity through geometry — a flat sheet won't stand, but a folded one will)
 
 ### Extension Ideas
 

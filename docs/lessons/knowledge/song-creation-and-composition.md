@@ -6,13 +6,13 @@ Song creation and composition is the process of making music by inventing melodi
 
 ## Vocabulary
 
-**Melody**: The sequence of musical notes played or sung one after another in a recognizable tune. When you hum or sing a song's main tune, you're following the melody—like the "Happy Birthday" tune that stays in your head.
+**Frequency** (FREE-kwun-see): The number of times a sound wave vibrates per second, measured in hertz (Hz). This is what determines *pitch* — whether a sound is high or low. A baby's cry is about 400-600 Hz. Middle C on a piano is exactly 261.6 Hz. When you sing a higher note, your vocal cords vibrate faster (higher frequency); lower note = slower vibration. An octave is when frequency exactly doubles: middle C (261.6 Hz) to the next C up (523.2 Hz) — our brains hear doubled frequencies as "the same note, but higher."
 
-**Rhythm**: The pattern of sounds and silences that makes music feel like it has a beat. When you clap along to a song in a steady pattern, or tap your foot, you're following the rhythm.
+**Melody** (MEL-uh-dee): A sequence of pitches (frequencies) arranged in time that our auditory cortex recognizes as a pattern. The reason a melody is memorable is that your brain's auditory cortex learns the *intervals* — the gaps between notes. That's why you recognize "Happy Birthday" in any key: the intervals stay the same even when all the frequencies shift up or down. Composing a melody means choosing a sequence of intervals.
 
-**Composition**: The act of creating or making something new, especially a piece of music. When you invent your own song, you're composing—bringing together sounds and words that never existed before in that combination.
+**Rhythm** (RITH-um): The pattern of sounds and silences in time. Rhythm activates your brain's motor cortex — the part that controls movement — even when you're sitting still. That's why you instinctively tap your foot to a beat: your motor cortex fires in synchronization with the rhythm (a phenomenon called *entrainment*). Rhythm is built from *beats* (the steady pulse) and *meter* (how beats group together — in 4s for a march, in 3s for a waltz).
 
-**Expression**: Showing your feelings, ideas, or creativity through music, art, movement, or other ways. Singing a happy song loudly or a quiet song gently is using expression to communicate how you feel.
+**Consonance and dissonance** (KON-suh-nunts / DIS-uh-nunts): Consonance is when two frequencies vibrate in simple mathematical ratios (like 2:1 or 3:2) — they sound "pleasant" or "resolved" together. Dissonance is when frequencies vibrate in complex ratios — they sound "tense" or "clashing." Your brain detects these ratios automatically. When you compose a song, choosing when to use consonance (calm, happy sounds) and dissonance (tension, surprise) is how you create emotion in music. Every story in music is built from tension (dissonance) and resolution (consonance).
 
 ## 🎵 Learning Song
 
@@ -94,25 +94,25 @@ Children will create original songs using their voices, household items, or simp
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Begin with simple, enthusiastic invitation: "I want to create a brand new song with you today! We're going to make up music together using our voices and sounds." Demonstrate a very short, simple made-up phrase to show there are no "right" songs. Invite the child: "What should our song be about? A cat? A butterfly? Your favorite food?" Model excitement and playfulness—sing slightly off-key or with funny voices to show it's okay to be silly. Emphasize: "There are no wrong songs—anything we make up is wonderful."
+1. **Introduction — What Is Sound?** (2-3 min):
+   Start with a demonstration: hum a low note, then a high note. "When I hum low, my vocal cords vibrate slowly — maybe 150 times per second. When I hum high, they vibrate faster — 300, 400 times per second. We measure that in hertz. The faster the vibration, the higher the pitch." Let the child feel their own throat while humming: "Feel that buzzing? Those are your vocal cords vibrating — creating sound waves that travel through the air to my ears." "Today we're going to compose — invent a brand-new song that's never existed before."
 
-2. **Exploration** (5-10 min):
-   Invite the child to make any sounds: hums, "la-la-las," silly voices, animal sounds. You join in, echoing their sounds or adding harmony. Explore vocal range together: high sounds (birds), low sounds (bears), fast sounds, slow sounds. Ask questions: "What sound do you hear in your head for this word?" "Should this part be fast or slow?" "Does this sound happy or sleepy?" Comment on what you notice: "I love that high squeak sound you made!" or "Listen to how our sounds go together!"
+2. **Exploration — Pitch, Frequency, and Rhythm** (5-10 min):
+   Explore vocal range together: "Let's find your lowest note... now your highest. You just changed your frequency from slow vibrations to fast ones!" Tap a beat on the table: "This steady pulse is the beat. Your motor cortex — the movement part of your brain — fires along with it automatically. That's called entrainment." Try different rhythms: "Clap along — can you feel your brain locking onto the pattern?" Explore consonance and dissonance: sing two notes together. "Some note combinations sound smooth — that's consonance, simple frequency ratios. Others sound tense — that's dissonance. Both are useful in music."
 
-3. **Creation** (5-10 min):
-   Start with a familiar tune (Twinkle Twinkle Little Star, Happy Birthday, Row Your Boat) or create together. Create new lyrics about a chosen topic. Add simple percussion: "Let's add a steady beat—can you pat your leg or tap this drum?" Step back gradually and let the child lead: "Now you decide—what should we sing? Do you want to make the song again or create something totally new?" Support experimentation without judgment: "That's such an interesting sound combination!"
+3. **Creation — Composing with Intervals** (5-10 min):
+   Start with a familiar tune or create from scratch. Explain intervals: "In Twinkle Twinkle, the first jump up is a big interval — your voice leaps to a frequency that's 3:2 of the first note. That ratio sounds bright and open." Create new lyrics about a chosen topic. Add rhythm: "Let's add a beat in 4 — ONE two three four, ONE two three four. That's 4/4 meter, like a march." Experiment: "What if we change from 4 beats to 3? ONE two three, ONE two three — now it sounds like a waltz!" Let the child lead as they gain confidence.
 
 4. **Wrap-up** (2-3 min):
-   Sing your created song one final time together (offers sense of completion and celebration). Ask reflection questions: "What was your favorite part of the song we made?" or "How does this song make you feel?" If you recorded it, play it back briefly. Offer simple celebration: "We made something beautiful together!"
+   Sing the created song together one final time. Review: "You composed music today — you chose pitches (high and low frequencies), you created rhythm (patterns in time that made your motor cortex fire), and you made something that never existed before." If recorded, play it back: "Your song is a unique pattern of sound waves. No one in history has ever made these exact vibrations before."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep song structure very simple (just 4-8 bars). Repeat familiar song melodies with new words rather than creating entirely new melodies. Use lots of repetition—children this age love familiar patterns. Focus on vocal play and sound exploration rather than complex composition. Emphasize joining in rather than creating independently. Use high-energy songs with clear beats for dancing and movement. Duration: 10-15 minutes. You lead the song structure; child fills in sounds or actions. Be prepared for the child to repeat one favorite sound over and over—that's perfect!
+Keep melodies to 4-8 bars with lots of repetition. Focus on frequency exploration: "Let's hum high (fast vibrations) and low (slow vibrations)." Let children feel their throat while humming to discover their own vocal cord vibrations. Use strong, clear beats — their motor cortex is just developing entrainment capacity. Familiar tunes with new words work well: the intervals are already learned, only the lyrics change. Duration: 10-15 minutes. One favorite sound repeated endlessly is real composition — it's a rhythmic motif.
 
 **3-4+ years**:
-Introduce simple rhyming patterns: "We need a word that rhymes with 'cat'—how about 'hat'?" Create songs with verse and chorus structure: "This is the part we repeat every time." Experiment with tempo: "Let's sing this part fast, then slow." Add props or visual elements: use scarves to show high/low notes. Encourage longer compositions (2-3 different sections/ideas). Introduce simple instruments with different sounds and let the child choose which one to play. Duration: 20-30 minutes.
+Introduce intervals explicitly: "Jump your voice up big — that's a wide interval. Now just a tiny step — that's a narrow interval." Experiment with meter: "Count to 4 for a march feel (4/4 time), count to 3 for a waltz feel (3/4 time)." Explore consonance and dissonance: sing two notes together and ask "Does that sound smooth or bumpy?" Create songs with verse-chorus structure: "The verse tells the story, the chorus is the part that repeats — most pop songs follow this pattern." Introduce dynamics (soft vs. loud) as *amplitude* — larger vibrations make louder sounds. Try composing with simple instruments: tap different containers to hear how size affects pitch (larger = lower frequency). Duration: 20-30 minutes. Compare pentatonic scale (5 notes — used in Chinese, African, Scottish music) vs. major scale (7 notes — most Western pop songs).
 
 ### Extension Ideas
 
