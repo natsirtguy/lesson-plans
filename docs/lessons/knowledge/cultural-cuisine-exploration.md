@@ -2,17 +2,19 @@
 
 ## 🎯 Activity Summary
 
-Children explore foods and eating traditions from different cultures around the world through sensory discovery and tasting. By smelling, touching, looking at, and tasting simple foods from various cultures, children build cultural awareness, expand their willingness to try new flavors, and develop understanding that families everywhere celebrate and nourish themselves through food.
+Children explore foods and eating traditions from different cultures, learning the science of taste and the geography of cuisine. By investigating how staple crops shape a culture's food, how fermentation transforms ingredients through microbial action, how the five basic tastes (sweet, salty, sour, bitter, and umami) combine in different cuisines, and how spices from specific plants and regions define culinary traditions, children build both cultural awareness and genuine food science knowledge through sensory exploration and tasting.
 
 ## Vocabulary
 
-**Culture**: A group of people who share the same beliefs, traditions, and ways of living. Every culture has its own special customs, including the foods people eat and how they celebrate together.
+**Staple Crop**: A food that forms the main part of a culture's diet because it grows well in that region's climate and soil. Rice is the staple crop for billions of people in Asia because rice plants thrive in warm, wet climates. Wheat is the staple in many European and Middle Eastern cultures, and corn (maize) is the staple across much of the Americas. A culture's staple crop shapes its entire cuisine -- that's why Asian dishes often feature rice, while European traditions revolve around bread.
 
-**Cuisine**: The style of cooking and the foods that are typical of a particular place or group of people. Different cuisines use different ingredients, flavors, and ways of preparing food.
+**Fermentation**: A process where microorganisms (tiny living things like bacteria and yeast) transform food by breaking down sugars and producing new flavors, textures, and nutrients. Yogurt, kimchi, sourdough bread, miso, and cheese are all fermented foods. Fermentation was one of humanity's earliest food preservation techniques -- before refrigerators, people used fermentation to keep food from spoiling.
 
-**Tradition**: A custom or special way of doing something that families and cultures pass down from parents to children, year after year. Food traditions are when families celebrate special occasions with the same foods over and over.
+**Umami**: The fifth basic taste, alongside sweet, salty, sour, and bitter. Umami tastes savory and rich -- it's the deep, satisfying flavor in soy sauce, Parmesan cheese, mushrooms, and cooked meat. The word "umami" comes from Japanese and means "delicious taste." Our tongues have specific taste receptors that detect umami, just as we have receptors for sweet and salty. Many cultural cuisines have developed umami-rich foods: Japanese miso, Italian Parmesan, Thai fish sauce.
 
-**Sensory**: Using your five senses - taste, smell, touch, sight, and hearing - to explore and discover the world around you. When we taste food, we're using sensory exploration to learn.
+**Spice**: A dried seed, bark, root, or fruit of a plant used to add flavor, aroma, and sometimes color to food. Cinnamon comes from tree bark, pepper comes from dried berries, and turmeric comes from a root. Spices were so valuable in history that entire trade routes -- like the Silk Road -- were created to transport them across continents. Each culture's cuisine is defined partly by which spices grow locally and which were traded.
+
+**Aroma**: The smell of food, which is actually detected by olfactory receptors high up in your nose. Aroma is responsible for most of what we call "flavor" -- your tongue can only taste five basic tastes, but your nose can detect thousands of different aromatic compounds. That's why food tastes bland when you have a stuffy nose -- your olfactory receptors can't do their work.
 
 ## 🎵 Learning Song
 
@@ -66,7 +68,7 @@ Sharing food makes the world sublime.
 
 ### Activity Overview
 
-In this hands-on sensory exploration, children discover and taste simple foods from a specific culture, using all their senses. They'll smell, look at, touch, and taste foods while learning basic facts about how people in that culture eat and celebrate. The activity builds cultural awareness and helps children become more curious about and accepting of foods different from what they eat at home.
+In this hands-on sensory exploration, children discover and taste simple foods from a specific culture while learning real food science -- how the five basic tastes work (sweet, salty, sour, bitter, umami), how staple crops are shaped by a region's climate and geography, how fermentation and cooking transform raw ingredients through chemical and biological processes, and how spices from particular plants define a culture's flavor profile. The activity builds cultural awareness through substantive knowledge about why different cultures eat what they eat.
 
 **Activity Type**: Sensory exploration / Cultural practice / Hands-on food discovery
 

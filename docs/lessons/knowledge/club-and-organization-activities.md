@@ -2,17 +2,17 @@
 
 ## 🎯 Activity Summary
 
-Children create and participate in a pretend or real "club" or organization with a shared purpose, such as an art club, book club, nature club, building club, or music club. Through designing membership materials, establishing rules, planning meetings, and engaging in collaborative activities, children develop organizational thinking, leadership skills, and a sense of belonging to a community built around shared interests.
+Children create and participate in a real club or organization with a shared purpose, learning foundational concepts of governance, democratic process, and civic structure. Through drafting a charter, establishing bylaws, conducting meetings with an agenda, and practicing consensus-based decision-making, children develop organizational thinking, leadership skills, and a sense of belonging to a community built around shared interests — while encountering the same structures that govern real institutions from student councils to national governments.
 
 ## Vocabulary
 
-**Club**: A group of people who gather together because they share an interest or purpose. Example: "Our art club meets to create pictures and displays together."
+**Charter**: A written document that states why an organization exists and what it will do — its mission and purpose. Real organizations from the United Nations to local scout troops have charters. Example: "Our nature club's charter says our mission is to observe and protect animals and plants."
 
-**Organization**: A group structured to accomplish something together, with members, rules, and a purpose. Example: "Our music organization has members who love to sing and play instruments."
+**Bylaws**: The rules that govern how an organization operates — who can join, how decisions are made, and what happens at meetings. Bylaws are different from regular rules because they apply to the organization itself, not just behavior. Example: "Our bylaws say that every member gets one vote."
 
-**Membership**: Being part of a group or club and having responsibility as a member. Example: "You have membership in our building club, so you help create the structures."
+**Consensus**: When a group discusses an idea and everyone agrees — or at least no one objects strongly enough to block the decision. Consensus is different from voting because it seeks agreement from everyone, not just a majority. Example: "We reached consensus that our club will meet on Tuesdays."
 
-**Tradition**: Something a group does the same way each time, creating a special pattern or custom. Example: "Our club tradition is to have a special handshake when we greet each other."
+**Agenda**: A planned list of topics to discuss or things to do at a meeting, written in order. Real organizations publish their agenda before meetings so members can prepare. Example: "The first item on our agenda is choosing a new club project."
 
 ## 🎵 Learning Song
 
@@ -24,31 +24,31 @@ Children create and participate in a pretend or real "club" or organization with
 
 *Verse 1*
 
-We started up a special club
-Special club, special club
-We started up a special club
-And now we work as one
-We have some rules we all agree
-Everyone feels welcome here
-We gather and we play as friends
-Now look at what we've done
+We wrote a charter for our club
+For our club, for our club
+We wrote a charter for our club
+It says what we will do
+We follow bylaws, that's the rules
+Everyone gets a fair voice here
+We check our agenda every time
+And now we're starting new
 
 *Verse 2*
 
-A club's a place where friends belong
-Friends belong, friends belong
-A club's a place where friends belong
-With interests that we share
-We make our plans and work as one
+Consensus means we all agree
+All agree, all agree
+Consensus means we all agree
+On choices that we share
+We make our plans and take a vote
 Everybody gets a turn
-We celebrate the special time
+We follow our agenda well
 Together we all care
 
 **Actions/Gestures**:
 
-1. **Clap hands together** when singing "We started up a special club" and "special club" - showing unity and togetherness
-2. **Make a circle with arms** during "everyone feels welcome here" and "friends belong" - representing inclusion and the club space
-3. **Point around the group** during "we work as friends" and "everybody gets a turn" - showing that each person matters in the club
+1. **Hold up an imaginary paper** when singing "we wrote a charter" — representing the founding document
+2. **Make a circle with arms** during "everyone gets a fair voice" — representing inclusion and democratic participation
+3. **Thumbs up gesture** during "consensus means we all agree" — the real hand signal used in consensus-based decision making
 
 ## 📺 Intro Video Recommendation
 
@@ -71,7 +71,7 @@ Together we all care
 
 ### Activity Overview
 
-Children establish their own club or organization by selecting a shared purpose (such as art, music, nature, or building), creating membership materials, establishing simple rules, assigning roles, and conducting a club meeting where they engage in their chosen activity together. This hands-on experience teaches organizational thinking, democratic decision-making, leadership, and the joy of belonging to a community.
+Children establish their own club or organization by drafting a charter (mission statement), creating bylaws (operating rules), writing an agenda for their first meeting, and practicing democratic decision-making through voting and consensus. They assign governance roles and conduct a real club meeting following their agenda. This hands-on experience teaches organizational structure, civic participation, parliamentary procedure, and the joy of belonging to a self-governing community.
 
 **Activity Type**: Social activity / Organizational play / Group activity
 
@@ -114,15 +114,15 @@ Children establish their own club or organization by selecting a shared purpose 
 **Activity Flow**:
 
 1. **Introduction** (3-5 minutes):
-   - Say: "Today we're starting our own club! A club is a group of people who come together because they like something. Would you like to start a [type] club?"
-   - Ask children: "What should we call our club? What will we do in our club? Who can be a member?"
-   - Explain: "Every club needs a name, people who want to be in it, something we like to do together, and sometimes rules so we all get along"
-   - Show the blank materials: "We get to make membership cards and decide how our club works!"
+   - Say: "Today we're founding our own organization! Every real organization — from scout troops to the United Nations — starts by writing a charter. A charter says why the group exists and what it will do."
+   - Ask children: "What is our club's mission? What will we do together? What should we name our organization?"
+   - Explain: "Every organization needs three things: a charter that explains its purpose, bylaws that are the rules for how it operates, and an agenda for what to do at meetings."
+   - Show the blank materials: "We're going to write our charter, create our bylaws, and make an agenda for our first official meeting!"
 
 2. **Exploration** (8-15 minutes):
-   - **Phase 1: Club Creation** - Together, decide the club's name, purpose, and types of activities. Create club identity by designing an emblem, symbol, or motto. Have each child design and decorate their own membership card.
-   - **Phase 2: Establish Rules** - Discuss and establish 2-3 simple club rules (such as "Everyone is welcome," "We listen to each other," "We take care of our supplies"). Create a membership list with pictures and names. Discuss any special traditions like a secret handshake or club greeting.
-   - **Phase 3: Club Meeting** - Gather in the club space. Conduct a formal club meeting: "Welcome, club members! Let's begin our [club name] meeting." Introduce the first club activity based on the club's purpose (art creation, story reading, nature observation, building project, music making, etc.). Involve all members in the activity.
+   - **Phase 1: Draft the Charter** - Together, write a simple charter on paper: the club's name, its mission (purpose), and who can become a member. Explain: "This is like a constitution — the founding document. The United States has a Constitution, and now our club has a charter!" Design an emblem or logo and have each child sign the charter as a founding member.
+   - **Phase 2: Establish Bylaws** - Discuss and establish 2-3 bylaws using democratic process. Propose each rule and let children vote: "All in favor, raise your hand!" Count votes and record results. Example bylaws: "All members get one vote," "We follow the agenda," "We take care of our supplies." Explain: "Bylaws are different from regular rules — they govern how our organization itself works." Create a membership roster with names.
+   - **Phase 3: Conduct a Meeting with an Agenda** - Write a simple agenda on paper (3 items). Gather in the club space. The designated chairperson (rotate this role) calls the meeting to order: "I call this meeting of [club name] to order. Our first agenda item is..." Work through each agenda item, practicing consensus: "Does everyone agree? Thumbs up for yes, thumbs sideways for unsure, thumbs down for no." Close formally: "This meeting is adjourned."
 
 3. **Discovery** (3-5 minutes):
    - Discuss the club activity: "What did you enjoy about being in this club? What should we do next time?"

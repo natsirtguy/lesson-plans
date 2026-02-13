@@ -2,17 +2,17 @@
 
 ## 🎯 Activity Summary
 
-Children explore how different materials and liquids react and change when combined, discovering that mixing creates new textures and colors. Through safe, sensory-rich experiments, toddlers learn that mixing things together creates transformations while building vocabulary around cause-and-effect and scientific observation.
+Children explore real chemical reactions by combining substances that undergo molecular changes, discovering that atoms rearrange to form entirely new substances with different properties. Through safe, sensory-rich experiments with acids, bases, and indicators, toddlers witness exothermic reactions and gas production firsthand while building vocabulary around chemistry, molecular transformation, and scientific observation.
 
 ## Vocabulary
 
-**Transform**: To change from one form or appearance into something completely different. When you mix baking soda and vinegar together, they transform into a fizzy, bubbly substance that's very different from either ingredient by itself.
+**Molecule**: The tiniest piece of a substance, made of atoms stuck together. Water is a molecule made of two hydrogen atoms and one oxygen atom — that's why scientists call it H2O. When molecules rearrange during a reaction, they form completely new substances.
 
-**Combine**: To put two or more things together to make one new thing. When you combine red paint with yellow paint, you create an orange mixture that didn't exist before.
+**Acid**: A type of substance that tastes sour (like vinegar or lemon juice) and reacts with other chemicals. Vinegar is an acid called acetic acid. Acids have extra hydrogen atoms that they release during reactions.
 
-**Reaction**: What happens when two things are mixed together and something new appears—like bubbles, heat, color change, or a new smell. When you combine baking soda and vinegar, the chemical reaction makes bubbles and fizz.
+**Base**: The chemical opposite of an acid — bases feel slippery and react with acids. Baking soda is a base called sodium bicarbonate. When an acid meets a base, they react and neutralize each other.
 
-**Ingredient**: A single material or substance that you mix with other things to create something new. Just like cookies have flour, eggs, and sugar as ingredients, our experiments have different ingredients we combine.
+**Carbon Dioxide**: An invisible gas made of one carbon atom and two oxygen atoms (CO2). When vinegar (acid) meets baking soda (base), the reaction produces carbon dioxide gas — that's what makes all those bubbles! It's the same gas you breathe out and the same gas that makes soda fizzy.
 
 ## 🎵 Learning Song
 
@@ -23,21 +23,21 @@ Children explore how different materials and liquids react and change when combi
 **Lyrics** (2 verses, with actions):
 
 *Verse 1*
-When you combine the ingredients, watch them fizz
-When you combine the ingredients, watch them fizz
-See the chemical reaction, bubbles make a big distraction
-When you combine the ingredients, watch them fizz
+When the acid meets the base, watch them fizz
+When the acid meets the base, watch them fizz
+Carbon dioxide's a gas, see the bubbles forming fast
+When the acid meets the base, watch them fizz
 
 *Verse 2*
-When the colors transform, something new appears
-When the colors transform, something new appears
-Red and yellow make an orange, mixing makes the colors change
-When the colors transform, something new appears
+When the molecules rearrange, something new appears
+When the molecules rearrange, something new appears
+Atoms break apart and bond, making something new beyond
+When the molecules rearrange, something new appears
 
 **Actions/Gestures**:
-1. Stirring motion with hands during "combine the ingredients"
+1. Bring two fists together during "acid meets the base" showing two substances meeting
 2. Explosion gesture with hands bursting outward during "watch them fizz"
-3. Swirl hands together during "colors transform" showing mixing
+3. Wiggle fingers apart and back together during "molecules rearrange" showing atoms breaking and reforming
 
 ## 📺 Intro Video Recommendation
 
@@ -59,7 +59,7 @@ When the colors transform, something new appears
 
 ### Activity Overview
 
-Children will conduct two simple, safe "chemical reactions" using common kitchen materials: one with color mixing and one with baking soda and vinegar. They'll observe how combining different substances creates transformations—new colors appear, bubbles form, and textures change—building understanding that mixing materials causes reactions and changes.
+Children will conduct two real chemical reactions using common kitchen materials: an acid-base reaction (vinegar and baking soda) that produces carbon dioxide gas, and a pH indicator reaction using red cabbage juice that changes color based on whether a substance is an acid or a base. They'll observe that chemical reactions create entirely new substances — not just mixtures — because atoms and molecules rearrange into different configurations.
 
 **Activity Type**: Sensory exploration and hands-on demonstration
 
@@ -70,17 +70,17 @@ Children will conduct two simple, safe "chemical reactions" using common kitchen
 ### Materials Needed
 
 **Essential**:
-- Baking soda
-- White vinegar
-- Food coloring (red, yellow, blue)
+- Baking soda (sodium bicarbonate — a base)
+- White vinegar (acetic acid — an acid)
+- Red cabbage (for making a natural pH indicator)
 - Small bowls or containers (clear plastic or glass works best)
 - Spoons for stirring
 - Pipettes or small spoons for adding liquids
 - Towels for spills (important!)
 
 **Optional**:
-- Dish soap (adds more bubbles to vinegar reaction)
-- White paint or shaving cream (for color mixing variation)
+- Dish soap (adds more bubbles to vinegar reaction — the soap traps the CO2 gas in foam)
+- Lemon juice (another acid to test with the pH indicator)
 - Small cups or muffin tin for multiple reactions at once
 - Camera or phone to document color changes
 
@@ -98,63 +98,65 @@ Children will conduct two simple, safe "chemical reactions" using common kitchen
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by showing the child the baking soda and vinegar separately. Say: "Look at this white powder and this clear liquid. They look very different, don't they? Today we're going to combine these ingredients and watch what happens. When we mix them together, they're going to transform—they'll create something completely new!"
+   Start by showing the child the baking soda and vinegar separately. Say: "Look at this white powder — it's called sodium bicarbonate, and it's a base. And this clear liquid is vinegar — it's an acid called acetic acid. Acids and bases are chemical opposites. Today we're going to see what happens when an acid meets a base — the molecules are going to rearrange and create entirely new substances!"
 
 2. **Exploration** (8-10 min):
 
-   *First Reaction - Vinegar & Baking Soda*:
-   - Invite the child to watch as you add a few drops of food coloring to the baking soda (choose one color)
-   - Pour or pour a small amount of vinegar into the bowl
-   - Point out the immediate reaction: "Look! It's fizzing! Bubbles are forming! The reaction is happening right now!"
+   *First Reaction - Acid-Base Reaction (Vinegar & Baking Soda)*:
+   - Invite the child to watch as you place baking soda in a bowl
+   - Pour a small amount of vinegar into the bowl
+   - Point out the immediate reaction: "Look! It's fizzing! Those bubbles are carbon dioxide gas — the same gas you breathe out! The acid and base are reacting, and their molecules are rearranging to make new substances: water, a salt, and carbon dioxide gas!"
    - Let the child observe as the mixture bubbles and froths
-   - Use excited language: "What changed? It transformed! We combined two ingredients and created something completely new!"
+   - Explain: "This is called an acid-base reaction. The vinegar's acid molecules and the baking soda's base molecules broke apart and the atoms recombined into completely different molecules. That's real chemistry — the atoms rearranged!"
 
-   *Second Reaction - Color Mixing*:
-   - Pour a small amount of white paint, shaving cream, or even just use a white bowl
-   - Add a drop of red food coloring to one area
-   - Add a drop of yellow food coloring to another area
-   - Invite the child to stir or you stir the two colors together
-   - Watch the orange color appear: "The red and yellow are combining! They're transforming into orange! A brand new color!"
-   - Repeat with different color combinations if desired (blue + yellow = green, red + blue = purple)
+   *Second Reaction - pH Indicator (Red Cabbage Juice)*:
+   - Prepare red cabbage juice ahead of time by soaking shredded red cabbage in warm water (it turns purple-blue)
+   - Pour a small amount of cabbage juice into two clear cups
+   - Add vinegar (acid) to one cup — watch it turn pink/red! Say: "The cabbage juice is a pH indicator — it changes color to show us whether something is an acid or a base. Pink means acid!"
+   - Add baking soda dissolved in water (base) to the other — watch it turn green/blue! Say: "Green means it's a base! The indicator molecules change shape when they meet acids or bases, and that changes what color light they reflect."
+   - Let the child add more acid or base to see the colors shift
 
 3. **Discovery** (3-5 min):
    Ask observation questions:
-   - "What happened when we combined the baking soda and vinegar?" (Bubbles! Fizzing! It transformed!)
-   - "Did the color stay the same or did it change?" (It changed to a new color!)
-   - "Can we separate the colors back to red and yellow?" (Typically no—they've combined into something new)
-   - "What do we call what happened?" (A reaction! A transformation!)
-   - Point out: "When we combine different ingredients, they react and change. That's chemistry!"
+   - "What happened when the acid met the base?" (Bubbles! Fizzing! A gas came out!)
+   - "What was the gas called?" (Carbon dioxide! CO2!)
+   - "What happened when we added vinegar to the cabbage juice?" (It turned pink — because vinegar is an acid!)
+   - "Why do you think the bubbles stop eventually?" (Because all the acid or all the base gets used up in the reaction!)
+   - Point out: "When atoms rearrange and make new substances, that's called a chemical reaction. The new substances have different properties than what we started with. That's chemistry!"
 
 4. **Wrap-up** (2-3 min):
-   Help the child name what they discovered: "Today we learned about reactions and transformations. We combined ingredients and watched them change into something brand new. You're a real scientist!"
-   Transition: "Scientists observe changes and ask questions. You did that today!"
+   Help the child name what they discovered: "Today we learned about acid-base reactions. We saw that when an acid like vinegar meets a base like baking soda, the molecules rearrange and make carbon dioxide gas — that's what all the bubbles were! And we used a pH indicator to tell acids from bases by color. You're a real chemist!"
+   Transition: "Chemists observe reactions and ask questions about what happens to molecules. You did that today!"
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep it very simple: use only baking soda and vinegar reaction (most dramatic and engaging)
-- Use primary colors only (red, yellow, blue) for color mixing to avoid confusion
-- Expect short attention span; have reaction happen quickly and be ready to move on
-- Focus on simple language: "Mix!" "Bubbles!" "Changed!" "New color!"
-- Let them help pour or stir with hand-over-hand guidance
-- Repeat the same reaction 2-3 times if they show interest rather than doing multiple variations
+- Focus on the baking soda and vinegar reaction (most dramatic and engaging)
+- Use the words "acid," "base," and "gas" alongside pointing and excitement — they will absorb the terms over time
+- Say "carbon dioxide" while pointing at the bubbles: "Those bubbles are carbon dioxide gas! CO2!"
+- Expect short attention span; have reaction happen quickly and be ready to repeat
+- Let them help pour with hand-over-hand guidance
+- Repeat the same reaction 2-3 times — each time, name the acid and base again so the terms become familiar
+- The cabbage juice indicator can be simplified to just one cup: "Watch the color change when we add the acid!"
 
 **3-4+ years**:
-- Do both the vinegar/baking soda reaction AND the color mixing activity
-- Ask more questions about predictions: "What do you think will happen when we mix these?"
-- Introduce the word "ingredient" and "combine"
-- Try multiple color combinations and discuss the results
-- Add dish soap to vinegar for extra bubbling and foam
-- Help them make observations: "What changed? What stayed the same?"
-- Introduce the concept: "When ingredients combine, it's called a reaction"
+- Do both the acid-base reaction AND the pH indicator activity
+- Ask prediction questions: "This is an acid. This is a base. What do you think happens when they meet?"
+- Introduce the idea that molecules are made of atoms: "Tiny atoms stick together to make molecules, and in a reaction, they rearrange into new molecules"
+- Let them test multiple substances with the cabbage juice indicator: vinegar (acid), lemon juice (acid), baking soda water (base), soap (base) — sort into acids and bases
+- Add dish soap to the baking soda before adding vinegar — the soap traps the CO2 gas in bubbles, making foam
+- Ask: "What gas is making those bubbles? Where did it come from?" (The atoms in the acid and base rearranged)
+- Introduce the concept of exothermic reactions: "Feel the bowl — some reactions make heat too!"
 
 ### Extension Ideas
 
-**Variation 1 - Rainbow Reactions**: Set up bowls with different colors of food coloring mixed into baking soda, then pour vinegar into each to see colorful fizzy reactions all at once. Discuss how the same ingredient (vinegar) reacts with the same ingredient (baking soda) no matter what color we add.
+**Variation 1 - Rainbow Acid-Base Reactions**: Set up bowls with different colors of food coloring mixed into baking soda, then pour vinegar into each to see colorful fizzy reactions all at once. Point out: "The chemical reaction is the same in every bowl — the acid and base produce carbon dioxide gas no matter what color we add. The food coloring is just mixed in — it doesn't change the chemistry."
 
-**Variation 2 - Texture Changes**: Use oobleck (cornstarch + water) where children can see liquid and solid textures transform before their eyes. Mix the two ingredients and let them feel how it becomes something in-between—not quite liquid, not quite solid.
+**Variation 2 - Non-Newtonian Fluid (Oobleck)**: Mix cornstarch and water to create a non-Newtonian fluid — a substance that behaves like a solid under pressure and a liquid when relaxed. This isn't a chemical reaction (no molecules rearrange) but a physical property: the cornstarch particles jam together under force. Say: "This is a non-Newtonian fluid — it doesn't follow the normal rules of liquids!"
 
-**Repeat play**: This activity is excellent for repetition. Children learn through repeated experiences with the same materials. Try it again with different colors, let them take the lead in pouring, or do it in a sensory tray for contained exploration. Each time, they'll notice new details.
+**Variation 3 - Acid Rain Demonstration**: Place chalk (calcium carbonate, a base) in vinegar (acid) and watch it dissolve with bubbles. Explain: "This is similar to what acid rain does to buildings and statues. The acid reacts with the calcium carbonate and produces carbon dioxide gas — just like our baking soda reaction!"
+
+**Repeat play**: This activity is excellent for repetition. Each time, introduce a new substance to test: "Is lemon juice an acid or a base? Let's use our pH indicator to find out!" Children deepen their understanding of acid-base chemistry with each experiment.
 
 ## 📝 Parent/Caregiver Notes
 
@@ -171,11 +173,11 @@ Children will conduct two simple, safe "chemical reactions" using common kitchen
 
 ### Follow-Up Activities
 
-1. **Kitchen Chemistry Walk**: Do a "scavenger hunt" around the kitchen looking for ingredients that can combine and react (oil and water, baking soda and lemon juice, cornstarch and water). Talk about what you observe.
+1. **Kitchen Acid-Base Hunt**: Walk through the kitchen identifying acids and bases. Acids: vinegar, lemon juice, orange juice (citric acid), tomato sauce. Bases: baking soda, soap, toothpaste. Test them with leftover cabbage juice indicator to confirm! Ask: "Is this an acid or a base? What color will the indicator turn?"
 
-2. **Repeat Favorite Reaction**: Children learn best through repetition. Repeat whichever reaction most engaged your child—vinegar and baking soda tends to be the most exciting for this age group. Each repetition deepens their understanding.
+2. **Repeat and Extend Reactions**: Repeat the vinegar and baking soda reaction but change variables like a real scientist: "What happens if we use more vinegar? More baking soda? Warm vinegar vs. cold vinegar?" (Warm reactions happen faster because molecules move faster when heated — that's kinetic energy.)
 
-3. **Daily Life Observations**: Point out reactions in everyday life: "Look, the water is boiling—that's a reaction!" "The ice cream is melting—that's a transformation!" "When we mix ingredients to make cookies, we're combining things just like in our experiment!" Help them see science happening around them.
+3. **Daily Chemistry Observations**: Point out real chemical reactions in everyday life: "The bread is rising because yeast produces carbon dioxide gas — just like our experiment!" "Rust on metal is a chemical reaction — iron atoms combine with oxygen." "When we cook an egg, the heat changes the protein molecules — they can't go back to being raw!" Help them see chemistry happening everywhere. Note: Boiling water and melting ice are physical changes (no new molecules form), not chemical reactions — a useful distinction to introduce.
 
 ---
 

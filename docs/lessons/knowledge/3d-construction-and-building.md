@@ -2,17 +2,17 @@
 
 ## 🎯 Activity Summary
 
-Children explore three-dimensional space by stacking, balancing, and joining materials to create structures and sculptures. Through construction play, children develop spatial reasoning, fine and gross motor skills, problem-solving abilities, and confidence in their creative choices. This foundational building experience introduces engineering concepts naturally and encourages imaginative thinking about how things fit together and stand up.
+Children explore three-dimensional space by stacking, balancing, and joining materials to create structures and sculptures—discovering real physics and engineering principles along the way. Through construction play, children experience compression forces, center of gravity, load distribution, and structural stability firsthand. Every tower that stands teaches them about wide bases and balanced loads; every tower that falls teaches them about what happens when the center of gravity shifts past the edge of support. This foundational building experience introduces genuine structural engineering concepts while developing spatial reasoning, fine motor skills, and creative confidence.
 
 ## Vocabulary
 
-**Construct**: To build or put together pieces in an organized way to make something new
+**Center of Gravity**: The one special point in any object where all its weight is perfectly balanced. When you stack blocks, the tower stands as long as the center of gravity stays over the base—if it drifts past the edge, gravity pulls the whole thing down.
 
-**Spatial Reasoning**: Understanding how objects fit together in space and how they relate to each other and the world around them
+**Compression**: A pushing force that squeezes materials together. When you stack blocks, the bottom block is under compression—all the weight above is pressing down on it. Strong buildings use materials that resist compression, like stone and concrete.
 
-**Balance**: Arranging objects so they stay stable and don't fall over, by placing weight evenly
+**Load-Bearing**: Describes a part of a structure that holds up weight. The bottom blocks in your tower are load-bearing—they support everything above them. If a load-bearing piece is removed or too weak, the whole structure can collapse.
 
-**Structure**: A framework or construction made by fitting pieces together in a particular way to create something that stands
+**Cantilever**: A beam or structure that sticks out from a support on only one side, like a diving board or a balcony. It stays up because the anchored end is heavy or firmly attached enough to counterbalance the part hanging in the air.
 
 ## 🎵 Learning Song
 
@@ -58,9 +58,9 @@ Build a castle, tall and proud
 
 ### Activity Overview
 
-Children freely interact with a variety of building materials—blocks, boxes, plastic bricks, and recycled items—to explore how pieces fit together, balance, and create three-dimensional forms. Through hands-on exploration and guided building experiences, children develop fine motor control, spatial awareness, problem-solving skills, and creative confidence.
+Children freely interact with a variety of building materials—blocks, boxes, plastic bricks, and recycled items—to explore real structural principles: how compression holds a stack together, why a wide base creates stability, how the center of gravity determines whether a tower stands or falls, and what happens when you create a cantilever that extends beyond its support. Through hands-on exploration and guided building experiences, children discover the physics of structures while developing fine motor control, spatial awareness, and creative confidence.
 
-**Activity Type**: Hands-on construction / Spatial exploration / Fine motor development
+**Activity Type**: Hands-on construction / Structural physics exploration / Fine motor development
 
 **Duration**: 20-35 minutes (with natural breaks)
 
@@ -94,13 +94,13 @@ Children freely interact with a variety of building materials—blocks, boxes, p
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Point to an interesting structure or demonstrate stacking a few blocks: "Look what we can make today! Watch me start a tall tower." Build three blocks and add a fourth carefully, narrating: "I'm placing this one gently... now it's growing!" Ask an open-ended question: "What would you like to build? A house? A tower? Something from your imagination?" Mention that structures might fall down and that's okay—we can rebuild.
+   Point to an interesting structure or demonstrate stacking a few blocks: "Look what we can make today! Watch me start a tall tower." Build three blocks and add a fourth carefully, narrating: "I'm placing this one right over the center—that's the center of gravity. As long as the weight stays balanced over the base, the tower stands!" Ask an open-ended question: "What would you like to build? A house? A tower? Something from your imagination?" Mention that structures might fall down and that's okay—"When structures fall, that teaches us something about how gravity and balance work. We can rebuild and try a different way!"
 
 2. **Exploration** (5-10 min):
-   Allow the child to freely pick up and handle materials, discovering how they feel and move. Watch as they explore what happens when stacking: which materials are stable and which tip over. Observe silently as they experiment with different combinations. Comment on their observations without directing: "You put the big block on the bottom—that keeps it steady!"
+   Allow the child to freely pick up and handle materials, discovering how they feel and move. Watch as they explore what happens when stacking: which materials are stable and which tip over. Observe silently as they experiment with different combinations. Comment on their observations with real vocabulary: "You put the big block on the bottom—that's load-bearing! It carries all the weight above it. That's why the tower is stable—the heavy, wide base keeps the center of gravity low."
 
 3. **Discovery** (3-5 min):
-   Demonstrate a simple but intentional structure and build a basic tower together, narrating as you go: "First we put down a strong base, then stack carefully..." Introduce the concept of balance: "See how if we lean this too far, it falls? We need to center it." Ask questions to guide thinking: "What happens if we put the heavy block on top? What about the light one?" Step back and let the child experiment with building their own structures based on what they've observed.
+   Demonstrate a simple but intentional structure and build a basic tower together, narrating as you go: "First we put down a strong foundation—a wide base that can handle the compression from everything we stack on top." Introduce the concept of center of gravity: "See how if we lean this too far to one side, it falls? That's because the center of gravity moved past the edge of the base. We need to keep the weight centered." Ask questions to guide thinking: "What happens if we put the heavy block on top? Does that raise the center of gravity? What about making a cantilever—a piece that sticks out to the side like a diving board?" Step back and let the child experiment with building their own structures based on what they've observed.
 
 4. **Wrap-up** (2-3 min):
    Give a 5-minute warning that building time is ending. Invite the child to add one more thing to their creation or take a final tour. Ask for reflection: "Tell me about what you built. What's your favorite part?" Take a photo of the finished structure if the child is willing. Make cleanup collaborative and fun: "Let's return all the blocks to their home." Preserve the structure if possible by placing it on a shelf so the child sees their work valued.
@@ -108,10 +108,10 @@ Children freely interact with a variety of building materials—blocks, boxes, p
 ### Age Adaptations
 
 **2-3 years**:
-Offer fewer material choices initially (just blocks and boxes, not 6 types) to avoid overwhelm. Focus on stacking and knocking down—this is developmentally normal and delightful. Use larger, chunkier pieces that are easier to grip. Expect shorter attention span of 12-15 minutes. Emphasize the sensory and motor aspects: the sound of blocks stacking, the feel of lifting them. Be ready for structures to fall frequently and celebrate the attempt, not just the endpoint. Provide more hands-on assistance and model enthusiasm for simple structures.
+Offer fewer material choices initially (just blocks and boxes, not 6 types) to avoid overwhelm. Focus on stacking and knocking down—this is developmentally normal and teaches real physics. Use larger, chunkier pieces that are easier to grip. Expect shorter attention span of 12-15 minutes. Use real terms casually during play: "That block is under compression—all the weight is pushing down on it!" and "Look, the center of gravity went past the edge—that's why it fell!" Name the concepts even during demolition: "When you knock it down, gravity pulls everything toward the ground." Provide more hands-on assistance and model enthusiasm for simple structures. Try stacking two blocks with a flat piece across them: "Look—you made a beam! The two blocks are columns holding it up."
 
 **3-4+ years**:
-Introduce representational building: "Can you make a house?" or "Build a bridge for this toy car." Add a planning step: "Show me how tall you want to make it before we start." Encourage multi-step structures, tall towers, and complex shapes. Introduce collaborative building: "Let's build a village together." Add storytelling: "Your structure is a spaceship—where is it flying?" Experiment with different material combinations intentionally. Older children can problem-solve more independently; offer ideas only when they seem stuck and validate their own solutions. Support 25-35 minute building sessions.
+Introduce representational building: "Can you make a house?" or "Build a bridge for this toy car." Add a planning step: "Show me how tall you want to make it before we start." Experiment with structural concepts intentionally: try building a cantilever ("Can you make a piece stick out over the edge without falling?"), a column-and-beam structure, or a triangular brace for stability. Explain why triangles are the strongest shape in building: "A triangle can't be squished into a different shape without breaking—that's why engineers use them." Introduce collaborative building: "Let's build a village together." Discuss real-world structures: "Bridges use arches because the arch shape distributes the compression force evenly along the curve." Support 25-35 minute building sessions and encourage children to test their structures with weight: "How many toy animals can your bridge hold before it fails?"
 
 ### Extension Ideas
 
@@ -121,10 +121,10 @@ Build a specific structure or place—a house, castle, bridge, zoo, restaurant, 
 **Variation 2: Nature Construction**
 Use natural outdoor materials (sticks, stones, pinecones, leaves, branches) to build structures in the yard or at a park. This connects building with environmental exploration and changes the sensory experience.
 
-**Variation 3: Building With a Purpose**
-Introduce a simple challenge: "Can you build the tallest tower?" or "Can you make a bridge that's wide enough for your toy to roll under?" This adds problem-solving while keeping the activity open-ended.
+**Variation 3: Structural Engineering Challenges**
+Introduce specific engineering challenges: "Can you build a tower that holds a heavy book on top?" (tests compression resistance), "Can you make a bridge that spans this gap without supports in the middle?" (introduces the concept of span and beam strength), or "Can you make a piece stick out over the edge without the whole thing tipping?" (cantilever challenge). Each challenge teaches a different structural principle.
 
-**Repeat play**: Keep materials accessible in clear, labeled containers for spontaneous building sessions. Offer different material combinations, change themes seasonally, or build structures inspired by world architecture (igloos, yurts, pagodas, lighthouses). Each session allows children to refine their spatial skills and creative thinking.
+**Repeat play**: Keep materials accessible in clear, labeled containers for spontaneous building sessions. Offer different material combinations, change themes seasonally, or build structures inspired by world architecture (igloos use dome compression, yurts use tension in the fabric walls, pagodas use wide bases and interlocking joints, Gothic cathedrals use flying buttresses to resist lateral forces). Each session allows children to discover new structural principles through hands-on experimentation.
 
 ## 📝 Parent/Caregiver Notes
 
@@ -132,7 +132,7 @@ Introduce a simple challenge: "Can you build the tallest tower?" or "Can you mak
 
 **Challenge**: "My child just wants to knock everything down instead of building it up."
 
-**Solution**: Celebrate knocking down as part of the building process: "You're testing how strong that is!" Recognize that knocking down structures helps children understand cause-and-effect, gravity, and the properties of materials. Make it normal: "Let's build it again to see what happens differently." Some children need more knocking-down time than building-up time, and that's valid construction play.
+**Solution**: Demolition is real structural engineering in reverse! Narrate what's happening with real concepts: "You applied a lateral force—a sideways push—and the structure couldn't resist it. That's called structural failure!" Ask: "What if we built it wider at the base? Would it be harder to knock over?" This is genuine exploration of how forces act on structures. Make it a science experiment: "Let's build two towers—one tall and narrow, one short and wide—and see which one is harder to knock down. The wider base lowers the center of gravity."
 
 **Challenge**: "My child's structures are very basic and don't look like anything."
 

@@ -2,17 +2,17 @@
 
 ## Activity Summary
 
-Choreography and dance creation empowers children to express themselves through movement, developing body awareness, coordination, and creative confidence. Children will design their own movements, sequences, and dances—discovering that their bodies are powerful tools for storytelling and artistic expression. This activity builds self-esteem, gross motor skills, and encourages imaginative thinking in a joyful, non-judgmental environment.
+Choreography and dance creation empowers children to express themselves through movement, developing kinesthetic awareness, proprioception, and creative confidence. Children will design their own locomotor and non-locomotor movements, compose sequences using real choreographic principles like canon, unison, and dynamics — discovering that dance is a structured art form with its own vocabulary and techniques. This activity builds spatial awareness, gross motor coordination, rhythmic sensitivity, and encourages imaginative thinking in a joyful, non-judgmental environment.
 
 ## Vocabulary
 
-**Choreography**: The art of creating and planning a sequence of movements or dances that tells a story or expresses a feeling.
+**Choreography**: The art of composing dance by designing and arranging movements in deliberate sequences. A choreographer decides not just what movements to include but the tempo (speed), dynamics (force), and spatial patterns. Professional choreographers write their dances down using notation systems, just like composers write music.
 
-**Sequence**: A series of movements or steps that happen one after another in a particular order, like steps in a pattern.
+**Tempo**: The speed at which movements are performed — fast (allegro), moderate, or slow (adagio). Changing tempo transforms the feeling of a dance: the same arm gesture performed slowly feels graceful, but performed quickly feels explosive. Tempo in dance connects directly to tempo in music.
 
-**Expression**: Showing your feelings, ideas, or creativity through your body, movements, art, or voice in a way that others can see and understand.
+**Dynamics**: The quality of force and energy in a movement — whether it is sharp and percussive (like a punch) or smooth and sustained (like a stretch). Choreographers use dynamics to create contrast and emotional impact. A dance with only one dynamic feels flat; varying between strong/light and sudden/sustained makes choreography compelling.
 
-**Movement**: The action of changing the position or location of your body or body parts, like reaching, spinning, or jumping.
+**Spatial Awareness**: Understanding where your body is in space — how high or low (levels), which direction you face, what pathways you travel, and how close you are to others. Dancers must maintain spatial awareness to execute formations, avoid collisions, and create visual patterns that audiences can see.
 
 ## 🎵 Learning Song
 
@@ -25,19 +25,20 @@ Choreography and dance creation empowers children to express themselves through 
 *Verse 1*
 Move, move, move your body,
 Gently down the floor,
-Choreography is movement,
+Choreography is dance art,
 That we all explore.
 
 *Verse 2*
-Sway and spin and shimmy,
-Expression is the way,
-Sequence, dance, and movement,
-Celebrate today.
+Change the tempo, change dynamics,
+Fast and slow we play,
+Spatial awareness guides us,
+As we dance today.
 
 **Actions/Gestures**:
 1. Sway side to side during "move, move, move your body"
 2. Make flowing motions with arms during "gently down the floor"
-3. Spin and pause in a pose during the second verse
+3. Speed up then slow down during "change the tempo" to demonstrate tempo changes
+4. Move sharply then smoothly during "change dynamics" to demonstrate dynamic contrast
 
 ## 📺 Intro Video Recommendation
 
@@ -61,7 +62,7 @@ Celebrate today.
 
 ### Activity Overview
 
-Through creative movement exploration, children discover their bodies as instruments of expression. This activity guides children through free exploration, guided creation of simple movement sequences, and personal choreography—building confidence, motor coordination, and artistic voice in a playful, pressure-free environment.
+Through creative movement exploration, children discover their bodies as instruments of expression while learning real choreographic concepts. This activity guides children through free exploration of locomotor movements (traveling through space) and non-locomotor movements (moving in place), guided creation of sequences with intentional tempo and dynamic changes, and personal choreography — building proprioception, motor coordination, and artistic voice in a playful, pressure-free environment.
 
 **Activity Type**: Performing arts / Creative expression / Physical-artistic integration
 
@@ -97,94 +98,98 @@ Through creative movement exploration, children discover their bodies as instrum
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - "Today we're going to be dance creators! Our bodies know how to make up special movements, and we get to decide what they look like."
-   - Demonstrate 2-3 simple movements: reach up high and wiggle fingers, sway side to side, bounce gently
-   - Ask an open-ended question: "What's a movement YOUR body can make?"
-   - Set tone: "There's no right or wrong way to dance. Your dance is YOUR special way of moving."
+   - "Today we're going to be choreographers! A choreographer is someone who creates dances. We'll learn about tempo — how fast or slow we move — and dynamics — whether our movements are sharp or smooth."
+   - Demonstrate 2-3 simple movements: reach up high and wiggle fingers (non-locomotor), walk in a circle (locomotor), sway side to side
+   - Explain: "That reaching was a non-locomotor movement — I stayed in one place. Walking in a circle was a locomotor movement — I traveled through space. Choreographers use both kinds!"
+   - Set tone: "There's no right or wrong way to dance. Your choreography is YOUR special creation."
 
 2. **Exploration Phase** (4-6 minutes):
    - Play music (if available) or provide simple rhythmic accompaniment with voice or clapping
    - Invite child to move however they want: "Show me how you like to move!"
-   - Observe without correcting—children walking, jumping, spinning, swaying, stretching
-   - Narrate what you observe: "I see you bouncing! You're reaching way up high!"
-   - No specific goal yet—just letting bodies wake up and explore
+   - Observe and narrate using real dance terms: "I see you bouncing — that's a locomotor movement, you're traveling! Now you're reaching — that's non-locomotor, you're staying in place!"
+   - Introduce tempo exploration: "Can you do that same movement really slowly? Now really fast! You just changed the tempo!"
+   - Introduce dynamics: "Try that same move very gently, like you're touching a butterfly. Now do it strong and sharp! You changed the dynamics!"
 
 3. **Guided Creation Phase** (5-8 minutes):
-   - Start with one simple movement: "Let's all sway together like trees in the wind"
-   - Teach a second movement: "Now let's reach up, up, up to the sky!"
-   - String them together: "Sway... and reach! Sway... and reach!"
-   - Introduce direction: "Can we move to this side of the room? Now the other way?"
-   - Add a finishing move: "And FREEZE like a statue!"
-   - Repeat the sequence 2-3 times, celebrating the "dance" you created together
+   - Start with one simple movement: "Let's all sway together — this is a sustained dynamic, smooth and flowing"
+   - Teach a second movement: "Now let's reach up, up, up to the sky — a non-locomotor movement at a slow tempo!"
+   - String them together into a sequence: "Sway... and reach! Sway... and reach! That's our choreography — a sequence of movements!"
+   - Introduce spatial pathways: "Can we travel to this side of the room? Now the other way? You just danced a linear pathway!"
+   - Change levels: "Dance down low near the ground — that's a low level. Now rise up high — high level!"
+   - Add a finishing move: "And FREEZE like a statue! In dance, that's called a stillness or a tableau!"
+   - Repeat the sequence 2-3 times, celebrating: "You created real choreography — a sequence with tempo, dynamics, and levels!"
 
-   **Alternative imagery approach**:
-   - "Move like a sleepy butterfly waking up" (slow, stretching movements)
-   - "Now your butterfly is dancing with friends" (faster, more energetic)
-   - "The butterfly lands gently on a flower" (slow movements to stillness)
+   **Alternative imagery approach with real concepts**:
+   - "Move like a sleepy butterfly waking up" (adagio tempo — slow, sustained dynamics)
+   - "Now your butterfly is dancing with friends" (allegro tempo — faster, percussive dynamics)
+   - "The butterfly lands gently on a flower" (decelerando — gradually slowing to stillness)
 
 4. **Free Expression & Performance** (remaining time):
-   - For younger children: "Show me one special move that only YOUR body can do"
-   - For older children: "Can you make up a short dance with 3 different moves?"
-   - If child wants to perform: Create a simple "audience moment"—sit down and watch with genuine enthusiasm
-   - If child is shy: Participate alongside them, not requiring performance
-   - Encourage repetition: "Do that move again! I loved it!"
+   - For younger children: "Show me one special move that only YOUR body can do — is it locomotor or non-locomotor?"
+   - For older children: "Can you choreograph a short dance with 3 different moves? Try to include a tempo change and a level change!"
+   - If child wants to perform: Create a simple "audience moment" — sit down and watch with genuine enthusiasm. This is a real performance with a real audience!
+   - If child is shy: Participate alongside them, not requiring performance — they can be the choreographer who directs YOUR movements
+   - Encourage repetition: "Do that move again! This time try changing the dynamics — can you make it sharper?"
 
 5. **Wrap-Up** (3-5 minutes):
-   - Signal ending: "Our dance is coming to an end in just a moment"
-   - Create a final group movement: "Let's all come together for our big finish!"
-   - Celebrate: "You are all wonderful dance creators!"
-   - Simple reflection: "What was your favorite move you made today?"
-   - Acknowledge effort, not just products: "I loved how hard you were moving!" vs. "You were so good at dancing"
-   - Transition playfully: "Can you skip to the water station?" or "Let's stretch as we walk over there"
+   - Signal ending: "Our dance is coming to an end — let's create a finale! In performances, the finale is the big ending."
+   - Create a final group movement: "Let's all come together for our big finish — everyone in unison, doing the same movement at the same time!"
+   - Celebrate: "You are all real choreographers! You created sequences with different tempos, dynamics, and levels!"
+   - Simple reflection: "What was your favorite move? Was it locomotor or non-locomotor? Fast tempo or slow?"
+   - Acknowledge effort with specific vocabulary: "I loved how you changed your dynamics from smooth to sharp — that's what professional dancers do!"
+   - Transition playfully: "Can you skip to the water station using a locomotor movement?" or "Let's stretch using non-locomotor movements as we cool down"
 
 ### Age Adaptations
 
 **2-3 years**:
 - Keep sequences very short (2 movements maximum)
-- Use their favorite songs or action songs they already know ("Twinkle, Twinkle Little Star," "If You're Happy and You Know It")
-- Offer concrete prompts: "Move like you're jumping in puddles" rather than abstract concepts
-- Allow frequent stops and transitions—attention span is 5-8 minutes of active movement
-- Focus on simpler movements: walking, bouncing, reaching, swaying, spinning
+- Use their favorite songs — point out tempo: "This song has a fast tempo! Let's move fast!" then play a slow song: "Now the tempo is slow — adagio!"
+- Offer concrete prompts while naming concepts: "Jump like you're in puddles — that's a locomotor movement, you're traveling!"
+- Introduce "high level" (reaching up) and "low level" (crouching down) — toddlers naturally explore levels
+- Allow frequent stops and transitions — attention span is 5-8 minutes of active movement
+- Focus on simpler movements but name them: walking (locomotor), bouncing (non-locomotor), reaching (non-locomotor), spinning (non-locomotor)
 - Heavy emphasis on adult modeling and participation
-- Expect lots of repetition and running around—it's developmentally appropriate!
+- Expect lots of repetition — it's developmentally appropriate and deepens familiarity with terms!
 - **Duration**: 10-15 minutes total, with 6-8 minutes of active dancing
 
 **3-4+ years**:
-- Extend sequences to 4-6 movements strung together
-- Introduce more complex imagery: "Move like you're painting a rainbow," "Show me angry movements, then happy movements"
-- Encourage transitions between movements: "How do you get from jumping to tiptoeing?"
-- Add directional challenges: "Dance backwards," "Move in a circle," "Stay in your own space while dancing"
-- Introduce simple props: hold a scarf and move WITH it
-- Encourage "dance partners": two children creating a short dance together
-- Introduce emotions and storytelling: "Create a dance that shows how you feel when you're excited"
-- Challenge coordination: clap while stepping, sing while dancing, change levels (high/low movements)
+- Extend sequences to 4-6 movements and call it a "choreographic phrase"
+- Introduce canon: "I'll do the movement first, then you copy it one beat later — that's called canon!"
+- Introduce unison: "Let's all do the same movement at the same time — that's called dancing in unison!"
+- Explore all three levels explicitly: high (jumping, reaching), middle (standing, swaying), low (crawling, rolling)
+- Introduce spatial pathways: straight, curved, zigzag — "Trace a zigzag pathway across the floor!"
+- Add directional challenges: "Dance backwards," "Move in a circular pathway," "Stay in your personal space (kinesphere) while dancing"
+- Introduce simple props: hold a scarf — "The scarf shows us the pathways our arms make through space!"
+- Encourage "dance partners": two children creating choreography together, practicing mirroring (symmetrical movement)
+- Introduce the concept of choreographic intent: "What story or feeling does your dance express?"
+- Challenge coordination: clap while stepping (polyrhythm), change dynamics mid-phrase, transition between levels
 - **Duration**: 20-25 minutes, with children sustaining 12-15 minutes of engaged movement
 
 ### Extension Ideas
 
 **Variation 1: Prop-Based Choreography**
-Use scarves, streamers, or ribbons and create movements that feature the prop: twirling it overhead, sweeping it across the floor, wrapping it around arms. The prop becomes a dance partner that influences how the body moves.
+Use scarves, streamers, or ribbons — these make invisible movement pathways visible. "Watch your scarf trace a figure-eight pathway through space!" The prop externalizes spatial awareness and helps children see the shapes their movements create.
 
-**Variation 2: Story Dancing**
-Choose a simple story ("Going to the park," "A caterpillar becoming a butterfly," "Rain falling from sky to ground") and create a movement sequence that tells the story from beginning to end.
+**Variation 2: Narrative Choreography**
+Choose a simple story ("A caterpillar becoming a butterfly," "A storm building and passing") and create an ABA choreographic structure: section A (beginning state), section B (contrasting middle — the transformation), return to section A (resolution, perhaps modified). This mirrors rondo form in music.
 
-**Variation 3: Music-Inspired Choreography**
-Select contrasting songs (fast/slow, happy/sleepy) and create different dances for each. Explore how the same body can move in totally different ways depending on the music.
+**Variation 3: Tempo-Contrast Choreography**
+Select contrasting songs (allegro/adagio, staccato/legato) and create different dances for each. Point out: "Same movement, different tempo — notice how changing tempo changes the entire feeling? Choreographers use tempo contrast to create emotional range."
 
-**Variation 4: Partner Choreography**
-Two children create a dance together, mirroring each other or taking turns leading. Introduces collaboration and watching/responding to another person's movement choices.
+**Variation 4: Partner Choreography with Canon and Unison**
+Two children create a dance together, practicing both unison (same movement simultaneously) and canon (same movement offset in time, like a round in singing). Introduce mirroring (symmetrical) vs. shadowing (identical). These are foundational choreographic devices used in professional dance.
 
-**Variation 5: Seasonal/Themed Dances**
-- Autumn leaves dancing in wind
-- Winter snowflakes floating down
-- Spring flowers blooming and bees visiting
-- Summer animals playing in water
+**Variation 5: Seasonal Dances with Scientific Backdrop**
+- Autumn leaves: explore gravity and air resistance through falling movements at different tempos
+- Winter snowflakes: crystalline symmetry — "Snowflakes have hexagonal symmetry; can your body make a symmetrical shape?"
+- Spring flowers: phototaxis — "Flowers follow the sun! Dance toward the light source!"
+- Summer storms: crescendo and decrescendo dynamics — building energy and releasing it
 
-**Variation 6: Emotion Dances**
-Create movements that show: happy, silly, sleepy, brave, calm, excited. Helps children explore emotional expression through movement.
+**Variation 6: Dynamics Exploration**
+Create movements using Rudolf Laban's effort qualities: sustained vs. sudden (time), light vs. strong (weight), direct vs. indirect (space), free vs. bound (flow). Even toddlers can feel the difference between a "strong, sudden punch" and a "light, sustained float."
 
-**Variation 7: Level Changes**
-Choreograph a dance that includes high movements (reaching up, jumping), middle level (normal standing movements), and low level (bending, creeping, rolling). Adds dynamic variety.
+**Variation 7: Level Changes as Choreographic Structure**
+Choreograph a dance that deliberately uses all three levels — high (jumping, reaching), middle (standing, swaying), low (crawling, rolling). The transition between levels is called an elevation change and is a fundamental choreographic tool.
 
 ## 📝 Parent/Caregiver Notes
 
@@ -216,7 +221,7 @@ Choreograph a dance that includes high movements (reaching up, jumping), middle 
 
 2. **Repeat & Refine**: Encourage children to recreate their favorite dances from previous sessions. Ask: "Remember that dance? Want to create a new version of it today?" Each iteration will be different, showing the creative, evolving nature of artistic expression.
 
-3. **Cultural Dance Exploration**: Show short video clips (1-2 minutes) of different cultural dances: Irish step dancing, Indian classical dance, African drumming dances, hula, ballet, contemporary dance. Discuss how different cultures express themselves through movement. Consider inviting family members to share dances or movement traditions from their heritage.
+3. **Cultural Dance Exploration**: Show short video clips (1-2 minutes) of different cultural dances: Irish step dancing (percussive footwork, rigid upper body), Bharatanatyam (Indian classical dance with precise mudras — hand gestures), West African dance (polyrhythmic movement synced to drum patterns), hula (storytelling through hand movements), ballet (classical turnout and pointe technique), contemporary dance (Graham technique's contraction and release). Discuss how each tradition developed its own specific vocabulary and technique. Consider inviting family members to share dances or movement traditions from their heritage.
 
 ---
 
