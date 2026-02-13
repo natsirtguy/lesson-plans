@@ -6,13 +6,13 @@ Money counting and budgeting games introduce young children to foundational conc
 
 ## Vocabulary
 
-**Exchange**: When you give one thing and receive another thing in return. For example, giving coins to a shopkeeper and receiving a toy in return teaches children how trading works.
+**Denomination**: The face value assigned to a coin or bill. A penny is worth 1 cent, a nickel 5 cents, a dime 10 cents, a quarter 25 cents. Denominations follow a base-10 system — 100 cents make one dollar. Critically, a dime is smaller than a nickel but worth twice as much, because a coin's value comes from what's stamped on it (its denomination), not its physical size or the metal it's made from.
 
-**Denomination**: Different types of coins or money, each with its own value. A penny, nickel, dime, and quarter are all different denominations—some are worth more than others even though they're all coins.
+**Fungibility**: The property that makes one unit of money interchangeable with any other unit of the same denomination. Any penny is identical in value to any other penny — it doesn't matter which specific penny you use. This is what makes money work as a system: nobody needs to inspect each coin individually. Shells, gold, and salt were early forms of money partly because they were fungible — one grain of salt is as good as another.
 
-**Budget**: The total amount of money you have available to spend. When you have 5 coins to use in a pretend store, your budget is 5 coins, and you have to choose wisely what to buy with it.
+**Opportunity cost**: What you give up when you choose one thing over another. If you have 5 coins and the toy costs 5 coins, buying the toy means you can't buy the book — the book is your opportunity cost. Every purchase has an opportunity cost because money is finite. This is the fundamental reason budgeting matters: tracking what you sacrifice with each choice.
 
-**Transaction**: The action of buying or selling something—the complete exchange where money changes hands and someone gets a product. When you count out coins and receive a toy, that's a transaction.
+**Budget constraint**: The limit on what you can buy, set by how much money you have. If your budget is 10 coins and everything costs 3 coins, you can buy at most 3 items (with 1 coin left over — that's a remainder). Budgeting means deciding how to allocate limited resources across competing wants. Every government, company, and family on Earth operates under a budget constraint.
 
 ## 🎵 Learning Song
 
@@ -96,28 +96,41 @@ Children will explore coins through sorting, counting, and pretend shopping acti
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Show a handful of coins and let them hear the jingling sound. Ask: "What are these?" "Have you seen coins before?" Demonstrate dropping a coin into a container and say, "These shiny things help us get the toys we want!" Set simple expectations: "We're going to count coins and pretend to buy things today."
+1. **Introduction — Denomination Discovery** (2-3 min):
+   Show four types of coins: penny, nickel, dime, quarter. "These are all money, but they have different denominations — different values. This penny is worth 1 cent. This nickel is worth 5 cents — the same as 5 pennies." Line up 5 pennies next to 1 nickel. "Same value, different form."
+   - **The size-value puzzle**: Hold up a dime and a nickel. "Which is bigger?" (Nickel.) "Which is worth more?" (Dime — 10 cents vs. 5 cents.) "That's surprising! The smaller coin is worth more. A coin's value comes from its denomination — what's stamped on it — not its size. That's called fungibility: any dime is worth the same as any other dime, no matter what."
 
-2. **Exploration** (5-7 min):
-   Let the child freely explore coins—pouring between containers, feeling different textures, listening to sounds, and sorting by size or type. Observe which coins they prefer and how long they focus on sorting. This phase builds sensory familiarity and fine motor skills.
+2. **Exploration — Sorting by Denomination** (5-7 min):
+   Let the child sort coins into groups by denomination. As they sort: "You're classifying — grouping things by an attribute. The attribute here is denomination."
+   - **Counting in groups**: "Let's count the pennies: 1, 2, 3, 4, 5. That's 5 cents. Now nickels: 1 nickel is 5 cents, 2 nickels is 10 cents. You have fewer nickels but they're worth the same! That's because 5 × 2 = 10."
+   - **Base-10 connection**: "Our money system uses base 10 — there are 100 cents in a dollar. That's the same as the metric system: 100 centimeters in a meter. 'Cent' comes from Latin centum, meaning 100."
 
-3. **Guided Counting** (5-8 min):
-   Count coins aloud together: "One penny, two pennies, three pennies." Point to each coin as you count to teach one-to-one correspondence. Ask the child to count coins you place in front of them. Start with numbers up to 5 and increase if ready. Use simple language and celebrate effort without correcting mistakes.
+3. **Guided Budgeting — Opportunity Cost** (5-8 min):
+   Give the child exactly 10 coins (pennies). Set up items with prices: toy car (4 coins), book (3 coins), ball (5 coins), sticker (2 coins).
+   - "Your budget constraint is 10 coins. That's all you have. You can't buy everything — so you have to choose."
+   - As they pick: "The car costs 4. You have 10 − 4 = 6 left." Write the subtraction.
+   - "You want the ball AND the book, but you only have 6 coins. The ball costs 5 and the book costs 3. That's 5 + 3 = 8. You don't have enough. Which will you pick? The one you don't pick is your opportunity cost — what you gave up."
+   - After spending: "How many coins left? Can you buy anything else with what remains?"
 
-4. **Pretend Shopping** (Remaining time):
-   Set up a simple "store" with priced items (use numbers 1-3 at first). Model the transaction: "I want this toy. It costs 2 coins. Let me count: one, two. Here are my coins!" Then switch roles—the child becomes the shopkeeper while you shop. Keep transactions simple and use encouraging language: "You counted perfectly!"
+4. **Pretend Shopping with Change** (Remaining time):
+   Set up a store with prices. "The toy costs 7 cents. You give me a dime — 10 cents. I owe you change: 10 − 7 = 3 cents back." Practice making change. "Change is the difference between what you pay and what the item costs."
+   - Switch roles — child makes change as shopkeeper. "The customer gave you a quarter (25 cents) for something that costs 15 cents. How much change? 25 − 15 = 10 cents."
 
 5. **Wrap-up** (2-3 min):
-   Signal ending with a fun transition: "Money time is getting sleepy now." Ask reflection questions: "What was your favorite toy to buy?" Let the child help gather coins back into containers while counting aloud. Compliment their money-handling skills and end with hand-washing.
+   "Today we learned that coins have different denominations, that a coin's value comes from what's stamped on it (not its size), that every purchase has an opportunity cost, and that budgeting means making choices within a constraint." Count remaining coins together. Wash hands after handling coins — real coins carry bacteria because they pass through thousands of hands.
 
 ### Age Adaptations
 
 **2-3 years**:
-Focus on sensory exploration and very simple counting. At this age, one-to-one correspondence is just emerging. Emphasize handling coins, listening to sounds, and simple sorting. Keep pretend play minimal and model-focused. Reduce duration to 15-20 minutes with shorter focused periods (5 minutes max on one activity). Use plastic coins to avoid choking hazards.
+Focus on denomination sorting and one-to-one correspondence. Use the real terms — "denomination," "fungible" — while the child physically handles and sorts coins. The dime-vs-nickel size puzzle works at any age (it's a concrete surprise). Counting up to 5 with one-to-one correspondence is the core mathematical skill. Keep opportunity cost concrete: "You can have THIS or THAT, but not both. Which one do you give up?" Use plastic coins to avoid choking hazards. Reduce duration to 15-20 minutes.
 
 **3-4+ years**:
-Children this age can count up to 10, understand basic exchange, and engage in more elaborate role-play. Introduce "more" and "less," simple addition ("you had 2 coins, now you have 3 more"), and decision-making ("which toy will you buy first?"). Add complications like making simple change. Extend duration to 25-30 minutes with sustained focus on one activity for 8-10 minutes.
+- Full budget constraint exercise with addition and subtraction: "You have 10 coins, the toy costs 4. How many left? 10 minus 4 is 6."
+- Practice making change: "You paid 10 cents for a 7-cent item. The shopkeeper owes you 3 cents."
+- Introduce **saving**: "You don't have to spend everything now. You could save 5 coins today and combine them with tomorrow's 5 coins to buy the big toy that costs 10." That's delayed gratification — and it connects to the famous marshmallow experiment (children who waited for a second marshmallow had better outcomes decades later).
+- Explore **equivalent denominations**: 1 quarter = 5 nickels = 25 pennies = 2 dimes + 1 nickel. "How many different ways can you make 25 cents?" That's a real combinatorics problem.
+- Introduce the concept of **interest**: "If you save your coins in the piggy bank, a bank would pay you extra coins for letting them hold your money. That's called interest — money that money earns."
+- Discuss why coins are made from specific metals: pennies are zinc coated with copper (changed from solid copper in 1982 because the copper was worth more than the penny — that's an economics lesson in itself).
 
 ### Extension Ideas
 

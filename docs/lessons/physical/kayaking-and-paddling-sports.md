@@ -14,6 +14,16 @@ Kayaking and paddling sports introduce young children to water-based movement us
 
 **Space Required**: Calm, shallow water area with gentle entry; 50+ feet of clear water space
 
+## Vocabulary
+
+**Buoyancy**: The upward force that water exerts on any object placed in it — discovered by Archimedes around 250 BCE. An object floats when its weight is less than the weight of the water it displaces (pushes aside). A kayak floats because its hollow shape displaces a large volume of water while weighing relatively little. If you filled the kayak with rocks until it weighed more than the water it displaces, it would sink. Your life jacket works by adding buoyant volume (foam or air) without adding much weight — increasing the water you displace relative to your total weight.
+
+**Drag**: The resistance force water exerts against a moving object. Water is approximately 800 times denser than air, so drag in water is enormous compared to moving on land. Drag increases with the square of your speed — paddling twice as fast requires four times the effort. A kayak's long, narrow shape minimizes drag by cutting through water with minimal cross-section, which is why kayaks are much faster than round boats of the same weight.
+
+**Lever**: A simple machine consisting of a rigid bar that pivots around a fixed point (fulcrum). A paddle is a lever — your lower hand is the fulcrum, your upper hand applies force, and the blade in the water is the load. The longer the paddle shaft, the greater the mechanical advantage (more leverage), but the slower the stroke. Every paddle stroke converts rotational force (torque) from your torso into linear propulsion through the water via Newton's Third Law: push water backward, and the water pushes you forward with equal force.
+
+**Latissimus dorsi**: The largest muscle in your back — a broad, flat muscle that runs from your spine and pelvis to your upper arm bone (humerus). This is the primary power muscle in kayak paddling, pulling the paddle blade through the water. Professional kayakers have extremely developed latissimus dorsi muscles. Your deltoids (shoulder caps) lift the paddle, your obliques (side abdominal muscles) rotate your torso, and your core muscles (transverse abdominis, rectus abdominis) stabilize you in the seat.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -86,34 +96,34 @@ Kayaking and paddling sports introduce young children to water-based movement us
 **Purpose**: Prepare upper body and core for paddling; build confidence with equipment
 
 **Warm-up activities**:
-1. Land-based paddle practice: Hold paddle and make slow paddling motions while sitting - "Make the motion, but move the air"
-2. Arm circles and shoulder rolls: "Let's wake up our shoulders and arms"
-3. Gentle twisting: Rotate torso side to side while holding paddle - "Twist like a pretzel"
+1. Land-based paddle practice: Hold paddle and practice the stroke motion. "Feel your latissimus dorsi — that big back muscle — pulling the paddle. Your deltoids lift it, your obliques rotate your torso. Paddling is a whole-body movement, not just arms."
+2. Shoulder and lat stretches: Reach arms overhead and lean side to side. "You're stretching your latissimus dorsi and obliques — the two muscles that do most of the work in paddling."
+3. Torso rotation with paddle: Hold paddle across shoulders and rotate. "This twist comes from your obliques — the muscles on your sides. In kayaking, your torso rotation generates most of the power, not your arms. Your arms are mainly levers transferring that rotational force to the paddle."
 
-**Warm-up cues**: "We're getting our arms and shoulders ready to paddle like explorers!"
+**Warm-up cues**: "Kayaking uses your latissimus dorsi (back), deltoids (shoulders), obliques (sides), and core muscles. Let's warm all of them up before we get on the water."
 
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show proper grip: hands shoulder-width apart on paddle handle
-- Demonstrate paddle entry and exit: "Dip in the water, pull backward, then lift out"
-- Show basic forward stroke motion (can demonstrate in chair on shore or in kayak in shallow water)
-- Explain that paddle helps the kayak move forward: "The water helps push us"
+- **Buoyancy demonstration**: Before getting in, push the kayak into shallow water. "See how it floats? That's buoyancy — Archimedes' principle. The kayak pushes water aside (displaces it), and the water pushes back up with equal force. As long as the kayak weighs less than the water it displaces, it floats."
+- Show proper grip: hands shoulder-width apart. "The paddle is a lever — your lower hand is the fulcrum (pivot point), your upper hand applies force, and the blade moves the water."
+- Demonstrate the forward stroke on land. "Watch: I'm rotating my torso — that's my obliques generating power. My latissimus dorsi pulls the blade through the water. My arm is just a connector."
+- "Why does pulling water backward push us forward? Newton's Third Law: every action has an equal and opposite reaction. Push water backward → water pushes you forward."
 
 #### Skill Practice (3-5 minutes)
 
 **Skill breakdown**:
-- **Paddling position**: Sitting upright with good posture; feet secure; knees slightly bent
-- **Paddle grip**: Hands evenly spaced; relaxed but firm grip
-- **Forward stroke**: Reach forward with paddle blade in water, rotate hips/core, pull back
-- **Exit and recovery**: Lift paddle from water, rotate forward, ready for next stroke
+- **Paddling position**: Sitting upright with erector spinae (spine muscles) engaged; feet braced; knees slightly bent for stability. "Your center of gravity needs to stay low and centered. If it shifts past the edge of the kayak, you tip — the kayak has a narrow base of support."
+- **Paddle grip**: Hands evenly spaced. "Grip with your fingers, not your palm — your flexor digitorum muscles in your forearm control finger strength. A death grip wastes energy and causes fatigue."
+- **Forward stroke**: Reach forward, blade enters water, rotate torso (obliques), pull through (latissimus dorsi), exit. "The power comes from your torso rotation, not your arms. Your arms are lever arms transferring the force."
+- **Drag awareness**: "Notice how hard it is to push the blade sideways through water versus slicing it edge-first? That's drag — water resistance against the blade's cross-section. The blade is designed wide and flat to maximize drag against the water during the pull (that's what propels you) and thin to minimize drag during recovery."
 
 **Coaching cues**:
-- "Sit tall like a king or queen in your kayak"
-- "Make big reach-backs with your paddle, like you're pulling water toward you"
-- "One arm pushes, one arm pulls, then they switch"
-- "Let your whole body help, not just your arms"
-- "You're doing it! Keep those paddles moving!"
+- "Sit tall — engage your erector spinae to keep your spine straight. A straight spine transfers torso rotation power efficiently."
+- "Rotate from your obliques — feel the muscles on your sides twisting. That's where 80% of your paddling power comes from."
+- "Pull with your latissimus dorsi — that big back muscle. Your arm is just the lever connecting your back to the paddle."
+- "Slice the blade out sideways at the end — minimize drag during the recovery phase."
+- "Newton's Third Law with every stroke: you push water back, water pushes you forward."
 
 #### Guided Play/Game (5-8 minutes)
 
@@ -148,44 +158,39 @@ Let child experiment with paddling speed, direction changes, and paddle techniqu
 **Purpose**: Safely transition from active paddling; reflect on water adventure
 
 **Cool-down activities**:
-1. Float or drift quietly with minimal paddling - "Let your body rest while we listen to the water"
-2. Gentle arm stretches while in kayak - reach across chest, rotate shoulders
-3. Exit water slowly and carefully; sit together and discuss the adventure
+1. Float or drift quietly. "We're experiencing buoyancy at rest — the water's upward force exactly equals our downward weight. If you sit very still, you can feel the kayak shift with tiny waves. Your vestibular system (inner ear fluid) detects these micro-movements and your core muscles make constant micro-adjustments to keep you balanced."
+2. Gentle lat and shoulder stretches in the kayak — reach across chest to stretch posterior deltoid, overhead stretch for latissimus dorsi. "Your latissimus dorsi and deltoids did most of the work. Stretching helps clear lactic acid — a byproduct of anaerobic muscle contraction that causes the burning sensation."
+3. Exit water slowly. On shore: "Your muscles used ATP (adenosine triphosphate) for energy during paddling. Now your body is replenishing those energy stores. Drink water — you sweated even in the water, and dehydration reduces your muscles' ability to recover."
 
-**Transition**: "You were such an amazing paddler! Let's get dried off and rest."
+**Transition**: "Today you used Newton's Third Law, your latissimus dorsi and obliques, and Archimedes' buoyancy to move through water. Let's dry off and rest — your muscles are rebuilding right now."
 
 ## Age Adaptations
 
 ### 2-3 years
 
 **Modifications**:
-- Use inflatable raft, sit-on-top kayak, or paddling toy that prioritizes stability over technique
-- Stay in very shallow water (knee-deep for caregiver); child may not paddle independently
-- Focus on holding paddle, making splashing motions, and experiencing water movement
-- Adult provides significant physical support and control of direction
-- Very short sessions: 5-10 minutes maximum
-- May be passenger while caregiver paddles slowly
+- Use inflatable raft, sit-on-top kayak, or paddling toy that prioritizes stability (wide base of support = low center of gravity = harder to tip).
+- Stay in very shallow water (knee-deep for caregiver). Still use real vocabulary: "You're floating because of buoyancy" and "Push water back — Newton's Third Law pushes you forward."
+- Focus on experiencing buoyancy (push down on water, feel it push back), splashing with the paddle blade (feeling drag), and the basic lever motion.
+- Name muscles as you help: "Use your deltoids to lift the paddle. Now your latissimus dorsi pulls it through."
+- Very short sessions: 5-10 minutes maximum.
 
 **Duration**: 5-10 minutes of active water time
 
 **Adult support**:
-- Provide seat support and weight distribution assistance
-- Control paddle and steering; child mimics motions
-- Keep arms within reach at all times
-- Manage mounting/dismounting; child needs significant help getting in and out
-- Remain in water with child for safety and confidence
+- Control paddle and direction. Child experiences the forces passively first (feeling buoyancy, drag, propulsion) before attempting to generate them independently.
+- Narrate the physics: "Feel the kayak move when I paddle? I pushed water backward and the kayak went forward. That's Newton's Third Law."
+- Demonstrate displacement: "When you got in, the kayak sank a little lower. That's because your weight increased the total weight, so the kayak has to displace more water to generate enough buoyancy to float."
 
 ### 3-4+ years
 
 **Challenges to add**:
-- Practice forward paddling with repeated strokes on both sides
-- Introduce basic steering with uneven paddle strokes
-- Navigate around floating obstacles or markers
-- Paddle to specific targets at increasing distances
-- Try directional paddling: forward, backward, and gentle turns
-- Introduce paddle technique refinement (deeper reaches, smoother strokes)
-- Short paddling "races" or challenges against timer
-- Explore different water conditions (slightly moving water, areas with gentle waves)
+- **Bilateral paddling**: Alternate strokes on each side. "Paddling only on the left turns you right. Why? Because the propulsion force is offset from the center line. To go straight, alternate sides to balance the forces."
+- **Steering physics**: "If you paddle harder on the right, the kayak turns left. The unequal forces create a turning moment — a rotational force called torque."
+- **Drag experiment**: Try paddling with the blade flat (high drag = lots of propulsion) vs. edge-on (low drag = little propulsion). "Drag depends on cross-sectional area — the wider the surface facing the water, the more resistance."
+- **Speed vs. effort**: "Try paddling twice as fast. Notice how much harder it is? Drag increases with the square of your speed — twice the speed means four times the drag force."
+- Navigate around floating obstacles, practicing how turning radius depends on speed and paddle placement.
+- Introduce the concept of **hull design**: "This kayak is narrow and pointed — that minimizes drag. A round boat would be more stable but much slower. Engineers design hull shapes as a trade-off between stability and speed."
 
 **Duration**: Can extend to 20+ minutes with appropriate breaks
 
