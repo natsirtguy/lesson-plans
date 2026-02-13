@@ -6,13 +6,13 @@ Team activities and sports introduce young children to playing together, basic c
 
 ## Vocabulary
 
-**Cooperation**: Working together with others toward a shared goal. When you and your friends pass a ball back and forth, you are cooperating because you're all working together to keep the game going.
+**Collective action**: When a group of individuals work together to achieve something none of them could achieve alone. This is a concept from game theory — the mathematical study of strategic decisions. A single ant can't carry a large crumb, but 20 ants working together can carry something 50 times heavier than any individual ant. Human teams work the same way: passing a ball across a field requires collective action because no single player can be everywhere at once.
 
-**Coordination**: The ability to move your body parts together in a smooth, controlled way. When you kick a ball, run, or catch something, you're using coordination to make your legs, arms, and eyes work together.
+**Cardiovascular system**: Your heart, blood vessels, and blood — the system that delivers oxygen and fuel to your muscles during exercise. When you run, your heart rate increases from about 80 beats per minute to 150-180 bpm, pumping more oxygen-rich blood to your working muscles. Your heart is a muscle too — about the size of your fist — and it gets stronger with exercise, just like your leg muscles do. That's why your breathing gets faster: your lungs are pulling in more oxygen to keep up with your muscles' demand.
 
-**Sportsmanship**: The way you treat others when playing games, including being kind, celebrating their effort, and handling disappointment gracefully. Good sportsmanship means cheering for your teammates even when the game doesn't go the way you hoped.
+**Strategy**: A plan for achieving a goal, especially when other people's actions affect the outcome. In team sports, strategy means anticipating what will happen next and positioning yourself accordingly. Your prefrontal cortex — the planning part of your brain, right behind your forehead — handles strategy. It's the same brain region that plays chess, plans a trip, or decides which route to take. Team sports are one of the best workouts for your prefrontal cortex because you're constantly updating your plan based on what other players do.
 
-**Teamwork**: When a group of people work together, using their different strengths to accomplish something together. Teamwork means passing the ball to a friend instead of keeping it all to yourself, or helping a teammate who needs support.
+**Quadriceps**: The four muscles on the front of your thigh (rectus femoris, vastus lateralis, vastus medialis, vastus intermedius) that straighten your knee and power running, kicking, and jumping. When you kick a ball, your quadriceps contract to extend your leg, while the hamstrings on the back of your thigh act as the antagonist muscles — slowing the kick down to protect your knee joint. Every movement in sport involves these antagonist pairs working together.
 
 ## Learning Song
 
@@ -94,28 +94,28 @@ Children engage in simple team games and sports activities that teach cooperatio
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Gather children and explain the game in simple, enthusiastic language. Demonstrate the basic movement (kick, throw, run, catch). Emphasize: "The best part is playing together, not winning!" Use expectations like "Everyone gets a turn" and "We use gentle hands and kind words."
+1. **Introduction — Why Teams?** (2-3 min):
+   "Today we're going to play team games. But first — why do humans play in teams? Because of collective action: a group can do things no single person can do alone. Can one person play catch by themselves? No! You need at least two people. That's the simplest form of collective action." Demonstrate the basic movements. Explain: "In team sports, you also need strategy — a plan for what to do. Your prefrontal cortex, right behind your forehead, is the part of your brain that makes strategies."
 
-2. **Movement Warm-Up** (3-4 min):
-   Get bodies ready for play through simple movements: run in place, jump, spin, stretch. Use follow-the-leader activities with simple movements. Gradually increase energy level. Watch for children who are ready vs. who needs more time.
+2. **Warm-Up — Cardiovascular Activation** (3-4 min):
+   "Before we play, we need to activate our cardiovascular system — that's our heart and blood vessels. Right now your heart is beating about 80 times per minute." Have children feel their pulse (wrist or neck). "When we start running, our muscles need more oxygen, so our heart beats faster — up to 150 or even 180 times per minute. Let's feel the difference." Run in place for 30 seconds, then check pulse again. "Feel how much faster? Your heart is a muscle, and you just made it work harder." Add dynamic stretches: "These lunges stretch your quadriceps — the four muscles on the front of your thigh. You need them for running and kicking."
 
-3. **Skill Practice** (4-6 min):
-   Demonstrate a skill slowly and clearly (rolling ball, gentle kick, soft throw). Let each child practice individually with your support. Use encouraging language: "Good try! That's how you do it!" Ask questions: "Can you show me how you'd roll this?" Keep it short—young children learn through doing.
+3. **Skill Practice — Biomechanics** (4-6 min):
+   Demonstrate kicking: "When you kick, your quadriceps contract — they get shorter and harder — to straighten your leg. Feel them tighten." Let each child practice. For throwing: "Your deltoid muscle lifts your arm, and then your triceps on the back straighten your elbow to release the ball. The power comes from your core muscles — your abdominals and obliques — which rotate your torso." Name the muscles during each movement. For catching: "Your cerebellum — at the back of your brain — is predicting where the ball will be. It's doing math: speed, direction, trajectory. That's why catching gets better with practice — your cerebellum is learning."
 
-4. **Team Game Play** (5-10 min):
-   Start with very simple rules and few participants. Gradually include more children as comfort increases. Modify rules as needed to keep everyone engaged. Celebrate effort and cooperation more than competition. Encourage teammates to cheer for each other: "Great job, friend!" Stay actively involved and model good sportsmanship.
+4. **Team Game — Collective Action in Practice** (5-10 min):
+   Start with a simple team game. During play, narrate the collective action: "Look — you passed the ball to your teammate because they were closer to the goal. That's strategy! Your prefrontal cortex decided that passing was better than keeping it." Point out cardiovascular effects: "Notice you're breathing harder now. Your lungs are pulling in more oxygen to fuel your muscles. Your blood carries that oxygen through 60,000 miles of blood vessels — enough to wrap around the Earth twice." When children coordinate successfully: "That was collective action — you accomplished something together that neither of you could do alone."
 
-5. **Wind-Down** (3-5 min):
-   Slow movements (walk slowly, stretch). Sit together in a circle. Acknowledge everyone who played. Use transition activity (singing, hand claps) to shift energy. Ask: "What was your favorite part?" Celebrate participation from all children.
+5. **Cool-Down — Recovery Physiology** (3-5 min):
+   Slow walk, then sit in a circle. "As we slow down, our heart rate decreases. Our muscles are breaking down the lactic acid that built up during exercise — that's what makes muscles feel tired." Stretch the quadriceps and hamstrings: "These are antagonist pairs — they do opposite jobs. Quadriceps straighten your knee, hamstrings bend it." Check pulses one more time: "Getting back to normal? That's your cardiovascular system recovering." Discuss strategy: "What was your strategy during the game? Did you change it when something happened?"
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep games extremely simple with minimal rules. Duration: 10-15 minutes maximum. Focus on movement exploration rather than competition. Minimal pressure to "win." Adult participation is essential—not just facilitation. Use very large, soft balls. Lots of encouragement. Games suited for this age: rolling ball back and forth with adult, simple chase games with frequent breaks, gentle ball toss (underhanded, short distances), follow-the-leader, bubble chasing, simple "kick" activity with stationary ball.
+Keep games simple with minimal rules. Duration: 10-15 minutes. Focus on the two-person collective action of rolling or passing a ball — the simplest team activity. Name muscles during movement: "Your quadriceps kicked that ball!" Check heart rate before and after brief running: "Feel your heart going boom-boom-boom? That's your cardiovascular system working." Use the word "strategy" even in simple contexts: "Your strategy was to roll it gently — that was a good plan." Suited games: rolling ball back and forth (name the muscles), chase games with brief cardiovascular check-ins, follow-the-leader (mirror neurons), gentle kick with stationary ball (quadriceps narration).
 
 **3-4+ years**:
-Introduce simple team concepts ("We're on the same team!"). Add gentle competition (not emphasizing winners/losers, but "trying our best"). Longer games with more complex rules. Child can understand and follow multiple instructions. Encourage independence. Include games with spatial awareness. More advanced games: simple soccer with large ball and wide goal, cooperative parachute games, relay races in small teams, simple capture the flag variations, simple basketball with low hoop, bowling with plastic pins, simple tag games with safe zones. Duration: 15-25 minutes with sustained engagement.
+Introduce real strategy discussions before games: "What's our team's strategy? Should we spread out or stay close together?" After plays, analyze what happened: "You passed instead of kicking — why? Was that a better strategy?" Add muscle identification during warm-ups: quadriceps, hamstrings, deltoids, gastrocnemius (calf muscle). Track heart rate at three points: rest, peak activity, and cool-down — graph the numbers on paper. Introduce game theory concepts: "In this game, if everyone tries to score alone, we lose. But if we pass to whoever is open, we win. That's the collective action problem — individual choices vs. group benefit." Discuss why team sizes matter: more players = more complex strategy = more prefrontal cortex demand. Compare human teamwork to animal examples: wolves hunting in packs, dolphins herding fish in coordinated circles.
 
 ### Extension Ideas
 
@@ -146,9 +146,9 @@ Introduce simple team concepts ("We're on the same team!"). Add gentle competiti
 **Solution**: Use a clear turn-taking system (visual timer, song, or order). Practice turn-taking explicitly. Praise waiting and sharing. If child dominates, give them a special role ("Be the cheerleader for one turn"). Keep groups small for more frequent turns.
 
 ### Follow-Up Activities
-1. **Repeat and Rotate** - Play the same games multiple times, then introduce new ones slowly to build confidence and mastery
-2. **Extend to Daily Life** - Notice how cooperation and teamwork show up in daily routines (helping with cleanup, taking turns at meals)
-3. **Cultural Exploration** - Research and try simple traditional team games from different cultures around the world
+1. **Heart Rate Journal** - Track resting and active heart rates across multiple sessions. Graph them over weeks. Discuss: "Is your resting heart rate getting lower? That means your heart is getting stronger — it pumps more blood per beat, so it doesn't need to beat as often." This is real cardiovascular fitness measurement.
+2. **Strategy Replay** - After games, draw what happened: "Where were the players? Where was the ball? What would you do differently?" This is film study — what professional teams do after every game to improve their strategy.
+3. **Collective Action in Nature** - Watch videos of wolves hunting in packs, ants building bridges with their bodies, or dolphins herding fish. Compare their strategies to human team sports. Discuss: "Do these animals have a prefrontal cortex for planning? How do they coordinate without language?"
 
 ---
 

@@ -14,6 +14,16 @@ Surfing and wave riding introduce young children to balance, wave awareness, and
 
 **Space Required**: Large open water area (at least 20x20 feet of clear water)
 
+## Vocabulary
+
+**Wave**: Energy moving through water — the water itself barely moves forward. When wind pushes the ocean surface, it creates ripples of energy that travel for thousands of miles. The water molecules move in circles (called orbital motion), passing energy from one to the next like a crowd doing "the wave" in a stadium. When that energy reaches shallow water, the bottom of the wave slows down while the top keeps going — that's why waves curl and break. The energy then pushes you and your board toward shore.
+
+**Buoyancy**: The upward force water pushes on anything placed in it — discovered by Archimedes around 250 BCE. An object floats when it weighs less than the water it pushes aside (displaces). A surfboard floats because foam is far less dense than water — it displaces a large volume of water while weighing very little. Your body's buoyancy changes when you breathe: inhale deeply and your lungs fill with air, making you less dense and more buoyant. Exhale and you sink slightly. Surfers use this — a deep breath helps you float higher on the board.
+
+**Drag**: The resistance force water creates against anything moving through it. Water is approximately 800 times denser than air, so moving through water takes enormously more force than moving through air. Drag increases with speed (double your speed, quadruple the drag) and with surface area (the more of you that faces the water's flow, the more drag). Surfers reduce drag by streamlining — lying flat and keeping arms close — just like how a dolphin's sleek shape lets it move efficiently through water.
+
+**Core muscles**: The group of muscles wrapping around your torso like a cylinder — transverse abdominis (deepest layer, like a corset), rectus abdominis (the "six-pack" muscles on front), obliques (side muscles for rotation), and erector spinae (running along your spine). These muscles stabilize your body on a moving surface. On a surfboard, your core muscles constantly adjust to keep your center of gravity over the board as waves shift underneath you. Without core stability, every wave would tip you off.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -73,19 +83,19 @@ Surfing and wave riding introduce young children to balance, wave awareness, and
 **Purpose**: Build body awareness, establish balance, prepare muscles for paddling and balancing
 
 **Warm-up activities**:
-1. Balance walking on shore - "Walk like a tightrope walker, arms out for balance"
-2. Arm circles and shoulder rotations - "Make big windmill circles with your arms"
-3. Jumping and lunging on sand - "Jump in the soft sand, feel it under your feet"
+1. Balance walking on shore — "Walk with one foot in front of the other. Feel your core muscles — your transverse abdominis wraps around your middle like a belt — tightening to keep you balanced. Your arms go out to shift your center of gravity and keep it over your feet."
+2. Arm circles and shoulder rotations — "These warm up your deltoids — the triangle-shaped muscles capping your shoulders — and your latissimus dorsi — the big muscles on your back that power paddling. Surfers use their lats more than almost any other muscle."
+3. Pop-up practice on sand — "Lie flat, hands by your chest, then push up and jump your feet forward. This is the surf pop-up. Your pectorals push your upper body up, then your quadriceps and core muscles lift and rotate you to standing. Let's practice on sand first — it's the same movement you'll do on the board."
 
-**Warm-up cues**: "We're going to ride waves like surfers! First, let's get our bodies ready and warm up"
+**Warm-up cues**: "Before we get in the water, let's understand what we'll feel. Waves are energy moving through water — the water itself mostly stays in place. That energy is going to push our board toward shore. Our job is to stay balanced by keeping our center of gravity over the middle of the board."
 
 ### Main Activity (8-13 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show the surfboard and explain how waves push it
-- Demonstrate the basic surf position: lying flat with hands near board edge
-- Show how to paddle with arms
-- Explain that they'll start in very shallow water
+- Show the surfboard: "This board is made of foam — it's much less dense than water, so it floats high. That's buoyancy — water pushes up on it harder than gravity pulls it down."
+- Demonstrate lying flat: "When you lie centered on the board, your center of gravity is right over the middle. If you shift too far forward, the nose dips because your weight is no longer balanced."
+- Show paddling: "Your latissimus dorsi — these big muscles on your back — pull your arms through the water. Each stroke pushes water backward, and Newton's Third Law says the water pushes you forward with equal force."
+- Explain the physics: "When a wave reaches you, it transfers its energy to your board. You feel a push — that's the wave's kinetic energy moving you toward shore."
 
 #### Skill Practice (3-4 minutes)
 
@@ -97,11 +107,11 @@ Surfing and wave riding introduce young children to balance, wave awareness, and
 5. **Balancing on board**: Keeping center of gravity centered, arms wide for stability
 
 **Coaching cues**:
-- "Hold the board like a teddy bear"
-- "Lay flat on your board like you're at the beach napping"
-- "Paddle with your arms like you're swimming, one arm then the other"
-- "Keep your balance by spreading your arms wide like airplane wings"
-- "Look where you want to go - the wave will carry you"
+- "Center your body on the board — your belly button should be right over the middle. That puts your center of gravity in the right place for maximum stability."
+- "Paddle by pulling water backward with your hands. Your latissimus dorsi muscles are doing the work — feel them in your back? Each pull is Newton's Third Law: push the water back, and the water pushes you forward."
+- "Feel the drag? Water is 800 times denser than air, so moving through it takes real force. Keep your body streamlined — flat and narrow — to reduce drag."
+- "When you feel the wave push, that's energy transferring from the wave to your board. Waves carry energy from wind that blew over the ocean sometimes hundreds of miles away."
+- "Arms out to the sides shifts your center of gravity and helps balance. If you start tipping left, lean your weight right — your obliques and core muscles make that adjustment."
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -135,11 +145,11 @@ Let child experiment with paddling, balancing, and riding waves at their own pac
 **Purpose**: Exit water safely, warm body, transition to rest, prevent chill
 
 **Cool-down activities**:
-1. Slow wade to shore with adult - "Walk slowly back to the beach"
-2. Wrap in towel and sit in shade - "Get warm and cozy in your towel"
-3. Rinse off with fresh water and rest - "Let's rest and drink some water"
+1. Slow wade to shore — "Feel how much harder it is to walk through water than through air? That's drag — water is 800 times denser than air, so it resists your movement much more."
+2. Wrap in towel and discuss thermoregulation — "You might feel cold getting out. Water conducts heat away from your body 25 times faster than air does, so you lose body heat quickly in water. The towel traps air next to your skin, and air is a good insulator."
+3. Stretch latissimus dorsi and shoulders — "These muscles did the most paddling work. Stretching helps remove the lactic acid that built up during exercise."
 
-**Transition**: "You were amazing wave riders today! Let's rest and dry off in the shade"
+**Transition**: "Your core muscles, your lats, and your cerebellum all got a serious workout today. Your cerebellum — the balance center at the back of your brain — was constantly calculating how to keep you stable on a moving surface. That's why surfing is one of the most neurologically demanding sports."
 
 ## Age Adaptations
 
@@ -147,28 +157,26 @@ Let child experiment with paddling, balancing, and riding waves at their own pac
 
 **Modifications**:
 - Use boogie board or very small, extremely stable board
-- Adult holds child on board in very shallow water
-- Focus on floating and feeling water movement rather than paddling
+- Adult holds child on board in very shallow water, narrating the physics: "Feel the water pushing up on the board? That's buoyancy!"
+- Focus on buoyancy experience: "Take a deep breath — feel yourself float higher? Your lungs filled with air, making you less dense." Let them experience density differences
 - Shorter active periods (5-8 minutes) with frequent rest breaks
-- Use floatation devices liberally (life jacket, noodles)
-- Emphasize play and sensation over technique
-- Allow child to control participation level
-- Practice on completely flat water first if possible
+- Name the core muscles during balance attempts: "Your tummy muscles — your abdominals — are working to keep you steady"
+- When waves arrive: "Feel that push? That's the wave's energy. The wave traveled maybe a mile to reach us, carrying energy the whole way"
+- Practice pop-ups on sand first, naming each muscle group involved
 
 **Duration**: 8-10 minutes total
 
-**Adult support**: Constant physical support on board, holding child secure, demonstrating movements
+**Adult support**: Constant physical support on board. Narrate the science: buoyancy when floating, drag when paddling, wave energy when riding. Even brief experiences build understanding of water physics.
 
 ### 3-4+ years
 
 **Challenges to add**:
-- Paddling independently with adult nearby
-- Deeper water and slightly larger waves
-- Extended time on board without adult support
-- Coordinated paddling with timing
-- Introduction to standing position (if confident swimmers)
-- Longer wave-riding sequences
-- Multiple paddling strokes before wave contact
+- Paddling independently — time the paddle strokes and count: "Each stroke moves you about half a meter. How many strokes to reach that marker? That's distance = strokes × distance per stroke"
+- Wave timing: "Watch the waves — they come in sets. Count the seconds between waves. Can you predict when the next one arrives?" This introduces wave period and frequency
+- Pop-up practice: "Push up with your pectorals, jump feet forward using your hip flexors, and stand with knees bent — your quadriceps hold you in that low position while your core keeps you centered"
+- Discuss wave formation: waves are created by wind over open ocean, travel for hundreds or thousands of miles, and break when the water becomes shallower than half the wavelength
+- Compare buoyancy: "Why does a foam board float but a wooden board is harder to float on? Density! Foam has tiny air pockets inside — it displaces lots of water while barely weighing anything"
+- Drag experiments: paddle with hands cupped vs. flat. "Cupped hands catch more water and create more propulsion — it's like having a bigger paddle"
 
 **Duration**: Can extend to 18-20 minutes with longer active periods
 
