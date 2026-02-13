@@ -2,17 +2,17 @@
 
 ## 🎯 Activity Summary
 
-Children explore the power of their voice and words by playing broadcaster games where they make pretend announcements, deliver news reports, or share messages with an audience. Through practicing clear speaking, projecting their voice, and addressing others, children develop confidence in communication, learn to speak intentionally, and discover how public speakers share information with groups of people.
+Children explore the science of how sound travels and how broadcasting technology works by playing broadcaster games where they make announcements, deliver news reports, and share messages with an audience. Through practicing articulation, vocal projection, and audience awareness, children learn real concepts: how their vocal cords (larynx) vibrate to create sound waves, how those waves travel through air to reach listeners' ears, how microphones convert sound waves into electrical signals, and how real broadcasters use diction, modulation, and pacing to communicate clearly to large audiences.
 
 ## Vocabulary
 
-**Broadcaster**: Someone who uses their voice and words to share information with many people at one time, like a news reporter or someone making an announcement.
+**Articulation**: Forming words clearly and precisely by controlling the movements of your tongue, lips, teeth, and jaw. Broadcasters practice articulation so every word is crisp and distinct—listeners can't rewind live speech, so each sound must be clear the first time.
 
-**Announcement**: A message or piece of news that is said aloud so that other people can hear it and understand important information.
+**Sound Waves**: Invisible vibrations that travel through the air from a speaker's mouth to a listener's ears. When you speak, your vocal cords (inside your larynx) vibrate rapidly, pushing air molecules in waves outward—just like ripples spreading in water when you drop in a stone.
 
-**Audience**: A group of people who listen to someone speaking or watch someone performing, giving them their full attention.
+**Modulation**: Changing the pitch, speed, volume, and tone of your voice to keep listeners interested and to emphasize important information. A good broadcaster modulates their voice—going louder for exciting news, slower for serious information, and higher in pitch for questions.
 
-**Project (your voice)**: To speak loud and clear enough that people far away can hear you well, using your voice like a beam that carries far.
+**Transmission**: Sending a signal from one place to another. In broadcasting, a microphone converts sound waves into electrical signals, which are then transmitted through cables or radio waves to speakers or screens far away—that's how one person's voice can reach millions of listeners simultaneously.
 
 ## 🎵 Learning Song
 
@@ -58,7 +58,7 @@ With announcements coming through
 
 ### Activity Overview
 
-This activity invites children to use their growing speaking skills in playful, powerful ways by creating their own broadcasts and announcements. Children become broadcasters—news anchors, weather reporters, sports commentators, or special event announcers—practicing clear speech, confident delivery, and the art of addressing an audience. Through this dramatic play, children discover that their voice matters and can communicate information to others.
+This activity invites children to use their growing speaking skills in playful, powerful ways by creating their own broadcasts and announcements—while learning the real science behind how sound and broadcasting work. Children become broadcasters—news anchors, weather reporters, sports commentators, or special event announcers—practicing articulation, vocal modulation, and audience awareness. Through this play, children discover how their larynx produces sound waves, how those waves travel through air, and how real broadcasting technology transmits a single voice to audiences far away.
 
 **Activity Type**: Communication/Performing Arts/Dramatic Play
 
@@ -97,13 +97,13 @@ This activity invites children to use their growing speaking skills in playful, 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Build excitement and explain the role. Say: "Today you get to be a broadcaster! That's someone who makes announcements for people to hear." Demonstrate with an enthusiastic sample announcement: "Attention everyone! It's snack time! Come to the kitchen!" Show them the broadcasting station and explain that they can announce anything they think of.
+   Build excitement and explain both the role and the science. Say: "Today you get to be a broadcaster! But first, let's understand how your voice works. Put your hand on your throat and hum—feel that vibration? Those are your vocal cords, inside a part called the larynx. When they vibrate, they push the air in waves—sound waves—that travel from your mouth all the way to someone's ears!" Demonstrate with an enthusiastic sample announcement: "Attention everyone! It's snack time! Come to the kitchen!" Then explain: "Real broadcasters use microphones. A microphone picks up those sound waves and converts them into electrical signals that can be transmitted through wires or radio waves to speakers far away. That's how one person's voice reaches millions of people!"
 
 2. **Exploration** (5-10 min):
-   Model several different broadcasting styles—a news reporter, weather person, sports commentator, or silly announcer. Use different voices and energy. Invite the child to repeat an announcement after you or help you make one together. Then invite the child to step up to the microphone and share their own announcements. Ask: "What would you like to announce?" Offer prompts if needed: "You could announce snack time, the weather, or something silly!"
+   Model several different broadcasting styles, explicitly demonstrating modulation—a news reporter (steady, clear, measured pace), a sports commentator (fast, excited, rising pitch), a weather person (calm, pointing to locations). Name what you're doing: "Notice how I'm modulating my voice—going faster and louder for the exciting sports news, but slower and calmer for the weather report. Modulation is how broadcasters use pitch, speed, and volume to match their message." Practice articulation together: say a tongue twister slowly, then faster. "Broadcasters practice articulation—making every sound crisp and clear—because listeners can't rewind live speech." Then invite the child to step up to the microphone and share their own announcements.
 
 3. **Discovery** (3-5 min):
-   Have the toy audience and yourself listen with full attention and respond: "Thank you for that announcement!" or "Great job!" Ask follow-up questions: "Tell us more!" or "What's happening next?" If the child is comfortable, record their announcements. Gently coach on clarity by asking: "Can you say that louder so everyone can hear?" rather than correcting.
+   Have the toy audience and yourself listen with full attention. Try a sound wave experiment: have the child whisper an announcement, then speak normally, then project loudly. "What changed? When you spoke louder, your vocal cords vibrated with more energy, creating bigger sound waves with more amplitude—that's why the sound traveled farther!" If the child is comfortable, record their announcements and play them back: "The microphone converted your sound waves into electrical signals, stored them, and now the speaker is converting them back into sound waves. That's the same transmission process real radio and TV stations use!"
 
 4. **Wrap-up** (2-3 min):
    Thank the child for their announcements and highlight a favorite moment: "I really liked your weather announcement!" Ask what they enjoyed about being a broadcaster. If you recorded, listen back together or share with other family members.

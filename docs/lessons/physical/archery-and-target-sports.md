@@ -14,6 +14,15 @@ Archery and target sports introduce young children to the concepts of aiming, fo
 
 **Space Required**: 15x15 feet minimum for safe throwing and target distance
 
+## Vocabulary
+
+- **Projectile**: Any object thrown or launched through the air. Once released, only two forces act on it: gravity pulling it down and air resistance slowing it. The path it follows is called a **parabolic arc** -- it curves upward, reaches a peak, then curves back down. Every dart, ball, or arrow follows this same shape of path.
+- **Trajectory**: The curved path a projectile follows through the air. Your brain's **cerebellum** (the wrinkly structure at the back of your brain that contains 50% of all your brain's neurons) learns to predict trajectories through repeated practice -- each throw gives it new data to calculate better predictions.
+- **Deltoid**: The large triangular muscle capping your shoulder, shaped like an upside-down triangle (the Greek letter delta). It has three sections: anterior (front), lateral (middle), and posterior (rear). The anterior deltoid does most of the work lifting your arm forward during a throw.
+- **Proprioception**: Your body's hidden "sixth sense" -- sensors called **muscle spindles** in your muscles and **Golgi tendon organs** in your tendons constantly send position data to your cerebellum, telling your brain exactly where your arm is in space without you having to look at it. This is what lets you aim even while your eyes stay on the target.
+- **Visual cortex**: The area at the back of your brain (occipital lobe) that processes everything you see. Area **V5/MT** specifically detects motion and helps you track a moving target. When you focus on a target, your visual cortex sends location data to your motor cortex, which plans the throwing motion.
+- **Kinetic chain**: The sequential transfer of force from your feet through your legs, hips, torso, shoulder, elbow, and wrist when throwing. Power starts from the ground and builds through each body segment -- this is why stepping forward with the opposite foot generates a more powerful throw than using just your arm.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -74,11 +83,11 @@ Archery and target sports introduce young children to the concepts of aiming, fo
 **Purpose**: Loosen shoulders and arms, practice gentle throwing motions, and build excitement for the activity
 
 **Warm-up activities**:
-1. Shoulder rolls - Show slow circles forward and backward. Say "Let's make your shoulders feel loose and ready, like we're drawing circles in the air."
-2. Arm circles - Small circles expanding to larger ones. Encourage "Big arm circles, then small ones! Feel your arms getting warm?"
-3. Gentle throwing practice - Toss a soft foam ball back and forth (6 feet apart). Say "Let's practice our throwing arms! Nice and easy tosses."
+1. Shoulder rolls - Show slow circles forward and backward. Say "We're warming up our **deltoid** muscles -- that's the big muscle on top of your shoulder. Feel it moving? Roll it forward... and backward. We're getting blood flowing to those muscles so they're ready to throw."
+2. Arm circles - Small circles expanding to larger ones. "Big arm circles use your deltoids and your **rotator cuff** -- four small muscles deep inside your shoulder that hold the joint together. Start with small circles, then bigger ones. Can you feel different muscles working as the circles get bigger?"
+3. Gentle throwing practice - Toss a soft foam ball back and forth (6 feet apart). Say "Watch the ball with your eyes -- your **visual cortex** at the back of your brain is tracking it right now! Toss it back to me. Your brain is learning the **trajectory** -- the curved path the ball takes through the air."
 
-**Warm-up cues**: "Our arms are waking up and getting ready to play target games! We're making circles and practicing our throws."
+**Warm-up cues**: "Our deltoids and rotator cuffs are waking up! We're getting blood flowing so our muscles are warm and ready. Your brain is also warming up -- your cerebellum is starting to calculate throwing trajectories!"
 
 ### Main Activity (8-12 minutes)
 
@@ -89,14 +98,14 @@ Archery and target sports introduce young children to the concepts of aiming, fo
 
 #### Skill Practice (3-4 minutes)
 **Skill breakdown**:
-1. **Stance and positioning** - Stand with feet shoulder-width apart, facing the target. One foot can be forward. Model this clearly.
-2. **Aiming focus** - Eyes on the target. Say "Look at your target. Keep looking while you throw."
-3. **Release motion** - Soft underhand or overhand toss (use whichever child manages better). Show both options and let child choose what feels natural.
+1. **Stance and positioning** - Stand with feet shoulder-width apart, facing the target. One foot can be forward. "Put your opposite foot forward -- this lets your body use the **kinetic chain**. Power starts from your feet pushing against the ground, travels up through your legs and hips, through your torso, and out through your arm. That's how real archers and throwers generate force!"
+2. **Aiming focus** - Eyes on the target. "Your **visual cortex** is locking onto the target right now. Keep looking at it! Your brain is measuring the distance and calculating the **trajectory** -- the curved path your dart needs to follow. Area V5 in your brain is a motion specialist."
+3. **Release motion** - Soft underhand or overhand toss (use whichever child manages better). "When you throw underhand, your **biceps** pull your forearm up and your **deltoid** swings the whole arm forward. When you throw overhand, your **triceps** straighten your elbow and snap the dart forward. Try both -- which feels more natural to you?"
 
 **Coaching cues**:
-- "Stand tall and look at your target - where do you want the dart to go?"
-- "Nice and easy throw - we're being gentle with our soft darts."
-- "Watch where it goes! Great aiming!"
+- "Stand tall, opposite foot forward -- activate that **kinetic chain**! Where do you want the dart to go?"
+- "Your **deltoid** lifts your arm, your **triceps** straighten it, and your fingers release the dart. All those muscles work in sequence!"
+- "Watch the **trajectory** -- the dart makes a curved path because **gravity** pulls it down the whole time it's flying. That curve is called a **parabolic arc**."
 
 #### Guided Play/Game (4-6 minutes)
 **Game structure**: "Target Challenge" - Each throw is a chance to hit the target
@@ -113,48 +122,50 @@ Archery and target sports introduce young children to the concepts of aiming, fo
 - Child waiting can retrieve darts and reset the target
 
 #### Free Exploration (1-2 minutes)
-- Let child experiment with different throws and distances
+- Let child experiment with different throws and distances. "Your **cerebellum** is learning from every single throw -- even the ones that miss! Each throw gives your brain more data about trajectory and force."
 - Step back slightly and let them aim and throw without directions
-- Observe: Are they focusing on the target? Experimenting with angles? Building confidence?
+- Observe: Are they focusing on the target? Experimenting with angles? "Notice how throwing harder makes the dart go straighter but farther? That's because more force fights gravity for longer before the dart curves down."
 
 ### Cool-Down (2-3 minutes)
 
 **Purpose**: Bring energy level down and transition to calmer activities while celebrating their effort
 
 **Cool-down activities**:
-1. Slow-motion throws - Throw darts in super slow motion, like underwater (3-4 gentle throws)
-2. Deep breathing - "Breathe in slowly... now out slowly. Good job focusing hard!"
-3. Celebration - Give high-fives and positive feedback about what they did well
+1. Slow-motion throws - Throw darts in super slow motion, like underwater (3-4 gentle throws). "In slow motion you can feel each muscle working -- your **deltoid** lifts, your **triceps** straighten, your fingers open. Your **proprioception** sensors are feeling every part of the movement."
+2. Deep breathing - "Breathe in slowly using your **diaphragm** -- the big dome-shaped muscle under your lungs... now out slowly. Your heart rate is coming down. Good job focusing hard!"
+3. Celebration - Give high-fives and positive feedback about what they did well. "Your **cerebellum** got an amazing workout today -- it processed hundreds of trajectory calculations!"
 
-**Transition**: "We worked so hard on hitting targets! Our arms got a great workout. Now we're going to rest and do something calm."
+**Transition**: "We worked so hard on hitting targets! Our deltoids and triceps got a great workout, and our cerebellum learned so much about trajectories. Now we're going to rest and do something calm."
 
 ## Age Adaptations
 
 ### 2-3 years
 **Modifications**:
-- Use lightweight foam balls (2-3 inches) instead of darts if hand-eye coordination is still developing
-- Very short distance (3-4 feet from target) to increase success rate
+- Use lightweight foam balls (2-3 inches) instead of darts if hand-eye coordination is still developing. At this age the **cerebellum** is rapidly building trajectory prediction circuits -- larger, slower projectiles give it more processing time.
+- Very short distance (3-4 feet from target) to increase success rate. Shorter distances mean a flatter **parabolic arc** -- the dart doesn't curve as much, making it easier for the visual cortex to predict where it will land.
 - Large targets (24+ inches wide) make hitting more achievable
-- Offer underhand throw option exclusively (easier to control)
-- Give lots of hand-over-hand help if needed (guide the throwing motion gently)
+- Offer underhand throw option exclusively -- it uses a simpler **kinetic chain** (fewer joints involved) and is easier for developing **proprioception** to coordinate
+- Give lots of hand-over-hand help if needed (guide the throwing motion gently) -- this builds **muscle memory** (procedural memory stored in the cerebellum)
 - Keep darts in your hand between throws so child always has one and can't get confused about the game
+- Use real terms naturally: "Your **deltoid** is lifting your arm! The dart makes a **trajectory** through the air!"
 
 **Duration**: 8-10 minutes total (shorter attention span)
 
 **Adult support**:
 - Stay right beside child
-- Gently guide their arm into throwing position
+- Gently guide their arm into throwing position -- you're helping their **motor cortex** learn the correct neural pattern
 - Help them understand "target" vs "other things"
 - Remove darts from play immediately if aiming becomes unsafe
 
 ### 3-4+ years
 **Challenges to add**:
-- Increase distance slightly (5-6 feet) as accuracy improves over weeks
-- Introduce simple aiming techniques - "Point with your finger first, then throw"
-- Try different throwing techniques - underhand vs overhand (different hand positions)
-- Add targets at different heights (standing target, hanging target)
-- "Accuracy challenge" - Count successful hits out of 5 throws (tracks progress)
-- Try multiple targets placed at angles (throw to different targets in sequence)
+- Increase distance slightly (5-6 feet) as accuracy improves. "The farther you stand, the more **gravity** curves the trajectory. You need to aim higher to compensate -- that's called **elevation adjustment**, just like real archers do!"
+- Introduce aiming techniques: "Point with your finger first -- you're giving your **visual cortex** a reference line to calculate the trajectory."
+- Try different throwing techniques -- underhand uses mainly **biceps** and **anterior deltoid**; overhand adds **triceps** and **latissimus dorsi** (the big back muscle). "Which muscles do you feel working differently?"
+- Add targets at different heights. "Higher targets need more force to fight **gravity**. Lower targets need less arc. Your **cerebellum** has to recalculate for each height!"
+- "Accuracy challenge" -- Count successful hits out of 5 throws. "Scientists track data just like this! Can you see your cerebellum getting better at predicting trajectories?"
+- Try multiple targets placed at angles. "Throwing at angles requires your **proprioception** to adjust your whole body rotation -- not just your arm!"
+- Introduce the concept of **launch angle**: "A 45-degree angle sends a projectile the farthest distance. That's physics! Try throwing at different angles and see which goes farthest."
 
 **Duration**: 12-15 minutes (longer focus and persistence)
 
@@ -179,11 +190,11 @@ Archery and target sports introduce young children to the concepts of aiming, fo
 
 **Challenge**: Child gets frustrated because they miss most throws
 
-**Why**: Hand-eye coordination and trajectory judgment are still developing. They may not have realistic expectations for their accuracy yet.
+**Why**: The **cerebellum** needs hundreds of repetitions to build accurate trajectory prediction models. At this age, **myelination** (the insulation of nerve fibers that speeds signals up to 100x) is still incomplete in the motor pathways, so signals between the visual cortex, motor cortex, and muscles are slower and less precise.
 
-**Solution**: Increase target size or decrease distance. Celebrate every throw equally, not just hits. "You threw that dart! You focused on the target! Great trying!" Help them hit it occasionally by placing target very close or guiding their arm. Success builds confidence.
+**Solution**: Increase target size or decrease distance -- a shorter distance means a flatter trajectory that's easier for the cerebellum to predict. Celebrate every throw equally, not just hits. "You threw that dart! Your cerebellum just learned something from that throw -- even misses teach your brain!" Help them hit it occasionally by placing target very close or guiding their arm. Success releases **dopamine**, which strengthens the neural pathways involved.
 
-**Timeline**: Accuracy improves significantly between ages 3-4. Expect more misses than hits at age 2.5-3. By 4+, many children start hitting consistently.
+**Timeline**: Accuracy improves significantly between ages 3-4 as myelination of motor pathways progresses. Expect more misses than hits at age 2.5-3. By 4+, many children start hitting consistently as cerebellar trajectory models become refined.
 
 ---
 
