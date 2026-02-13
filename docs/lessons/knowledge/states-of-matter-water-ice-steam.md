@@ -6,13 +6,13 @@ Children will discover how water can exist in three different forms—liquid, so
 
 ## Vocabulary
 
-**Solid**: Matter that has a fixed shape and doesn't flow. Ice is a solid—when you hold it, it keeps its block shape and doesn't change form.
+**Molecule**: The tiny building blocks that make up everything — water, air, your body. A single water molecule is made of two hydrogen atoms and one oxygen atom bonded together (H₂O). You can't see individual molecules; they're about 0.3 nanometers wide — you'd need to line up 3 million of them to span a single millimeter. What determines whether water is solid, liquid, or gas is how fast these molecules are moving.
 
-**Liquid**: Matter that flows and takes the shape of its container. Water is a liquid—when you pour it in a cup, it spreads out and fills the space.
+**Kinetic energy**: The energy of motion. When you heat something, you're making its molecules move faster — that's adding kinetic energy. In ice, water molecules vibrate gently in place. In liquid water, they slide past each other. In steam, they fly apart at hundreds of meters per second. Temperature IS molecular motion — a thermometer measures how fast molecules are jiggling.
 
-**Evaporate**: When water transforms from a liquid into an invisible gas that floats up into the air. Steam rising from a hot bath is water evaporating.
+**Phase transition**: The moment matter changes from one state to another — solid to liquid (melting), liquid to gas (evaporation/boiling), or the reverse (condensation, freezing). Water freezes at exactly 0°C (32°F) and boils at exactly 100°C (212°F) at sea level. These aren't gradual changes — at the transition point, all the added heat energy goes into breaking molecular bonds rather than raising temperature. That's why ice water stays at 0°C until ALL the ice has melted.
 
-**Freeze**: When a liquid becomes solid by getting very cold. Water freezes into ice when it's put in the freezer.
+**Crystal lattice**: The rigid, repeating geometric structure that molecules form in a solid. In ice, water molecules lock into a hexagonal (six-sided) lattice held together by hydrogen bonds. This lattice has more space between molecules than liquid water — which is why ice floats. This is extremely unusual; most substances are denser as solids. If ice sank instead of floated, lakes would freeze from the bottom up and kill all aquatic life.
 
 ## Learning Song
 
@@ -110,31 +110,37 @@ Children will explore all three states of matter through direct sensory experien
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Begin by showing the ice cubes and asking, "What is this? How does it feel?" Let the child touch the ice and describe it as cold and hard. Say: "This is ice—it's water that got so cold it became solid and hard. It has a shape and doesn't flow." Introduce the word "solid" and have them repeat it.
+1. **Introduction — Molecules and Motion** (2-3 min):
+   Begin by showing the ice cubes. "This is ice. It's made of water molecules — tiny pieces called H₂O. Two hydrogen atoms stuck to one oxygen atom. Right now, those molecules are barely moving — they're locked together in a pattern called a crystal lattice. That's why ice is hard and keeps its shape." Let the child hold the ice. "Feel how solid it is? The molecules are vibrating gently but stuck in place."
 
-2. **Exploration—Phase 1: Solid Ice** (3-4 min):
-   Let the child hold an ice cube in their hand over a shallow container or pan. Ask questions: "What do you notice? Is it changing? Can you break it? How does it feel?" Encourage them to observe carefully. Let them hold it for several minutes and watch as it begins to melt.
+2. **Exploration—Phase 1: Melting (Solid → Liquid Phase Transition)** (3-4 min):
+   Let the child hold an ice cube over a shallow container. "Your hand is warm — about 37°C. The ice is 0°C or colder. Your hand's heat energy is making the ice molecules jiggle faster. When they get enough kinetic energy, they break free from the crystal lattice." As water appears: "See the water forming? That's a phase transition — the moment solid becomes liquid. The molecules are now sliding past each other instead of locked in place. And here's something remarkable: while the ice is melting, the water stays at exactly 0°C. All the heat goes into breaking bonds, not raising temperature."
 
 3. **Exploration—Phase 2: Liquid Water** (5-7 min):
-   As the ice melts, point out the water forming on their hand and dripping into the container. Say: "The ice is becoming water! The water is liquid—it flows and spreads out." Show them the water in the container and introduce the word "liquid." Let them watch the ice cube continue melting. You can also show them the warm water and cool water in separate cups and ask, "Which water is warmer? Which is colder?" Let them dip their finger in each to feel the difference.
+   Show the melted water in the container. "In liquid water, the molecules are still touching each other but they're free to move around — that's why water flows and takes the shape of its container." Pour water between cups to demonstrate. Show warm and cold water side by side. "Which feels warmer? The warm water molecules are moving faster — more kinetic energy. The cold water molecules move slower."
+   - **Ice floats experiment**: Drop an ice cube in a cup of water. "Look — ice floats! That's extremely unusual. Almost every other substance sinks when it's solid. Ice floats because the crystal lattice has gaps — the molecules are actually farther apart in ice than in liquid water, so ice is less dense. If ice didn't float, lakes and oceans would freeze solid from the bottom up, and fish couldn't survive winter."
 
-4. **Exploration—Phase 3: Water Transformation** (2-3 min):
-   If safely possible, show water in a cup and explain: "When we heat water very hot, it can turn into steam—a gas that floats up into the air. We can't always see it, but it's there!" You can demonstrate this safely by letting them see steam rising from a cup of very warm water (never boiling water near small children). Keep a safe distance. Point upward and say, "Watch the steam go up, up, up into the air."
+4. **Exploration—Phase 3: Evaporation (Liquid → Gas)** (2-3 min):
+   Show steam rising from a cup of very warm water (keep a safe distance). "When water gets hot enough, the molecules move so fast they escape into the air — that's evaporation. The steam you see is actually tiny water droplets. Truly gaseous water is invisible. At 100°C — that's 212°F — water boils, and molecules escape so fast the liquid bubbles violently." Point to the steam cooling and disappearing. "When steam cools and turns back into liquid droplets, that's called condensation — the reverse phase transition. That's how clouds form: water evaporates from oceans, rises, cools, and condenses into tiny droplets."
 
 5. **Discovery** (2 min):
-   Ask guiding questions: "Can you tell me the three ways water can be? What happens when ice gets warm? What happens when water gets very, very hot?" Have the child describe their observations in their own words.
+   "So what determines whether water is solid, liquid, or gas?" (How fast the molecules are moving — kinetic energy.) "What temperature does water freeze at?" (0°C / 32°F.) "Why does ice float?" (Crystal lattice has gaps — ice is less dense than liquid water.) "What's the reverse of evaporation?" (Condensation.) Let the child describe the phase transitions in their own words.
 
 6. **Wrap-up** (2-3 min):
-   Gather the materials and dry hands together. Review: "Today we learned that water can be three different things—solid ice, liquid water, and invisible steam gas. All three are still water, just in different forms!" Praise their careful observations and scientific thinking.
+   "Today we learned that solid, liquid, and gas are all the same water molecules — H₂O — just moving at different speeds. Slow molecules lock into a crystal lattice (ice), faster molecules slide past each other (liquid), and the fastest ones fly apart (gas). Every substance in the universe follows these same rules. And water is special because its ice floats — one of the reasons life on Earth is possible."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep the experience sensory and simple. Focus primarily on ice and water. Use simple one-word descriptions: "cold," "hard," "water," "melting." Let them freely explore the tactile sensations without pressure to name the states. Observation is more important than vocabulary mastery at this age. Avoid the steam demonstration for this age group due to safety concerns.
+Focus on ice and liquid water. Still use the real terms — "These are molecules," "That's a phase transition," "The crystal lattice is breaking" — but pair each with the direct sensory experience. Let them hold ice and feel it melt. Say "molecules" while wiggling your fingers (slow for ice, fast for water). The ice-floats experiment works perfectly at this age — drop ice in water and let them discover it floats. Skip the steam demonstration for safety. The core concepts at this age: molecules exist, they move faster when warm, and ice floats because of the crystal lattice.
 
 **3-4+ years**:
-Introduce all three states with vocabulary words. Ask more detailed questions about why ice melts and where the water goes. Use the thermometer to show "hot" and "cold" concepts. Safely demonstrate steam (with your hand at safe distance from the heat source). Challenge them to predict what will happen before observing: "What do you think will happen to the ice?" Extend to discussions about where water goes when it evaporates (puddles after rain, wet hair drying).
+- Introduce all three phase transitions with temperature numbers: "Water freezes at 0°C and boils at 100°C."
+- Use the thermometer to track temperature during melting. Challenge them: "The ice is melting but the temperature isn't going up! All the energy is breaking molecular bonds."
+- Demonstrate condensation: breathe on a cold mirror or window. "Your warm breath has water vapor. The cold glass makes the molecules slow down and condense back into liquid droplets."
+- Explore the **water cycle** as connected phase transitions: evaporation from oceans → condensation into clouds → precipitation (rain/snow) → collection in rivers and lakes → repeat.
+- Introduce **plasma** as the fourth state of matter: "If you heat gas to thousands of degrees, electrons rip off atoms — that's plasma. Lightning, the sun, and neon signs are all plasma."
+- Freeze different liquids (juice, milk, salt water) and compare freezing points. "Salt water freezes below 0°C — that's why we put salt on icy roads!"
 
 ### Extension Ideas
 

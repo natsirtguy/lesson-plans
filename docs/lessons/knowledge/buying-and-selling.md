@@ -6,13 +6,13 @@ Children explore the fundamental concept of exchanging money or items for goods 
 
 ## Vocabulary
 
-**Transaction**: A trade or exchange where one person gives something and receives something in return. When you buy groceries at the store, that's a transaction between you and the shopkeeper.
+**Supply and demand**: The two forces that determine prices everywhere. Supply is how much of something is available; demand is how many people want it. When lots of people want something but there isn't much of it (low supply, high demand), the price goes up. When nobody wants something and there's plenty of it, the price goes down. Every price you see in a store is set by this invisible tug-of-war.
 
-**Customer**: A person who buys goods or services from a store or business. The customer pays money to get what they need.
+**Medium of exchange**: Something everyone agrees to accept in trade — that's what money is. Before money existed, people had to barter (trade goods directly), but barter has a problem called the "double coincidence of wants": if you have apples and want fish, you have to find someone who has fish AND wants apples. Money solves this because everyone accepts it, so you can trade apples for money, then money for fish. Shells, salt, gold, and paper have all served as mediums of exchange throughout history.
 
-**Merchant** (or Shopkeeper): A person who sells goods or services to customers. The merchant works at the store and helps customers find what they want.
+**Scarcity**: When there isn't enough of something for everyone who wants it. Scarcity is the fundamental problem that all economics tries to solve. If everything were unlimited, nothing would have a price and no one would need to make choices. Because things ARE scarce, people must decide what to buy, what to make, and what to give up.
 
-**Currency**: Money that people use to buy and sell things. Different countries have different currency, like dollars, euros, or coins.
+**Profit**: The money a seller keeps after subtracting what it cost them to get or make the product. If a merchant buys apples for 2 coins each and sells them for 5 coins, the profit is 3 coins per apple. Profit is the incentive that motivates people to produce and sell things — without it, no one would bother running a shop.
 
 ## Learning Song
 
@@ -101,54 +101,53 @@ Children set up and operate a pretend store where they take turns being the shop
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   - Excitedly announce: "We're opening a store today! We can buy and sell things just like at the grocery store."
-   - Show the "store" setup and explain the roles: "One person is the shopkeeper who sells things. One person is the customer who buys things with money."
-   - Hold up play money and say: "This money is what we use to buy things. When customers give money, shopkeepers give them items."
-   - Model one simple transaction: Hand the child play money, take it from them, and give them an item while saying, "You gave me money, and I gave you an apple!"
+1. **Introduction — The Barter Problem** (2-3 min):
+   - Start WITHOUT money: "Before we open our store, let's try something. I have apples and I want your toy car. But you don't want apples — you want a book. And the person with books wants blocks, not apples. How do we solve this?"
+   - Let the child experience the frustration of barter — the "double coincidence of wants" problem. "I can't trade with you because you don't want what I have!"
+   - Now introduce money: "This is why people invented money — a medium of exchange. Everyone agrees to accept it, so I can sell apples for coins, then use those coins to buy your car. Money solved the problem!"
+   - Briefly mention: "People have used shells, salt, even giant stones as money. What matters is that everyone agrees it has value."
 
-2. **Exploration** (8-12 min):
-   - Have the child be the customer first (easier role): Give them play money and encourage them to "shop" by choosing items they want
-   - Ask: "What do you want to buy? Do you have enough money?" as they explore
-   - Take their money and give them the items, narrating: "Great choice! You're buying a book!"
-   - After a few transactions, switch roles: You be the customer and the child becomes the shopkeeper
-   - The child takes your money and gives you items, practicing the exchange
-   - Encourage them to ask, "What do you want to buy?" just like a real shopkeeper
+2. **Exploration — Supply, Demand, and Pricing** (8-12 min):
+   - Set up the store with price tags. Start with plenty of each item.
+   - Child shops first as customer. As they buy items, narrate: "You're choosing what's worth your money. That's what every customer does — deciding where their money goes."
+   - **Scarcity experiment**: After several items sell, announce: "We only have ONE teddy bear left, and two people want it!" Raise the price. "When something is scarce — when there isn't enough for everyone — the price goes up. That's supply and demand."
+   - Switch roles — child becomes the merchant. Give them a "wholesale cost" for each item (e.g., "You bought these apples for 1 coin each"). Let them set their own selling prices.
+   - After sales, count together: "You bought apples for 1 coin and sold them for 3 coins. Your profit is 2 coins per apple! That's the money you keep for running the shop."
+   - If items aren't selling, prompt: "Nobody's buying your cookies at 5 coins. What could you do?" Guide them toward lowering the price — demand responds to price.
 
-3. **Discovery** (2-3 min):
-   - Ask questions during play: "Why do we need money?" (To buy things), "What happens when the shopkeeper takes your money?" (You get something), "Do you like being a customer or a shopkeeper better?"
-   - Point out real-world connections: "At the grocery store, people do this with real money to buy food. This is how shopping works!"
-   - If using price tags, practice matching the right amount of coins to the price
+3. **Discovery — Why Economies Exist** (2-3 min):
+   - "Why did we need a store? Because nobody can make everything themselves. The baker makes bread, the farmer grows food, the builder makes houses. Everyone specializes and then trades. That's called division of labor."
+   - Ask: "What happened when we ran out of teddy bears?" (Price went up — supply and demand.) "What did you do when nobody wanted your cookies?" (Lowered the price.) "These are the same rules that every real store in the world follows."
+   - "Your profit is what makes it worth your time to run the shop. Without profit, nobody would bother selling anything."
 
 4. **Wrap-up** (2-3 min):
-   - Announce: "The store is closing for today! Let's put everything away together."
-   - Help the child organize items back to their original locations
-   - Transition with: "You were such a great shopkeeper (and customer)! Tomorrow, maybe we'll open another store with different things to sell."
+   - Count the merchant's total profit together. "You started with 10 coins of inventory and now have 18 coins. Your profit was 8 coins!"
+   - Announce: "The store is closing! Let's put everything away."
+   - Transition with: "Today we learned why money was invented, how supply and demand set prices, and how merchants earn profit. Tomorrow we could try a market with competition — two stores selling the same things!"
 
 ### Age Adaptations
 
 **2-3 years**:
-- Skip price tags and counting money; focus purely on the exchange experience
-- Use only 3-4 items in the store to avoid overwhelming choices
-- Play the shopkeeper role mostly yourself; let the child be customer and focus on handing over money and receiving items
-- Use very simple language: "Money for apple" instead of "transaction"
-- Keep transactions quick and playful rather than extended scenarios
+- Start with the barter problem in simplified form — try to trade two items and discover the mismatch. Then introduce money as the solution ("Now everyone can trade!").
+- Use only 3-4 items in the store. Focus on the basic exchange: coins go to the merchant, item goes to the customer.
+- Demonstrate scarcity concretely: remove items as they "sell" and say "All gone! That one is scarce now." Use the real word.
+- Still use the real vocabulary — "You're the merchant now" and "That's your profit" — but pair each term with a concrete action.
+- Keep transactions quick and playful; the barter problem and scarcity concepts are the core intellectual content at this age.
 
 **3-4+ years**:
-- Introduce simple price tags with pictures or 1-3 dots representing cost
-- Practice matching 2-3 coins to the price (beginning number sense)
-- Encourage extended role-play with multiple customers and transactions
-- Add complexity: "Do you have enough money?" (comparing amounts)
-- Let child suggest which items to stock in the store and make simple price decisions
-- Introduce receipts (simple paper with a scribble) for more authentic play
+- Full supply-and-demand experiment: let the child set prices, then adjust based on whether items sell. "Nobody bought it at 5 coins. What if you tried 3?"
+- Calculate profit together after each sale: wholesale cost vs. selling price. "You paid 1, sold for 3, that's 2 coins profit."
+- Introduce **competition**: set up two stores selling similar items. "If both stores sell apples, who gets the customer? The one with the lower price! That's competition, and it keeps prices fair."
+- Explore **opportunity cost**: "You can buy the teddy bear OR the truck, but not both. The one you don't buy is your opportunity cost — what you give up."
+- Discuss the history of money: shells (cowrie shells in Africa and Asia), salt (Roman soldiers paid in salt — that's where 'salary' comes from), coins (first minted in Lydia, modern Turkey, around 600 BCE), and paper money (China, Song Dynasty, ~1000 CE).
 
 ### Extension Ideas
 
-**Variation 1 - Restaurant Role Play**: Transform the store into a café where you "sell" snacks (crackers, apple slices, water) using play money. Children practice ordering, paying, and serving.
+**Variation 1 - Inflation Experiment**: Give the child twice as much money but keep the same items. "Now everyone has more money, but we still have the same amount of stuff. What happens?" Prices rise. That's inflation — when there's more money chasing the same goods, each coin becomes worth less.
 
-**Variation 2 - Farmer's Market**: Set up the store with only fresh "produce" (plastic fruits, play vegetables) to explore how farmers sell goods to customers at markets.
+**Variation 2 - Farmer's Market with Specialization**: Set up multiple "farms" that each produce only one thing. "Your farm only grows apples. My farm only has milk. We both need both things. What do we do?" Trade. That's specialization and trade — each person does what they're best at and trades for the rest.
 
-**Repeat Play**: Change the items in the store every few days (use different toys, books, or items) to keep the play fresh. Rotate who starts as the shopkeeper to ensure both roles feel engaging.
+**Repeat Play**: Change the items, adjust scarcity levels, and introduce new economic concepts each session: competition (two stores), surplus (too much supply drives prices down), savings (setting aside profit for a future purchase). Track profit over multiple sessions to introduce long-term thinking.
 
 ## Parent/Caregiver Notes
 
