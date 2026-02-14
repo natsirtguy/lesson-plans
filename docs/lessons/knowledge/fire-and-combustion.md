@@ -6,13 +6,13 @@ Children will explore the scientific concept of fire and combustion through safe
 
 ## Vocabulary
 
-**Combustion**: The chemical process where something burns and combines with oxygen, releasing heat and light energy. *Example: When we light a birthday candle, combustion happens and creates the flame that makes light and warmth.*
+**Combustion**: A chemical reaction where a substance combines rapidly with oxygen — this is actually rapid oxidation (the same process that causes rust, but happening so fast it produces flames). The fuel molecules break apart and their atoms recombine with oxygen atoms to form new molecules: carbon dioxide (CO₂) and water vapor (H₂O). *Example: When we light a birthday candle, combustion happens as wax vapor molecules react with oxygen, their atoms rearranging into CO₂ and H₂O while releasing energy as flame.*
 
-**Fuel**: Any material that can burn and provide energy through combustion. *Example: Candle wax is a fuel, just like wood in a fireplace or gas in a car engine.*
+**Oxidation**: A chemical reaction where a substance combines with oxygen. Rust on a bicycle is slow oxidation; a campfire is fast oxidation — the same type of reaction at different speeds. An apple turning brown is oxidation too. *Example: When an apple slice turns brown sitting on the counter, that's slow oxidation — the apple's molecules are reacting with oxygen in the air, just like fire does but much more slowly.*
 
-**Heat Energy**: The invisible power that makes things warm and causes combustion to happen. *Example: The sun's heat energy travels to Earth, and the warmth you feel on your skin is heat energy from far away.*
+**Fuel**: Any material that can undergo combustion. Most fuels — candle wax, wood, gasoline — are hydrocarbons, molecules built from hydrogen and carbon atoms. When they burn, those atoms combine with oxygen to produce carbon dioxide and water vapor as products. *Example: Candle wax is a hydrocarbon chain — as it burns, carbon atoms become CO₂ gas and hydrogen atoms become H₂O vapor, which is why a flame produces invisible gases.*
 
-**Oxygen**: An invisible gas in the air that all living things breathe and that fire needs to burn. *Example: When you breathe in, oxygen fills your lungs; when a candle burns, the flame uses oxygen from the air too.*
+**Exothermic**: A reaction that releases energy (from Greek "exo" meaning out and "thermos" meaning heat). Combustion is exothermic because it releases more energy than it takes to start — that's why a tiny match can ignite a huge bonfire. The opposite — endothermic — absorbs energy, like ice melting. *Example: The warmth you feel near a candle is energy that was stored inside the wax molecules, now released through the exothermic combustion reaction.*
 
 ## Learning Song
 
@@ -110,9 +110,9 @@ Children will safely observe a real candle flame and explore what fire needs to 
 2. **Exploration** (8-10 minutes):
 
    **Part A - Observe the Flame** (2-3 min):
-   - Light the candle slowly and carefully, narrating as you do: "Now I'm giving the candle heat energy with the match. Watch what happens..."
+   - Light the candle slowly and carefully, narrating as you do: "Now I'm giving the candle heat energy with the match. That heat starts a chemical reaction called combustion — the wax is combining with oxygen. Watch what happens..."
    - Once lit, ask children to observe: "What do you see? What color is the flame? What shape is it? Does it move?"
-   - Point out: The bright yellow/orange part is the flame, the invisible part above is hot gases, the very tip is the hottest part
+   - Point out: "The bright yellow part is incandescence — tiny carbon particles heated so hot they glow. The blue part near the base is the hottest — that's where oxidation is happening fastest. The invisible shimmer above is hot carbon dioxide and water vapor rising — those are the products of combustion."
 
    **Part B - Feel the Heat Energy** (2-3 min):
    - Hold your hand (or the child's hand with permission) about 12 inches above the flame
@@ -121,16 +121,16 @@ Children will safely observe a real candle flame and explore what fire needs to 
    - Explain: "This is one thing fire needs - heat energy to keep burning"
 
    **Part C - Show Oxygen's Role** (2-3 min):
-   - Say: "Now let's see something amazing. Fire needs oxygen from the air, just like we breathe oxygen. What happens if we take the oxygen away?"
+   - Say: "Now let's see something amazing. Fire needs oxygen for the oxidation reaction. What happens if we take the oxygen away?"
    - Slowly place the glass container over the candle
    - Watch together as the flame dims and eventually goes out
-   - Ask: "What happened? The flame is smaller... smaller... and now it's gone! Why? Because we blocked the air - the oxygen - from reaching the fire!"
+   - Ask: "What happened? The flame used up all the oxygen inside the glass — the combustion reaction consumed it, turning it into carbon dioxide. With no more oxygen, the oxidation reaction stops and the flame goes out!"
    - Remove the container: "Now let's give it oxygen again..." The flame reignites or you can relight it
-   - Explain: "That's amazing! Fire needs oxygen to keep burning. That's our third thing!"
+   - Explain: "The combustion reaction is exothermic — it releases energy as heat and light. But it can only keep going as long as it has oxygen to react with!"
 
    **Part D - Discuss Fuel** (1-2 min):
-   - Point to the candle wax: "See this? The wax is the fuel. The fuel is what actually burns. As the wax melts and burns, it gets used up. Eventually the whole candle will be gone!"
-   - Show the melted wax pool: "See how the wax is melting? That's from the heat energy. The flame is eating the wax as fuel."
+   - Point to the candle wax: "See this? The wax is a hydrocarbon fuel — it's made of carbon and hydrogen atoms. As it melts and vaporizes, those atoms combine with oxygen atoms from the air. The carbon becomes carbon dioxide gas, and the hydrogen becomes water vapor. That's why the candle slowly disappears — its atoms are literally being rearranged into new molecules!"
+   - Show the melted wax pool: "See how the wax is melting? The heat energy from the exothermic reaction melts the solid wax into liquid, then the liquid wax travels up the wick by capillary action and vaporizes into a gas — and that gas is what actually burns."
 
 3. **Discovery** (3-5 minutes):
 
@@ -139,19 +139,19 @@ Children will safely observe a real candle flame and explore what fire needs to 
    - "Where did the heat come from to start our candle?" (The match gave it heat)
    - "Where does the oxygen come from that fire needs?" (From the air around us)
    - "What would happen if we lived somewhere with no oxygen?" (Fire couldn't burn)
-   - "What other things burn like our candle? Can you think of campfires, stoves, or the sun?"
+   - "What other things undergo combustion? Can you think of campfires, stoves, or car engines?"
 
    Point out observations:
-   - The flame color and why it varies (different temperatures)
-   - The smoke rising (that's hot gases going up)
-   - The flickering motion (the flame moves as air moves around it)
-   - The way the candle wax melts into a pool
+   - The flame color: blue at the base (hottest, ~1,400°C, complete combustion), yellow in the middle (incandescent carbon particles, ~1,000°C), orange at the tip (cooler, incomplete combustion producing soot)
+   - The smoke rising: hot CO₂ and water vapor are less dense than surrounding air, so they rise — this is convection
+   - The flickering motion: air currents disturb the oxidation reaction zone
+   - The way the candle wax melts into a pool: solid → liquid → gas phase transitions, with the wick acting as a capillary channel
 
 4. **Wrap-up** (2-3 minutes):
 
    - Carefully blow out the candle together (or let it continue burning while supervised)
    - As it goes out, say: "When we blew it out, we blew away the heat and the oxygen. Without those, the fire couldn't keep going!"
-   - Review key concepts: "Today we learned that fire needs three things: heat energy, fuel, and oxygen. When all three are together, we get combustion - that's when things burn!"
+   - Review key concepts: "Today we learned about the fire triangle: heat energy, fuel, and oxygen. When all three are together, we get combustion — an exothermic oxidation reaction that produces carbon dioxide and water vapor. The wax molecules break apart and their atoms recombine with oxygen into new molecules!"
    - Transition: "We're fire scientists now! Whenever you see a candle, a fireplace, or even the sun, you can remember what we learned about combustion!"
 
 ### Age Adaptations
@@ -159,23 +159,22 @@ Children will safely observe a real candle flame and explore what fire needs to 
 **2-3 years**:
 - Use only a tea light candle or votive candle (smaller, less intense)
 - Keep children further away (at least 2 feet from flame)
-- Simplify vocabulary: Use "hot," "burn," "air" instead of combustion and oxygen
-- Focus primarily on observation: watching the flame move and change color
-- Keep the glass container demo very brief (children have shorter attention spans)
-- Don't attempt to relight the candle multiple times - one demo per session
-- Make it more sensory: emphasize what they see, hear (crackling), and feel (warmth)
-- Skip the fuel discussion - just say "the candle gets used up"
+- Use real terms alongside simple language: "That's combustion — the wax is burning." "The flame needs oxygen — that's a gas in the air we breathe." Children won't memorize every term, but early exposure builds familiarity
+- Focus primarily on observation: watching the flame move and change color, noticing the blue vs. yellow parts
+- Keep the glass container demo very brief — one demo per session, narrating simply: "The flame used up all the oxygen inside!"
+- Make it more sensory: emphasize what they see (incandescence — glowing hot particles), hear (crackling), and feel (warmth — exothermic energy release)
+- For fuel, say: "The wax is fuel. It's turning into invisible gases — carbon dioxide and water vapor — as it burns. That's why the candle gets smaller!"
 
 **3-4+ years**:
 - Use a standard pillar candle or larger candle for better visibility
 - Children can stand closer (12-18 inches) with close supervision
-- Introduce full vocabulary: combustion, fuel, oxygen, heat energy
-- Conduct multiple demonstrations: flame under glass, flame with air flow, comparing different candle sizes
-- Ask more complex "why" questions: Why does the flame point up? Why is some of it blue?
-- Invite children to make predictions: "What do you think will happen if I blow on the flame?"
-- Discuss safety more thoroughly: "Why can't you touch the flame? Why does it need grown-ups nearby?"
-- Extend to other examples: How does a stove work? What about a fireplace?
-- Show the wax melting and dripping, discuss where the wax goes (evaporation)
+- Use full vocabulary: combustion, oxidation, exothermic, fuel, hydrocarbon, carbon dioxide, water vapor, incandescence
+- Conduct multiple demonstrations: flame under glass (oxygen depletion), flame with air flow (oxygen supply), comparing different candle sizes (more fuel = longer burn)
+- Explain flame zones: "The blue part at the base is complete combustion — every fuel molecule finds an oxygen molecule. The yellow part is incomplete combustion — some carbon particles don't find oxygen, so they glow white-hot instead. That glowing is called incandescence."
+- Ask: "Why does the flame point up?" (Hot gases are less dense than cold air, so they rise — convection.) "Why is some of it blue?" (Different temperatures — blue is hotter than yellow.)
+- Discuss slow vs. fast oxidation: "Rust is slow oxidation — iron combining with oxygen very slowly. Fire is fast oxidation — the same kind of reaction but happening quickly enough to produce flames."
+- Compare combustion to other energy sources: "A car engine burns gasoline — that's combustion too. But the sun is different — it uses nuclear fusion, smashing hydrogen atoms together, not combustion. The sun doesn't need oxygen at all!"
+- Show the wax melting and dripping, trace the fuel's journey: solid wax → liquid wax → wax vapor → combustion → CO₂ + H₂O gases
 
 ### Extension Ideas
 
@@ -217,7 +216,7 @@ Children will safely observe a real candle flame and explore what fire needs to 
 
 2. **Story Connection**: Read books about fire safety or books featuring fire (like "The Little Engine That Could" or "Where the Wild Things Are" which mentions fire). Talk about the story in terms of what you learned: "Remember how fire needs heat, fuel, and oxygen?"
 
-3. **Sun Observation**: On a sunny day, talk about the sun as a giant fire in space: "The sun is burning like our candle, giving us heat and light. But it's SO much bigger and hotter! The combustion in the sun is what keeps us warm here on Earth."
+3. **Sun Observation**: On a sunny day, compare the sun to the candle: "The sun gives us heat and light like our candle, but it works completely differently! Our candle uses combustion — fuel combining with oxygen. The sun uses nuclear fusion — it smashes hydrogen atoms together so hard they fuse into helium atoms, releasing enormous energy. The sun doesn't need oxygen at all — there's almost none in space! Fusion is millions of times more powerful than combustion."
 
 4. **Cooking Together**: Involve children in cooking where they can safely observe heat transformation: "See how the heat from the flame is cooking our food? Heat energy from combustion is changing the food." Keep them at a safe distance but let them observe.
 

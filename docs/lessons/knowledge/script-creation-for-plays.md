@@ -6,13 +6,13 @@ Children create simple scripts by writing dialogue for characters, combining lan
 
 ## Vocabulary
 
-**Script**: A written text that shows what characters say and do in a play or performance. When you create a script, you're writing the exact words your characters will speak.
+**Playwright**: The person who writes a play — "wright" is an Old English word meaning "craftsperson" or "builder" (like a wheelwright who builds wheels, or a shipwright who builds ships). A playwright builds stories. The first known playwright was Thespis in ancient Greece around 534 BCE — before him, plays were performed by a chorus singing together, and Thespis was the first person to step out and speak as an individual character. That's why actors are still called "thespians" today. *Example: When you write words for your characters to say, you're being a playwright — the same craft Thespis invented 2,500 years ago.*
 
-**Character**: A person, animal, or creature in a story or play with their own personality, voice, and actions. Each character has different things they might say and do.
+**Dramatic arc**: The structure that nearly every story follows — Aristotle described it in 335 BCE as having a beginning (setup — who are the characters and what's normal?), a middle (conflict — something goes wrong or a challenge appears), and an end (resolution — how is the problem solved?). Modern storytelling adds rising action (tension builds) and a climax (the most intense moment). This structure works because human brains are wired to detect patterns and feel tension, then satisfaction when it resolves. *Example: In "The Three Little Pigs," the setup is three pigs building houses, the rising action is the wolf blowing down weaker houses, the climax is the wolf at the brick house, and the resolution is the wolf failing. That's a dramatic arc.*
 
-**Dialogue**: The words that characters speak to each other in a conversation. Dialogue is what makes characters come alive and tells the story through their voices.
+**Stage direction**: Written instructions in a script that tell actors what to DO beyond speaking — written in brackets like [enters from left], [whispers], [picks up sword], [exits running]. Stage directions are different from dialogue because the audience never hears them — they're instructions for the performers. Professional scripts use specific conventions: "stage left" means the actor's left (the audience's right), and "upstage" means toward the back (from when stages were tilted so the back was literally higher up). *Example: In a script, you might write: BEAR [enters slowly, looking sleepy]: "Good morning!" — the part in brackets is the stage direction telling the actor HOW to enter.*
 
-**Improvise**: To create something new and perform it without planning it ahead of time. When you improvise, you use your imagination to make up ideas as you go.
+**Dialogue**: The words characters speak to each other — from the Greek "dialogos" meaning "through words." In a script, dialogue does three things simultaneously: it reveals character (HOW someone speaks shows who they are), advances the plot (what they say moves the story forward), and creates subtext (what they really mean underneath their words). Shakespeare wrote about 884,000 words of dialogue across 37 plays. *Example: If a character says "Fine!" with arms crossed, the dialogue says one thing but the subtext — the real meaning — is the opposite. That gap between words and meaning is what makes drama interesting.*
 
 ## 🎵 Learning Song
 
@@ -98,29 +98,34 @@ Children explore creating simple narratives through dialogue, combining writing 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Show a prop and demonstrate: "We're going to create stories that characters will tell! Watch this..." Pick up a colorful scarf and say in a funny voice, "Hello! I'm Princess Scarf, and I need help from my friends!" Ask: "What would Princess Scarf say next? Who is her friend?" Invite children to explore the props and name characters they imagine.
+   "Today we're going to be playwrights — people who build plays. The word 'wright' means builder, like a shipwright builds ships. The first playwright was a man named Thespis in ancient Greece, about 2,500 years ago — that's why actors are called thespians." Pick up a prop: "Every play follows something called a dramatic arc — Aristotle described it: first a setup (who are the characters?), then conflict (something goes wrong!), then resolution (how is it solved?). Let's build one." Demonstrate with a prop in a character voice: "[enters slowly] Hello! I'm Bear, and I've lost my honey." Ask: "That's our setup — we have a character with a problem. What happens next in the arc?"
 
 2. **Exploration** (4-5 minutes):
-   Invite children to pick up props and explore them freely. Ask open-ended questions: "What does this character look like? What is their name? Are they friendly or silly?" Narrate what you observe: "Oh! The bear is looking tired. Maybe he needs a nap story!" Let children handle, move, and play with props to spark imagination.
+   Invite children to pick up props and create characters. Guide them toward the dramatic arc: "Your character needs a want or a problem — that's what drives the story forward. What does your character want?" Show how to write stage directions: "In a real script, we write what characters DO in brackets — like [picks up scarf] or [whispers]. These are stage directions — instructions the audience never hears." Let children name their characters and decide on a problem.
 
 3. **Guided Creation** (6-10 minutes):
-   Start with a simple scenario: "Let's say we have a [character 1] and a [character 2]. They meet each other." Use a two-character format, asking children what each character would say. Act as scribe, writing down their exact words or simplified versions. Model enthusiasm: "So your bear says, 'Hello! Want to play?' Let me write that down." After 2-3 exchanges, ask: "Now what happens? Do they go somewhere? Do they find something?" Keep momentum by reading lines back with expression.
+   Build a script following the dramatic arc explicitly:
+   - **Setup**: "First we need to introduce our characters. Write a stage direction for how they enter: [Bear enters from left, looking worried]. Now what's their first line of dialogue?" Scribe: BEAR: "Has anyone seen my honey?"
+   - **Rising action/Conflict**: "Now something makes the problem harder — the conflict builds. What goes wrong?" Scribe the dialogue, adding stage directions in brackets: [Fox enters running] FOX: "I saw a bee take it to the tree!"
+   - **Climax**: "This is the most intense moment — the biggest challenge. What happens?" The child decides.
+   - **Resolution**: "How is the problem solved?" Complete the arc.
+   - Read the whole script back, pointing out: "See? Setup, conflict, climax, resolution — that's the dramatic arc Aristotle described."
 
 4. **Performance** (remaining time):
-   Once the basic script is created (3-5 lines), offer props for acting it out. Say: "Now let's see what your story looks like when we act it out!" Children perform using voice, movement, and optional props. Ask: "What was your favorite part? What would you change?" Encourage creating another short script if children show interest.
+   "Now you're actors performing the playwright's script. Follow the stage directions — they tell you what to do." Children perform using dialogue AND stage directions. After the first run, introduce revision: "Real playwrights revise — they change and improve. What would you change? A different line? A new stage direction?" Perform the revised version.
 
 5. **Wrap-Up** (2-3 minutes):
-   Gather children and review the script together. Read the entire script aloud with enthusiasm, using expressive voices. Ask reflection questions: "What was your favorite line? What was funny? What was exciting?" Take photos or video of the script and/or performance if possible.
+   Read the final script aloud. "You just did what playwrights have done for 2,500 years — since Thespis. You created characters, wrote dialogue for them to speak, added stage directions for what they do, and structured it all in a dramatic arc: setup, conflict, resolution. That's the craft of the playwright." Take photos or video of the script and/or performance.
 
 ### Age Adaptations
 
 **2-3 years**:
 
-Focus on very simple dialogue (1-2 words per line) and rely heavily on adult scribing and narration. Use only 1-2 simple characters and limit script to 2-3 exchanges maximum. Emphasize silly voices, movement, and sound effects over written words. Props do most of the storytelling work. Adult reads script while children act it out. Duration: 15-20 minutes with heavy adult support.
+Keep scripts to 2-3 exchanges with 1-2 characters, but use real terms: "You're the playwright — you're building a play!" Even a simple script can have a dramatic arc: "Bear is sad [setup]. Bear finds a flower [resolution]. That's a tiny dramatic arc!" Write stage directions in brackets so they see the convention: [Bear smiles]. Use silly voices and movement. Adult scribes and reads the script aloud while children act. Say "Thespis would be proud!" Duration: 15-20 minutes with heavy adult support.
 
 **3-4+ years**:
 
-Children can handle more complex narratives with 2-4 characters and longer dialogue. Include simple problem-solving story arcs with structure: "First, then, finally." Encourage children to suggest stage directions like "Maybe she jumps!" Ask about emotions: "Why does she feel happy?" Invite children to illustrate their script or add simple written labels. They may engage for 25-30 minutes with interest in revision and re-performance.
+Build full dramatic arcs with 2-4 characters: setup, rising action, climax, resolution. Label each part as you write it: "This is our rising action — the tension is building." Teach explicit stage direction conventions: [aside], [exits stage left], [whispers to audience]. Introduce the concept of protagonist (main character who wants something) and antagonist (character or force creating the obstacle). Discuss subtext: "Bear says 'I'm fine' but the stage direction says [crosses arms and frowns] — what does Bear really feel? The gap between dialogue and subtext is what makes drama interesting." Connect to theater history: "Ancient Greek theaters held 14,000 people with no microphones — actors wore masks to show emotions to the back row." Encourage revision — real playwrights rewrite many times. Engage for 25-30 minutes.
 
 ### Extension Ideas
 
@@ -132,9 +137,9 @@ Provide random objects (shoe, blanket, toy car, book) and challenge children to 
 
 Create scripts where characters express different feelings: "Show me the script where characters are happy/sad/silly/tired." Children explore how voice and movement change with emotions.
 
-**Variation 3: Story Expansion**
+**Variation 3: Story Expansion with Dramatic Arc Analysis**
 
-Take a familiar short story (Three Little Pigs, Goldilocks) and create a modern or silly version script. Children adapt known narratives with humor and creative twists.
+Take a familiar story (Three Little Pigs, Goldilocks) and identify its dramatic arc first: "Where's the setup? The rising action? The climax? The resolution?" Then create a modern or alternate version that follows the same arc structure but with different details. This teaches that dramatic arc is a pattern that underlies all stories.
 
 **Variation 4: Musical Scripts**
 

@@ -6,13 +6,13 @@ In this activity, children create and explore a pretend office environment where
 
 ## Vocabulary
 
-**Colleague**: A person who works together with you in an office or workplace; someone you cooperate and share tasks with during work.
+**Division of labor**: Splitting a big task into smaller specialized parts so different people each do one piece — this makes everyone more productive. Adam Smith described this in 1776: one person making pins alone produced about 20 per day, but 10 people each doing one step (drawing wire, cutting, sharpening, attaching heads) produced 48,000 per day. Every office uses division of labor. *Example: In a restaurant, the chef cooks, the server brings food, and the cashier handles money — dividing labor so each person becomes expert at their part.*
 
-**Communicate**: To share information and ideas with other people through talking, writing, listening, and exchanging messages; an important part of working with others.
+**Specialization**: Becoming expert in one specific area through focused practice and training. A doctor specializes in medicine (7-15 years of training), an electrician specializes in wiring (4-5 years), a pilot specializes in flying (1,500+ hours). Specialization means no one person can do everything — which is why people in workplaces depend on each other. *Example: A dentist spent years learning about teeth so they know things a mechanic doesn't — but the mechanic knows engines in ways the dentist never will. That's specialization.*
 
-**Responsibility**: An important job or task that someone is expected to do well and take care of; being dependable about your work duties.
+**Workflow**: The specific sequence of steps needed to complete a task, where some steps must happen before others (dependencies). In a real office, workflows have bottlenecks (slow steps that hold everything up) and parallel paths (steps that can happen simultaneously). Project managers map these with diagrams. *Example: To mail a letter, the workflow is: write → address envelope → stamp → mailbox. You can't stamp before addressing, and you can't mail before stamping — each step depends on the one before it.*
 
-**Professional**: A way of acting that is calm, organized, respectful, and focused on work; how adults behave when they are doing their job.
+**Hierarchy**: A structured system of levels where some roles have authority over others — every organization from ant colonies to corporations uses hierarchy. In a typical office hierarchy: CEO → managers → team leads → individual workers. Information flows up (reports) and decisions flow down (instructions). *Example: In a school, the principal is at the top of the hierarchy, then teachers, then students. Each level has different responsibilities and authority.*
 
 ## 🎵 Learning Song
 
@@ -106,40 +106,35 @@ Children explore and play in a pretend office space, taking on different workpla
 **Activity Flow**:
 
 1. **Introduction** (3-4 minutes):
-   - Show children the office setup and ask: "What do you see here? What do people do in an office?"
-   - Share: "Today we're going to pretend to work in an office! We can be receptionists, bosses, secretaries, or workers."
-   - Invite each child to choose a role and give them a name badge
-   - Explain that this is pretend play where everyone has different jobs
+   - Show children the office setup: "This is our workplace. Real offices exist because of something called division of labor — instead of one person doing everything, people split up tasks so each person specializes in one thing. Adam Smith discovered that this makes everyone much more productive."
+   - Assign different specialized roles with name badges: "You're the receptionist — you specialize in communication and scheduling. You're the manager — you make workflow decisions and coordinate the team. You're the mail clerk — you specialize in sorting and delivering documents." Explain that each role requires different skills — that's specialization.
+   - Draw a simple hierarchy on paper: "In our office, the manager is at the top of the hierarchy. They coordinate, but every role is essential. If we remove the mail clerk, documents don't get delivered and everything stops. That's interdependence."
 
 2. **Exploration** (5-10 minutes):
-   - Let children explore the office setup and materials freely
-   - Watch which roles and activities naturally interest them
-   - Ask questions: "What does this person do? What would you like to do?"
-   - Model simple office activities: sitting at desk, using the phone, writing notes
-   - Demonstrate: "I'm calling your office. Ring, ring! Hello!"
+   - Let children explore their specialized roles freely
+   - Point out division of labor in action: "Notice how the receptionist is answering phones while the mail clerk sorts — two tasks happening at the same time. That's the power of dividing labor!"
+   - Introduce a workflow challenge: "A client needs a report. What's the workflow? First, the manager assigns it → then the worker writes it → then the mail clerk delivers it. Each step depends on the previous one — those are dependencies."
+   - Ask: "What happens if the mail clerk is sick today? Who delivers the report? See how removing one specialist affects the whole workflow?"
 
 3. **Guided Play** (8-20 minutes):
-   - Step back and let children lead their own scenarios
-   - Ask open-ended questions to deepen play: "What are you writing about? Who is visiting your office? What happens next?"
-   - Encourage collaboration: "Your coworker has a phone call. Can you help them?"
-   - If play stalls, introduce gentle challenges: "The phone is ringing! Who will answer it?"
-   - Join briefly as a "visitor" or "caller" to revive interest if needed
+   - Introduce realistic workplace scenarios that demonstrate economic concepts:
+   - **Bottleneck problem**: Give the receptionist too many calls — "The phone keeps ringing but you're already on a call! This is a bottleneck — one slow step that holds up everything. How should we solve it? Hire another receptionist? Have someone else help? That's a real management decision."
+   - **Role rotation**: Have children swap specializations — "Now you're the manager and they're the mail clerk. Notice how each job requires different skills? That's why specialization takes training."
+   - **Information flow**: Have the manager give instructions that must pass through the hierarchy — "Tell the receptionist, who tells the worker. Did the message change? In real offices, this is why clear communication matters — information can get distorted as it flows through a hierarchy."
 
 4. **Wrap-up** (3-5 minutes):
-   - Give a 5-minute warning: "We'll be finishing office work soon!"
-   - Ask reflection questions: "What was the best part of working? What did your job involve?"
-   - Celebrate observations: "I noticed you were very busy organizing those papers!"
-   - Make cleanup part of the office routine: "Now we need to close the office for the day."
+   - Reflect on the economics: "Today we practiced division of labor — splitting tasks so each person specializes. We saw workflows with dependencies. We discovered bottlenecks. And we learned that in a hierarchy, every role matters because everyone is interdependent."
+   - Ask: "What was your specialization? Could you have done all the jobs alone? That's why workplaces exist — division of labor makes the whole team more productive than each person working separately."
 
 ### Age Adaptations
 
 **2-3 years**:
 
-Keep the setup very simple with just a desk, phone, paper, and crayons. Use concrete props and provide more direct modeling and participation. Use shorter language ("You're pretending to work") and focus on sensory exploration (touching, holding, scribbling) rather than complex role scenarios. Expect shorter play bursts of 15-20 minutes total with more transitions. You'll be actively playing alongside them, providing narration ("You're writing on the paper!").
+Keep the setup simple with just a desk, phone, paper, and crayons, but use real terms: "You're the specialist — your job is writing. That's your specialization." Demonstrate division of labor with just two roles: "I answer the phone, you write the message. We divided the labor!" Use concrete props and model the workflow: "First I take the call, then I tell you what they said, then you write it down — that's our workflow, step by step." Keep to 15-20 minutes. The key concept is that splitting tasks between people is more effective than one person doing everything.
 
 **3-4+ years**:
 
-Add more complex office elements like filing systems, appointment books, and computer keyboards. Introduce multiple roles and encourage trading ("Want to be the boss now?"). Expand scenarios ("Your office is very busy today!") and encourage children to create documents like letters, lists, and business cards. Introduce simple money and transactions. Add literacy and numeracy (reading messages, counting papers). Support collaboration on larger multi-person office scenarios. Children may sustain complex play for 30-40+ minutes.
+Build a full organizational hierarchy with 3-4 levels. Add filing systems as information management and appointment books as scheduling workflows. Introduce bottleneck experiments: overload one role and observe what happens. Practice role rotation to experience different specializations. Add a supply chain element: "Our office needs paper clips — where do they come from? A factory made them, a truck delivered them, a store sold them. That's a supply chain." Introduce simple budgeting: "Our office has $20 for supplies. Paper costs $5, pens cost $3. What's our budget constraint?" Add an "efficiency audit" — time how long a workflow takes, then try reorganizing division of labor to make it faster. Children may sustain complex play for 30-40+ minutes.
 
 ### Extension Ideas
 

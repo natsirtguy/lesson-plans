@@ -6,15 +6,13 @@ Children explore how their bodies can move in different ways while maintaining s
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
+**Vestibular system**: Three tiny semicircular canals inside each inner ear, filled with a fluid called endolymph. When your head moves, the fluid sloshes and bends tiny hair cells, which send electrical signals to your brain about rotation and tilt. This is your primary balance organ — without it, you couldn't stand upright. When you spin and feel dizzy, that's the endolymph still moving after you've stopped, sending your brain conflicting signals. *Example: When you tilt your head sideways, fluid in your semicircular canals shifts and bends hair cells, telling your brain exactly how far you've tilted — that's your vestibular system working.*
 
-**Equilibrium**: The state of being balanced and steady, with your body weight distributed evenly. When you stand on one foot and don't wobble, you have good equilibrium. When a child walks along a line without tipping over, they're using equilibrium.
+**Center of gravity**: The single point where all of your body's weight balances — like the balance point on a seesaw. To stay upright, your center of gravity must stay over your base of support (the area between your feet). When you lean too far, your center of gravity moves past your feet and you fall. Widening your stance makes your base larger and gives your center of gravity more room to shift — that's why a wide stance feels more stable than feet together. *Example: When you stand on one foot, your base of support shrinks to just that one foot, so you have to keep your center of gravity perfectly over it — that's why it's so much harder.*
 
-**Coordination**: The ability to use different parts of your body together smoothly and at the right time. Coordination helps you catch a ball, hop on one foot, or dance without stumbling. When your hands and feet work together as a team, that's coordination in action.
+**Proprioception**: Your body's "sixth sense" — sensors called muscle spindles in your muscles, Golgi tendon organs in your tendons, and receptors in your joints constantly send position data to your cerebellum, telling your brain exactly where every body part is without you looking. There are thousands of these sensors throughout your body. *Example: Close your eyes and touch your nose — you found it because proprioceptors in your shoulder, elbow, and finger joints told your brain exactly where your hand was in space.*
 
-**Stability**: Being firmly steady and not easy to tip over or fall. A wide stance with feet apart gives you more stability than standing with feet close together. A sturdy table has stability, and so does a child's body when they plant their feet firmly.
-
-**Proprioception**: Your body's awareness of where it is in space and how it's moving, without having to look. Proprioception is what helps you walk in the dark without bumping into things, or know how much strength to use when picking up a toy.
+**Cerebellum**: A brain region at the back of your head that contains about 50% of all your brain's neurons despite being only 10% of its volume. The cerebellum processes balance, coordination, and motor learning by comparing what you intended to do with what actually happened — then sending correction signals in real time. It receives input from both your vestibular system and your proprioceptors. *Example: When you first try to stand on one foot and wobble, your cerebellum is learning — it adjusts muscle signals each time until you can balance smoothly.*
 
 ## Learning Song
 
@@ -99,44 +97,44 @@ Children explore balance through a series of guided movements and challenges. Th
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by standing together and asking: "How do we stand without falling down?" Demonstrate standing on two feet with a wide base. Invite the child to mirror your stance. Point out: "Your feet are your foundation. They help you balance." Show what it looks like to have feet close together versus far apart, and notice which feels more stable.
+   Begin by standing together: "How do we stand without falling down? Your body has a balance system with three parts working together. First, your vestibular system — three tiny canals inside each ear filled with fluid that detects every tilt and turn. Second, proprioceptors — sensors in your muscles and joints that report where every body part is. Third, your cerebellum — the back part of your brain that processes all this information and sends correction signals to your muscles." Demonstrate a wide stance vs. narrow stance: "When your feet are wide apart, your base of support is bigger — your center of gravity has more room to shift before you fall. That's physics!"
 
 2. **Exploration** (10-15 min):
 
    **Part A - Standing Balance (3-5 min)**:
-   - Stand on two feet together and sway gently side-to-side
-   - Stand with feet wide apart and notice feeling more stable
-   - Extend arms out to sides and notice how this helps with balance
-   - Ask: "What happens if you close your eyes?" (adult should be ready to catch)
-   - Gently try standing on one foot, holding onto a cushion or chair for safety
+   - Stand on two feet together and sway gently side-to-side: "Feel your ankle muscles — tibialis anterior in front and gastrocnemius in back — making tiny adjustments? Your cerebellum is commanding those corrections hundreds of times per second."
+   - Stand with feet wide apart: "Your base of support just got bigger — your center of gravity can shift more before it goes past the edge. That's why this feels more stable."
+   - Extend arms out to sides: "You just moved mass further from your center — this increases your moment of inertia, which means your body resists tipping more. Tightrope walkers use long poles for the same reason!"
+   - Ask: "What happens if you close your eyes?" (adult should be ready to catch) — "You wobble more because you removed visual input! Your vestibular system and proprioceptors are still working, but your brain lost one of its three balance information sources."
+   - Gently try standing on one foot: "Your base of support just shrunk to one foot — your center of gravity must stay perfectly over it. Feel your ankle muscles working overtime!"
 
    **Part B - Walking the Line (4-7 min)**:
-   - Walk along the taped line with arms out, noticing how balance helps you stay on the line
-   - Walk very slowly and deliberately, paying attention to each step
-   - Walk forward, then backward along the line
-   - Try walking on the line with arms extended up, down, and to the sides
-   - For older children: try walking on the line while holding a scarf
+   - Walk along the taped line with arms out: "The line makes your base of support very narrow — only as wide as your foot. Your vestibular system is detecting every tiny tilt and your cerebellum is sending correction signals to your leg muscles."
+   - Walk very slowly and deliberately: "Slow walking is actually harder than fast walking — with slow steps, you spend more time balanced on one foot. Your proprioceptors in each ankle joint are sending constant updates."
+   - Walk forward, then backward: "Walking backward is harder because your vestibular system and proprioceptors are less practiced at it — your cerebellum hasn't built the same motor programs for backward motion yet."
+   - Try walking with arms in different positions (up, down, sides): "Notice how arm position affects your balance? Moving your arms changes where your center of gravity is."
+   - For older children: try walking while holding a scarf — "Now your cerebellum is managing balance AND coordinating your hands — that's called a dual task."
 
    **Part C - Movement Variations (3-5 min)**:
    - March with knees high while maintaining balance
    - Reach arms up high and stretch, keeping feet planted
-   - Spin slowly in one place, using arms for balance
+   - Spin slowly in one place: "The fluid in your semicircular canals — your vestibular system — is spinning with you. When you stop, the fluid keeps moving for a few seconds, which makes you dizzy! That's your vestibular system giving your brain outdated information."
    - Hop gently on both feet, noticing how your body adjusts
    - Step over or around obstacles (cushions, cones) while maintaining control
 
 3. **Discovery** (2-3 min):
-   Ask observational questions throughout: "What happens to your arms when you balance?" "How does your body feel when you stand on one foot?" "What helps you stay steady?" Point out observations: "I notice you're getting better at staying on the line!" "Your arms really help you balance!" Explain: "Your body is learning where it is in space. That's called proprioception—your body's special sense."
+   Ask questions connecting to the science: "What happens to your arms when you balance?" (They extend — increasing moment of inertia.) "Why is one foot harder than two?" (Smaller base of support.) "Why does closing your eyes make it harder?" (Removes visual input — your brain uses three systems together.) "Why do you wobble less each time you try?" (Your cerebellum is learning — it has 50% of your brain's neurons dedicated to motor coordination and error correction.)
 
 4. **Wrap-up** (1-2 min):
-   End with a gentle cool-down. Sit down together and notice: "Your body worked hard to balance! That's how you learn to move with control." Review what you discovered: "We learned that balance helps us walk, dance, and play safely." Offer one more challenge: "Can you walk to the other room without falling down? Try using what you learned about balance!"
+   End with a gentle cool-down: "Today your vestibular system detected tilts, your proprioceptors reported muscle positions, and your cerebellum processed it all and sent correction signals to your muscles — hundreds of times per second. Every time you practiced, your cerebellum built better motor programs. That's why balance improves with practice — you're literally rewiring your brain's balance circuits."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep movements very simple and concrete. Focus on standing stability and short distances. Use a wide line or path (painter's tape that's wider). Offer constant physical support—hold hands while walking the line, or let them hold onto you. Practice standing on one foot only briefly (2-3 seconds). Skip activities that require sustained balance. Focus on fun exploration rather than "getting it right." Use lots of verbal encouragement and celebrate small successes.
+Keep movements simple with physical support, but use real terms: "Your vestibular system — inside your ears — is helping you balance right now." Use a wide line or path. Hold hands while walking the line. Practice standing on one foot for 2-3 seconds: "Your cerebellum is learning! It's sending signals to your ankle muscles." After spinning, name the dizziness: "That dizzy feeling is the fluid in your semicircular canals still moving after you stopped." Focus on fun exploration and celebrate the science: "Your proprioceptors told your brain exactly where your foot was!"
 
 **3-4+ years**:
-Increase challenge by narrowing the line, removing hand-hold support, and adding obstacles. Try standing on one foot for longer periods (8-10 seconds). Add arm movements while walking the line (arms up, down, reaching). Try moving backwards more confidently. Add hopping challenges and more complex body positions. Introduce the challenge of balancing while doing secondary activities (holding a scarf, clapping, singing). Ask more sophisticated questions about body awareness: "Why do you think your arms help you balance?" "What's different about standing on one foot versus two?"
+Increase challenge by narrowing the line, removing support, and adding obstacles. Try standing on one foot for 8-10 seconds — count and track improvement to demonstrate cerebellar learning. Add dual tasks (balance while holding objects, clapping, or counting) to challenge the cerebellum with multiple simultaneous motor programs. Introduce the concept of moment of inertia: "Hold your arms tight against your body on one foot, then extend them wide — which is more stable? Why?" (Arms out increases moment of inertia, resisting tipping.) Try balance with eyes closed to isolate vestibular and proprioceptive input. Discuss ankle strategy vs. hip strategy: "For small wobbles, your ankle muscles correct. For bigger wobbles, your hip muscles kick in — these are two different balance strategies your cerebellum chooses between." Add a heart-rate check: "Feel your heart — balance work uses real energy because so many muscles are making micro-corrections."
 
 ### Extension Ideas
 
