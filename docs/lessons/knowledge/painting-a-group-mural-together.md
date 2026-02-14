@@ -6,13 +6,13 @@ Children work collaboratively with peers to create a large-scale painting on a s
 
 ## Vocabulary
 
-**Collaborate**: To work together with others toward a common goal. When children paint the mural together, each child contributes their own brushstrokes to create something larger than they could make alone.
+**Pigment**: The substance that gives paint its color by absorbing some wavelengths of light and reflecting others. Red paint contains pigments that absorb blue and green light but reflect red light back to your eyes. Throughout history, pigments came from minerals (ochre, lapis lazuli), plants (indigo), and even insects (cochineal beetles made red). Today most pigments are synthetic.
 
-**Mural**: A large artwork created on a wall or large surface, usually visible to many people. The painting you create together becomes a beautiful mural that everyone can admire.
+**Subtractive color mixing**: When you mix paints, pigments combine and absorb MORE wavelengths of light, making the mixture darker — that's why mixing all colors makes brown or black, not white. Yellow pigment absorbs blue light; blue pigment absorbs red light; mixed together they absorb both, and only green light reflects back. This is the opposite of mixing light (additive), where combining all colors makes white.
 
-**Palette**: The surface where paint colors are mixed and blended together. You can use a real palette, a plate, or a flat container to mix colors before adding them to your mural.
+**Mural**: A large artwork created on a wall or surface — from the Latin "murus" meaning wall. The oldest known murals are cave paintings at Lascaux, France (17,000 years old) and Altamira, Spain (36,000 years old). Diego Rivera painted massive murals in Mexico in the 1920s-1950s depicting history and social justice. Murals are public art — meant to be seen by everyone.
 
-**Composition**: The way colors, shapes, and brushstrokes are arranged in an artwork to create a pleasing design. As children paint, they decide where to place colors and shapes to make the mural look beautiful.
+**Composition**: How elements (color, shape, line, space) are arranged in an artwork. The rule of thirds divides the canvas into a 3×3 grid — placing important elements along these lines creates visual interest because the human visual cortex processes off-center objects as more engaging. Balance, contrast, and focal point are key composition principles used by artists for centuries.
 
 ## Learning Song
 
@@ -101,7 +101,7 @@ Children will work together on a large mural painting, taking turns adding color
    Gather children around the blank mural paper. Say: "Today we're going to paint something special together. We're going to make a big, beautiful picture that only we can make because we're working as a team. Everyone gets to add their colors and brushstrokes. Watch as I show you how to dip the brush and paint." Demonstrate painting a few brushstrokes. Invite each child to name what color they want to paint first.
 
 2. **Exploration** (12-15 min):
-   Let children take turns painting on the mural. You might say: "Emma, you paint some red here. Now it's Marcus's turn—where do you want to add your blue?" Encourage different types of marks: "Try making swirls, circles, lines, and dots. Watch what happens when colors mix together!" Point out discoveries: "Look, when yellow and blue paint touch, it makes green!" Allow children to paint over each other's work—this teaches flexibility and creates interesting color mixing. Circulate and ask questions: "What color do you see now?" "What will happen if you add more paint here?"
+   Let children take turns painting. As they work, explain pigment science: "This red paint has red pigment in it — tiny particles that absorb blue and green light and only reflect red back to your eyes." When colors mix, narrate the subtractive process: "You're mixing yellow and blue. The yellow pigment absorbs blue light, the blue pigment absorbs red light — together they absorb everything except green, so the mixture looks green! That's subtractive color mixing." Point out composition: "You put the big shape in the middle — that's a strong focal point. Notice how your eye goes right to it?" Discuss what makes certain arrangements more interesting than others.
 
 3. **Discovery** (3-5 min):
    Step back and look at the finished mural together. Ask: "What do you notice about our painting?" "Which colors did we use?" "What parts do you like best?" "Who helped paint this?" Affirm their collaboration: "We worked together and created something beautiful that's bigger and more colorful than any of us could have made alone. This is our mural!"
@@ -115,7 +115,7 @@ Children will work together on a large mural painting, taking turns adding color
 Simplify by using just 2-3 paint colors (red, yellow, blue). Use wider brushes that are easier to grip. Provide more adult support and hand-over-hand guidance if needed. Keep the activity to 15 minutes. Stand the mural on a low table so children can paint at their level without reaching or stretching. Focus on the sensory experience of paint on brush and the joy of making marks rather than taking turns precisely.
 
 **3-4+ years**:
-Introduce all primary and secondary colors and let children predict what colors will mix together. Provide smaller brushes for finer control and encourage more detailed brushstrokes. Give them more autonomy in choosing where to paint. Extend to 25-30 minutes and ask more open-ended questions: "What story does our mural tell?" "If this were a forest/ocean/celebration, what would we add?" Challenge them to paint specific shapes or patterns. Introduce the vocabulary naturally: "You're collaborating so well together!"
+Introduce the color wheel — primary colors (red, yellow, blue) mix to make secondary colors (orange, green, purple). Challenge predictions: "What will red + yellow make? Hypothesis first, then test!" Explain complementary colors (opposites on the color wheel — red/green, blue/orange) and how placing them next to each other makes both look more vivid (simultaneous contrast). Discuss mural history: cave paintings at Lascaux (17,000 years old) were made with ochre pigment from ground-up rocks. Talk about composition: try the rule of thirds, discuss balance (symmetric vs. asymmetric), and identify the focal point. Introduce warm colors (red, orange, yellow) vs. cool colors (blue, green, purple) and how they create different feelings.
 
 ### Extension Ideas
 

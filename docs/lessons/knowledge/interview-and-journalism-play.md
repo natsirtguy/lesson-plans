@@ -6,13 +6,13 @@ Children explore the role of reporter and interviewer through playful conversati
 
 ## Vocabulary
 
-**Journalist**: A person who asks questions and gathers information to share stories and learning with others. A journalist is curious and asks "why?" and "how?" to understand the world better.
+**Primary source**: Information that comes directly from someone who experienced or witnessed an event — firsthand knowledge. When you interview Grandma about her childhood, her answers are a primary source. A newspaper article about Grandma's childhood would be a secondary source — someone else's retelling. Historians, scientists, and journalists all prioritize primary sources because they're the most direct evidence.
 
-**Interview**: A special conversation where one person asks questions to learn about another person's thoughts, experiences, feelings, and ideas. When you interview someone, you listen carefully to their answers.
+**Verification**: Checking whether information is true by comparing multiple sources. Good journalists never publish something based on just one person's account — they ask other people, check documents, and look for evidence. "Trust, but verify" is a journalism principle. If two independent sources agree, the information is more likely accurate.
 
-**Communicate**: To share ideas, feelings, and information with others by talking, listening, and paying attention. Good communication means speaking and listening in a way that helps people understand each other.
+**Five W's framework**: The five questions every journalist asks to cover a story completely: Who? What? When? Where? Why? (and sometimes How?). This framework was formalized in journalism schools but originates from Aristotle's rhetoric (350 BCE) and the Roman rhetorician Quintilian. If you can answer all five W's, you've captured the essential facts of any event or story.
 
-**Curious**: Wanting to learn new things and asking questions to understand people, ideas, and the world around you. Curious people wonder "why?" and "what if?" and like to find out answers.
+**Editorial vs. reporting**: The crucial distinction between facts and opinions. Reporting tells you WHAT happened (verifiable facts). An editorial tells you what someone THINKS about what happened (opinions). Teaching children to distinguish between "This happened" (fact) and "I think this is good/bad" (opinion) is the foundation of media literacy — increasingly important in modern life.
 
 ## 🎵 Learning Song
 
@@ -99,13 +99,13 @@ Children take on the role of reporter to ask questions and learn about people th
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Introduce the reporter role: "Today you're a reporter! Reporters ask questions to learn about people and share interesting stories." Show the props and explain: "This can be your microphone, and this is where we write down what we learn." Build excitement: "Let's find out some cool things about [person's name]!"
+   Introduce the reporter role: "Today you're a journalist! Journalists use the Five W's framework — Who, What, When, Where, and Why — to make sure they learn the complete story." Show the props: "This is your microphone. And THIS is important — we're going to take notes, because the person you're interviewing is a primary source. That means they have firsthand knowledge — they experienced it themselves. That's the most valuable kind of information."
 
 2. **Exploration** (5-10 min):
    Start with a warm-up: Model asking one simple question like "What's your favorite toy?" and wait for a full answer. Show how you listen and respond with interest: "That's so cool! Why is that your favorite?" Invite the child to ask the next question together. Then let the child ask their own questions from the list or questions they create. Coach gently if stuck: "You could ask what makes them happy" or "What would you like to know about them?" Encourage the interview subject to give detailed answers.
 
 3. **Discovery** (3-5 min):
-   Help the child notice what they're learning: "Did you hear that they love [thing]? That's interesting!" Encourage follow-up questions: "Tell me more about that" or "Why is that your favorite?" If desired, take simple notes or use a recording device. Point out that asking questions helps us understand people better.
+   Introduce verification: "Good journalists check their facts. Let's ask ANOTHER person the same question and see if the answers match — that's called verification." Practice distinguishing fact vs. opinion: "When they said they went to the park on Tuesday — that's a FACT, something that happened. When they said the park was the best place ever — that's an OPINION, what they think. Both are interesting, but journalists label which is which."
 
 4. **Wrap-up** (2-3 min):
    Review what was learned together: "We learned that [person] loves [thing]! Wasn't that fun?" Thank the interview subject together. Discuss what the child enjoyed: "What was your favorite thing they told you?" If recording, listen back together or plan to share what you learned with another family member.

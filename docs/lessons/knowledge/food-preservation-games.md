@@ -6,13 +6,13 @@ Food preservation games introduce young children to the cultural practice of sto
 
 ## Vocabulary
 
-**Preserved**: Food that has been treated in a special way (dried, salted, frozen) so it stays fresh and safe to eat for a long time. When you preserve food, you're keeping it from going bad, like dried apples or picked vegetables in a jar.
+**Dehydration**: Removing water from food to preserve it. Bacteria and mold need water to grow — a fresh grape is about 80% water, but a raisin is only 15% water. Without enough water, microorganisms can't multiply, so the food lasts months or even years. Humans have been dehydrating food for at least 12,000 years — it was one of the first preservation methods ever invented.
 
-**Texture**: The way something feels when you touch it with your fingers or hands. Different foods have different textures—rice is bumpy and smooth, beans feel hard and round, and lentils are tiny and slippery.
+**Fermentation**: When helpful bacteria or yeast eat sugars in food and transform it into something new. Yogurt, cheese, pickles, sauerkraut, kimchi, and bread are all fermented. The bacteria produce acid (in pickles and yogurt) or gas (the bubbles in bread) as they eat. Fermentation was discovered by accident thousands of years ago and is used in every culture on Earth.
 
-**Sorted**: Organized into groups based on how they are the same or different. When you sort foods, you might put all the brown ones together, or all the smooth ones together—you're making groups of things that match.
+**Osmosis**: The movement of water through a membrane from areas with more water to areas with less. When you pack food in salt or sugar, osmosis pulls water OUT of the food (and out of any bacteria), dehydrating them. That's why salt-cured meat, salted fish, and sugared fruit preserves last so long — the salt or sugar creates an environment where bacteria can't survive.
 
-**Stored**: Kept in a safe place for later use. When you store food, you put it away in a container or cupboard so you can use it another time. Storage containers keep food fresh and protected.
+**Microorganism**: A living thing too small to see without a microscope — bacteria, yeast, and mold are all microorganisms. A single teaspoon of soil contains about 1 billion bacteria. Some microorganisms spoil food (causing rot and mold), while others are helpful (the lactobacillus bacteria that make yogurt). Preservation works by stopping the harmful ones from growing.
 
 ## 🎵 Learning Song
 
@@ -102,13 +102,13 @@ Children explore dried foods through sensory play, discovering how people preser
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Engage with sensory language: "Let's look at all these special foods that have been saved. Can you feel how hard they are? Can you hear them?" Show a dried food alongside a fresh version if possible. Ask curiosity-building questions: "What do you see? What sounds do they make? Do they feel heavy or light?" Set simple expectations: "We're going to sort and play with these saved foods. There's no one right way—just explore!"
+   Show a fresh grape next to a raisin: "These are the SAME food! The grape has water inside — about 80%. The raisin had its water removed. That's called dehydration. Why does removing water preserve food? Because tiny living things called microorganisms — bacteria and mold — need water to grow. No water means they can't eat or multiply, so the food lasts much longer." Let the child feel both: "The grape is squishy and heavy — that's the water. The raisin is light and wrinkly — the water is gone."
 
 2. **Exploration** (5-10 minutes):
    Allow free sensory exploration. The child picks up items, feels textures, listens to sounds they make, pours items from one container to another, and observes different sizes, colors, and shapes. Comment naturally on what you notice: "The rice sounds like rain! The beans are so smooth." Ask the child to show you favorites or interesting ones they discover.
 
 3. **Discovery** (3-8 minutes):
-   Introduce sorting and categorization. Demonstrate sorting by color: "Can you find all the brown ones and put them in this bowl?" Try sorting by size: "Let's put the big beans together and little lentils together." Explore textures: "What feels bumpy? What feels smooth?" Introduce preservation vocabulary naturally: "These are dried foods. People dry them so they last a long time. That's how we keep food safe!" If using optional salt or sugar, show different preservation methods: "People also use salt to save food. Or sugar for jam. Let's make a special mix!"
+   Introduce preservation science through exploration. Sort the dried foods: "These are all preserved by dehydration — water was removed." If using salt: "Let's put salt on a wet piece of apple. The salt pulls water out through osmosis — water moves from the wet apple toward the dry salt." Compare textures: "Dried beans are hard because the water is gone. Soak one in water for a minute — feel how it starts softening? The water is going back in." Discuss fermentation: "Yogurt and pickles are preserved a different way — helpful microorganisms called bacteria eat the sugar and make acid. The acid stops bad bacteria from growing." Count and sort by preservation method: dehydrated foods vs. salted vs. sugared.
 
 4. **Wrap-up** (2-3 minutes):
    Signal ending time: "We have a few more minutes with our food game." Ask reflection questions: "What was your favorite thing to feel? Did you hear interesting sounds? What did you learn about saved foods?" Celebrate discoveries: "You learned how people keep food fresh by drying it!" Make cleanup collaborative: "Let's work together to put these foods back in their homes." Let the child help pour items back into original containers and wipe the table together.

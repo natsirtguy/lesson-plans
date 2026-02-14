@@ -6,13 +6,13 @@ Children explore the concept of climate zones and discover how different parts o
 
 ## Vocabulary
 
-**Climate**: The typical weather pattern that a place has over many years. When we say "tropical climate," we mean a place that is always warm and rainy. When we say "polar climate," we mean a place that is always very, very cold.
+**Latitude**: The distance north or south of the equator, measured in degrees (0° at equator, 90° at poles). Latitude is THE main factor determining climate zones because it controls the angle at which sunlight strikes the Earth's surface. At the equator (0°), sunlight hits nearly straight down — maximum energy per square meter = tropical climate. At the poles (90°), sunlight hits at a shallow angle — energy spreads over a larger area = polar climate.
 
-**Temperature**: How hot or cold something is. You can feel temperature with your skin—when you stand in the sun, the temperature is hot. When you hold ice, the temperature is cold.
+**Equator**: The imaginary circle at 0° latitude that divides Earth into Northern and Southern hemispheres — the widest point of the planet (40,075 km circumference). The equator receives the most direct sunlight year-round because the sun is always nearly overhead. This is why tropical climates exist in a band around the equator (roughly 23.5°N to 23.5°S) — the same 23.5° as Earth's axial tilt.
 
-**Zone**: An area or section that has something special about it. A tropical zone is a warm area near the middle of Earth. A polar zone is a cold area at the very top and bottom of Earth.
+**Biome**: A large natural community of plants and animals shaped by its climate zone — including tropical rainforest, desert, temperate forest, taiga (boreal forest), tundra, grassland, and ocean biomes. Each biome has characteristic species adapted to its conditions. The tropical rainforest biome covers only 6% of Earth's surface but contains over 50% of all plant and animal species.
 
-**Observe**: To watch something carefully and notice what it looks like, feels like, or sounds like. When we observe leaves on a cold day, we might notice they are wet with frost or ice.
+**Altitude**: Height above sea level — for every 1,000 meters you go up, temperature drops about 6.5°C. That's why mountains can have snow on top even in tropical latitudes. Mount Kilimanjaro in Tanzania sits near the equator but has glaciers at its 5,895-meter summit. Altitude creates "mini climate zones" stacked vertically — you can walk from tropical forest to alpine tundra on a single mountain.
 
 ## Learning Song
 
@@ -102,9 +102,7 @@ Children create a sensory exploration station representing three different clima
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather the child in front of the three trays. Say: "Today we're going to explore three different climate zones—three different types of weather and temperatures around our world! Each of these special boxes tells a story about a different place on Earth."
-
-   Point to each tray and name them: "This is a tropical zone. This is a polar zone. This is a temperate zone. Let's discover what each one feels like!"
+   Show a globe or ball: "Earth is round, and the sun shines on it from one direction. At the equator — the middle line — sunlight hits straight down. That makes it HOT. Concentrated energy. At the poles — top and bottom — sunlight hits at a shallow angle and spreads out over a big area. That makes it COLD. Less energy per area." Point to trays: "These represent three different latitudes: tropical (near the equator), temperate (in between), and polar (near the poles). The latitude determines the climate because it determines the angle of sunlight."
 
 2. **Exploration** (8-10 min):
    Allow the child to freely explore each tray with their hands and senses. Do not rush. Let them:
@@ -132,10 +130,10 @@ Children create a sensory exploration station representing three different clima
 ### Age Adaptations
 
 **2-3 years**:
-Keep it simple with just temperature contrasts. Use only 2 zones (tropical warm, polar cold) if three feels overwhelming. Use more toy animals as visual anchors. Keep language simple: "Hot! Cold!" Repeat vocabulary often. Allow plenty of sensory time without too many questions. Let them enjoy the tactile experience.
+Focus on two zones (tropical warm, polar cold) with strong sensory contrasts. Use toy animals: "Penguins live at high latitude near the poles — very cold. Parrots live at low latitude near the equator — very warm." Name latitude each time: "Near the equator it's hot, near the poles it's cold." Point to a globe: "Here's the equator, here are the poles." Let them feel the temperature difference and connect it to the sun angle.
 
 **3-4+ years**:
-Introduce all three zones. Ask more questions and encourage them to make connections: "Where would you like to live? Why?" Introduce animal names and habitats. Have them sort toy animals into correct zones. Add a fourth tray with water and ice together to show how polar zones have water (oceans) that's frozen. Encourage them to describe and compare temperatures: "This is warmer than this one." Have them draw or paint their favorite zone afterward.
+Introduce all three zones plus altitude: Stack blocks and put ice on top: "Even near the equator, tall mountains are cold! Temperature drops 6.5°C for every 1,000 meters up — that's why Mount Kilimanjaro has snow near the equator." Name biomes: "The tropical zone has rainforest biomes with over half of all species on Earth in just 6% of the area." Discuss animal adaptations: "Polar bears have thick fur and a layer of blubber — that's an adaptation to their biome. Parrots have thin feathers — adapted to tropical heat." Sort animals by biome and discuss WHY they live there (adaptations to climate). Use a flashlight on a globe to demonstrate sun angle at different latitudes.
 
 ### Extension Ideas
 

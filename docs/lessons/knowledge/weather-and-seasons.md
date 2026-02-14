@@ -6,13 +6,13 @@ In this lesson, children explore the weather patterns and seasonal changes that 
 
 ## Vocabulary
 
-**Temperature**: How hot or cold something feels. When you go outside on a sunny day and feel warm on your skin, that's high temperature. When you need to wear a jacket because it feels cold, that's low temperature.
+**Water cycle**: The continuous movement of water between Earth's surface and atmosphere — evaporation (liquid water becomes water vapor when heated by the sun), condensation (water vapor cools and forms tiny droplets that make clouds), and precipitation (droplets combine until heavy enough to fall as rain or snow). The same water has been cycling for billions of years — the water you drink may have been in a dinosaur.
 
-**Precipitation**: Water that falls from the sky in different forms like rain, snow, sleet, or hail. Rain falls as drops of water, while snow falls as frozen crystals that you can catch on your tongue.
+**Axial tilt**: Earth's axis is tilted at 23.5° relative to its orbit around the sun — this tilt is WHY seasons exist. When the Northern Hemisphere tilts toward the sun (June), sunlight hits at a steeper angle, concentrating more energy per square meter = summer. When it tilts away (December), sunlight spreads over a larger area = winter. Without this tilt, there would be no seasons anywhere on Earth.
 
-**Seasonal**: Something that happens during a specific time of year that repeats every year. In fall, leaves turn colors, and in spring, flowers bloom—these are seasonal changes that we expect each year.
+**Condensation**: When water vapor (an invisible gas) cools down and turns back into tiny liquid water droplets — the opposite of evaporation. Clouds are billions of condensed water droplets so small they float in air. You can see condensation on a cold glass of water — the glass cools the water vapor in the air around it, and liquid droplets form on the outside. Morning dew is condensation too.
 
-**Atmosphere**: The air and weather all around us that we breathe and experience every day. The atmosphere includes the wind, clouds, sunshine, and moisture that creates the weather we feel outdoors.
+**Barometric pressure**: The weight of the atmosphere pushing down on everything — measured with a barometer, invented by Evangelista Torricelli in 1643. High pressure usually means clear skies (air is sinking, pushing clouds away). Low pressure usually means clouds and rain (air is rising, cooling, and water vapor condenses into clouds). Weather forecasters use pressure changes to predict weather.
 
 ## Learning Song
 
@@ -108,13 +108,13 @@ Children become weather explorers and seasonal observers by creating a hands-on 
 2. **Exploration** (8-10 min):
    Set up rotating exploration stations:
 
-   - **Rain Station**: Use the spray bottle to create light mist. Let the child feel the "rain" on their hands. Mix blue food coloring with water for visual effect. Ask: "Where does rain come from? Where does it go?"
+   - **Water Cycle Station**: Use the spray bottle: "This mist is like precipitation — water falling from clouds." Pour warm water in a container, place a cold plate over it: "Watch! The warm water evaporates — becomes invisible gas. When it hits the cold plate, it condenses back into droplets. That's the water cycle happening right in front of you!" Point out the droplets: "Those are just like clouds forming."
 
-   - **Cloud Station**: Stretch and shape cotton balls to look like clouds. Attach to blue paper sky. Discuss how clouds bring rain and snow. Child can arrange clouds and make sky scenes.
+   - **Cloud Station**: Stretch cotton balls into cloud shapes. Explain: "Real clouds are billions of tiny water droplets that condensed from water vapor. They float because each droplet is incredibly small." Discuss cloud types: flat stratus clouds (rain coming), puffy cumulus clouds (fair weather), wispy cirrus clouds (very high up, made of ice crystals).
 
-   - **Winter Station**: Explore ice cubes or handle cold items. Notice how things freeze. Show pictures of snow and winter landscapes. Ask: "What happens to water when it gets very cold?"
+   - **Winter/Summer Station**: Hold ice and warm water. Explain axial tilt: "Earth is tilted at 23.5 degrees. When our part of Earth leans TOWARD the sun, sunlight hits us more directly — that's summer. When we lean AWAY, sunlight spreads out more — less energy per area — that's winter. The tilt is why seasons exist!"
 
-   - **Fall Station**: Use tissue paper in autumn colors to create falling leaves. Let child crumple, scatter, and arrange colorful leaves on paper. Discuss how leaves change colors and fall.
+   - **Fall Station**: Use colored tissue paper for leaves. Explain: "Leaves are green because of chlorophyll — the molecule that captures sunlight for photosynthesis. In fall, trees stop making chlorophyll, and the green fades. The yellow and orange were there all along, hidden underneath! Red comes from a different pigment called anthocyanin."
 
    - **Season Matching**: Show pictures or cards of the four seasons and let the child sort materials by which season they belong to (snowflakes with winter, green leaves with spring/summer, colorful leaves with fall).
 

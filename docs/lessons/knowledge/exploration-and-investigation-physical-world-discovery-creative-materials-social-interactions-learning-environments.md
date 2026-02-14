@@ -6,13 +6,13 @@ Children develop foundational learning through open-ended exploration of materia
 
 ## Vocabulary
 
-**Investigate**: To examine something carefully to learn more about it. When you investigate, you use your senses to discover how things work—like investigating what happens when you mix two colors together.
+**Hypothesis**: A guess about what will happen, based on what you already know — then you test it to see if you're right. "I think the blue paint and yellow paint will make green" is a hypothesis. Scientists form hypotheses before every experiment. The word comes from Greek: "hypo" (under) + "thesis" (placing) — you place an idea underneath your investigation.
 
-**Discover**: To find or learn something new that you didn't know before. Every time you try something new and find out what happens, you are making a discovery.
+**Variable**: Something you can change in an experiment to see what happens. If you're testing which objects float, the variable is the object — everything else (the water, the container) stays the same. Identifying variables is the foundation of the scientific method, developed over 400 years ago.
 
-**Curiosity**: The feeling of wanting to know and understand more about something. When you wonder "what if?" or "what happens when I...?" you are showing curiosity.
+**Empirical**: Knowledge that comes from direct observation and testing, not just from being told. When you put your hand in cold water and feel it yourself, that's empirical knowledge. The word comes from the Greek "empeiria" meaning experience. All science is empirical — scientists trust what they can observe and measure.
 
-**Observation**: Watching and noticing things carefully with your eyes and senses. Good observers look closely at details—like noticing that sand feels grainy and water is wet.
+**Property**: A characteristic of a material that you can observe or measure — like color, texture, hardness, temperature, or whether it floats or sinks. Every material has multiple properties. Sand has the properties of being granular, rough, tan-colored, and heavier than water (it sinks). Properties help scientists classify and understand materials.
 
 ## 🎵 Learning Song
 
@@ -103,16 +103,16 @@ Children explore different stations with varied materials—water, sand, paint, 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather children and spark curiosity: "Today we're going to be explorers and discoverers. You get to choose what you want to investigate and discover." Show or briefly describe 2-3 stations without demonstrating how to use them. Set expectations: "Explorers are curious and gentle. You might build something, mix colors, feel textures, or make friends—all of that is wonderful."
+   Gather children: "Today we're going to be scientists. Scientists don't just play with things — they form a hypothesis first (a guess about what will happen), then test it, then observe what actually happens." Show the stations: "Each station has materials with different properties — that means characteristics we can observe. Before you touch anything, let's make predictions: What do you think will happen if we mix these two colors? That prediction is your hypothesis!"
 
 2. **Exploration** (10-20 min):
-   Children choose stations and explore freely. Your role:
-   - Observe what they're discovering (Are they pouring, mixing, building, noticing textures?)
-   - Comment on what you see without directing: "You're mixing the red paint with the blue paint"
-   - Ask open-ended questions: "What happens if you...?" "What do you discover about this texture?"
-   - Introduce sensory language: soft, rough, smooth, bumpy, warm, cool
-   - Facilitate peer interaction gently without forcing collaboration
-   - Support emerging investigations (if interested in color mixing, provide more colors)
+   Children choose stations and explore. Your role is to model the scientific method:
+   - Before each action, prompt a hypothesis: "What do you think will happen if you pour the water into the sand?"
+   - After they try it, ask for observation: "What happened? Was your hypothesis right or wrong?"
+   - Name properties of every material: "This rock is hard, smooth, heavy, and gray — those are all its properties"
+   - Introduce variables: "What if we change just ONE thing? Try pouring faster — that's changing the variable"
+   - Use empirical language: "You tested it yourself and found out! That's empirical knowledge — you learned by doing, not by being told"
+   - At the color mixing station: "Your hypothesis was that red and blue make purple. Let's test it — yes! The empirical result matches your hypothesis!"
 
 3. **Discovery & Reflection** (2-3 min):
    As exploration winds down, gather children: "What did you discover today?" "What was interesting?" Celebrate diverse explorations: "You discovered how sand feels, and you explored how blocks balance, and you mixed colors—you all had different adventures!"
@@ -125,23 +125,20 @@ Children explore different stations with varied materials—water, sand, paint, 
 **2-3 years**:
 - Limit to 2-3 stations to avoid overwhelm (water, natural materials, soft textures)
 - Keep sessions shorter: 15-20 minutes
-- Choose materials with no choking hazards; focus on safe sensory items
-- Emphasize cause-and-effect: "Watch what happens when you pour the water"
-- Stay very close by; this age needs reassurance and responsive support
-- Use simple language: "Water is wet" "Sand is grainy" "This feels soft"
-- Expect parallel play rather than collaborative exploration
+- Model the hypothesis-test cycle with simple language: "I think this will splash. Let's test it... YES, it splashed!"
+- Name properties with every touch: "This rock is hard. This cotton is soft. Hard and soft are properties"
+- Focus on binary property comparisons: wet/dry, hard/soft, heavy/light, rough/smooth
+- Stay close; this age needs reassurance and responsive support
 - Provide duplicate materials to reduce conflict
-- Be ready for quick transitions if a child gets frustrated
 
 **3-4+ years**:
-- Expand stations to include more complex challenges: color mixing, building challenges ("Can you build something taller than you are?")
-- Introduce investigative tools: magnifying glasses, measuring cups, simple scales
-- Encourage hypothesis and testing: "What do you think will happen if...?" "How could we find out?"
-- Support more complex collaboration and group projects
-- Introduce documentation: "Can you draw what you discovered?" "Should we take a photo?"
-- Extend duration and depth; these children can engage for 25-30 minutes
-- Ask children to teach peers: "Show your friend what you discovered"
-- Connect to concepts: naming colors learned, patterns observed, sequences created
+- Introduce the full scientific method: observe → question → hypothesize → test → analyze → conclude
+- Teach variable control: "Change ONE thing at a time. First pour slowly, then pour fast — the speed is your variable"
+- Use magnifying glasses and measuring cups as scientific instruments
+- Practice recording observations: "Let's draw what happened" — this is empirical documentation
+- Ask children to compare their hypothesis to their result: "You predicted it would float, but it sank. What does that tell us?"
+- Introduce the concept of replication: "Let's do it again to make sure — scientists always repeat experiments"
+- Compare properties across materials: make a chart listing properties (color, texture, weight, float/sink) for each material
 
 ### Extension Ideas
 

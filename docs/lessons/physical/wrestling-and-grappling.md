@@ -14,6 +14,16 @@ Wrestling and grappling activities develop body strength, leverage understanding
 
 **Space Required**: Padded mat area (minimum 15x15 feet for safe practice)
 
+## Vocabulary
+
+**Leverage**: Using a longer distance from a pivot point to multiply force — the fundamental physics principle behind wrestling. Your arm is a lever: the elbow is the pivot (fulcrum), and the longer the distance from elbow to where you grip, the more force you can apply. Archimedes said "Give me a lever long enough and a fulcrum on which to place it, and I shall move the world." In grappling, controlling your opponent's limbs at the right leverage point lets a smaller person control a larger one.
+
+**Center of gravity**: The single point where all of an object's weight is balanced — for a standing person, it's roughly at the belly button. Lower your center of gravity (bend knees, widen stance) and you become much harder to push over. A wide, low stance distributes weight across a larger base of support. Every wrestling stance is designed to lower the center of gravity while keeping mobility.
+
+**Newton's Third Law**: For every action, there is an equal and opposite reaction — when you push against someone, they push back against you with exactly the same force. If you push a wall, the wall pushes you back. In wrestling, if your opponent pushes you, you can use their own force against them by redirecting it — this is the core principle of judo and many grappling arts.
+
+**Biomechanics**: The science of how the body moves — combining biology (muscles, bones, joints) with mechanics (forces, leverage, motion). The human body has over 600 muscles and 206 bones connected by joints that act as hinges, pivots, and ball-and-sockets. Wrestling develops understanding of biomechanics intuitively — children learn which positions are strong, which are weak, and how to use their body structure efficiently.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -99,10 +109,10 @@ Wrestling and grappling activities develop body strength, leverage understanding
 ### Main Activity (10-18 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain that wrestling involves controlled body contact and learning leverage
-- Demonstrate safe falling: rolling on shoulders, not head or neck
-- Show basic ready position: low stance, weight balanced, hands ready
-- Model safe moves with partner or dummy
+- Explain leverage: "Wrestling is about physics — using leverage to multiply your force. Your arms and legs are levers, and the joints are fulcrums. A small push at the right leverage point can move someone much bigger!"
+- Demonstrate center of gravity: "Stand tall and let me gently push your shoulder — easy to tip over. Now bend your knees and widen your feet — much harder! You lowered your center of gravity. That's the physics of stability."
+- Show safe falling: "Roll on shoulders to spread the force across a large area — that's why it hurts less. All the force in one small spot (like a hand) = ouch. Same force spread across your whole back = safe."
+- Introduce Newton's Third Law: "When I push you, you push me back with the same force. That's Newton's Third Law. In grappling, you can use your opponent's push against them — redirect their force instead of fighting it head-on."
 
 #### Skill Practice (4-8 minutes)
 
