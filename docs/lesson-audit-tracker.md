@@ -249,12 +249,19 @@ Each lesson is evaluated for:
 | Wrestling and Grappling | Physical | FAIL -> FIXED | No vocabulary section at all. Good technique content but no physics framework. No leverage, center of gravity, Newton's Third Law, or biomechanics. | Added full vocabulary section: leverage (Archimedes, force multiplication at fulcrum distance), center of gravity (lower = more stable, wide stance), Newton's Third Law (equal/opposite reaction, redirecting opponent's force), biomechanics (600+ muscles, 206 bones, joint types). Rewrote introduction with center-of-gravity stability demonstration and Newton's Third Law redirection. |
 | Capture the Flag and Territory Games | Physical | FAIL -> FIXED | No vocabulary section at all. No cardiovascular physiology, no energy systems, no strategic thinking neuroscience, no proprioception. | Added full vocabulary section: cardiovascular system (80→150+ bpm, oxygen delivery), strategic thinking (prefrontal cortex, anticipating opponents), proprioception (sixth sense, balance during direction changes), anaerobic vs. aerobic (two energy systems, 10-30 second sprint limit). Rewrote introduction with energy system switching, cardiovascular warm-up awareness, and strategic thinking prompts. |
 
+### Batch 16 (2026-02-14) - 2 Lessons
+
+| Lesson | Queue | Verdict | Issues Found | Fixed |
+|--------|-------|---------|-------------|-------|
+| Sensory Exploration (Taste, Smell, Touch, Proprioception) | Knowledge | FAIL -> FIXED | Vocabulary mostly everyday words (texture, aroma, sensation). Only "proprioception" was technical. No neuroscience — no receptors, no olfactory bulb, no gustatory papillae, no somatosensory cortex. Activity was touching/smelling/tasting with no biology. Five basic tastes completely missing despite having a taste station. Proprioception named but mechanism never explained (no muscle spindles, Golgi tendon organs, or cerebellum). | Replaced vocabulary with mechanoreceptor (four types: Meissner's, Pacinian, Merkel's, Ruffini; 2,500/cm² in fingertips), olfactory receptor (400 types, limonene lock-and-key, direct brain connection), gustatory papilla (10,000 taste buds, five tastes with evolutionary purpose), proprioceptor (muscle spindles, Golgi tendon organs, joint receptors, cerebellum processing). Rewrote each station with receptor science: fingertip-vs-elbow receptor density test, olfactory adaptation, five-taste identification, proprioceptor demonstrations. Added two-point discrimination, taste map myth debunking, cross-modal perception, and somatosensory cortex for 3-4+. |
+| Simple Machines | Knowledge | FAIL -> FIXED | Used "ramp" instead of "inclined plane." Vocabulary missing fulcrum, mechanical advantage, force, and work. Only 3 of 6 simple machines covered without naming the six-machine framework. Never explained WHY machines make work easier (force-distance trade-off). Video guidance explicitly said "no overly technical language" — contradicting educational philosophy. | Replaced vocabulary with simple machine (all six named, Archimedes 250 BCE), mechanical advantage (force × distance trade-off, work equation), fulcrum (pivot point, Archimedes quote), inclined plane (steepness vs. force relationship, wedge and screw as derived forms). Rewrote activity with fulcrum position experiments, steepness vs. force comparisons, and real physics explanations at each station. Added six-machine scavenger hunt, force measurement with scale, compound machine analysis (scissors = two levers + two wedges), and work equation introduction for 3-4+. |
+
 ## Summary Statistics
 
-- **Total audited**: 162
-- **Passed**: 9 (6%)
-- **Fixed**: 153 (94%)
-- **Remaining unaudited**: ~281 lesson plans
+- **Total audited**: 164
+- **Passed**: 9 (5%)
+- **Fixed**: 155 (95%)
+- **Remaining unaudited**: ~279 lesson plans
 
 ## Lessons Still Needing Audit
 
