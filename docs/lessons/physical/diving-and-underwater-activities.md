@@ -14,6 +14,16 @@ Diving and underwater activities introduce young children to water confidence, b
 
 **Space Required**: Shallow water area (18-36 inches deep maximum for ages 2-3, 3-4 feet for ages 3-4+)
 
+## Vocabulary
+
+**Buoyancy**: The upward force that water pushes on everything in it — discovered by Archimedes around 250 BCE. An object floats if the water it displaces weighs more than the object itself. Your body is mostly water, so humans are close to neutrally buoyant — we almost float. Adding air to your lungs makes you more buoyant (you rise); exhaling makes you less buoyant (you sink). Understanding buoyancy is the key to controlling depth underwater.
+
+**Mammalian dive reflex**: An automatic response your body triggers when your face contacts cold water — your heart rate slows by 10-25%, blood redirects to vital organs, and your spleen releases extra oxygen-carrying red blood cells. All mammals have it, from humans to dolphins to dogs. It conserves oxygen, allowing longer breath-holds. Babies have an especially strong dive reflex, which is why infant swimming programs exist.
+
+**Hydrostatic pressure**: The pressure water exerts on your body, increasing with depth. At the surface, air pressure is 1 atmosphere (atm). Every 10 meters of water depth adds another atmosphere of pressure. Even in shallow water, children can feel pressure on their eardrums — that's hydrostatic pressure squeezing the air in the ear canal. Equalizing (gently blowing with nose pinched) pushes air back and relieves the pressure.
+
+**Diaphragm**: The dome-shaped muscle below your lungs that controls breathing. When it contracts (flattens down), your lungs expand and air rushes in. When it relaxes (domes up), air is pushed out. Learning to control the diaphragm is essential for breath-holding — a deep diaphragmatic breath fills the lungs completely, maximizing oxygen for underwater activities. The diaphragm is the most important respiratory muscle.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -78,9 +88,9 @@ Diving and underwater activities introduce young children to water confidence, b
 ### Main Activity (6-10 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Explain that diving means putting your head and body underwater
-- Demonstrate a simple duck dive or forward roll in shallow water
-- Show how to hold breath and open eyes underwater
+- Explain buoyancy: "Water pushes UP on you — that's called buoyancy. When you fill your lungs with air, you float more. When you breathe out, you sink a little. You can control whether you go up or down!"
+- Introduce the diaphragm: "Take a deep breath — feel your belly push out? That's your diaphragm muscle pulling down to make room for air in your lungs. A big diaphragm breath gives you more oxygen for staying underwater"
+- Mention the dive reflex: "When your face touches the water, your body automatically slows your heart down to save oxygen. It's called the mammalian dive reflex — all mammals have it, even whales!"
 - Emphasize that it's okay to take their time and feel scared at first
 
 #### Skill Practice (3-4 minutes)

@@ -6,13 +6,13 @@ Traditional games are time-honored play practices passed down through cultures a
 
 ## Vocabulary
 
-**Strategy**: A plan or method you use to win at a game or solve a problem. When playing tag, you might have a strategy to hide behind the tree, or in a game of marbles, you plan how to knock other marbles away carefully.
+**Cultural transmission**: How knowledge, skills, and practices get passed from one generation to the next — through demonstration, practice, and oral instruction rather than written text. Traditional games are one of the oldest forms of cultural transmission. Hopscotch has been played for over 2,000 years — Roman soldiers used it to practice footwork, and children copied them. The game traveled across trade routes from Rome to Britain to India to everywhere.
 
-**Tradition**: Something that people have done the same way for a very long time, passed down from grown-ups to children, and from one generation to the next. Hopscotch is a tradition that children have played for hundreds of years.
+**Oral tradition**: Knowledge passed down through speech and memory rather than writing. For most of human history (200,000+ years), there was no writing — everything was learned by watching and listening. Aboriginal Australian oral traditions have been verified accurate for over 7,000 years. Traditional game rules survive through oral tradition — each generation teaches the next.
 
-**Technique**: A particular way of doing something that takes practice and skill to do well. When you learn to hop on one foot in hopscotch, or throw a marble in a special way, you are learning a technique.
+**Proprioception**: Your brain's sense of where your body is in space — the "sixth sense." Proprioceptors in your muscles, tendons, and joints send constant signals to your cerebellum about your position and movement. Hopscotch trains proprioception intensively: hopping on one foot requires continuous balance feedback between your proprioceptors and cerebellum at hundreds of signals per second.
 
-**Heritage**: The special things your family and your culture have passed down to you—like stories, customs, games, and ways of celebrating. Playing traditional games from your family's heritage connects you to people from long ago.
+**Game theory**: The mathematical study of strategic decision-making — choosing the best action when the outcome depends on what other players do. In tag, the chaser must predict where the runner will go; the runner must predict what the chaser will do. This mutual prediction is called a "strategic interaction." Game theory was formalized by John von Neumann in 1928 and is used in economics, military strategy, and biology.
 
 ## 🎵 Learning Song
 

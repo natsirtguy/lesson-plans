@@ -6,13 +6,13 @@ Young children explore the visual appeal of food through observation, creative f
 
 ## Vocabulary
 
-**Composition**: The way objects are arranged in a picture to make it look interesting or beautiful. For example, placing a red apple next to a yellow banana creates a pretty composition with contrasting colors.
+**Lens**: A curved piece of glass or plastic that bends (refracts) light to focus it onto a single point — the same principle as your eye's lens. Camera lenses use the same physics discovered by Ibn al-Haytham around 1000 CE. Moving the lens closer to the food makes it look bigger (macro photography); moving it farther away captures more of the scene (wide angle). Phone cameras have tiny lenses — only 5-7mm — but they use the same optics as professional cameras.
 
-**Texture**: How something feels or looks based on its surface—smooth, bumpy, shiny, or rough. Strawberries have a bumpy texture, while grapes have a smooth, shiny texture.
+**Pixel**: The smallest unit of a digital image — short for "picture element." Your phone camera has millions of tiny light sensors (photosites) that each capture one pixel. A 12-megapixel camera captures 12 million pixels per photo. Each pixel records the color and brightness of light hitting that one tiny spot. Zoom in far enough on any digital photo and you'll see the individual colored squares — those are pixels.
 
-**Frame/Framing**: Choosing what to put in a picture by looking through the camera or device, like making a window to see the food. When you move the camera closer or farther away, you're changing what's inside the frame.
+**Exposure**: How much light reaches the camera sensor — controlled by three things: aperture (how wide the lens opens), shutter speed (how long light enters), and ISO (sensor sensitivity). "Photography" literally means "writing with light" (from Greek: photos = light, graphein = to write). Too much light = overexposed (washed out). Too little = underexposed (too dark). Natural window light creates soft, even exposure — that's why food photographers prefer it.
 
-**Documentation**: Taking pictures or making notes to remember and capture something special. When you photograph your food, you're documenting how beautiful it looks so you can see it again later.
+**Color temperature**: Light has different colors depending on its source, measured in kelvin (K). Sunlight is about 5,500K (white-blue), incandescent bulbs are about 2,700K (warm yellow-orange), and cloudy sky light is about 7,000K (blue). Your brain automatically adjusts for color temperature (white looks white in any light), but cameras sometimes don't — that's why indoor photos can look yellow and outdoor photos can look blue.
 
 ## 🎵 Learning Song
 
@@ -99,7 +99,7 @@ Children explore the visual appeal of colorful foods through observation and sim
    Invite the child to look at the colorful foods: "Look at these beautiful foods! They look like art, don't they? Today we're going to take pictures of food like photographers do." Show a simple example by holding up a berry and pointing out its color, shape, and shine. Demonstrate holding the camera gently with both hands.
 
 2. **Exploration** (5-10 min):
-   Invite the child to touch, smell, and observe each food item. Ask: "What colors do you see? What shapes are they? Are they shiny or bumpy?" Encourage noticing details and patterns. Demonstrate how to hold the device steady, move closer and farther away to change how big the food looks, and try different angles (side view, from above). Help the child take their first photos by gently guiding their hands. Ask open-ended questions: "Which colors look best together? Can you find the shiniest berry?"
+   Explore the food visually: "Each color you see is light bouncing off the food — a strawberry absorbs all light EXCEPT red, which reflects to your eyes." Demonstrate the lens: "When we move the camera closer, the lens bends the light more to make the food look bigger. That's the same physics as your eye — your eye has a lens too!" Show how exposure works: "Move near the window — see how the photo gets brighter? More light is hitting the pixels. Each of these tiny sensors captures one dot of color." Try different angles: "From above is called 'bird's eye view.' From the side shows the food's height and texture. Photographers choose angles on purpose — that's composition."
 
 3. **Discovery** (remaining time):
    Step back and let the child direct their own photography. Encourage experimenting with different foods, arrangements, distances, and angles. Support without directing by asking thoughtful questions: "I wonder what this food looks like from way up high?" Celebrate observations: "You're noticing so many details!"

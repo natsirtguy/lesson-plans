@@ -6,15 +6,13 @@ Children explore foundational math concepts through hands-on counting, sorting, 
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relating to the topic.
+**Cardinality**: The principle that the LAST number you say when counting tells you the total — it answers "how many?" When you count "1, 2, 3" and point to the last block, the "3" doesn't just label that block — it represents the entire group's quantity. This seems obvious to adults but is a genuine cognitive breakthrough for children, typically mastered between ages 2-4.
 
-**Quantity**: The amount or number of things. When you count your blocks and have five, that's the quantity of blocks you have.
+**One-to-one correspondence**: The rule that each object gets counted exactly ONCE — you touch it, say a number, and move on. No skipping, no double-counting. This is the mathematical foundation of counting, and it's harder than it sounds — it requires coordinating pointing, saying, and tracking simultaneously. It's also the basis of all measurement: every unit corresponds to exactly one portion.
 
-**More**: A greater number or larger amount of something. If you have three crackers and I have two, you have more crackers than me.
+**Subitizing**: Instantly recognizing how many objects there are WITHOUT counting — your brain does it automatically for small groups (1-4 items). When you see three dots on a die and immediately know "three" without counting, that's subitizing. The word comes from Latin "subitus" meaning sudden. Your visual cortex has neurons that respond to specific small quantities.
 
-**Fewer**: A smaller number or smaller amount of something. If you have two toys and your friend has five, you have fewer toys.
-
-**Match**: To find things that are the same amount or that go together in equal pairs. When we match one spoon with one bowl, they are matched together.
+**Conservation of number**: Understanding that the NUMBER of objects stays the same even when you rearrange them. Five blocks in a tight cluster is the same quantity as five blocks spread across the table. Jean Piaget discovered in the 1950s that children under 5-6 often think the spread-out group has "more" because it looks bigger — mastering conservation is a major cognitive milestone.
 
 ## 🎵 Learning Song
 
@@ -104,7 +102,7 @@ Children will engage in a multi-sensory counting and quantity exploration using 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit together at the work surface with the bowl of objects. Show excitement: "Look what we have! Let's discover how many." Pick up one item, touch it, and say "one." Invite the child to touch and repeat "one." Build anticipation by pointing to more items.
+   Sit together with the bowl of objects. "Today we're going to learn the secret rules that make counting work. The first rule is one-to-one correspondence — every object gets counted exactly ONCE. Touch it, say the number, move it." Demonstrate slowly, moving each item from one pile to another. "The second rule is cardinality — the LAST number you say tells you the total for the whole group."
 
 2. **Exploration** (7-10 min):
    Guide the child to:
@@ -117,11 +115,11 @@ Children will engage in a multi-sensory counting and quantity exploration using 
    - Ask questions: "How many do we have now?"
 
 3. **Discovery** (3-5 min):
-   Compare quantities:
-   - Make two piles and ask: "Which pile has more?" Let them count each pile
-   - Make piles with different amounts and ask: "Does this pile have more or fewer?"
-   - Create two piles with the same amount and ask: "Are they the same?"
-   - Give the child a specific number: "Can you make a pile with three?" Verify together by counting
+   Explore mathematical principles:
+   - **Subitizing**: Place 1-3 objects on the table and cover them briefly, then uncover: "How many? You knew instantly — that's subitizing! Your brain recognized the quantity without counting"
+   - **Conservation of number**: Count 5 blocks in a line. Then spread them apart: "Are there more blocks now? Let's count... still 5! The number doesn't change just because they're spread out. That's conservation of number"
+   - **Cardinality check**: After counting a group, ask "how many?" — if the child recounts instead of stating the last number, they haven't fully grasped cardinality yet. Practice: "The last number — 4 — IS the answer!"
+   - Give the child a specific number: "Can you make a pile with three using one-to-one correspondence? Touch each one as you count."
 
 4. **Wrap-up** (2-3 min):
    Count all items together one final time. Celebrate: "We counted all the way to [number]! You're so good at counting!" Return items to the bowl while counting backwards if the child is interested.

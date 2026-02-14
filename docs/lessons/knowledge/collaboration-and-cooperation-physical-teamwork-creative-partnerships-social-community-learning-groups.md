@@ -6,13 +6,13 @@ This lesson introduces young children to working together through creative partn
 
 ## Vocabulary
 
-**Collaborate**: Working together with others toward a shared goal, combining your ideas and efforts with theirs to create something special (like when two children paint on the same paper and their colors mix together to make new colors).
+**Collective action**: When a group accomplishes something that no individual could do alone. Two children can carry a box that's too heavy for one child — that's collective action. Ant colonies build structures millions of times their body size through collective action. The key insight is that groups can solve problems that are literally impossible for individuals.
 
-**Cooperate**: Working well with others by listening, taking turns, sharing materials, and helping each other (when one child holds the paper and another child colors, they cooperate to make a picture together).
+**Division of labor**: When each person in a group does a different job instead of everyone doing the same thing. Adam Smith described this in 1776: one person doing all 18 steps of making a pin could make 1 per day, but 10 people each doing 1-2 steps made 48,000 pins per day. Division of labor is why human civilization works.
 
-**Contribute**: To add or give something special to a group's work or effort (when you add your own mark or idea to something the group is creating).
+**Social facilitation**: The scientific finding that people often perform better when others are around — your brain releases more dopamine and norepinephrine when you work alongside others, increasing energy and motivation. Discovered by Norman Triplett in 1898 when he noticed cyclists rode faster in groups than alone.
 
-**Partnership**: Working with another person as a team where you both have important roles (two friends working together where one stirs paint and the other adds colors—you both matter).
+**Theory of mind**: The ability to understand that other people have different thoughts, knowledge, and perspectives than you do. It develops between ages 2-5 and is essential for cooperation — you can't effectively work with someone unless you understand what they know and what they need. Chimpanzees have basic theory of mind; human theory of mind is far more advanced.
 
 ## 🎵 Learning Song
 
@@ -108,11 +108,10 @@ Children engage in collaborative creative experiences where they work with peers
 
 1. **Introduction** (2-3 minutes):
    - Gather children in a circle or close group
-   - Use simple, inviting language: "Today we're going to create something together! Each person will add their own special part."
-   - Show the blank paper, open space, or gathering point
-   - Ask: "What do you think we could make together?" and listen to their ideas
-   - Demonstrate by placing your hand on the paper or taking a step toward the center to show this is a shared space
-   - Set clear, positive expectations: "There are no mistakes when we create together. Everyone's ideas and colors are beautiful."
+   - Use simple, inviting language: "Today we're going to do something together that none of us could do alone — that's called collective action."
+   - Show the blank paper: "This paper is too big for one person to fill. We need everyone — that's why collective action is powerful."
+   - Introduce division of labor: "Each person will have a special job. One person picks colors, another person paints big shapes, another adds details. When we divide the work, we can do much more!"
+   - Explain social facilitation: "Scientists discovered something cool — your brain actually works better when other people are around. Working together gives your brain extra energy!"
 
 2. **Exploration** (5-8 minutes):
    - Children explore the shared space or materials freely
@@ -143,28 +142,22 @@ Children engage in collaborative creative experiences where they work with peers
 **2-3 years**:
 
 - Keep groups very small (1-2 peers maximum plus an adult)
-- Use large motor movements rather than fine motor skills (big scribbles rather than detailed drawings)
-- Provide strong adult facilitation with verbal narration of what's happening
-- Use concrete, simple collaborative tasks: "Let's paint this paper together" rather than abstract ideas
-- Offer chunky markers, large paintbrushes, or oversized crayons
-- Have multiple copies of materials to reduce waiting and sharing conflicts
-- Use physical touch and modeling: show the movement, then hold hands to do it together
-- Shorter collaborative periods (8-12 minutes) with more frequent adult redirection
-- Focus on parallel play next to each other with occasional interaction
-- Allow them to watch others collaborate before joining in themselves
+- Demonstrate collective action with physical tasks: "This box is too heavy for one person — let's carry it together!" (the concept clicks when it's physical)
+- Name division of labor simply: "You hold, I pour" — point out their different roles
+- Narrate social facilitation: "You're painting faster because your friend is painting next to you — that's what happens when we work together!"
+- Have multiple copies of materials to reduce sharing conflicts
+- Focus on parallel play transitioning to occasional interaction
+- Point out theory of mind moments: "Your friend wants the red crayon — can you see that?"
 
 **3-4+ years**:
 
-- Invite larger groups (3-4 children) with adult facilitation
-- Add narrative or purpose: "We're painting a jungle together" or "We're building a friendship bridge"
-- Encourage more complex problem-solving: "We only have one yellow marker—how will we share?"
-- Introduce turn-taking structures with timers so children know when their turn ends
-- Expand to more sophisticated multi-day projects like ongoing murals or collaborative stories
-- Assign roles to give children ownership: "You're the color person, and you're the pattern person"
-- Create collaborative challenges: "Can we paint this picture without talking?" or "Let's make something using everyone's favorite colors"
-- Encourage children to build on each other's ideas: "What could we add to make this even better?"
-- Document their process and show it back to them to build awareness of group collaboration
-- Ask children to reflect on their experience and what they learned about working together
+- Explicitly assign division of labor with role titles: "You're the color mixer, you're the shape maker, you're the detail adder"
+- Run a collective action experiment: first, each child paints alone for 2 minutes. Then combine efforts on one big paper. Compare: "Look how much MORE we made together!"
+- Introduce the concept of specialization: "You're really good at circles. What if you do all the circles while Jamie does all the lines? That's how factories work!"
+- Discuss theory of mind during conflicts: "Jamie chose purple because she sees something different in her mind than you do. Can you imagine what she's thinking?"
+- Compare to animal collective action: bees building hives, ants carrying food 50x their body weight in teams, wolves hunting together
+- Create collaborative challenges requiring genuine interdependence: "One person draws, one person colors, one person cuts — no one can do all three"
+- Introduce the free rider problem: "What happens if one person stops helping? Does the whole project slow down?"
 
 ### Extension Ideas
 

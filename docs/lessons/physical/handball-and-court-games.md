@@ -14,6 +14,16 @@ Handball and court games introduce young children to basic ball handling, throwi
 
 **Space Required**: 20x20 feet minimum (can adapt to smaller spaces)
 
+## Vocabulary
+
+**Projectile**: Any object that is thrown, launched, or otherwise propelled through the air. Once a ball leaves your hand, it becomes a projectile — and only two forces act on it: gravity (pulling it down) and air resistance (slowing it slightly). The curved path a projectile follows is called a parabolic arc, described mathematically by Galileo in the 1600s. Every throw follows this predictable curve.
+
+**Trajectory**: The path an object follows through the air after being thrown. Trajectory is determined by three factors: release angle, release speed, and release height. A 45° angle gives maximum distance (in a vacuum), but with air resistance, optimal angle is closer to 42°. Children intuitively learn trajectory physics through throwing — their brains calculate parabolic arcs without conscious math.
+
+**Kinetic chain**: The sequence of body segments that transfer energy from the ground up through the body during a throw — legs push against the ground, hips rotate, torso twists, shoulder extends, elbow straightens, wrist snaps. Each link adds velocity to the next. A good throw uses the whole kinetic chain; a weak throw uses only the arm. This is why coaches say "throw with your whole body, not just your arm."
+
+**Proprioception**: Your body's ability to sense its own position and movement without looking — sometimes called the "sixth sense." Proprioceptors in muscles, tendons, and joints send signals to the cerebellum. When you catch a ball, proprioception tells your brain exactly where your hands are so you can position them correctly. Proprioception improves dramatically with practice — that's why catching gets easier over time.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -86,10 +96,10 @@ Handball and court games introduce young children to basic ball handling, throwi
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show the soft ball and target clearly: "We're going to play a throwing game! Watch how I pick up the ball and throw it toward the target."
-- Demonstrate a gentle, underhand throw toward the goal
-- Demonstrate catching a gentle toss (or bouncing ball)
-- Key coaching point: "We throw soft and easy - this is a gentle game where everyone can play and have fun."
+- Show the ball: "When I throw this ball, it becomes a projectile — and it will follow a curved path called a trajectory. Watch..." Throw toward target. "See the curve? Gravity pulls it down while it moves forward — that's a parabolic arc!"
+- Demonstrate the kinetic chain: "Watch my whole body — feet push the ground, hips turn, arm swings, wrist flips. Each part adds speed to the next. That's called the kinetic chain — energy flows from the ground up through your body into the ball."
+- Demonstrate catching: "Your brain uses proprioception — the sense of where your hands are without looking at them — to position your hands exactly right. The more you practice, the better your proprioception gets!"
+- Key coaching point: "A gentle, accurate throw uses the same physics as a hard one — just less force."
 
 #### Skill Practice (3-5 minutes)
 

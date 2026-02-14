@@ -6,13 +6,13 @@ Children explore the concepts of size, length, and measurement through hands-on 
 
 ## Vocabulary
 
-**Measurement**: The process of finding out how long, tall, wide, or heavy something is. When you use a ruler or your hands to find out how big a toy is, you're measuring it.
+**Unit**: A fixed amount used as a standard for measuring — you can't measure without one. When you say a table is "3 blocks long," the block is your unit. Scientists use standardized units like centimeters (1/100 of a meter) and meters so everyone gets the same answer. Ancient Egyptians used the cubit (forearm length), but everyone's arm is different — that's why we invented standard units.
 
-**Comparison**: Looking at two things side by side to see how they are the same or different. When you line up your hand next to your friend's hand to see whose is bigger, you are making a comparison.
+**Seriation**: Arranging objects in order from smallest to largest (or lightest to heaviest, or shortest to tallest). Seriation is a foundational mathematical skill — it requires comparing every object to every other object and understanding transitive relationships: if A is bigger than B, and B is bigger than C, then A must be bigger than C, even without comparing them directly.
 
-**Capacity**: How much something can hold or fit inside it. A small cup has a smaller capacity than a big bucket—the bucket can hold much more water.
+**Capacity**: The maximum volume a container can hold — measured in liters (metric) or cups/gallons (imperial). A small cup might hold 250 milliliters, while a large bucket holds 10 liters — 40 times more. Capacity is a type of three-dimensional measurement (volume), unlike length which is one-dimensional.
 
-**Dimension**: A measurement that describes the size of something in a particular direction, like how tall, wide, or deep it is. A tall tower has a big height dimension, while a flat pancake has a small height dimension.
+**Estimation**: Making a reasonable guess about a measurement before actually measuring. Scientists and engineers estimate first, then measure to check — the difference between your estimate and the real measurement is called the error. Estimation builds number sense and spatial reasoning, and it's a skill that improves with practice.
 
 ## Learning Song
 
@@ -98,41 +98,40 @@ Children engage in direct hands-on exploration of size through sorting, comparin
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child a big toy and a small toy. Ask: "Which one is bigger?" Let them hold both and notice the difference. Use exaggerated size language: "Oh, this one is HUGE! And this one is teeny tiny!" Generate excitement about exploring sizes.
+   Show the child a big toy and a small toy. Ask: "Which one is bigger?" Then ask: "HOW MUCH bigger? Can we find out?" Introduce the idea that to really measure something, you need a unit — a fixed amount you use over and over. Show a block: "This block is our unit. Let's see how many blocks long this toy is."
 
 2. **Exploration** (5-10 min):
-   - **Sorting activity**: Invite the child to put all the big items in one pile and small items in another. Ask them to find items and decide where they belong.
-   - **Ordering by size**: Line up 4-5 objects from smallest to biggest. Let the child rearrange them and discover the pattern.
-   - **Measuring activity**: Use a string or ruler to measure how tall different objects are. Let the child hold the string and see which object is taller. Mark heights on a wall with tape to show growth or comparisons.
-   - **Capacity exploration** (if water table available): Use cups and bowls to fill and pour, asking "Which cup holds more water?"
+   - **Non-standard measurement**: Measure several objects using blocks as units. Line blocks along each object and count: "This book is 5 blocks long. This shoe is 3 blocks long." Ask: "Which is longer? How do you know?" Explain that ancient Egyptians measured using cubits — the length from elbow to fingertip — but everyone's arm is different, which caused problems. That's why scientists invented standard units like centimeters.
+   - **Seriation**: Line up 5 objects from shortest to tallest. Explain the transitive property: "If the spoon is taller than the crayon, and the crayon is taller than the button, then the spoon MUST be taller than the button — even without comparing them!" Let the child practice ordering.
+   - **Estimation before measuring**: Before measuring each object, ask the child to estimate: "How many blocks long do you think this is?" Then measure together. Compare: "You guessed 4, and it was 5 — your estimate was close! The error was just 1 block."
+   - **Capacity exploration** (if water table available): Use cups and bowls to fill and pour. Count how many small cups fill the big bowl: "It took 4 small cups to fill the big bowl — the bowl's capacity is 4 cups."
 
 3. **Discovery** (3-5 min):
-   - Point out that the child's hand is smaller than yours, but bigger than a baby's hand
-   - Use a measuring tool to measure the child's arm span, then ask: "Can you stretch as wide as you can? Are you getting bigger?"
-   - Ask questions: "Can you find something that's bigger than this block?" "Is this toy taller or shorter than your toy?"
-   - Make observations: "You made a line from smallest to biggest—you're a great sorter!"
+   - Measure the child's handspan in blocks, then your handspan. Compare: "Your hand is 3 blocks wide, mine is 5 blocks wide."
+   - Try measuring the same object with different units (blocks vs. crayons): "The book is 5 blocks long but only 3 crayons long — same book, different numbers! That's why the unit matters."
+   - Introduce the ruler: "This ruler has centimeters marked on it — each one is exactly the same size, everywhere in the world. Scientists use centimeters so everyone agrees on measurements."
 
 4. **Wrap-up** (2-3 min):
-   Gather items and review what you discovered: "Today we found big things and small things. We measured how tall things are. Great exploring!" Transition to the next activity with a brief summary.
+   Review: "Today we learned that to measure something, you need a unit. We used blocks as our unit. We practiced seriation — putting things in order. And we estimated before measuring to see how close our guesses were!"
 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on basic big/small sorting with only 2-3 size categories
-- Use larger, easier-to-handle objects
-- Keep exploration short and concrete
-- Repetition with the same familiar items builds confidence
-- Use simple two-word language: "Big block," "Small block"
-- Avoid frustration by offering only clear size differences
+- Start with direct comparison (holding two objects side by side) before introducing units
+- Use large, easy-to-handle unit objects (big blocks, shoes)
+- Focus on seriation with just 3 objects at first — shortest to tallest
+- Practice estimation with two choices: "Do you think it's 2 blocks or 5 blocks long?"
+- Name the unit every time: "This is 3 blocks long — blocks are our unit today"
+- Keep the transitive property implicit: "The spoon is the biggest, the button is the smallest"
 
 **3-4+ years**:
-- Introduce three or more size categories (big, medium, small)
-- Add measurement tools and teach how to use a ruler or measuring tape
-- Encourage ordering items from smallest to biggest
-- Ask comparison questions that require thinking: "Which is heavier?" "How many blocks tall?"
-- Introduce non-standard measurements: "This toy is 5 handspans long"
-- Challenge them to find items matching specific size descriptions
-- Explore capacity more deeply with water play
+- Introduce standard units: show a ruler with centimeters marked, explain that 100 centimeters = 1 meter
+- Practice measuring the same object with different units to understand why standardization matters
+- Build estimation skills: estimate first, measure second, calculate the error
+- Explore mass vs. size: "This small rock is heavier than this big sponge — size doesn't tell you mass!"
+- Introduce the concept of area: "How many blocks does it take to cover this book?" (length × width)
+- Compare capacity using milliliters if a measuring cup is available: "This cup holds 250 mL"
+- Discuss the history of measurement: cubits, hands (still used for horses), and the metric system invented in France in 1799
 
 ### Extension Ideas
 

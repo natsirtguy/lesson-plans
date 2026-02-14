@@ -6,13 +6,13 @@ Children will explore cause and effect relationships by investigating how everyd
 
 ## Vocabulary
 
-**Mechanism**: The way parts of something work together to make it move or function. When you push a lever on a toy, the mechanism inside makes the wheel spin.
+**Simple machine**: One of six basic devices that make work easier by changing the direction or amount of force needed — lever, wheel and axle, pulley, inclined plane, wedge, and screw. Every complex machine (car engines, cranes, bicycles) is built from combinations of these six. Identified by Renaissance scientists building on ideas from Archimedes (250 BCE).
 
-**Cause and Effect**: When something happens (cause) and creates a result (effect). Cause: you push the button. Effect: the music plays.
+**Force**: A push or a pull that can make something start moving, stop moving, or change direction. Force is measured in newtons (named after Isaac Newton). When you push a toy car, you apply force. Gravity is a force that pulls everything toward the ground. Forces are invisible — you can only see their effects.
 
-**Lever**: A bar or handle that moves around a fixed point to lift, lower, or move something else. A seesaw is a lever—push down on one end and the other end goes up.
+**Mechanical advantage**: When a simple machine lets you use LESS force to do the same work. A lever lets you lift a heavy rock with a small push — but you have to push a longer distance. You never get something for nothing: less force always means more distance. This is one of the most fundamental laws of physics.
 
-**Propel**: To push or drive something forward through the air or across a surface. When you blow on a pinwheel, you propel it into spinning.
+**Energy**: The ability to make things happen — to move, heat, light up, or make sound. Energy comes in many forms: kinetic (motion), potential (stored), thermal (heat), elastic (stretched rubber bands). A wound-up spring stores potential energy; when released, it converts to kinetic energy (motion). Energy is never created or destroyed — it only changes form (the law of conservation of energy).
 
 ## Learning Song
 
@@ -130,20 +130,19 @@ Children will investigate how three simple mechanisms work by manipulating real 
 ### Age Adaptations
 
 **2-3 years**:
-- Use simpler toys with fewer moving parts
-- Focus on ONE mechanism at a time (just wheels, or just levers)
-- Use larger objects and handles that are easier to grasp
-- Keep demonstrations brief with lots of repetition
-- Emphasize the sensory experience (sounds, movement, tactile feedback)
-- Use 1-2 word descriptors: "Push! Go!" "Up! Down!"
+- Focus on ONE simple machine at a time (lever OR wheel and axle OR inclined plane)
+- Name the force every time: "You pushed it — that push is a force!"
+- Show energy conversion simply: "The spring stores energy. When you let go — energy becomes motion!"
+- Use the ramp to show inclined planes: "A ramp is a simple machine — it lets you use less force, but over a longer distance"
+- Keep demonstrations brief with repetition; let them feel the difference between lifting vs. using a lever
 
 **3-4+ years**:
-- Introduce 3-4 different mechanisms in one session
-- Add verbal descriptions of what's happening: "The gear is turning. The car is rolling."
-- Ask more complex questions: "Why did it stop? What would happen if we tried this?"
-- Introduce vocabulary naturally during play: "You used a lever!"
-- Explore variables: "What happens if we put it on a bigger ramp?"
-- Encourage them to predict before acting: "What do you think will happen?"
+- Hunt for all six simple machines around the house: scissors (lever + wedge), doorknob (wheel and axle), screw, ramp, knife (wedge), pulley (curtain rod)
+- Explain mechanical advantage: "Push down far on the long end, the short end lifts the heavy block a little bit. Less force, more distance — that's mechanical advantage!"
+- Test energy conversion: wind up a spring toy → potential energy becomes kinetic energy
+- Explore variables: "What happens if we make the ramp steeper? More force from gravity means more speed"
+- Introduce friction: "Why does the car stop? Friction — the surface grabs the wheels and slows them down"
+- Build a Rube Goldberg chain: ball rolls down ramp → hits lever → lever lifts cup → marble falls. Every step converts energy from one form to another.
 
 ### Extension Ideas
 

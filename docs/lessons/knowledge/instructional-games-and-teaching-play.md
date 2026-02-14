@@ -6,13 +6,13 @@ Children learn core concepts through structured play experiences that incorporat
 
 ## Vocabulary
 
-**Turn-Taking**: The practice of alternating actions with another person in an ordered sequence, where each person waits for their moment to act. Example: In a game, you roll the die, then pass it to your friend so they can roll.
+**Working memory**: The part of your brain (prefrontal cortex) that holds information "in mind" while you use it — like remembering which cards you've already seen in a matching game. Children can hold about 2-3 items in working memory; adults can hold about 7. Working memory is one of the strongest predictors of academic success, stronger than IQ, and it improves with practice.
 
-**Rules**: Clear, established guidelines that structure how a game or activity works and what players are expected to do. Example: "We take turns rolling the die" or "We match the pictures that look the same."
+**Probability**: How likely something is to happen, expressed as a number. When you roll a six-sided die, each number has a 1-in-6 chance (about 17%) of appearing. With two dice, there are 36 possible combinations, and 7 is the most common sum because it can be made 6 different ways (1+6, 2+5, 3+4, 4+3, 5+2, 6+1). Understanding probability helps you make better decisions.
 
-**Engagement**: Active, focused participation and genuine interest in an activity or learning experience. Example: A child is engaged when they lean in to look at game cards and excitedly reach to take their turn.
+**Executive function**: A set of three mental skills controlled by the prefrontal cortex: working memory (holding information), inhibitory control (stopping yourself from acting impulsively), and cognitive flexibility (switching between tasks or rules). Games develop all three — remembering rules uses working memory, waiting your turn uses inhibitory control, and adapting strategy uses cognitive flexibility.
 
-**Strategy**: A thoughtful plan or approach chosen to help achieve a goal or make decisions in a game. Example: Choosing to pick a card from the top of the pile rather than the bottom because it might be easier to reach.
+**Protégé effect**: The scientific finding that teaching someone else helps YOU learn better than studying alone. When a child teaches a game to a sibling, they organize the information more clearly in their own brain, identify gaps in their understanding, and remember the rules longer. Discovered in education research — students who tutor others score higher on tests than students who only study.
 
 ## 🎵 Learning Song
 
@@ -98,7 +98,7 @@ Children engage with simple games and playful teaching moments that develop cogn
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child the game materials with enthusiasm: "Look what we're going to play with today! This is a game where we take turns." Demonstrate one simple move or action to spark curiosity - roll a die, spin a spinner, or match one pair of cards. Keep language simple and exciting, emphasizing fun and discovery. Explain the basic rule in one sentence: "We take turns rolling the die and moving our piece" or "We match the pictures that are the same."
+   Show the game materials: "This game is going to exercise three parts of your brain! Your working memory — that's the part that remembers which cards you've seen. Your inhibitory control — that's the part that helps you wait for your turn. And your cognitive flexibility — that's the part that changes your plan when something unexpected happens." Roll a die: "Each face has a 1-in-6 chance of landing up. That's probability — there are 6 possible outcomes and each one is equally likely."
 
 2. **Exploration** (5-10 min):
    Let the child handle, turn, shake, and examine all the game pieces. Describe what they're doing: "You're rolling the die! The number is 4." Answer questions about the materials. Notice what captures their attention - favorite colors, interesting textures. This builds familiarity and comfort. Then introduce game rules step-by-step. Demonstrate the first action clearly and slowly. Verbalize your thinking as you go: "I'm looking for the red one... I found it! They match!" Invite the child to try: "Your turn! What do you see?" Play together, alternating turns.

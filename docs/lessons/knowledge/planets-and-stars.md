@@ -6,15 +6,13 @@ This lesson introduces young children to the wonders of planets and stars throug
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic:
+**Nuclear fusion**: The process that makes stars shine — hydrogen atoms are crushed together by enormous gravity and pressure in the star's core, fusing into helium and releasing tremendous energy as light and heat. Our sun fuses 600 million tons of hydrogen every second. This is fundamentally different from burning — fusion converts matter into energy following Einstein's equation E=mc². Stars are self-sustaining fusion reactors.
 
-**Luminous**: Shining brightly with its own light. When we look at stars, they glow because they are luminous—they make their own light just like a light bulb in your home, but stars are way far away in the sky.
+**Gravity**: The invisible force that pulls every object toward every other object — the more massive the object, the stronger its pull. Gravity keeps planets orbiting the sun and the moon orbiting Earth. You can't turn it off or shield against it. Isaac Newton described it mathematically in 1687; Einstein refined the explanation in 1915 — gravity is actually the bending of space itself by massive objects.
 
-**Celestial**: Relating to the sky or outer space. When we look up at the night sky and see planets, stars, and the moon, we are looking at celestial objects that float in space above us.
+**Light-year**: The distance light travels in one year — about 9.5 trillion kilometers (5.9 trillion miles). Light is the fastest thing in the universe: 300,000 km per second. The nearest star (Proxima Centauri) is 4.2 light-years away, meaning the light you see left that star 4.2 years ago. The Milky Way galaxy is 100,000 light-years across. When you look at distant stars, you're literally looking back in time.
 
-**Orbit**: To travel in a circular path around something. The Earth orbits around the Sun, traveling in a big circle that takes one whole year. It's like when you walk around in a circle around a tree—the planet is always moving around the Sun.
-
-**Constellation**: A group of stars that form a pattern or picture in the night sky. If you connect the dots between stars, some patterns look like animals or objects—these are constellations, like the Big Dipper or a hunter called Orion.
+**Solar system**: The sun and everything held by its gravity — 8 planets, 5 dwarf planets, hundreds of moons, millions of asteroids, and billions of comets. The planets formed 4.6 billion years ago from a spinning disk of gas and dust (the solar nebula). Inner planets (Mercury, Venus, Earth, Mars) are rocky; outer planets (Jupiter, Saturn, Uranus, Neptune) are made mostly of gas and ice. The entire solar system orbits the center of the Milky Way galaxy.
 
 ## Learning Song
 
@@ -96,7 +94,7 @@ Children will create their own luminous constellation by exploring glow-in-the-d
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by asking: "What do we see in the sky when it gets dark outside?" Show a glow-in-the-dark star and explain that stars are luminous—they shine very brightly, even though they are far, far away. Turn off the overhead lights and use the flashlight to illuminate the paper, talking about how we look up at the night sky to find stars and planets.
+   Begin by asking: "What do we see in the sky when it gets dark outside?" Show a glow-in-the-dark star: "Stars make their own light through nuclear fusion — hydrogen atoms get squeezed together so hard inside the star that they fuse into helium and release enormous energy. Our sun does this 600 million tons per second!" Turn off the lights and use the flashlight: "Stars look tiny because they're incredibly far away. The nearest star is 4.2 light-years away — that means the light took 4.2 YEARS to reach your eyes. Planets don't make their own light — they only reflect the sun's light, like a mirror."
 
 2. **Exploration** (7-10 min):
    Let the child place glow-in-the-dark stars on the black paper in their own pattern or arrangement. Encourage them to touch the stars, feel their texture, and arrange them however they like. As they place each star, name it: "You're putting a luminous star here!" Once several stars are placed, turn off the flashlight and darken the room further to see the stars glow. This creates a magical moment that captures attention and excitement.
@@ -110,10 +108,10 @@ Children will create their own luminous constellation by exploring glow-in-the-d
 ### Age Adaptations
 
 **2-3 years**:
-Keep the activity very simple and sensory-focused. Let them touch and place stars without concern for pattern or connection. Use the word "shiny" alongside "luminous" to build vocabulary gradually. Keep the darkened room time very brief (30-60 seconds) to avoid any anxiety. Focus on the tactile experience of placing stickers and the visual magic of the glow, rather than constellation concepts.
+Focus on the star vs. planet distinction: "Stars make their own light through fusion. Planets reflect light — like a ball reflecting a flashlight." Use a flashlight on a shiny ball to demonstrate. Keep darkened room time brief. Name the sun as "our star" and mention it's a medium-sized star. Hold a marble near a basketball: "If the sun is this basketball, Earth is smaller than this marble — and in real life, it would be 100 feet away!"
 
 **3-4+ years**:
-Extend the activity by having them create multiple constellations and name them based on what shapes they see. Introduce the concept of connecting stars in a pattern. Show them pictures of real constellations and try to find similar patterns in their creation. Ask them to tell you a story about their constellation—what is it? What is it doing? Add white or yellow markers to draw lines connecting the stars, creating their own celestial map.
+Build a scale model: place a basketball (sun) at one end of a room, a marble (Earth) 30 feet away, a pea (Mars) 50 feet away. Discuss gravity: "The sun is SO massive that its gravity holds all the planets in orbit — even Neptune, which is 4.5 billion km away." Explain why planets orbit: "They're falling toward the sun but moving sideways so fast they keep missing — that's what an orbit is." Create constellations and explain that the stars in a constellation aren't actually near each other — they're at vastly different distances but LOOK close together from Earth's perspective. Name the inner rocky planets vs. outer gas giants and explain why (closer to the sun = too hot for gas to clump = rocky).
 
 ### Extension Ideas
 

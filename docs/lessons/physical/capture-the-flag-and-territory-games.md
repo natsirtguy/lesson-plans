@@ -14,6 +14,16 @@ Capture the flag and territory games introduce young children to cooperative pla
 
 **Space Required**: Large open area (minimum 30x30 feet recommended)
 
+## Vocabulary
+
+**Cardiovascular system**: Your heart, blood vessels, and blood — the system that delivers oxygen to every cell in your body. During running, your heart rate increases from about 80 beats per minute (resting) to 150+ bpm to pump more oxygen-rich blood to working muscles. Running games like capture the flag train the cardiovascular system to become more efficient — the heart gets stronger and pumps more blood per beat.
+
+**Strategic thinking**: Planning actions by anticipating what others will do — considering multiple possible outcomes before choosing. "If I go left, they'll chase me left, so I should fake left then go right." The prefrontal cortex handles strategic thinking, and it's one of the last brain regions to fully develop (not until mid-20s). Practice with strategy games builds neural pathways that improve decision-making in all areas.
+
+**Proprioception**: Your brain's sense of where your body is in space without looking — the "sixth sense." Proprioceptors in muscles, tendons, and joints continuously report position data to the cerebellum. When running, stopping, and changing direction in territory games, proprioception keeps you balanced and coordinates rapid movements. Athletes with trained proprioception can change direction faster and fall less often.
+
+**Anaerobic vs. aerobic**: Two different energy systems your muscles use. Aerobic ("with oxygen") powers steady activities — jogging, walking. Anaerobic ("without oxygen") powers explosive bursts — sprinting, jumping. Capture the flag uses BOTH: aerobic during positioning and patrolling, anaerobic during sprints for the flag. Anaerobic energy lasts only 10-30 seconds, which is why children naturally sprint in short bursts and then slow down.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -82,10 +92,10 @@ Capture the flag and territory games introduce young children to cooperative pla
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show children the two territories: "This side is the RED team territory, this side is the BLUE team territory"
-- Point to where flags are placed: "The flag is right here - see it? Let's look at it"
-- Explain the simple goal: "Our job is to run safely and bring the flag back to our home. That's it!"
-- Key coaching point: "If someone tags you, you go back to your home. Then you can try again"
+- Show the territories: "This side is RED, this side is BLUE. This game uses strategic thinking — you have to plan your moves by guessing what the other team will do."
+- Explain energy systems: "When you sprint for the flag, your muscles use anaerobic energy — super fast power that only lasts 10-30 seconds. Then you need to slow down and use aerobic energy to recover. That's why you'll feel like running fast, then resting — your body is switching between energy systems!"
+- Point to the flags: "Notice your heart beating — your cardiovascular system is already preparing. Your heart will beat faster during sprints to pump more oxygen to your leg muscles."
+- Key coaching point: "If tagged, go back and use strategic thinking — what can you do differently next time?"
 
 #### Skill Practice (3-6 minutes)
 
