@@ -6,13 +6,13 @@ Tutoring and coaching activities involve a child providing one-on-one guidance t
 
 ## Vocabulary
 
-**Model**: To demonstrate or show someone how to do something by doing it yourself first. When you model how to fit puzzle pieces, the learner watches and learns by seeing your actions.
+**Protege effect**: A phenomenon in learning science where teaching someone else improves your own understanding more than studying alone does. When you explain how puzzle pieces fit, your brain has to organize the knowledge clearly — this deepens your own neural connections. Research shows that students who tutor others score higher on tests than students who only study. Your brain learns best when it has to make ideas clear enough for someone else to understand.
 
-**Encourage**: To give someone confidence and support so they feel brave enough to try something new. When you say "Good trying!" even if someone doesn't succeed, you are encouraging them.
+**Scaffolding**: A teaching technique based on Lev Vygotsky's research in the 1930s, where the tutor provides just enough support to help the learner do something they can't quite do alone — then gradually removes that support as the learner improves. The "zone of proximal development" is the gap between what a child can do independently and what they can do with help. The scaffold is temporary — it comes down when the learner can stand on their own.
 
-**Persist**: To keep trying even when something is difficult or doesn't work the first time. When you practice throwing a ball over and over until you get better, you are persisting.
+**Mirror neurons**: Special brain cells that fire both when you perform an action AND when you watch someone else perform the same action. Discovered in the 1990s in macaque monkeys by Italian neuroscientists. When the tutor demonstrates tying a shoe, the learner's mirror neurons activate the same motor cortex regions as if they were tying it themselves — the brain rehearses the movement just by watching. This is why demonstration is such a powerful teaching method.
 
-**Strategies**: Different methods or ways of doing something to solve a problem or learn a skill. Teaching strategies might include showing slowly, breaking the task into small steps, or trying a different way.
+**Metacognition**: Thinking about your own thinking — the ability to notice how you learn and what strategies work for you. When a tutor says "I check which way the piece goes before I push," they're modeling metacognition — making invisible thought processes visible. The prefrontal cortex handles metacognition, and it develops significantly between ages 2-7, which is why young children gradually get better at planning and self-monitoring.
 
 ## 🎵 Learning Song
 
@@ -97,18 +97,16 @@ In this activity, one child takes on the role of coach or tutor to help another 
 **Activity Flow**:
 
 1. **Introduction** (1-2 minutes):
-   Introduce the tutor and learner: "Today, [Tutor] is going to help [Learner] learn something new. What are we working on?"
-   - Have the tutor explain what skill they'll work on together
-   - Ask the learner: "Are you ready to practice? What do you want to learn?"
-   - Build excitement: "This is going to be fun! [Tutor] is really good at this."
-   - Set expectations: "It's okay to make mistakes—that's how we learn."
+   Introduce the tutor and learner: "Today, [Tutor] is going to help [Learner] learn something new. Here's an amazing fact: when you teach someone, your own brain actually learns it better — scientists call this the protege effect. So both of you are going to get smarter today!"
+   - Explain mirror neurons to both: "When [Learner] watches carefully, special brain cells called mirror neurons fire in their brain as if they were doing it themselves. So watching closely is already practicing!"
+   - Set expectations: "It's okay to make mistakes — your brain builds new connections every time you try."
 
 2. **Demonstration** (2-3 minutes):
    The tutor shows the skill clearly and step-by-step.
-   - Tutor demonstrates slowly and narrates: "Watch me first. I turn the piece this way... then it fits like this."
-   - Points out key steps: "See how I check which way it goes before I push?"
-   - Does it again, keeping language simple and clear
-   - Asks the learner: "Did you see how I did that?"
+   - Tutor demonstrates slowly and narrates — this is metacognition in action: making invisible thinking visible. "Watch me first. I turn the piece this way... then it fits like this."
+   - Points out key steps and scaffolds the learner's understanding: "See how I check which way it goes before I push? I'm using a strategy — I look at the shape first, then I try to match it."
+   - Does it again — remind the learner: "Your mirror neurons are firing right now — your brain is practicing just by watching!"
+   - Asks the learner: "Can you tell me what I did first? What did I do next?" (building their metacognitive awareness)
 
 3. **Guided Practice** (4-8 minutes):
    The learner practices with support from the tutor.
@@ -128,10 +126,10 @@ In this activity, one child takes on the role of coach or tutor to help another 
 ### Age Adaptations
 
 **2-3 years**:
-At this age, tutoring is very simple and adult-guided. Choose extremely simple skills (rolling a ball, turning a page, stacking two blocks). The tutor is more of a "buddy" than a teacher—they do it alongside the learner. Adult guides both children through parallel practice. Keep sessions very short (5-10 minutes) with multiple attempts and celebration of any effort.
+At this age, tutoring is simple and adult-guided, but still use real concepts. The tutor is a "buddy" who demonstrates alongside the learner — their mirror neurons benefit from both doing and watching. Point out scaffolding in real time: "You're helping by holding the block steady — that's scaffolding! You're giving just enough help." Name the protege effect: "Teaching your friend is making YOUR brain stronger too!" Keep sessions short (5-10 minutes).
 
 **3-4+ years**:
-Choose more complex skills (puzzle strategy, throwing accuracy, building specific structures). The tutor can remember and explain multiple steps without constant adult prompting. Introduce problem-solving coaching: "What could you try next if that doesn't work?" Offer variations and reflective questions. Tutor and learner can sustain longer sessions (15-20 minutes) with multiple rounds of practice.
+Introduce metacognition explicitly: "Before you show [Learner], think about what you do FIRST. What's the hardest part? Tell them about that." Coach the tutor to scaffold — start with maximum help, then reduce: "First do it together, then let them try with just your voice, then let them try alone." Discuss the zone of proximal development in child-friendly terms: "What can [Learner] almost do? That's where your help matters most." After the session, discuss the protege effect: "Do you feel like YOU understand it better after teaching? That's because explaining activates different neural pathways than just doing."
 
 ### Extension Ideas
 

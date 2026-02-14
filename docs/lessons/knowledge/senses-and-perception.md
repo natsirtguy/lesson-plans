@@ -6,13 +6,13 @@ Children explore how their five senses work by engaging in tactile, visual, audi
 
 ## Vocabulary
 
-**Texture**: The way something feels when you touch it, such as rough like tree bark, smooth like glass, or bumpy like a pinecone. When you rub different surfaces, you experience their texture.
+**Receptor**: A specialized cell that converts a specific type of stimulus (light, sound, pressure, chemicals) into an electrical nerve signal that travels to your brain. Each sense has its own receptor type: photoreceptors in your retina detect light, mechanoreceptors in your skin detect pressure and vibration, hair cells in your cochlea detect sound waves. You have about 200 million photoreceptors in each eye alone. Without receptors, your brain would have no connection to the outside world.
 
-**Observe**: To look carefully and notice details about something using your eyes and attention. When you observe a butterfly, you might notice its colorful wings and how it moves.
+**Photoreceptor**: The light-detecting receptor cells in your retina (the back of your eye). You have two types: about 120 million rod cells that work in dim light but only see in grayscale, and about 6 million cone cells that detect color but need bright light. Cones come in three types — red-sensitive, green-sensitive, and blue-sensitive — and your brain combines their signals to create every color you see. Dogs only have two types of cones, which is why they see fewer colors than you.
 
-**Sensory**: Related to the five senses: seeing, hearing, touching, tasting, and smelling. Every sensory experience helps your brain understand what's happening around you.
+**Cochlea**: A fluid-filled, snail-shaped organ in your inner ear that converts sound waves into nerve signals. Sound waves enter your ear, vibrate your eardrum, which vibrates three tiny bones (the smallest bones in your body — the malleus, incus, and stapes), which create waves in the cochlear fluid. About 3,500 inner hair cells in the cochlea bend in response and fire nerve signals to your auditory cortex. Different hair cells respond to different frequencies — high-pitched sounds are detected near the entrance, low-pitched sounds near the tip.
 
-**Distinguish**: To recognize differences between two things by carefully examining or testing them. You can distinguish between sweet and salty tastes by tasting different foods.
+**Olfactory receptor**: A chemical-detecting receptor in the roof of your nasal cavity. You have about 400 different types of olfactory receptors, and your brain combines their signals to identify roughly 1 trillion different smells. Smell is the only sense that sends signals directly to the limbic system (your emotional brain) without passing through the thalamus first — that's why smells can trigger powerful memories and emotions instantly.
 
 ## Learning Song
 
@@ -104,15 +104,15 @@ Children engage in a multi-sensory exploration station where they safely interac
 
 2. **Exploration** (10-15 min):
 
-   *See (Vision)*: Show the child different colored items and ask "What colors do you see?" Hold up the mirror and let them see their own face. Use the flashlight in a dimly lit area to see how light changes what we see.
+   *See (Vision — photoreceptors)*: Show colored items and explain: "Your eyes have 6 million cone cells — tiny photoreceptors — that detect color. You have three types: red-cones, green-cones, and blue-cones. Your brain mixes their signals to make every color." Use the flashlight in dim light: "Now mostly your 120 million rod cells are working — they see in the dark but not in color. That's why things look grayish in dim light."
 
-   *Hear (Auditory)*: Let the child ring the bell, shake the container with dry rice, crinkle paper, and tap the wooden spoon. Ask "What sounds do you hear? Are they loud or quiet?"
+   *Hear (Auditory — cochlea)*: Let the child make different sounds — bell, rice shaker, crinkled paper. "Sound waves travel through the air and vibrate your eardrum. Then three tiny bones — the malleus, incus, and stapes — pass the vibration to your cochlea, where 3,500 hair cells turn it into nerve signals. High-pitched sounds activate hair cells near the entrance; low-pitched sounds activate cells near the tip."
 
-   *Touch (Tactile)*: Guide their hands to feel each texture. Say "This is soft" (cotton ball), "This is smooth" (stone), "This is rough" (sandpaper). Ask them to describe: "Does it feel soft or bumpy?"
+   *Touch (Tactile — mechanoreceptors)*: Guide their hands to feel different textures. "Your fingertips have about 2,500 mechanoreceptors per square centimeter — that's why fingertips are so sensitive. Your elbow has far fewer. Feel this sandpaper with your fingertip, then with your elbow — big difference!" Introduce Meissner's corpuscles (detect light touch) vs. Pacinian corpuscles (detect deep pressure and vibration).
 
-   *Smell (Olfactory)*: Hold items near (not forcing) and let them sniff gently. "What do you smell?" Avoid anything too strong that could be overwhelming.
+   *Smell (Olfactory — olfactory receptors)*: Hold items near gently. "You have 400 types of olfactory receptors in the roof of your nose. Your brain combines their signals to identify about 1 trillion different smells! Smell is special — it goes directly to your emotional brain, which is why a smell can remind you of something instantly."
 
-   *Taste (Gustatory)*: Offer small, safe tastes one at a time. "What does this taste like? Is it sweet or salty?" Provide water between tastes.
+   *Taste (Gustatory — taste buds)*: Offer small tastes. "Your tongue has about 10,000 taste buds, each containing 50-100 receptor cells. They detect five basic tastes: sweet, salty, sour, bitter, and umami (savory). Your sense of taste actually depends heavily on smell — try pinching your nose while tasting. Notice how the flavor changes?"
 
 3. **Discovery** (2-3 min):
    Ask guiding questions: "Which sense helps us know the color of an apple?" "How do we know if something is rough or smooth?" "Can you close your eyes and still hear my voice?" Help them understand that each sense gives different information about the world.
@@ -123,10 +123,10 @@ Children engage in a multi-sensory exploration station where they safely interac
 ### Age Adaptations
 
 **2-3 years**:
-Keep activities very simple and concrete. Focus on one sense at a time (e.g., just touch and taste in one session). Use repetition with familiar items. Avoid overwhelming the child with too many options. Use very simple language and follow their lead. Keep sessions shorter (10-12 minutes). Ensure all items are safe for a child who might put things in their mouth.
+Focus on one or two senses per session. Name the receptor types even at this age: "Your mechanoreceptors in your fingertips are telling your brain this is rough!" Do the fingertip-vs-elbow sensitivity test — children find it fascinating that the same object feels different in different places. Do the nose-pinch taste test to show how smell and taste work together. Name the three cone types when looking at colors: "Your red-cones are firing right now!"
 
 **3-4+ years**:
-Introduce all five senses in one session. Add descriptive language challenges ("Can you tell me three words to describe how this feels?"). Introduce the concept of preferences ("Do you like this texture better or that one?"). Create a sensory chart where you draw or write descriptions of items explored. Add memory challenges ("Can you remember what the pinecone felt like without touching it again?"). Extend to comparing and contrasting sensations.
+Introduce all five senses with full receptor science. Map the tongue's taste receptors and test each basic taste (sweet, salty, sour, bitter, umami). Do the two-point discrimination test: touch two pencil points close together on the fingertip (can distinguish them) vs. the back (can't) — demonstrates receptor density differences. Explore sensory adaptation/habituation: "Why can't you smell your own house? Your olfactory receptors stopped sending signals because nothing changed — that's adaptation." Introduce synesthesia: some people's brains cross-wire senses so they taste shapes or see sounds. Discuss how each sense has a dedicated brain region: visual cortex, auditory cortex, somatosensory cortex, olfactory cortex, gustatory cortex.
 
 ### Extension Ideas
 

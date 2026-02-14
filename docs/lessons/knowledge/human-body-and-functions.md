@@ -6,13 +6,13 @@ Children discover the amazing systems and parts that make their body work! Throu
 
 ## Vocabulary
 
-**Heart**: The strong muscle inside your chest that pumps blood through your body to give it energy. You can feel your heart beating fast after you run and play!
+**Organ**: A body part made of different types of tissue that does a specific job. Your heart is an organ that pumps blood, your lungs are organs that breathe, and your brain is an organ that thinks. You have about 78 organs working together right now, organized into organ systems — groups of organs that cooperate on the same task, like the circulatory system (heart + blood vessels) and the respiratory system (lungs + airways).
 
-**Lungs**: The spongy organs inside your chest that take in fresh air when you breathe in and push out old air when you breathe out. They help your whole body get the oxygen it needs to move and grow.
+**Hemoglobin**: A special protein inside your red blood cells that grabs onto oxygen in your lungs and carries it through your blood to every part of your body. Hemoglobin contains iron — the same metal found in nails and magnets — and that iron is what makes your blood red. Each red blood cell contains about 270 million hemoglobin molecules.
 
-**Skeleton**: The framework of bones inside your body that holds you up and lets you stand tall and straight. Your bones are strong and protect all your important body parts inside.
+**Diaphragm**: A large, dome-shaped muscle that sits below your lungs and does the real work of breathing. When your diaphragm contracts and flattens, it creates negative pressure — like pulling a plunger — which sucks air into your lungs. When it relaxes back to its dome shape, air gets pushed out. You breathe about 20,000 times every day, and your diaphragm powers every single breath.
 
-**Muscles**: The stretchy parts under your skin that get shorter and longer to help you move your arms, legs, and whole body. Every time you reach, jump, or wiggle, your muscles are working hard!
+**Cardiac muscle**: The special type of muscle your heart is made of. Unlike your arm and leg muscles (skeletal muscles) that you control on purpose, cardiac muscle contracts automatically — about 100,000 times per day — without you ever having to think about it. Cardiac muscle cells are connected by intercalated discs that pass electrical signals from cell to cell, making the whole heart beat in rhythm.
 
 ## Learning Song
 
@@ -104,35 +104,30 @@ Children will explore their own bodies through tactile discovery, movement, and 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Begin by pointing to your own body parts and asking: "Do you know what's inside your body? Let's find out!" Show enthusiasm and wonder. Explain that just like a toy has pieces that make it work, their body has special parts that help them play, eat, sleep, and grow. Tell them you'll be body explorers today!
+   Begin by pointing to your own body parts and asking: "Do you know what's inside your body? Let's find out!" Explain: "Your body has about 78 organs — special parts that each do a specific job. And those organs are organized into systems that work together, like a team. Today we're going to explore some of the most important organ systems — your circulatory system, your respiratory system, and your musculoskeletal system."
 
 2. **Exploration** (10-12 minutes):
 
-   **Heart Discovery** (3 minutes):
+   **Heart and Circulatory System** (3 minutes):
    - Guide the child to place their hand on their chest and feel for their heartbeat
-   - Have them run in place or jump up and down for 10-15 seconds
-   - Place hand on chest again and feel how much faster their heart is beating
-   - Explain: "That's your heart working hard! It pumps blood all through your body."
-   - Ask: "Can you feel it beating now? What did you notice?"
+   - Explain: "That's your cardiac muscle — a special kind of muscle that beats automatically, about 100,000 times every single day, without you ever telling it to. It sends electrical signals from cell to cell through tiny connections called intercalated discs — that's what keeps the rhythm going."
+   - Have them run in place or jump for 10-15 seconds, then feel their chest again
+   - "Your heart beats faster now because your muscles need more oxygen. Your heart pumps blood through blood vessels — arteries carry blood away from your heart, veins carry it back. It's a loop called the circulatory system. The blood carries hemoglobin, a protein full of iron — that iron is why blood is red — and the hemoglobin grabs oxygen from your lungs and delivers it everywhere."
 
-   **Lungs and Breathing** (2 minutes):
-   - Guide slow, deep breathing together: "Breathe in slowly... and out slowly"
-   - Have them place hands on their sides/ribs and feel them expand and contract
-   - Explain: "Your lungs are inside here, filling with air when you breathe in, and emptying when you breathe out"
-   - Try fast breathing after movement, then slow breathing at rest: "Feel how your breathing changes?"
+   **Lungs and Respiratory System** (2 minutes):
+   - Have them place hands on their lower ribs and breathe deeply
+   - Explain: "Feel that? Your diaphragm — a big dome-shaped muscle below your lungs — is doing all the work. When it flattens, it creates negative pressure, like pulling a plunger, and air rushes in. When it relaxes, air gets pushed out. You breathe about 20,000 times a day."
+   - Try fast breathing after movement, then slow: "When you ran, your cells used more oxygen, so your diaphragm worked faster to bring in more air. The oxygen goes from your lungs into your blood, where hemoglobin picks it up and carries it to your muscles."
 
-   **Bones and Skeleton** (3 minutes):
-   - Have child feel their own bones: skull, ribs, spine, legs
-   - Explain: "Your bones are hard and strong - they're like the building blocks that hold your body up"
-   - Show how they can touch and feel different bones
-   - Try moving while thinking about bones: "Your bones help you stand tall!"
+   **Bones and Skeletal System** (3 minutes):
+   - Have child feel their own bones: skull, ribs, spine (vertebrae), femur (thigh bone)
+   - Explain: "You have 206 bones, and they're not just stiff sticks — they're alive! Inside your bones is bone marrow, which makes new blood cells. Your femur — this big thigh bone — is the strongest bone in your body. It can support 30 times your weight."
+   - Feel the skull: "This is your cranium. It's like a helmet made of bone that protects your brain." Feel the spine: "These bumps are your vertebrae — 33 of them stacked up, with soft discs between them so you can bend and twist."
 
    **Muscles and Movement** (2 minutes):
-   - Have child make a muscle by flexing their arm
-   - Feel their own muscle getting bigger and smaller
-   - Explain: "Under your skin are muscles that help you move. Watch them work!"
-   - Do simple movements: reach, stretch, wiggle, jump
-   - Say: "Your muscles are working every time you move!"
+   - Have child flex their biceps, then straighten to feel the triceps
+   - Explain: "You have over 600 skeletal muscles, and they work in pairs called antagonist pairs. When your biceps contracts to bend your arm, your triceps on the other side relaxes. When you straighten your arm, they switch — triceps contracts, biceps relaxes. They take turns!"
+   - Do movements naming muscles: "Jump — that's your quadriceps and gastrocnemius (calf muscle). Reach up — that's your deltoids (shoulder muscles)."
 
 3. **Discovery** (3-5 minutes):
    - Use the mirror for children to observe themselves
@@ -152,22 +147,17 @@ Children will explore their own bodies through tactile discovery, movement, and 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep descriptions very simple and concrete: "Feel your heart going boom-boom"
-- Use mostly movement-based exploration rather than explanation
-- Focus on one or two body parts at a time (heart and lungs, or bones and muscles)
-- Use lots of repetition and simple songs
-- Expect short attention spans - break into very brief segments
-- Keep the activity very tactile and physical
-- Use simple words: "bump-bump" instead of "heartbeat," "breathe in and out," "strong bones," "wiggly muscles"
+- Focus on one organ system per session (heart one day, lungs the next) with plenty of tactile exploration
+- Use real terms but pair with physical experience: "Feel your cardiac muscle going boom-boom — it beats automatically!" and "Your diaphragm is pulling air in right now"
+- Name bones and muscles during movement: "You're using your femur to walk" and "Your biceps is bending your arm"
+- Expect short attention spans — keep segments to 2-3 minutes with lots of movement between
 
 **3-4+ years**:
-- Introduce the vocabulary words more formally (heart, lungs, skeleton, muscles)
-- Ask "why" questions: "Why does your heart beat faster when you run?"
-- Create a more detailed body map or diagram together
-- Introduce the concept that bones and muscles work together
-- Extend to thinking about other body functions: digestion, sleeping, healing
-- Make connections to their own observations: "Remember when you were running? Your heart was working hard!"
-- Introduce the idea of caring for their body: "Healthy food helps your muscles grow strong"
+- Introduce all organ systems in one session and discuss how they connect: "Your respiratory system brings in oxygen, your circulatory system delivers it, your musculoskeletal system uses it to move"
+- Teach the heart's four chambers: left atrium, right atrium, left ventricle, right ventricle — and how blood flows through them in a figure-eight loop (lungs → heart → body → heart → lungs)
+- Explore the digestive system: esophagus (peristalsis pushes food down even upside-down), stomach (hydrochloric acid breaks down food), small intestine (nutrients absorbed through villi — tiny finger-like projections)
+- Discuss the nervous system: brain sends signals through neurons at up to 120 meters per second; the spinal cord is the main highway
+- Create a detailed body map labeling organs, bones by name (cranium, vertebrae, ribs, femur, tibia), and muscle pairs (biceps/triceps, quadriceps/hamstrings)
 
 ### Extension Ideas
 

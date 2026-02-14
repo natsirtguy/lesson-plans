@@ -6,13 +6,13 @@ This activity uses creative, playful methods to help young children understand a
 
 ## Vocabulary
 
-**Demonstrate**: To show someone how to do something by doing it yourself. When you demonstrate holding hands safely, the child learns by watching and copying your actions.
+**Reaction time**: The delay between sensing something and physically responding to it — the time it takes for a signal to travel from your eyes to your visual cortex, then to your prefrontal cortex for a decision, then to your motor cortex, then down your spinal cord to your muscles. For adults, this is about 200-250 milliseconds (a quarter of a second). For young children, it's even longer because myelination (nerve insulation that speeds signals) is still developing. This is one reason children need extra safety margins — their brains process danger more slowly.
 
-**Practice**: To do something over and over so you get better at it and remember it well. We practice safety rules many times in different situations until they become automatic, like brushing teeth.
+**Momentum**: A physics concept — the force of a moving object, calculated as mass times velocity (how heavy it is multiplied by how fast it's going). A car weighing 1,500 kg traveling at 50 km/h has enormous momentum and cannot stop instantly even when the brakes are applied. The stopping distance at 50 km/h is about 13 meters (43 feet) on dry road. This is why we look both ways and wait — even if a driver sees you, physics prevents the car from stopping immediately.
 
-**Cooperate**: To work together with others and follow along with what someone asks you to do. Cooperating with safety rules means listening to grown-ups and doing what helps keep everyone safe.
+**Peripheral vision**: The ability to see things at the edges of your visual field — up to about 180 degrees — using rod cells in your retina. Rod cells are sensitive to motion but poor at detail and color. This is why you can detect a car approaching from the side even when you're not looking directly at it. Your peripheral vision acts as an early warning system — your brain is constantly monitoring the edges of your vision for unexpected movement.
 
-**Anticipate**: To know or guess what might happen next and get ready for it. When you anticipate a car coming, you look both ways before crossing the street.
+**Habituation**: The neurological process by which repeated practice turns a conscious behavior into an automatic one. When you practice looking both ways enough times, the neural pathway (prefrontal cortex → motor cortex → muscles) becomes myelinated and strengthened until the behavior becomes procedural memory — you do it without thinking. This is why consistent practice of safety rules is so important: you're literally building brain hardware.
 
 ## 🎵 Learning Song
 
@@ -98,12 +98,12 @@ Children learn important safety rules like holding hands while crossing, staying
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Introduce the activity with enthusiasm: "Today we're going to play games about staying safe while we have fun! Safety rules help us stay healthy and happy." Introduce a "Safety Friend" (puppet, stuffed animal, or special voice) that will help teach the rules. Show 1-2 picture cards and ask: "What do you notice in this picture?"
+   Introduce the activity: "Today we're going to learn WHY safety rules exist — it's all about physics and how your brain works. Did you know a car going 50 kilometers per hour can't stop for 13 meters — that's about 43 feet — even with brakes? That's because of momentum — heavy things moving fast take a long time to stop. That's why we look both ways." Show a picture card: "And your brain needs time too — about a quarter of a second just to react. That's called reaction time."
 
 2. **Exploration** (5-10 min):
-   - **Phase 1 - Demonstration**: Introduce the first safety rule with a simple statement. Demonstrate with a doll or stuffed animal: "Watch how teddy holds my hand. See? We're safe together!" Ask the child to copy: "Can you show me how you hold hands? Let's practice!"
-   - **Phase 2 - Role-Play and Practice**: Invite the child to act out the safety scenario. For crossing: Use a toy vehicle and have the child be the pedestrian. Practice holding hands, looking both ways, and crossing together. For indoor safety: Practice walking while staying close and responding to your voice. For gentle touch: Gently touch a doll or stuffed animal and guide the child's hands to be soft, not poking or hitting.
-   - **Phase 3 - Creative Expression**: Sing the safety rule song together (child can hum, clap, or move), or draw and color a safety picture together. Talk about what the picture shows: "This shows us being safe!"
+   - **Phase 1 - Momentum demonstration**: Roll a toy car at different speeds toward a stuffed animal. "See how the fast car takes longer to stop? That's momentum — mass times velocity. Heavy things going fast have lots of momentum, and momentum doesn't just disappear when you hit the brakes. Now imagine a real car — it weighs over 1,000 kilograms!"
+   - **Phase 2 - Reaction time and looking**: Practice the street-crossing sequence. Explain WHY we look both ways: "Your peripheral vision — the edges of what your eyes see — uses rod cells that detect movement. Turn your head both ways so your rod cells can scan for anything moving." Test reaction time: drop a ruler and have the child try to catch it. "See that delay? Your brain needs time to see it, decide to grab, and tell your muscles to move."
+   - **Phase 3 - Habituation practice**: Practice the full sequence multiple times. Explain: "Every time you practice, the neural pathway in your brain gets stronger and faster — a process called habituation. Eventually, looking both ways will become automatic, stored in your procedural memory. You'll do it without even thinking about it, like how you breathe without thinking."
 
 3. **Discovery** (3-5 min):
    Ask open-ended questions: "Why do we hold hands?" "What happens when we follow safety rules?" Point out observations: "You held my hand gently!" "You looked both ways!" Celebrate their understanding with specific praise, not just "good job."
@@ -114,24 +114,20 @@ Children learn important safety rules like holding hands while crossing, staying
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on just 1-2 safety rules per session (holding hands, staying close)
-- Use mostly physical demonstration with less talking
-- Expect lots of repetition; children learn through constant exposure over time
-- Use real-world scenarios (actually walk together, don't just talk about it)
-- Make it mostly movement and play with minimal verbal instruction
-- Use very short, simple words: "Hold hands!" "Stay close!" "Gentle!"
+- Focus on 1-2 rules per session with physical demonstration
+- Name the science simply: "Cars are heavy and fast — lots of momentum! They can't stop quickly." Roll toy cars at different speeds to demonstrate
+- Do the ruler-drop reaction time test — children love seeing the delay between seeing and catching
+- Practice looking both ways and name what's happening: "Your peripheral vision is scanning — your rod cells are looking for movement"
+- Repeat across many sessions — each repetition builds habituation, strengthening the neural pathway
 - Duration: 10-15 minutes
-- High physical involvement; guide movements, prompt frequently, reinforce during real daily situations
 
 **3-4+ years**:
-- Add more complex safety rules (looking both ways, listening for sounds, understanding "stop" signals)
-- Include problem-solving: "What do we do if we can't find mommy in the store?"
-- Role-play more complex scenarios (crossing at traffic lights, what to do if unfamiliar person approaches)
-- Ask "why" questions to build understanding
-- Introduce personal safety concepts (safe vs. unsafe touches, knowing trusted adults)
-- Encourage child to teach safety rules to a younger child or stuffed animal
-- Create a safety rule chart together with pictures they draw
-- Duration: 15-25 minutes; can sustain longer attention and engage with more complexity
+- Explain stopping distance with numbers: "At 50 km/h, a car needs 13 meters to stop. Let's measure 13 meters and see how far that is!" Walk it out together
+- Discuss reaction time in more detail: nerve signals travel at about 120 meters per second — fast, but not instant. The delay adds to stopping distance
+- Role-play complex scenarios with physics reasoning: "If a car is coming from that direction, and it takes 13 meters to stop, are we far enough away?"
+- Introduce the concept of risk assessment: "What makes this situation more dangerous? Less dangerous? What factors change the risk?" (speed, visibility, weather, distractions)
+- Connect habituation to other automatic behaviors: "Brushing teeth used to take concentration — now it's procedural memory. Safety habits become automatic the same way."
+- Duration: 15-25 minutes
 
 ### Extension Ideas
 

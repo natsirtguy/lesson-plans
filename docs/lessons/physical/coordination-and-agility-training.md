@@ -4,6 +4,16 @@
 
 Coordination and agility training develops a child's ability to move smoothly through space, change directions quickly, and control their body in response to visual and spatial cues. Through playful movement games and obstacle navigation, children strengthen the neural pathways that connect their eyes, ears, and muscles, building foundational coordination skills that support all future athletic development. This activity is beneficial because it enhances balance, proprioception, and motor planning while building confidence in physical movement.
 
+## Vocabulary
+
+**Motor cortex**: The strip of brain tissue that controls voluntary movement, organized as a body map (called the homunculus) where different regions control different body parts. The hand and face areas are disproportionately large because they require the most precise control. When you decide to step over an obstacle, your motor cortex sends electrical signals down your spinal cord at up to 120 meters per second to activate the exact muscles needed. The motor cortex plans movements before they happen — it's already preparing the next step while you're completing the current one.
+
+**Cerebellum**: A structure at the back of your brain that contains about 50% of all your brain's neurons despite being only 10% of its volume. The cerebellum is your error-correction center — it compares what you intended to do with what actually happened and adjusts future movements. When you stumble on an obstacle course, your cerebellum notes the error and recalibrates. This is why the course gets easier with practice — your cerebellum is refining its predictions. Damage to the cerebellum makes movements jerky and uncoordinated.
+
+**Center of gravity**: The single point where all of an object's weight is balanced. For a standing human, it's roughly behind your belly button. When your center of gravity stays over your base of support (the area between your feet), you're stable. When it moves outside your base of support, you fall — unless you move your feet. Widening your stance creates a larger base of support, making you harder to knock over. This is why athletes bend their knees and widen their feet before changing direction.
+
+**Vestibular system**: Three fluid-filled semicircular canals in your inner ear that detect rotation (turning, tilting, spinning) and two otolith organs (utricle and saccule) that detect linear acceleration and gravity. When fluid in the canals moves, tiny hair cells bend and send signals to your brain about your head's position and motion. Your vestibular system works with proprioception and vision to maintain balance — if any one of these three systems sends conflicting information, you feel dizzy or off-balance.
+
 **Activity Type**: Motor skill development / Gross motor play
 
 **Duration**: 12-18 minutes (with natural breaks)
@@ -77,9 +87,9 @@ Coordination and agility training develops a child's ability to move smoothly th
 3. **Side-to-side stepping with arm movements** - Step side to side while reaching arms overhead and then down. This warms up lateral movement skills.
 
 **Warm-up cues**:
-- "Let's wake up our bodies! March like a big soldier with strong arms making circles!"
-- "Tap-tap-tap your feet, then run-run-run! Can you feel your heart beating faster?"
-- "Slide side to side like we're playing, arms reaching up to the sky, then down to the ground!"
+- "Let's activate our motor cortex! March in place — your brain is sending signals down your spinal cord to your quadriceps (front of thigh) and deltoids (shoulders) at 120 meters per second!"
+- "Tap-tap-tap — your cerebellum is coordinating the timing of each foot. Now run! Feel your heart rate increase? Your cardiovascular system is delivering more oxygen to your muscles."
+- "Slide side to side — your vestibular system (the fluid in your inner ear) is tracking every direction change, keeping you balanced. Arms up activates your deltoids; arms down uses gravity."
 
 ### Main Activity (8-15 minutes)
 
@@ -96,10 +106,10 @@ Coordination and agility training develops a child's ability to move smoothly th
 3. **Body control during direction changes** - Slowing down before changing direction, planting one foot firmly, then pushing off in the new direction. Practice with simple directional commands: "Stop!" then "Go left!" or "Go right!"
 
 **Coaching cues**:
-- "Look where you're going, not at your feet! Your eyes lead your body."
-- "Slow down before you turn—plant your foot like you're putting down an anchor!"
-- "Feel your body shift from one foot to the other—smooth like peanut butter!"
-- "You're doing great! Keep your eyes on the next spot!"
+- "Look ahead, not at your feet — your visual cortex feeds information to your cerebellum, which plans your foot placement two steps ahead. If you look down, your cerebellum loses its preview."
+- "Before you turn, lower your center of gravity — bend your knees. That widens your base of support and keeps your center of gravity over your feet so you don't fall."
+- "Feel the weight shift from one foot to the other? That's your vestibular system and proprioceptors working together — fluid sloshing in your semicircular canals tracks the motion, while muscle spindles report your leg position."
+- "Each time you run this course, your cerebellum gets better — it compares errors from last time and adjusts. That's why practice makes you smoother!"
 
 #### Guided Play/Game (3-7 minutes)
 
