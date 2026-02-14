@@ -4,6 +4,16 @@
 
 American football and tackle games introduce young children to the fundamentals of passing, catching, and running with a ball in a cooperative, non-contact format. This activity builds gross motor skills, hand-eye coordination, directional awareness, and introduces basic team concepts through simplified flag football or touch variations. These games develop confidence, spatial reasoning, and the ability to follow multi-step instructions while having fun with peers.
 
+## Vocabulary
+
+**Angular momentum**: The spinning force that stabilizes a football in flight. When a quarterback throws a spiral, the ball spins around its long axis — this gyroscopic effect keeps the pointed end facing forward, reducing air resistance (drag) and making the ball fly straighter and farther. A football that doesn't spin tumbles unpredictably because air pushes unevenly on its oblong shape. The same physics principle keeps a spinning top upright and a bicycle wheel stable.
+
+**Projectile**: Any object moving through the air under the influence of gravity. Once a football leaves your hand, it follows a parabolic arc — gravity pulls it down while its forward momentum carries it along. The optimal launch angle for maximum distance is about 45 degrees. Galileo first described projectile motion mathematically in the 1600s. The ball accelerates downward at 9.8 meters per second squared — the same rate for all objects regardless of weight.
+
+**Deltoid**: The large triangular muscle covering your shoulder, with three sections (anterior, lateral, posterior) that work together to lift and rotate your arm. The anterior deltoid is the primary muscle powering the throwing motion — it contracts to drive your arm forward. Professional quarterbacks generate throwing speeds of over 90 km/h (55 mph) through sequential activation of their legs, hips, core, and finally deltoids — a movement pattern called the kinetic chain.
+
+**Proprioception**: Your "sixth sense" — the ability to know where your body parts are in space without looking at them. Muscle spindles, Golgi tendon organs, and joint receptors send constant position data to your cerebellum, which uses it to coordinate movement in real time. When you reach out to catch a ball, your cerebellum predicts the ball's trajectory and positions your hands using proprioceptive feedback — a complex calculation happening unconsciously.
+
 **Activity Type**: Sport-based
 
 **Duration**: 15-20 minutes (with natural breaks)
@@ -77,10 +87,10 @@ American football and tackle games introduce young children to the fundamentals 
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Hold up the soft football and explain: "This is a football. Today we're going to pass it, catch it, and run together - but no tackling, just flag-pulling or gentle touches!"
-- Demonstrate the basic passing motion: "Hold the ball with your fingers, bring it near your ear, and push it toward your friend."
-- Show a catch: "Hold your hands like a basket, watch the ball come to you, and squeeze gently."
-- Key coaching point: "In our game, we work together as a team. We pass to friends and try to get to the end zone!"
+- Hold up the soft football: "Notice the shape — it's an oblate spheroid, pointed at both ends. When it spins in the air, that spin creates angular momentum, which keeps it stable — just like a spinning top stays upright. A non-spinning football tumbles because air pushes unevenly on it."
+- Demonstrate throwing: "Hold with fingers along the laces, bring it near your ear — your deltoid muscle (this big shoulder muscle) will power the throw. Push forward and flick your wrist at the end to create spin. That spin is angular momentum — it makes the ball fly straight."
+- Show a catch: "Your cerebellum predicts where the ball will go — it's a projectile following a parabolic arc. Hold your hands out and let your proprioception guide your hands to the right position."
+- Key coaching point: "The ball is a projectile — gravity pulls it down at 9.8 meters per second squared. The harder you throw, the further it goes before gravity brings it down."
 
 #### Skill Practice (3-5 minutes)
 
@@ -91,10 +101,10 @@ American football and tackle games introduce young children to the fundamentals 
 - **Running with the ball**: Hold it against your chest, keep arms bent, look ahead while moving
 
 **Coaching cues**:
-- "Hold it like you're hugging the football - keep it safe!"
-- "Your eyes follow the ball all the way to your hands"
-- "Push it out from your ear, like waving goodbye with the whole ball!"
-- "Great job! You're a wonderful football player!"
+- "Grip with your fingers along the seams — your fingertips create the spin. More spin means more angular momentum, which means a straighter flight."
+- "Watch the ball all the way into your hands — your visual cortex is tracking the projectile and your cerebellum is calculating where it will be."
+- "Step forward with your opposite foot as you throw — that transfers energy from your legs through your core to your deltoid. That's the kinetic chain — each body part adds power in sequence."
+- "Feel your proprioception working? Your hands found the ball without you looking at them — muscle spindles in your arms and hands told your brain exactly where they were."
 
 #### Guided Play/Game (5-8 minutes)
 

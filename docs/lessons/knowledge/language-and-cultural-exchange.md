@@ -6,13 +6,13 @@ Language and cultural exchange introduces young children to the diversity of lan
 
 ## Vocabulary
 
-**Language**: A system of sounds and words that people use to talk to each other and share their thoughts, feelings, and ideas.
+**Phoneme**: The smallest unit of sound in a language. English has about 44 phonemes — the "sh" in "ship" is one phoneme, the "ch" in "chip" is another. Different languages use different phonemes: Mandarin Chinese uses tones (the same syllable "ma" means "mother," "hemp," "horse," or "scold" depending on pitch), and some African languages like Xhosa use click sounds that don't exist in European languages at all. Babies are born able to hear every phoneme in every language, but by 12 months their brains specialize for the sounds they hear most.
 
-**Culture**: The special ways that a group of people live—including their food, music, celebrations, clothes, stories, and the things they believe are important.
+**Language family**: A group of languages that all descended from one ancient language, like branches of a tree. English, Spanish, Hindi, and Russian are all part of the Indo-European family — over 3 billion people speak a language from this one family. Languages in the same family share cognates — words that sound similar because they came from the same ancient root. "Mother" in English, "madre" in Spanish, and "mater" in Latin all come from the same Proto-Indo-European word spoken over 5,000 years ago.
 
-**Tradition**: A special way of doing something that families or groups have done the same way for many years, passed down from older people to younger people.
+**Bilingualism**: The ability to speak two languages. Bilingual children's brains develop stronger executive function — the prefrontal cortex gets more practice switching between language systems, which strengthens attention, cognitive flexibility, and working memory. More than half the world's population speaks at least two languages. There are about 7,000 languages spoken on Earth today, though one goes extinct roughly every two weeks.
 
-**Celebrate**: To do something joyful and special to mark an important day or to show happiness about something that matters to your family or community.
+**Writing system**: The method a language uses to represent speech visually. Alphabets (like English's Latin alphabet — 26 letters representing phonemes) are just one type. Chinese uses logographic characters where each symbol represents a word or concept, not a sound — you need about 3,000 characters to read a newspaper. Japanese uses three writing systems simultaneously. Arabic and Hebrew write right-to-left. The oldest known writing is Sumerian cuneiform, invented about 5,400 years ago in modern-day Iraq.
 
 ## 🎵 Learning Song
 
@@ -101,11 +101,11 @@ This activity explores cultural and linguistic diversity through concrete experi
 
 2. **Exploration** (5-10 min):
    Choose one of these approaches based on your interests:
-   - **Language play**: Teach 5-10 simple words (hello, goodbye, thank you, colors, animals). Practice pronunciation together playfully.
-   - **Music listening**: Play traditional music and move to it together. Talk about instruments you hear.
-   - **Food tasting**: Discuss where the food comes from, then taste together with openness. Talk about flavors and how it's similar or different from foods you eat.
-   - **Art exploration**: Look at traditional art from the culture, then create your own version together using that art style.
-   - **Celebration discovery**: Learn about a cultural celebration, then recreate a simple tradition (decoration, food, music, or dance).
+   - **Language play**: Teach 5-10 simple words (hello, goodbye, thank you, colors, animals). Point out which phonemes are different from English — "Does this language have sounds we don't use?" Practice pronunciation together. If exploring a related language, find cognates: "Water" in English and "Wasser" in German sound similar — they're from the same language family!
+   - **Writing system exploration**: Show how the chosen language is written. Compare to English: "This language uses an alphabet too, but look how different the letters are!" or "Chinese doesn't use an alphabet at all — each character is a picture of an idea." Let children try making marks in the new writing system.
+   - **Music listening**: Play traditional music. Discuss the instruments — "That's a sitar from India. It has 18-21 strings!" or "Those are taiko drums from Japan." Talk about pentatonic scales (5-note scales used across many cultures independently).
+   - **Food tasting**: Discuss where the food comes from and connect to geography. Talk about why different regions developed different cuisines — climate determines which crops grow, which shapes what people eat.
+   - **Celebration discovery**: Learn about a cultural celebration and its origins. "Diwali is a festival of lights that's over 2,500 years old. People light diyas because light symbolizes knowledge conquering ignorance."
 
 3. **Discovery** (3-5 min):
    Ask: "What did you notice?" "What was your favorite sound/taste/picture?" "Would you like to learn more?" Make connections: "Our family does this, and people in [place] do something like that." Celebrate: "You just learned new words in a different language!" or "You tasted food from far away!"
@@ -116,10 +116,10 @@ This activity explores cultural and linguistic diversity through concrete experi
 ### Age Adaptations
 
 **2-3 years**:
-Keep exploration very concrete and sensory. Use diverse picture books and talk about the people. Play music and let them move freely. Try simple greetings in different languages without pressure to remember. Taste foods from different cultures. Interaction with diverse people in your community is valuable. Use repetition with the same exposures.
+Keep exploration concrete and sensory. When introducing new words, point out unfamiliar phonemes: "Listen — this word has a sound we don't use in English!" Play music from different cultures and name the instruments. Use diverse picture books and point out different writing systems: "See these symbols? That's Japanese — they use three different writing systems!" Taste foods from different cultures. Repeat the same language's words across multiple sessions — bilingual exposure strengthens the prefrontal cortex even at this age.
 
 **3-4+ years**:
-Explore deeper—ask why cultures do things and learn basic facts about geography and history. Learn meaningful phrases and simple conversations in a language. Participate in cultural arts or crafts with understanding of their meaning. Ask questions about differences and similarities. Create art in cultural traditions. Celebrate cultural holidays with understanding. Watch longer videos about different places. Learn simple dances or games from other countries.
+Explore language families: map out which languages are "cousins" (English-German-Dutch in the Germanic family). Hunt for cognates: "uno/one," "nacht/night." Compare writing systems side by side — write "hello" in Latin alphabet, Arabic script, Chinese characters, and Devanagari. Discuss why languages diverge: people who moved apart thousands of years ago gradually changed their pronunciation until they couldn't understand each other anymore. Learn about endangered languages — some languages have fewer than 10 speakers left. Explore how geography shaped cultures: "People near oceans eat more fish; people in cold climates developed preservation techniques like smoking and salting."
 
 ### Extension Ideas
 

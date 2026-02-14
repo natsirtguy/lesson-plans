@@ -6,15 +6,13 @@ Children will explore the fundamental elements of visual art through hands-on cr
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, expanding beyond toddler basics while directly relating to the topic.
+**Pigment**: A substance that gives paint, ink, or dye its color by absorbing some wavelengths of light and reflecting others back to your eyes. Red pigment absorbs blue and green light but reflects red wavelengths — that's why you see red. For thousands of years, artists made pigments from natural materials: ochre from iron-rich earth (one of the oldest pigments, used in 40,000-year-old cave paintings), ultramarine blue from crushed lapis lazuli stone (once more expensive than gold), and carmine red from crushed cochineal beetles. Today most pigments are synthetic.
 
-**Texture**: The way a surface feels when you touch it, or looks like it would feel. A bumpy orange peel has a rough texture, while a smooth stone has a soft, sleek texture.
+**Subtractive color mixing**: When you mix pigments (paints, crayons, inks), each pigment absorbs more wavelengths of light, so the mixture gets darker — this is subtractive mixing. Yellow pigment absorbs blue light; blue pigment absorbs red light; mix them and you get green because that's the only wavelength neither one absorbs. The three primary pigment colors are cyan, magenta, and yellow (CMY) — printers use these. Red + blue + yellow is a simplified version artists have used for centuries.
 
-**Composition**: The way things are arranged or organized in a picture or artwork. When you put your drawing in the middle of the paper or spread it across the whole page, you are creating composition.
+**Negative space**: The empty space around and between the subjects of an artwork. Your brain processes negative space just as actively as the objects themselves — in fact, optical illusions like Rubin's vase work because your visual cortex can interpret the same boundary as either the edge of an object or the edge of a space. Artists use negative space deliberately to create balance, direct attention, and make compositions feel more or less crowded.
 
-**Palette**: A collection of colors that an artist chooses to use in their artwork. A sunset palette might include oranges, pinks, and purples, while an ocean palette includes blues, teals, and greens.
-
-**Contrast**: When colors, shapes, or ideas are very different from each other and stand out next to one another. A bright yellow sun against a dark blue sky shows contrast because they are so different.
+**Value**: How light or dark a color is, independent of its hue. Pure white has the highest value; pure black has the lowest. Adding white to any pigment increases its value (called a tint); adding black decreases its value (called a shade). Your eyes detect value through rod cells in your retina — the same cells that let you see in dim light — which is why black-and-white photographs can feel just as powerful as color ones.
 
 ## 🎵 Learning Song
 
@@ -114,10 +112,10 @@ Children will explore and create visual art using multiple mediums and sensory e
 
 2. **Exploration** (8-12 min):
    Allow free exploration through multiple phases:
-   - **Color exploration**: Invite them to choose a color and make marks on paper with crayons or markers. Ask: "What does this color make you think of?"
-   - **Paint exploration**: Introduce paintbrush and paint. Let them experiment with brush strokes, mixing colors (if doing wet paint), and creating marks. Describe what they're doing: "You're making long sweeping lines" or "Look at the texture the brush creates"
-   - **Texture exploration**: Offer natural objects and textured materials. Have them feel and observe: "How does this feel? Is it bumpy or smooth? What color is it?" They can press textured items onto wet paint or use them as stamps
-   - **Collage/composition**: If interested, offer pre-cut shapes or magazine pieces to arrange on paper. Ask: "Where do you want to put this shape? Will it be in the middle or corner?"
+   - **Pigment exploration**: Show different colors and explain: "Each color is made of pigment — a substance that absorbs some light and reflects other light back. This red crayon has pigment that absorbs blue and green light but bounces red wavelengths into your eyes. That's why you see red!" Compare how different tools (crayon, marker, paint) deliver pigment differently.
+   - **Subtractive color mixing**: Mix two paint colors together. "Watch what happens — yellow absorbs blue light, and blue absorbs red light. When we mix them, the only light that isn't absorbed is green. That's subtractive color mixing — each pigment subtracts more light." Try several combinations and predict results before mixing.
+   - **Value experiments**: Take one color and add white to make a tint, then add black to make a shade. "See how the same hue can go from very light to very dark? That's called value. Your rod cells — the light-detecting cells in your retina — are what notice these differences."
+   - **Negative space**: Arrange shapes on paper and point out: "Look at the space BETWEEN your shapes — that's negative space. Artists use it on purpose. Where you leave nothing is just as important as where you put something."
 
 3. **Discovery** (3-5 min):
    Step back and observe. Ask open-ended questions:
@@ -133,10 +131,10 @@ Children will explore and create visual art using multiple mediums and sensory e
 ### Age Adaptations
 
 **2-3 years**:
-Keep it simple and sensory-focused. Provide only 2-3 colors at a time to avoid overwhelm. Focus heavily on texture exploration and large motor movements (big sweeping brush strokes). Offer markers and crayons primarily, as they're easier to control than paint. Use thick paper and thick brushes. Skip fine motor tasks like small stickers. Repeat the same activity multiple times—toddlers learn through repetition. Emphasis: "Look at the color! Feel how bumpy this is!"
+Provide 2-3 colors and focus on pigment science during exploration: "This pigment is absorbing light right now — that's why you see blue!" Do simple subtractive mixing experiments: "Let's see what happens when yellow meets red." Name values: "You pressed hard — that's a darker value. Light press — lighter value, more of the paper shows through." Use thick brushes and large paper. Repeat the same color mixing experiments across sessions — repetition builds understanding.
 
 **3-4+ years**:
-Introduce more colors and mediums simultaneously. Encourage intentional composition: "Where would you like to put your shape?" Ask them to describe their color choices and what inspired them. Introduce the vocabulary words naturally. Encourage mixing colors and observing changes. Try stamping with textured objects. Allow for longer, more focused creation time. Ask them to plan before starting: "What colors will you use?" Emphasis: "What was your design plan? How did you arrange your shapes?"
+Introduce the full CMY primary color system and compare to the traditional red-yellow-blue model. Explore complementary colors (colors opposite on the color wheel that create strong contrast — red/green, blue/orange, yellow/purple). Discuss why complementary colors look so vivid next to each other: "Your cone cells in your retina get fatigued by one color and overreact to the opposite." Practice creating tints and shades systematically — paint a value scale from lightest to darkest. Introduce negative space as a design tool: cut shapes and discuss how the leftover paper is itself a composition. Explore historical pigments: "Ultramarine blue used to cost more than gold — artists would use it only for the most important parts of a painting."
 
 ### Extension Ideas
 

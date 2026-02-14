@@ -6,13 +6,13 @@ Skill demonstration and modeling is when an adult or older child intentionally s
 
 ## Vocabulary
 
-**Demonstrate**: To show someone how to do something by doing it slowly and carefully so they can watch and learn. When you demonstrate tying shoes, you move slowly and explain each step.
+**Mirror neurons**: Special brain cells discovered in the 1990s that fire both when you perform an action AND when you watch someone else perform the same action. When you watch someone tie a shoe, neurons in your motor cortex activate the same patterns as if you were tying it yourself — your brain is secretly rehearsing. This is why watching a skilled demonstration is genuine learning, not passive entertainment. Mirror neurons were first discovered in macaque monkeys by Italian neuroscientist Giacomo Rizzolatti.
 
-**Observe**: To watch something carefully and notice what is happening. When you observe a skill being demonstrated, you pay close attention to the steps and movements.
+**Procedural memory**: The type of long-term memory that stores how to do things — tying shoes, riding a bike, brushing teeth. It's stored in the cerebellum and basal ganglia, not in the same brain regions as facts and events (that's declarative memory, stored via the hippocampus). Procedural memories form through repetition and are remarkably durable — once a skill is procedural, you can do it without thinking about it, even years later. That's why you never forget how to ride a bike.
 
-**Sequential**: Happening in a particular order, one step after another. Tying shoes is sequential because you must do certain steps in the correct order to make it work.
+**Scaffolding**: Based on Lev Vygotsky's "zone of proximal development" theory (1930s) — the idea that learning happens best in the gap between what you can do alone and what you can do with help. A demonstrator provides a scaffold: maximum support at first (doing it while you watch), then partial support (guiding your hands), then minimal support (verbal cues only), then none. Each step removes a piece of the scaffold as the learner's own procedural memory takes over.
 
-**Model**: An example that shows the right way to do something; or to demonstrate and show how something is done. When you model good behavior, you show others the way to do it correctly.
+**Observational learning**: Albert Bandura's social learning theory (1960s) showed that humans learn not just from direct experience but from watching others. His famous "Bobo doll" experiments proved that children reproduce behaviors they've observed, even without being directly taught or rewarded. Observational learning requires four steps: attention (noticing what the model does), retention (remembering it), reproduction (physically attempting it), and motivation (wanting to do it).
 
 ## Learning Song
 
@@ -93,16 +93,16 @@ Children will watch you demonstrate a specific skill (such as tying shoes, paint
 **Activity Flow**:
 
 1. **Introduction** (1-2 minutes):
-   Build anticipation by showing the materials and focusing attention: "I'm going to show you how to tie shoes. Watch carefully and see if you can remember the steps." Ask a question to focus their observation: "What do you think happens first?"
+   Build anticipation: "I'm going to show you how to tie shoes. While you watch, something amazing happens in your brain — special cells called mirror neurons will fire as if YOUR hands were tying the shoes. Your brain rehearses the movement just from watching! So pay close attention — your mirror neurons are about to get a workout." Ask: "What do you think happens first?"
 
 2. **Full Demonstration** (2-4 minutes):
-   Demonstrate the complete skill once while narrating slowly and clearly. Speak deliberately, pause between steps, and point to key parts. Use consistent language: "First, I take one end. Now I cross it over. Now I pull tight." Keep your hands positioned so children see everything clearly.
+   Demonstrate the complete skill once while narrating slowly. This is Bandura's observational learning in action — you're providing the "attention" and "retention" steps. Speak deliberately: "First, I take one end. Now I cross it over. Now I pull tight." Keep your hands visible — mirror neurons need clear visual input to activate properly.
 
 3. **Repeat and Highlight** (2-4 minutes):
    Do the demonstration again, this time adding more detail or asking questions: "See how I'm checking this part? Why do you think I do that?" Invite children to narrate along if they remember the steps. Focus on the trickiest parts by demonstrating them slowly and carefully.
 
 4. **Key Points and Understanding** (1-2 minutes):
-   Show a common mistake and the correct way: "If I do it this way, it doesn't work. But when I do it this way, it works!" Ask children what they noticed: "What was different those two times?" Check understanding by asking: "What was the first step?"
+   Show a common mistake and the correct way — this is how the cerebellum learns: by comparing errors against successful outcomes. "If I do it this way, it doesn't work. But when I do it this way, it works!" Ask: "What was different?" This builds the error-correction loop that procedural memory needs. Check retention: "What was the first step?"
 
 5. **Wrap-up** (1-2 minutes):
    Celebrate the skill and normalize that children won't be perfect yet. Offer practice if appropriate: "Would you like to try it now?" If practicing, provide support as children work through the steps with your guidance.
@@ -110,10 +110,10 @@ Children will watch you demonstrate a specific skill (such as tying shoes, paint
 ### Age Adaptations
 
 **2-3 years**:
-Keep demonstrations very short with 2-4 highly visible steps. Use large, exaggerated movements and simple narration: "I pull. I cross. I pull. It's tight!" Repeat many times since toddlers need repetition. Have children practice while you demonstrate simultaneously. Keep demonstrations to 3-5 minutes and celebrate any imitation, even if not accurate. Provide hands-on support during practice.
+Keep demonstrations short with 2-4 visible steps. Exaggerated movements give mirror neurons clearer input. Repeat many times — each repetition strengthens the procedural memory pathway in the cerebellum. Name the brain science: "Your mirror neurons are practicing right now!" Have children practice simultaneously — this is maximum scaffolding (Vygotsky's zone of proximal development). Celebrate any imitation — even inaccurate reproduction is Bandura's "reproduction" step happening.
 
 **3-4+ years**:
-Demonstrate more complex skills with 4-5 or more steps. Show problem-solving approaches: "First I check if it's tight. If it's not, I tighten it more." Introduce variations and ask children to predict: "What do you think happens next?" before showing. Have children verbally describe what they see. Show the skill both slowly and at normal speed. Extend demonstrations to 5-15 minutes. Eventually have children demonstrate for others.
+Demonstrate more complex skills and explicitly scaffold: start with full physical guidance (hand-over-hand), then verbal guidance only, then just watching. Name the process: "I'm removing the scaffold because your procedural memory is taking over!" Show deliberate error and correction — the cerebellum learns from error signals. Have children narrate what they observe (building Bandura's "retention" step). Eventually have them demonstrate for others — teaching triggers the protege effect, strengthening their own neural pathways.
 
 ### Extension Ideas
 

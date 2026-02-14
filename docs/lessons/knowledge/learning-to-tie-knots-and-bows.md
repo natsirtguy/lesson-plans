@@ -6,13 +6,13 @@ Children will develop fine motor control and hand-eye coordination by learning t
 
 ## Vocabulary
 
-**Loop**: A curved shape made when you bend something like a string or rope into a circle without crossing the ends. When you tie your shoes, you make two loops that look like bunny ears.
+**Friction**: The force created when two surfaces rub against each other. Friction is the reason knots hold — when rope crosses over itself and you pull tight, the surfaces press together and friction prevents them from sliding apart. Smoother rope has less friction (knots slip more easily), while rougher rope has more friction (knots hold tighter). Without friction, no knot could ever hold — everything would slide apart.
 
-**Secure**: To make something tight and firm so it won't come loose or fall apart. When you tie a knot, you're making it secure so the string stays exactly where you want it.
+**Overhand knot**: The simplest knot — you make one loop and pull the end through it. In knot theory (a real branch of mathematics), this is called a trefoil knot and it's the simplest knot that can't be untangled without cutting. Every more complex knot is built by combining or modifying this basic structure. Sailors, climbers, and surgeons all start by learning this knot.
 
-**Tension**: The tightness or pulling feeling when you stretch a string or rope. When you pull a knot tight, you're creating tension that keeps everything in place.
+**Crossing**: The point where one strand of rope passes over or under another strand. Mathematicians classify knots by counting their crossings — an overhand knot has 3 crossings, a figure-eight knot has 4. Each crossing adds friction, which is why more complex knots hold tighter. When you tie a bow, you're creating multiple crossings that lock together.
 
-**Weave**: To thread or lace something over and under another thing in a back-and-forth pattern. When you tie a knot, you're weaving the string in and out to create the knot shape.
+**Topology**: A branch of mathematics that studies shapes and how they connect — including knots. Topologists proved that once a knot is tied in a closed loop, you can stretch, bend, or twist it, but you can never untie it without cutting. This is why your shoelaces need free ends — a knot with free ends can be untied, but a true mathematical knot in a closed loop cannot. Knot theory was invented in the 1800s and is now used in DNA research, because DNA strands form knots inside your cells.
 
 ## Learning Song
 
@@ -107,19 +107,19 @@ Children will practice making loops and simple knots with textured yarn and stri
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Begin by showing children different types of string and yarn. Let them touch and feel the textures - rough, smooth, thick, thin. Ask them, "What happens when we twist this?" and "Can you hold both ends and make a curve?" This sensory introduction builds comfort with the materials before attempting technique.
+   Begin by showing children different types of string and yarn. Let them feel the textures. "This rough yarn has lots of friction — feel how it grips your fingers? This smooth ribbon has less friction — feel how it slides? Friction is the force that makes knots hold. Rougher surfaces create more friction, which is why sailors use rough rope — their knots need to hold in storms!"
 
 2. **Exploration Phase 1: Making Loops** (5-7 minutes):
    Give each child a piece of yarn. Demonstrate making a simple loop by holding one end, bringing the middle around, and creating a circle shape with the other end. Show that a loop is just "yarn that makes a smile shape." Have children copy this motion without worrying about perfection. Celebrate all attempts. If they struggle, use your hand over theirs to guide the motion gently.
 
 3. **Exploration Phase 2: Basic Knots** (5-8 minutes):
-   Once children are comfortable with loops, demonstrate a simple square knot or overhand knot. Tape one end of the yarn to the table. Show how crossing one piece over another and pulling creates a knot. Have children practice repeatedly with their own taped yarn. The repetition builds muscle memory. Some children will succeed quickly; others need more practice - both are perfectly normal.
+   Demonstrate an overhand knot — the simplest knot in mathematics. "This is called an overhand knot. Watch: I make a loop, then pull the end through. Count the crossings with me — one, two, three! Three crossings. Each crossing adds friction — the rope surfaces press against each other and resist sliding. That's what holds the knot together." Tape one end to the table. Have children practice — each time they make a crossing, say "More friction!" The repetition builds procedural memory in the cerebellum.
 
 4. **Exploration Phase 3: Bows** (3-5 minutes):
    For children ready for more challenge, show how to make bunny ears (two loops) and tie them together to create a bow. Hold up your finished bow and let children admire it. Invite them to try, but don't pressure - bows are harder than simple knots.
 
 5. **Discovery and Conversation** (2-3 minutes):
-   Ask guided questions: "What happens when you pull tight?" (The knot gets stronger.) "What happens when you pull too hard?" (It gets tight and hard to undo - great observation!) "Why do we tie knots?" (To keep things together, to hold our shoes on.) Point out how their hands are getting better at this skill with practice.
+   Ask guided questions: "What happens when you pull tight?" (More friction — the surfaces press harder together.) "What happens when you pull too hard?" (So much friction it can't slide at all — it's locked!) "Why does the rough yarn hold better than the smooth ribbon?" (More friction between rough surfaces.) "Did you know mathematicians study knots? There's a whole branch of math called topology that classifies knots by counting their crossings. Your overhand knot has 3 crossings!"
 
 6. **Wrap-up** (2 minutes):
    Let children show you their knots. Take a moment to appreciate the progress - "Look at the knots you made today!" Acknowledge the effort more than perfection. Store the practice strings in a bag for tomorrow's practice.
@@ -127,10 +127,10 @@ Children will practice making loops and simple knots with textured yarn and stri
 ### Age Adaptations
 
 **2-3 years**:
-Keep it sensory and exploratory. Focus on making loops and simple knots without expecting perfection. Use very thick yarn (1/2 inch or thicker) that's easier to manipulate. Let them practice the motions for just 5-7 minutes total. Don't introduce bows yet - stick with basic loops and single knots. Celebrate effort and exploration over results.
+Keep it sensory and exploratory. Use very thick yarn (more friction = knots hold better for beginners). Focus on making loops and overhand knots. Name the physics: "Pull tight — that creates friction! Friction holds your knot." Compare rough and smooth materials: "Which one grips more?" Let them count crossings on their knots. Keep sessions to 5-7 minutes.
 
 **3-4+ years**:
-Introduce the sequence of steps: loop, cross, pull, tighten. Challenge children to tie multiple knots in a row. Introduce the bunny ears method for bows. Show how to tie knots on different types of objects (around a stick, through a ring, around their wrist). Encourage problem-solving: "If the knot isn't holding, what could you try?" Introduce the idea of practicing until it works smoothly.
+Introduce different knot types and count crossings: overhand (3 crossings), figure-eight knot (4 crossings), square knot (overhand + reverse overhand). Compare which knots hold tighter and discuss why (more crossings = more friction points). Introduce the bunny ears bow and analyze its structure. Try the same knot with rough yarn vs. smooth ribbon — "Which holds better? Why?" Connect to real applications: "Surgeons tie special knots that won't slip. Sailors use bowline knots that hold in storms but untie easily." Introduce topology: "Mathematicians proved that a knot in a closed loop can never be untied — only knots with free ends can."
 
 ### Extension Ideas
 

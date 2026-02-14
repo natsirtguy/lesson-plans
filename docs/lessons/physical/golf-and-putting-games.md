@@ -4,6 +4,16 @@
 
 Golf and putting games introduce young children to the fundamental concepts of hand-eye coordination, precision, and controlled movement through playful, simplified versions of golf. Children use child-sized putters or improvised clubs to hit soft balls toward targets, building fine and gross motor skills while developing patience, focus, and an understanding of cause and effect. This adapted activity is low-pressure, self-paced, and allows each child to succeed at their own level.
 
+## Vocabulary
+
+**Pendulum**: A weight that swings back and forth on a fixed pivot point. A golf putter swings like a pendulum — your shoulders are the pivot and the club hangs below. The key physics of a pendulum: its swing speed depends on the length of the pendulum, not on how heavy it is (Galileo discovered this around 1600 by watching a chandelier swing in a cathedral). In putting, this means a longer backswing produces a faster forward swing — that's how you control distance.
+
+**Kinetic energy transfer**: When the putter strikes the ball, the energy of the moving club (kinetic energy = ½ × mass × velocity²) transfers to the ball. A heavier or faster club transfers more energy, sending the ball farther. But not all the energy transfers — some becomes sound (the "click" you hear), some becomes heat from the impact, and some stays in the club. This is Newton's Third Law in action: the club exerts force on the ball, and the ball exerts equal force back on the club (which is why your hands feel the impact).
+
+**Rolling resistance**: The friction force that slows a ball rolling on a surface. A ball on smooth carpet has low rolling resistance and rolls far; the same ball on thick grass has high rolling resistance and stops sooner. The ball deforms slightly where it touches the surface, and the surface deforms slightly too — this constant deformation absorbs energy and converts it to heat. Professional golfers read the grass (called "reading the green") to predict how much rolling resistance will slow or curve their ball.
+
+**Proprioception**: Your body's internal position-sensing system — muscle spindles, Golgi tendon organs, and joint receptors constantly tell your cerebellum where every body part is and how fast it's moving. In putting, proprioception controls your grip pressure, swing arc, and follow-through without you having to watch your own hands. Each putt refines the proprioceptive calibration — your cerebellum compares the intended swing to the actual result and adjusts on the next attempt.
+
 **Activity Type**: Individual Sport / Motor skill development
 
 **Duration**: 10-15 minutes (with natural breaks)
@@ -75,11 +85,10 @@ Golf and putting games introduce young children to the fundamental concepts of h
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show children the putter and ball, letting them hold and touch the equipment
-- Demonstrate the basic putting motion slowly and exaggerated: stance, backswing, forward swing, follow-through
-- Point to a target and show how to aim before hitting
-- Keep your demonstration simple with clear, large movements
-- Use playful language: "Watch my arms swing like a pendulum... tap the ball toward the bucket!"
+- Show the putter and ball: "The putter works like a pendulum — your shoulders are the pivot point and the club swings below. Galileo discovered that a pendulum's speed depends on how far back you swing it, not how heavy it is."
+- Demonstrate the putting motion: "Watch: bigger backswing means more kinetic energy when it hits the ball. That energy transfers from the club to the ball — you can hear some energy become sound in the 'click.'"
+- Point to a target and discuss the surface: "The ball has to overcome rolling resistance — friction between the ball and the ground. Is this surface smooth or rough? Smooth means less rolling resistance — the ball goes farther."
+- Demonstrate aim: "Your cerebellum uses proprioception to control the swing — feel your muscles and joints telling your brain where the club is."
 
 #### Skill Practice (2-3 minutes)
 
@@ -90,11 +99,11 @@ Golf and putting games introduce young children to the fundamental concepts of h
 4. **Follow-through** - Let the club continue its motion, eyes focused on the ball and target
 
 **Coaching cues**:
-- "Stand like you're ready to reach for something"
-- "Hold the club like you're holding a big candy cane - not too tight!"
-- "Swing your arms like a pendulum at the park... back and forth"
-- "Keep your eyes on the ball and where you want it to go"
-- "Great try! Let's swing again!"
+- "Feet apart, knees bent — lower your center of gravity for better balance."
+- "Grip lightly — your proprioceptors in your fingers work best with a relaxed grip. Too tight and you lose sensitivity."
+- "Let the club swing like a pendulum — your shoulders are the pivot. Don't push with your arms; let gravity do the work on the downswing."
+- "Bigger backswing = more kinetic energy = ball goes farther. Smaller backswing for close targets."
+- "Notice the rolling resistance — did the ball go farther on the smooth part or the rough part? That's friction at work."
 
 #### Guided Play/Game (4-7 minutes)
 
