@@ -629,9 +629,10 @@
                     const filename = topicName
                         .toLowerCase()
                         .replace(/[^\w\s-]/g, ' ') // Replace special characters with space
+                        .trim()                    // Remove leading/trailing whitespace
                         .replace(/\s+/g, '-')      // Replace spaces with hyphens
                         .replace(/-+/g, '-')       // Replace multiple hyphens with single
-                        .trim();
+                        .replace(/^-+|-+$/g, '');  // Remove leading/trailing hyphens
 
                     const filepath = `lessons/${queueName}/${filename}.md`;
 
