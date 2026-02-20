@@ -14,6 +14,16 @@ Cricket and bat sports for young children introduce the fundamental skills of st
 
 **Space Required**: 20x20 feet minimum
 
+## Vocabulary
+
+**Kinetic chain**: The sequential transfer of force through linked body segments — in a batting swing, energy originates at the feet pushing against the ground, travels up through the legs, rotates through the hips and torso, and is finally delivered through the arms and bat. A swing driven by the full kinetic chain generates far more power than swinging with arms alone. Professional cricket batters generate bat speeds exceeding 100 km/h from this chain.
+
+**Hand-eye coordination**: The real-time collaboration between visual processing and motor control — the brain's visual cortex (area V5/MT, specialized for motion) tracks the ball's path in about 150 milliseconds, the cerebellum predicts where the ball will arrive and when, and the motor cortex sequences the 34 muscles in each hand to time the swing precisely. This prediction-and-response loop improves dramatically with practice through myelination of the involved neural pathways.
+
+**Momentum**: Mass multiplied by velocity — when a bat with greater momentum strikes a ball, it transfers more force to the ball (Newton's Third Law), sending it farther. This is why both bat weight and swing speed matter in batting: heavier bat × faster swing = more ball momentum = longer hit.
+
+**Cricket history**: Cricket originated in England in the 16th century, first recorded in Kent in 1550. It spread through the British Empire, which is why today it's played passionately in India, Australia, Pakistan, the West Indies, and South Africa. With an estimated 2.5 billion fans, cricket is the second most popular sport in the world — behind only soccer. A professional Test match lasts up to five days; a single innings can last all day.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -100,10 +110,10 @@ Cricket and bat sports for young children introduce the fundamental skills of st
 - **Swing**: "Bring the bat back toward your shoulder, then swing it forward to hit the ball. Keep your eyes on the ball!"
 
 **Coaching cues**:
-- "Eyes on the ball - watch it the whole time!"
-- "Swing like you're trying to ring a bell with the bat"
-- "Keep your feet still and let your arms do the swinging"
-- "Great try! Even if you miss, you're learning how to swing!"
+- "Eyes on the ball — your visual cortex is tracking its path and your cerebellum is predicting where it will arrive. Trust the prediction!"
+- "Drive from the ground up — feet push, hips rotate, then arms swing. That's the kinetic chain"
+- "Feel how much more power comes from rotating your whole body vs. just swinging your arms"
+- "Great try! Even if you miss, your cerebellum is learning to predict better every attempt"
 
 #### Guided Play/Game (5-10 minutes)
 

@@ -6,13 +6,13 @@ In this lesson, children discover the world's most amazing natural landmarks—t
 
 ## Vocabulary
 
-**Landmark**: A distinctive natural or human-made feature that is easily recognized and helps us know where we are. A tall mountain that you can see from far away, or a unique rock formation, acts as a landmark that makes a place special and memorable.
+**Tectonic plates**: The 12-20 massive sections of Earth's lithosphere (the crust and upper mantle) that float on semi-molten rock and slowly drift — a few centimeters per year. When two plates collide, the crust crumples upward into mountain ranges. The Himalayas formed when the Indian plate crashed into the Eurasian plate about 50 million years ago, and they're still growing taller today because the collision continues. Volcanoes and deep ocean trenches also form at plate boundaries.
 
-**Formation**: The gradual process of how natural structures are created and shaped over many years by wind, water, and other natural forces. A canyon is a rock formation that was carved slowly by flowing water over thousands of years.
+**Stratigraphy**: The study of rock layers (strata) and what they reveal about time. Sedimentary rock forms when sand, mud, and shells accumulate and compress over millions of years — each distinct layer represents a different era. The Grand Canyon exposes nearly 2 billion years of rock history: the bottom layers are 1.8 billion years old, while the top is only 270 million years old. Different colors = different minerals = different time periods and environments.
 
-**Erosion**: The slow wearing away of rock and soil by wind, water, ice, and weather over long periods of time. When water flows over rocks year after year, erosion gradually creates deeper valleys and canyons.
+**Erosion**: The slow wearing away of rock and soil by water, wind, ice, and chemical weathering over long periods of time. The Colorado River has been carving the Grand Canyon for about 6 million years — 280 miles long, up to 18 miles wide, and over a mile deep. Water is the most powerful erosion force on Earth, moving approximately 75 billion tons of sediment into the oceans each year.
 
-**Elevation**: How high something is above sea level, measuring the height of mountains and tall places. Mount Everest has the highest elevation of any mountain in the world, making it extremely tall.
+**Elevation**: The height of a place above sea level, measured in meters or feet. Mount Everest has the highest elevation on Earth at 8,849 meters. Elevation affects temperature (about 6.5°C cooler per 1,000 meters higher), plant life, and oxygen availability — which is why mountain climbers at high elevation need extra oxygen and can suffer altitude sickness.
 
 ## Learning Song
 
@@ -108,9 +108,9 @@ Children become junior geologists and explorers by building their own miniature 
 2. **Exploration** (8-10 min):
    Guide the child through building different features:
 
-   - **Mountain Building**: Show how to pile sand high to create a mountain shape. Let the child pile, pack, and shape sand with their hands or tools. Ask: "How tall can you make your mountain? Can you make a pointed peak?" Optionally add white paint or white sand to the peak for snow.
+   - **Mountain Building**: Show how to pile sand high to create a mountain shape. Let the child pile, pack, and shape sand with their hands or tools. Explain: "Real mountains form when giant tectonic plates — enormous slabs of Earth's crust — crash into each other and crumple upward. The Himalayas are still growing taller because two plates are still colliding right now!" Ask: "How tall can you make your mountain? Can you make a pointed peak?" Optionally add white paint or white sand to the peak for snow.
 
-   - **Canyon Creation**: Demonstrate how water shapes rock. Wet some sand and use a stick or spoon to carve a channel through the middle. Explain: "Water flows through the land for a very long time and carves this valley. That's how canyons are made!" Let the child practice carving their own "canyon."
+   - **Canyon Creation**: Demonstrate how water shapes rock. Wet some sand and use a stick or spoon to carve a channel through the middle. Explain: "Water flows through the land for millions of years, wearing rock away bit by bit — that's erosion. Notice the different layers in the canyon walls? Each layer is a different period of history. The Grand Canyon has layers that are almost 2 billion years old at the bottom!" Let the child practice carving their own "canyon" and look at the layers they reveal.
 
    - **Waterfall Simulation**: Create a small slope with sand and pour water down it. Watch how the water flows and erodes the sand. Ask: "See how the water is changing the shape? Waterfalls fall down rocks like this, but much bigger!"
 

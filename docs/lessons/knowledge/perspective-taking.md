@@ -10,9 +10,9 @@ Children explore the concept that different people see, feel, and think about th
 
 **Viewpoint**: The particular position or angle from which someone looks at or thinks about something. Each person at a round table has a different viewpoint of what's in the center.
 
-**Empathy**: The ability to understand and feel what another person is experiencing. When your friend is sad about losing a toy, empathy means understanding why that toy was special to them.
+**Empathy**: The ability to understand and share the feelings of another person. Neuroscientists have linked empathy partly to mirror neurons — brain cells in the premotor cortex that fire both when you perform an action and when you watch someone else perform it, creating an internal simulation of others' experiences. When a friend cries, circuits in your own emotional brain partially activate. Empathy is both cognitively learned (understanding another's situation) and neurologically felt (your brain simulating it).
 
-**Point of View**: How someone thinks or feels about a situation based on their own experiences and ideas. A bunny's point of view about carrots is different from a bird's point of view.
+**Theory of mind**: The cognitive ability to understand that other people have thoughts, beliefs, intentions, and knowledge different from your own — that others are not just extensions of you with the same information. This is one of the great developmental milestones of early childhood, typically developing between ages 2-5. Psychologists test it with the "false belief task": a child watches an object being hidden in a box, then another person who wasn't watching enters the room. Before age 4, children often predict the newcomer will look where the object actually is — because young children assume everyone knows what they know. After developing theory of mind, children correctly predict the newcomer will look in the original location, based on that person's (false) belief.
 
 ## Learning Song
 
@@ -135,11 +135,12 @@ Children experience perspective-taking through a hands-on exploration where they
 **3-4+ years**:
 - Use more complex scenarios (a scene with multiple objects)
 - Ask children to predict what they'll see before moving: "If you sit in that chair, what do you think you'll see?"
-- Introduce the language of perspective: "That's your point of view!"
+- Introduce the language of perspective: "That's your point of view! Your theory of mind lets you predict what others will see from a different spot"
 - Play more elaborate dramatic play: "You be the tall giraffe, I'll be the tiny mouse. What do you see?"
-- Use picture books and ask detailed questions about each character's feelings and thoughts
+- **False belief task**: Put a toy under one cup while they watch. Then ask: "If someone came in right now who didn't see us do this, where would they think the toy is?" Discuss why their answer differs from what WE know — that's theory of mind in action.
+- Use picture books and ask detailed questions about each character's feelings and thoughts — especially when characters have incorrect beliefs about what's happening
 - Challenge them to draw what they see from different positions
-- Extend to feelings: "The bunny feels scared. What do you think the bunny sees that makes them scared? What do you see?"
+- Extend to feelings: "The bunny feels scared. What do you think the bunny sees that makes them scared? What do you see? Does your empathy let you feel a little bit of their fear?"
 
 ### Extension Ideas
 

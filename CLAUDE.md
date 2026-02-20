@@ -104,6 +104,12 @@ python select-audit-batch.py --all    # list all remaining unaudited lessons
 ```
 The script parses the audit tracker to determine what's already been reviewed, compares against all lesson plan files on disk, and outputs file paths ready to copy-paste into subagent prompts.
 
+**Audit workflow (when doing audits directly, not via subagents)**: Read and fix lessons **one at a time** rather than reading all lessons in the batch first. Reading all files upfront consumes too much context. The better pattern is:
+1. Run `select-audit-batch.py` to get the batch list
+2. Read the first lesson, assess it, fix it if needed
+3. Move to the next lesson — read, assess, fix
+4. After all lessons are done, update the tracker in one pass
+
 Common patterns found in dumbed-down lessons:
 - Vocabulary that uses only everyday words (e.g., "technology," "device") instead of real technical terms (e.g., "circuit," "sensor," "processor")
 - Activities described as educational but containing no actual intellectual content — just themed play

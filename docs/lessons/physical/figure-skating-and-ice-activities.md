@@ -14,6 +14,16 @@ Figure skating and ice activities introduce children to the unique challenges of
 
 **Space Required**: Ice skating surface (minimum 20x30 feet for beginner practice)
 
+## Vocabulary
+
+**Friction**: The resistance between two surfaces sliding against each other. Ice has one of the lowest friction coefficients of any natural surface — about 0.003 (rubber on dry concrete is 0.7) — because a thin liquid-like layer forms on ice near freezing temperatures, allowing skate blades to glide across it with almost no resistance. This is why stopping on ice is so much harder than stopping on grass.
+
+**Center of gravity**: The single point through which a body's entire weight effectively acts — the balance point. Bending your knees lowers your center of gravity closer to the ice, making you much harder to tip over. Racing cars are wide and extremely low to the ground for exactly the same reason: a lower center of gravity means more stability.
+
+**Momentum**: Mass multiplied by velocity — a measure of how much "motion" an object carries. A moving skater keeps sliding because momentum resists change (Newton's First Law), and with ice's tiny friction coefficient, almost nothing slows them down naturally. Stopping requires either friction with the ice edge, or gradually absorbing your own momentum by bending into a stop.
+
+**Blade edge**: The narrow steel bottom of an ice skate — only a few millimeters wide. By concentrating your entire body weight on this thin strip, you can grip one edge of the blade to steer while gliding on another. Figure skates have a concave hollow ground between two edges, allowing skaters to engage an inside or outside edge for turns and jumps.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -95,8 +105,9 @@ Figure skating and ice activities introduce children to the unique challenges of
 ### Main Activity (12-20 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain that skating is moving on slippery ice using special shoes with blades
-- Show proper skating stance: knees slightly bent, arms out for balance, eyes forward
+- Explain that ice is one of the slipperiest surfaces on Earth — the friction between the blade and ice is nearly zero, which is why we glide so easily but also why stopping takes practice
+- Explain the skating stance: "Bending your knees lowers your center of gravity — your balance point — making you much harder to tip over. Straightening up raises it and makes you wobbly"
+- Show proper skating stance: knees significantly bent, arms out for balance, eyes forward
 - Demonstrate slow, controlled gliding movement
 - Model falling safely: bend knees, lean forward, protect head with hands
 
@@ -121,11 +132,11 @@ Figure skating and ice activities introduce children to the unique challenges of
 - Creating your own skating pattern
 
 **Coaching cues**:
-- "Keep your knees bent like you're sitting on a low chair"
-- "Hold your arms out like you're balancing on a tightrope"
+- "Keep your knees bent — bending low brings your center of gravity down, so you're much more stable"
+- "Hold your arms out like you're balancing on a tightrope — they're your counterweights"
 - "Look ahead, not down at your feet"
-- "Let the ice do the sliding - we don't push hard"
-- "Bend your knees to help you balance and stay safe"
+- "Let the friction of your blade edge slow you — don't force a stop all at once, that's when you fall"
+- "Remember: ice has almost no friction, so your momentum keeps carrying you — plan your stops early"
 - "You're doing great - you're in control!"
 
 #### Guided Play/Game (4-10 minutes)

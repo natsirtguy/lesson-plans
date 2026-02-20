@@ -6,13 +6,13 @@ In this activity, young children explore the creative possibilities of digital p
 
 ## Vocabulary
 
-**Transform**: To change or modify something to make it look different. When you use a filter on a photo to make it look purple or silly, you are transforming it into something new.
+**Pixel**: Short for "picture element" — the smallest building block of a digital image. Every photo on a screen is a grid of millions of tiny colored squares, each one a pixel storing a single color value. A 12-megapixel phone camera captures 12,000,000 pixels per photo. If you zoom in very far on a digital image, you can eventually see the individual square pixels — when zoomed in too far, the image looks "pixelated" (blocky) because you've gone below the image's resolution.
 
-**Composition**: The way objects are arranged or organized within a picture. Good composition means placing things thoughtfully in your photo—like putting your face in the center, or including a colorful toy in the corner.
+**RGB**: The color model used by digital screens — every color displayed on a screen is created by combining just three tiny colored lights: Red, Green, and Blue. R=0,G=0,B=0 is black (all lights off); R=255,G=255,B=255 is white (all lights full). This is additive color mixing — the opposite of paint. Red + Green light = yellow. Red + Blue = magenta. All three = white. Your eye has three types of color-sensitive cone cells that detect red, green, and blue wavelengths — screens exploit this exactly.
 
-**Filter**: A digital tool that changes how a photo looks by adding colors, effects, or moods. A black-and-white filter makes colors disappear; a warm filter makes pictures look golden and sunny.
+**Composition**: The deliberate arrangement of subjects within a frame. Photographers use rules like the "rule of thirds" — mentally dividing the image into a 3×3 grid and placing subjects where the lines cross — because the visual cortex naturally looks to those zones first. Good composition uses foreground and background depth, leading lines, and negative space (empty areas that give the eye room to breathe).
 
-**Digital**: Related to technology, computers, and devices like tablets and smartphones. Digital art is created using technology rather than paper, paint, or pencils.
+**Filter**: A digital process that mathematically adjusts pixel values to change a photo's appearance. A black-and-white filter converts each pixel's RGB values to a single brightness number (called luminance). A "warm" filter increases red and orange channel values while reducing blue values. Professional photographers use RAW files — unprocessed pixel data — giving more range for filtering and adjustment than compressed JPEG images.
 
 ## 🎵 Learning Song
 
@@ -107,11 +107,15 @@ Children will take photographs using a smartphone or tablet, then explore simple
 
 3. **Discovery** (7-10 min):
    Open one photo in the editing app. Demonstrate ONE simple tool clearly:
-   - For filters: Show 2-3 filter options and let them tap one they like
-   - For brightness: Show how a slider works and let them move it to see changes
-   - For effects: Show a fun effect (black and white, colorful, playful) and apply it
+   - For filters: Show 2-3 filter options and let them tap one they like. "The black-and-white filter takes away all the color information and keeps only the brightness of each pixel"
+   - For brightness: Show how a slider works — "This adds or subtracts light from every single pixel in the photo, all at once"
+   - For effects: Show a fun effect and explain: "This filter changes the numbers stored in millions of pixels simultaneously — that's how computers make changes so fast"
 
-   Hand control to the child: "Your turn! Pick which one YOU like." Ask guiding questions: "Do you like this better? Does this look funny? Which colors do you see now?"
+   **Pixel exploration**: Zoom in on a photo as far as possible. "See those tiny squares? Those are the individual pixels — each one is storing just one color value. The photo is made of millions of them!" Compare zoomed vs. normal view.
+
+   **RGB light mixing**: "Screens make all colors from just three tiny lights — red, green, and blue — this is different from how paints work. Mixing red paint and green paint makes brown, but mixing red LIGHT and green LIGHT makes yellow!"
+
+   Hand control to the child: "Your turn! Pick which one YOU like." Ask guiding questions: "Do you like this better? Does this look funny? Which pixels changed the most?"
 
 4. **Wrap-up** (2-3 min):
    Review the photos they created: "Look at all the cool things you made!" Ask: "Which one is your favorite? Why do you like that one?" Save or export favorite edited photos. Discuss what's next and help them put the device away safely.

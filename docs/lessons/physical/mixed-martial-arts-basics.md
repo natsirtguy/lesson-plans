@@ -14,6 +14,16 @@ Mixed Martial Arts basics introduce children to fundamental movement patterns in
 
 **Space Required**: 12x18 feet minimum for safe movement
 
+## Vocabulary
+
+**Kinetic chain**: The sequence of body segments that transfer force from the ground up through a movement. In a punch, the force doesn't come from the arm alone — it begins with the feet pushing against the floor (Newton's Third Law), travels up through the legs, rotates through the hips and torso, then delivers through the shoulder and arm. A punch from the whole kinetic chain is several times more powerful than one using only arm muscles.
+
+**Center of gravity**: The balance point of a body — the point through which all weight effectively acts. In a fighting stance, a wide base (feet apart) lowers your center of gravity, making it much harder for an opponent to destabilize you. The same physics makes a pyramid impossible to tip over.
+
+**Reaction time**: The delay between perceiving something and responding to it — typically 150-300 milliseconds for humans. This delay exists because the signal must travel from eyes to brain to muscles along nerve pathways. Reaction time improves with practice because myelination — a fatty insulating sheath that forms around nerve fibers — increases signal speed up to 100 times.
+
+**Martial arts history**: Systematic martial arts training has existed for over 3,000 years. Chinese martial arts (kung fu/wushu) are documented at the Shaolin monastery from 500 CE. Judo was formalized by Jigoro Kano in Japan in 1882. Capoeira developed among African slaves in Brazil around 1500 CE, disguised as dance. Brazilian jiu-jitsu emerged in the 1920s. Taekwondo was systematized in 1950s Korea. MMA as a modern sport was established with the first UFC event in 1993.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -88,10 +98,12 @@ Mixed Martial Arts basics introduce children to fundamental movement patterns in
 ### Main Activity (9-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Explain that martial arts teach powerful, controlled movements
-- Show basic stance: feet shoulder-width apart, knees slightly bent, hands up in protective position
+- Explain that martial arts teach powerful, controlled movements that come from the whole body, not just the arms
+- Introduce the kinetic chain: "A punch starts from the floor — your feet push, your legs drive, your hips rotate, then your arm delivers. That's called the kinetic chain — the whole body working in sequence"
+- Show basic stance: feet wide apart (shoulder-width or wider), knees slightly bent, hands up in protective position
+- Explain why the wide stance helps: "Wide feet lower your center of gravity — your balance point — so you're much harder to knock over. Narrow stance = easy to tip"
 - Demonstrate that we practice movements for strength and coordination, never to hurt anyone
-- Explain: "We're learning to move our bodies powerfully and with respect"
+- Explain: "We're learning to move our bodies powerfully and with respect — martial arts have existed for 3,000 years because they teach discipline and control, not just fighting"
 
 #### Skill Practice (4-7 minutes)
 
@@ -103,11 +115,12 @@ Mixed Martial Arts basics introduce children to fundamental movement patterns in
 - Combining movements: punch then turn, kick then stance
 
 **Coaching cues**:
-- "Plant your feet - make yourself strong like a mountain"
-- "Punch from your whole body, not just your arm"
+- "Plant your feet wide — lower your center of gravity so you're solid as a mountain"
+- "Punch from your whole kinetic chain — feet push, hips rotate, then arm delivers"
 - "Keep your hands up to protect yourself"
-- "Kick with control - think slow-motion power"
-- "We're learning, not fighting - control is what makes us strong"
+- "Kick with control — kick from the hip, not just the knee"
+- "Notice how your reaction time gets faster with practice — your nerves are getting faster coatings every time you train"
+- "We're learning, not fighting — control is what makes a martial artist strong"
 
 #### Guided Play/Game (4-6 minutes)
 
