@@ -6,13 +6,13 @@ In this dramatic play experience, children simulate a family gathering by arrang
 
 ## Vocabulary
 
-**Hospitality**: The warm and welcoming way we greet guests and make them feel comfortable and cared for in our space, like offering them food or a comfortable place to sit.
+**Hospitality**: The practice of welcoming and caring for guests — providing food, comfort, and belonging. Anthropologists have found hospitality norms in every human culture on Earth, suggesting it evolved as a survival strategy: travelers needed shelter and food, and hosts gained allies, trade partners, and information. The ancient Greek concept of "xenia" (guest-friendship) was considered sacred, protected by Zeus himself.
 
-**Gathering**: A time when people come together in one place to share experiences, eat, celebrate, or spend time as a group—like a family meal, celebration, or visit.
+**Ritual**: A patterned sequence of behaviors that carries shared meaning for a group. Family gatherings are rituals — they follow predictable structures (arrival, shared food, stories, departure) that create continuity and belonging. Every human culture has rituals. Research shows that performing rituals together physically releases oxytocin and endorphins, bonding participants and increasing feelings of trust and generosity. Rituals make us feel connected even when we don't consciously think about why.
 
-**Dramatic play**: Imaginative role-play where children pretend to be different people or characters and act out different situations and scenarios to explore ideas and feelings.
+**Theory of mind**: The cognitive ability to understand that other people have thoughts, beliefs, feelings, and knowledge different from your own — that they are not just extensions of you. This ability develops between ages 2-5 and is directly trained by pretend play. When a child imagines what their "guest" wants to eat, feels, or is thinking, they practice the same neural circuits used for empathy and social reasoning throughout life.
 
-**Tradition**: A special way of doing something that families or communities have done for a long time, passing it down from grown-ups to children, like how your family celebrates holidays or eats meals together.
+**Tradition**: A practice passed from one generation to another that carries cultural identity and meaning — not just what is done, but why it matters. Traditions encode a group's values, history, and sense of who they are. Anthropologists call this "cultural transmission," and it's one of the defining features of human social life: humans uniquely accumulate and transmit knowledge and practices across generations.
 
 ## 🎵 Learning Song
 
@@ -104,7 +104,7 @@ Children explore a prepared "gathering space" where they arrange furniture, set 
    Child investigates the space and materials. Ask: "What do you notice? What can we make? Where should our guests sit?" Comment on observations: "You found the plates! You're arranging them in a circle." Help the child select and arrange furniture, dolls, and food as desired.
 
 3. **Guided Social Play** (7-10 minutes):
-   Model greeting a guest: "Hello! Welcome to our gathering! I'm so happy you're here!" Invite the child to greet the first guest. Work together to prepare and serve food with simple conversation: "Would you like some soup? Here's your plate." Ask extending questions: "What should we talk about? How is your guest feeling?"
+   Model greeting a guest: "Hello! Welcome to our gathering! I'm so happy you're here!" Invite the child to greet the first guest. Explain the ritual nature of hospitality: "We follow a pattern — greeting, offering food, conversation, and farewell. These steps are the ritual of gathering. Every culture does something like this, even if the specific food and customs are different." Work together to prepare and serve food with simple conversation: "Would you like some soup? Here's your plate." Ask extending questions: "What is your guest thinking right now? How are they feeling about being here? What do they wish they had?" (These questions exercise theory of mind.)
 
 4. **Independent & Sustained Play** (remaining time):
    Step back and let the child lead the gathering. Position yourself nearby to offer ideas if play stalls: "Your guest looks quiet. What might they want to tell you?" Comment on social skills: "I see you're making sure everyone has enough food. That's very caring." Allow the activity to continue naturally with child direction.

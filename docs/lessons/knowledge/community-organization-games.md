@@ -6,13 +6,13 @@ Community organization games teach young children how to work together, take tur
 
 ## Vocabulary
 
-**Cooperate**: To work together with others toward a shared goal; when we cooperate, we help each other and take turns.
+**Collective action**: When a group works together to accomplish something no individual could do alone. Many of civilization's greatest achievements — cities, hospitals, schools, bridges, electrical grids — are collective actions requiring thousands or millions of cooperating people. Even in a small game, passing a ball around a full circle is collective action: the ball's complete journey only happens because every single person plays their part. Remove one person, and the chain breaks.
 
-**Community**: A group of people who live, play, or learn together and care about each other.
+**Social contract**: The implicit agreement people make when living or playing together — "I follow the rules so others will follow the rules, and we all benefit." When you wait your turn in a game, you're upholding a social contract: you constrain yourself now so others will constrain themselves for you later. Philosopher Jean-Jacques Rousseau (1762) argued that all civilization rests on this agreement. Games are miniature social contracts with explicit rules — a rehearsal for civic life.
 
-**Role**: The part or job someone plays in a game or group; for example, your role might be to roll the ball or hold the rope.
+**Reciprocity**: Returning favors — helping those who help you, and not helping those who don't. Vampire bats demonstrate reciprocity: bats that share blood meals with hungry neighbors reliably receive blood in return when they're hungry themselves. Computer simulations of cooperation strategies show that "tit-for-tat" reciprocity — cooperate first, then mirror what your partner does — consistently outperforms both always-cooperating and always-defecting strategies over time.
 
-**Organization**: The way we arrange things or ourselves in an orderly way so that things work smoothly and fairly.
+**Division of labor**: The practice of different people specializing in different tasks, each becoming expert at their role. Adam Smith's 1776 example: one person making a pin from scratch might make 1 pin per day; 10 people each specializing in one step of pin-making could collectively make 48,000 pins per day. Communities function through division of labor — doctors, teachers, farmers, builders — each specialist contributing their role so everyone's needs are met without anyone needing to do everything themselves.
 
 ## Learning Song
 
@@ -89,7 +89,7 @@ In this activity, children will play simple organization games that teach turn-t
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by sitting together and explain: "Today we're going to play games where we work together as a team!" Show the ball and say, "In this game, we take turns. When it's your turn, you get to throw or roll the ball. When it's someone else's turn, we watch and cheer."
+   Start by sitting together and explain: "Today we're going to play games that show us how communities work — how groups of people get things done together that no one person could do alone. That's called collective action." Show the ball and say, "In this game, we have a social contract: we each agree to follow the rules and take turns, and in return, everyone gets to play. When you wait for your turn, you're keeping your part of the agreement."
 
 2. **Exploration** (8-12 min):
 
@@ -108,10 +108,11 @@ In this activity, children will play simple organization games that teach turn-t
 
 3. **Discovery** (3-4 min):
    Ask questions while you play:
-   - "Whose turn is it now?"
-   - "What happens if we all grabbed the ball at once?" (Let them think)
-   - "How does it feel when everyone gets a turn?"
-   - "Can we make our tower taller if we work together?"
+   - "Whose turn is it now? How do we know? (The social contract we agreed to)"
+   - "What would happen to the ball game if one person refused to pass? That's called a free rider — someone who benefits from the group without contributing. What could the group do?"
+   - "Our tower is taller than any of us could build alone — that's collective action!"
+   - "When you passed the ball to [name], they'll probably pass back to you. That's reciprocity — returning favors to people who help us"
+   - "Each of us has a role in this game. What would happen if everyone tried to do the same role at once?"
 
 4. **Wrap-up** (2-3 min):
    Gather everyone and say: "Great teamwork! You all played together and took turns. That's what a community does!" Give high-fives or a group clap.

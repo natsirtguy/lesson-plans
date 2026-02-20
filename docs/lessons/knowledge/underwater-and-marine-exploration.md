@@ -6,13 +6,13 @@ Children explore the underwater world through sensory discovery, learning about 
 
 ## Vocabulary
 
-**Submarine**: A vessel or craft designed to travel underwater and explore what lives and exists beneath the ocean's surface. Like a boat, but it goes under the water instead of on top.
+**Submarine**: A vehicle that travels underwater by controlling its buoyancy — it sinks or rises by filling or emptying ballast tanks with water or compressed air. When ballast tanks fill with water, the submarine becomes denser than seawater and sinks; when compressed air pushes the water out, it becomes less dense and rises. Real submarines can dive over 300 meters; the Mariana Trench descends nearly 11,000 meters — deeper than Mount Everest is tall.
 
-**Habitat**: The specific place where an animal lives and finds everything it needs—like how a fish's habitat is the ocean where it finds food, shelter, and water to breathe through its gills.
+**Habitat**: The specific environment where an organism lives and finds everything it needs — food, shelter, water, the right temperature. The ocean has distinct habitat zones: the sunlit photic zone (0-200 meters) where photosynthesis is possible, and the dark aphotic zone below 200 meters where no sunlight penetrates. Animals are specialized for their zone — some can only survive at crushing pressures no human could withstand.
 
-**Observe**: To watch something very carefully and notice many details about it—like when you watch a fish swimming and notice the colors, the shape, and how it moves.
+**Bioluminescence**: Light produced by living organisms through a chemical reaction — the molecule luciferin reacts with oxygen to produce cold light (no heat generated). About 90% of deep-sea animals can make their own light. Fireflies, anglerfish, and many jellyfish are bioluminescent. Deep-sea creatures use bioluminescence to attract prey, find mates, and confuse predators in the pitch-dark abyss.
 
-**Transparent**: When something allows light to pass through so you can see clearly through it—like how a clear glass lets you see what's inside, and how ocean water lets sunlight reach down to creatures below.
+**Photosynthesis**: The process by which plants and algae convert sunlight into food and oxygen using the green pigment chlorophyll. About half of all oxygen on Earth — every second breath you take — is produced not by trees but by microscopic ocean organisms called phytoplankton. These tiny photosynthesizers form the base of the entire ocean food web: phytoplankton → zooplankton → small fish → large fish → apex predators.
 
 ## Learning Song
 
@@ -106,7 +106,7 @@ Children create an underwater sensory exploration by filling a clear container w
    Invite your child to place items into the water one at a time. Encourage them to watch how creatures "move" and "swim" in water. Let them pour water gently using small cups (supervise closely). Ask questions: "Does the starfish sink or float? How does it feel in the water?" Demonstrate moving items around: "The fish is swimming fast... now it's hiding behind the rock." Let them practice moving items with their hands, grasping and releasing.
 
 3. **Discovery** (3-5 minutes):
-   Point out what they notice: "Look—the water is transparent! You can see right through it to the fish!" Introduce habitat concept: "This water is like an ocean habitat where sea creatures live." Ask: "What does this creature need to live? (water, space, food hiding spots)" Observe together: "See how the sand/rocks make hiding places?"
+   Point out what they notice: "Look — you can see right through the water to the fish! Real ocean water lets sunlight reach down through the photic zone — that's where photosynthesis happens and where most sea life lives." Introduce habitat zones: "This water is like the shallow ocean habitat. Deep down where no light reaches — the aphotic zone — creatures make their own light through bioluminescence. Imagine fish with glowing lures dangling from their heads to attract prey in total darkness!" Ask: "What does this creature need to live? (water, food, shelter, right temperature, right depth)" Observe together: "See how the sand/rocks make hiding places? Fish use camouflage to match their habitat."
 
 4. **Wrap-up** (2-3 minutes):
    Ask your child to name one creature they explored. Say: "Great exploring! These creatures live in real oceans deep, deep underwater." Begin cleanup together—making it part of the learning. Drain water carefully and wash items if needed.
