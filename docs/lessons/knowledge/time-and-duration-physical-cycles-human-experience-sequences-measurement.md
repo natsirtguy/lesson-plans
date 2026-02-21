@@ -6,19 +6,15 @@ Children explore the concept of time through their own physical cycles, daily ro
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that:
-- Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")
-- Are adult words that expand beyond toddler basics
-- Directly relate to the topic
-- Can be demonstrated or experienced
-
 **Sequence**: The order in which things happen one after another. When we wash hands, we first get water, then use soap, then rinse—that's a sequence. It's like following directions step by step.
 
-**Duration**: How long something takes. A short duration might be brushing your teeth, and a long duration might be an afternoon nap. We can measure duration with clocks and timers.
+**Duration**: How long something takes. A short duration might be brushing your teeth, and a long duration might be an afternoon nap. We can measure duration with clocks and timers. Scientists measure duration in seconds, minutes, hours, and longer units.
 
 **Cycle**: A pattern that repeats over and over again in the same order. Your body has cycles—sleeping and waking, eating and digesting. The sun rises and sets in a cycle every single day.
 
-**Intervals**: Spaces of time between events, like the time between lunch and snack time, or the time between one song ending and the next one starting. Intervals help us organize our day.
+**Oscillation**: A regular back-and-forth movement. Pendulum clocks keep time because a swinging pendulum oscillates at a steady, predictable rate—every swing takes exactly the same amount of time, which is what makes it useful for measuring.
+
+**Interval**: A space of time between events, like the time between lunch and snack time. Scientists use intervals to measure and compare durations precisely.
 
 ## Learning Song
 
@@ -103,7 +99,7 @@ Children explore time through multiple sensory experiences: observing water drip
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit with the child and hold up the sand timer. Say: "This is a timer. Watch what happens when I turn it over. Sand flows from the top to the bottom. As the sand moves, time is passing. Let's watch together." Flip the timer and observe together. Say: "The sand took time to fall. That time had a duration—a length. It went from fast at first to slow at the end."
+   Sit with the child and hold up the sand timer. Say: "This is a timer. Watch what happens when I turn it over. Sand flows from the top to the bottom. As the sand moves, time is passing. Let's watch together." Flip the timer and observe together. Say: "The sand took time to fall. That time had a duration—a length. Humans have invented many ways to measure time: sand timers like this, water clocks, sundials that use shadows, and modern clocks that count the oscillations—the tiny vibrations—of atoms. They all measure the same thing: how long something takes."
 
 2. **Exploration** (8-12 min):
 
@@ -131,7 +127,7 @@ Children explore time through multiple sensory experiences: observing water drip
    - "What do you do first when you wake up? What comes next?"
    - "Is a clock hand moving fast or slow? Can you make your arm move like the clock hand?"
    - Point out: "Your body has cycles too. You wake up and sleep. You're hungry and then you eat. That's a cycle."
-   - Say: "Time is always moving, even when we can't see it. The sand timer shows us time because we can watch it happen."
+   - Say: "Time is always moving, even when we can't see it. The sand timer shows us time because we can watch it happen. A clock counts tiny regular oscillations—like a very fast heartbeat—to measure seconds and minutes exactly."
 
 4. **Wrap-up** (2-3 min):
    Say: "You just learned about time and duration. You discovered that some things are fast and some are slow. You learned that things happen in sequences—one after another. You can see time with timers, clocks, and by watching what happens in your body and your day."
@@ -143,8 +139,8 @@ Children explore time through multiple sensory experiences: observing water drip
 - Simplify to one sand timer at a time; longer observation periods
 - Use only 2-3 familiar activities (not 5+)
 - Focus on concrete observation: "Sand is falling," "You are running," "The song is playing"
-- Avoid complex vocabulary; use simple words: "fast," "slow," "now," "next"
-- Let them flip timers repeatedly without introducing timing concepts yet
+- Use real vocabulary—"duration," "cycle," "oscillation"—paired with simple explanations. Children don't need to master these words today; hearing them builds familiarity
+- Let them flip timers repeatedly and say "Look at the sand falling—that's time passing, we call that duration"
 - For routines, use just 2 events in sequence: "wake up, then eat" or "play, then nap"
 
 **3-4+ years**:
@@ -185,7 +181,10 @@ Introduce new activities to time, or challenge them with predictions: "Do you th
 **Solution**: Demonstrate with the same activity at different speeds: "Jump fast for this timer" vs. "Jump slow for this timer" but use the same timer. Point out: "You jumped fast and slow, but the timer measured the same amount of time both times. Faster doesn't always mean less time."
 
 **Challenge**: Child has trouble with sequences (remembering or ordering steps)
-**Solution**: Use only 2-3 items at first. Repeat the same sequence daily. Add hand motions or sounds to each step so it becomes a full sensory memory. For example: wake up (stretch arms up), eat (pretend to eat), sleep (lay down and snore).
+**Solution**: Use only 2-3 items at first. Repeat the same sequence daily. Add hand motions or sounds to each step so it becomes a full sensory memory. For example: wake up (stretch arms up), eat (pretend to eat), sleep (lay down and snore). You can use the word "sequence" naturally: "Let's do our morning sequence."
+
+**Challenge**: Child asks "but where does time go?"
+**Solution**: This is a profound question—don't deflect it! You can say: "That's something scientists and philosophers have wondered about for thousands of years. Time seems to only move in one direction—forward—and we can't put it back. That's one of the interesting mysteries of the universe." Even young children can hold the idea that some questions are genuinely hard and fascinating.
 
 ### Follow-Up Activities
 

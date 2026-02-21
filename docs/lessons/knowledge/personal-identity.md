@@ -6,13 +6,15 @@ Children explore who they are by recognizing their own name, physical characteri
 
 ## Vocabulary
 
-**Identity**: The special combination of things that make you YOU—your name, what you look like, and the things you like to do. Your identity is what makes you different and unique from everyone else.
+**Identity**: The combination of characteristics that make a person who they are—including their name, physical traits, personality, preferences, relationships, and cultural background. Identity has both biological and social dimensions.
 
-**Recognize**: To know or remember someone or something when you see or hear it. When you recognize yourself in a mirror, you know it's you looking back.
+**Self-concept**: A person's mental picture of themselves—what they believe about who they are. Psychologists study how self-concept develops in early childhood; it's one of the most complex things a brain learns to do.
 
-**Preference**: Something you like better than something else; a choice you make. If you prefer red over blue, that means you like red more.
+**Self-recognition**: The ability to recognize yourself as yourself—distinct from other people and things. Humans typically develop mirror self-recognition between 18-24 months old. Scientists test for this with the **rouge test**: a small mark is placed on a baby's nose without them knowing, then they're shown a mirror. A child who reaches to touch their own nose (not the reflection's) understands that the mirror is showing *them*—a significant cognitive milestone.
 
-**Unique**: Being the only one like yourself; special and different in a way that belongs only to you. Every person is unique—no two people are exactly the same.
+**Theory of mind**: The understanding that other people have their own thoughts, feelings, and perspectives that may differ from yours. It develops around age 3-4 and is central to empathy and social understanding.
+
+**Unique**: Being the only one of your kind. Every person's DNA—the biological instruction code inside every cell—is unique (except identical twins, and even they differ slightly). Your DNA is the biological foundation of your uniqueness.
 
 ## Learning Song
 
@@ -106,7 +108,7 @@ Children engage in reflective exploration of their own identity through multiple
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Begin by pointing to yourself in a mirror and saying, "Look, here I am! This is my face." Then gently guide the child to look at themselves. Say their name: "And there you are! That's [child's name]!" Make it playful and celebratory. Ask simple questions: "Do you see your eyes? Can you see your smile?" Point out specific features they can recognize.
+   Begin by pointing to yourself in a mirror and saying, "Look, here I am! This is my face." Then gently guide the child to look at themselves. Say their name: "And there you are! That's [child's name]!" Make it playful and celebratory. Add: "Do you know how your brain knows that's you? It learned to recognize your own face—that's called self-recognition, and it's one of the most amazing things a brain learns to do. Babies don't know that at first. They learn it, just like you did." Ask simple questions: "Do you see your eyes? Can you see your smile?"
 
 2. **Exploration** (8-10 minutes):
 
@@ -132,10 +134,12 @@ Children engage in reflective exploration of their own identity through multiple
    Sit together and look at what they've created. Ask:
    - "Tell me about your picture. Who is this?"
    - "What colors did you choose? Why did you pick those?"
-   - "What makes you special?" or "What makes you YOU?"
-   - "Is anyone else in the world exactly like you?" (The answer is no—they're unique!)
+   - "What makes you YOU?" (appearance, personality, things you love, people you love)
+   - "Is anyone else in the world exactly like you?" (No—not even identical twins are exactly the same)
 
-   Reinforce the concept of identity: "You are [child's name], and there's nobody else exactly like you in the whole world. You are special and unique."
+   Expand the concept: "Scientists have studied what makes each person unique. Inside every one of your cells is something called DNA—like a set of instructions that your body uses to build itself. Your DNA is unique to you. It determines some things about what you look like. But identity is also made of your experiences, your relationships, and the choices you make."
+
+   Introduce theory of mind: "Your brain can also understand that other people have their own thoughts and feelings—different from yours. When you know that someone else is sad even if *you're* happy, that's called theory of mind. You are getting better at that every day."
 
 4. **Wrap-up** (2-3 minutes):
    Display the child's portrait where they can see it. Say something like: "I love this picture of you! It shows how special and unique you are. You are [child's name], and you are wonderful." Consider taking a photo of the portrait and the child together, or creating a simple "All About Me" display area.
@@ -143,10 +147,10 @@ Children engage in reflective exploration of their own identity through multiple
 ### Age Adaptations
 
 **2-3 years**:
-- Keep mirror play simple and short; very young children may not recognize themselves yet, and that's developmentally normal
-- Focus on naming body parts rather than deep self-reflection
+- Keep mirror play simple and short; very young children may not recognize themselves yet, and that's developmentally normal (mirror self-recognition develops around 18-24 months)
+- Focus on naming body parts; narrate what they see: "That's your nose. Your brain is learning to recognize your own face—scientists call that self-recognition."
 - Use hand-over-hand guidance for drawing if needed
-- Keep conversations very simple: "That's your nose!" "You have blue eyes!"
+- Keep it concrete: "That's you! You have blue eyes. Your DNA helped decide that."
 - Shorter overall activity (10-15 minutes) with frequent movement breaks
 - Preferences may be immediate and concrete (food, toys visible right now)
 
@@ -182,7 +186,7 @@ Write the child's name in large letters. Point to each letter and say it aloud. 
 ### Common Challenges & Solutions
 
 **Challenge**: "My child doesn't recognize themselves in the mirror yet."
-**Solution**: This is completely developmentally normal. Children typically don't show mirror self-recognition until 18-24 months, and it continues to develop. Simply point out body parts and features together. Make it playful rather than an expectation. Over time, with repeated exposure, recognition will develop naturally.
+**Solution**: This is completely developmentally normal. Children typically don't show mirror self-recognition until 18-24 months (tested with the "rouge test"—placing a mark on their nose and seeing if they reach to touch their own face or the reflection). Simply point out body parts and features together. Make it playful rather than an expectation. Over time, with repeated exposure, recognition will develop naturally. You can narrate: "Scientists study when babies learn to recognize themselves. You're doing that learning right now."
 
 **Challenge**: "My child doesn't want to draw or is scribbling randomly."
 **Solution**: That's perfect! Scribbles and random marks ARE age-appropriate drawing. Don't expect a recognizable face. Simply narrate what they're creating: "Look at all those wonderful colors you're using!" or "You're making marks on the paper!" The process is far more important than the product at this age.
