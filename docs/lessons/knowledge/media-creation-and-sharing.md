@@ -6,13 +6,27 @@ Media creation and sharing invites young children to produce content (photos, vi
 
 ## Vocabulary
 
-**Creator**: Someone who makes or produces something new, like a photo, video, drawing, or song. When you take a picture with a camera, you are being a creator.
+**Creator / Author**: Someone who makes or produces something new — a photo, video, drawing, or song. Being a creator means making something that didn't exist before.
 
-**Audience**: The people who see, watch, or listen to something you made. Your family members might be your audience when you share a video with them.
+**Media**: Any format used to store and communicate information — photos, videos, audio recordings, text, drawings. The word comes from "medium" (plural: media), meaning the material through which something is transmitted.
 
-**Media**: Different ways to share messages and stories with others, such as photos, videos, recordings, or drawings. A photo is one type of media.
+**Audience**: The people who see, watch, or listen to something you made. Understanding your audience — who they are and what they'll enjoy — is one of the first things professional filmmakers, photographers, and journalists think about.
 
-**Share**: To give or show something to someone else so they can enjoy it too. When you show a photo to Grandma, you are sharing it with her.
+**Pixel**: The smallest unit of a digital image — short for "picture element." A smartphone photo might contain 12 million pixels (12 megapixels). Each pixel stores color information as three numbers: Red, Green, Blue (RGB values from 0–255). The camera sensor captures light and converts it to these numbers.
+
+**Lens**: The curved glass element inside a camera that bends (refracts) light and focuses it onto the sensor. A larger lens opening (aperture) lets in more light — useful in dim conditions. This is the same physics as a magnifying glass or eyeglass lens.
+
+**Image sensor**: A chip inside every digital camera covered with millions of tiny light-sensitive cells (photodiodes). When light hits a photodiode, it generates an electric signal proportional to the brightness. The processor converts these signals into pixel values.
+
+**Resolution**: The number of pixels in an image — more pixels = more detail, larger file size. A video at "1080p" has 1,920 × 1,080 pixels per frame. Higher resolution lets you zoom in without images becoming blurry ("pixelated").
+
+**File format / compression**: Digital photos and videos are stored as files. JPEG is a compressed photo format — it uses an algorithm to discard some image data, making files smaller for easier sharing while looking nearly identical to the original. PNG stores every pixel exactly. Video files (MP4) use codecs that compress thousands of frames efficiently.
+
+**Microphone**: A device that converts sound waves (vibrating air) into electrical signals. A digital microphone then converts those electrical signals into binary numbers (0s and 1s) — digital audio. When you play back a recording, the device reverses the process: numbers → electrical signal → speaker vibrations → sound waves.
+
+**Transmission / Network**: Sharing a photo or video means sending the digital file (millions of 0s and 1s) through a network. Wi-Fi transmits data as radio waves; cellular networks use radio waves to cell towers. The data travels at the speed of light through fiber-optic cables (pulses of light inside glass strands) to reach the recipient's device.
+
+**Analog vs. digital**: Old cameras and film captured images chemically (analog — continuous values). Digital cameras convert light to discrete numbers (digital — binary 0s and 1s). The advantage of digital is that copies are perfect — the numbers don't degrade like a photocopy of a photocopy.
 
 ## 🎵 Learning Song
 
@@ -97,7 +111,7 @@ Children will create media (photos, videos, or audio recordings) using a smartph
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Build excitement about being a creator: "Today you're a filmmaker/photographer/artist!" Show examples of simple media your child has created before or enjoys. Explain who will see their creation and why. Set clear expectations: "We'll make one photo/video, then we're done. There's no perfect way—you get to decide what to make."
+   Build excitement about being a creator — but also introduce how the technology works: "Today you're a filmmaker/photographer! Do you know how a camera works? It has a tiny lens — curved glass that bends light — and an image sensor covered in millions of tiny cells that sense light. When you press the button, the sensor captures a picture made of millions of tiny dots called pixels." Show the camera on the phone and talk about the lens. Explain who will see their creation and why. Set clear expectations: "We'll make one photo/video. There's no perfect way — you decide what to make."
 
 2. **Creation** (8-15 min):
    Help your child brainstorm what to create ("What would you like to show people?"). Guide the technical use of the device without directing the content. For photos: help frame the shot and ensure good lighting. For videos: keep the recording short (30-60 seconds) and the camera steady. For audio: help record singing, talking, or sounds. Celebrate their choices as they make them: "I love how you arranged those toys!" Allow them to review and retake if they want.
@@ -106,7 +120,7 @@ Children will create media (photos, videos, or audio recordings) using a smartph
    If multiple shots were taken, review together and ask which one they like best and why. Apply simple edits if interested (stickers, filters, frames). Add a caption or title with their approval. Finalize with their approval.
 
 4. **Wrap-up** (2-3 min):
-   Celebrate the creation and review what they made. Discuss who will see it and why. Show how it will be sent. Consider printing a copy or saving it in a special folder. Plan follow-up: "Maybe they'll send you a message about it later."
+   Celebrate the creation. Then explain the sharing technology: "When we send this to Grandma, the phone turns the photo into millions of 0s and 1s — a digital file. Those numbers travel as radio waves to a cell tower, then through cables made of glass (fiber optics) that carry pulses of light all the way to Grandma's phone. Then her phone turns the numbers back into your photo — instantly!" Show the send action and narrate it. Consider printing a copy or saving it in a special folder. Plan follow-up: "Maybe they'll send you a message back — that message travels the same way, just in reverse!"
 
 ### Age Adaptations
 
