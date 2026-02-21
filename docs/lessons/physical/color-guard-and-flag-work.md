@@ -14,6 +14,23 @@ Color guard and flag work introduces young children to the art of manipulating c
 
 **Space Required**: 15x20 feet minimum (for safe flag swinging)
 
+## Vocabulary
+
+**Anatomical & Physiological Terms**:
+- **Deltoid**: The triangular shoulder muscle (anterior, medial, and posterior heads) that raises and rotates the arm — the primary mover in flag overhead passes and large circular swings.
+- **Rotator cuff**: A group of four small muscles (supraspinatus, infraspinatus, teres minor, subscapularis) that stabilize the shoulder ball-and-socket joint during arm movements. Flag work trains the rotator cuff in a very gentle, age-appropriate way.
+- **Wrist extensors and flexors**: Forearm muscles that open and close the wrist — the forearm extensors (on the back of the arm) and flexors (on the inner side) control the flag tip direction during figure-eights and pendulum swings.
+- **Bilateral coordination**: Using both sides of the body together in a controlled, purposeful way — flag work develops this by asking each arm to perform slightly different motions simultaneously.
+- **Proprioception**: The body's internal sense of limb position, maintained by receptors in muscles and joints. Holding and manipulating a flag (an "extension" of the arm) challenges proprioception because the brain must track an object beyond the fingertips.
+- **Muscle memory (motor learning)**: The process by which the cerebellum encodes repeated movement patterns so they become automatic. Practicing flag figures repeatedly creates neural pathways that make the movements feel natural.
+- **Core stabilizers**: Deep trunk muscles (transversus abdominis, multifidus, pelvic floor) that keep the torso upright and centered when the arms swing out to the sides — essential for controlled flag work without stumbling.
+
+**Physics & Art Terms**:
+- **Momentum**: A moving flag has momentum (mass × velocity) — a heavier or faster-moving flag is harder to redirect. Children physically experience this when trying to reverse a pendulum swing.
+- **Angular momentum**: Spinning or circular flag movements generate angular momentum, which keeps the flag following a circular path — this is why circular flag moves feel more stable than stop-start linear ones.
+- **Centripetal force**: The inward force keeping the flag moving in a circle. The child's hand provides centripetal force through the stick — let go, and the flag flies outward.
+- **Choreography**: The planned sequence of movements in a performance, coordinating body motion with music rhythm.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -70,7 +87,7 @@ Color guard and flag work introduces young children to the art of manipulating c
 2. Wrist circles - Hold arms out, make circles with wrists; prepares for flag manipulation
 3. Marching with high knees - March in place lifting knees high; activates whole body and builds energy
 
-**Warm-up cues**: "Let's warm up our arms and shoulders. Make big circles. Now shake out your wrists. Feel your body getting ready to move!"
+**Warm-up cues**: "Let's warm up our deltoids — those are our big shoulder muscles that lift the flag! Make big arm circles. Now shake out your wrists — those muscles move the flag tip. Feel your whole arm waking up and getting ready to move!"
 
 ### Main Activity (8-15 minutes)
 
@@ -103,10 +120,12 @@ Color guard and flag work introduces young children to the art of manipulating c
 - Maintain proper posture while manipulating flag
 
 **Coaching cues**:
-- "Hold the flag handle lightly, like you're holding a bird you don't want to squish"
-- "Let the flag flow through the air smoothly, like you're painting with it"
-- "Keep your shoulders relaxed and let your whole arm do the work"
-- "You're creating beautiful patterns with your flag!"
+- "Hold the flag handle lightly — your forearm flexors and extensors control the tip, not your whole hand. Squeezing too hard locks your wrist!"
+- "Let the flag flow through the air smoothly — the flag has momentum, so let it carry itself around the circle instead of forcing it."
+- "Feel your shoulder muscles (deltoids) lifting the flag? Keep them relaxed — tense shoulders make jerky movements."
+- "Your core (belly and back muscles) holds you steady while your arms swing wide — feel your trunk staying strong!"
+- "You're creating choreography — planned, beautiful movement — just like real color guard performers!"
+- "Notice how the flag keeps moving in a circle? That's centripetal force — your hand pulls the flag inward to keep it going around."
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -182,9 +201,9 @@ Color guard and flag work introduces young children to the art of manipulating c
 ### Common Challenges & Solutions
 
 **Challenge**: Child grips flag handle too tightly or has rigid movements
-**Why**: Young children often over-grip when concentrating; tension reduces fluid movement
-**Solution**: Remind to "hold lightly like you're holding something delicate"; demonstrate loose grip vs. tight grip; make it playful ("gentle grip!")
-**Timeline**: Improves with practice and repetition; develops more naturally by age 4
+**Why**: Young children often over-grip when concentrating; tension in the forearm flexors and wrist extensors reduces fluid movement by preventing the wrist from following the flag's natural arc.
+**Solution**: Remind to "hold lightly — let your wrist muscles stay soft"; demonstrate loose grip vs. tight grip; explain that a light grip lets the forearm muscles work freely; make it playful ("gentle grip like holding a butterfly!")
+**Timeline**: Improves with practice and repetition as motor learning (muscle memory) encodes the correct tension level; develops more naturally by age 4
 
 **Challenge**: Child swings flag unsafely near other children or faces
 **Why**: Young children have difficulty with spatial awareness and understanding how far flags extend

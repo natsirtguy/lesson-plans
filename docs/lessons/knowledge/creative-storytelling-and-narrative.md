@@ -6,13 +6,25 @@ Creative storytelling and narrative invites young children to create, tell, and 
 
 ## Vocabulary
 
-**Narrative**: The telling of a story or sequence of events; a connected account of something that happened. When you tell your friend about what you did at the park, you're creating a narrative.
+**Narrative**: The telling of a story or sequence of events. Humans have told narratives for at least 40,000 years — cave paintings in France and Indonesia are early visual narratives. Every culture on Earth uses narrative to pass down knowledge and make sense of experience.
 
-**Character**: A person, animal, or creature in a story. Your stuffed teddy bear can be a character who goes on adventures.
+**Dramatic arc**: The shape of a story's tension and energy over time. Aristotle (ancient Greek philosopher, ~335 BC) described a story as having a beginning, middle, and end — what we now call setup/rising action/climax/falling action/resolution. Even a toddler's story about a dog who got lost and came home has this arc.
 
-**Imagination**: The ability to think of things that aren't real and create them in your mind. Your imagination lets you picture a dragon, a magical castle, or a talking dog.
+**Protagonist**: The main character of a story — the person or creature the audience follows. From Greek: *protos* (first) + *agonist* (one who struggles or acts). Every story has a protagonist facing some kind of challenge.
 
-**Expression**: The act of showing your feelings, thoughts, or ideas through words, art, movement, or actions. When you draw a picture of something that makes you happy, you're using expression.
+**Antagonist**: The force or character that creates the problem or conflict for the protagonist. From Greek: *anti* (against) + *agonist*. The antagonist doesn't have to be a villain — it can be a storm, a fear, or even the protagonist themselves.
+
+**Conflict**: The central problem or struggle in a story that creates tension and drives the plot forward. Without conflict, a story has no momentum. Common types: character vs. character, character vs. nature, character vs. self.
+
+**Theme**: The underlying idea or message that a story explores — not just what happens, but what it *means*. "The lion who learned to be kind" has events (plot) but also a theme: kindness matters more than strength.
+
+**Suspension of disbelief**: The reader or listener temporarily accepts fictional events as real in order to enjoy the story — coined by poet Samuel Taylor Coleridge in 1817. When a child says "the dragon really flew!" they are exercising suspension of disbelief.
+
+**Perspective**: Whose point of view a story is told from. The same events look completely different depending on who is telling the story — a mouse and a cat experience the same kitchen very differently.
+
+**Theory of mind**: The cognitive ability to understand that other people have thoughts, feelings, and beliefs different from your own. Storytelling develops theory of mind because you must imagine what a character feels, wants, and knows. Children develop theory of mind between ages 3-5.
+
+**Oral tradition**: Stories passed down by speaking rather than writing. For most of human history, all stories were oral. Griots in West Africa, storytellers in Indigenous communities, and grandparents everywhere have preserved knowledge through spoken narrative.
 
 ## 🎵 Learning Song
 
@@ -62,9 +74,9 @@ Share your special heart
 
 ### Activity Overview
 
-In this activity, the child becomes both a storyteller and a story creator. You'll invite them to make up their own stories using drawing, words, props, or acting. The child discovers that their ideas are valuable, that stories can come from imagination, and that sharing ideas with someone who listens creates connection. This develops narrative thinking, language expression, and creative confidence.
+In this activity, the child becomes a storyteller — practicing one of humanity's oldest and most universal skills. You'll introduce the real structure of stories (dramatic arc, protagonist, conflict, resolution) and invite the child to create their own narratives using drawing, words, props, or acting. Children at this age are developing **theory of mind** — the ability to understand that others have different thoughts and feelings — and storytelling is one of the most powerful ways to build that capacity. Even a simple "the bear was hungry so he looked for food and found berries" story contains all the elements of a complete narrative arc.
 
-**Activity Type**: Creative expression / Performing arts / Imaginative play
+**Activity Type**: Creative expression / Performing arts / Literary arts / Cognitive development
 
 **Duration**: 20-35 minutes (with natural breaks)
 
@@ -101,57 +113,55 @@ In this activity, the child becomes both a storyteller and a story creator. You'
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - Start by reading a short picture book or tell a simple 2-3 sentence story about something familiar (the family pet, a recent outing, something silly you did)
-   - Use expressive voices, gestures, and sound effects to show how storytelling comes alive
-   - Explain: "We're going to be storytellers today! That means we get to make up our own stories and tell them. There's no 'right' story—YOUR ideas are what make it special."
+   - Start by reading a short picture book or telling a simple story about something familiar (the family pet, a recent outing, something silly you did)
+   - Use expressive voices, gestures, and sound effects
+   - Introduce the idea of story structure: "Every story has three parts — a beginning where we meet the character and the problem, a middle where things get exciting, and an ending where the problem gets solved. That shape is called the *dramatic arc*. Let's see if we can find it in this story."
+   - Point out: "Who is the protagonist — the main character? What's their problem — the conflict? How did it get resolved?"
+   - Explain: "People all over the world — and for thousands of years — have told stories. Before there was writing, stories were how people remembered important things. That's called oral tradition."
 
 2. **Exploration** (8-12 minutes):
-   - Invite the child to look through picture books with you and talk about what they see
-   - Ask open-ended questions: "What do you think happens next?" or "Where do you think this character goes?"
+   - Invite the child to look through picture books and identify the protagonist and conflict: "Who is this story about? What problem do they have?"
    - Let the child choose whether to draw first or tell a story first
-   - Offer options: "Would you like to draw your story first, then tell it? Or would you like to tell me a story and I'll draw it?"
-   - For children who struggle to start, offer gentle prompts: "Tell me about your favorite place. What's there?" or "What would happen if your stuffed animal could talk?"
-   - As the child creates, celebrate their observations: "You noticed the cat is sleeping! That's an important detail."
-   - Encourage embellishment: "What does it smell like?" "What sound does that make?"
+   - When they start creating, help them build story structure: "Okay, so that's your protagonist — what's the conflict? What problem does [character] have to face?"
+   - For children who struggle to start, offer scaffold prompts: "Your protagonist is a bear. What does the bear want more than anything? What's stopping the bear from getting it?"
+   - Introduce theme gently: "What does your story teach us? What does it mean that the bear found the honey in the end?"
+   - Encourage perspective-taking (theory of mind): "What does the fox think when she sees the bear? How does she feel about the same thing?"
 
 3. **Discovery** (5-8 minutes):
-   - Ask questions that show genuine curiosity about their story:
-     - "Who is in your story?"
-     - "What happens next?"
-     - "How does the character feel?"
-     - "Where does the story take place?"
-     - "What's the most exciting part?"
-     - "How does your story end?"
-   - Listen actively with full attention—make eye contact, nod, and respond with genuine interest
-   - Avoid interrupting or correcting their story
-   - If the child is shy about sharing verbally, accept stories told through drawing alone, whispered to you privately, or acted out
+   - Guide narrative arc questions:
+     - "Who is your protagonist?" (main character)
+     - "What is the conflict?" (the problem they face)
+     - "What happens as things get more exciting?" (rising action)
+     - "What's the most important moment?" (climax)
+     - "How does it resolve?" (resolution)
+   - Ask perspective-shifting questions: "What would this story look like if the antagonist told it? What's their side?"
+   - Name the literary terms as you use them: "You just created rising action — the tension is building!"
+   - Listen actively without correcting — every story structure, even loose ones, is valid
 
 4. **Wrap-up** (2-3 minutes):
-   - Affirm what you heard: "You told a story about..." (reflect back main elements)
-   - Celebrate specific strengths: "I loved the creative characters you invented" or "You used wonderful sound effects"
-   - Ask a reflection question: "What did you enjoy most about making up your story?"
-   - Together, gather materials and keep the child's drawing or story notes as treasures to preserve
+   - Reflect back using the real vocabulary: "You told a story with a protagonist — the rabbit — and a conflict — the lost carrot — and a resolution where she found it by following her nose. That's a complete dramatic arc!"
+   - Ask a reflection question: "What was the theme of your story? What did it mean?"
+   - Keep their drawing or transcript as a record — it's part of an oral tradition that stretches back tens of thousands of years
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep stories very short and simple
+- Keep stories very short — even one protagonist + one conflict + one resolution counts
 - Use lots of visuals, props, and sound effects to support storytelling
 - Accept single words, short phrases, babble, songs, and sound effects as valid story forms
-- Provide high support—you do much of the talking and narration
-- Ask simple yes/no or either/or questions
-- Narrate what they're doing: "You're making the dog jump! Jump, jump!"
-- Focus on sensory storytelling: sounds, movements, textures
+- Narrate the structure as it emerges: "Oh, the dog is looking for his ball — that's the conflict! He found it! That's the resolution!"
+- Introduce "protagonist" by pointing to the main character: "Who is our protagonist — our main character — in this story?"
+- Use simple either/or questions: "Does the rabbit feel happy or scared?"
+- You model the narrative arc while they play: "The bunny is our protagonist. Her conflict is that she's hungry. She finds a carrot — that's her resolution!"
 - Duration: 15-20 minutes
 
 **3-4+ years**:
-- Invite more complex, multi-part stories with beginning, middle, and end
-- Encourage character development: "What is your character like? What do they want?"
-- Add layers: "What's the problem in your story? How does it get solved?"
-- Introduce story elements: plot, characters, setting, conflict, resolution
-- Invite collaborative storytelling: "You tell one part, I'll tell the next part"
-- Challenge them to tell a story from a different character's perspective
-- Create story sequences with multiple drawings over time
+- Guide construction of a full dramatic arc: beginning (introduce protagonist + conflict), middle (rising action, attempts to solve), end (climax + resolution)
+- Explore perspective and theory of mind: "What does the wolf think is happening? Tell me the story from his point of view."
+- Introduce the concept of theme: "What does your story teach us? What is it really about underneath the adventure?"
+- Challenge them to identify the antagonist and explain its role
+- Discuss suspension of disbelief: "We both know dragons aren't real, but in this story we're going to pretend — that's called suspension of disbelief. It's what makes stories magic."
+- Invite collaborative storytelling with explicit arc assignments: "I'll tell the beginning, you tell the conflict, we'll figure out the resolution together."
 - Duration: 25-35 minutes
 
 ### Extension Ideas

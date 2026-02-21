@@ -14,6 +14,28 @@ Climbing and balancing activities develop core strength, coordination, spatial a
 
 **Space Required**: Large open area (15x15 feet minimum)
 
+## Key Vocabulary & Body Science
+
+**Muscles at work** (name these during the activity):
+- **Quadriceps** (quad-ri-seps): The four muscles on the front of your thigh that straighten your knee when you step up. "Feel your quads tighten when you lift your leg!"
+- **Gluteus maximus** (gloo-tee-us max-i-mus): The large muscle in your bottom that powers pushing up when you climb. "Your glutes are the biggest muscle in your body — they're the engine for climbing!"
+- **Core muscles**: Rectus abdominis (belly muscles), obliques (side muscles), and erector spinae (muscles along your spine) — all work together to keep your trunk stable while your arms and legs move. "Your tummy and back muscles are holding you steady right now!"
+- **Gastrocnemius** (gas-troc-nee-me-us): The big calf muscle that lifts your heel and helps you balance on your toes. "That's your gastrocnemius working when you stand on your tiptoes!"
+- **Tibialis anterior** (tib-ee-ay-lis an-teer-ee-or): The muscle on the front of your shin that lifts your foot when you step. "It fires with every step so your toes don't drag."
+
+**Body science concepts**:
+- **Center of gravity**: The invisible point in the middle of your body where your weight is balanced. When it stays over your feet, you stay upright. When it moves past your feet, you fall. "Try leaning sideways — you feel your center of gravity moving and your body corrects itself!"
+- **Vestibular system** (ves-tib-yoo-ler): The balance organ inside your inner ear — three semicircular canals filled with fluid detect every tilt and rotation of your head, sending signals to your brain 50 times per second. "Your inner ear is your balance supercomputer!"
+- **Proprioception** (pro-pree-oh-sep-shun): Your body's ability to sense where your limbs are in space without looking — special receptors in your muscles and joints send position signals to your brain. "Close your eyes and touch your nose — that's proprioception working!"
+- **Newton's Third Law of Motion**: Every action has an equal and opposite reaction. When you push your foot DOWN against the ground, the ground pushes you UP. That's how climbing works — your legs push down, the structure pushes you up.
+- **Bilateral coordination**: Using both sides of your body together in a coordinated way — right hand and left foot working as a team while climbing engages both brain hemispheres simultaneously.
+
+**Simple phrases for caregivers to use naturally during play**:
+- "Your vestibular system is getting a workout — your inner ear is tracking every wobble!"
+- "Push down with your quads and glutes — they're your climbing engines"
+- "Keep your center of gravity over your feet — that's how you stay balanced"
+- "Your proprioception is improving with every practice — your brain is learning where your body is in space"
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -83,9 +105,9 @@ Climbing and balancing activities develop core strength, coordination, spatial a
 **Purpose**: Prepare muscles and joints for climbing and balancing; establish focus and movement awareness; create excitement for the activity
 
 **Warm-up activities**:
-1. **Marching in place** - March with high knees, swing arms, gradually increase tempo. Say: "Let's wake up our legs! March like a soldier - lift those knees high!"
-2. **Arm circles and reaches** - Make big circles with arms forward and backward, then reach up to sky and down to toes. Say: "Circle, circle, reach up tall! Now touch the ground and stand up tall!"
-3. **Walking and stepping** - Walk around the space in different patterns (forward, backward, sideways), practice stepping over imaginary obstacles. Say: "Walk around like you're in the zoo - careful not to step on the animals!"
+1. **Marching in place** - March with high knees, swing arms, gradually increase tempo. Say: "Let's wake up our quadriceps — the four muscles on the front of your thighs! Lift those knees to feel them working!" (Marching increases blood flow and warms the hip flexors, quads, and glutes for climbing.)
+2. **Arm circles and reaches** - Make big circles with arms forward and backward, then reach up to sky and down to toes. Say: "Circle your arms — we're warming up our shoulder muscles and the deltoids that help us grip and pull when we climb!"
+3. **Walking and stepping** - Walk around the space in different patterns (forward, backward, sideways), practice stepping over imaginary obstacles. Say: "Every step fires your tibialis anterior — that's the muscle on your shin that lifts your foot. Sideways walking also wakes up your hip abductors — the muscles on the sides of your hips!"
 
 **Warm-up cues**: Use playful language and model the movements. Keep tempo upbeat. Celebrate effort with phrases like "Great warm-up everyone!" "Your muscles are ready now!"
 
@@ -104,11 +126,12 @@ Climbing and balancing activities develop core strength, coordination, spatial a
 - **Safe dismount** - Always step down backward (never jump), hold onto structure, place both feet on ground before moving away
 
 **Coaching cues**:
-- "Hands first, then your feet"
-- "Look where you're going, not down at your feet"
-- "Nice and slow - we're not racing"
-- "Use your arms like wings to help you balance"
-- "Feet should stick to our line like glue"
+- "Hands first, then your feet — your arms help your center of gravity stay safe"
+- "Look where you're going, not down at your feet — your proprioception will tell your feet where to go!"
+- "Nice and slow - we're not racing — slow climbing builds more neural pathways in your brain"
+- "Use your arms like wings to help you balance — spreading them widens your base and helps your vestibular system"
+- "Feet should stick to our line like glue — squeeze your core muscles (belly and back) to stay steady"
+- "Push down with your quads and glutes — those are your biggest climbing muscles!"
 - "You're doing such a good job being careful!"
 
 #### Guided Play/Game (5-8 minutes)
@@ -168,9 +191,9 @@ Allow children to move freely between stations, choosing their own challenges. A
 **Purpose**: Lower heart rate and energy level; transition to calm state; celebrate efforts and accomplishments
 
 **Cool-down activities**:
-1. **Slow walking and stretching** - Walk slowly around the space, then sit and reach toward toes. Say: "Let's slow down our bodies. Nice, deep breaths."
-2. **Seated balance practice** - Sit on floor and practice balancing on one hip, then the other, raising arms for balance. Make it playful: "Balance like you're sitting on a wobbly stool!"
-3. **Breathing exercise** - Sit quietly and practice slow breathing. "Breathe in slowly like you're smelling flowers. Breathe out like you're blowing bubbles."
+1. **Slow walking and stretching** - Walk slowly around the space, then sit and reach toward toes. Say: "Let's stretch our gastrocnemius — the big calf muscle — and our hamstrings on the back of our thighs. These worked hard during climbing!" (Static stretching after exercise reduces lactic acid buildup and helps muscles return to resting length.)
+2. **Seated balance practice** - Sit on floor and practice balancing on one hip, then the other, raising arms for balance. Make it playful: "Balance like you're sitting on a wobbly stool! Your inner ear — your vestibular system — is still sending signals to keep you from tipping!"
+3. **Breathing exercise** - Sit quietly and practice slow, deep belly breathing. "Take a big belly breath — breathe in for 4 counts, out for 4 counts. Your diaphragm is the muscle under your lungs that pulls air in. Slow breathing activates your parasympathetic nervous system — that's the part of your nervous system that tells your whole body to calm down and relax!"
 
 **Transition**: Use calming music or quiet voice to signal transition. "Our climbing time is finished. Let's breathe slowly and feel how strong our muscles are!"
 
@@ -243,7 +266,7 @@ Allow children to move freely between stations, choosing their own challenges. A
 
 **Challenge**: Poor balance; frequent falls; difficulty staying on line; wobbly walking
 
-**Why**: Vestibular system still developing (inner ear controls balance); weak ankle and core muscles; visual tracking not yet refined; expecting too much from developmental stage
+**Why**: The vestibular system (inner ear semicircular canals and otolith organs) continues maturing through age 5; core muscles — especially the transverse abdominis and erector spinae — are still gaining strength; proprioceptive pathways are being myelinated (coated in myelin to speed nerve signals); ankle stabilizer muscles (peroneals, tibialis posterior) are underdeveloped; expecting too much from developmental stage
 
 **Solution**: Use wider balance beam or wider line (6-8 inches). Lower climbing heights. Increase arm movement (arms out more for balance). Practice slower speed. Strengthen core with age-appropriate activities (yoga, bridge pose). Have them walk on ground line before elevated beam. Practice one activity repeatedly in multiple sessions - balance builds over time. Focus on effort, not perfection.
 

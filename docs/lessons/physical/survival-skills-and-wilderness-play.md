@@ -14,6 +14,25 @@ Survival skills and wilderness play teach young children how to move confidently
 
 **Space Required**: Natural outdoor space (minimum 20x20 feet, larger preferred)
 
+## Vocabulary
+
+**Anatomical & Physiological Terms**:
+- **Proprioception**: The body's internal sense of position and movement — special receptors in muscles, joints, and tendons send signals to the brain about where each body part is in space. Uneven terrain activates proprioceptors intensely, building coordination.
+- **Stabilizer muscles**: Smaller muscles (like the tibialis anterior in the shin, peroneals on the outer ankle, and intrinsic foot muscles) that fire constantly on irregular ground to prevent ankle rolls and maintain upright posture.
+- **Gluteus medius**: The hip muscle on the outer pelvis that keeps the pelvis level during single-leg stance — critical for walking uphill or stepping over obstacles without stumbling.
+- **Vestibular system**: The inner ear's balance organ (semicircular canals and otolith organs) that detects head movement and helps the brain maintain equilibrium — challenged and developed by varied outdoor terrain.
+- **Thermoregulation**: The body's physiological process of maintaining core temperature (~37°C/98.6°F) through sweating, blood vessel dilation, and shivering. Outdoor activity in varying conditions trains this system.
+- **Cortisol & adrenaline**: Stress hormones released during mildly challenging adventures — in safe doses, they sharpen attention and help lay down strong memories. Outdoor challenge is genuinely neurologically stimulating.
+
+**Ecology & Nature Science Terms**:
+- **Ecosystem**: A community of living organisms (plants, animals, fungi, microbes) interacting with each other and their physical environment (soil, water, sunlight) as a system.
+- **Decomposer**: Organisms (fungi, bacteria, certain invertebrates like pill bugs and earthworms) that break down dead organic matter into nutrients, returning them to the soil — the forest floor is full of them.
+- **Habitat**: The specific environment where a species lives and finds food, shelter, and mates (e.g., under bark, in leaf litter, in a hollow log).
+- **Camouflage**: Coloration or patterning that makes an organism blend into its background — a real survival adaptation, not just a game.
+- **Photosynthesis**: The process plants use to convert sunlight, water, and carbon dioxide into glucose (sugar) and oxygen — the foundation of almost every food chain in the forest.
+- **Foraging**: Searching for and gathering food from the environment — what most wild animals spend most of their time doing.
+- **Trail/tracking**: Following physical evidence (tracks, scat, chewed bark, feathers, fur) left by animals. Each print shows an animal's gait, weight, and direction of travel.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -101,18 +120,20 @@ Survival skills and wilderness play teach young children how to move confidently
 #### Skill Practice (4-8 minutes)
 
 **Skill breakdown**:
-- **Safe trail walking**: Step carefully, watch ground, avoid obstacles, use hands to balance on uneven terrain
-- **Observation skills**: Look closely at plants, insects, tracks; listen for animal sounds; notice details
-- **Shelter assessment**: Identify natural protected areas (hollow logs, tree shelters, rock overhangs)
-- **Natural material gathering**: Collect safe items (leaves, rocks, sticks) without damaging living plants
-- **Navigation basics**: Following a path, remembering landmarks, understanding directions
+- **Safe trail walking**: Step carefully on uneven ground — this activates stabilizer muscles in the feet, ankles, and shins far more than flat pavement, building proprioception and balance. The gluteus medius fires to keep hips level on slopes.
+- **Observation skills (scientific inquiry)**: Look closely at plants, insects, tracks; identify decomposers (pill bugs, worms, fungi) on the forest floor; distinguish between herbivore and carnivore signs; listen for alarm calls vs. song calls from birds.
+- **Shelter assessment**: Natural shelters (hollow logs, rock overhangs, dense evergreen branches) work because they block wind convection and trap radiated body heat — the same physics as a house wall.
+- **Natural material gathering**: Collect safe items (fallen leaves, rocks, sticks) — examine leaf shapes (broad = catches maximum sunlight; needle = survives frost), bark texture (rough = protects from insects; smooth = often fast-growing species).
+- **Navigation basics**: The sun rises in the east and sets in the west — moss often grows thicker on the north side of trees (less sunlight). Landmarks are visual anchors the brain uses to build a mental map (cognitive mapping).
 
 **Coaching cues**:
-- "Step carefully and watch where your feet go"
-- "What do you notice? Look closely!"
-- "Listen - what sounds do you hear in nature?"
-- "We're explorers discovering this place!"
-- "This is our team working together safely"
+- "Step carefully and watch where your feet go — your ankle muscles (stabilizers) are working hard on this uneven ground to keep you balanced!"
+- "What do you notice? Look closely — you're using your eyes to be a scientist!"
+- "Listen — what sounds do you hear? Birds have different calls for danger, food, and territory."
+- "See those tiny holes in the log? A decomposer lives there — fungi or insects breaking the dead wood back into soil!"
+- "Feel that bark texture — the outer bark is dead cells protecting the living part underneath called the cambium."
+- "Your inner ear (vestibular system) is working extra hard on this slope — that's why balance feels harder going uphill!"
+- "This is our team working together safely — most animals survive by working in groups too."
 
 #### Guided Play/Game (5-10 minutes)
 
@@ -199,9 +220,9 @@ Survival skills and wilderness play teach young children how to move confidently
 **Timeline**: Fear often decreases with exposure and education; some children remain cautious long-term
 
 **Challenge**: Child doesn't want to walk on uneven ground, seems hesitant or unbalanced
-**Why**: Proprioception and balance are still developing; rough terrain is legitimately challenging
-**Solution**: Provide hand for balance, stay close, choose less challenging terrain, build confidence gradually, celebrate brave attempts
-**Timeline**: Balance and terrain navigation improves significantly by age 4
+**Why**: Proprioception (the body's internal sense of position, transmitted by receptors in muscles and joints) and vestibular balance are still developing; rough terrain sends more sensory signals than the brain can efficiently process yet.
+**Solution**: Provide hand for balance, stay close, choose less challenging terrain, build confidence gradually, celebrate brave attempts. Explain: "Your ankle muscles are learning!" — normalizing the neurological challenge.
+**Timeline**: Balance and terrain navigation improves significantly by age 4 as proprioceptive pathways myelinate (become faster and more efficient)
 
 **Challenge**: Child wants to pick all plants, dig in soil, or disrupt habitat
 **Why**: Curiosity and limited understanding of consequences are age-appropriate

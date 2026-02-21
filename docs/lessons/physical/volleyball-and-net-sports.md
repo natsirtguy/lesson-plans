@@ -14,6 +14,29 @@ Volleyball and net sports introduce young children to cooperative ball games and
 
 **Space Required**: Large open area (at least 15x20 feet)
 
+## Key Vocabulary & Body Science
+
+**Muscles at work** (name these during the activity):
+- **Deltoids** (del-toydz): The three-part shoulder muscles (anterior, lateral, posterior) that raise your arm in every direction. "Your deltoids are the engines for swinging your arms to hit the ball!"
+- **Triceps brachii** (try-seps bray-kee-eye): The three-headed muscle on the back of your upper arm that straightens your elbow during the hitting motion. "Extend your elbow to hit — that's your triceps firing!"
+- **Pectoralis major** (pek-tor-al-is may-jer): The large chest muscle that pulls your arm forward and across your body. "Feel your chest tighten when you swing both arms forward — that's your pectorals!"
+- **Serratus anterior** (ser-ay-tus an-teer-ee-or): The "boxer's muscle" along your ribs that stabilizes your shoulder blade and drives your arm forward. It's called serratus because its edge looks like a serrated saw. "This muscle punches your arm forward — it's why boxers train it!"
+- **Core — rectus abdominis and obliques**: Your belly and side muscles stabilize your spine during every swing, transferring power from your legs through your trunk into your arms. "Your whole body works together like a chain — legs, core, arms!"
+
+**Body science concepts**:
+- **Visual tracking (smooth pursuit)**: Your eyes contain six muscles that move your eyeballs to follow a moving object. Tracking a flying ball is called "smooth pursuit" — your brain predicts where the ball will be and sends your eyes ahead of it. "Watch the ball! Your eye muscles are learning to track and predict at the same time."
+- **Hand-eye coordination**: A feedback loop between your visual cortex (back of the brain, processes what you see) and your motor cortex (top of the brain, sends movement commands) that tells your hands exactly when and where to swing. This circuit improves with every repetition.
+- **Reaction time**: The time between seeing the ball and moving your body — typically 150-200 milliseconds in adults, longer in young children because nerve signals travel more slowly until myelin (the insulating coating on nerve fibers) finishes developing around age 25.
+- **Projectile motion**: When the ball leaves your hands, it follows a curved path called a parabola — pulled down by gravity while moving forward. "The ball curves down because of gravity — you have to hit it UP to make it go over the net!"
+- **Momentum transfer**: A physics principle — you build momentum in your swinging arms, and when they contact the ball, that momentum transfers to the ball and launches it. "Swing bigger = hit harder — that's momentum!"
+- **Cardiovascular response**: When you run, jump, and swing, your muscles need more oxygen, so your heart beats faster to pump more blood. "Can you feel your heart beating fast? It's working hard to fuel your muscles!"
+
+**Simple phrases for caregivers to use naturally during play**:
+- "Your deltoids and triceps are working together to swing your arm — that's the hitting chain!"
+- "Watch the ball — your smooth pursuit eye muscles are tracking it right now"
+- "Swing your arms to transfer momentum into the ball — bigger swing, farther it goes"
+- "Feel your heart beating faster? That's because your muscles need more oxygen to keep playing!"
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -75,9 +98,9 @@ Volleyball and net sports introduce young children to cooperative ball games and
 **Purpose**: Prepare body for activity, increase heart rate gradually, build excitement, and mentally prepare children for ball play
 
 **Warm-up activities**:
-1. Gentle jogging in place - "Let's warm up our legs like we're running to catch a ball!" (30 seconds)
-2. Arm circles and swings - "Make big windmill arms to get ready!" (1 minute)
-3. Gentle bouncing and stretching - "Bounce up and down, reach up high, bend down low" (1 minute)
+1. Gentle jogging in place - "Let's warm up our quadriceps and glutes — the big thigh and bottom muscles — like we're running to catch a ball!" (30 seconds)
+2. Arm circles and swings - "Make big windmill arms to wake up your deltoids — the shoulder muscles that raise your arms in every direction. Forward circles use your anterior deltoid; backward circles use your posterior deltoid!" (1 minute)
+3. Gentle bouncing and stretching - "Bounce up and down to warm up your calves and Achilles tendon, then reach way up high to stretch your latissimus dorsi — the big muscle across your back. Now bend down low — that stretches your hamstrings on the back of your thighs!" (1 minute)
 
 **Warm-up cues**:
 - "Let's get our bodies ready to play an awesome game with friends!"
@@ -100,10 +123,11 @@ Volleyball and net sports introduce young children to cooperative ball games and
 - **Follow-through**: Natural swing motion toward net after contact
 
 **Coaching cues**:
-- "Bend your knees like you're sitting in a chair - that helps you bounce!"
-- "Keep your arms together and let them swing like a pendulum"
-- "Watch the ball - eyes on the ball helps your arms know where to go!"
-- "It's okay if it doesn't go over - we're learning together!"
+- "Bend your knees like you're sitting in a chair — lowering your center of gravity gives you a stable base to swing from!"
+- "Keep your arms together and let them swing like a pendulum — the momentum you build transfers into the ball when you make contact"
+- "Watch the ball — your eyes send signals to your motor cortex so your brain knows exactly when to swing. Eyes on the ball helps your arms know where to go!"
+- "Hit it UP and forward — the ball follows a curved parabola because gravity pulls it down, so aim above the net!"
+- "It's okay if it doesn't go over — your reaction time and tracking are both improving every try!"
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -137,12 +161,12 @@ Let children experiment with different ways to move the ball - rolling it, pushi
 **Purpose**: Gradually lower heart rate, transition from active play, prepare body for next activity
 
 **Cool-down activities**:
-1. Slow walking around the play area - "Let's take a nice walk and catch our breath"
-2. Gentle stretching - reach up high, bend to sides, forward fold with bent knees
-3. Seated or standing breathing - "Let's breathe together slowly - in through nose, out through mouth"
+1. Slow walking around the play area - "Let's take a nice walk and let our heart rate come back down — your heart has been pumping faster to send oxygen to your muscles, and now it gets to rest!"
+2. Gentle stretching - reach up high to stretch the latissimus dorsi and deltoids, bend to sides (stretching the obliques), forward fold with bent knees to stretch the hamstrings and gastrocnemius (calf muscle). "We're stretching the muscles we just worked so they stay flexible!"
+3. Seated or standing breathing - "Let's breathe together slowly — in through nose for 4 counts, out through mouth for 4 counts. Your diaphragm is the dome-shaped muscle under your lungs that contracts to pull air in. Slow deep breaths activate your parasympathetic nervous system — the part of your brain that tells your whole body to calm down and rest."
 
 **Transition**:
-"Great job working together as a team! Your bodies did amazing things today. Let's sit down for a few moments and feel how hard our hearts were working."
+"Great job working together as a team! Your deltoids, triceps, and pectorals all worked hard today. Let's sit down for a few moments and feel how our hearts were beating fast to fuel all those muscles."
 
 ## Age Adaptations
 

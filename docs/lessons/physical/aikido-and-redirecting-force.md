@@ -14,6 +14,27 @@ Aikido and redirecting force teaches children fundamental principles of redirect
 
 **Space Required**: 15x20 feet minimum for partner work
 
+## Key Vocabulary
+
+**Physics of movement**:
+- **force**: a push or pull that changes the speed or direction of an object; measured in newtons; aikido works by changing the *direction* of a force rather than opposing it directly
+- **momentum**: the combination of an object's mass and speed (mass × velocity); a moving person has momentum — you can feel it when you try to stop suddenly; redirecting momentum means changing its direction, not fighting its energy
+- **vector**: a quantity that has both size and direction; force is a vector — aikido practitioners redirect the *direction* component while letting the size pass through
+- **center of mass (center of gravity)**: the single point where all of a body's weight seems to be balanced; roughly in your lower belly (around the navel); staying "centered" in aikido means keeping this point over your feet so you don't fall
+- **base of support**: the area on the ground under and between your feet; the wider your stance, the larger your base, the harder it is to knock you over — this is physics, not just style
+
+**Body and movement**:
+- **proprioception**: the body's internal sense of position — muscle spindles (in every muscle) and Golgi tendon organs (in tendons) constantly send signals to the cerebellum so you know exactly where your arms and legs are without looking
+- **vestibular system**: fluid-filled semicircular canals in the inner ear that detect rotation and tilt, sending balance signals to the brain — essential for maintaining center during circular aikido movements
+- **core muscles** (abdominals, obliques, multifidus): the deep muscles around the trunk that stabilize the spine and keep your center of mass over your base of support during pivoting movements
+- **hip external rotators** (piriformis, obturator group): muscles that rotate the leg outward and power the pivoting footwork central to aikido stance changes
+- **gluteus medius**: the side hip muscle that controls lateral balance — critical when shifting weight to one leg during redirecting steps
+
+**Aikido philosophy**:
+- **aiki**: Japanese for "blending energy" — working with force rather than opposing it; the opposite of "if I push harder I win"
+- **irimi**: stepping into and past a force rather than away from it — moving to the side of a punch rather than backward
+- **tenkan**: a pivoting turn that redirects an incoming force by rotating around a central point
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -79,19 +100,19 @@ Aikido and redirecting force teaches children fundamental principles of redirect
 **Purpose**: Prepare body, establish relaxed but focused state, introduce concept of balance and fluidity
 
 **Warm-up activities**:
-1. Swaying movement - "Sway gently like a tree in the wind"
-2. Arm circles and flowing movements - "Let your arms flow like water"
-3. Balance practice - standing on one leg - "Feel your center, stay balanced"
+1. Swaying movement - "Sway like a tree in the wind — your center of mass (your middle, right around your belly button) moves but stays over your feet so you don't fall"
+2. Arm circles and flowing movements - "Let your arms flow; feel the momentum — that's the energy of moving weight — as your arm swings"
+3. Balance practice - standing on one leg - "Find your center of gravity! Your body is balancing your entire weight over one small foot. Feel your core muscles [belly and side muscles] working to keep you from tipping."
 
-**Warm-up cues**: "Let's move smoothly and gently. Feel how your body can flow. Find your balance like a tree with strong roots."
+**Warm-up cues**: "Your inner ear [vestibular system] and your muscles are constantly sending signals to your brain to keep you balanced. Right now, thousands of sensors in your muscles are telling your brain exactly where your arms and legs are — that's called proprioception."
 
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Explain aikido philosophy simply: "Aikido is about using balance and redirection instead of force"
-- Demonstrate with flowing water analogy: "Like water flowing around a rock instead of fighting it"
-- Show proper stance: feet shoulder-width apart, knees soft, centered posture
-- Explain: "We're learning that clever positioning is more powerful than strength"
+- Explain aikido philosophy: "Aikido is a Japanese martial art where instead of blocking force with more force, you redirect the energy — change its direction — so it goes past you instead of into you"
+- Demonstrate with a concrete physics example: "If I push a rolling ball, I can stop it [hard, takes effort] or I can tap it sideways and it changes direction [easy, just redirects]. Aikido works like the tap — we change the *direction* of force, not its size."
+- Show proper stance: feet shoulder-width apart, knees soft, centered posture. "This is your base of support — the wide area under your feet. A wider base makes you harder to push over — that's physics."
+- Point to lower belly: "This is your center of mass — your body's balance point. Keeping it over your base is what keeps you standing."
 
 #### Skill Practice (4-6 minutes)
 
@@ -103,19 +124,19 @@ Aikido and redirecting force teaches children fundamental principles of redirect
 - Gentle blending: moving with a partner's motion rather than against it
 
 **Coaching cues**:
-- "Feel your center - it's like the root of a tree"
-- "Move like water, not like a wall - flowing and smooth"
-- "Let the movement come through you, not stop at you"
-- "Keep your feet grounded and moving in circles"
-- "Soft hands, alert mind - ready but relaxed"
+- "Feel your center of mass — your balance point is right in your lower belly. Keep it over your feet."
+- "Instead of stopping the movement, redirect it — change its direction. Use less effort, change the vector!"
+- "Your hip muscles [gluteus medius] are controlling your side-to-side balance as you shift weight. Feel them working."
+- "Pivot on your foot — your hip rotator muscles [deep in the hip] power that turn"
+- "Soft hands, engaged core — your abdominals are stabilizing your center so your arms can move freely"
 
 #### Guided Play/Game (5-7 minutes)
 
-**Game structure**: "Flow Like Water"
-- Adult demonstrates slow, gentle pushing movement
-- Child practices redirecting the movement by stepping aside and guiding the push past them
+**Game structure**: "Redirect the Force"
+- Adult demonstrates slow, gentle pushing movement — explain: "I'm pushing forward, so my momentum (moving weight) is going this direction."
+- Child practices redirecting the movement by stepping to the side and guiding the push past them: "You're not stopping my force — you're changing its direction. That's called a vector change."
 - Adult moves very slowly and gently - not actually pushing hard
-- Focus is on child's footwork and arm position, not stopping the movement
+- Focus is on child's footwork and arm position: "Step off the line, guide the direction — don't fight the momentum"
 
 **Rules** (keep very simple):
 1. All movements are slow and gentle

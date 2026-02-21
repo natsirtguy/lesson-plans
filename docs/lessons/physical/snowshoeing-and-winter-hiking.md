@@ -14,6 +14,28 @@ Snowshoeing and winter hiking is a gentle, accessible outdoor winter activity th
 
 **Space Required**: Open snowy terrain, flat to gently sloping ground
 
+## Key Vocabulary
+
+**Snowshoe physics**:
+- **flotation**: the way a large surface area spreads your weight across snow so you don't sink — the same principle that lets a wide raft float when a narrow plank would sink
+- **pressure**: force divided by area; snowshoes reduce pressure on snow by distributing body weight across a much bigger surface (roughly 8× the area of a boot)
+- **traction**: the grip between snowshoe crampons (metal claws on the underside) and the snow or ice surface that prevents slipping
+
+**Muscles and movement**:
+- **quadriceps** (front of thigh): the main muscle that lifts the leg and extends the knee with each step — snowshoeing works these harder than regular walking because you must lift the larger shoe frame
+- **hip flexors** (iliopsoas): the deep muscles connecting spine and thigh that raise the leg forward — snowshoeing's high-stepping motion activates these more than flat walking
+- **tibialis anterior** (front of shin): dorsiflexes the foot (pulls toes up), critical for clearing the snowshoe frame with each step
+- **core muscles** (abdominals, obliques, erector spinae): stabilize the trunk as you shift weight across uneven, soft snow
+
+**Balance and sensation**:
+- **vestibular system**: fluid-filled canals in the inner ear that detect head tilts and rotations, constantly signaling the brain to adjust balance on uneven snow surfaces
+- **proprioception**: the body's internal position-sensing system — muscle spindles and joint receptors send signals to the brain so you know where your feet are even when buried in snow
+- **thermoregulation**: the body's system for maintaining core temperature (~98.6°F / 37°C); in cold environments, blood vessels near the skin constrict (vasoconstriction) to reduce heat loss to the air
+
+**Winter environment**:
+- **UV radiation**: energy from the sun in an invisible spectrum; snow reflects up to 80% of UV rays (compared to ~5% for grass), which is why sunscreen is essential even on cloudy winter days
+- **wind chill**: the cooling effect of wind moving air across skin, removing the thin warm air layer your body creates; increases heat loss dramatically even at moderate temperatures
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -81,20 +103,20 @@ Snowshoeing and winter hiking is a gentle, accessible outdoor winter activity th
 **Purpose**: To prepare muscles, increase circulation, and mentally transition to outdoor winter activity
 
 **Warm-Up activities**:
-1. Marching in place indoors - "Let's warm up our legs before we go outside!" - march with high knees for 30 seconds
-2. Arm windmills - "Make big circles with your arms like a windmill in the snow" - 10-15 slow circles each direction
-3. Jumping jacks or bouncing - "Bounce up and down to get warm and ready for our snow adventure!" - 20-30 seconds
-4. Layer check - "Now let's put on all our winter clothes to stay warm and cozy"
+1. Marching in place indoors - "Let's wake up the muscles in our legs!" - march with high knees for 30 seconds. *This activates the hip flexors and quadriceps — the same muscles that will lift the snowshoes with each step.*
+2. Arm windmills - "Make big circles with your arms like a windmill" - 10-15 slow circles each direction. *Warms shoulder joints and loosens the rotator cuff muscles; arm swing is important for balance while snowshoeing.*
+3. Jumping jacks or bouncing - "Bounce to get your blood moving!" - 20-30 seconds. *Increases heart rate, which pumps more warm blood to muscles and to fingers and toes — the extremities that lose heat fastest in cold air.*
+4. Layer check - "Now let's put on all our winter clothes to stay warm"
 
-**Warm-up cues**: "Our bodies are getting warm and ready to explore the snow! Can you feel your muscles warming up?"
+**Warm-up cues**: "When we move around inside, our heart pumps faster and sends warm blood to our muscles and our fingers and toes. That's our body getting ready for the cold outside!"
 
 ### Main Activity (10-20 minutes)
 
 #### Introduction & Demonstration (2-3 minutes)
-- Show the snowshoes and explain: "These special shoes help us walk on the snow without sinking. They're like little boats for your feet!"
-- Demonstrate how to put on snowshoes: sit down, loosen bindings, place foot in, secure bindings snugly
+- Show the snowshoes and explain: "These special shoes help us walk on the snow without sinking. They're wide to spread our weight across more snow — that's called flotation. It's the same reason a wide raft floats but a stick sinks: less pressure on the surface."
+- Demonstrate how to put on snowshoes: sit down, loosen bindings, place foot in, secure bindings snugly. Point out the metal teeth on the underside: "These are called crampons — they grip the snow so we don't slip."
 - Walk slowly in snowshoes while child watches: "Watch how I lift my feet up high and step forward slowly"
-- Key coaching point: "We walk differently in snowshoes - bigger steps, lift your feet more than usual"
+- Key coaching point: "We walk differently in snowshoes — bigger steps, lift your feet more than usual. The muscles in the front of your thighs [quadriceps] work extra hard to lift the heavier shoe frame."
 
 #### Skill Practice (3-5 minutes)
 **Skill breakdown**:
@@ -105,10 +127,10 @@ Snowshoeing and winter hiking is a gentle, accessible outdoor winter activity th
 - Coordinating arms and legs - swinging arms naturally helps balance
 
 **Coaching cues**:
-- "Lift your feet up high - like you're climbing invisible stairs!"
-- "Take bigger steps than usual - give your legs more room"
-- "Let your arms swing to help you balance, like a tightrope walker"
-- "Good job! You're doing great - look how you're walking in the snow!"
+- "Lift your feet up high — your hip flexors are the muscles pulling your leg forward, and they're working hard right now!"
+- "Take bigger steps than usual — your quadriceps [front of thigh] are doing the lifting"
+- "Let your arms swing to help you balance — your inner ear [vestibular system] and your muscles are sending signals to your brain so you don't fall"
+- "Feel how soft the snow is? Your body keeps checking where your feet are even when they're buried — that's called proprioception"
 
 #### Guided Play/Game (5-10 minutes)
 **Game structure**: Turn snowshoeing into exploration and discovery
@@ -118,7 +140,7 @@ Snowshoeing and winter hiking is a gentle, accessible outdoor winter activity th
 - "Follow the Leader" - adult walks slowly in snowshoes, child follows, then switch roles
 - "Slow Motion Snow Walk" - pretend to move through thick snow or sticky snow, slowing movements
 - "Trail Markers" - place brightly colored objects along a simple path, walk to each one
-- "Snow Sensory Path" - walk to different areas with different snow types (packed, fluffy, icy, textured)
+- "Snow Sensory Path" - walk to different areas with different snow types (packed, fluffy, icy, textured). Explain what makes them different: "Fluffy snow has lots of air trapped between the ice crystals — that air makes it soft. Packed snow has been squished so the crystals are closer together."
 - "Winter Treasure Hunt" - hide small items or photographs before hike, search together
 
 **Rules** (keep very simple):
@@ -143,15 +165,15 @@ Let child experience the environment with minimal direction:
 **Purpose**: To safely transition from active outdoor time to calmer indoor environment and prevent rapid cooling
 
 **Cool-down activities**:
-1. Slow walking - reduce pace gradually, walk back to starting point slowly
-2. Gentle stretching (indoors) - "Reach toward the sky and stretch your arms," "Gently touch your toes"
-3. Hot drink ritual - sip warm cocoa or herbal tea while removing snowshoes and winter gear
-4. Guided observation - "Tell me what you saw and heard on our winter hike"
+1. Slow walking - reduce pace gradually, walk back to starting point slowly. *Gradually lowering intensity allows heart rate to return to normal slowly, preventing blood from pooling in the legs.*
+2. Gentle stretching (indoors) - "Reach toward the sky and stretch your arms," "Gently touch your toes." Focus on quads (front of thigh) and hip flexors — the muscles that worked hardest.
+3. Warm drink ritual - sip warm cocoa or herbal tea while removing snowshoes and winter gear. "The warm drink helps your body's thermostat — your hypothalamus — keep your core temperature stable."
+4. Guided observation - "Tell me what you saw and heard on our winter hike. Did you notice how quiet the snow made everything? Snow absorbs sound waves — that's why a snowy forest sounds so peaceful."
 
 **Transition**:
-- "Our bodies got lots of exercise, so now we're going inside to warm up"
-- Remove wet layers immediately and change into dry clothes
-- Warm beverage and snack help regulate body temperature
+- "Our bodies got lots of exercise — our quadriceps, hip flexors, and core muscles all worked together to keep us moving and balanced in the snow"
+- Remove wet layers immediately and change into dry clothes — wet clothing conducts heat away from skin 25× faster than dry clothing
+- Warm beverage and snack help with thermoregulation (maintaining core body temperature)
 - Give 5-10 minutes of quiet time after activity
 
 ## Age Adaptations

@@ -6,13 +6,21 @@ Food styling and presentation transforms everyday eating into creative, sensory 
 
 ## Vocabulary
 
-**Presentation**: The way food is arranged and displayed on a plate to make it look appealing and beautiful. When you carefully place different foods to create an attractive appearance, you are creating a presentation that people enjoy looking at before tasting.
+**Pigment** (pig-ment): A chemical molecule that absorbs certain wavelengths of light and reflects others — what we see as color. Foods are colorful because of specific pigment molecules inside their cells. Say: "Strawberries are red because they contain a pigment — a special color molecule — that absorbs all colors except red, which bounces back into our eyes."
 
-**Palette**: The collection of colors used in a composition or artwork. A food palette might include reds from strawberries, oranges from carrots, and greens from vegetables—just like a painter's palette has many colors.
+**Anthocyanins** (an-tho-sy-ah-nins): A family of purple, blue, and red pigments found in blueberries, strawberries, red cabbage, and purple grapes. They are powerful antioxidants — molecules that protect your body's cells from damage. "The blue in blueberries comes from anthocyanin pigments — they protect the plant AND the person eating them!"
 
-**Aesthetic**: The appreciation and awareness of beauty and visual appeal in the things we create or observe. When you notice that colorful foods look more appealing, you are developing aesthetic awareness.
+**Carotenoids** (kah-rot-eh-noids): Orange and yellow pigments found in carrots, mangoes, sweet potatoes, and yellow bell peppers. The body converts beta-carotene (a type of carotenoid) into vitamin A, which is essential for vision and immune function. "Carrots are orange because of carotenoid pigments — and they help your eyes see in the dark!"
 
-**Arrangement**: The thoughtful placement and organization of items in a particular pattern or design. When you decide where each food should go on your plate, you are creating an arrangement.
+**Chlorophyll** (klor-oh-fill): The green pigment in all green vegetables — spinach, cucumber, broccoli, peas. Chlorophyll is the molecule that captures sunlight in plants to make food via photosynthesis. "Green foods are green because of chlorophyll — the same molecule that powers all plant life on Earth!"
+
+**Phytonutrients** (fy-toh-nyoo-tree-ents): Protective chemical compounds plants produce for their own defense. When we eat plants, these compounds benefit our health. Different colors = different phytonutrients. "Eating many colors means eating many different phytonutrients — that's why 'eat the rainbow' is real science, not just a catchy phrase!"
+
+**Contrast** (in design): The visual difference between adjacent elements — light vs. dark, bright vs. dull, smooth vs. rough. High contrast makes food more visually interesting. Professional food stylists use complementary colors (colors opposite each other on the color wheel, like orange and blue, or red and green) to maximize contrast. "We put red strawberries next to green cucumbers because they're complementary colors — they make each other look brighter!"
+
+**Oxidation** (ox-ih-day-shun): A chemical reaction between food and oxygen in the air. Cut apples turn brown, avocados darken — these are oxidation reactions. Lemon juice (citric acid) slows oxidation by blocking the chemical reaction. "When a banana goes brown, that's a chemical reaction called oxidation. Squeezing lemon juice on apples stops the browning — the acid slows the reaction!"
+
+**Texture** (in food science): The physical structure and surface properties of food determined by its cellular makeup. Crunchiness comes from rigid plant cell walls; softness comes from cells with high water content or broken-down cell walls (like cooked vegetables). "Carrots are crunchy because their cell walls are strong. Cooked carrots are soft because heat breaks down those same walls — same carrot, different chemistry!"
 
 ## 🎵 Learning Song
 
