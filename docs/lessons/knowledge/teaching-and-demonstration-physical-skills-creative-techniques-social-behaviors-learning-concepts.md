@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-Children learn to become teachers by demonstrating skills, showing how to do things, and explaining concepts to others—building confidence, communication skills, and deeper understanding of what they already know. Through guided practice, children experience the satisfaction of helping others learn, developing leadership qualities and reinforcing their own knowledge through the act of teaching.
+When children teach something to others, their own understanding gets stronger — this is called the **protégé effect**, and it is one of the most powerful discoveries in learning science. Explaining a skill forces the brain to reorganize knowledge, find the right words, and notice any gaps. Children who teach what they know are actually doing metacognition: thinking about their own thinking. This lesson gives children the experience of being the teacher — demonstrating physical skills, creative techniques, or familiar concepts — while caregivers introduce the real idea that teaching is one of the best ways to learn.
 
 ## Vocabulary
 
-**Demonstrate**: To show someone how to do something by doing it yourself, step by step, so they can learn and copy what you're doing.
+**Demonstrate**: To show someone how to do something by doing it yourself, step by step, so they can observe and copy — more precise than just telling, because they can see exactly what you mean.
 
-**Model**: To show an example of the correct way to do something; when you model behavior, you are showing others what to do.
+**Metacognition**: Thinking about your own thinking. When you have to explain something, your brain checks what it actually knows and finds the parts that are fuzzy or missing.
 
-**Technique**: A special way or method of doing something, often practiced to do it well—like a painting technique or a way of holding a pencil.
+**Protégé effect**: The scientific observation that teaching someone else makes *you* understand things better. Your brain works harder when it knows someone is relying on your explanation.
 
-**Instruct**: To teach or guide someone by explaining and showing them how to do something; when you instruct someone, you are being a teacher.
+**Technique**: A specific, practiced method of doing something — like a painter's brushstroke technique or the exact way you hold scissors. Techniques can be described in steps.
+
+**Scaffold**: In teaching, to scaffold means to give just enough support so someone can do something they couldn't do alone — then gradually remove the help as they get stronger.
 
 ## Learning Song
 
@@ -59,7 +61,7 @@ You can be a teacher too (8 syllables: You-can-be-a-teach-er-too)
 
 ### Activity Overview
 
-In this hands-on experience, your child becomes a teacher and demonstrates a simple skill or concept to you or another family member. They'll learn that teaching strengthens their own understanding, builds confidence, and helps others. This activity reverses the traditional role and helps children see themselves as capable and knowledgeable.
+In this hands-on experience, your child becomes the teacher and demonstrates a skill or concept to you or another family member. The key intellectual idea to introduce and return to: **teaching makes you learn better**. Researchers call this the protégé effect — when your brain knows it has to explain something clearly enough for someone else to understand, it processes the knowledge more deeply than when you're just doing the skill yourself. Caregivers should name this phenomenon matter-of-factly during the activity: "Did you know that teaching is actually one of the best ways to get better at something yourself? Scientists have studied this!"
 
 **Activity Type**: Role-play, demonstration, peer learning
 
@@ -91,47 +93,44 @@ In this hands-on experience, your child becomes a teacher and demonstrates a sim
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Say: "Today, you're the teacher! You get to show me something you know how to do."
-   - Explain what you'll be learning from them
-   - Optional: Make or give them a "teacher's badge" or special role marker
+   - Say: "Today, you're the teacher! Pick something you know how to do and teach me."
+   - Before they begin, introduce the science: "Did you know that when you teach someone else, your own brain actually gets better at it? It's called the protégé effect. Scientists discovered that explaining things out loud helps you understand them even more deeply."
    - Ask: "What will you teach me today?"
+   - Optional: Make a "teacher's badge" from paper as a prop
 
 2. **Demonstration** (5-8 min):
    - The child demonstrates their chosen skill while you watch carefully
-   - Encourage them to talk through what they're doing ("Now I stack this one on top...")
-   - Ask clarifying questions that help them explain better ("Why did you stack the big one first?")
-   - Take your time and let them lead the process
-   - Celebrate their choices: "I see how you're doing that! You're being such a great teacher!"
+   - Encourage them to narrate what they're doing: "Now I stack this one on top..."
+   - Ask questions that push them to articulate their reasoning: "Why did you put the big block first? What would happen if I put the small one there?"
+   - When they pause or struggle to explain, say: "This is the hard part of teaching — finding the right words. That's what makes your brain work harder."
+   - Notice moments when explaining reveals something they hadn't consciously noticed: "Oh interesting — you had to think about *why* you do it that way. That's metacognition!"
 
 3. **Practice/Learning** (3-5 min):
-   - You (or another student) attempt to do what they taught you
-   - Deliberately make small mistakes or ask questions to give them the chance to correct and guide you
-   - This shows them that teaching requires patience and clear explanations
-   - Praise their ability to help you learn: "You explained that so well! Now I understand!"
+   - You (or another "student") attempt what they taught
+   - Make deliberate small errors and let them correct you — this is where scaffolding happens
+   - Name the support they're giving: "You're scaffolding me — giving me just enough help to figure it out myself."
+   - Ask: "How do you know if I understood? What would you check?"
 
 4. **Wrap-up** (2-3 min):
-   - Celebrate their success as a teacher
-   - Reflect on what they taught you: "You taught me how to build a tower by stacking big blocks first!"
-   - Ask: "Did you like being the teacher? What was your favorite part?"
-   - Transition to another activity or rest time
+   - Reflect with them: "Did you notice anything you had to figure out while you were explaining it? That's the protégé effect working on your brain."
+   - Ask: "Is there anything you understand better now that you taught it?"
+   - Connect to the real world: "This is why teachers often say they learn the most from teaching."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep the skill very simple (drawing a line, stacking two blocks, clapping hands)
-- Don't expect detailed explanations—simple actions and short words are fine
-- Model the listener's role heavily: "Wow, look what you did! You're showing me!"
-- Focus on the experience of "teaching" rather than clear instruction
-- Use a patient, enthusiastic tone to build confidence
-- Can demonstrate to a stuffed animal or doll if they're shy with people
+- Keep the skill very simple (stacking two blocks, drawing a circle, clapping a rhythm)
+- Don't expect verbal explanations — body demonstration counts as teaching; the act of showing is itself a form of communication
+- After they demonstrate, reflect it back: "You showed me to put the big block first — you're teaching me the technique!"
+- Use words like "demonstrate" and "technique" naturally even if they can't define them yet
+- Teaching a stuffed animal or doll is a valid and productive version — the narration practice is the same
 
 **3-4+ years**:
-- Choose a slightly more complex skill (building a three-block tower, drawing a simple shape, doing a series of movements)
-- Encourage them to explain their steps: "Tell me what you're doing" and "Why did you choose that?"
-- Ask them to correct you when you make intentional mistakes
-- Invite them to teach a younger sibling or friend
-- Encourage them to slow down and repeat steps if needed
-- Ask follow-up questions: "What happens if we do it this way instead?"
+- Choose more complex skills: a 3-step process, a drawing with multiple shapes, a dance with a sequence
+- Push for verbal explanation: "Tell me what you're doing" and "Why did you do it that way?"
+- Ask them to correct you when you make intentional mistakes — this engages them as a monitor of their own knowledge
+- Introduce "metacognition" as a word: "You're thinking about your thinking right now — that's called metacognition"
+- Ask: "Is there anything you had to figure out to explain it to me that you hadn't thought about before?"
 
 ### Extension Ideas
 

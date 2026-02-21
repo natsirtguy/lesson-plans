@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Cheerleading and acrobatic movements introduce young children to the joy of coordinated body movement, rhythm, and playful tumbling activities. These movements build confidence, body awareness, and gross motor skills through fun, energetic play that incorporates clapping, jumping, balancing, and gentle tumbling. This activity develops strength, coordination, and self-expression while celebrating the excitement of movement and performance.
+Cheerleading and acrobatic movements introduce children to coordinated body movement, rhythm, and the real physics of balance and tumbling. When a gymnast tucks their body into a tight ball to roll, they're manipulating their **center of gravity** — the point where their body's weight is balanced. Tucking brings the body's mass closer to the axis of rotation, making the roll faster and more controlled, just like a figure skater pulling their arms in to spin faster. When children balance on one leg, they're training their **vestibular system** (the balance organ in the inner ear) and **proprioception** (the sense of where your body is in space). These are real physical concepts that can be named during the activity. Cheerleading adds rhythm, synchronization, and performance elements — the call-and-response structure of traditional cheers is a form of verbal coordination that develops timing and pattern recognition.
 
 **Activity Type**: Performance Arts / Gross Motor Play
 
@@ -95,15 +95,15 @@ Cheerleading and acrobatic movements introduce young children to the joy of coor
 
 3. **Locomotion with energy** - Energetic walking, skipping, galloping, and bouncing. Each movement should feel big and confident.
 
-4. **Gentle tumbling foundation** - Back rolling with adult support (child lies on back, rolls gently side to side), forward crawling with tumble (hands and feet forward in creeping motion with gentle forward roll assistance), and balance on one leg for counts.
+4. **Gentle tumbling foundation** - Back rolling with adult support (child lies on back, rolls gently side to side). Introduce the tuck position: hug your knees to your chest. Explain: "When you make yourself into a ball — a tuck — you can roll more smoothly. Gymnasts use this to do somersaults!" Balance on one leg for counts: "Your inner ear has tiny hairs that detect which way gravity is pulling you — that's how you know when you're wobbling."
 
 **Coaching cues**:
 - "Clap with power! Stomp with strength!"
 - "Arms like a star reaching to the sky!"
-- "Big bouncy steps like a spring!"
-- "We're strong and brave!"
+- "Tuck your knees to your chest — make yourself into a ball"
+- "Your center of gravity is the middle of your body — keep it over your feet when you balance"
+- "Feel your inner ear working? That's your vestibular system telling you which way is up"
 - "Gentle tumbles, soft landings!"
-- "Keep your eyes on me!"
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -235,7 +235,7 @@ Observe and encourage: "I love the way you're bouncing!" "Your arms are making w
 
 **Challenge**: Child gets dizzy or loses balance during spinning movements
 
-**Why**: Vestibular system (balance) is still developing in early years. Inner ear is sensitive to rotation.
+**Why**: The vestibular system (the balance organ in the inner ear) is still developing in early years. Tiny fluid-filled canals in the inner ear detect rotational movement, and in young children these signals can take longer to settle, leading to prolonged dizziness.
 
 **Solution**:
 - Minimize spinning activities

@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-In this lesson, children learn that communities work together to care for shared spaces through gardening and clean-up activities. Young learners will explore soil, plant seeds, water plants, and participate in simple outdoor clean-up tasks—developing environmental awareness, responsibility, and understanding of collaboration while building fine and gross motor skills.
+In this lesson, children plant seeds and care for a garden space while learning the real biology of what happens underground. A seed isn't just a future plant — it's an embryo packed with stored food (called the **endosperm**), waiting for water and warmth to trigger **germination**. When a seed absorbs water, its cells begin to divide and it pushes a tiny root (the **radicle**) downward and a shoot upward toward light. The dark, crumbly soil in a healthy garden is a living ecosystem full of bacteria, fungi, and decomposers like earthworms that break down dead organic matter into nutrients plants can absorb — this process is called **decomposition**, and it's what makes compost so valuable. Children who understand that soil is alive, that seeds contain their own first food supply, and that decomposition is how nutrients cycle through ecosystems are learning real biology, not just "plants like water."
 
 ## Vocabulary
 
-**Community**: A group of people living or working together in the same area. When families plant a garden together or pick up trash in a neighborhood park, they are caring for their community.
+**Germination**: The process by which a seed begins to grow. When a seed absorbs water, its embryo wakes up and starts dividing cells — first pushing a tiny root (called the radicle) downward, then a shoot upward toward light.
 
-**Cultivate**: To grow something by taking care of it. When you plant seeds and water them every day so they become healthy plants, you are cultivating a garden.
+**Decomposition**: The process by which dead organic matter (food scraps, leaves, dead plants) is broken down by bacteria, fungi, and invertebrates like earthworms into simpler nutrients. This is how nutrients cycle back into the soil for new plants to use.
 
-**Compost**: Organic materials like food scraps, leaves, and grass clippings that break down into rich, dark soil for growing plants. You can create compost to feed your garden and help plants grow strong.
+**Compost**: Decomposed organic material — food scraps, leaves, and grass clippings broken down by microorganisms over weeks or months into dark, nutrient-rich material. Adding compost to soil feeds plants by returning nutrients to the earth. Compost is decomposition you can hold in your hands.
 
-**Stewardship**: The responsibility to care for and protect something. When you take care of a garden or clean up trash in a park, you show stewardship for nature and your community.
+**Cultivate**: To grow something by actively tending to it — watering, weeding, adding nutrients, and removing competing plants. Cultivation is what separates a garden from wild growth.
+
+**Stewardship**: The responsibility to care for something that belongs to everyone. When you tend a shared garden or clean up a community space, you practice stewardship — protecting something for current and future users.
 
 ## Learning Song
 
@@ -101,7 +103,7 @@ Children will participate in hands-on gardening and outdoor clean-up by planting
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather children and show them the soil, seeds, and containers. Say: "Today we're going to plant seeds together, just like gardeners do. Our seeds need soil, water, and sunlight to grow. We're going to help them grow!" Pass around a seed so each child can hold it and examine it closely.
+   Pass a seed around so each child can examine it closely. Say: "This seed looks dry and hard — but there's a tiny living plant inside, called an embryo, plus a supply of food packed around it to feed it when it first starts growing. It's like a lunchbox for a baby plant. When we give it water and warmth, it will wake up — that's called germination." Let them feel the soil: "Smell this soil. It's dark because it's full of organic matter — the remains of old leaves and organisms that decomposed. This is what feeds plants." If you have compost, show it alongside regular soil for comparison.
 
 2. **Exploration** (10-12 min):
 
@@ -123,7 +125,7 @@ Children will participate in hands-on gardening and outdoor clean-up by planting
    - Explain: "We're helping keep our garden and outdoor space clean and safe"
 
 3. **Discovery** (3-4 min):
-   Point out observations: "Do you see how dark the soil is? That's because it's full of food for plants. The seeds will stay under the soil where it's warm and dark until they're ready to grow. Let's watch for sprouts next week!" Ask questions: "What do you think the seed needs to grow? What did you find during clean-up? How does it feel to help?"
+   Point out observations and connect to the science: "The seed is underground now — warm and moist. The water will trigger germination. First a tiny root will push down, then a shoot will push up toward the light. That root is called the radicle — it's the seed's very first part to emerge." Ask: "Why do you think the root goes down and the shoot goes up?" (Plants can sense gravity and light — roots grow toward gravity; shoots grow toward light.) If you find earthworms in the soil, celebrate them: "Earthworms are decomposers — they eat dead organic matter and their waste becomes nutrients for the plants. They're some of the most important animals in a garden."
 
 4. **Wrap-up** (2-3 min):
    Gather the group and celebrate their work: "You planted seeds and helped clean up our space. That's what communities do—we work together to care for our neighborhood. Your plants will grow because of the hard work you did today!" Take a photo of the children with their planted containers or the items they collected.

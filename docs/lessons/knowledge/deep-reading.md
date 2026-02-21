@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-Deep reading for young children means exploring a single picture book slowly and attentively, noticing details in illustrations, wondering about characters' feelings, and returning to the same story multiple times to discover something new each time. This lesson teaches children that reading is about savoring a story rather than rushing through it, and that every picture holds secrets waiting to be found.
+Deep reading is the practice of reading slowly enough to make inferences, notice visual narrative, and find meaning beneath the surface of a text. In picture books, two stories are always happening simultaneously: the story told by the words and the story told by the illustrations — and a skilled illustrator will often show things in pictures that the words never say. Even toddlers can be taught to read both stories at once: "What does the author say? And what is the illustrator showing us that the author didn't say?" This lesson builds the foundational literacy skill of inference — drawing conclusions from evidence — while developing the habit of slow, attentive, curious reading that is the basis of strong comprehension at every level.
 
 ## Vocabulary
 
-**Attentive**: Paying close and careful attention to something. When you read attentively, you notice little details like the bird hiding in the corner of the picture or the smile on the character's face.
+**Inference**: Reading "between the lines" — understanding something the text doesn't say out loud by putting clues together. If a picture shows a character walking slowly with drooped shoulders, you can infer they're sad, even if the words never say "sad." Making inferences is one of the most important skills in reading.
 
-**Illustrate**: To create pictures that tell a story or show what's happening. An illustrator is the artist who draws the beautiful pictures in your book.
+**Visual narrative**: The story told through illustrations alone, separately from the words. In a picture book, the illustrations often show details, emotions, and even subplot events that the words never mention. A skilled reader watches both stories at once.
 
-**Curious**: Wanting to know more and wondering about things. Being curious means asking questions like "Why is the character sad?" or "What do you think happens next?"
+**Illustrator**: The artist who creates the visual narrative in a picture book. The illustrator makes choices about color, angle, and detail to communicate emotions and meaning — often including things that don't appear in the author's words at all.
 
-**Pattern**: Something that repeats over and over in a predictable way. A pattern in a story might be the same words that come back again and again, or the same colors appearing throughout the pictures.
+**Subtext**: The meaning underneath the surface of the story — what the author or illustrator is communicating without saying it directly. Young children can begin to notice subtext: "The illustrator painted the room dark when the character was scared. Why do you think they chose dark colors?"
+
+**Pattern**: Something that repeats in a predictable way. A pattern in a story might be the same repeated phrase, a color that appears whenever a character appears, or a shape that changes throughout the book. Noticing patterns is a form of close reading.
 
 ## Learning Song
 
@@ -119,13 +121,16 @@ The child will select a favorite picture book and explore it together with you o
 
    Begin reading, but pause frequently—not to quiz, but to linger. Slow your voice. Enjoy the language.
 
-   Use pauses to invite observation:
-   - "Look at the color of this page. How does that color make you feel?"
-   - "What's the character doing with their hands?"
-   - "Can you find the small thing hiding in the corner?"
-   - "Listen to how this word sounds: 'flutter.' Say it with me."
+   Use pauses to invite both text reading and visual narrative reading:
+   - "The words say [X]. What is the illustrator showing us that the words didn't say?"
+   - "Look at the character's face. What do you think they're feeling? How can you tell?"
+   - "Can you find something hiding in the corner that doesn't appear in the words?"
+   - "Listen to how this word sounds: 'flutter.' Say it with me. Why do you think the author chose that word instead of 'fly'?"
+   - "What color did the illustrator use here? Why do you think they chose that color?"
 
-   Let the child hold the book and turn pages if they'd like. There's no wrong way to explore it.
+   Name the skill when they use it: "You made an inference just now — you figured out the character was nervous by looking at the picture, even though the words didn't say it. That's one of the most important reading skills there is."
+
+   Let the child hold the book and turn pages if they'd like.
 
 3. **Discovery & Connection** (5-8 min):
 
