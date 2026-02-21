@@ -1,8 +1,33 @@
 # PHYSICAL ACTIVITY: Curling and Precision Ice Sports
 
+## Vocabulary
+
+**Friction**: The force that slows down movement when two surfaces rub against each other. Ice has very low friction — that's why stones (and people!) slide so easily on it. Friction is what eventually stops the stone. Sweeping works by reducing friction: the broom's heat slightly melts the ice surface, creating a thin film of water that makes the stone slide farther.
+
+**Curling (the curl)**: A curling stone doesn't just go straight — it curves (curls) to one side as it travels. This happens because of rotation: the stone spins as it's released, and the leading edge of the spinning stone has more friction than the trailing edge, causing it to curve. This is related to physics principles seen in spinning tops and gyroscopes.
+
+**Momentum**: The tendency of a moving object to keep moving. A heavier stone has more momentum than a lighter one. Momentum = mass × velocity. When the stone is released, all the energy the thrower puts into it becomes the stone's momentum — and friction gradually removes that momentum until the stone stops.
+
+**Proprioception**: The body's internal sense of position and movement — your muscles and joints constantly send signals to your brain telling it exactly where your limbs are. Curling requires excellent proprioception: you must know precisely where your hand, arm, and body are to release the stone in a controlled, consistent way. Sometimes called the "sixth sense."
+
+**Balance and center of gravity**: Your center of gravity is the point in your body where your weight is evenly distributed. On ice, maintaining your center of gravity over your sliding foot requires active muscle work. If your center of gravity shifts too far, you fall.
+
+**Kinesthetic learning**: Learning a physical skill through doing it repeatedly — not just watching. Your brain builds "motor programs" (sequences of muscle activations stored in the cerebellum) each time you practice. This is why curling delivery feels awkward at first but gradually becomes smoother.
+
+**Muscles used in curling delivery**:
+- **Quadriceps** (front of thigh): Control the lunge and slide-out, bearing most of your body weight as you crouch low
+- **Gluteus maximus** (buttocks): Power the push forward and stabilize the hips during the delivery lunge
+- **Deltoids** (shoulders) and **triceps** (back of upper arm): Push and guide the stone forward during release
+- **Core muscles** (abdominals, obliques, erector spinae): Stabilize the torso throughout the delivery slide so the arm can move precisely
+
+**Muscles used in sweeping**:
+- **Latissimus dorsi** ("lats," back): Drive the downward sweeping stroke
+- **Biceps and forearms**: Control the broom handle and generate sweeping force
+- **Quadriceps and glutes**: Keep the sweeper moving alongside the stone without falling on ice
+
 ## Activity Summary
 
-Curling introduces children to ice-based strategy games, precision movement, and teamwork through sliding stones across ice. This activity develops gross motor skills, balance, focus, spatial reasoning, and cooperative play as children learn to aim and control movement carefully. Curling is a unique sport that combines physical skill with strategic thinking, building both athletic ability and problem-solving skills in a fun, accessible format.
+Curling introduces children to ice-based strategy games, precision movement, and teamwork through sliding stones across ice. This is also a lesson in physics: friction, momentum, and the science of why stones curl (rotation-induced lateral drift). It develops gross motor skills, balance, proprioception, focus, spatial reasoning, and cooperative play. Curling is a unique sport that combines physical execution with strategic thinking — you must plan where to place each stone while executing a technically precise delivery.
 
 **Activity Type**: Team sport / Strategic game
 
@@ -84,15 +109,15 @@ Curling introduces children to ice-based strategy games, precision movement, and
 2. Arm circles - prepare for sweeping motions
 3. Sliding/gliding practice - feel smooth movement across ice
 
-**Warm-up cues**: "Let's march around and feel the ice under our feet! Now let's swing our arms like we're about to sweep! Good - we're getting ready for curling!"
+**Warm-up cues**: "Let's march around and feel the ice under our feet — notice how it's slippery? That's because ice has very low friction! Now let's swing our arms like we're about to sweep — we're waking up our deltoid muscles in our shoulders! Good — we're getting ready for curling!"
 
 ### Main Activity (15-25 minutes)
 
 #### Introduction & Demonstration (2-3 minutes)
-- Show the curling stone and explain it slides on ice
-- Demonstrate the release motion - smooth pushing motion rather than throwing
-- Show sweeping motion and explain it helps stone go farther or straighter
-- Key coaching point: "Curling is about control and teamwork - we're going to slide stones and try to reach our target!"
+- Show the curling stone and explain it slides on ice because of low friction: "Ice is very slippery — there's almost no friction between the stone and the ice. Friction is the force that slows things down. Less friction = slides farther!"
+- Demonstrate the release motion — smooth pushing motion with a slight rotation: "Watch how I give it a little spin as I let go. That spin is what makes the stone curve — we call that the curl!"
+- Show sweeping motion and explain the physics: "When we sweep, the broom gets warm from rubbing, and that tiny bit of warmth melts the surface of the ice just a little — less friction means the stone slides farther and straighter!"
+- Key coaching point: "Curling is about control, physics, and teamwork — we're going to slide stones and use momentum and friction to reach our target!"
 
 #### Skill Practice (5-10 minutes)
 **Skill breakdown**:
@@ -101,9 +126,10 @@ Curling introduces children to ice-based strategy games, precision movement, and
 - **Sweeping motion**: Practice broom technique using sweeping motion without stone; develop rhythm
 
 **Coaching cues**:
-- "Stand sideways with your feet ready - you're about to make a smooth push!"
-- "Push gently and smoothly - like you're sliding a plate across a table!"
-- "Sweep in small circles - you're helping the stone go where we want!"
+- "Bend your knees and crouch down — your quadriceps muscles in the front of your thighs are working hard to hold that position!"
+- "Push gently and smoothly with your arm — your deltoid and tricep muscles are guiding the stone. Give it a little twist as you let go to make it curl!"
+- "Keep your tummy muscles tight — your core is keeping you balanced so your arm can be accurate. That's your proprioception working!"
+- "Sweep hard and fast! Your latissimus dorsi muscles in your back are powering each stroke — you're actually melting the ice a tiny bit to reduce friction!"
 
 #### Guided Play/Game (8-12 minutes)
 **Game structure**:
@@ -139,10 +165,11 @@ Allow child to practice movements and release independently with supervision
 
 **Cool-down activities**:
 1. Slow walking on ice - gentle movement
-2. Arm stretches - muscles worked in pushing and sweeping
-3. Deep breathing - calm nervous system
+2. Arm stretches — target the deltoids (reach across chest), triceps (reach behind head), and latissimus dorsi (reach overhead and lean sideways) — name each muscle as you stretch it
+3. Quad stretch — hold one foot behind you and feel the front of your thigh (quadriceps) lengthening
+4. Deep breathing — calm the nervous system
 
-**Transition**: Exit ice, change into warm dry clothes, have warm drink, discuss favorite moments from activity
+**Transition**: Exit ice, change into warm dry clothes, have warm drink. Discuss: "What did we learn about friction today? Why does sweeping help the stone?"
 
 ## Age Adaptations
 

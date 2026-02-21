@@ -6,13 +6,21 @@ Children discover, analyze, and create patterns through physical rhythms, creati
 
 ## Vocabulary
 
-**Repetition**: The act of doing something over and over again in the same way. When you clap-clap-rest-clap-clap-rest, you're repeating that pattern. Repetition helps us notice and remember the pattern.
+**Pattern**: A structure that repeats according to a rule. Mathematicians define a pattern as any sequence where there is a predictable rule for what comes next. Patterns are one of the most fundamental concepts in mathematics — algebra, functions, and even calculus are ultimately about analyzing patterns.
 
-**Rhythm**: A pattern of sounds or movements that repeat in a predictable way. A heartbeat has a rhythm: boom-boom, boom-boom. Music and dance also have rhythm that we can feel and follow.
+**Periodicity**: The property of repeating at regular intervals. A pattern is periodic if there is a fixed "period" — the smallest repeating unit. In the pattern ABABAB, the period is AB (length 2). In music, the beat is periodic: it repeats at equal time intervals. The Earth's orbit around the sun is periodic (365.25 days). Mathematicians use the term "period" for the length of the smallest repeating unit.
 
-**Sequence**: A group of things arranged in a specific order that happens one after another. If you jump-spin-clap, that's a sequence. The order matters—if you change it, you have a different sequence.
+**Motif (or repeating unit)**: The core element that gets repeated in a pattern. In ABCABCABC, the motif is ABC. Identifying the motif is the key skill in pattern analysis — once you find it, you can extend or continue any pattern. In textile design, weaving, and architecture, the "motif" is the basic repeating shape.
 
-**Predict**: To figure out what will happen next based on what you've already seen or observed. When you recognize a pattern, you can predict what comes next. If the pattern is red-blue-red-blue, you can predict the next one is red.
+**Symmetry**: A pattern property where one part mirrors, matches, or maps onto another. There are three main types: reflective symmetry (a mirror image — a butterfly's wings), rotational symmetry (rotate 90° and it looks the same — a pinwheel), and translational symmetry (slide a pattern and it lines up — floor tiles). Nature is filled with symmetry: starfish have 5-fold rotational symmetry, snowflakes have 6-fold rotational symmetry.
+
+**Fibonacci sequence**: The number pattern 1, 1, 2, 3, 5, 8, 13, 21… where each number is the sum of the two before it. This specific sequence appears in nature with striking regularity: sunflower seeds spiral in 34 and 55 spirals, pinecone scales arrange in 5 and 8 spirals, and many flowers have a Fibonacci number of petals. It's one of nature's favorite patterns.
+
+**Fractal**: A pattern that repeats at different scales — zoom in on part of it and it looks like the whole. A tree is fractal: big branches split into smaller branches that split into smaller branches. A coastline is fractal. Snowflakes have fractal structure. Fractals arise when the same rule is applied repeatedly — a natural pattern-making engine.
+
+**Algorithm**: A set of rules applied in sequence to produce a result. Creating a pattern is a simple algorithm: "Start with A, then B, then go back to A." Computer programs, recipes, and dance choreography are all algorithms. Pattern recognition is essentially finding the algorithm the pattern is using.
+
+**Prediction**: Using a recognized pattern to forecast what comes next. Prediction is what makes patterns scientifically useful: once you identify the rule, you can extend it. If you know the period and current position, you can predict any future element — this is the basis of science (finding patterns in data to predict outcomes) and mathematics (defining functions as rules that produce predictable outputs).
 
 ## 🎵 Learning Song
 
@@ -97,37 +105,37 @@ Children explore patterns through three main experiences: creating rhythmic patt
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Start with your own body to show what a pattern is. Clap a simple rhythm (clap-clap, rest, clap-clap, rest) and invite the child to listen and watch. Say: "I'm making a pattern! Listen: clap-clap, quiet, clap-clap, quiet. It happens the same way again and again." Show the pattern with your hands a few more times. Ask gently, "Can you do what I did?" without pressure—this is about observation and play, not perfection.
+   Start with your own body to show what a pattern is. Clap a simple rhythm (clap-clap, rest, clap-clap, rest) and invite the child to listen and watch. Say: "I'm making a pattern! The motif — the part that repeats — is clap-clap-rest. Mathematicians call the repeating unit the *motif*. Once you know the motif, you can predict everything!" Show the pattern with your hands a few more times. Ask gently, "What comes next?" Then explain: "You could predict it because you found the rule!"
 
 2. **Exploration** (5-7 minutes):
-   Invite the child to freely explore making patterns with their body and objects. Let them walk, jump, clap, or move as they wish. Watch for any natural repetition in their movements or sounds. When you notice patterns, point them out: "I see you're clapping fast, fast, fast... fast, fast, fast!" Observe which materials engage them most and celebrate any attempts at repetition.
+   Invite the child to freely explore making patterns. When you notice patterns, name them with mathematical precision: "I see you're doing fast-fast-slow, fast-fast-slow. Mathematicians would write this as AAB, AAB — A is fast, B is slow. The motif is AAB!" Watch for variety in their patterns and name the structure: AB patterns (red-blue), AAB patterns (stomp-stomp-clap), ABC patterns (jump-spin-wave). Point out: "All patterns have a rule — and once you know the rule, you can predict forever."
 
 3. **Guided Creation** (5-10 minutes):
-   Introduce simple pattern-making through demonstration and play.
+   Introduce different types of patterns with their real mathematical names.
 
-   **Physical patterns**: Demonstrate a body pattern like stomp-stomp-clap, stomp-stomp-clap (repeat 4-5 times clearly). Invite the child to try with you: "Now YOU try this pattern with me!" Do it together 3-4 times. Try variations: clap-clap-stomp, snap-snap-clap, or slow-slow-fast. Use familiar songs with added movements.
+   **Physical rhythm patterns (periodic sequences)**: Demonstrate a body pattern like stomp-stomp-clap, stomp-stomp-clap. "The period of this pattern is 3 — the motif is stomp-stomp-clap, and it repeats every 3 moves." Try an AAB pattern (stomp-stomp-clap) vs. an ABAB pattern (stomp-clap-stomp-clap). "These are different rules — different algorithms. See how the rule changes what you get?"
 
-   **Visual patterns**: Show a simple pattern made with blocks (red-blue-red-blue or tall-short-tall-short). Say: "This pattern repeats—red then blue, then red then blue again." Build it in front of the child while narrating. Invite them to continue: "What color should go here?" Let them create their own pattern with different materials.
+   **Visual patterns (symmetry and tessellation)**: Show a simple pattern made with blocks (red-blue-red-blue). "This is an AB pattern — the motif is just two things. But look at this!" Arrange blocks in a mirror: "This is symmetry — each side mirrors the other. Your face has symmetry too — your left eye mirrors your right." Show a pinwheel: "And this is rotational symmetry — spin it and it looks the same." Try arranging squares to tile the floor: "When shapes fit together with no gaps, that's called tessellation — it's what floor tiles do."
 
-   **Social sequences**: Create a simple movement sequence like jump-spin-wave, and repeat it together. Try call-and-response: you clap a pattern, the child echoes it.
+   **Nature patterns (Fibonacci and fractals)**: If you have a pinecone or sunflower: count the spirals going one direction, then the other. "These numbers — 5 and 8, or 8 and 13 — are Fibonacci numbers! Each one is the sum of the two before. Nature 'uses' this pattern because it's the most efficient way to pack seeds." Look at a fern or tree: "See how the big branch splits into smaller branches that look just like the big branch? That's called a fractal — the same pattern at every scale."
 
-   **Questions to ask**: "What comes next?" "Can you make the same pattern again?" "What pattern could we make together?" "Does this repeat?"
+   **Questions to ask**: "What's the motif?" "What's the rule?" "Can you predict what comes next?" "What type of pattern is this — AB, AAB, or something else?"
 
 4. **Free Exploration** (remaining time):
-   Set out materials and let the child choose what interests them most. Provide gentle prompts if interest wanes: "I wonder what pattern you could make with these?" Create patterns alongside them sometimes, copying their patterns to show you recognize them. Celebrate discoveries with genuine enthusiasm: "You found a pattern! Clap-rest-clap-rest!" Allow patterns to be simple or complex—all are valid creations.
+   Set out materials and let the child choose what interests them most. Provide gentle prompts: "Can you make a pattern with a motif of 3?" or "Can you find a pattern with symmetry?" When they create patterns, name the structure: "That's an AABB pattern — two reds, then two blues." Encourage them to create a "pattern puzzle" — make a pattern with one element missing and see if you can figure out what goes there.
 
 5. **Wrap-Up** (2-3 minutes):
-   Signal gently that you're finishing soon. Ask for one final pattern: "Can you show me your favorite pattern one more time?" Acknowledge what you noticed: "You made so many patterns today—with your body, with sounds, and with blocks!" Ask a reflection question: "What was your favorite pattern we made together?"
+   Signal gently that you're finishing soon. Ask for one final pattern and help them identify the motif. Acknowledge: "You made patterns today — with your body, with sounds, and with objects! The rule you used to make each one is called an algorithm. Computers use algorithms all day long to make patterns."
 
-   Make cleanup part of the pattern experience: "Let's put blocks away in a pattern—one in the basket, one in the basket." Count while collecting to show that numbers themselves are a pattern. Sing while tidying to maintain the playful, rhythmic feeling.
+   Make cleanup part of the pattern experience: "Let's put blocks away in an AB pattern — one in the basket, two in the box." Count while collecting: "1, 2, 3, 4, 5... numbers are the most famous pattern of all — each one is exactly one more than the last. That's called the counting sequence!"
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep patterns very short (2 elements only), concrete, and body-based. Focus primarily on physical patterns like clapping or stomping. Use simple 2-part patterns: clap-rest, clap-rest or up-down, up-down. Keep verbal explanations minimal and show patterns through doing. Provide many repetitions of the same pattern rather than introducing new ones. Accept natural variation—exact replication is not developmentally expected. Connect patterns to familiar songs and movements. Offer concrete objects to move rather than abstract block arrangements. Duration should be 15-20 minutes with shorter attention spans. Provide high adult support with repeated modeling, physical guidance if needed, and lots of encouragement.
+Keep patterns very short (2 elements, AB only) and body-based. Focus on clap-rest or stomp-clap. Even so, name the motif: "The repeating part — the motif — is stomp-clap. There it is again — stomp-clap!" Name the pattern type: "This is an AB pattern." Point to symmetry in everyday things: "Your hands are symmetrical — they mirror each other!" Show a pinecone or sunflower and count spirals together — the actual Fibonacci numbers are what you're counting, even if the child can't understand the sequence yet. Say "Fibonacci" alongside "spiral" — the word is worth hearing. Duration: 15-20 minutes.
 
 **3-4+ years**:
-Introduce 3-4 part patterns like clap-stomp-clap-rest or red-blue-yellow-red. Encourage children to create patterns and teach YOU their pattern. Ask predictive questions: "What comes next?" and let them anticipate. Combine pattern types (movement while singing). Create visual patterns with blocks and ask children to copy, extend, or modify them. Introduce pattern variations: "We did fast-fast-slow. What if we do slow-slow-fast?" Challenge them to find patterns in nature, clothing, or surroundings. Use visual pattern cards or online games. Encourage planning: "What pattern will you make today?" Duration can extend to 25-30 minutes as sustained interest increases.
+Introduce 3-part motifs (AAB, ABB, ABC). Use pattern notation: write "A B A B" on paper and point to each element. Ask the child to identify the motif in a new pattern before you tell them. Introduce all three symmetry types with their names: reflective, rotational, translational — demonstrate each with a physical example. Show fractal structure in a fern, broccoli, or tree: "Same shape at every zoom level — that's a fractal." Count Fibonacci spirals in a sunflower (5 and 8 going different directions). Ask: "Can you make a pattern with a motif of length 4?" Introduce the idea that a rule (algorithm) generates the pattern — if you know the rule, you can continue forever. Duration: 25-30 minutes.
 
 ### Extension Ideas
 
@@ -137,7 +145,7 @@ Create patterns that serve a practical function—a pattern for taking turns, a 
 
 **Variation 2: Nature Pattern Hunt**
 
-Take pattern exploration outdoors. Look for patterns in tree bark, flower arrangements, leaves on stems, fence boards, tiles, clouds, or water ripples. Photograph or draw patterns found in nature and recreate them indoors.
+Take pattern exploration outdoors with real targets: count the spirals on a pinecone (they go 5 one way, 8 the other — Fibonacci numbers), find reflective symmetry in leaves and flowers (most have bilateral symmetry), find rotational symmetry in flowers (roses have 5-fold, daisies have many-fold), look for fractal structure in tree branches and ferns (same branching pattern at every scale). These aren't metaphors — these are the actual mathematical structures that appear in nature, and children can observe and count them directly.
 
 **Variation 3: Thematic Patterns**
 
