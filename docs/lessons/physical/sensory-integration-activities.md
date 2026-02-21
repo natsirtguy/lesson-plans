@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Sensory integration activities combine movement with multi-sensory experiences to help young children develop body awareness, coordination, and motor skills while engaging their senses. These activities use tactile, vestibular (balance and movement), and proprioceptive (body position) input to support developmental growth. This type of play is essential for building neural connections and helping children understand how their body moves through space.
+Sensory integration activities combine movement with multi-sensory experiences to help young children develop body awareness, coordination, and motor skills. The nervous system is constantly receiving information from multiple sensory channels simultaneously — touch (tactile), balance (vestibular), body position (proprioceptive), sight, sound, and smell — and the brain must integrate all of these streams into a coherent picture of the body in space. This process, called sensory integration, is actively developing in early childhood. The vestibular system, located in the inner ear, detects movement and gravity through fluid-filled semicircular canals (which sense rotation) and otolith organs (which sense linear acceleration and tilt). Proprioception comes from mechanoreceptors embedded in muscles, tendons, and joints that continuously report body position to the brain. When children spin, crawl, balance, or push through resistance, they are building the neural pathways that enable coordinated, controlled movement throughout life.
 
 **Activity Type**: Motor skill development
 
@@ -77,23 +77,23 @@ Sensory integration activities combine movement with multi-sensory experiences t
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- "Today we're going to have an adventure with our senses! We'll touch different things, move in different ways, and pay attention to how our bodies feel."
-- Demonstrate touching your own hands: "Feel my hands with my fingers - smooth or rough? Let me feel your hand too. Soft, right?"
-- Key coaching point: "There's no right or wrong way to explore. I want you to notice how things feel and how your body moves."
+- "Today we're going to use our body's sensors — your skin feels textures, your inner ear senses balance and spinning, and your muscles and joints tell your brain where your arms and legs are. Your brain puts all that information together to help you move!"
+- Demonstrate touching your own hands: "Feel my hands with my fingers — smooth or rough? That information travels along nerves to your brain. Your brain figures out what you're touching."
+- Key coaching point: "These body sensors are called your vestibular system (in your inner ear — it detects balance), your proprioceptors (in your muscles and joints — they detect position), and your tactile receptors (in your skin — they detect touch). Today we're going to give all of them a workout."
 
 #### Skill Practice (3-6 minutes)
 
 **Skill breakdown**:
-- Tactile awareness: Identifying different textures through touch (smooth, rough, squishy, soft)
-- Proprioceptive awareness: Understanding where body parts are in space and how they move
-- Vestibular awareness: Experiencing balance and movement through space
-- Bilateral coordination: Using both sides of body together in sensory exploration
+- **Tactile awareness**: Specialized skin receptors (mechanoreceptors) respond to pressure, texture, and temperature; identifying different textures (smooth, rough, squishy, soft) trains these receptors and improves discrimination
+- **Proprioceptive awareness**: Muscle spindles and Golgi tendon organs send continuous signals about muscle length and tension; "heavy work" (pushing, pulling, carrying) provides strong proprioceptive input that is often calming to the nervous system
+- **Vestibular awareness**: Fluid movement in the semicircular canals of the inner ear signals rotation; the otolith organs signal gravity and linear movement; balance beam walking challenges the vestibular-motor integration loop
+- **Bilateral coordination**: Both brain hemispheres must communicate across the corpus callosum to coordinate left and right sides of the body — a foundational skill for later writing and sports
 
 **Coaching cues**:
-- "Feel the texture with your whole hand, not just your fingers."
-- "Notice what happens to your body as you move - do you feel your muscles working?"
-- "It's okay if something feels icky or too much - you can stop and try something else."
-- "There are no mistakes here, only discoveries!"
+- "Feel the texture with your whole hand. Your skin has millions of tiny sensors sending messages to your brain."
+- "Notice what happens to your body as you move — your muscles and joints are sending signals to your brain about where you are."
+- "It's okay if something feels icky or too much — your nervous system is very sensitive, and that's actually good information too."
+- "Your brain is doing a lot of work right now, putting together touch, balance, and movement all at the same time — that's called sensory integration."
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -186,14 +186,14 @@ Allow child to choose their favorite sensory station and explore without directi
 ### Common Challenges & Solutions
 
 **Challenge**: Child refuses to touch certain textures or becomes upset
-**Why**: Sensory sensitivity is normal; some children have defensive reactions to certain inputs
-**Solution**: Never force exploration; acknowledge feeling ("That texture is too much right now, and that's okay"); offer alternative textures; gradually expose with time and repetition
-**Timeline**: May improve over weeks; some sensory sensitivities persist and should be respected
+**Why**: Tactile defensiveness occurs when the nervous system over-responds to sensory input — treating mild stimuli as if it were threatening. This is a real neurological difference in sensory threshold, not defiance or preference. Some children have significantly lower thresholds for sensory input across multiple systems (a pattern associated with sensory processing disorder).
+**Solution**: Never force exploration; acknowledge feeling ("Your nervous system is telling you that texture is too much right now — that's real"); offer alternative textures; gradual, child-led exposure over weeks builds tolerance
+**Timeline**: May improve over weeks; significant and persistent sensory sensitivity across multiple domains warrants occupational therapy evaluation
 
 **Challenge**: Child struggles with balance beam; falls off frequently or becomes frustrated
-**Why**: Vestibular system still developing; requires practice and neural development
-**Solution**: Start with line on floor (easier than raised surface); use yoga mat for safety; practice daily; celebrate small improvements; reduce height or width initially
-**Timeline**: Improves with consistent practice over several weeks; rapid progress around age 3.5+
+**Why**: Balance requires the vestibular system (inner ear), proprioceptive feedback (muscles/joints), and vision to work together in real time — a complex integration that is still being refined neurologically. The cerebellum, which coordinates these inputs and fine-tunes movement, is one of the last brain regions to mature.
+**Solution**: Start with line on floor (easier than raised surface); use yoga mat for safety; practice daily; celebrate small improvements; reduce height or width initially; let child look at feet (visual input helps compensate when vestibular processing is still developing)
+**Timeline**: Improves with consistent practice over several weeks; rapid progress around age 3.5+ as cerebellar circuits mature
 
 **Challenge**: Child wants to eat sensory materials (especially sand, rice, dried goods)
 **Why**: Young children explore with mouth as primary sense; developmentally normal

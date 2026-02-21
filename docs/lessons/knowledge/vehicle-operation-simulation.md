@@ -6,13 +6,15 @@ Children will engage in dramatic play as vehicle operators, learning about diffe
 
 ## Vocabulary
 
-**Operate**: To control and make something work the way it should. When you operate a vehicle, you use your hands and feet to make it go where you want it to go.
+**Combustion**: A chemical reaction where fuel (like gasoline) burns rapidly with oxygen to release energy. In an internal combustion engine, tiny explosions of fuel-air mixture push pistons up and down, and those pistons turn the wheels. This is how most cars have worked for over 100 years.
 
-**Steering**: The act of guiding and controlling the direction a vehicle is moving. The steering wheel is what drivers turn to change which way they go.
+**Friction**: The force that resists sliding motion between two surfaces. Friction between tires and the road is what allows wheels to grip and push the car forward. Brakes also use friction — brake pads grip a spinning disc and convert the car's kinetic energy (motion energy) into heat, slowing it down.
 
-**Accelerate**: To make something go faster. When a driver presses the gas pedal, they accelerate and the vehicle speeds up.
+**Inertia**: The tendency of a moving object to keep moving. When a car brakes suddenly, passengers lurch forward because their bodies want to keep moving — that's inertia. Seatbelts resist that inertia and keep people in place.
 
-**Route**: The path or way you travel from one place to another. A bus driver follows a specific route, stopping at the same places every day.
+**Transmission**: The system that transfers engine power to the wheels. It includes gears that change how engine speed converts to wheel speed — lower gears provide more force for starting or climbing; higher gears use less engine power for fast highway driving.
+
+**Momentum**: The quantity of motion an object has — mass times velocity. A heavy truck has much more momentum than a bicycle going the same speed, which is why trucks need much more distance to stop. More momentum means more braking force is needed to slow down.
 
 ## Learning Song
 
@@ -99,10 +101,10 @@ Children will create and navigate an imaginary roadway using household items, ta
 
 1. **Introduction** (2-3 minutes):
    - Gather children and show them the "road" you've created
-   - Introduce the steering wheel: "This is our special steering wheel. We're going to pretend to drive vehicles today!"
-   - Demonstrate how to hold and turn the steering wheel gently
-   - Name some vehicles they might operate: car, bus, truck, taxi
-   - Explain one simple rule: "We stop at the stop sign" or "We honk at the gas station"
+   - Introduce the steering wheel: "This is our special steering wheel. Real cars work through combustion — fuel burns inside an engine, tiny explosions push metal parts called pistons, and the pistons spin the wheels. Electric cars use a motor powered by a battery instead of burning fuel."
+   - Demonstrate how to hold and turn the steering wheel: "When you turn the wheel, it turns the front wheels of the car — that changes the direction you go. The wheel is a lever that makes steering easier."
+   - Name some vehicles they might operate: car, bus, truck, taxi — and note that each uses different engine types (diesel trucks, electric buses, gasoline cars)
+   - Explain one simple rule and its physics: "We stop at the stop sign because brakes use friction to slow us down — but it takes distance to stop, especially at high speed."
 
 2. **Exploration** (5-10 minutes):
    - Invite the first child to pick a vehicle and hold the steering wheel

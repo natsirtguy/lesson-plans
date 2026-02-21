@@ -6,15 +6,15 @@ Children explore what it means to be safe in different environments and situatio
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
+**Risk**: The possibility that something could cause harm. We can reduce risk by taking precautions — like wearing a helmet reduces the risk of a head injury if we fall. All activities have some risk; safety practices make that risk smaller.
 
-**Safe**: A condition where someone is protected from danger or harm. When you wear a seatbelt in the car, you are being safe. When we hold hands crossing the street, we are being safe together.
+**Consequence**: What happens as a result of an action. A consequence of falling on pavement without a helmet is that your head might get hurt. A consequence of holding hands near traffic is that you stay close and safe. Thinking about consequences helps us make safer choices.
 
-**Protected**: Kept from being hurt or damaged; guarded or cared for. A helmet protects your head when you ride a bike. A blanket protects you from being cold at night.
+**Inertia**: The tendency of a moving body to keep moving. When a car stops suddenly, your body wants to keep moving forward — that's inertia. A seatbelt holds you back and prevents your body from flying forward. Helmets work by absorbing impact energy and spreading the force across a larger area, slowing the force that reaches your skull.
 
-**Trust**: Feeling confident that someone will take care of you and keep you safe. You trust your caregiver to hold your hand and keep you safe. You can trust a police officer or firefighter to help you.
+**Autonomy**: Control over your own body and choices. Your body belongs to you. Body autonomy means you get to decide who touches you. If a touch doesn't feel right, you have the right to say no and tell a trusted adult.
 
-**Alert**: Paying close attention to what is happening around you so you can stay safe. When you hear a car honking, you are being alert and listening. An alert grown-up watches for danger.
+**Instinct**: A feeling your body produces automatically, without thinking about it. When something feels wrong or unsafe, your body might give you a signal — a tight feeling in your stomach, a sense of unease. These instincts are useful information worth paying attention to.
 
 ## Learning Song
 
@@ -114,7 +114,7 @@ Children participate in a "Safety Detective" exploration where they investigate 
    - If showing a child without a helmet on a bike: "Let's put on a helmet first!"
    - If showing an emotional scenario (a sad child alone): "Who is a safe grown-up they can tell?"
 
-   Let children wear or hold safety items (helmets, vests) and talk about what they're for. Ask: "How does this protect you?" Encourage pretend play where children act as safety helpers (police officers, firefighters, parents).
+   Let children wear or hold safety items (helmets, vests) and explain how they actually work: "A helmet has a hard shell outside and soft foam inside. When you fall, the foam squishes and absorbs the impact — it slows down the force so your head doesn't get the full hit. That's physics! Seatbelts stop your body from flying forward when a car stops suddenly because of inertia — your body wants to keep moving." Encourage children to feel the foam inside a helmet. Ask: "How does this protect you? What does it do to the force?"
 
 3. **Discovery** (3-5 minutes):
    Create a "Safety Signals" chart together. Ask: "What tells us something is safe?" Children can point to or describe:
@@ -170,7 +170,7 @@ Children participate in a "Safety Detective" exploration where they investigate 
 **Solution**: Make it a game or routine without power struggles. Create a before-and-after ritual: "First helmet goes on, THEN we ride." Offer limited choices: "Do you want the blue helmet or red helmet?" Use positive reinforcement: "Great job keeping yourself safe!" Model the behavior yourself—if you wear a helmet, your child is more likely to.
 
 **Challenge**: Child asks scary questions ("What if a stranger takes me? What if there's a fire?").
-**Solution**: Answer simply and honestly without elaboration. "Strangers are usually safe. You stay close to me, so you're safe." "If there's ever a fire, firefighters help us, and we go outside quickly." Don't over-explain or create detailed scary scenarios. Reassure: "My job is to keep you safe. I'm very good at my job."
+**Solution**: Answer honestly without creating elaborate scary scenarios. For "stranger danger," the more accurate and useful framing is about *trusted adults they know* — not all strangers are dangerous, but children should stay with caregivers and go to known adults (parents, teachers, a store employee in uniform) if lost. "If you're ever lost, stay where you are and find a grown-up who works there — someone in a uniform or behind a counter — and tell them your name and that you're lost." For fire: "If there's a fire, we leave the house quickly, we don't go back for things, and we go to our meeting spot outside." Practice these responses as simple, calm routines. Reassure: "My job is to keep you safe, and I'm going to teach you what to do so you know exactly what to do."
 
 ### Follow-Up Activities
 

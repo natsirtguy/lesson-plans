@@ -6,13 +6,15 @@ This lesson introduces children to the confidence and joy of sharing their thoug
 
 ## Vocabulary
 
-**Audience**: The group of people who are listening to you or watching what you do. When you sing a song for your family, your family is your audience.
+**Rhetoric**: The art of using language effectively and persuasively to communicate ideas to an audience. Rhetoric goes back to ancient Greece — philosophers like Aristotle studied what makes speech convincing. The three main tools of rhetoric are logos (logical arguments), ethos (credibility of the speaker), and pathos (emotional appeal).
 
-**Present**: To show something or share it with others. When you present a picture you drew, you hold it up and tell people about it.
+**Articulation**: The clear and precise formation of speech sounds using the tongue, lips, teeth, and palate. Clear articulation makes words easy to understand. When you move your lips and tongue carefully while speaking, you are articulating.
 
-**Confidence**: A feeling of being brave and sure about yourself. When you feel confident, you believe you can do something well, even if it feels a little scary.
+**Intonation**: The rise and fall of the voice's pitch while speaking. Intonation carries meaning — a rising pitch at the end of a sentence signals a question; falling pitch signals a statement. People also use intonation to show excitement, sadness, or emphasis.
 
-**Expression**: Showing your feelings and ideas using your face, voice, and body. A big smile is an expression that shows you're happy, and your words are expressions of what you're thinking.
+**Projection**: Making your voice loud and clear enough to be heard by all of your audience without straining. Projection comes from breath support — the diaphragm (a muscle below the lungs) pushes air through the vocal cords, causing them to vibrate and produce sound. More breath = more volume.
+
+**Persuasion**: The act of using words, evidence, or emotional appeals to change what someone thinks or does. All public speaking involves some degree of persuasion — even a toddler saying "I want that" is using language to influence someone.
 
 ## Learning Song
 
@@ -97,13 +99,13 @@ Children practice sharing a special object or creation with a small, supportive 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by modeling confidence yourself. Say: "Watch me! I'm going to tell you about my favorite thing." Hold up an object and speak clearly about it: "This is my watch. It tells me the time. I like it because it's shiny and goes tick-tick-tick." Smile big and gesture with your hands. Invite the child: "Now it's your turn to be the presenter! You can pick something you want to tell me about."
+   Start by modeling effective speaking. Say: "Watch me! I'm going to tell you about my favorite thing — and I'm going to use projection so you can hear me clearly." Hold up an object and speak clearly: "This is my watch. It tells me the time. I like it because it's shiny and goes tick-tick-tick." Then whisper it and ask: "Could you hear me? No? That's why projection matters — we push air from our belly to make our voice carry." Invite the child: "Now it's your turn to be the presenter! Use your projecting voice so your audience can hear every word."
 
 2. **Exploration** (8-12 min):
    Let the child choose an object or creation. Give them time to think. Ask gentle prompts: "What is it?" "Why do you like it?" "What color is it?" "How does it feel?" Encourage them to stand in the "stage" area, even if briefly. Allow them to hold the object while speaking. Listen intently, make eye contact, smile, and nod. Celebrate their effort with genuine praise: "You spoke so clearly!" "I loved hearing about that!"
 
 3. **Discovery** (3-5 min):
-   Ask follow-up questions that help them expand their thinking: "Can you show us how it works?" "How did you make that?" "What's your favorite part?" Point out their strengths: "You used such a loud, clear voice!" "You looked at me while you were talking—that's great eye contact!" Let them present multiple objects if they're enjoying it. Some children may repeat the same object over and over—this is wonderful practice and should be celebrated each time.
+   Ask follow-up questions that expand their thinking: "Can you show us how it works?" "How did you make that?" "What's your favorite part?" Point out specific speaking skills: "You used such a loud, clear voice — that's projection!" "You looked at me while talking — that's eye contact, and it helps your audience feel connected." "Your voice went up at the end of the question — that's intonation." Note: eye contact during speech activates mirror neurons in listeners, creating a sense of genuine connection — even young children feel this difference. Let them present multiple objects if they're enjoying it.
 
 4. **Wrap-up** (2-3 min):
    Give a big round of applause or cheer. Say: "You were such an amazing presenter! You shared your ideas with me and I felt so happy listening. You were brave and confident!" Consider making this a tradition: "We can do this again tomorrow if you'd like!"
