@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-Children learn to share special items with others through simple presentations, developing communication skills, confidence, and social connection. This activity helps children practice speaking about objects they care about while learning to listen and show interest in their peers' experiences.
+Show and tell is an exercise in one of the hardest communication challenges: explaining something familiar to you to someone who has never seen it. To do this well, children have to practice **perspective-taking** — understanding that the audience doesn't know what they know. This is a real cognitive milestone. Very young children (under 2) assume everyone shares their knowledge; by ages 3-4, children begin to develop "audience awareness" — they start to understand that a stranger needs more description than a close family member. This developmental shift is part of **theory of mind** (understanding that other people have different knowledge and perspectives). Show-and-tell makes this concrete and practicing it accelerates oral narrative skills, which are directly linked to later reading comprehension and writing ability.
 
 ## Vocabulary
 
-**Present**: To show or share something with other people; when you stand up and let everyone see your toy, you are presenting it.
+**Perspective-taking**: Imagining what another person knows or doesn't know, sees or can't see, from their point of view. When presenting, you have to think: "What does my audience already know about this object? What do I need to explain?"
 
-**Audience**: The group of people who are watching and listening to you; your friends and teachers are your audience when you do show and tell.
+**Theory of mind**: The ability to understand that other people have their own thoughts, knowledge, and beliefs that may be different from yours. Show-and-tell exercises theory of mind because you have to think about what your audience doesn't know.
 
-**Confidence**: Feeling sure and brave about what you're doing; showing your favorite toy takes confidence because you're being brave in front of your friends.
+**Oral narrative**: A spoken story or description that has a beginning, middle, and enough information for someone unfamiliar with the topic to follow. "I like it" is not a narrative; "It's soft and blue, I got it when I was a baby, and it goes everywhere with me" is an oral narrative.
 
-**Special**: Something that is important, unique, or more valuable than other things; your favorite stuffed animal is special because it means a lot to you and makes you happy.
+**Descriptive language**: Using specific words that give the listener a real picture: color, texture, size, shape, sound, smell. "It's nice" is not descriptive; "it's bumpy and bright orange and makes a rattling sound" is descriptive.
+
+**Audience awareness**: Adjusting how you explain something based on who is listening and what they already know. A good communicator speaks differently to someone who has never seen something than to someone who is familiar with it.
 
 ## Learning Song
 
@@ -68,7 +70,7 @@ I do not hide
 
 ### Activity Overview
 
-Children select a special object and practice presenting it to a small group. They learn to describe their item, explain why it's special, and present with confidence while peers practice listening and asking questions.
+Children select a special object and practice describing it to an audience who cannot fully see or understand it. The key challenge to introduce: **your audience doesn't know your object the way you do** — so you have to find words that help them understand. Caregivers should name this explicitly: "Pretend I've never seen this before. What words would help me understand it without touching it?" This is perspective-taking in action, and it can be introduced as exactly that: "You're using your imagination to think about what I know and don't know. That's called perspective-taking — and it's one of the most important skills in communication."
 
 **Activity Type**: Interactive presentation and communication practice
 
@@ -106,21 +108,19 @@ Children select a special object and practice presenting it to a small group. Th
 
 2. **Presentation** (5-8 min):
    - Invite the first child to stand or sit in the center with their object
-   - Encourage them to:
-     - Hold the object so everyone can see it clearly
-     - Tell the group: "This is my [object name]"
-     - Say one or two things they like about it or why it's special
-     - Describe how it feels, looks, or what you do with it
-   - Keep it simple—even one sentence is a successful presentation for younger children
+   - Before they start, set up the perspective-taking challenge: "Pretend I've never seen this before in my life. How would you help me understand it?"
+   - Encourage them to use descriptive language: color, texture, size, sound, what it does
+   - When they say something vague ("it's nice"), prompt: "What does 'nice' mean for this object? Nice to touch? Nice to look at?"
+   - When they use precise language, name it: "You said 'bumpy' — that's a really descriptive word. Now I can picture it."
+   - Keep it simple — even one specific sentence is a successful presentation for younger children
 
 3. **Audience Participation** (3-5 min):
-   - Teach the group to ask kind questions:
-     - "What do you like about it?"
-     - "What color is it?"
-     - "Can you play with it?"
-   - Model asking respectful questions yourself
-   - Teach children to listen without interrupting
-   - Praise the presenter: "Great job telling us about your toy!"
+   - Teach the group that good questions help the presenter explain more:
+     - "What does it feel like?"
+     - "Where does it come from?"
+     - "Can you show us how it works?"
+   - After the presentation, ask the audience: "What do you know about this object now that you didn't know before? What helped you understand it?"
+   - This closes the perspective-taking loop — children can see how description actually transfers knowledge
 
 4. **Wrap-up** (2 min):
    - Thank the presenter
@@ -139,13 +139,11 @@ Children select a special object and practice presenting it to a small group. Th
 - Focus more on the object itself than detailed descriptions
 
 **3-4+ years**:
-- Encourage children to say 2-3 sentences about their item
-- Ask follow-up questions to deepen thinking: "Why is that your favorite?" "How does it make you feel?"
-- Teach them to make eye contact with the audience
-- Practice the presentation once before the "real" show and tell
-- Encourage them to pass their object around so others can see details
-- Teach hand-raising to ask questions
-- Talk about being a "good listener" (looking at the presenter, being quiet, etc.)
+- Encourage 2-3 sentences with specific descriptive language
+- Introduce the perspective-taking challenge explicitly: "Your audience has never seen this. What do they need to know?" then after: "Did your description give them enough to picture it?"
+- Ask follow-up questions that push for precision: "You said it's big — bigger than your hand? Bigger than a chair?"
+- Practice the "blind description" game: hide the object behind your back, the child describes it from memory, then reveal it — did the description match?
+- Ask them to identify what the audience knows versus what they had to explain: "Before you talked, what did we know? What do we know now?"
 
 ### Extension Ideas
 

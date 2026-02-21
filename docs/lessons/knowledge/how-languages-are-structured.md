@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-Children explore how languages are made up of different sounds, words, and patterns through playful activities that demonstrate phonemes, vocabulary, and sentence structure. Through songs, sorting games, and sound exploration, young learners discover that languages have consistent building blocks and patterns that help us communicate.
+All human languages — thousands of them — are built from the same structural layers: sounds (phonemes) combine into meaning units (morphemes), which combine into words, which combine into sentences following grammar rules. This is not learned by memorization. Children figure out grammar rules from patterns and then *apply those rules to new words they've never heard* — generating novel sentences from day one. The most compelling evidence: toddlers say "goed" instead of "went," and "mouses" instead of "mice." They've never heard these words from adults — they *invented* them by applying the regular past-tense and plural rules to irregular verbs. This is called **overgeneralization** and it proves that children aren't just imitating; they're actively constructing grammar. Language structure is also not universal in its surface form: English orders sentences Subject-Verb-Object ("The cat ate the fish"), but Japanese uses Subject-Object-Verb ("The cat the fish ate"), and many languages have entirely different organizing principles. Yet every known human language has nouns and verbs — some features are universal across all 7,000+ languages on Earth.
 
 ## Vocabulary
 
-**Phoneme**: The smallest unit of sound in a language that changes meaning. For example, the "p" sound at the beginning of "pat" versus the "b" sound in "bat" creates two different words.
+**Phoneme**: The smallest unit of sound in a language that changes meaning. Swapping one phoneme changes the word: /p/at → /b/at → /c/at → /h/at. English has about 44 phonemes; other languages have more or fewer.
 
-**Syllable**: A unit of sound that contains a vowel and forms a single beat in a word. The word "el-e-phant" has three syllables—count them by clapping once for each beat.
+**Morpheme**: The smallest unit of *meaning* in a language (different from a phoneme, which is a unit of sound). "Cats" has two morphemes: "cat" (a furry animal) + "s" (more than one). "Unhappy" has two morphemes: "un" (not) + "happy." You can't split these units further and still have meaning.
 
-**Grammar**: The system of rules that shows how words fit together to make sentences. Grammar tells us that "The cat sat" works, but "Cat the sat" does not.
+**Syntax**: The rules governing word order in a sentence. English syntax requires Subject-Verb-Object: "The dog chased the ball" (not "Ball the dog chased the"). Different languages have different syntax — Japanese puts the verb at the end; Yoda-speak is roughly Japanese syntax in English.
 
-**Sentence**: A group of words put together in a pattern that expresses a complete thought or idea. "I see a dog" is a sentence because it tells us a complete idea.
+**Overgeneralization**: When a child applies a grammar rule too broadly, creating a word that doesn't exist but *should* exist if the rule were consistent. "I goed to the store" and "two mouses" are examples — the child learned the regular past tense rule and the regular plural rule, then applied them to irregular words. This is evidence of real grammar learning, not imitation.
+
+**Grammar**: The complete system of rules — sounds, word structure, and sentence order — that organizes a language. All languages have grammar; no language is "ungrammatical," even if it differs from formal English.
 
 ## Learning Song
 
@@ -112,9 +114,9 @@ Children participate in a "Sound Building Blocks" exploration where they discove
    - **Syllable Clapping**: Show a 2-syllable word (e.g., "apple"). Clap on each syllable: "ap-ple" (two claps). Try with other words: "but-ter," "pur-ple."
 
 3. **Discovery** (3-5 minutes):
-   - Ask: "Can you think of a word that starts with the /s/ sound?" (snake, sun, sit)
-   - Point out: "Listen—'sun' has one syllable, but 'sunflower' has three: sun-flow-er!"
-   - Show how words follow patterns: Words often have a consonant + vowel pattern (cat, dog, sit, run)
+   - Morpheme exploration: "The word 'cats' has two meaning pieces: 'cat' — an animal — and 's' — which means more than one. Linguists call those meaning pieces 'morphemes.' What's the morpheme in 'dogs' that means more than one?"
+   - Overgeneralization moment: If the child has ever said "goed" or "mouses," celebrate it: "When you say 'goed' instead of 'went,' you're not making a mistake — you're showing that you learned the rule for past tense and applied it. That's how brains learn grammar."
+   - Word order game: Say a sentence in scrambled order: "Chased ball the dog the." Ask: "Does that make sense?" Explain: "English has a rule about the order words go in. That rule is called syntax." Compare: "In Japanese, the verb always comes last. So 'The dog chased the ball' in Japanese word order would be 'The dog the ball chased.'"
    - Demonstrate sentence building: "Show me the cat." → "The cat is here." → "The big orange cat is playing here." Each adds more detail.
 
 4. **Wrap-up** (2-3 minutes):
@@ -144,7 +146,7 @@ Children participate in a "Sound Building Blocks" exploration where they discove
 
 **Variation 1 - Rhyming Pattern Discovery**: Explore how languages use sound patterns. Find words that rhyme: cat, bat, hat, mat. Discuss why they sound similar (same ending sounds). Sort picture cards by rhyming patterns.
 
-**Variation 2 - Multi-Language Exploration**: If the child or family knows another language, introduce how that language has different sounds and patterns. Compare the word for "dog" in English (dog) versus another language (perro in Spanish, hund in German, inu in Japanese). Discover that languages share some sounds but have different phonemes.
+**Variation 2 - Multi-Language Exploration**: Compare how different languages structure the same sentence. English: "The cat chased the mouse." Spanish: "El gato persiguió al ratón" (same order). Japanese: "Neko ga nezumi wo oikaketa" (verb at end — cat mouse chased). Mandarin: close to English order. Ask: "What stays the same? What changes?" Every human language has nouns and verbs — that's universal. Word order varies enormously. This is syntax.
 
 **Repeat Play - Sound Detective Game**: On subsequent sessions, play "I Spy with My Little Eye a word that starts with /s/." This keeps the concept fresh and builds phoneme awareness incrementally. As children develop, add middle and ending sounds.
 

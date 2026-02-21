@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Dodgeball and throwing games introduce young children to basic throwing, catching, and directional awareness through playful, cooperative activities using soft foam balls. These games develop gross motor skills, hand-eye coordination, spatial reasoning, and teamwork while keeping the experience joyful and non-competitive for this age group. For ages 2-3+, the focus is on fun movement patterns rather than elimination or winning, with modified rules that emphasize participation and inclusion.
+Throwing and catching games develop gross motor skills, hand-eye coordination, and spatial awareness — and they're also a direct encounter with physics. Every throw follows a **parabolic arc**: gravity pulls the ball downward while forward momentum carries it outward, creating a curved path. The angle and force of the throw determine how far and how high it goes — an underhand throw sends the ball in a low, gentle arc, while an overhand throw with more force produces a longer, faster arc. Catching requires the brain to **predict** where the ball will be in three-dimensional space and move the hands to that exact location before the ball arrives — a rapid computation involving depth perception, trajectory estimation, and motor planning. This is genuinely difficult, and children who struggle with catching aren't failing; they're running a very complex neural calculation that gets faster with practice. Caregivers can name these ideas matter-of-factly: "Your brain is predicting where the ball will land — that's why you watch it all the way."
 
 **Activity Type**: Team Sport / Gross Motor Play
 
@@ -96,16 +96,16 @@ Dodgeball and throwing games introduce young children to basic throwing, catchin
 #### Skill Practice (3-5 minutes)
 
 **Skill breakdown**:
-1. **Throwing Foundation**: Underhand throw is safest and most natural for this age - start here. Side-arm throw as progression.
-2. **Catching Readiness**: Hands up, arms ready, watch the ball, bend knees slightly
-3. **Movement & Awareness**: Moving while watching the ball, changing direction, using the full space
+1. **Throwing Foundation**: The underhand throw is most natural at this age — the ball follows a gentle, slow arc. The force comes from leg drive and arm swing together. To throw farther, you need more force — not just a harder arm movement, but a coordinated push from the whole body. Side-arm and overhand throws produce different arc shapes and are progressions for later.
+2. **Catching Readiness**: Catching is prediction. Your eyes track the ball's arc, your brain estimates where it will arrive, and your hands move to meet it. Keeping eyes on the ball the whole flight gives the brain more data to update its prediction. Children who "catch with their body" (cradling rather than gripping with hands) are still developing the hand strength and prediction speed for clean catches.
+3. **Movement & Awareness**: Moving while tracking a thrown object requires dividing attention — a real cognitive challenge. Celebrate when children manage it.
 
 **Coaching cues**:
-- "Swing your arm like a pendulum - back and forth, nice and easy"
-- "Hold the ball with both hands until you're ready to throw"
-- "Feet apart for balance - you're a strong tree!"
-- "Eyes on the ball - watch where it's going"
-- "When you catch, make a soft nest with your arms"
+- "Swing your arm like a pendulum — your whole arm adds force to the throw"
+- "Watch it the whole way — your brain needs to track the arc to predict where it lands"
+- "Feet apart for balance — you're a strong tree!"
+- "Soft throw = gentle arc; hard throw = fast flat line. Try both and see"
+- "When you catch, make a soft net with your arms — give the ball somewhere to land"
 
 #### Guided Play/Game (4-8 minutes)
 

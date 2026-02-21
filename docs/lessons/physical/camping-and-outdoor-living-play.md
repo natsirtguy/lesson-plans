@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Camping and outdoor living play invites young children to explore nature, engage in pretend outdoor adventures, and develop gross motor skills through setting up camps, exploring natural spaces, and engaging in outdoor survival-themed play. This activity builds confidence, encourages imaginative thinking, strengthens problem-solving abilities, and deepens children's connection to the natural world while promoting physical activity and outdoor exploration.
+Camping and outdoor living play gives children hands-on experience with real outdoor skills: reading the environment, building functional shelters, observing wildlife signs, and practicing Leave No Trace stewardship. Even at ages 2-4, children can learn that a good shelter needs a sloped roof to shed rain, that a "V" shape in branches is a natural anchor point, that animals leave tracks and sounds as evidence of their presence, and that outdoor ethics — only take what you need, leave nature as you found it — are principles with real reasons behind them. This activity develops gross motor skills through active building and exploration while grounding play in genuine outdoor literacy.
 
 **Activity Type**: Outdoor adventure
 
@@ -97,15 +97,15 @@ Camping and outdoor living play invites young children to explore nature, engage
 #### Skill Practice (3-5 minutes)
 
 **Activity breakdown**:
-1. **Shelter building** - Practicing how to arrange blankets, sticks, and natural items to create a cozy camp space; understanding spatial relationships and structure
-2. **Gathering and organizing** - Collecting natural materials like sticks, rocks, and leaves; practicing fine motor skills and learning about nature
-3. **Creating camp features** - Setting up pretend campfire, sleeping areas, storage areas; developing problem-solving and imaginative thinking
+1. **Shelter building** - Arrange blankets and sticks to create a functional shelter. The key engineering principle: a sloped or angled roof directs rain to run off the sides rather than pooling. When two branches form a "V," that notch is a natural anchor point. Encourage children to test whether their roof is tilted enough: "If rain came right now, where would it go?"
+2. **Gathering and organizing** - Collect natural materials: sticks, rocks, leaves, pinecones. Teach: take only what fell naturally (dead wood, shed leaves), not from living plants. This is the first principle of Leave No Trace — leave living things undisturbed. Rocks in a circle can be used to mark boundaries and keep campfire coals contained (important even in pretend fires).
+3. **Creating camp features** - Set up a pretend campfire using sticks arranged in a teepee or log-cabin pattern. Explain why real campfires use these shapes: a teepee shape channels air upward so the fire can breathe; a log-cabin shape creates a long-burning, stable burn.
 
 **Coaching cues**:
-- "Look at how we can use this blanket to make a roof for our camp!"
-- "Find sticks that would work well for our camp - not too pointy, nice and sturdy"
-- "Your camp is taking shape! Where should we put the sleeping area?"
-- "That's a great way to organize your supplies!"
+- "Should the roof be flat or tilted? What happens to rain on a flat roof?"
+- "That branch has a natural fork — see how the blanket rests right in that notch? The tree made us an anchor point."
+- "We're only taking sticks from the ground — the living tree keeps its branches."
+- "You arranged the sticks in a teepee! That's exactly how real campfires are built so air can flow through."
 
 #### Guided Play/Game (5-10 minutes)
 
@@ -117,7 +117,7 @@ Introduce simple camping scenarios and let children engage in pretend play. Star
 2. **Preparing camp meals** - Pretend to cook and eat meals at camp; use natural items or toy dishes
 3. **Exploration adventure** - "I see something interesting over by that tree! Should we explore? What do you think we'll find?"
 4. **Nighttime campfire** - Gather in a circle around a "campfire" (sticks arranged in center or flashlight); sing songs or tell stories
-5. **Animal watching** - "Shhh, be very quiet. Can you spot any animals? What do you hear?"
+5. **Animal watching and tracking** - "Shhh, be very quiet. Animals leave evidence even when we can't see them." Teach children to look for: tracks in mud or soft soil (each animal has a distinctive paw shape — dogs leave claw marks, squirrels leave paired front feet ahead of paired back feet), nibbled pinecones or nutshells (sign of squirrels or chipmunks), bird calls (birds alarm-call when a predator is nearby — a sudden burst of loud chirping means something startled them), and holes or burrows near roots. Even in urban backyards, evidence of animals is almost always present.
 
 **Rules** (keep very simple):
 1. Stay within the marked play area (point out boundaries)
@@ -180,7 +180,7 @@ High - Adult should actively participate, model camping behaviors, provide lots 
 - Detailed role-play - assign camping roles (camp chef, explorer, lookout), develop camping stories
 - Problem-solving challenges - "How can we keep our camp dry? What happens if an animal visits?"
 - Multi-part scenarios - full camping sequence (set up, make meals, sleep, explore, take down camp)
-- Nature learning integration - identify plants, insects, birds; create nature collections
+- Nature literacy - identify plants, insects, birds by name; look for animal tracks, nibbled food, burrows; use a field guide or identification app together; use real vocabulary: "deciduous" (trees that drop leaves), "camouflage," "habitat," "foraging"
 - Cooperative building - partner or small group projects with shared goals
 
 **Duration**: 15-25 minutes can be sustained

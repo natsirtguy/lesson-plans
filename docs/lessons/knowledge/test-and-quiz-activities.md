@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-This lesson introduces young learners to simple, playful quiz activities where answering questions becomes a fun game rather than pressure-filled testing. Children will practice answering yes/no questions, multiple-choice questions, and matching games while building confidence in what they know and creating positive associations with learning challenges.
+When you have to *retrieve* a memory — dig it out of your brain on demand — that memory gets stronger. This is called **the testing effect** or **retrieval practice**, one of the most replicated findings in memory science. Simply looking at information again (re-reading, re-watching) does not strengthen memory as much as being asked to recall it. This lesson uses playful quiz games to give children real experience with retrieval practice — asking questions about animals, colors, shapes, people, and concepts from previous lessons — while caregivers introduce the actual science of *why* this works. The quiz is not about catching what they don't know; it's about actively strengthening what they do know.
 
 ## Vocabulary
 
-**Question**: A sentence or words that ask for information or an answer; when you want to know something, you ask a question. For example: "Where is the dog?" or "What color is this?"
+**Retrieval**: Pulling a memory out of your brain when you need it — like reaching into a backpack to find something. Every time you retrieve a memory, your brain makes a stronger path to it for next time.
 
-**Answer**: A response you give when someone asks you a question; the thing you say back when someone asks you something. For example, if someone asks "What sound does a cat make?" your answer might be "meow!"
+**Testing effect**: The scientific discovery that being *tested* on something (having to recall it) makes you remember it better than just reviewing it. Your brain gets stronger at remembering things it has had to work to find.
 
-**Challenge**: Something that makes you think hard or try your best to figure out; like a puzzle or a game where you have to be clever. For example: "Can you find all the blue toys? That's a fun challenge!"
+**Multiple choice**: A type of question that gives you several options to choose from, so you can recognize the right answer even if you can't recall it on your own. Recognition is easier than pure recall.
 
-**Discover**: To find something or learn something new by exploring, playing, or trying; to learn what you know or what you're good at. For example: "Let's discover what you remember about our story!"
+**Recall**: Remembering something without being given clues or options — searching for the memory purely from inside your mind. Harder than recognition, but also makes memories stronger.
+
+**Spaced repetition**: Practicing the same information on different days, spread out over time, rather than all at once. Memory science shows that spreading practice out makes memories last much longer.
 
 ## Learning Song
 
@@ -62,7 +64,7 @@ If you know the answer, shout it out
 
 ### Activity Overview
 
-Children participate in simple, playful quiz games where they answer questions about familiar objects, animals, colors, and concepts they've learned. Through picture matching, yes/no questions, and simple guessing games, children practice recalling information while building confidence that learning is fun. This activity frames "testing" as a game where there's no failure—only discovery of what they know.
+Children participate in simple, playful quiz games where they retrieve information about animals, colors, shapes, and concepts they've encountered before. The key idea to introduce: **every time your brain has to search for a memory and find it, that memory gets stronger**. Caregivers should name this explicitly during the activity — not as praise ("you're so smart!") but as science ("your brain just did retrieval practice — you made that memory stronger"). The goal is to build children's understanding of *how their own minds work*, alongside the content of the questions themselves.
 
 **Activity Type**: Interactive question game / Discovery play
 
@@ -96,9 +98,9 @@ Children participate in simple, playful quiz games where they answer questions a
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Introduce the activity in a playful way: "Today we're playing a fun question game! I'm going to ask you questions, and you get to be the smart answer-giver. There are no wrong answers—we're just discovering what amazing things you know!"
+   Introduce the activity with the actual science: "Today we're playing a question game — and I want to tell you something cool about it. Scientists have discovered that when your brain has to *search* for an answer and find it, that memory gets stronger. It's called the testing effect. So every question you answer today is actually making your memory better!"
 
-   Sing a verse of the learning song to set a fun tone and explain that answering questions is fun and something to celebrate.
+   Sing a verse of the learning song to set the tone, then begin.
 
 2. **Simple Yes/No Questions** (3-4 minutes):
    Start with the easiest format. Hold up picture cards or objects one at a time and ask simple yes/no questions:
@@ -116,15 +118,15 @@ Children participate in simple, playful quiz games where they answer questions a
    - "Does a cow say 'meow' or 'moo'?"
    - "Which one is soft? The rock or the pillow?"
 
-   Let the child respond however they're comfortable—pointing, saying the word, or showing the picture.
+   Let the child respond however they're comfortable — pointing, saying the word, or showing the picture. Name the format: "This is called multiple choice — I'm giving you options to choose from. That's a different kind of remembering than when I give you no clues at all. Which do you think is harder?"
 
 4. **Picture Matching Game** (2-3 minutes):
    Optional additional round: Lay out picture cards and ask "Can you find the apple?" or "Where is the dog?" Let the child point to or pick up the correct picture.
 
 5. **Wrap-up** (1-2 minutes):
-   Celebrate what they discovered about what they know: "Wow! You answered so many questions! Your brain is amazing and you are so smart! You know about dogs and cats and colors and yummy apples. Great discovering!"
+   Reflect on what happened in their brain: "Every time your brain searched for an answer today, it made that memory stronger. That's retrieval practice — it's what scientists say is one of the best ways to really remember something."
 
-   Optional: Give a small reward (sticker, high-five, special stamp on their hand) to reinforce positive feelings about learning challenges.
+   Optional: Give a sticker or high-five, but connect it to the science rather than performance: "This sticker is for doing retrieval practice!"
 
 ### Age Adaptations
 
