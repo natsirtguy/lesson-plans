@@ -99,63 +99,61 @@ Children explore their own motor abilities through a multi-station play experien
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather children and introduce the concept: "Today we're going to discover all the amazing things our bodies can do! We have big, strong movements—like jumping and running—and tiny, careful movements—like picking up small things. Let's explore how our bodies coordinate and control everything we do."
-   Ask: "Can you make your arm go in a big circle? Can you pinch your fingers together?" Model both big and small movements to set expectations.
+   Gather children and introduce the concept: "Today we're going to discover all the amazing things our bodies can do! We have big movements — those are called gross motor movements — and tiny, careful movements — those are called fine motor movements. Both kinds are controlled by our brain's motor cortex, but they use completely different muscles. Big movements use your quadriceps (front thigh), hamstrings (back thigh), and deltoids (shoulders). Tiny movements use the tiny muscles inside your hand. Let's explore both!"
+   Ask: "Can you make your arm go in a big circle? Feel those shoulder muscles — those are your deltoids. Now pinch your fingers together — feel how different that is? Those are the tiny muscles inside your hand."
 
 2. **Exploration** (10-15 min):
-   Set up 4-5 stations and invite children to move between them at their own pace (don't force sequence):
+   Set up 4-5 stations and invite children to move between them at their own pace:
 
    **Station 1 - Big Movements (Gross Motor)**:
    - Invite climbing over and around cushions
    - Ask: "Can you climb over the mountain? Can you jump from one cushion to another?"
+   - Name the muscles: "When you jump, your quadriceps and calf muscles (gastrocnemius) push you up, and your gluteus maximus — your seat muscles — help power you off the ground!"
    - Model jumping, hopping on one foot, and crawling
 
    **Station 2 - Balance Practice**:
    - Use a tape line, rope, or low balance beam
    - Encourage walking forward, backward, and sideways on the line
-   - Ask: "Can you balance on one foot? How still can you keep your body?"
+   - Name the system: "Your cerebellum — at the back of your brain — is adjusting your balance fifty times per second right now, using information from your inner ear and the proprioceptors in your leg muscles. That's why balance gets easier with practice — your cerebellum is learning."
    - Offer your hand for support as needed
 
    **Station 3 - Throwing and Catching (Coordination)**:
    - Toss soft bean bags or rolled socks into containers or at low targets
-   - Start with underhand tosses, progress to overhand
-   - Ask: "Can you throw gently? Can you catch it?"
-   - Celebrate attempts, not just successes
+   - Name the process: "When you aim and throw, your motor cortex plans the movement, your cerebellum executes it precisely, and your visual cortex tracks where the object goes. Then your cerebellum uses that information to improve the next throw. Every miss teaches your cerebellum something."
+   - Celebrate attempts: the cerebellum learns from error, not just success
 
    **Station 4 - Fine Motor Manipulation**:
    - Provide beads/buttons/pasta for sorting into containers (use tongs, spoons, or fingers)
    - Offer threading activities with beads and string
-   - Ask: "Can you pick up one tiny bead? Can you put it in the bucket?"
-   - Allow repetition—children find deep satisfaction in fine motor practice
+   - Name what's happening: "The tiny muscles in your hand — called the lumbricals and interossei — are working hard right now. These muscles are still getting myelinated, which is why this feels hard. Each time you practice, myelin builds up and makes the signals travel faster."
+   - Allow repetition — repetition is how myelination builds
 
    **Station 5 - Mark-Making (Fine Motor)**:
    - Crayons and paper for scribbling, drawing, coloring
    - Ask: "Can you draw a big circle? Can you make a tiny dot?"
-   - Encourage circular motions, lines, and free expression
+   - Name the control: "Drawing uses your fine motor cortex — the part of your motor cortex with the largest area dedicated to hand control. The motor cortex hand area is bigger than the area for your entire torso because hands need such precise control."
 
 3. **Discovery** (3-5 min):
-   Gather children back together and ask reflective questions:
-   - "Which station was fun for you? What was hardest? What felt easy?"
-   - "What body parts helped you balance? What helped you jump?"
-   - "Which movements made your muscles feel strong?"
-   - Point out their coordination: "I saw you jump, swing your arms, AND land without falling—that's coordination!"
-   - Praise effort and the learning process: "You tried and tried with the beads. Your fingers are learning to be so careful and controlled."
+   Gather children back together and reflect on what happened:
+   - "Which felt harder — jumping or picking up a bead? Why do you think that is?"
+   - "The big movements use big muscles that got myelinated first — your body learned gross motor before fine motor. That's why jumping feels easier than threading a bead."
+   - "What body parts helped you balance? Your cerebellum was working the whole time — but you can feel it most at Station 2."
+   - "Every time you practiced today, myelin was building around your motor neurons. Your nervous system is literally changing."
 
 4. **Wrap-up** (2-3 min):
    Transition with a calming activity: slow stretches, gentle shaking out of arms and legs, or lying down for deep breaths.
-   Say: "Your body did so many things today! You jumped, balanced, threw, picked up tiny things, and drew. Every time you play, your muscles are growing stronger and your brain is learning how to control your body better and better."
+   Say: "Your body did so many things today! You used gross motor muscles — your quadriceps, hamstrings, deltoids — for big movements, and fine motor muscles — the tiny muscles in your hands — for careful movements. Your motor cortex planned each movement and your cerebellum made them smooth. Every time you play and practice, myelin builds up and movements become easier."
 
 ### Age Adaptations
 
 **2-3 years**:
 - Keep stations simple and less structured; allow free exploration rather than directed activities
-- Use larger objects (bigger beads, larger blocks, thicker markers) for fine motor tasks
-- Reduce station count to 2-3 to avoid overwhelming transitions
-- Focus on big movements (jumping, climbing, throwing) over delicate fine motor work
-- Expect shorter attention spans; keep each activity engagement 3-5 minutes max
+- Use larger objects (bigger beads, larger blocks, thicker markers) for fine motor tasks — the fine motor myelination pathways are still early in development
+- Reduce station count to 2-3 to match shorter attention spans; keep each engagement 3-5 minutes max
+- Focus on big movements (jumping, climbing, throwing) — gross motor myelination precedes fine motor
 - Provide more physical support and modeling; stand close and demonstrate movements
-- Use simpler, more concrete language ("Jump up!" rather than "Can you coordinate your legs?")
-- Emphasize repetition; let them do the same activity many times without pushing forward
+- Still use the real terms: say "cerebellum" and "motor cortex" — children absorb language before they can define it. Keep it brief: "Your cerebellum is learning right now!"
+- Emphasize repetition; let them do the same activity many times — repetition is exactly how myelination builds
 
 **3-4+ years**:
 - Introduce multiple stations and allow choice of which to explore first
