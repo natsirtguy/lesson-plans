@@ -6,13 +6,19 @@ Children will explore the scientific concept of fire and combustion through safe
 
 ## Vocabulary
 
-**Combustion**: The chemical process where something burns and combines with oxygen, releasing heat and light energy. *Example: When we light a birthday candle, combustion happens and creates the flame that makes light and warmth.*
+**Combustion**: A chemical reaction where fuel molecules break apart and combine with oxygen, releasing stored chemical energy as heat and light. The chemical equation for burning wax (a hydrocarbon) produces carbon dioxide and water vapor — the same gases you breathe out. *Example: When a candle burns, wax molecules react with oxygen to produce heat, light, CO₂, and water vapor.*
 
-**Fuel**: Any material that can burn and provide energy through combustion. *Example: Candle wax is a fuel, just like wood in a fireplace or gas in a car engine.*
+**Fire triangle**: The three things every fire requires simultaneously — fuel, heat, and oxygen. Remove any one side of the triangle and the fire goes out. Firefighters use this knowledge: sprinklers remove heat, smothering removes oxygen, removing fuel (like cutting down trees ahead of a wildfire) removes the third side.
 
-**Heat Energy**: The invisible power that makes things warm and causes combustion to happen. *Example: The sun's heat energy travels to Earth, and the warmth you feel on your skin is heat energy from far away.*
+**Fuel**: Any material that can undergo combustion — contains stored chemical energy that releases when the material reacts with oxygen. *Examples: Candle wax (a hydrocarbon), wood (cellulose), natural gas (methane), coal. Different fuels burn at different temperatures and produce different amounts of energy.*
 
-**Oxygen**: An invisible gas in the air that all living things breathe and that fire needs to burn. *Example: When you breathe in, oxygen fills your lungs; when a candle burns, the flame uses oxygen from the air too.*
+**Oxidation**: The chemical process of combining with oxygen. Combustion is fast oxidation; rusting iron is extremely slow oxidation. Both release energy, but combustion releases it fast enough to produce visible heat and light.
+
+**Incandescence**: The emission of visible light from a hot object. The yellow-orange part of a flame is incandescent — tiny carbon particles (soot) heated to around 1,000°C glow with visible light. The blue base of a candle flame is hotter (complete combustion, around 1,400°C) and glows from different excited molecules.
+
+**Combustion products**: What fire produces — carbon dioxide (CO₂), water vapor (H₂O), and unburned carbon particles (smoke and soot) if combustion is incomplete. This is why candles leave black marks and why chimneys need cleaning.
+
+**Ignition temperature**: The minimum temperature a fuel must reach before it will combust. Paper ignites around 233°C; wood around 300°C; gasoline at −43°C (which is why it ignites so easily). The match provides enough heat energy to reach ignition temperature.
 
 ## Learning Song
 
@@ -159,12 +165,12 @@ Children will safely observe a real candle flame and explore what fire needs to 
 **2-3 years**:
 - Use only a tea light candle or votive candle (smaller, less intense)
 - Keep children further away (at least 2 feet from flame)
-- Simplify vocabulary: Use "hot," "burn," "air" instead of combustion and oxygen
+- Use real words alongside simple explanations: say "combustion" and then "that means burning," say "oxygen" and then "a gas in the air." Don't replace real terms with only everyday words — introduce both.
 - Focus primarily on observation: watching the flame move and change color
 - Keep the glass container demo very brief (children have shorter attention spans)
 - Don't attempt to relight the candle multiple times - one demo per session
-- Make it more sensory: emphasize what they see, hear (crackling), and feel (warmth)
-- Skip the fuel discussion - just say "the candle gets used up"
+- Make it multi-sensory: emphasize what they see (flame color), hear (crackling), and feel (warmth from a safe distance)
+- For fuel: "the candle gets used up as it burns — the wax is the fuel, the thing the fire eats"
 
 **3-4+ years**:
 - Use a standard pillar candle or larger candle for better visibility

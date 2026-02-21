@@ -168,11 +168,11 @@ Let children experiment with flowing, circular movements
 **Purpose**: Gradually transition from practice state, calm the nervous system, emphasize balance and harmony
 
 **Cool-down activities**:
-1. Slow, flowing arm movements - extending slowly and returning
-2. Standing meditation or centering - "Feel your center of balance"
-3. Gentle breathing - deep, slow breaths with flowing arm movements
+1. Slow, flowing arm movements - extending slowly and returning. *Allows heart rate and breathing to return gradually toward resting levels; reduces lactic acid buildup in working muscles.*
+2. Standing centering - "Feel your center of mass. Your weight is balanced right in your lower belly. Your proprioceptive sensors in your muscles are telling your brain exactly where you are."
+3. Gentle breathing - deep, slow breaths with flowing arm movements. "Deep breathing activates the parasympathetic nervous system — the 'rest and digest' mode that calms you down after exercise."
 
-**Transition**: "We learned to move like water today - smooth, flowing, and balanced. Let's carry that calm feeling with us."
+**Transition**: "Today we practiced redirecting force — changing the direction of momentum instead of fighting it. That's not just aikido, it's physics. The same idea works with water, with balls, and with how scientists think about force and vectors."
 
 ## Age Adaptations
 

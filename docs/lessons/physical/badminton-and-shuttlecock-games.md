@@ -14,6 +14,30 @@ Badminton and shuttlecock games introduce young children to the joy of hitting, 
 
 **Space Required**: Large open area (20x20 feet minimum)
 
+## Key Vocabulary
+
+**The shuttlecock (birdie)**:
+- **shuttlecock**: the projectile used in badminton, consisting of a rounded base (cork or rubber) and a conical "skirt" of 16 overlapping feathers (or plastic vanes) — this shape creates enormous aerodynamic drag, making it decelerate much faster than a ball
+- **aerodynamic drag**: air resistance that acts opposite to motion; the shuttlecock's skirt traps air, creating drag up to 70× greater than a smooth sphere of the same weight — this is why it slows down so quickly after being hit
+- **self-righting**: the shuttlecock always falls base-first because its center of mass (the heavy cork base) is below its center of drag (the wide skirt); gravity keeps the heavy end pointing down, like a pendulum
+- **trajectory**: the curved path a projectile follows through the air under the influence of gravity and drag; the shuttlecock follows a highly curved, asymmetric arc compared to a tennis ball
+
+**Muscles and movement**:
+- **rotator cuff** (supraspinatus, infraspinatus, teres minor, subscapularis): four muscles that stabilize the shoulder joint during swinging; critical for the overhead and forehand strokes
+- **deltoid** (anterior, medial, posterior heads): the large triangular shoulder muscle that lifts the arm and powers the swing; the anterior (front) deltoid drives forehand strokes
+- **wrist extensors and flexors** (extensor carpi radialis, flexor carpi ulnaris): the forearm muscles that control the snap of the wrist through contact — the wrist snap is where most hitting speed actually comes from in badminton, not arm strength
+- **biceps brachii**: the upper arm muscle that flexes the elbow and assists with follow-through
+- **serratus anterior**: the muscle under the armpit that protracts (pushes forward) the shoulder blade; keeps the shoulder stable during the follow-through arc
+
+**Vision and tracking**:
+- **visual tracking**: the brain's ability to follow a moving object; uses smooth pursuit eye movements (different from the rapid saccades used to read); the cerebellum coordinates eye and hand to intercept moving objects
+- **binocular depth perception**: using the slightly different images from two eyes to calculate distance and speed; essential for judging where a flying shuttlecock will land; children's depth perception continues developing until age 6-7
+- **hand-eye coordination**: the feedback loop between the visual cortex (seeing where the object is) and the motor cortex (commanding hand position) — repeated practice physically strengthens the neural connections in this loop
+
+**Physics of hitting**:
+- **impulse**: the force applied over the brief moment of contact between racket and shuttlecock; a larger impulse = faster shuttlecock; the wrist snap doubles hitting speed by applying force through a wider arc at the moment of contact
+- **gravity**: the constant downward force (9.8 m/s²) that pulls the shuttlecock into its curved descent; combined with high drag, the shuttlecock drops much more steeply than a ball — this is why badminton requires hitting upward more than tennis
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -77,17 +101,17 @@ Badminton and shuttlecock games introduce young children to the joy of hitting, 
 3. Light reaching movements - Reach arms up to the sky, out to the sides, and down to the ground in a flowing motion
 
 **Warm-up cues**:
-- "Let's march like we're going on an adventure!"
-- "Make big circles with your arms like you're painting the sky"
-- "Reach up to grab clouds, reach out to hug trees"
+- "Arm circles warm up the rotator cuff — the four muscles that hold your shoulder together like a cup and a ball"
+- "Reach up as high as you can — that's your deltoid muscle, right on top of your shoulder, doing the lifting"
+- "Shake out your wrists — the wrist snap is where most of the power comes from when you hit the shuttlecock"
 
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show the child the racket and shuttlecock, letting them hold and explore both items
-- Demonstrate how to hold the racket with a relaxed grip (not squeezing)
-- Model a gentle hitting motion - explain that we're "tapping" or "bouncing" the shuttlecock through the air
-- Show how to watch the shuttlecock as it moves and follow it with your eyes
+- Show the child the racket and shuttlecock, letting them hold and explore both items. Examine the shuttlecock: "See the feathers (or plastic vanes) arranged in a cone? That's the skirt — it catches air and creates drag, which is why the shuttlecock slows down so fast. It's completely different from a ball."
+- Drop a shuttlecock from shoulder height: "Notice how it always falls with the round part down? The heavy base always falls first — the feathers at the top create drag that keeps it upright. That's called self-righting."
+- Demonstrate how to hold the racket with a relaxed grip: "Not squeezing — your wrist needs to be loose so it can snap through the hit. That snap is where the power comes from."
+- Model a gentle hitting motion: "See how my wrist flicks at the end? That snap through contact sends the shuttlecock flying."
 
 #### Skill Practice (3-6 minutes)
 
@@ -97,17 +121,17 @@ Badminton and shuttlecock games introduce young children to the joy of hitting, 
 - **Following the object**: Keep eyes on the shuttlecock, turning head and body to track its movement through the air
 
 **Coaching cues**:
-- "Hold the paddle like you're holding hands - gently, not squeezing"
-- "Pretend your paddle is a hand reaching out to tap the birdie"
-- "Watch the birdie go up, up, up! Follow it with your eyes"
-- "Light taps are better than hard hits - be gentle"
-- "You're doing great! Keep trying!"
+- "Loose grip — your forearm muscles [wrist extensors and flexors] need to snap the wrist through contact"
+- "Your shoulder muscle [deltoid] lifts the arm; your wrist snap adds the speed at the end"
+- "Watch the birdie — your brain is tracking it automatically with smooth pursuit eye movements, trying to predict where it will be"
+- "See how fast it slows down? That's the drag from the feathers — much more than a ball would have"
+- "The birdie always tips base-down. That's because the heavy part is at the bottom — gravity and drag working together"
 
 #### Guided Play/Game (3-7 minutes)
 
 **Game structure**:
 - **Tap and Catch**: Child holds shuttlecock, taps it upward with racket, then catches it with hands. Repeat. Focus on making contact with the shuttlecock consistently
-- **Gravity Game**: Tap the shuttlecock to make it float up, then let it fall and catch it with the racket
+- **Gravity and Drag Game**: Tap the shuttlecock up, then watch it slow down and fall. "Gravity is pulling it down at the same speed as a dropped rock, but the feathers create drag — air resistance — that slows its upward travel really fast. That's why it seems to 'hang' at the top."
 - **Target Practice**: Place a bucket or hoop on the ground. Child hits shuttlecock aiming for the bucket/hoop
 - **Wall Bounce**: If near a wall, child can hit shuttlecock gently toward the wall and catch the rebound
 
@@ -145,9 +169,9 @@ Let the child experiment with the racket and shuttlecock naturally:
 3. Sit or stand quietly while holding the shuttlecock - Feel its weight, examine its texture
 
 **Transition**:
-- "We did such a great job playing with the birdie! Your arms worked so hard"
-- "Let's take some deep breaths and slow down"
-- "Good work today! Time to do something quieter now"
+- "Your deltoid and rotator cuff muscles worked hard today swinging the racket — let's stretch the shoulder gently (arm across body stretch)"
+- "Think about the shuttlecock: the feathers create drag, the heavy base self-rights it, and gravity curves its path. Every time you tracked it with your eyes, your brain was solving a trajectory calculation!"
+- "The more you practice, the stronger the neural connections between your eyes and your hands get. That's why practice makes it feel easier."
 
 ## Age Adaptations
 

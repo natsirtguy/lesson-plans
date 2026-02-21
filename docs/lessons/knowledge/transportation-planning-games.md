@@ -6,13 +6,25 @@ Children explore how people and things move through space by creating simple rou
 
 ## Vocabulary
 
-**Route**: A path or course from one place to another. When you go to the grocery store, you take a route through your neighborhood, turning left at the corner and right at the park.
+**Logistics**: The science of planning and managing how people, goods, and vehicles move from one place to another efficiently. Professional logisticians decide which truck carries which packages, what order to make deliveries, and how to avoid delays. Companies like UPS and FedEx use advanced logistics software to plan millions of deliveries every day.
 
-**Destination**: The place where a journey ends or where something needs to go. A destination might be your grandparent's house, the library, or the beach.
+**Network**: A system of connected points (called **nodes**) and the paths between them (called **edges**). A road network has nodes (cities, intersections, homes) connected by edges (roads, highways). This is the mathematical basis of all route planning — a branch of mathematics called **graph theory**. Even a child's simple map of house → store → park is a network with 3 nodes and 2 edges.
 
-**Sequence**: An order in which things happen one after another. When you brush your teeth, the sequence is: wet toothbrush, put toothpaste on, brush, rinse.
+**Optimization**: Finding the best solution out of many possible options. In transportation, optimization means finding the fastest, shortest, or most efficient route. A famous math problem called the **Traveling Salesman Problem** asks: if you need to visit 10 cities and return home, what's the shortest possible route? This problem is so mathematically complex that computers struggle to solve it perfectly for large numbers of cities — yet humans intuitively do it every time they plan errands.
 
-**Obstacle**: Something that blocks the way or makes traveling harder. A tree in the middle of the road is an obstacle that a truck would need to go around.
+**Cartography**: The science and art of making maps. Maps represent three-dimensional space on a two-dimensional surface, which requires decisions about what to include, what to leave out, and how to represent distance and direction. Every map is a model — a simplified version of reality. When a child draws a "map" of their route, they are doing cartography.
+
+**Spatial reasoning**: The cognitive ability to understand, remember, and mentally manipulate information about space and the positions of objects. Strong spatial reasoning correlates with success in mathematics, engineering, and science. Planning routes — imagining "if I turn left here, where will I be?" — directly exercises spatial reasoning.
+
+**Infrastructure**: The physical systems that make transportation possible — roads, bridges, tunnels, rail lines, airports, traffic signals. Infrastructure is built by engineers and maintained by governments. Without infrastructure, no vehicle can travel a route no matter how well it's planned.
+
+**Constraint**: A limit or restriction that affects decisions. In route planning, constraints include: "the bridge is closed," "the truck can only carry 10 packages," "the store closes at 5pm." Logistics is largely the science of solving problems within constraints — finding the best possible plan given real-world limitations.
+
+**Sequence and optimization combined**: When making multiple stops, the order of stops matters enormously — this is called **route sequencing**. Picking up a heavy item first then a fragile one is better than the reverse. Visiting the far destination before the near one wastes fuel. The optimal sequence minimizes total travel distance or time — this is real mathematics that every delivery driver thinks about.
+
+**Route**: A specific path through a network from origin to destination. A single network can have many possible routes between two nodes — some shorter, some longer, some avoiding obstacles. Choosing among routes is an optimization problem.
+
+**Obstacle**: A constraint that forces a route change. In real logistics, obstacles include: road closures, bridges with weight limits, mountains, or one-way streets. Logisticians build alternative routes (redundancy) into networks precisely because obstacles are predictable.
 
 ## 🎵 Learning Song
 

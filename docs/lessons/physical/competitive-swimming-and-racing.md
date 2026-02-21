@@ -1,8 +1,32 @@
 # Competitive Swimming and Racing
 
+## Vocabulary
+
+**Buoyancy**: The upward force that water exerts on objects — described by Archimedes' principle (Greek mathematician, ~250 BC): an object in water is pushed up with a force equal to the weight of the water it displaces. If your body is less dense than water, you float. Human bodies are close to the density of water, so small changes in body position (like taking a breath) significantly affect floating.
+
+**Drag**: The resistance force that water creates against a moving body. Water is approximately 800 times denser than air, meaning every stroke must push through something far heavier than wind. Drag increases with the square of speed — swim twice as fast and you face four times as much drag. Streamlining (arms outstretched, body horizontal) minimizes drag by reducing the cross-section pushing through the water.
+
+**Propulsion**: The forward-driving force in swimming comes from Newton's Third Law of Motion: every action has an equal and opposite reaction. When your hand pushes backward through the water, the water pushes your body forward. Curved hand positions and "catch" technique (engaging water early in the stroke) maximize propulsion.
+
+**Stroke efficiency**: How much forward distance you get from each unit of energy. An efficient swimmer minimizes drag while maximizing propulsion — long glide, full extension, minimal wasted motion. Efficiency matters more than raw strength: a relaxed, streamlined child often outswims a frantically splashing one.
+
+**Cardiovascular system**: The heart, blood vessels, and lungs working together to deliver oxygen to muscles. During swimming, your heart rate increases to pump oxygenated blood faster to working muscles. Young children typically have resting heart rates of 70-110 beats per minute; during vigorous swimming this rises to 150+ bpm.
+
+**Aerobic vs. anaerobic**: Aerobic means "with oxygen" — muscles burning fuel efficiently using oxygen, sustainable for longer periods. Anaerobic means "without oxygen" — a faster, emergency energy system that causes the burning feeling in muscles and cannot be sustained. Long, steady swimming is mostly aerobic; a final sprint burst is anaerobic. The body defaults to anaerobic when aerobic can't keep up.
+
+**Breathing mechanics**: The urge to breathe is triggered by rising CO2 levels in the blood, not by lack of oxygen. Exhaling underwater (pushing bubbles out through nose/mouth) clears CO2 and prepares for an efficient breath above water. Children who hold their breath while swimming accumulate CO2 faster, causing the urgent "need to breathe" feeling sooner.
+
+**Muscles used in freestyle swimming**:
+- **Latissimus dorsi** ("lats," large back muscle): The primary pull muscle — drives the underwater stroke from catch to hip. The most important muscle in swimming.
+- **Deltoids** (shoulders): Power the arm entry and initial reach forward
+- **Triceps** (back of upper arm): Extend the arm during the underwater pull-through
+- **Quadriceps** (front of thigh) and **hamstrings** (back of thigh): Drive the flutter kick, alternating to create upward and downward motion
+- **Gluteus maximus** (buttocks): Stabilizes the hips during kicking and prevents the legs from sinking
+- **Core muscles** (abdominals, obliques): Maintain body rotation and streamlined horizontal position throughout each stroke
+
 ## Activity Summary
 
-Competitive swimming and racing introduces young children to structured swimming challenges while building stroke technique, speed, and athletic confidence. This activity transforms basic swimming skills into engaging games and friendly races that develop cardiovascular fitness, muscle strength, and competitive spirit. Racing motivates children to perfect their strokes while fostering healthy competition, goal-setting, and the joy of personal improvement.
+Competitive swimming and racing introduces young children to structured swimming challenges while building stroke technique, speed, and athletic confidence. This is also a lesson in physics (buoyancy, drag, propulsion) and physiology (cardiovascular response, aerobic metabolism, breathing mechanics). Racing motivates children to refine their strokes while experiencing the real science of what makes a faster swimmer: streamlining reduces drag, efficient catch maximizes propulsion, rhythmic breathing sustains aerobic effort.
 
 **Activity Type**: Aquatic sport / Competitive swimming
 
@@ -94,16 +118,16 @@ Competitive swimming and racing introduces young children to structured swimming
 4. Breathing practice - exhale underwater, inhale above water, smooth rhythm
 5. Pool walking or running - light cardiovascular work
 
-**Warm-up cues**: "Let's get our muscles warm and ready for some fast swimming! Feel how your legs kick and your arms pull through the water. We're going to have fun racing today, so let's get ready with some easy swimming first!"
+**Warm-up cues**: "Let's get our muscles warm and ready for fast swimming! Your heart is pumping blood to your muscles right now to bring them oxygen — that's your cardiovascular system waking up! Feel how your legs kick and your arms pull through the water. Water is 800 times heavier than air, so your body is working hard just to move through it!"
 
 ### Main Activity (12-20 minutes)
 
 #### Introduction & Demonstration (2 minutes)
 - Show child the racing lanes and explain rules
-- Demonstrate what a "start" looks like - standing at edge, ready position
-- Show finish line and explain they'll swim to it as fast as they can
-- Explain that racing means trying your best, not being better than others
-- Reassure: "Races help us see how strong we're getting. I'm excited to see you swim!"
+- Demonstrate what a "start" looks like — standing at edge, ready position — and explain why the push-off matters: "When you push off the wall, you use Newton's Third Law: you push the wall backward, and the wall pushes you forward! That's propulsion."
+- Demonstrate streamline position (arms extended, body flat, toes pointed): "This shape has the least drag — water slides around it more easily, so you go faster with less effort."
+- Explain that racing means trying your best, not being better than others: "Racing helps us see how our bodies are getting stronger and more efficient."
+- Reassure: "Your latissimus dorsi muscles — the big muscles across your back — get stronger every time you swim. Let's see them work today!"
 
 #### Skill Practice (3-5 minutes)
 **Skill breakdown**:
@@ -115,11 +139,11 @@ Competitive swimming and racing introduces young children to structured swimming
 - Finish technique - one last strong pull, touch the wall with full body
 
 **Coaching cues**:
-- "Push off hard with your feet - give yourself lots of power at the start!"
-- "Long strokes, nice and smooth. Reach forward with your arms."
-- "Breathe every 2 strokes - breathe, breathe, stroke, stroke"
-- "Keep going! The finish line is right there - you've got this!"
-- "Feel how strong your arms are pulling you through the water!"
+- "Push off hard with your feet — Newton's Third Law: push the wall, the wall pushes you forward! Then go into streamline — arms out, body flat, less drag!"
+- "Reach forward with your deltoid muscles in your shoulders, then pull through with your lats — the big muscles on the side of your back. That's your propulsion!"
+- "Blow bubbles out underwater! You're releasing CO2 so your body can take a clean, efficient breath. Breathe every 2-3 strokes — find your aerobic rhythm."
+- "Keep your hips up! Your core muscles and glutes hold your body flat so you have less drag. If your legs sink, you're working much harder."
+- "Strong kick from your hips — quadriceps on the down kick, hamstrings on the up kick! Keep ankles flexible."
 
 #### Guided Play/Game (6-12 minutes)
 **Game structure**:
@@ -163,12 +187,12 @@ Competitive swimming and racing introduces young children to structured swimming
 **Purpose**: Gradually lower heart rate, prevent dizziness, celebrate accomplishments
 
 **Cool-down activities**:
-1. Easy swimming across pool - very slow, gentle pace, focus on relaxation
-2. Floating or treading water - peaceful, rhythmic movement
-3. Kicking with kickboard gently - slow leg movements
-4. Water walking or standing in shallow end - transition out of pool
+1. Easy swimming across pool — very slow, gentle pace: "This is aerobic recovery — your heart rate is coming down, and your muscles are clearing the lactic acid that built up during the race."
+2. Floating on back — let buoyancy do the work: "Archimedes' principle is holding you up — the water is pushing up on you with a force equal to your weight!"
+3. Kicking gently with kickboard — slow leg movements to flush muscles
+4. Water walking or standing in shallow end — transition out of pool
 
-**Transition**: "You swam so fast and strong today! I loved watching you race. Now let's do some easy, slow swimming to calm our body down."
+**Transition**: "Your lats, deltoids, and quads all worked hard today! Let's stretch them — reach your arm across your chest (deltoids), then overhead and sideways (lats), then hold your foot behind you (quads). Name each muscle as you stretch it."
 
 ## Age Adaptations
 
