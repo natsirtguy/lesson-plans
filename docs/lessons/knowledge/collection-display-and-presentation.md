@@ -6,13 +6,13 @@ This lesson teaches children how to thoughtfully arrange and present their perso
 
 ## Vocabulary
 
-**Display**: To show something in a special way that helps people see it clearly and appreciate how beautiful it is.
+**Curator**: A person whose job is to organize, care for, and display a collection—in a museum, gallery, or archive. Curators decide what objects to collect, how to arrange them, and how to help visitors understand what they're seeing.
 
-**Organize**: To put things in order according to a plan, pattern, or grouping system you decide on.
+**Taxonomy**: A system of classification—grouping things by their shared characteristics. Scientists use taxonomy to organize living things by kingdom, phylum, class, order, family, genus, and species. When you sort your rocks by color or type, you're doing a form of taxonomy.
 
-**Aesthetic**: How something looks and feels—whether it's beautiful, balanced, or pleasing to look at and enjoy.
+**Symmetry**: A balanced arrangement where one side mirrors the other. A butterfly's wings are symmetrical—the left matches the right. Displays can be symmetrical (perfectly balanced) or asymmetrical (deliberately uneven in an interesting way).
 
-**Presentation**: The way something is arranged and shown to others; how you decide to display your collection so it looks its very best.
+**Aesthetic**: The quality of how something looks—whether it feels balanced, harmonious, or visually pleasing. Artists and designers think about aesthetics when arranging things, using principles like contrast (dark next to light), repetition (patterns), and focal point (the most important part that draws your eye first).
 
 ## Learning Song
 
@@ -97,13 +97,13 @@ In this hands-on activity, children will gather a collection of objects and expl
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Show the collection basket: "Look at all the wonderful things you've found! Each one is special." Invite exploration and questions: "What do you notice about these? Are some rough? Smooth? Different colors?" Introduce the display area: "Today we're going to arrange these treasures so they look beautiful. There's no right or wrong way—you get to decide how they look."
+   Show the collection basket: "Look at all the wonderful things you've found! Each one is special." Invite exploration and questions: "What do you notice about these? Are some rough? Smooth? Different colors?" Introduce the display area: "Today we're going to arrange these like a curator—that's what museum workers are called. Curators at natural history museums decide how to display fossils, shells, and minerals so people can understand them. We're going to think about how to arrange ours so they're interesting and beautiful."
 
 2. **Exploration and Sorting** (5-10 minutes):
-   Invite the child to examine items in the collection closely. They may naturally sort by type, color, size, or texture. Notice what they're drawn to—those are good starting points. Comment on discoveries: "That leaf has so many colors!" or "These rocks feel so smooth." Guide them toward placement when ready: "Where does this one look nice?" or "Should they be close together or spread out?"
+   Invite the child to examine items in the collection closely. They may naturally sort by type, color, size, or texture—this is taxonomy in action. Name it: "You're sorting by color—that's taxonomy, like scientists do when they organize specimens." Comment on discoveries: "That leaf has so many colors!" or "These rocks feel so smooth—that texture might be from being worn down by water over thousands of years." Guide them toward placement when ready: "Where does this one look nice?" or "Should they be close together or spread out?"
 
 3. **Arrangement and Refinement** (8-12 minutes):
-   Child begins placing items on the display surface. Encourage thoughtful placement rather than random tossing. Ask open-ended questions and let their choices lead. If they become stuck, offer gentle suggestions: "Let's try grouping the blue ones together" or "How about arranging these from biggest to smallest?" Help with background or framing if the child wants it. Step back together periodically to view the display from a distance: "Let's see how it looks from here."
+   Child begins placing items on the display surface. Encourage thoughtful placement rather than random tossing. Introduce design vocabulary as they work: "That arrangement looks symmetrical—the same on both sides, like a butterfly." Or: "That's asymmetrical—different on each side, but it still looks balanced. A lot of artists prefer asymmetry because it's more surprising." Ask open-ended questions: "What's the most important item? Let's put it where your eye goes first—that's the focal point." If they become stuck, offer gentle suggestions: "Let's try grouping the blue ones together" or "How about arranging these from biggest to smallest?" Step back together periodically: "Let's see how it looks from a distance—that's what curators do in museums."
 
 4. **Celebration and Wrap-Up** (3-5 minutes):
    When the child is satisfied, celebrate the finished display. Ask: "Tell me about your display. Why did you put these together?" or "What's your favorite part?" Take a photo of the display for memory-keeping. Discuss where to keep it: "Should we leave this up for a few days so you can enjoy it, or shall we carefully pack it away?"
@@ -113,10 +113,10 @@ In this hands-on activity, children will gather a collection of objects and expl
 **2-3 years**:
 - Offer fewer items (8-12 pieces) to avoid overwhelm
 - Use larger items (rocks, shells, big leaves) that are easy to manipulate
-- Focus on sensory exploration and placement rather than complex composition
-- Expect more repetitive arranging and rearranging
+- Focus on sensory exploration and placement; narrate as they work: "You put the big one in the middle—that makes it the focal point"
+- Expect more repetitive arranging and rearranging—this is the process
 - Provide more hands-on assistance with placement if needed
-- Keep language simple: "big" or "small" instead of "symmetrical"
+- Use the words—"symmetrical," "taxonomy," "curator"—with simple explanations alongside them. Children absorb vocabulary through exposure
 - Duration: 15-20 minutes with more frequent short breaks
 
 **3-4+ years**:

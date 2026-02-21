@@ -1,20 +1,22 @@
-# 📚 KNOWLEDGE, SKILLS & CULTURE: Spatial Reasoning Activities
+# KNOWLEDGE, SKILLS & CULTURE: Spatial Reasoning Activities
 
-## 🎯 Activity Summary
+## Activity Summary
 
 Children explore how objects relate to each other in space by building structures, solving puzzles, and creating maps. Through manipulating blocks, designing layouts, and tackling spatial challenges, kids develop critical thinking about shapes, direction, and perspective. This activity builds problem-solving abilities, mathematical thinking, and creative design skills.
 
 ## Vocabulary
 
-**Spatial relationships**: The way objects are positioned in relation to each other—beside, above, below, inside, outside. Understanding spatial relationships helps children navigate their world and solve problems about how things fit together.
+**Spatial reasoning**: The ability to think about objects in three dimensions and understand how they relate to each other in space. Scientists know that spatial reasoning is a distinct cognitive skill—trainable through practice—and that it strongly predicts success in mathematics, engineering, surgery, and many other fields.
 
-**Symmetry**: When something looks the same on both sides, like matching wings on a butterfly or identical towers on both sides of a bridge. Symmetrical designs are balanced and appear pleasing to the eye.
+**Mental rotation**: The ability to imagine an object rotating in your mind without physically moving it. When you turn a puzzle piece in your head to see if it fits, you're doing mental rotation. This skill lives in the parietal lobe of the brain.
 
-**Perspective**: How something looks from different viewpoints—from above (bird's-eye view), from the side, or from far away. Understanding perspective helps us understand how the same object can look different depending on where we're standing.
+**Perspective**: How something looks from a specific viewpoint—from above (bird's-eye view), from the side, from far away. Understanding perspective means understanding that the same object can look completely different depending on where you're standing. Architects, pilots, and surgeons rely on this constantly.
 
-**Architecture**: The design and construction of buildings and structures. Architecture combines art, engineering, and spatial reasoning to create homes, bridges, temples, and other structures that shape how humans live.
+**Hippocampus**: A seahorse-shaped part of the brain that stores spatial maps—mental representations of where things are in space. When you learn a new place, your hippocampus creates a map of it. Taxi drivers who memorize city layouts have measurably larger hippocampi.
 
-## 🎵 Learning Song
+**Architecture**: The design and construction of buildings and structures. Architecture combines art, engineering, and spatial reasoning—architects must hold entire three-dimensional buildings in their minds and transform ideas into blueprints before a single brick is laid.
+
+## Learning Song
 
 **Tune**: London Bridge Is Falling Down
 
@@ -39,7 +41,7 @@ Shapes and spaces all come through
 2. Make a square frame with both hands to show perspective/viewing from different angles
 3. Sweep hands outward to show structures and space around them
 
-## 📺 Intro Video Recommendation
+## Intro Video Recommendation
 
 **Recommended search**: "Spatial reasoning activities for toddlers and preschoolers"
 
@@ -96,13 +98,13 @@ Children freely explore building with blocks and objects, then tackle specific s
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show a simple structure you built with blocks: "I made something with blocks—can you see the shape?" Introduce the concept: "Today we're exploring how things fit together and how they look from different angles." Let the child build something simple alongside you.
+   Show a simple structure you built with blocks: "I made something with blocks—can you see the shape?" Introduce the concept: "Today we're practicing something called spatial reasoning—that's the part of your brain that thinks about where things are and how they fit together. It's the skill architects use when they design buildings, and surgeons use when they perform operations. Your brain has a special area called the hippocampus that makes maps of space. Every time you build something and figure out where pieces go, you're training it."
 
 2. **Exploration** (5-10 min):
    Child freely builds with blocks while you observe and ask open questions like "What are you building?" and "How are the pieces fitting together?" Comment on their spatial thinking: "You put the big block on the bottom—that's smart!" or "Those pieces are lined up in a row." Allow experimentation without judgment.
 
 3. **Discovery** (3-5 min):
-   Introduce a gentle challenge like "Can you build something with a door and a window?" or "Can you draw a picture of what you built from above, like looking down from the ceiling?" Ask directional questions: "Is this block in front of or behind that one?" Work through spatial problems together if structures become unstable.
+   Introduce a gentle challenge like "Can you build something with a door and a window?" or "Can you draw a picture of what you built from above, like looking down from the ceiling—that's the bird's-eye view, or what architects call a plan view." Ask directional questions: "Is this block in front of or behind that one?" Try a mental rotation challenge: "Without touching it, can you imagine what this looks like from the other side? Now let's check!" Work through spatial problems together if structures become unstable—narrate the physics: "It fell because the base was too narrow for the height. Engineers call that a stability problem."
 
 4. **Wrap-up** (2-3 min):
    Step back and view the completed structures together. Photograph them before dismantling. Ask: "What did you build? How did you solve that?" Celebrate their thinking and problem-solving, then transition to cleanup, which can be framed as returning objects to their proper spaces.
@@ -110,7 +112,7 @@ Children freely explore building with blocks and objects, then tackle specific s
 ### Age Adaptations
 
 **2-3 years**:
-Focus on simple stacking and building. Offer larger DUPLO blocks that are easier to handle. Use very simple spatial concepts (big/small, in/on, up/down). Keep challenges to one step: "Can you make it tall?" Participate heavily alongside the child, and celebrate every attempt. Keep spatial vocabulary minimal and concrete.
+Focus on simple stacking and building. Offer larger DUPLO blocks that are easier to handle. Keep challenges to one step: "Can you make it tall?" Participate heavily alongside the child. Use the real vocabulary with simple explanations alongside: "You put it on top—that's a spatial relationship, above and below." Every attempt is building spatial reasoning skills in the hippocampus.
 
 **3-4+ years**:
 Encourage planning before building: "What will you build first?" Introduce more complex spatial challenges and simple puzzles. Have the child draw maps of structures from different views. Challenge them to build specific things: "Can you build a bridge your toy can go under?" Introduce more sophisticated spatial vocabulary and basic symmetry concepts.
@@ -127,7 +129,7 @@ Encourage planning before building: "What will you build first?" Introduce more 
 
 **Repeat play**: Try thematic building challenges (city planning, construction projects) or ask the child to build something from a photograph or picture of a real structure.
 
-## 📝 Parent/Caregiver Notes
+## Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
