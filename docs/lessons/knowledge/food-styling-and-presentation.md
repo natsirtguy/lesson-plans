@@ -110,37 +110,37 @@ In this hands-on activity, children explore food as a medium for creative expres
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Hold up a colorful plate and say, "Today we're going to be food artists! Look at all these beautiful colors—red, orange, yellow, green, blue, and purple. Can you find each color?" Show how you gently place one piece of food on a plate, explaining: "We're making our food look beautiful before we eat it. Your plate is special because YOU made it."
+1. **Introduction — The Color Science of Food** (2-3 min):
+   Hold up foods one at a time. Say: "Strawberries are red because they're full of special color molecules called anthocyanins — antho-sy-ah-nins. Carrots are orange because of carotenoid pigments — kah-rot-eh-noids. Cucumbers are green because of chlorophyll — the same molecule plants use to capture sunlight! Every color in food is a different chemical." Sort the foods by color group: reds/purples (anthocyanins), oranges/yellows (carotenoids), greens (chlorophyll). Ask: "What color pigment is in this strawberry?" Hold up each food and let the child guess the pigment group.
 
-2. **Exploration** (5-10 min):
-   Child picks up one food item at a time and places it on their plate. Encourage sensory observation with questions: "What color is that? Does it feel bumpy or smooth? Can you smell it?" Child may arrange foods randomly, in patterns, or leave spaces. Observe without directing; let the child's interests guide their choices.
+2. **Exploration — Arrange by Pigment Color** (5-10 min):
+   Child picks up one food item at a time and places it on their plate. Encourage scientific observation: "What pigment molecule makes this color? Is it an anthocyanin or a carotenoid?" Ask texture questions with the science: "Is this crunchy? Strong cell walls make food crunchy. Is this soft? High water content in the cells makes it soft. Can you smell it? The smell is volatile molecules — tiny particles floating off the food into your nose!" Let the child place foods to create contrast — try red next to green (complementary colors), orange next to purple, etc. "Notice how those two colors make each other look brighter? That's complementary contrast!"
 
-3. **Guided Discovery** (3-5 min):
-   Model simple arrangement patterns: "I'm making a circle with the red strawberries. Can you make a circle too?" Ask open-ended questions: "What color will you put next to the orange?" Introduce texture contrast: "This is crunchy (snap a cracker). This is soft (point to banana). Can you find something crunchy and something soft?" Provide gentle narration of what you observe.
+3. **Guided Discovery — Complementary Colors and Contrast** (3-5 min):
+   Point out complementary color pairs in the food: red strawberry + green cucumber, orange carrot + blue/purple grape. "On the color wheel, these are opposite each other — they look most vivid when placed side by side. Professional chefs and photographers use this trick called complementary contrast." Model placing a dark food next to a light food: "Dark against light — that's another kind of contrast that makes food look beautiful and easy to see." Ask: "What's the most colorful combination you can make? More different pigments means more different phytonutrients — nutrients that protect your body!"
 
-4. **Wrap-Up** (2-3 min):
-   Ask reflection questions: "Tell me about your food art. What colors did you use? What's your favorite part?" Take a photo if desired. Celebrate the child's work: "You are such a creative food artist!" Explain that food art is made to be eaten: "Now we get to taste your beautiful creation!"
+4. **Wrap-Up — Eat the Phytonutrients** (2-3 min):
+   Ask reflection questions: "What pigment molecules are on your plate? Which color group has the most — anthocyanins, carotenoids, or chlorophyll? What happens when we eat ALL the colors?" Explain: "Every color is a different phytonutrient — a protective chemical from the plant. When you eat a rainbow, you get many different protective chemicals working in your body!" Take a photo if desired. Celebrate: "That's real nutrition science — you designed a plate with multiple pigment groups!" Then eat together and taste each color group.
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep foods larger and easier to grasp (quarter-sized pieces or larger). Provide 3-4 food options to avoid overwhelm. Pre-arrange some foods on the plate to model the concept; let child add their choices. Use simple single-word instructions: "Red? Blue?" Expect shorter attention spans (8-12 minutes total) with more adult guidance. Adult should model behavior and provide one-step directions.
+Keep foods larger and easier to grasp (quarter-sized pieces or larger). Provide 3-4 food options from different pigment groups. Introduce just two vocabulary words: "anthocyanin" (for any blue/red food) and "carotenoid" (for any orange food). Say the words enthusiastically and let the child repeat them — toddlers love big scientific words even without full understanding. Pre-arrange one food of each color and let child add more. Use simple prompts: "Find the anthocyanin — the red one!" Expect shorter attention spans (8-12 minutes total).
 
 **3-4+ years**:
-Offer more food variety (6-8+ options) to encourage choice-making. Introduce simple patterning: "Can you make a pattern? Red, yellow, red, yellow..." Encourage intentional design: "What will you make? A rainbow? A flower? A face?" Allow child to help serve foods into small bowls. Ask more complex questions: "Why did you put that there?" Encourage exploration of food characteristics: "Which foods are crunchy? Which are soft?" They may sustain interest for 20-25 minutes.
+Offer more food variety (6-8+ options) across all pigment groups. Introduce all vocabulary: anthocyanins (purple/red/blue), carotenoids (orange/yellow), chlorophyll (green). Ask: "Can you find all three pigment groups for your plate?" Introduce complementary contrast deliberately: name the color wheel pairs. Ask more complex questions: "Why do these two colors look so bright together?" Encourage them to say: "I have anthocyanins, carotenoids, AND chlorophyll on my plate — a full phytonutrient set!" They may sustain interest for 20-25 minutes with these deeper concepts.
 
 ### Extension Ideas
 
-**Variation 1 - Color Exploration**: Focus on creating monochromatic (one-color) plates. "Can you make a plate with only red foods? Now let's try orange!"
+**Variation 1 - Pigment Group Sorting**: Create three sections on the plate: "Anthocyanins here (blues/reds/purples), carotenoids here (oranges/yellows), chlorophyll here (greens)." Find foods that belong in each group and place them. "Which group has the most? Which is the rarest in what we have today?"
 
-**Variation 2 - Pattern Making**: Introduce simple repeating patterns. "Can you make stripes with your food? Can you make alternating colors?"
+**Variation 2 - Oxidation Experiment**: Cut an apple and leave half exposed to air. Squeeze lemon juice on the other half. Watch both over 10 minutes. "The brown color is a chemical reaction called oxidation — oxygen in the air reacts with molecules in the apple. The lemon juice — citric acid — slows the reaction. That's chemistry happening right in our kitchen!"
 
-**Variation 3 - Shape Creation**: "Let's arrange foods to look like a face with food! Where will the eyes go? Where's the mouth?"
+**Variation 3 - Complementary Contrast Design**: Find red food and green food and place them side by side. Find orange food and blue/purple food and place them together. "These are complementary colors — opposites on the color wheel. They make each other look most vivid. That's why salads often have red tomatoes with green lettuce!"
 
-**Variation 4 - Texture Sorting**: Create two sections on the plate—"Crunchy foods here, soft foods here." Compare and discuss.
+**Variation 4 - Texture Science Sorting**: Create two sections: "Strong cell walls (crunchy) here, soft cells (tender) here." Sort foods by texture. "Raw carrot: crunchy — strong plant cell walls. Banana: soft — high water content in cells. What makes food crunchy or soft is actually the structure of the cells inside."
 
-**Variation 5 - Rainbow Challenge**: "Can you use all the colors of the rainbow on your plate? Red, orange, yellow, green, blue, and purple!"
+**Variation 5 - Maillard Reaction Observation**: Show a piece of untoasted bread and a piece of toasted bread. "Toast is brown because of the Maillard reaction — when heat changes the proteins and sugars in the bread and creates hundreds of new flavor and color molecules. Food stylists often use browning to add color!" (Adults can toast during or before the activity.)
 
 ## 📝 Parent/Caregiver Notes
 

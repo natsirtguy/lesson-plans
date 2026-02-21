@@ -6,13 +6,27 @@ This lesson introduces young children to age-appropriate digital play, developin
 
 ## Vocabulary
 
-**Interface**: The buttons, screens, and controls you use to interact with a game—like the touchscreen on a tablet or the buttons on a controller that let your fingers tell the game what to do.
+**Interface**: The buttons, screens, and controls you use to interact with a game. Interfaces translate human actions (finger tap, button press) into electrical signals the computer can process.
 
-**Navigate**: To move around and find your way through a game world or app by tapping, swiping, or pressing buttons to guide a character or make choices.
+**Touchscreen (capacitive)**: Modern touchscreens work through capacitance — the screen has a grid of tiny conductors carrying a small electrical charge. A human finger (which conducts electricity) disrupts the charge at the point of contact. The screen's processor detects exactly which grid point was disrupted, translating it into screen coordinates (x, y position) in milliseconds.
 
-**Interact**: To engage with something and watch it respond to your actions—when you tap a picture or push a button, the game reacts with sounds, movement, or changes on the screen.
+**Pixel**: The smallest unit of a digital display — short for "picture element." A typical tablet screen has 2–3 million pixels. Each pixel contains three tiny LEDs (red, green, blue — RGB). By mixing different intensities of R, G, and B, each pixel can display any of 16 million colors. Everything you see on screen is constructed from this grid of colored dots.
 
-**Respond**: When something answers back or reacts to what you do—when you tap a game, it responds by making sounds or showing new pictures.
+**Processor / CPU**: The central processing unit — the "brain" of the device. It executes millions of instructions per second, calculating where every character should be, what sound to play, and what to show next, many times per second (typically 30–60 frames per second in games).
+
+**Algorithm**: A set of step-by-step instructions that tells a computer what to do. A simple game algorithm might say: "If the finger touches the duck → play quack sound → add 1 point → move duck to new position." Every game is built from thousands of interlocking algorithms written by programmers.
+
+**Code / Programming**: The written instructions (using languages like Python, C++, or JavaScript) that programmers write to create apps and games. A simple game might contain tens of thousands of lines of code. When a child taps the screen, the code written by a programmer determines exactly what happens.
+
+**Input and Output**: In computing, input is information going INTO the computer (your finger tap, a button press), and output is information coming OUT (the sound, the animation, the image change). Every interaction in a game is an input-output cycle.
+
+**Digital sound synthesis**: When a game plays a sound, the CPU generates numbers representing sound wave shapes (frequency = pitch, amplitude = volume). The digital-to-analog converter (DAC) converts those numbers into electrical signals that make the speaker vibrate at those frequencies, producing the sound your ear hears.
+
+**Frame rate**: Video games and animations work by showing a rapid sequence of still images (frames). At 30 frames per second (fps), the CPU calculates and renders 30 complete screen images every second. The human visual system perceives this as smooth motion (persistence of vision).
+
+**Navigate**: To move through a game world or app — translates in computing to changing which data (levels, screens, menus) is currently loaded and displayed by the processor.
+
+**Game engine**: The underlying software system that handles physics, graphics, sound, and input for a game. Professional game engines like Unity or Unreal Engine allow programmers to create complex 3D worlds with realistic physics (gravity, collision) without writing the basic rules from scratch.
 
 ## Learning Song
 
@@ -111,10 +125,10 @@ Children will engage in supervised digital play on a tablet or touchscreen devic
 **Activity Flow**:
 
 1. **Introduction** (1-2 min):
-   - Sit together and show the child the app briefly
-   - Name what you see: "Look, there's a duck! We can tap the duck"
-   - Model tapping gently once or twice
-   - Say: "Your turn—you try tapping the duck. What happens?"
+   - Sit together and before opening the app, briefly explain what's happening inside the device: "This tablet has a tiny brain called a processor — it's like a super-fast calculator that runs millions of instructions every second. When you tap the screen, tiny electrical sensors feel your finger, and the processor decides what to do — play a sound, show a new picture, move a character."
+   - Open the app and name what you see: "Look, there's a duck! We can tap the duck."
+   - Model tapping gently once or twice: "See? My finger tap was an input — information going in. The quack sound and the duck bouncing are the output — the computer's response!"
+   - Say: "Your turn — you give it an input. What output do you get?"
 
 2. **Exploration** (7-10 min):
    - Let the child lead exploration with your guidance
@@ -126,10 +140,10 @@ Children will engage in supervised digital play on a tablet or touchscreen devic
    - Sit close and narrate what's happening to deepen engagement
 
 3. **Discovery** (1-2 min):
-   - Pause briefly and point out cause-and-effect: "When you tapped, it made a sound!"
-   - Ask: "What's your favorite part?"
-   - Notice whether child prefers tapping, swiping, or longer-press interactions
-   - Comment on colors, characters, or sounds they're interacting with
+   - Pause briefly and make the cause-and-effect concrete with technical language: "When you tapped, your finger's electricity was sensed by the touchscreen grid. The processor read those coordinates, ran the game's algorithm (its instructions), and output: the sound, the animation, the new picture."
+   - Point to the screen and say: "Everything you see is made of tiny pixels — little dots of red, green, and blue light mixed together. See if you can spot where two colors blend!"
+   - Ask: "What's your favorite part?" and follow up with: "A programmer wrote code — written instructions — to make exactly that thing happen."
+   - Notice whether child prefers tapping, swiping, or longer interactions
 
 4. **Wrap-up** (1-2 min):
    - Use the timer to give warning: "Two more taps, then we're finished"
@@ -140,13 +154,14 @@ Children will engage in supervised digital play on a tablet or touchscreen devic
 ### Age Adaptations
 
 **2-3 years**:
-- Use very simple apps with immediate, obvious responses (tap = sound/movement)
+- Use very simple apps with immediate, obvious responses (tap = sound/movement) — single input-output cycles that are easy to observe
 - Keep sessions to 5-10 minutes maximum
-- Focus on single-interaction games (tap something, one thing happens)
+- Focus on single-interaction games (tap something, one thing happens); narrate using real vocabulary: "You gave the computer an input — a tap! Now it gave you an output — the sound!"
 - Let adult's hands guide or demonstrate first
 - Choose apps without complex navigation (no menus, buttons on edges, etc.)
-- Expect shorter attention span—have multiple apps ready to switch between
-- Avoid games that require fine precision (better: large tap targets)
+- Expect shorter attention span — have multiple apps ready to switch between
+- Avoid games that require fine precision (better: large tap targets that give the touchscreen's capacitive sensors an easy target)
+- Point out pixels: hold the screen very close and point to the tiny colored dots visible at the edge of large shapes
 
 **3-4+ years**:
 - Introduce apps with slightly more complexity (multi-step sequences)
