@@ -116,9 +116,10 @@ Children will safely observe a real candle flame and explore what fire needs to 
 2. **Exploration** (8-10 minutes):
 
    **Part A - Observe the Flame** (2-3 min):
-   - Light the candle slowly and carefully, narrating as you do: "Now I'm giving the candle heat energy with the match. Watch what happens..."
-   - Once lit, ask children to observe: "What do you see? What color is the flame? What shape is it? Does it move?"
-   - Point out: The bright yellow/orange part is the flame, the invisible part above is hot gases, the very tip is the hottest part
+   - Light the candle slowly and carefully, narrating as you do: "Now I'm giving the candle heat energy with the match — enough to reach the wax's ignition temperature. Watch what happens..."
+   - Once lit, ask children to observe: "What do you see? What colors do you notice? What shape is it? Does it move?"
+   - Point out the different flame zones: "See the very bottom — it's blue! That's the hottest part, where complete combustion happens, around 1,400 degrees. The yellow-orange middle glow is from tiny carbon particles — bits of wax that didn't fully burn — glowing from heat. That's called incandescence, like a glowing ember."
+   - Add: "The invisible part above is hot gases rising — carbon dioxide and water vapor, the combustion products. Fire uses up the wax and produces CO₂ and water vapor as it burns."
 
    **Part B - Feel the Heat Energy** (2-3 min):
    - Hold your hand (or the child's hand with permission) about 12 inches above the flame
