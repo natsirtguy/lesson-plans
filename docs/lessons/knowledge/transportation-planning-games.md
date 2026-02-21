@@ -71,9 +71,9 @@ Best route ever, have you seen?
 
 ### Activity Overview
 
-Children become "transportation planners" by drawing routes on paper, adding destinations, and deciding where vehicles should stop. They then act out these journeys, developing understanding of spatial relationships, sequencing, and basic logistics. This hands-on activity combines planning, movement, and creative problem-solving.
+Children become transportation planners — engaging directly with real concepts from logistics, graph theory, and cartography. They will create networks (with nodes and edges), practice route optimization (which order of stops is most efficient?), and encounter constraints that require problem-solving. This is not just "themed play with a toy car" — it introduces real mathematical and logistical thinking. The Traveling Salesman Problem, one of the most famous unsolved problems in mathematics, is something even a 3-year-old can intuitively experience when they wonder "should I go to the store first or the park first?"
 
-**Activity Type**: Creative problem-solving / Cognitive games / Hands-on mapping
+**Activity Type**: Logistics / Mathematics / Cartography / Spatial reasoning
 
 **Duration**: 20-30 minutes
 
