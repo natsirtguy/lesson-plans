@@ -6,13 +6,25 @@ Children explore three-dimensional art creation by sculpting with clay or playdo
 
 ## Vocabulary
 
-**Sculpture**: A three-dimensional work of art that exists in space and can be viewed from different angles and distances
+**Sculpture**: A three-dimensional work of art that exists in space and can be viewed from multiple angles — unlike a painting (2D, flat), sculpture occupies real volume. Humans have made sculpture for over 40,000 years; the oldest known example is the Lion-Man figurine carved from mammoth ivory in ancient Germany.
 
-**Texture**: The way a surface feels when you touch it—such as bumpy, smooth, rough, ridged, or spongy
+**Plasticity**: The property of a material that allows it to be permanently deformed without breaking. Clay is plastic because its tiny mineral platelets (kaolinite, illite, or montmorillonite) slide over each other when wet, then hold new shapes as they dry.
 
-**Mold**: To shape clay or playdough by hand, pressing and squeezing it into different forms and designs
+**Additive sculpture**: Building up form by adding material — rolling a ball and pressing smaller pieces onto it. This is how many professional sculptors work, including artists who modeled figures in clay before casting them in bronze.
 
-**Spatial awareness**: Understanding how objects take up space in three dimensions and how they can be moved and positioned around you
+**Subtractive sculpture**: Removing material to reveal a form — carving away clay, or in professional work, chiseling marble or wood. Michelangelo created his famous marble statues this way, famously saying the statue already existed inside the stone.
+
+**Relief sculpture**: A sculpture that projects from a flat background surface — like the raised designs on coins. Press flat clay and push or carve into it to make a relief.
+
+**Armature**: An internal skeleton or framework (wire, sticks, cardboard) that supports a clay sculpture from the inside — the same principle as a building's steel skeleton supporting walls. For young children, a stick or rolled foil core can serve as an armature.
+
+**Texture**: The tactile quality of a surface, produced by the physical arrangement of material at the surface. Artists deliberately create texture (rough = raw/powerful, smooth = refined) to shape how viewers experience a sculpture.
+
+**Kiln**: An extremely hot oven (900–1,400°C / 1,650–2,550°F) used to fire natural clay, causing vitrification — the clay minerals fuse together permanently, becoming hard and waterproof. Playdough air-dries but does not vitrify; real earthenware and porcelain must be kiln-fired to become permanent.
+
+**Polymer**: A large molecule made of long repeating chains. Commercial playdough contains wheat starch polymers that give it elasticity and allow it to hold shape. This is related to how plastic toys and rubber are made — all polymer materials, processed differently.
+
+**Volume and form**: Volume is the three-dimensional space a sculpture occupies. Form is the visual shape of that volume. Sculptors think about how form changes as you move around a piece — the front view and side view are often completely different.
 
 ## 🎵 Learning Song
 

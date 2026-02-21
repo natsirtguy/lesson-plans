@@ -14,6 +14,30 @@ Soccer and football introduce young children to ball control, directional awaren
 
 **Space Required**: Large open area (at least 20x20 feet minimum)
 
+## Key Vocabulary & Body Science
+
+**Muscles at work** (name these during the activity):
+- **Quadriceps** (quad-ri-seps): The four muscles on the front of your thigh that extend (straighten) your knee — the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius. "When you swing your leg to kick, your quads are what power the swing!"
+- **Hip flexors — iliopsoas** (ill-ee-oh-so-as): A pair of deep muscles connecting your spine and pelvis to your thigh bone that swing your leg forward. "That's your iliopsoas — your leg's forward engine!"
+- **Gluteus medius** (gloo-tee-us mee-dee-us): The hip muscle on the side of your pelvis that keeps you from tipping over when you balance on one leg to kick. "While one leg kicks, your gluteus medius on the other leg holds you upright!"
+- **Gastrocnemius** (gas-troc-nee-me-us): The main calf muscle that points your foot downward when you kick through the ball. "Point your toe when you kick — that's your gastrocnemius contracting!"
+- **Tibialis anterior** (tib-ee-ay-lis an-teer-ee-or): The muscle on the front of your shin that dorsiflexes (lifts) your foot for the inside-of-foot kick position. "Turn your foot sideways to use the inside — your tibialis anterior positions it!"
+- **Core stabilizers**: Transverse abdominis, obliques, and erector spinae all brace your torso as you swing your leg, transferring power from your hip through your whole body.
+
+**Body science concepts**:
+- **The kicking lever**: Your leg works as a lever — your hip is the pivot point (fulcrum), your quadriceps and hip flexors provide the force, and your foot is the end of the lever that contacts the ball. A longer swing creates more force, like a longer lever arm.
+- **Center of percussion**: The best spot on your foot to strike the ball. Hitting with the instep (the laces area) transfers maximum force; hitting with the inside of the foot gives more direction control. "Inside = control; laces = power!"
+- **Foot dominance and laterality**: Most people naturally prefer one foot — usually corresponding to their dominant hand. This is determined by which brain hemisphere is dominant for motor control. Practicing with both feet builds neural connections in both hemispheres. "Both feet can learn — the brain just needs practice!"
+- **Proprioception** (pro-pree-oh-sep-shun): Your body's sense of where your foot is in space without looking — essential for controlling the ball without watching your feet constantly. "Pro soccer players barely look at the ball — they feel where their feet are!"
+- **Momentum and force transfer**: When your swinging leg hits the ball, your leg's momentum (mass × speed) transfers into the ball and launches it. "Swing faster = kick harder — that's physics!"
+- **Balance on one leg**: To kick, you stand on one leg while swinging the other — your vestibular system (inner ear) and proprioceptive receptors in your ankle work together every millisecond to prevent falling.
+
+**Simple phrases for caregivers to use naturally during play**:
+- "Feel your quads and hip flexors swinging your leg — those are your kicking engines!"
+- "Balance on that leg — your gluteus medius is holding you upright right now!"
+- "Inside of your foot for control — tibialis anterior turns your foot sideways"
+- "Your momentum is in your swing — bigger swing, the ball goes farther!"
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -74,7 +98,7 @@ Soccer and football introduce young children to ball control, directional awaren
 2. Leg swings - hold an adult's hand, swing one leg forward and back gently (5-8 swings each leg)
 3. Gentle knee lifts - march in place, lifting knees a little higher than normal walking
 
-**Warm-up cues**: "Let's warm up our legs! We're going to walk around like we're exploring, then jog like we're chasing butterflies. Now let's swing our legs like pendulums! Lift your knees like you're stepping over puddles!"
+**Warm-up cues**: "Let's warm up our quadriceps on the front of our thighs and our hip flexors — those are the muscles that swing our legs to kick! Walk around like we're exploring, then jog like we're chasing butterflies — feel your quads and calves warming up. Now let's swing our legs like pendulums to stretch the hip flexors — the iliopsoas is a deep muscle that connects your spine to your leg! Lift your knees like you're stepping over puddles — that fires your hip flexors and tibialis anterior on your shins!"
 
 ### Main Activity (8-15 minutes)
 
@@ -92,11 +116,12 @@ Soccer and football introduce young children to ball control, directional awaren
 3. **Stopping the ball** - Place one foot on top of the ball to stop it from rolling
 
 **Coaching cues**:
-- "Use the inside of your foot - the big side near your toes"
-- "Follow the ball with your eyes as it rolls"
-- "Stand on one strong leg while you kick with the other"
-- "Kick gently, like you're pushing, not hitting hard"
-- "Great job! You're moving like a soccer player!"
+- "Use the inside of your foot — turn it sideways like a paddle. That's your tibialis anterior positioning your foot for control!"
+- "Follow the ball with your eyes as it rolls — your proprioception will take over as you improve and you won't need to look as much"
+- "Stand on one strong leg while you kick with the other — your gluteus medius on the standing leg is keeping you from tipping over!"
+- "Swing your leg and follow through — the momentum in your swing transfers into the ball"
+- "Kick gently for now — we're learning to control the force we send into the ball"
+- "Great job! You're building the soccer neural pathways right now!"
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -131,11 +156,11 @@ Let children experiment with the ball freely - they may kick, roll it with their
 **Purpose**: Gradually lower heart rate and help children transition from active play to calm activities.
 
 **Cool-down activities**:
-1. Slow walking - walk around the play area at a comfortable pace, gradually slowing
-2. Stretching - gently reach down toward toes (not pushing to full stretch), reach arms up high and sway gently
-3. Deep breathing - "Let's take big breaths in and out. In through your nose, out through your mouth. Nice and slow."
+1. Slow walking - walk around the play area at a comfortable pace, gradually slowing. "Your heart rate is coming down — it was beating fast to pump oxygenated blood to all your working muscles!"
+2. Stretching - gently reach down toward toes to stretch the hamstrings (muscles on the back of your thighs) and gastrocnemius (calves). Reach arms up high and sway gently to stretch the hip flexors (iliopsoas) in an upright lunge position. "We're stretching the quadriceps, hamstrings, and hip flexors that did all the kicking work!"
+3. Deep breathing - "Let's take big belly breaths — in through your nose for 4 counts, out through your mouth for 4 counts. Your diaphragm is the dome-shaped muscle below your lungs that contracts to pull air in. Slow deep breathing activates your parasympathetic nervous system — the part of your brain that tells your body to rest and recover."
 
-**Transition**: "We've done so much soccer play! Now let's cool down our bodies with slow walking, and then we can rest."
+**Transition**: "We've done so much soccer play! Your quadriceps, hip flexors, and calf muscles worked hard today. Now let's cool down our bodies with slow walking, and then we can rest."
 
 ## Age Adaptations
 

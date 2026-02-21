@@ -2,17 +2,21 @@
 
 ## Activity Summary
 
-Through engaging puzzles and problem-solving activities, children develop persistence, reasoning skills, and confidence in tackling challenges. This lesson introduces the joy of solving problems by working through age-appropriate puzzles that require observation, trial-and-error, and logical thinking.
+Through engaging puzzles and problem-solving activities, children develop the cognitive skills that define human reasoning: executive function, pattern recognition, and logical inference. This lesson introduces the joy of solving problems by working through age-appropriate puzzles that require spatial reasoning, trial-and-error hypothesis testing, and inhibitory control — the same mental tools scientists and engineers use. The prefrontal cortex, still developing through childhood and into the mid-20s, is the brain region most heavily recruited during puzzle-solving. Every attempt, even failed ones, builds neural connections.
 
 ## Vocabulary
 
-**Solve**: To find the answer to a problem by thinking carefully and trying different ways. When you put all the puzzle pieces together, you solve the puzzle!
+**Executive function**: A set of mental skills managed by the prefrontal cortex — the front part of the brain — that includes working memory (holding information in mind while using it), inhibitory control (stopping an impulse to try something different), and cognitive flexibility (switching strategies when one approach fails). Puzzle-solving exercises all three. When a child picks up a piece, remembers what the empty space looks like, decides not to force it, and tries a new orientation, that's executive function in action.
 
-**Puzzle**: A problem or game that makes you think hard and try to figure out how pieces fit together or what comes next. Puzzles help your brain grow stronger.
+**Prefrontal cortex**: The brain region directly behind your forehead that handles planning, decision-making, and self-control. It is one of the last brain areas to mature — not fully developed until the mid-20s. In toddlers, it is actively growing new connections. Every time a child resists grabbing a wrong piece and thinks instead of reacts, they are strengthening prefrontal cortex circuits.
 
-**Pattern**: A design or arrangement of things that repeats or follows a rule. Red-blue-red-blue is a pattern, and finding patterns helps you solve puzzles faster.
+**Hypothesis**: A testable prediction or educated guess. When a child picks up a puzzle piece and says (or thinks) "I think this goes here," they are forming a hypothesis. When they try it and it doesn't fit, they have gathered evidence that falsifies the hypothesis and must form a new one. This is the same process scientists use.
 
-**Persist**: To keep trying even when something is hard or doesn't work the first time. When you don't give up on a puzzle and try again, you are persisting.
+**Spatial reasoning**: The ability to mentally manipulate shapes and understand how objects relate in space — rotating, flipping, fitting. Spatial reasoning is processed in the parietal lobe and is one of the strongest predictors of achievement in mathematics and engineering. Rotating a puzzle piece to find the correct orientation is pure spatial reasoning.
+
+**Pattern recognition**: The brain's ability to detect regularities — repeated colors, shapes, or sequences — and use them to make predictions. The visual cortex processes edges and shapes automatically, but the prefrontal cortex must consciously identify higher-level patterns (e.g., "the blue pieces all go along the top edge"). Pattern recognition is the foundation of mathematics, music, and scientific modeling.
+
+**Trial and error**: A systematic problem-solving method where you test one option, observe the result, and use that information to guide the next attempt. Each failed trial is not a failure — it is data. Scientists call this "empirical testing." For puzzle-solving, trial and error is most efficient when combined with a hypothesis: don't just try random pieces — predict which should fit and then test that prediction.
 
 ## Learning Song
 
@@ -93,36 +97,37 @@ Children will engage with a variety of simple puzzles, developing their ability 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Gather your child and show them the puzzle frames: "Look! This picture is all mixed up into pieces. Your job is to look at this picture really carefully and figure out where each piece goes. When all the pieces fit together perfectly, you've solved the puzzle!"
+   Gather your child and show them the puzzle frames: "Look! This picture has been cut into pieces — like a puzzle. Your prefrontal cortex — the front of your brain — is going to help you figure out where each piece belongs. You're going to make a hypothesis — a guess — about where a piece goes, and then test it. Scientists do exactly this!"
 
-   Point to one simple puzzle and place one piece in the correct spot: "See? This piece fits here! Can you try to find where another piece goes?"
+   Point to one simple puzzle and pick up a piece: "I think this piece goes here — that's my hypothesis. Let me test it. It fits! My hypothesis was right. Now you try: pick a piece, make a guess, then test it."
 
 2. **Exploration** (8-12 minutes):
-   Allow your child to select a puzzle and begin working on it. Your role is to observe and offer minimal guidance:
-   - If they try a piece and it doesn't fit: "Hmm, that didn't work. What should we try next?"
-   - If they get stuck: Ask them to "look at the picture very carefully" rather than placing pieces for them
-   - Celebrate attempts: "I love how you keep trying! That's being brave and smart!"
-   - Let them struggle a bit—this is how they learn persistence
+   Allow your child to select a puzzle and begin working on it. Narrate the cognitive process happening out loud:
+   - When they try a piece and it doesn't fit: "That's data! That piece didn't fit there, so now we know something. What should we test next?"
+   - When they spot a color match: "You found a pattern — blue pieces along the edge. Your brain just did pattern recognition. That's how scientists find clues."
+   - When they get stuck: "Use your working memory — hold the picture of the empty space in your mind while you look at the pieces. Which one matches the shape you're picturing?"
+   - When they want to force a piece: "Your inhibitory control is kicking in — that's your brain saying 'stop, try something different.' Listen to it!"
+   - Celebrate persistence: "You tried four hypotheses and kept going. That's exactly what scientists do. Failed tests aren't failures — they're information."
 
-   Once they complete one puzzle, move to the next. Vary the difficulty slightly.
+   Once they complete one puzzle, move to the next with slightly more pieces.
 
 3. **Discovery** (2-3 minutes):
-   When a puzzle is complete or mostly complete, pause and observe together:
-   - "Look what you made! The picture is complete now!"
-   - "How did you figure out that piece went there?"
-   - "What pieces were easy? Which ones were tricky?"
-   - "Do you see any patterns or colors that helped you?"
+   When a puzzle is complete or mostly complete, pause and reflect on the process:
+   - "How did you figure out that piece went there? What was your hypothesis?"
+   - "Did you ever try something that didn't work? What information did that give you?"
+   - "Did you spot any patterns — same colors together, or edge pieces being flat on one side?"
+   - "That feeling when it clicks into place — that's your brain rewarding you with dopamine for solving a problem."
 
 4. **Wrap-up** (1-2 minutes):
-   Return pieces to containers and celebrate: "You solved those puzzles! Your brain did such a good job thinking and trying. You persisted! That means you didn't give up, and that makes you really smart."
+   Return pieces to containers and name what happened: "Your prefrontal cortex worked hard today — you made hypotheses, tested them, found patterns, and used trial and error. Those are the same skills mathematicians and scientists use. The more you practice, the stronger those brain connections become."
 
 ### Age Adaptations
 
 **2-3 years**:
-Use very simple 4-6 piece puzzles with large wooden pieces or chunky plastic frames. Offer a piece and ask, "Where does this go?" Let them place it with your hand under theirs if needed. Accept trying and attempting as success, even if they don't complete the puzzle. The goal is exploring and learning, not perfection.
+Use very simple 4-6 piece puzzles with large wooden pieces or chunky plastic frames. Offer a piece and ask, "Where does this go?" Let them place it with your hand under theirs if needed. Use simple language for big ideas: "Make a guess — that's called a hypothesis!" and "Your brain is learning from that." Accept trying and attempting as success, even if they don't complete the puzzle. The prefrontal cortex at age 2 is still building the circuits needed for sustained problem-solving — short bursts are normal.
 
 **3-4+ years**:
-Introduce 8-12 piece puzzles with smaller pieces. Ask more questions: "What do you see in this picture? Which piece might go in the corner?" Encourage them to flip pieces and try different orientations. Introduce pattern-spotting: "I notice the red pieces are in this corner. Can you find where the other red pieces go?"
+Introduce 8-12 piece puzzles with smaller pieces. Explicitly name the cognitive strategies as they use them: "You're doing pattern recognition — spotting that all the blue pieces go along the top." Encourage them to rotate and flip pieces before placing them: "That's spatial reasoning — rotating shapes in your mind." Ask metacognitive questions: "How did you decide to try that piece there? What was your thinking?" This builds awareness of their own problem-solving process — a skill called metacognition.
 
 ### Extension Ideas
 

@@ -2,17 +2,23 @@
 
 ## Activity Summary
 
-This lesson introduces young learners to foundational fact-checking skills through hands-on observation and testing. Children will explore the exciting concept of discovering whether something is true by looking closely, asking questions, and testing their ideas—the building blocks of critical thinking and scientific thinking.
+This lesson introduces young learners to the foundations of fact-checking and verification through hands-on observation and testing. Children will explore how humans distinguish true claims from false ones — using evidence, repeated testing, and corroboration — the same processes used by scientists, journalists, and historians. The lesson builds real epistemological habits: asking "how do we know?" and recognizing that some methods of knowing are more reliable than others.
 
 ## Vocabulary
 
-**Verify**: To check if something is true or real by looking carefully or testing it. When you verify something, you're being a detective, looking for clues to see if an idea is correct—like checking if a toy really floats by putting it in water.
+**Hypothesis**: A specific, testable idea about what is true and why. Scientists don't just guess randomly — a hypothesis is an educated prediction based on what you already know. "I think the sponge will float because it has lots of tiny air holes inside" is a hypothesis; "maybe it will float" is just a guess.
 
-**Observation**: Noticing details carefully by using your eyes, ears, nose, hands, and sometimes taste. When you observe, you're being a scientist, paying close attention to how things look, sound, feel, and even smell—like noticing that some leaves are smooth and some are bumpy.
+**Empirical**: Based on direct observation and testing, not just opinion or memory. Empirical evidence is what you can actually see, measure, or test. When you put the sponge in water and watch what happens, you're gathering empirical evidence.
 
-**Evidence**: Real clues or proof that help us know something is true. Evidence is what we discover when we look closely and test things—like seeing a wet puddle as evidence that it rained, or tasting salt on our fingers as evidence that we have salt on our hands.
+**Verify**: To confirm something is true by checking it against evidence. Verification means not just guessing or remembering — it means testing. Scientists verify by repeating experiments; fact-checkers verify by consulting multiple sources.
 
-**Prediction**: A guess or idea about what might happen next based on what you know. When you make a prediction, you're using your brain to think ahead—like guessing that a ball will bounce when you drop it, or that ice will melt when you hold it in your warm hand.
+**Corroborate**: When two or more different pieces of evidence point to the same conclusion. If the sponge floats AND you can feel air bubbles inside it, those two observations corroborate each other — they support the same explanation.
+
+**Bias**: A tendency to see or believe what you already expect, even when the evidence says otherwise. Everyone has biases. A good fact-checker notices when they want something to be true and checks even harder.
+
+**Observation**: Carefully noticing details using your senses — sight, sound, touch, smell. Good observations are specific: not "it got wet" but "it absorbed water and became heavier and squishier."
+
+**Evidence**: Concrete, observable information that supports or contradicts a claim. Not all evidence is equal — direct observation is stronger evidence than someone else's memory.
 
 ## Learning Song
 
@@ -24,69 +30,70 @@ This lesson introduces young learners to foundational fact-checking skills throu
 
 *Verse 1*
 We can verify what's true
-By observation too
-With evidence we find
-Predictions on our mind
-Here's a clue, there's a clue
-Testing everything we do
-Fact checking helps us learn today
+With evidence we view
+A hypothesis we make
+Then test it for goodness' sake
+Check it here, check it there
+Empirical everywhere
+Fact-checking helps us learn today
 
 *Verse 2*
-We observe with careful eyes
-Looking for the truth inside
-With evidence so clear
-Predictions far and near
-See it here, feel it there
-Verification everywhere
-Fact checking is the best way
+Two clues that agree — corroborate!
+Bias wants us just to wait
+We test again to see
+What the evidence will be
+Look and feel, touch and smell
+Observation serves us well
+Evidence shows us what is true
 
 **Actions/Gestures**:
-1. On "verify"—make checkmark gesture with hand
-2. On "observation"—cup hands around eyes like binoculars
-3. On "evidence"—point to objects and nod knowingly
-4. On "predictions"—tap head and then point forward
+1. On "verify" — make checkmark gesture with hand
+2. On "hypothesis" — tap head, then point forward
+3. On "empirical" — cup hands around eyes like binoculars
+4. On "corroborate" — bring two fists together in front of chest
+5. On "bias" — shade eyes with one hand (blocking view)
+6. On "evidence" — open hands palms up, as if presenting something
 
 ## Intro Video Recommendation
 
-**Recommended video**: Search YouTube for "Daniel Tiger Asks Questions" or "Daniel Tiger Wonder and Curiosity"
+**Recommended video**: Search YouTube for "SciShow Kids How Do We Know" or "SciShow Kids evidence and experiments"
 
 **What to look for**:
 - 3-5 minutes long
-- Shows a relatable character asking questions about the world
-- Age-appropriate vocabulary and pacing
-- Positive reinforcement of curiosity
-- Bright, engaging animation
-- No scary or overstimulating content
+- Shows testing an idea and interpreting results
+- Uses words like "evidence," "test," or "experiment"
+- Age-appropriate pacing
+- Positive framing of uncertainty and discovery
 
 **Alternative searches**:
-- "Curious George asks questions"
-- "Sesame Street observation and discovery"
-- "Ask, observe, discover for preschoolers"
+- "Mystery Science how do scientists know"
+- "Sesame Street experiment and evidence"
+- "How scientists find out if something is true for kids"
 
 ## Activity
 
 ### Activity Overview
 
-Children become "fact checkers" by testing simple statements about objects and materials around them. They'll develop observation skills and learn that we can discover what's true by looking carefully, feeling, testing, and asking questions. This hands-on exploration builds confidence in their ability to investigate and think critically.
+Children become "fact detectives" by testing specific claims about objects and materials. Unlike simple exploration, each test follows a structured process: state a claim, form a hypothesis about why it might be true, gather empirical evidence, and check whether two types of evidence corroborate each other. This builds the actual cognitive habits of verification — not just curiosity, but disciplined inquiry.
 
-**Activity Type**: Hands-on discovery and testing activity
+**Activity Type**: Structured hands-on investigation with explicit reasoning steps
 
-**Duration**: 12-18 minutes
+**Duration**: 15-20 minutes
 
 **Setup time**: 5 minutes
 
 ### Materials Needed
 
 **Essential**:
-- 3-4 common household objects (wooden spoon, plastic cup, sponge, apple, toy car, ball)
+- 4-5 common household objects (wooden spoon, plastic cup, sponge, apple, toy car, coin, cork)
 - Water in a shallow bowl or tray
 - A safe surface for testing (table or floor)
 
 **Optional**:
 - Magnifying glass (toy or real)
-- Items with different textures (sandpaper, velvet, plastic wrap)
-- Notebook or picture journal to record findings
+- Simple two-column recording sheet (draw checkmark/X columns)
 - Camera or phone to photograph discoveries
+- Kitchen scale or balance (to feel relative weight)
 
 **Cost**: Free (uses household items)
 
@@ -94,75 +101,80 @@ Children become "fact checkers" by testing simple statements about objects and m
 
 **Preparation**:
 
-1. Gather 3-4 common objects and place them on a low table or floor where the child can reach them easily
-2. Fill a shallow bowl with water and place it nearby on a protected surface
-3. Clear the area of hazards and ensure good lighting for observation
-4. Wash hands and demonstrate curiosity and excitement about discovery
+1. Gather 4-5 objects and place them where the child can reach them easily
+2. Fill a shallow bowl with water and place it on a protected surface
+3. Prepare simple claim cards (written or pictured): "This will float," "This is heavy," "This will absorb water"
+4. Clear the area of hazards and ensure good lighting
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
+1. **Introduction: What is a Claim?** (2-3 min)
 
-   Start with enthusiasm: "Today we're going to be fact checkers! That means we're going to test ideas and discover what's true. Let's see if our guesses are right!"
+   Introduce the concept: "A claim is something someone says is true. But how do we KNOW if it's really true? We can't just believe it — we have to check! That's called verification."
 
-   Show one object: "I think this [sponge] will float in water. Do you think it will float or sink? Let's test it together and see what's true!"
+   Hold up a sponge: "I claim this sponge will float. That's what I think is true. But thinking isn't the same as knowing. How can we find out for sure?"
 
-2. **Exploration** (7-10 min):
+   Introduce hypothesis: "Before we test, let's make a hypothesis — that means we think about WHY it might be true. I think sponges float because they have tiny holes filled with air inside. Let's test it and see."
 
-   For each object, follow this sequence:
+2. **Structured Investigation** (10-12 min)
 
-   - **Make a prediction**: "What do you think will happen if we put this in the water? Will it float or sink? Will it get wet? Will it feel soft or hard?"
+   For each object, follow this explicit verification sequence:
 
-   - **Test it**: Place the object in water and observe together. Say: "Let's watch and see what really happens. What do you notice?"
+   - **State the claim**: "I claim this [object] will [float/sink/absorb water]."
 
-   - **Gather evidence**: Point out what you see: "Look! The sponge floated! That means our guess was right. Can you feel how it absorbed the water? That's evidence—proof—that sponges soak up water."
+   - **Form a hypothesis**: "I think this because..." (Help them reason: "The coin is metal and heavy, so I think it might sink. Metal is denser than water — that means more material packed into the same space.")
 
-   - **Feel and examine**: Let the child touch the object before and after (if safe). Ask: "Is it the same? What changed? What stayed the same?"
+   - **Gather empirical evidence**: Place object in water. Say: "We're gathering empirical evidence now — that means evidence we can actually see and test ourselves, not just what someone told us."
 
-   - **Ask questions together**: "Why do you think that happened? What else could we try?"
+   - **Look for corroboration**: Find two pieces of evidence that point to the same conclusion. "The coin sank AND when I hold it, it feels much heavier than the cork. Both pieces of evidence tell us the same thing about density."
 
-3. **Discovery** (2-3 min):
+   - **Verdict**: "Was the claim true or false? How do we know? What evidence do we have?"
 
-   Sit together and reflect: "You were excellent fact checkers today! You looked carefully, you tested your ideas, and you discovered what was true. Did anything surprise you?"
+   - **Watch for bias**: "Did we want the sponge to float because we thought it would? Did that make us look for evidence that it floated and ignore evidence that it might not? Good fact-checkers watch out for that."
 
-   Point out the process: "We made guesses, then we tested them. That's how we know what's true. Scientists do this too!"
+3. **The "Two Sources" Challenge** (3-4 min)
 
-4. **Wrap-up** (1-2 min):
+   Introduce corroboration as a skill: "Fact-checkers don't trust just one piece of evidence. They look for two or more pieces that agree."
 
-   Acknowledge their work: "You asked great questions and found lots of evidence. That makes you a real fact checker!"
+   Pick the sponge. Ask for two different ways to verify it absorbs water:
+   - Squeeze it after removing from water (you can feel the water inside)
+   - Hold it over the bowl and watch water drip out
 
-   Transition: "Let's wash our hands and think about what we discovered."
+   "Both pieces of evidence agree — the sponge absorbed water. When two different observations tell us the same thing, that's called corroboration. Now we're more confident the claim is true."
+
+4. **Wrap-up: How Do We Know?** (1-2 min)
+
+   Ask the big question: "How do WE know these things are true? Not because someone told us. Not because we guessed. Because we tested, observed, and found corroborating evidence. That's how scientists know things, and now it's how YOU know things."
 
 ### Age Adaptations
 
 **2-3 years**:
 
-- Use simpler language: "Will it sink or float?" instead of "What do you predict?"
-- Focus on ONE object and test it repeatedly with different outcomes (float in water, drop on floor, etc.)
-- Make predictions very concrete: "This ball bounces. Watch!" Then bounce it. Then ask: "Does it bounce again?"
-- Accept short answers and pointing as participation
-- Use all five senses safely: let them touch, smell, listen (not taste unless food item)
-- Keep testing to 5-7 minutes maximum
+- Use "test it" instead of "verify," but say both: "Let's test it — that means verify it."
+- Focus on ONE object tested two different ways (the corroboration concept in simplified form)
+- Make the hypothesis very concrete: "I think it floats because it's light. Let's check!"
+- Accept pointing and one-word answers as participation ("yes," "no," "sank")
+- Celebrate when predictions are WRONG: "Ooh, we learned something! That's even better!"
+- Keep to 8-10 minutes maximum
 
 **3-4+ years**:
 
-- Introduce vocabulary: "Let's verify whether this is true by testing it"
-- Test multiple objects and compare: "Which ones float? Which ones sink? Why?"
-- Record observations by drawing pictures or dictating descriptions
-- Ask deeper questions: "What would happen if...? Why do you think...? How could we test that?"
-- Introduce simple cause-and-effect: "The sponge soaked up water because sponges are made to absorb water"
-- Create an "evidence board" with pictures or drawings of discoveries
-- Test predictions multiple times to verify consistency
+- Use full vocabulary: hypothesis, empirical, corroborate, verify
+- Encourage the child to state the claim AND the hypothesis before testing
+- Introduce bias explicitly: "I really wanted this to float. Did that make me look for different evidence?"
+- Record findings by drawing or dictating: "Draw what happened when we tested the coin"
+- Introduce the idea that "one test isn't enough" — repeat the same test twice to verify consistency
+- Ask: "If we tested it 10 times, would it always sink? Why?"
 
 ### Extension Ideas
 
-**Variation 1 - Sink or Float Sorting**: Create two areas (sink and float). After testing objects, sort them into the correct group. Challenge: "Can you predict where each one goes before we test it?"
+**Variation 1 - Contradiction Detection**: State a claim that is obviously false. "I claim this rock is lighter than the feather." Test it. Say: "The evidence contradicts the claim — it says the opposite is true. Evidence can prove things false as well as true."
 
-**Variation 2 - Texture Investigation**: Use items with different textures (smooth stone, bumpy pinecone, soft cloth, rough sandpaper). Predict: "Which one will feel soft?" Test by touching and comparing. Create texture rubbings with paper and crayons.
+**Variation 2 - Memory vs. Testing**: Ask the child to remember something ("Was the apple heavier or lighter than the cork?"), then actually test it. Compare memory against empirical evidence. "Our memories aren't always reliable — that's why we test."
 
-**Variation 3 - Sound Investigation**: Gather objects that make different sounds (wooden spoon, metal spoon, plastic cup, bell). Predict: "Which one makes the loudest sound?" Test by tapping and comparing. Create a simple sound chart with pictures.
+**Variation 3 - Corroboration Challenge**: Choose one object and find THREE different ways to test the same claim. Each new observation that agrees is more corroboration. "The more evidence that points the same direction, the more confident we can be."
 
-**Repeat play**: Change the objects each session. Keep asking predictions and testing. Over time, children begin predicting more accurately as they build evidence from repeated testing.
+**Repeat play**: Vary the objects and the claims. Introduce new vocabulary over time. Over weeks, children begin to naturally ask "How do we know?" and "What's the evidence?" — which are genuinely powerful epistemological habits.
 
 ## Parent/Caregiver Notes
 
@@ -170,30 +182,30 @@ Children become "fact checkers" by testing simple statements about objects and m
 
 **Challenge**: Child wants to taste everything or put objects in mouth.
 
-**Solution**: This is normal at age 2-3. Use only safe, food-safe objects when possible (fruit, safe toys). Redirect: "We look at this one and feel it, but we taste only the apple." Establish clear boundaries about what can go in the mouth. Keep testing to foods and clearly marked safe objects.
+**Solution**: This is normal at age 2-3. Use only safe, food-safe objects when possible (fruit, safe toys). Redirect: "We look at this one and feel it, but we taste only the apple." Establish clear boundaries about what can go in the mouth.
 
-**Challenge**: Child loses interest after testing one object and wants to move on.
+**Challenge**: Child loses interest after testing one object.
 
-**Solution**: Follow the child's lead. They don't need to test everything. Quality over quantity. One deeply explored discovery is better than rushing through multiple objects. Come back to this activity another day with fresh enthusiasm.
+**Solution**: Follow the child's lead. One deeply explored claim — with a hypothesis, two pieces of evidence, and a corroboration — is better than rushing through five objects. The intellectual structure is the learning, not the quantity of tests.
 
-**Challenge**: Child gets frustrated if their prediction is "wrong."
+**Challenge**: Child gets frustrated when their prediction is "wrong."
 
-**Solution**: Reframe immediately and positively: "You guessed it would sink, and it floated! That's so interesting! That's how we learn—we test our ideas and discover something new!" Make it about discovery, not right or wrong answers. Celebrate curiosity over accuracy.
+**Solution**: Reframe immediately: "Your hypothesis wasn't supported by the evidence — that means we LEARNED something! Scientists are actually excited when they're wrong, because it means they discovered something they didn't know before." This is factually true and builds genuine scientific mindset.
 
-**Challenge**: Child doesn't want to predict; they just want to do the activity.
+**Challenge**: Child doesn't want to explain WHY before testing.
 
-**Solution**: That's fine! Skip the prediction step for younger children. Let them test, explore, and observe. The prediction skill develops naturally over time. You can gently introduce it: "What might happen?" but don't force it.
+**Solution**: Model it yourself. State your own hypothesis out loud before each test. Over time, children absorb the habit of reasoning before testing. Don't force it, but demonstrate that it's a normal part of the process.
 
 ### Follow-Up Activities
 
-1. **Fact-Checking at Mealtime**: At lunch, make simple statements: "Crackers are hard. Let's test it!" Eat one and verify. "Applesauce is soft. Is that true?" This brings fact-checking into daily routines.
+1. **Fact-Checking at Mealtime**: Make a specific, testable claim at lunch: "I claim this apple slice will float in my water cup." Form a hypothesis, test it, and verify. Brings the full verification process into daily life.
 
-2. **Nature Verification Walk**: Outside, make predictions about nature: "Do you think this leaf will float?" "Is this rock hard?" Test your ideas on a walk. Collect evidence (interesting findings) in a small bag.
+2. **The Memory Test**: Ask the child to remember what happened in a book or earlier in the day, then check: look at the book again, or look at photos. Compare memory to the "record." "Memory is evidence, but it's not always reliable — checking is better."
 
-3. **Photo Documentation**: Take pictures of your tests and discoveries. Create a simple poster: "We Were Fact Checkers! Here's What We Discovered." Display it proudly to reinforce the learning.
+3. **Two-Source Rule**: When the child states something as fact ("Dinosaurs were bigger than houses!"), gently ask: "How do we know? What's our evidence? Can we find two sources — a book AND a picture — that corroborate each other?" This models the real practice of verification.
 
 ---
 
 **Category**: Knowledge, Skills & Culture - Cognitive/Practical Skills
 
-*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. This activity builds foundational critical thinking and scientific thinking skills that will support learning throughout childhood.*
+*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. This lesson builds foundational epistemological habits — asking how we know, not just what we know — that support critical thinking throughout life.*

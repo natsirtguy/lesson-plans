@@ -2,19 +2,21 @@
 
 ## Activity Summary
 
-Children develop the coordination and strength needed for movement by exploring how their bodies work through play and practice. This lesson guides children to discover big movements (like jumping and running) and small, controlled movements (like pinching and drawing) as they learn to coordinate their muscles with intention and confidence.
+Children develop the coordination and strength needed for movement by exploring how their bodies work through play and practice. This lesson guides children to discover big movements (like jumping and running) and small, controlled movements (like pinching and drawing) as they learn to coordinate their muscles with intention and confidence. These movements are governed by two of the brain's most important motor systems: the motor cortex, which plans and initiates voluntary movements, and the cerebellum, which fine-tunes and corrects them in real time. Every new movement strengthens neural pathways through myelination — a process that makes nerve signals travel faster and more accurately.
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic.
+**Motor cortex**: A strip of brain tissue running across the top of your head (like a headband) that controls all voluntary movements. It contains a "body map" called the homunculus — different sections control different body parts, with the hands and face having disproportionately large areas because they require the most precise control. When a child decides to pick up a bead, the motor cortex sends electrical signals down the spinal cord to activate exactly the right muscles in exactly the right sequence.
 
-**Coordinate**: The ability to make different parts of your body work together smoothly. When you hop on one foot, you're coordinating your leg, arms, and balance together—like when dancers move smoothly to music.
+**Cerebellum**: The structure at the back of the brain that contains roughly 50% of all the brain's neurons despite being only 10% of its volume. The cerebellum acts as the body's error-correction system — it compares intended movements with actual movements and continuously adjusts. When a child first tries to pick up a small bead and misses, the cerebellum records the error and recalibrates. This is why skills that feel impossible at first become effortless with practice: the cerebellum is building increasingly accurate movement models.
 
-**Balance**: The ability to keep your body steady and upright without falling over. You balance when you stand on one leg, walk along a line, or sit without tipping your chair—your body is working to stay centered.
+**Myelination**: The process by which nerve fibers become wrapped in a fatty insulating sheath called myelin. Myelinated neurons transmit signals up to 100 times faster than unmyelinated ones. Gross motor pathways (big muscles) myelinate before fine motor pathways (small hand muscles), which is why toddlers can run before they can button a shirt. Every time a child practices a movement, myelin builds up around those nerve pathways, making the movement faster and more automatic.
 
-**Strength**: The power in your muscles that allows you to lift, push, jump, and carry things. You're building strength when you climb stairs, carry a basket of toys, or squeeze playdough—your muscles are getting stronger each time.
+**Proprioception**: The body's ability to sense its own position in space without looking — processed through muscle spindles (stretch sensors in muscles) and Golgi tendon organs (tension sensors in tendons), which send constant signals to the cerebellum. Proprioception is why you can touch your nose with your eyes closed. In young children, proprioceptive pathways are still maturing, which is why they need to look at their hands when doing precise tasks. Gross motor play — especially climbing and balance challenges — develops proprioceptive sensitivity.
 
-**Control**: The ability to move your body exactly how you want it to move, with precision and intention. You have control when you place a small bead on a string carefully, paint a careful line, or stop running when asked—your brain is telling your muscles what to do.
+**Fine motor vs. gross motor**: Gross motor movements use the large muscles of the legs, arms, and trunk — quadriceps, hamstrings, gluteus maximus, deltoids — for big whole-body movements like running, jumping, and climbing. Fine motor movements use the small intrinsic muscles of the hand — the lumbricals, interossei, and thenar muscles — for precise manipulation like pinching, threading, and drawing. The two systems use overlapping but distinct neural circuits, and children typically develop gross motor control before fine motor control.
+
+**Neuromuscular junction**: The point where a motor neuron (nerve cell from the spinal cord) meets a muscle fiber and releases acetylcholine — a chemical messenger that triggers the muscle to contract. A single motor neuron can control dozens to thousands of muscle fibers. For gross motor movements, one neuron controls many fibers (less precise but powerful). For fine motor movements like fingertip pinching, one neuron controls very few fibers (highly precise). This is why fine motor tasks require more neural "wiring" and take longer to develop.
 
 ## Learning Song
 

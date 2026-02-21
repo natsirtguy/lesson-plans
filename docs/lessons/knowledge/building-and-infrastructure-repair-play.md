@@ -2,17 +2,29 @@
 
 ## 🎯 Activity Summary
 
-Children become architects, engineers, and construction workers as they create structures, then intentionally deconstruct and rebuild them. This hands-on activity develops spatial reasoning, problem-solving, fine motor skills, and understanding of how the built world works—while providing endless opportunities for imaginative role-play and collaborative creation.
+Children become architects, engineers, and construction workers as they create structures, then intentionally deconstruct and rebuild them. This hands-on activity develops spatial reasoning, problem-solving, fine motor skills, and genuine understanding of structural engineering principles—how forces act on buildings, why some designs are stronger than others, and how the built world works.
 
 ## Vocabulary
 
-**Architect**: A person who designs buildings and decides what they will look like, how big they should be, and what materials to use. An architect draws plans before construction begins.
+**Architect**: A person who designs buildings and decides what they will look like, how big they should be, and what materials to use. An architect draws plans called **blueprints** before construction begins.
 
-**Engineer**: A person who figures out how to build things and make them strong and safe. Engineers solve problems like "How do we make this tower stand up?" or "What materials work best?"
+**Engineer**: A person who figures out how to build things and make them strong and safe. Structural engineers solve problems like "How do we make this tower stand up against wind and gravity?"
 
-**Repair**: To fix something that is broken or not working properly. When something breaks or gets damaged, we repair it to make it work again.
+**Gravity**: The invisible force that pulls everything downward toward the Earth. Every building must be strong enough to resist gravity, or it collapses.
 
-**Deconstruct**: To carefully take apart or break down something into smaller pieces. This is different from just knocking things down—it means taking apart thoughtfully to understand how things fit together.
+**Compression**: When something is squeezed or pushed together. The blocks at the bottom of a tower are under compression because all the weight above presses down on them.
+
+**Tension**: When something is stretched or pulled apart. Ropes, cables, and bridges experience tension—the force pulling them in opposite directions.
+
+**Foundation**: The base of a structure that transfers all the weight into the ground. A wider, heavier foundation makes a structure more stable and harder to knock over.
+
+**Center of gravity**: The single point where a structure's weight is balanced. When something's center of gravity moves outside its base, it tips over—that's why tall, narrow towers are unstable.
+
+**Load-bearing**: Describes a part of a structure that holds weight. Load-bearing walls and columns carry the weight of everything above them.
+
+**Infrastructure**: The systems and structures that communities need to function—roads, bridges, water pipes, electrical lines, and buildings.
+
+**Deconstruct**: To carefully take apart something into smaller pieces, understanding how it fits together. Different from demolition (destroying quickly)—deconstruction is thoughtful and intentional.
 
 ## 🎵 Learning Song
 
@@ -58,9 +70,9 @@ Making structures new
 
 ### Activity Overview
 
-This activity invites children to explore cause and effect, structural balance, and problem-solving through hands-on block building and intentional "repair" play. Children design their own structures, introduce challenges or "damage," and figure out creative solutions to restore or improve their builds. It combines fine motor practice with spatial reasoning and imaginative role-play.
+This activity invites children to explore structural engineering principles through hands-on block building and intentional "repair" play. Children design their own structures, test how forces act on them, introduce challenges or "damage," and figure out creative solutions to restore or improve their builds. The goal is real engineering thinking: why do structures fail, what makes them strong, and how do engineers solve problems?
 
-**Activity Type**: Constructive play, dramatic role-playing, creative problem-solving
+**Activity Type**: Constructive play, engineering investigation, dramatic role-playing
 
 **Duration**: 20-40 minutes (with natural breaks and extended play possibilities)
 
@@ -95,50 +107,45 @@ This activity invites children to explore cause and effect, structural balance, 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child one block and ask: "What could we build with this?" Show the toy tools and ask: "What happens when buildings need fixing? Who fixes them?" Place a few blocks and knock one down: "Oops, this structure needs repair!"
+   Show the child one block and ask: "What could we build with this?" Place a few blocks and knock one down: "Oops, this structure needs repair!" Explain the science: "Gravity is always pulling our building down. Engineers figure out how to fight gravity and make buildings that stay up. Let's think like engineers!"
 
-2. **Exploration** (5-10 min):
-   Invite the child to select materials and begin stacking, arranging, and experimenting with structures. Comment on what you observe without directing ("You made that tower so tall!"). Ask open-ended questions: "What is this building?" "What does it do?" "Who works here?" Observe how the child approaches balance, height, and stability.
+2. **Exploration — Testing Forces** (5-10 min):
+   Invite the child to stack blocks and experiment. Narrate the science as they play: "Look how the blocks at the bottom have to hold all the weight of the ones on top—they're under compression, being squished!" Try building a tall, narrow tower, then a short, wide one. Ask: "Which one is easier to knock over? Why do you think the wide one is more stable?" Explain: "Its center of gravity—the balancing point—stays over its base, so gravity can't tip it."
 
-3. **Guided Construction with Role-Play** (5-10 min):
-   Introduce the "repair scenario": "This building needs fixing! Let's see what's broken." Point to unstable areas or missing pieces. Demonstrate how to use a tool: "The hammer taps gently to secure this beam." Invite the child to try: "You be the repair worker—what needs fixing first?" Introduce planning: "Real builders draw blueprints first. What does your blueprint look like?" Encourage problem-solving: "This section keeps falling. What could we do differently?"
+3. **Guided Construction with Engineering Challenges** (5-10 min):
+   Introduce the "repair scenario": "This building needs fixing! Let's figure out why it failed." Point to unstable areas: "This column is load-bearing—it holds up everything above. If it's weak, the whole structure can collapse." Demonstrate how to use a tool: "The hammer drives nails—it uses force to push metal deeper into wood, which creates friction that holds pieces together." Introduce planning: "Real engineers draw blueprints first. The blueprint shows where all the load-bearing parts are. What does your plan look like?" Encourage problem-solving: "This section keeps falling—the foundation is too narrow. What would make it wider and more stable?"
 
 4. **Wrap-up** (2-3 min):
-   Give a 5-minute warning and invite reflection: "What was the hardest part to build?" "How did you fix it?" "What could we build next time?" Take a photo of the final structure if the child desires. Make cleanup part of the role-play: "Construction workers clean up their site when they're done."
+   Give a 5-minute warning and invite reflection: "What was the hardest part to build?" "Why did that section keep falling—what force was acting on it?" "How did you fix it?" Take a photo of the final structure. Make cleanup part of the role-play: "Construction workers clean up their site when they're done."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on stacking and knocking down (cause and effect)
+- Focus on stacking and knocking down (cause and effect), and narrate the physics: "Gravity pulled it down!" or "That one's too heavy for the bottom block—it's under too much compression!"
 - Use larger blocks (Duplos, wooden blocks) that are easier to manipulate
-- Keep buildings simple and low (2-3 blocks high)
-- Adult does most of the building; child participates in placement
-- Skip complex tools and focus on hands-only manipulation
+- Keep buildings simple and low (2-3 blocks high) but still explain why some arrangements stand and others fall
+- Adult builds alongside the child, modeling engineering thinking out loud: "I'm making the base wide so the center of gravity stays low"
 - Shorter sessions (15-20 minutes) with frequent breaks
-- Use simple language: "Big blocks," "Knock down," "Build up"
 
 **3-4+ years**:
-- Introduce actual planning: simple drawings or layouts before building
-- Add measurement challenges: "Can you make a tower as tall as you?"
-- Increase tool use and practice with child-safe hammer or screwdriver
-- Introduce engineering concepts: balance, stability, weight distribution
-- Create themed structures: "build a house," "fix a bridge," "repair a tower"
-- Encourage the child to verbalize problem-solving: "What happened? How could we make it stronger?"
-- Introduce collaborative building with assigned roles
-- Extend dramatic play into building a construction company scenario
+- Introduce actual planning: simple drawings or layouts before building, identifying where the load-bearing parts will be
+- Add measurement challenges: "Can you make a tower as tall as you? What happens to the center of gravity when it gets that tall?"
+- Increase tool use and practice with child-safe hammer or screwdriver; explain what each tool does mechanically
+- Challenge: can you build a bridge between two stacks of books that holds a small toy car? Discuss how tension in the bridge surface supports the weight
+- Introduce collaborative building with assigned roles: architect draws the plan, engineer checks if it will stand, builder constructs it
 
 ### Extension Ideas
 
 **Variation 1: Themed Construction Jobs**
-Choose a specific building type each session—a house, a bridge, a hospital, a store, or a castle. Research what that building looks like together, then build and "repair" it. This introduces different types of structures and their purposes.
+Choose a specific building type each session—a house, a bridge, a hospital, a store, or a castle. Research what that building looks like together, then build and "repair" it. Discuss why bridges are shaped differently from towers (tension vs. compression), and why hospitals need to be very sturdy (they must withstand earthquakes and emergencies).
 
-**Variation 2: Progressive Destruction & Repair**
-Build a structure together, then systematically "damage" one part at a time (remove a block, knock a section, twist it). The child must identify and repair each "damage" before moving to the next challenge, building problem-solving and planning skills.
+**Variation 2: Failure Analysis**
+Build a structure together, then systematically "damage" one part at a time (remove a block, knock a section). For each failure, do an "engineering investigation": what failed? Why? Was it a foundation problem, a load-bearing failure, or instability? The child identifies the problem and proposes a repair solution before implementing it.
 
 **Variation 3: Community Infrastructure**
-Create an interconnected set of buildings: roads connecting buildings, bridges spanning gaps, utility lines. Introduce the concept of how different structures work together and support each other in a community.
+Create an interconnected set of structures: roads connecting buildings, bridges spanning gaps. Explain that infrastructure is the network of systems communities need to function—roads, bridges, water pipes, electrical lines. When one part breaks, the whole system is affected: a bridge collapse means trucks can't deliver food to the city.
 
-**Repeat play**: Document building progress with photos at each stage. Create a simple sequence showing "before," "during repair," and "after repair" to introduce the concept of documentation. Revisit with fresh eyes in a few weeks—interest naturally cycles, and the child's skills will have grown.
+**Repeat play**: Document building progress with photos at each stage. Create a simple sequence showing "before," "during repair," and "after repair." Revisit with fresh eyes in a few weeks—the child's spatial reasoning and engineering intuition will have grown.
 
 ## 📝 Parent/Caregiver Notes
 
@@ -146,27 +153,27 @@ Create an interconnected set of buildings: roads connecting buildings, bridges s
 
 **Challenge**: Child becomes frustrated when structures collapse
 
-**Solution**: Normalize collapse as part of construction ("Even real buildings need repairs!"). Help the child rebuild quickly, celebrate the "repair work" rather than mourning the loss, and use heavier materials for more stable structures.
+**Solution**: Reframe collapse as data, not failure: "That tells us something! The center of gravity was too high. What if we spread the base wider?" Real engineers expect failures—that's how they learn. Celebrate "repair work" and the problem-solving it requires.
 
 **Challenge**: Child wants to only knock things down, not build
 
-**Solution**: Both demolition and building are valuable play. Provide separate "building time" and designated "demolition time." Let the child knock down what they built themselves (ownership matters). Interest in creation emerges naturally over time.
+**Solution**: Demolition reveals engineering too—watch how structures fail and narrate it: "Did you see how it fell sideways? That's because the center of gravity moved outside the base." Both demolition and building are valid. Interest in creation emerges naturally over time.
 
 **Challenge**: Child loses interest or adult feels uncertain about direction
 
-**Solution**: Follow the child's lead completely. If they want to decorate with stickers, knock things down, or engage differently—that's valid. Interest naturally cycles. Revisit the activity in a few weeks with fresh eyes.
+**Solution**: Follow the child's lead completely. If they want to decorate with stickers, knock things down, or engage differently—that's valid. Keep narrating the physics of what's happening. Interest naturally cycles; revisit in a few weeks with fresh eyes.
 
 **Challenge**: Safety concerns with tool use
 
-**Solution**: Use only child-safe tools (soft hammer, large toy wrench). Demonstrate careful use repeatedly and keep other tools out of reach. Establish clear rules: "Tools are for tapping gently, not throwing."
+**Solution**: Use only child-safe tools (soft hammer, large toy wrench). Demonstrate careful use repeatedly and keep other tools out of reach. Establish clear rules: "Tools are for tapping gently, not throwing." Explain why: "Real hammers are heavy so they drive nails with force—that force can hurt if aimed at a person."
 
 ### Follow-Up Activities
 
-1. **Photograph and document**: Take photos before dismantling so the child sees their work preserved. Create a "building portfolio" showing progression over time. This builds a sense of accomplishment and pride.
+1. **Photograph and document**: Take photos before dismantling so the child sees their work preserved. Create a "building portfolio" showing progression over time, and note which structures were most stable and why.
 
-2. **Research real buildings**: Look at pictures of famous buildings from different cultures (pyramids, pagodas, igloos, modern houses). Discuss different building materials used around the world and who builds things in your community.
+2. **Research real structures**: Look at pictures of famous engineering achievements from different cultures—the pyramids (built without modern cranes using ramps and leverage), suspension bridges (held up by tension in the cables), igloo (dome shape distributes compression evenly). Each demonstrates different solutions to the same problem: fighting gravity.
 
-3. **Read building stories**: Share age-appropriate books about construction, architects, and builders from diverse backgrounds to expand understanding of how humans create structures.
+3. **Read building stories**: Share age-appropriate books about construction, architects, and engineers from diverse backgrounds to expand understanding of how humans create structures.
 
 ---
 
