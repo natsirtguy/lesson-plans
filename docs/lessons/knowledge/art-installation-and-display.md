@@ -6,13 +6,13 @@ In this lesson, children explore how artwork can be displayed and arranged in cr
 
 ## Vocabulary
 
-**Installation**: When art is arranged and placed in a space on purpose to be seen and experienced. A painting on a wall, blocks stacked in a tower, or drawings hung on a string are all types of art installations that show creativity.
+**Installation art**: A form of art in which the artist creates an environment or large-scale arrangement that the viewer walks into or is surrounded by — not just a painting to look at, but a space to experience. Installation art emerged as a major movement in the 1960s-70s. Famous examples: Yayoi Kusama's Infinity Mirror Rooms (rooms of mirrors and lights that seem to go on forever); Christo's "The Gates" in Central Park (thousands of orange fabric panels creating a path through the park); James Turrell's light rooms (entire rooms filled with carefully controlled colored light). These are works where the space itself is the artwork.
 
-**Display**: To arrange and show something in a way that helps people see it clearly and beautifully. When you put your artwork on the refrigerator or on a shelf, you are displaying it for everyone to enjoy.
+**Composition**: The deliberate arrangement of visual elements (color, shape, size, line, space) to create a unified, intentional whole. Key composition principles: *contrast* (putting different things near each other so they stand out), *balance* (visual weight distributed across the space — symmetrical balance is mirror-image; asymmetrical balance uses different-sized elements that still feel balanced), *focal point* (the spot where your eye is drawn first), and *rhythm* (repetition of shapes or colors that creates a visual beat).
 
-**Arrange**: To place things in a planned order or pattern. When you arrange flowers in a vase, toys on a shelf, or drawings on a board, you are putting them in a way that looks nice together.
+**Visual weight**: How much an element attracts the eye. Large, dark, complex, or colorful shapes have more visual weight — they pull attention. A small, pale, simple shape has less. Good composition balances visual weight across the space so nothing feels too heavy on one side.
 
-**Composition**: The way different parts are organized together to make something complete. In an art installation, composition means thinking about where to place colors, shapes, and objects so they look balanced and interesting.
+**Site-specific**: Artwork designed for a particular location, where the space itself is part of the meaning. A site-specific installation at a beach would respond to the water, light, and sand — it would mean something different somewhere else. Many installation artists think carefully about how the viewer will move through, around, and experience a space.
 
 ## Learning Song
 
@@ -109,7 +109,7 @@ Children will create simple artwork using a variety of materials, then work toge
 
 1. **Introduction** (3-5 min):
 
-   Show children the empty display space: "This is our art gallery! We're going to create artwork and arrange it beautifully so everyone can see it." Point out what makes a display nice to look at: good spacing, colors that work together, things at different heights. Ask: "Where should we put our art? Should things be scattered or grouped together?"
+   Show children the empty display space: "This is our gallery space! Real artists called installation artists design entire rooms or outdoor areas as works of art — the viewer walks into the art, not just past it. Artists like Yayoi Kusama fill rooms with mirrors and dots so you feel like you're inside a painting. We're going to create our own installation." Point out what makes a display work: "Artists think about focal points — where do your eyes go first? They think about balance — does one side feel too heavy? They think about contrast — do light and dark shapes stand out next to each other?" Ask: "Where should we put our art? What will the viewer see first when they walk in?"
 
 2. **Creation** (10-15 min):
 
@@ -121,7 +121,7 @@ Children will create simple artwork using a variety of materials, then work toge
 
 4. **Wrap-up** (2-3 min):
 
-   Stand back and admire the completed installation together. Celebrate: "Look at our beautiful gallery! You arranged your art in such a special way. You're all artists!" Discuss what they see: colors, shapes, arrangements. Ask: "What do you like about this display?"
+   Stand back and walk through the installation together as a viewer would. Ask: "Where does your eye go first? That's the focal point. Does one side feel heavier than the other? How could we balance it?" Celebrate the artistic choices made: "You made decisions about composition — contrast, balance, focal point — just like real installation artists. Yayoi Kusama makes the same kinds of choices, just on a bigger scale."
 
 ### Age Adaptations
 

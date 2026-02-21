@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Paddleboarding introduces young children to the challenge of maintaining balance on water while propelling themselves with a paddle. This activity develops core strength, leg stability, balance proprioception, and water confidence in a dynamic way. Paddleboarding combines elements of water exploration, physical fitness, and adventure while allowing children to progress at their own pace. The calming water environment and meditative paddle strokes create both physical challenge and peaceful enjoyment.
+Paddleboarding introduces young children to the challenge of maintaining balance on water while propelling themselves with a paddle. The board floats because of buoyancy — the upward force water exerts on objects that displace it. A paddleboard displaces enough water that the upward force equals the weight of the board and rider, keeping everything afloat (Archimedes' principle). Propulsion works by Newton's third law: push water backward with the paddle, and the reaction force pushes the board forward. Balance on water is more challenging than on land because the surface is unstable — it tilts, bobs, and shifts in response to the rider's movements and water disturbances. This constantly challenges the vestibular system (inner ear) and proprioceptors (muscle/joint sensors) to update their signals and send corrective commands to muscles in real time. The cerebellum coordinates all of this into fluid, automatic balance adjustments. This activity develops core strength, leg stability, vestibular processing, and water confidence.
 
 **Activity Type**: Aquatic adventure / Balance development / Water sport
 
@@ -124,11 +124,11 @@ Paddleboarding introduces young children to the challenge of maintaining balance
 - Dismounting - controlled exit from board back into water
 
 **Coaching cues**:
-- "Stand in the middle of your board like you're standing on the ground"
-- "Reach forward with your paddle, then pull the water back toward you"
-- "Use your arms to paddle, but your legs keep you balanced"
-- "If you feel wobbly, bend your knees and stay lower on the board"
-- "The paddle is your helper - it keeps you stable and moves you forward!"
+- "Stand in the middle of your board — your weight over the center of gravity keeps it level"
+- "Reach forward with your paddle, then pull the water back toward you — you're pushing water backward, so Newton's third law pushes you forward!"
+- "Use your arms to paddle, but your legs and core keep you balanced — your inner ear is telling your body which way is up"
+- "If you feel wobbly, bend your knees and stay lower — lowering your center of gravity makes you more stable"
+- "The paddle gives you extra contact with the water — it's a third balance point, like a tripod!"
 
 #### Guided Play/Game (6-12 minutes)
 **Game structure**:

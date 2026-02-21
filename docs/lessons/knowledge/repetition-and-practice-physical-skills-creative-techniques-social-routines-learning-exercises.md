@@ -6,13 +6,15 @@ This lesson introduces children to the powerful concept that improvement comes t
 
 ## Vocabulary
 
-**Repetition**: Doing the same thing over and over again to become better at it. Like practicing your jump, painting circles, or singing your favorite song many times until it feels easier and smoother.
+**Neuroplasticity**: The brain's ability to physically change its structure in response to experience and learning. Every time you practice a skill, neurons (brain cells) that fire together form stronger connections — synapses grow, pathways strengthen. This is why practice works: repetition literally reshapes the brain.
 
-**Persistence**: Continuing to try and keep going even when something feels hard or you want to stop. Showing persistence means practicing your dance moves again and again, or building your block tower even when it falls down.
+**Myelination**: The process of coating nerve fibers with a fatty substance called myelin, which speeds up how fast signals travel along that nerve pathway. When you practice a movement over and over, the nerve pathway used for that movement gets more myelin, making the signal travel faster and more reliably — the skill starts to feel automatic and effortless. Sports and music training during childhood create especially dense myelination.
 
-**Progression**: Getting a little bit better each time you practice, step by step, creating improvement over time. Like going from scribbling randomly to making shapes, or from a small jump to a bigger jump.
+**Synapse**: The tiny gap between neurons (brain cells) across which chemical signals jump. When two neurons fire at the same time repeatedly, the synapse between them strengthens — this is the physical basis of learning and memory. "Neurons that fire together, wire together."
 
-**Mastery**: Becoming so skilled at something that you can do it easily and confidently without having to think very hard. When you can dance smoothly, build blocks steadily, or paint shapes clearly because you've practiced so much.
+**Procedural memory**: The type of memory that stores how to do things — riding a bike, tying shoes, playing scales on a piano. Once a skill is procedurally learned, it shifts from the conscious, effortful prefrontal cortex to more automatic brain regions (basal ganglia, cerebellum), which is why mastered skills feel automatic.
+
+**Deliberate practice**: Focused, intentional practice where you pay close attention and push slightly beyond your current ability level — as opposed to mindless repetition. Research (psychologist K. Anders Ericsson) shows that deliberate practice, not just hours, drives improvement.
 
 ## Learning Song
 
@@ -100,7 +102,7 @@ Children will visit 3-4 practice stations, spending time at each one repeating a
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather together and explain with enthusiasm: "Today we're going to practice! When we practice, we do something again and again, and our brain learns better and better each time!" Show one quick example—like clapping a simple rhythm or drawing a shape—and do it three times. Say: "See? First time, second time, third time. That's practicing!"
+   Gather together and explain: "Today we're going to practice! Every time you do something again and again, your brain is changing — connections between brain cells get stronger and faster. There's even a coating called myelin that wraps around your nerve pathways when you practice, making the signals zoom through faster. That's why things that feel hard at first start to feel easy. Your brain is literally rewiring itself!" Show one quick example — clap a rhythm once, then again, then again. Say: "See? Each time I do it, the pathway in my brain gets a bit stronger. That's neuroplasticity in action."
 
 2. **Exploration** (10-15 min):
    Guide your child through each station. Spend 2-3 minutes at each:

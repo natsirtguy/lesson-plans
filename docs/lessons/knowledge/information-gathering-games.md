@@ -6,13 +6,15 @@ Children explore the joy of seeking, discovering, and solving through interactiv
 
 ## Vocabulary
 
-**Observe**: To watch carefully and notice details about something. When you observe, you use your eyes (and sometimes ears and other senses) to see and understand what's happening around you. Example: "I observed a ladybug on the leaf and noticed it had red wings with black spots."
+**Hypothesis**: A testable guess — a prediction about what you'll find before you look. Before searching, a detective forms a hypothesis: "I think the toy is under the couch because I saw it there earlier." Then they test it. Scientists call this making a prediction, and it's a key step in the scientific method.
 
-**Investigate**: To search for information or look carefully to understand how something works or where something is hidden. Investigators are curious and ask lots of questions. Example: "We investigated the garden and found three different kinds of bugs hiding under leaves."
+**Observation**: Information gathered directly through the senses — what you see, hear, feel, smell, or taste right now. An observation is a fact: "The leaf is green." It is not a guess or an interpretation.
 
-**Clue**: A piece of information or hint that helps you figure something out or find what you're looking for. Clues help you solve mysteries. Example: "The clue was the muddy paw prints leading to where the toy was hidden."
+**Inference**: A conclusion drawn from observations using reasoning. An inference goes beyond what you can directly see: "The leaf is on the ground and turning brown — I infer that it fell from the tree recently." Detectives and scientists constantly make inferences from incomplete evidence.
 
-**Pattern**: A way that things repeat or follow a rule—like colors, shapes, or sounds that happen in order. Recognizing patterns helps you predict what comes next. Example: "The pattern on your shirt is red stripe, blue stripe, red stripe, blue stripe."
+**Evidence**: Facts or observations that support or contradict a hypothesis. Good information-gatherers collect multiple pieces of evidence before deciding what happened. One clue can mislead; multiple clues together build a stronger case.
+
+**Systematic**: Following a specific order or method rather than searching randomly. A systematic search covers every area — like searching left to right, row by row — so you don't miss anything. Scientists design systematic experiments for the same reason: to avoid accidentally missing something important.
 
 ## Learning Song
 
@@ -94,9 +96,9 @@ Children will participate in guided information-gathering games where they searc
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Sit down together and introduce the investigation: "Today we're going to be detectives! We're going to search for hidden treasures and gather information."
-   - Show one item and then hide it together. Ask: "Where should we look? What clues help us find it?"
-   - Demonstrate searching by looking carefully in one spot, observing ("I see..."), and checking if the item is there
+   - Sit down together and introduce the investigation: "Today we're going to be detectives — real ones use a special process: observe, form a hypothesis (a testable guess), gather evidence, and then decide what's true."
+   - Show one item and then hide it together. Say: "Before we look, what's your hypothesis — where do you think it's hiding?" Listen to their prediction.
+   - Demonstrate searching systematically: "Detectives don't search randomly — they go room by room, shelf by shelf, so they don't miss anything. That's called a systematic search."
 
 2. **Exploration** (8-10 min):
    - Give the first clue or challenge: "Let's find the blue toy!" or "Let's find something soft."
@@ -106,10 +108,10 @@ Children will participate in guided information-gathering games where they searc
    - Continue with 3-5 more items, varying the difficulty and types of clues
 
 3. **Discovery** (3-5 min):
-   - Ask investigative questions: "What did we find? What was hiding? How did you find it?"
-   - Point out patterns: "All the toys we found were soft. Did you notice?"
-   - Identify clues that helped: "You found the red ball because you were looking for something red!"
-   - Count or sort the found items by color, size, or type
+   - Ask investigative questions: "What did we find? What clue helped you find it? Was your hypothesis right?"
+   - Distinguish observation from inference: "You observed the blanket was lumpy — and you inferred something was under it. That's an inference from evidence!"
+   - Point out patterns: "All the toys we found were soft. Did you notice? What does that evidence tell you?"
+   - Count or sort the found items — sorting is itself a form of information organization
 
 4. **Wrap-up** (2-3 min):
    - Review what you discovered together

@@ -6,19 +6,15 @@ Children explore how tools help us accomplish tasks and learn the importance of 
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that:
-- Are sophisticated but age-appropriate (e.g., use "transform" not "change", "observe" not "look")
-- Are adult words that expand beyond toddler basics
-- Directly relate to the topic
-- Can be demonstrated or experienced
+**Simple machine**: One of the basic mechanical devices that make work easier by changing the direction or amount of force. Most tools are simple machines or combinations of them. The six types are: lever, wheel and axle, pulley, inclined plane, wedge, and screw.
 
-**Purpose**: The specific job or function a tool is designed to do. For example, the purpose of a hammer is to drive nails, and the purpose of a spoon is to scoop and eat food.
+**Lever**: A rigid bar that pivots on a fixed point (the fulcrum) to amplify force. A hammer is a lever — the handle is the bar, the nail-head contact is one end, and your grip is the other. Scissors are two levers sharing a fulcrum. Even a spoon is a lever when you pry open a lid.
 
-**Maintain**: To keep something in good working condition by caring for it and fixing problems. When you maintain a toy, you clean it, check that it works, and fix broken parts so it lasts longer.
+**Wedge**: A simple machine with a sharp edge that converts one pushing force into two splitting forces. The blade of a knife or chisel is a wedge — as you push it forward, it pushes material apart to either side. An ax head is a wedge.
 
-**Responsibility**: Being the person who takes care of something and making sure it stays safe and in good condition. When you use a tool, you have the responsibility to use it safely and put it away carefully.
+**Mechanical advantage**: The multiplication of force a tool provides. A tool with high mechanical advantage means a small force from your hand produces a larger force at the working end. This is how a small person can drive a nail or cut through wood — the tool multiplies their strength.
 
-**Durable**: Able to last a long time and stay strong even when used a lot. A durable tool like a sturdy wooden spoon won't break easily, while a fragile toy made of thin plastic might break if dropped.
+**Maintain**: To keep something in good working condition through regular care. When tools aren't maintained — when they rust, dull, or get damaged — they lose their mechanical advantage and can become dangerous.
 
 ## Learning Song
 
@@ -61,7 +57,7 @@ Working together, you see
 
 ## Intro Video Recommendation
 
-**Try to find an actual video**: Search YouTube for age-appropriate educational content about tool use and maintenance for toddlers.
+**Try to find an actual video**: Search YouTube for age-appropriate educational content about simple machines and tools for young children.
 
 **Recommended video**: Search for: "Daniel Tiger Tool Time" or "Daniel Tiger Uses Tools"
 
@@ -128,9 +124,9 @@ Children explore a carefully curated collection of safe, real tools and learn to
 
 1. **Introduction** (3-4 minutes):
    - Invite the child to sit near the collection of tools
-   - Hold up one tool at a time and name it: "This is a spoon. It has a purpose—it helps us scoop and eat food."
+   - Hold up one tool at a time and name it: "This is a spoon. It helps us scoop and eat — the curved bowl scoops and holds the food, and the handle is a lever that makes it easy to control."
    - Ask the child: "What do you think this tool does?" and listen to their ideas
-   - Explain: "Tools are helpers. Each one has a special job. And when we use tools, we need to take care of them so they keep working."
+   - Explain: "Tools are helpers — they multiply our strength or make tasks possible that would be impossible with bare hands. Almost every tool is a simple machine: levers, wedges, or a combination. And when we use tools, we need to take care of them so they keep working."
 
 2. **Exploration** (8-12 minutes):
    - Invite the child to pick up one tool at a time (you can place it in their hands or let them choose)
@@ -144,8 +140,8 @@ Children explore a carefully curated collection of safe, real tools and learn to
    - Narrate what's happening: "You're holding the hammer carefully. You're tapping gently. That's how we use tools safely."
 
 3. **Discovery** (3-5 minutes):
-   - Point out features of each tool: "This spoon has a long handle so we can reach into the bowl. This brush is soft so it won't hurt things."
-   - Ask questions: "How did that feel?" "What did it do?" "Why is this brush soft?"
+   - Point out features of each tool and connect to mechanics: "This spoon has a long handle — a longer lever gives more control. The scissors have two sharp wedge-shaped blades that meet to cut. The magnifying glass is a lens that bends light (refracts it) to make things look bigger."
+   - Ask questions: "How did that feel?" "What did it do?" "Why does the long handle make it easier?" "Why are scissors sharp?"
    - Introduce maintenance concepts: Show the child the cloth or sponge and say, "After we use tools, we clean them. Let me show you." Gently wipe a tool clean together.
    - Practice caring: Let the child help clean one tool—you guide their hands to wipe it gently
    - Connect to responsibility: "When we clean and care for our tools, they stay strong and work really well next time."
