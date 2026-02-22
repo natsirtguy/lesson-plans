@@ -6,13 +6,15 @@ In this activity, children create and explore a pretend office environment where
 
 ## Vocabulary
 
-**Colleague**: A person who works together with you in an office or workplace; someone you cooperate and share tasks with during work.
+**Goods and services**: The two main things economies produce. **Goods** are physical objects — a chair, a sandwich, a toy. **Services** are things people *do* for others — teaching, designing, answering phones, making decisions. Offices mostly provide services: they organize information, manage decisions, communicate with customers, and coordinate other workers. When you pretend to "work" in an office, you're providing a service.
 
-**Communicate**: To share information and ideas with other people through talking, writing, listening, and exchanging messages; an important part of working with others.
+**Economy**: The whole system of how a society produces, trades, and uses goods and services. Work is part of the economy — in exchange for doing their job (their service), workers receive **wages** or a **salary** (money). That money can then be exchanged for goods and services from other people. The economy is essentially a massive web of exchanges.
 
-**Responsibility**: An important job or task that someone is expected to do well and take care of; being dependable about your work duties.
+**Organizational hierarchy**: Most workplaces are organized in a structure where some people make decisions that guide others' work. A **manager** or **supervisor** coordinates a team; a **CEO** (Chief Executive Officer) makes the biggest decisions for a whole company. Hierarchy exists because large groups need coordination — someone has to decide what the group is working toward and how.
 
-**Professional**: A way of acting that is calm, organized, respectful, and focused on work; how adults behave when they are doing their job.
+**Colleague**: A person who works alongside you toward a shared goal. Colleagues cooperate, divide tasks, and share information. A colleague is different from a friend or a boss — it's a relationship defined by shared work.
+
+**Communication**: The process of exchanging information — through speaking, writing, email, or signals. Offices run on communication: passing messages, writing reports, making phone calls, holding meetings. Without clear communication, organizations stop functioning.
 
 ## 🎵 Learning Song
 
@@ -107,9 +109,9 @@ Children explore and play in a pretend office space, taking on different workpla
 
 1. **Introduction** (3-4 minutes):
    - Show children the office setup and ask: "What do you see here? What do people do in an office?"
-   - Share: "Today we're going to pretend to work in an office! We can be receptionists, bosses, secretaries, or workers."
+   - Share: "Today we're going to pretend to work in an office! But first — do you know WHY people go to work? People work to provide goods or services. An office mostly provides **services** — like organizing information, making decisions, and communicating with other people. The people who do the work get **wages** — that's money they can use to buy things they need."
+   - "Offices have different jobs. Someone is usually in charge — that's the **manager** or boss. Others do specific jobs: answering phones, organizing files, sending messages. When everyone does their part, the office works!"
    - Invite each child to choose a role and give them a name badge
-   - Explain that this is pretend play where everyone has different jobs
 
 2. **Exploration** (5-10 minutes):
    - Let children explore the office setup and materials freely

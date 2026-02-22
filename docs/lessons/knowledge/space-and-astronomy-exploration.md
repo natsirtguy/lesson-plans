@@ -6,13 +6,19 @@ Children explore space and astronomy through sensory, imaginative activities tha
 
 ## Vocabulary
 
-**Celestial**: Relating to the stars, moon, and space above us. When you look at the night sky and see twinkly lights, you're viewing celestial objects like stars and planets.
+**Star**: A massive sphere of hot glowing gas — mostly hydrogen — that generates enormous energy through a process called **nuclear fusion**, where hydrogen atoms are smashed together to make helium and release heat and light. Our Sun is a star. It looks bigger and brighter than other stars only because it's much, much closer to us.
 
-**Constellation**: A pattern or picture made by connecting stars in the night sky. Many constellations have names and stories that people from all over the world have told for thousands of years.
+**Planet**: A large round object that orbits (travels around) a star. Earth is a planet. Our solar system has 8 planets orbiting the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
 
-**Twinkle**: To shine with a flickering or sparkling light, like stars do in the night sky. Stars appear to twinkle because of the way Earth's air moves around them.
+**Orbit**: The path an object takes as it travels around another object pulled by gravity. Earth orbits the Sun once every 365 days — that's one year.
 
-**Galaxy**: An enormous collection of stars, planets, and space dust all held together. Our sun and Earth are part of a galaxy called the Milky Way, which contains billions and billions of stars.
+**Light-year**: A unit of distance (not time!) — the distance light travels in one year. Light moves at about 300,000 km per second, so a light-year is almost 10 trillion km. The nearest star to Earth (after the Sun) is called **Proxima Centauri**, and it's 4.2 light-years away. The light we see from it left that star over 4 years ago!
+
+**Constellation**: A pattern formed by connecting stars in the night sky. Different cultures throughout history have identified different constellations — the Big Dipper, Orion the Hunter, and Scorpius are examples. Stars in a constellation may actually be very far apart from each other in space; they just appear to form a pattern from Earth.
+
+**Galaxy**: A massive system of stars, gas, dust, and dark matter all held together by gravity. Our Sun (and Earth) is one of roughly 200–400 billion stars in our galaxy, called the **Milky Way**. It's shaped like a flat spiral disk. On a clear night, you can sometimes see the faint band of our galaxy's core stretching across the sky.
+
+**Twinkle (atmospheric refraction)**: Stars appear to twinkle because light from distant stars passes through Earth's atmosphere — layers of air at different temperatures that bend light in slightly different ways. As those air layers move, the light gets bent in slightly different directions, making the star appear to flicker. Planets don't twinkle as much because they appear slightly larger (as a disk rather than a point) from Earth, so the flickering averages out.
 
 ## Learning Song
 
@@ -47,10 +53,10 @@ Can you find a constellation in the sky
 
 **What to look for**:
 - 2-5 minutes long
-- Slow, clear narration about stars and the night sky
-- Visually engaging with bright colors and twinkling effects
+- Slow, clear narration about stars, planets, or the solar system
+- Visually engaging with real NASA imagery if possible
 - Gentle music and no scary elements
-- Focuses on wonder and observation rather than complex astronomy facts
+- Uses real terms (planet, orbit, solar system, star) rather than only vague "space" language
 
 **Alternative searches**:
 - "Baby astronauts space for toddlers"
@@ -102,13 +108,13 @@ Children embark on a sensory journey exploring space through hands-on, imaginati
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Dim the lights and use a flashlight to create a "spotlight" on the black paper, saying "Look! We're exploring space tonight." Ask open-ended questions: "What do you know about stars?" "Have you seen the moon?" "What's way up in the sky?" Show a glow stick or use the flashlight to demonstrate how stars twinkle and shine. Set clear expectations: "We're going to create our own special space with paint and shine" and "There's no wrong way to make space - your space is special."
+   Dim the lights and use a flashlight to create a "spotlight" on the black paper. Say: "We're going to explore space! Space is everything outside Earth — and it goes on forever. All those little lights we see at night are called stars. Do you know what a star really is? Stars are giant balls of super-hot glowing gas — way, way bigger than Earth. Our Sun is a star! It looks bigger than other stars because it's much closer to us. Earth and the other planets travel around the Sun in paths called orbits." Ask: "Have you seen the Moon? The Moon is Earth's neighbor — it orbits Earth just like Earth orbits the Sun." Set up the activity: "We're going to paint our own galaxy — a galaxy is a huge family of billions of stars all together. Ours is called the Milky Way."
 
 2. **Exploration** (5-8 min):
    Children explore the materials and begin creating their space environment. Allow the child to explore the different paints and painting tools, encouraging free painting on black paper where dots, lines, and swirls all become "stars." Show how to dab, dip, and swirl to create different effects. Use the flashlight to create shadows and light effects on their paper. Observe and comment: "You're making so many bright stars!" "That swirl looks like a galaxy."
 
 3. **Guided Creation** (5-10 min):
-   Introduce techniques and deeper exploration. Demonstrate how to make "star clusters" by grouping dots together. Show how glitter or sequins stick to wet paint to create shiny stars. Introduce the idea of planets: "This bigger circle could be a planet." Use the flashlight to show how the paint "shines" like real stars when lit. Ask questions: "Which star is brightest?" "Can you make a dark space and bright stars?"
+   Introduce techniques and deeper exploration. Demonstrate how to make "star clusters" by grouping dots together — "Real stars group together in clusters because of gravity pulling them close!" Show how glitter or sequins stick to wet paint to create shiny stars. Introduce planets: "This bigger circle could be a planet — planets are round and they orbit around a star. Can you make a planet orbiting a star?" Use the flashlight to show how the paint "shines" — "That's how stars shine: they make their own light from all that burning gas inside." Ask: "Do you know any planet names? Mercury, Venus, Earth, Mars, Jupiter, Saturn..."
 
 4. **Free Expression** (remaining time):
    Children explore their own creative vision. Encourage adding personal touches—more paint, glitter, textures. Create multiple "space pictures" if the child is interested. Optional: Use painted sheets in a "space cave"—drape them and explore with a flashlight inside. Allow imaginative play with the finished creations.
@@ -122,7 +128,7 @@ Children embark on a sensory journey exploring space through hands-on, imaginati
 Focus on sensory exploration rather than "making space." Use larger brushes and heavier paints for easier control. Keep activity shorter (10-15 minutes) and emphasize the tactile experience: painting feels good, and watching paint swirl is fun. Use more verbal scaffolding: "Stars are in the sky. Paint makes stars on our paper." Offer pre-cut paper shapes to explore painting. Provide high adult support—stay close by to assist with paint application and offer encouragement frequently.
 
 **3-4+ years**:
-Introduce actual facts: "Real stars are very, very far away in space." Create story lines: "Our stars live together in a galaxy." Combine materials: paint first, then add glitter, then use under flashlight. Encourage detailed observation: "Let's look at the real stars tonight if we can." Create a "space map"—label elements with simple words: star, moon, planet. Use this as a springboard for dramatic play: "Let's pretend we're astronauts exploring." Children this age may engage for 20-30 minutes or create multiple space pictures.
+Go deeper on real concepts: stars generate light and heat through nuclear fusion; planets orbit stars because of gravity; light takes time to travel so the stars we see might look different today than they did when the light left them. Create a labeled "solar system map" — place the Sun in the center and draw the 8 planets in order. Name them: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Saturn has a distinctive ring system — children love painting its rings. Encourage detailed observation: "Let's look for real stars tonight — can you spot any planets? Planets don't twinkle like stars do." Children this age may engage for 20-30 minutes or create multiple space pictures.
 
 ### Extension Ideas
 

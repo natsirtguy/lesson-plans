@@ -2,7 +2,13 @@
 
 ## Activity Summary
 
-Sailing and wind sports introduce young children to harnessing wind power through sails, kites, and simple watercraft. This activity builds coordination, problem-solving, and environmental awareness while developing understanding of wind and physics. Children experience how invisible forces create movement and learn to work with nature rather than against it.
+Sailing and wind sports introduce young children to harnessing wind power through sails, kites, and simple watercraft. This activity builds coordination, problem-solving, and environmental awareness while introducing real wind physics.
+
+**Wind is moving air** — air is made of countless tiny gas molecules (mostly nitrogen and oxygen) that we can't see. When they move together in one direction, that's wind. Wind exerts **pressure** — it pushes against any surface in its path.
+
+Kites and sails harness two forces: **drag** (the wind pushing directly against a surface) and **lift** (a sideways force created when air moves faster over one curved surface than another, creating a pressure difference). This is the same principle that makes airplane wings generate lift! A well-designed sail acts like a wing — when angled correctly, the curved sail creates **lower pressure on the front side** and **higher pressure on the back side**, which pushes the boat sideways and forward. Sailors call different wind directions **points of sail**: *running* (wind pushing from directly behind), *reaching* (wind from the side), and *beating* (sailing into the wind, using lift to angle forward).
+
+For children ages 2-4, this session focuses on physical coordination and outdoor exploration, while naming these real forces as they come up naturally in play.
 
 **Activity Type**: Outdoor adventure
 
@@ -92,10 +98,10 @@ Sailing and wind sports introduce young children to harnessing wind power throug
 ### Main Activity (10-18 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show the kite or sailboat and explain: "Wind pushes this kite up in the air. Wind pulls the sail on the boat."
+- Show the kite or sailboat and explain: "Wind is made of air moving really fast — and when air bumps into our kite or sail, it pushes it! That's called **drag**. But there's also a sneaky force called **lift** — when air flows around a curved shape, it pushes it sideways. That's how airplanes fly, and it's how sails work too!"
 - Demonstrate how to hold the kite string with control: "Gentle but firm grip, let the wind do the work"
 - Show proper stance for kite flying: feet shoulder-width apart, facing wind
-- Explain wind direction: point where wind is coming from
+- Explain wind direction: "Wind always comes FROM somewhere. We always want our kite facing INTO the wind — that's how it catches both drag and lift."
 
 #### Skill Practice (3-5 minutes)
 
@@ -118,10 +124,10 @@ Sailing and wind sports introduce young children to harnessing wind power throug
 - "You're flying! Keep steady!"
 
 **Coaching cues** (sailboat):
-- "See how the sail fills with wind? That's what makes the boat go"
-- "Watch the sail angle—it catches the wind"
-- "The wind pushes the sail, and that moves the boat"
-- "Nice and gentle push to launch"
+- "See how the sail fills up and curves? That curve is important — it creates **lift**, just like an airplane wing!"
+- "When the wind pushes from behind, that's called *running* — that's drag pushing us forward"
+- "When wind comes from the side, that's called *reaching* — sailboats love that!"
+- "Nice and gentle push to launch — now the wind takes over"
 
 #### Guided Play/Game (5-10 minutes)
 

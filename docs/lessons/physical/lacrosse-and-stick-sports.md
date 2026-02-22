@@ -2,7 +2,9 @@
 
 ## Activity Summary
 
-Lacrosse and stick sports for young learners focus on developing hand-eye coordination, gross motor control, and cooperative play through adapted stick handling and gentle striking activities. Rather than the complex rules of traditional lacrosse, young children ages 2-4 engage in simplified stick manipulation, rolling and pushing soft objects with sticks, and basic team cooperation games. This activity builds confidence with equipment, develops bilateral coordination, and introduces the joy of team-based play.
+Lacrosse is one of the oldest team sports in North America — it was created by Indigenous peoples (First Nations) long before European arrival, and hundreds of nations played it. The name "lacrosse" comes from French settlers who thought the stick looked like a bishop's staff (*la crosse*). The stick is actually called a **crosse**, and it has a mesh net at the end called a **pocket** — players use the pocket to catch, carry, and pass a hard rubber ball. The running motion that keeps the ball secure in the pocket is called **cradling**.
+
+For young children ages 2-4, this session focuses on gross motor control and hand-eye coordination through adapted stick handling and gentle pushing activities, while introducing the real vocabulary and origins of this ancient sport.
 
 **Activity Type**: Team Sport / Motor Skill Development
 
@@ -78,12 +80,12 @@ Lacrosse and stick sports for young learners focus on developing hand-eye coordi
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Introduce the stick: "This is our special sports stick. We're going to learn how to use it to move balls around like the big players do!"
-- Demonstrate how to hold the stick (both hands, loose grip, at waist level)
-- Demonstrate the basic movement: pushing a soft ball along the ground with the stick
-- Show that sticks stay low (waist height or below)
+- Introduce the sport: "This is called lacrosse — it's one of the oldest sports in the world! Native American peoples created it hundreds of years ago. The stick has a special name: it's called a **crosse**. See the little net at the end? That's called the **pocket** — that's how players hold onto the ball while they run!"
+- Demonstrate how to hold the crosse (both hands, loose grip, at waist level)
+- Demonstrate the basic movement: pushing a soft ball along the ground with the crosse
+- Show that the crosse stays low (waist height or below)
 
-**Key coaching point**: "Sticks stay LOW - we're not swinging them high. We're pushing the ball gently with our stick."
+**Key coaching point**: "Sticks stay LOW - we're not swinging them high. Real lacrosse players cradle the ball to keep it in the pocket — we're going to practice moving the ball gently with our crosse."
 
 #### Skill Practice (3-5 minutes)
 
@@ -94,11 +96,11 @@ Lacrosse and stick sports for young learners focus on developing hand-eye coordi
 - **Putting it together**: Move the ball across the space, stop it, and turn with it
 
 **Coaching cues**:
-- "Hold your stick with both hands - pretend you're holding a big candy cane!"
+- "Hold your crosse with both hands — that's what lacrosse players call their stick!"
 - "Gently push the ball like you're helping it roll down a gentle hill"
-- "Keep your stick low - imagine it's a snake slithering along the ground"
+- "Keep your crosse low - imagine it's a snake slithering along the ground"
 - "Follow your ball with your eyes - watch where it goes!"
-- "You're doing great! Nice and gentle with that stick"
+- "Real lacrosse players practice cradling — rocking the stick to keep the ball in the pocket. Can you rock your crosse gently?"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -231,6 +233,18 @@ Lacrosse and stick sports for young learners focus on developing hand-eye coordi
 - When child shows comfort with equipment, introduce team concepts
 - When pushing motion is reliable, introduce goal-directed play
 - When child requests more challenge or shows mastery of basic skills
+
+## Real Lacrosse: What to Know
+
+**For caregivers** — share these facts naturally during play:
+
+- **Origins**: Lacrosse is one of the oldest team sports in North America, played by hundreds of Indigenous nations for centuries. It was used for celebration, healing, and conflict resolution — games could last days and involve thousands of players.
+- **The crosse**: The stick is called a **crosse** (from French). Modern crosses have a plastic or wooden **shaft** and a mesh **pocket** at the top that catches and holds the ball.
+- **Cradling**: Players rock the crosse side to side while running — this centrifugal motion keeps the ball secured in the pocket. It's the defining movement of the sport.
+- **The crease**: The circle around the goal is called the **crease** — only the goalkeeper can be inside it.
+- **Variants**: Field lacrosse, box lacrosse (indoor), women's lacrosse, and traditional games all have different rules and equipment. It's now one of the fastest-growing sports in North America.
+
+**What to say**: "Do you know what the stick is called? A crosse! And the net part is the pocket — that's what keeps the ball from falling out when players run really fast. The people who invented this game lived in North America long, long ago."
 
 ---
 
