@@ -6,13 +6,17 @@ Children explore how everything connects to everything else—from plants and an
 
 ## Vocabulary
 
-**Ecosystem**: A community of living things (plants, animals, insects) that depend on each other and share the same environment. An example: a garden where bees pollinate flowers, flowers feed birds, and dead leaves become soil that feeds new plants.
+**Ecosystem**: A community of living things (plants, animals, insects, fungi, bacteria) that depend on each other and share the same environment. An example: a meadow where grass grows using sunlight, caterpillars eat grass, birds eat caterpillars, and dead leaves are broken down by fungi and bacteria into soil that feeds new grass.
 
-**Interdependent**: When two or more things need each other to survive or function. For example, a flower depends on the bee for pollination, and the bee depends on the flower for food—they help each other.
+**Trophic Level**: A feeding position in a food chain. Producers (plants) are the first trophic level — they make their own food from sunlight. Primary consumers (herbivores like caterpillars or rabbits) eat producers. Secondary consumers (like frogs or songbirds) eat herbivores. Each level up, there's less total energy — that's why there are always more plants than herbivores, and more herbivores than predators.
 
-**Network**: A system of connections linking different parts together. Just like how roads connect towns, or how family members connect in a family tree, a network shows how things relate to and connect with each other.
+**Interdependent**: When two or more things need each other to survive or function. For example, a flower depends on the bee for pollination (moving pollen so seeds can form), and the bee depends on the flower for nectar and pollen as food — this is called *mutualism*, a relationship where both species benefit.
 
-**Cascade**: When one action or change causes a chain reaction that spreads outward, affecting many other things. For example, if one tree falls in a forest, it creates space for sunlight, which helps new plants grow, which feeds new animals.
+**Mutualism / Parasitism / Commensalism**: Three types of species relationships. Mutualism: both benefit (bee + flower). Parasitism: one benefits at the other's expense (a tick feeding on a deer). Commensalism: one benefits, the other is unaffected (a bird nesting in a tree — the bird benefits, the tree is neither helped nor harmed).
+
+**Keystone Species**: A species whose presence or absence has an outsized effect on the whole ecosystem — far more than you'd expect from its size. Wolves in Yellowstone are a famous example: when wolves were removed, deer overate riverbank plants, rivers eroded, and the whole landscape changed. When wolves returned, rivers stabilized — a change called a "trophic cascade."
+
+**Cascade**: When one change causes a chain reaction that spreads outward through the system. The loss or addition of one species, or a change in rainfall, can trigger cascading effects throughout an entire ecosystem.
 
 ## Learning Song
 
@@ -122,18 +126,19 @@ Children create a living "web" that shows how ecosystem parts connect. Using yar
 2. **Exploration** (8-12 minutes):
 
    **Part A - Build the Web**:
-   - Assign each child or caregiver a card (plant, bee, bird, sun, worm, soil, etc.)
+   - Assign each child or caregiver a card (plant, caterpillar, bird, sun, worm, soil, bee, etc.)
    - Have everyone stand in a loose circle, holding their card.
-   - Explain the first connection: "The Sun gives energy to Plants. Sun, hold your yarn and toss it to Plant. They're connected!"
-   - Plant now holds the sun end: "Plants feed Bees. Toss the yarn, Bees!"
-   - Continue: Bee → Bird (bird eats bees), Bird → Soil (when bird poops, it feeds soil), Soil → Plant (soil feeds plants), Plant → Sun (connection back to energy source).
-   - Keep the yarn taut but not tight. You've now created a web!
+   - Explain the first connection: "The Sun gives energy to Plants — plants are producers, they make their own food. Sun, hold your yarn and toss it to Plant. They're connected!"
+   - Plant now holds the sun end: "Plants feed Caterpillars. Caterpillar, you're a primary consumer — you eat plants. Toss the yarn!"
+   - Continue: Caterpillar → Bird (secondary consumer — birds eat caterpillars), Bird → Worm (birds also eat worms), Worm → Soil (worms break down dead material and improve soil — they're decomposers), Soil → Plant (healthy soil feeds new plants). Then add: Plant → Bee (nectar), Bee → Plant (pollination — draw a double-headed yarn showing mutualism).
+   - Keep the yarn taut but not tight. You've now created a food web!
+   - Point out: "Notice this is a *web*, not just a chain — because each species is connected to multiple others."
 
    **Part B - See What Happens When Things Change**:
    - "Now let's see what happens when one part of nature changes. What if the Sun stops shining?"
    - Have the Sun person gently pull their yarn. Everyone feels it! Discuss: "When the Sun goes away, what happens to the plants? They can't grow! And if plants can't grow, what happens to the bees?" Continue the chain reaction.
    - Let the Sun person release. "Good! The Sun came back. Let's try something else."
-   - "What if all the bees disappear?" Have Bee gently tug their yarn. Everyone feels it. "The flowers can't get pollinated! And the birds don't have bees to eat!"
+   - "What if all the bees disappear?" Have Bee gently tug their yarn. Everyone feels it. "The flowers can't get pollinated — that means no seeds, no new plants! This is what's happening in the real world right now — bee population decline threatens entire food webs."
    - Try one more: "What if we had no soil?" Watch the web wobble.
 
 3. **Discovery** (2-4 minutes):
@@ -142,7 +147,8 @@ Children create a living "web" that shows how ecosystem parts connect. Using yar
    - "What happens when one part of the ecosystem changes?" (Everything else changes too!)
    - "Who needs the Sun?" (Everyone! It starts the whole chain!)
    - "What would happen if there were no worms?" (Soil wouldn't be as healthy, plants wouldn't grow as well)
-   - "How do plants and bees help each other?" (Bees eat pollen/nectar, and plants get pollinated to make seeds)
+   - "How do plants and bees help each other?" (Bees get nectar and pollen for food; plants get pollinated so they can make seeds — this is mutualism, both benefit)
+   - "What do you notice about which level has more creatures — plants, caterpillars, or birds?" (More plants than caterpillars, more caterpillars than birds — energy decreases at each trophic level)
    - "Is anything alone in nature?" (No! Everything is connected!)
 
 4. **Wrap-up** (2-3 minutes):
@@ -159,7 +165,7 @@ Keep it simpler and shorter. Use only 3-4 ecosystem members (Sun, Plant, Bee, Bi
 
 **3-4+ years**:
 
-Introduce more ecosystem members (add fox, worm, decomposer, water cycle, etc.). Create more complex webs with multiple paths of connection. Ask children to predict what will happen before you test it ("If the Sun goes away, what do you think happens?"). Introduce the word "chain" or "web" and discuss "food chains." Ask children to create their own connections based on what they know. Extend to human systems: "Are your families connected like this web? Who depends on whom?" Connect to their community: "The farmers, the store, our house—are they connected?"
+Introduce more ecosystem members (add fox, worm, decomposer, water cycle, hawk, etc.). Create more complex webs with multiple paths of connection. Ask children to predict what will happen before you test it ("If the Sun goes away, what do you think happens?"). Distinguish food chain (linear) from food web (complex, multiple connections). Introduce trophic levels by name: "Producers are level 1, primary consumers level 2, secondary consumers level 3." Ask: "Why are there always more plants than animals?" (Energy decreases at each trophic level — only about 10% of energy moves from one level to the next.) Introduce mutualism and parasitism as named concepts. Ask children to identify examples of each in everyday life.
 
 ### Extension Ideas
 
@@ -169,8 +175,8 @@ Take the activity outside to a garden, park, or natural area. Find real plants, 
 **Variation 2 - Human/Community Interconnections**:
 Expand beyond ecosystems to social systems. Create a web showing how a family connects (Mom helps Dad, both help Kids, Grandparents help everyone, siblings help each other). Or show a community: farmers → stores → families → restaurants. Discuss: "When the farmer grows food, it affects the store. When the store sells food, it affects families. If the farmer stops growing food, what happens to everyone?"
 
-**Variation 3 - Cause and Effect Stories**:
-After the web activity, read a picture book about ecosystems (like "The Little Blue Truck" or "The Very Hungry Caterpillar") and pause to ask: "How is this character connected to other parts of the story? What happens when one thing changes?" Reinforce the web concept through narrative.
+**Variation 3 - Keystone Species Discussion**:
+Introduce the concept of a keystone species — one whose removal collapses the whole system. The real-world example of wolves being reintroduced to Yellowstone is powerful: wolves kept deer moving, deer stopped overgrazing riverbanks, plants grew back, rivers stabilized, fish returned. One predator changed the course of rivers. Ask: "In our yarn web, which player do you think would cause the most collapse if removed?" Then test it.
 
 **Repeat play**:
 Run the web activity weekly with different ecosystem members, different locations (rainforest vs. desert vs. ocean), or different scenarios ("What if it never rained?" or "What if there were no decomposers?"). Each time, children deepen their understanding of how systems work and how change ripples outward.

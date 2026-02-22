@@ -2,17 +2,21 @@
 
 ## Activity Summary
 
-Children learn essential fire safety awareness through interactive games, storytelling, and role-playing activities that help them recognize fire hazards, understand safety rules, and practice calm, protective behaviors. This lesson combines dramatic play with life-saving knowledge, building confidence and awareness in an age-appropriate, non-frightening way that protects children in real-world situations.
+Children learn fire safety through understanding the actual science of fire — not just rules, but the reasons behind them. Why does smoke rise to the ceiling? (Thermal convection — hot air is less dense and floats up.) Why do you crawl low? (Cooler, more breathable air stays near the floor.) Why does stop, drop, and roll work? (Rolling smothers flames by cutting off their oxygen supply.) Understanding the science behind safety rules makes those rules memorable and transferable to new situations children can't anticipate.
 
 ## Vocabulary
 
-**Prevention**: The action of stopping something harmful or dangerous from happening before it occurs. When we learn about fire safety, we are preventing accidents from hurting us. Example: Keeping matches and lighters away from children is a fire prevention practice.
+**Combustion**: The chemical reaction that produces fire — fuel (something that can burn) combines with oxygen from the air, and heat triggers the reaction. The products are carbon dioxide, water vapor, heat, and light. If any one of those three inputs (fuel, oxygen, heat) is removed, the fire stops. This is the fire triangle.
 
-**Hazard**: Something in our environment that could cause harm or danger. A hot stove is a fire hazard because it can burn us. Example: Leaving candles lit unattended is a hazard in the home.
+**Thermal Convection**: Hot air rises because it's less dense than cool air. This is why smoke from a fire drifts up to the ceiling. In a burning room, the ceiling fills with hot, toxic smoke first — which is why crawling low keeps you in the cooler, more breathable air near the floor.
 
-**Alert**: A warning signal or message that tells us to be ready or careful about something. We use a bell or whistle alert to practice what to do if there's ever a fire. Example: When we hear the fire alarm alert, we know to get to safety immediately.
+**Carbon Monoxide (CO)**: A colorless, odorless, toxic gas produced when fuel doesn't burn completely. Most fire deaths are actually caused by smoke inhalation and carbon monoxide poisoning, not by direct burns. This is why getting out fast matters so much.
 
-**Escape**: To move away safely from danger to a place where we are protected. If there's a fire, we escape the building by going outside to our safe meeting spot. Example: The quickest escape route from the bedroom is through the door and down the stairs.
+**Stop, Drop, and Roll**: The technique for extinguishing fire on a person's clothing. Stopping prevents running from fanning the flames; dropping removes oxygen by pressing clothing against the ground; rolling smothers the fire by repeatedly cutting off its air supply. The fire triangle again — remove oxygen, fire stops.
+
+**Flash Point**: The minimum temperature at which a material can ignite. Gasoline can ignite from a spark at room temperature (very low flash point). Wood needs much more heat. This is why some materials are much more dangerous than others near heat sources.
+
+**Prevention**: Eliminating one or more sides of the fire triangle before they combine. Keeping fuel (paper, cloth, wood) away from heat sources. Storing flammable chemicals with tight lids. Never leaving open flames unattended. Prevention is far more effective than response.
 
 ## Learning Song
 
@@ -92,31 +96,39 @@ Children learn and practice fire safety through guided games, role-play scenario
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Start with a story hook: "Today we're going to play special games about fire safety - learning how to stay smart and safe at home and in our community." Show a picture of a firefighter or fire truck. Demonstrate your alert signal (bell or whistle) and explain: "This sound means 'Get to a safe place!' - let's try it together." Explain that fire keeps us warm and cooks food, but we need to be careful around it.
+1. **Introduction: The fire triangle** (3-4 min):
+   "Fire needs three things to burn: fuel, oxygen, and heat. If you take away any one of them, the fire stops." Draw a triangle on paper and label each side: FUEL / OXYGEN / HEAT. "Wood is fuel. Air has oxygen. A match creates heat. Put all three together and you get fire." "Firefighters use water to cool the heat — removing that side. Foam smothers oxygen — removing another side. This is why they work."
 
-2. **Exploration - Story and Picture Phase** (5-7 min):
-   Show picture cards of different fire scenarios: someone cooking, candles, a fireplace, someone playing with matches. Ask simple questions: "What do you see here? Is this safe or not safe? What should we do?" Let children point out items that are "hot" or "dangerous." Tell a simple story using a stuffed animal or doll as the main character learning about fire safety. Introduce key concepts: don't touch the stove, keep away from candles, tell an adult if you see fire.
+   Demonstrate: "When you blow out a birthday candle, what are you doing? You're disrupting the heat and oxygen supply — two sides of the triangle at once."
 
-3. **Discovery - Games and Role-Play** (8-12 min):
-   Lead 2-3 specific fire safety games:
+2. **Why the rules work: The science behind safety** (7-9 min):
+   Explain each rule with its scientific reason:
 
-   - **Game 1: "Who Helps When Fire Happens?"** Show pictures of firefighters and family adults. Let children identify who helps us. Role-play: child pretends to call 911 (mime phone) and describe the problem simply. Adult responds with calm directions.
+   - **"Crawl low during a fire"**: "Smoke rises to the ceiling first — this is called thermal convection. Hot air is lighter than cold air, so it floats up. The cleanest air is near the floor." (Practice crawling together.) "That's the same reason hot air balloons fly — hot air rises."
 
-   - **Game 2: "Safe or Not Safe? Sorting Game"** Describe scenarios (examples: "Mommy cooking with you watching" vs "Playing with matches"). Children respond with thumbs up (safe), thumbs down (not safe), or move to a safe/not-safe area. Discuss why each scenario is safe or not safe.
+   - **"Stop, Drop, and Roll"**: "If your clothes catch fire, what would happen if you ran? Running fans the flames with more oxygen and spreads them. Instead: STOP. DROP — get the fire away from your face. ROLL — rolling squeezes the oxygen out from between you and your clothes." Practice together. "Which side of the fire triangle are we removing when we roll? Oxygen!"
 
-   - **Game 3: "Fire Exit Practice"** Set up a simple "home" area using furniture or blocks. Identify windows and doors as exits. When you sound the alert signal, children practice walking (not running) to a safe place. Explain: "When we hear the alarm, we go outside to meet grown-ups at our special safe spot." Let children practice 2-3 times with positive reinforcement.
+   - **"Feel a door before opening it"**: "If a door is hot, fire is right on the other side. Opening it suddenly gives the fire a rush of fresh oxygen. A closed door slows fire's spread — sometimes for 20 minutes or more. It's buying time to escape another way."
+
+   - **"Why smoke detectors matter"**: "Most people who die in fires aren't burned — they're overcome by smoke and a gas called carbon monoxide before they can escape. A smoke detector wakes you up before the smoke gets dangerous. It's on the ceiling because that's where smoke goes first — thermal convection."
+
+3. **Games and Role-Play** (7-10 min):
+   - **Fire Triangle Analysis**: Show picture cards of fire scenarios. For each: "Which side of the fire triangle is the hazard here? Which side could you remove?" (Matches near paper = heat + fuel nearby; candle near curtain = fuel too close to heat source; stove left on = heat without supervision.)
+
+   - **Safe or Not Safe + Why**: Practice explaining the reason, not just the verdict. "Cooking handle turned in toward the stove — safe or not safe, and why?" (Safe — turned-in handles can't be grabbed or knocked off, preventing fuel from spilling onto heat.)
+
+   - **Stop, Drop, and Roll Practice**: Count it together — "Stop! Drop! Roll, 2, 3, 4, 5. Roll, 2, 3, 4, 5."
 
 4. **Wrap-up** (2-3 min):
-   Invite children to create their own fire safety drawing, teach you a safety game they learned, or ask any final questions. Celebrate what they learned: "You're learning how to be smart and safe!" Display any creations in a visible place.
+   "What three things does fire need? What does crawling low do? What does rolling remove?" Let children draw the fire triangle and label the three sides. Post it somewhere visible.
 
 ### Age Adaptations
 
 **2-3 years**:
-Focus on very simple, concrete concepts and guided role-play. Use only 1-2 games (not all three). Keep stories very short - just 2-3 sentences. Use concrete props and movement rather than abstract discussion. Emphasize the safe behaviors: "Fire is hot. We don't touch fire. Adults keep us safe." Make each game shorter (3-4 minutes) with lots of physical movement. Duration: 15-20 minutes total. Provide high adult support with lots of modeling and physical help.
+Focus on two science concepts and two physical skills. Science: "Fire needs three things — fuel, oxygen, heat" (draw the triangle together). "Smoke goes up" (blow on something light and watch it rise — same idea). Physical skills: crawling low, and stop/drop/roll. Practice both physically. Keep explanations to one or two sentences but don't skip the real concepts — "Smoke goes to the ceiling first because hot air floats up, so we crawl down here where the air is cleaner" is entirely graspable. Duration: 15-20 minutes.
 
 **3-4+ years**:
-Include 3-4 different games and scenarios. Ask more "why" questions to deepen understanding ("Why do we need to tell an adult?" "What does a firefighter do?"). Add more complex escape scenarios with multiple exits. Role-play calling 911 with more realistic dialogue. Discuss different locations (kitchen, bedroom, outside) and safety in each space. Introduce "stop, drop, and roll" if appropriate for your region. Duration: 25-30 minutes. Encourage independent thinking and creative expression.
+All three concepts fully: fire triangle, thermal convection, carbon monoxide (described as "the invisible smoke that you can't see or smell — that's the most dangerous kind"). Let children explain back to you why each safety rule works — this consolidates understanding. Challenge: "If you were a firefighter and needed to put out a fire, which side of the triangle would you attack first?" Discuss how different fire extinguisher types work (water, CO2, foam). Duration: 25-30 minutes.
 
 ### Extension Ideas
 

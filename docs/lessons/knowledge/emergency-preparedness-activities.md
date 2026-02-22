@@ -2,163 +2,184 @@
 
 ## 🎯 Activity Summary
 
-Through hands-on exploration and creative role-play, children develop confidence and understanding about community helpers and basic safety practices. This activity introduces children to the people and systems that keep them safe while helping them recognize important safety symbols and simple emergency responses. By engaging with props, creating safety posters, and acting out helpful scenarios, children learn that they can understand safety concepts and trust the adults and helpers around them.
+Children explore what emergencies are, why communities prepare for them, and how real emergency systems work — from smoke detectors to evacuation routes to 911. Through hands-on activities and role-play, children learn actual preparedness concepts: fire needs fuel, oxygen, and heat to burn; smoke rises so you crawl low; first responders are specially trained people who practice every day; and having a plan in advance means your brain doesn't have to think under pressure. The goal is confident understanding, not just reassurance.
 
 ## Vocabulary
 
-**Community Helpers**: People trained and prepared to help and support others when they need assistance, such as firefighters, police officers, nurses, and other professionals in your neighborhood.
+**Emergency**: A sudden event that threatens health or safety and requires a fast, trained response — like a fire, flood, injury, or missing person.
 
-**Emergency**: A sudden, unexpected situation that requires quick help or action from people trained to respond and assist.
+**First Responder**: A person with specialized training whose job is to be first on the scene during emergencies — includes firefighters, paramedics, and police officers.
 
-**Safe/Safety**: Protected from danger or harm; when something is done carefully to prevent injury or problems.
+**Evacuation**: Leaving a building or area quickly and safely using a planned route to reach a safer location.
 
-**Preparedness**: Being ready and knowing what to do if something unexpected happens; having a plan and practicing it so you know what to do.
+**Evacuation Route**: A specific, pre-planned path from a building to a safe meeting place — practiced ahead of time so people don't have to figure it out during an emergency.
+
+**911**: The emergency phone number in North America that connects you to a dispatch center, where trained operators send the right first responders to your location.
+
+**Smoke Detector / Fire Alarm**: A device that detects smoke particles in the air and sounds a loud alarm to warn people before a fire gets big.
+
+**Fire Triangle**: The three things fire needs to burn: fuel (something to burn), oxygen (from the air), and heat. Remove any one and the fire goes out — this is why firefighters use water (cools heat) and foam (cuts off oxygen).
+
+**Triage**: The process first responders use to quickly decide who needs help most urgently when multiple people are injured.
+
+**Preparedness**: Having a plan and practicing it *before* an emergency happens, so your body and brain already know what to do.
 
 ## 🎵 Learning Song
 
-**Tune**: The Itsy Bitsy Spider
+**Tune**: She'll Be Coming 'Round the Mountain
 
-**Tempo**: Upbeat and playful
+**Tempo**: Steady, confident
 
 **Lyrics**
 
 *Verse 1*
-When something scary comes our way
-We know a helper saves the day
-A firefighter, nurse, or friend
-They help us know we're safe again
+When the smoke alarm goes beeping, we move fast
+When the smoke alarm goes beeping, we move fast
+We crawl low where air is clean
+Smoke rises — that's what we've seen
+When the smoke alarm goes beeping, we move fast
 
 *Verse 2*
-We practice being safe and smart
-And learn what's good right from the start
-We know where to go and what to do
-Our helpers care for me and you
+We all meet at our spot outside the house
+We all meet at our spot outside the house
+One meeting place, we all know where
+No going back in — stay right there
+We all meet at our spot outside the house
+
+*Verse 3*
+Nine-one-one calls trained helpers right away
+Nine-one-one calls trained helpers right away
+Tell your name and where you are
+Dispatchers know just near and far
+Nine-one-one calls trained helpers right away
 
 **Actions/Gestures**:
-1. When singing about "something scary," make a surprised face and place hands over heart
-2. When singing about "helpers," point outward and make helping motions (reaching to assist someone)
-3. When singing about being "safe," wrap arms around self in a protective hug
+1. During "smoke alarm beeping" — clap hands rhythmically like an alarm
+2. During "crawl low" — drop hands toward the floor, show crawling motion
+3. During "meeting place" — point to a designated spot in the room
+4. During "nine-one-one" — mime pressing phone buttons one, then one, then one
 
 ## 📺 Intro Video Recommendation
 
-**Recommended video**: Search YouTube for: "Community Helpers for Kids" or "Safety Helpers Song"
+**Recommended video**: Search YouTube for: "How do smoke detectors work for kids" or "Fire Triangle for Kids"
 
 **What to look for**:
-- 2-5 minutes long
-- Shows real people in community helper roles (firefighters, nurses, police officers)
-- Positive, calm tone that builds confidence rather than fear
-- Bright visuals showing helpers in action
-- Age-appropriate music and narration
+- Shows actual mechanisms — how smoke particles trigger the alarm
+- Explains the fire triangle (fuel, oxygen, heat)
+- Discusses real evacuation steps, not just "go to a safe place"
+- Calm, explanatory tone
 
 **Alternative searches**:
-- "Firefighters and Safety for Preschoolers"
-- "Community Helpers Preschool"
-- "We Help People Song for Kids"
+- "911 dispatcher kids explained"
+- "Stop drop and roll why it works"
+- "Earthquake drop cover hold on drill"
 
 ## Activity
 
 ### Activity Overview
 
-Children explore community helpers and safety concepts through a combination of picture exploration, guided poster creation, and imaginative role-play with props. During this activity, children will handle props, draw or color pictures for safety posters, and practice simple emergency scenarios through pretend play. They will learn who helps us stay safe and develop confidence by engaging with these concepts through play.
+Children learn real emergency preparedness through three interconnected activities: building a fire triangle demonstration, practicing a home evacuation drill, and assembling a mini emergency kit. Each activity teaches a real mechanism or skill, not just themed play.
 
-**Activity Type**: Social activity/Practical skills/Role-playing and simulation
+**Activity Type**: Practical skills/Science exploration/Safety training
 
-**Duration**: 20-30 minutes (with natural breaks)
+**Duration**: 30-40 minutes
 
 **Setup time**: 10-15 minutes
 
 ### Materials Needed
 
 **Essential**:
-- Picture cards of safety symbols (stop signs, fire exits, emergency phone numbers)
-- Simple props for role-play (toy phones, firefighter hats, doctor bags, safety vests)
-- Chart paper or poster board for creating safety posters
-- Markers and crayons in various colors
-- Picture books about community helpers and safety
+- Paper, scissors, red/orange/yellow crayons for fire triangle diagram
+- Three index cards labeled: FUEL, OXYGEN, HEAT (or draw flames and write together)
+- Tape for marking an evacuation route through your home
+- Toy phone or disconnected real phone for 911 practice
+- Small backpack or bag for emergency kit assembly
+- Emergency kit items: water bottle, granola bar, flashlight, bandage, whistle
 
 **Optional**:
-- Red and blue construction paper for emergency vehicle cutouts
-- Stuffed animals or dolls for practice scenarios
-- Toy telephone for practicing emergency calls
-- First aid kit with child-safe items (bandages, gauze)
-- Whistle or bell for signaling games
-- Safety helmets or hard hats for dress-up play
+- Smoke detector to show and describe (not activate — unless outdoors or with windows open)
+- Red/orange tissue paper "flames" for fire triangle activity
+- Map of your home (hand-drawn is fine) to mark evacuation routes
+- Stopwatch to time the evacuation drill
+- Walkie-talkies or simple radios to demonstrate communication
 
-**Cost**: Free to $10 (if purchasing simple props or printing materials)
+**Cost**: Free to $15 (most items are household items)
 
 ### Step-by-Step Instructions
 
 **Preparation**:
-1. Gather all role-play props and arrange in accessible areas
-2. Print or create simple picture cards showing community helpers
-3. Set up clear floor space for movement and role-play activities
-4. Designate different areas: role-play station, poster-making station, safety symbol station
-5. Ensure safety by removing any sharp or hazardous items
+1. Walk through your home and identify two evacuation routes from key rooms
+2. Choose and mark a meeting place outside (tree, mailbox, neighbor's porch)
+3. Gather emergency kit materials into one spot
+4. Pre-label the three fire triangle cards
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 minutes):
-   Start with a simple, calm question: "Do you know who helps people when they need help?" Show pictures of a firefighter, police officer, or nurse. Explain: "Today we're going to learn about people who help us stay safe and what we can do to be safe." Set simple expectations: "We're going to pretend and play, and you'll learn important skills that make you brave and smart."
+1. **The Fire Triangle** (8-10 minutes):
+   Hold up the three cards: FUEL, OXYGEN, HEAT. Explain: "Fire is a chemical reaction — it happens when three things come together at once." Arrange the cards in a triangle. "Fuel is something that burns — wood, paper, cloth. Oxygen comes from the air around us. Heat starts the reaction." Now: "What do firefighters do? They pour water — water cools the heat. Some fires get smothered with foam — that cuts off oxygen. When one side of the triangle is gone, the fire stops." Have children arrange and collapse the triangle. Ask: "Why do we keep matches and lighters away? Because we don't want all three sides together by accident." "Why is a fireplace screen important? It keeps fuel — like carpet and furniture — away from the heat."
 
-2. **Exploration** (5-7 minutes):
-   Show pictures of community helpers and let children touch and explore role-play props. Ask open questions: "What do you think this helper does?" and "How do they help us?" Point out simple safety symbols (stop sign, exit sign, phone symbol). Comment on their observations: "You noticed the red color on the fire truck! Fire trucks are red so people can see them."
+2. **How Smoke Detectors Work** (5 minutes):
+   Show a smoke detector if available. "This device has a tiny chamber inside. Smoke is made of particles — tiny bits floating in air. When particles drift into the chamber, they disrupt a small electric current, and that triggers the alarm." Key point: "It detects smoke *before* the fire gets big — that's why early warning saves lives." Explain why smoke rises: "Hot air from fire rises toward the ceiling, carrying smoke with it. That's why the alarm is on the ceiling. That's also why you crawl low during a fire — the cleanest air is near the floor."
 
-3. **Guided Creation and Practice** (7-10 minutes):
-   Introduce one safety concept at a time (fire safety, knowing your address, staying with grown-ups). Have children help draw or color pictures for a safety poster. Demonstrate simple emergency scenarios through role-play: "If there's a fire, we go to our meeting place." Ask questions: "Where would we go? Who would help us?" Let children practice simple responses.
+3. **Home Evacuation Drill** (8-10 minutes):
+   Walk through the evacuation plan together. "An evacuation route is a path we plan *before* an emergency so our brains don't have to work it out during one." Walk the route: from main rooms to the exit to the meeting place outside. Explain: "We have two routes in case one is blocked by fire or smoke." Practice: "When the alarm sounds, don't grab toys or look for pets. Leave immediately. Crawl if there's smoke. Close doors behind you — a closed door slows fire for up to 20 minutes." Time the drill. "Once outside, we go to the meeting place and stay there. No going back inside for anything. First responders are trained to go inside — we are not." For older children: "What if you can't get out? Close yourself in a room, seal cracks with cloth, signal from a window."
 
-4. **Free Expression and Role-Play** (remaining time):
-   Provide props and let children choose their role (firefighter, nurse, helper, person needing help). Allow children to act out scenarios at their own pace. Ask gentle questions: "What happens next?" and "How can we help?" Narrate their play positively: "You're being so brave and helping your friend." Keep play light and clearly "pretend."
+4. **Packing an Emergency Kit** (7-8 minutes):
+   "Emergency preparedness means having what you need before you need it." Lay out items. "Why water? Your body can survive weeks without food but only days without water. Why a flashlight? Emergencies often knock out power. Why a whistle? If you're trapped, yelling uses energy — a whistle signal carries farther and lasts longer. Why a bandage? First responders practice triage — they help the most serious injuries first. Minor cuts we can manage ourselves." Let children pack the bag. "This bag goes near the door so we can grab it on the way out."
 
-5. **Wrap-Up** (3-5 minutes):
-   Gather in a circle and ask: "Who did we learn about today?" and "What makes us safe?" Celebrate their learning with specific praise. Display safety posters in the classroom and keep props accessible for continued play. Make cleanup part of the learning: "We keep our space safe by putting things away."
+5. **911 Practice** (5 minutes):
+   "911 is a special number that goes to a dispatch center — trained operators who stay calm and know exactly how to get help to you." Practice what to say: name, address, what is happening. "Dispatchers keep you on the line and send the right first responders — firefighters, paramedics, or police — while you talk." Emphasize: "You call 911 when there is a real emergency. You tell them your address because dispatchers can figure out roughly where a call came from, but not exactly — your address gets help there faster."
+
+6. **Wrap-Up** (3-5 minutes):
+   Review the fire triangle together. Ask: "What are three things fire needs?" "Why do we crawl low?" "Where is our meeting place?" "What goes in an emergency kit?" Post the evacuation route map somewhere visible.
 
 ### Age Adaptations
 
 **2-3 years**:
-Focus on simple concepts: knowing where grown-ups are, holding hands, recognizing helpers. Use very basic props (toy phone, simple hats) and keep activities more structured. Keep duration to 15-20 minutes. Use lots of reassurance and positive language. Provide lots of modeling, demonstration, and physical guidance. Keep activities one-on-one or in very small groups with frequent comfort check-ins.
+Focus on two concrete skills: knowing your meeting place and knowing to crawl low when there's smoke. Practice the drill physically — make it a game. Use the fire triangle cards as a sorting game (color them). Keep 911 discussion simple: "If something scary happens, a grown-up calls this special number." Use the stuffed animals to practice the drill ("Bunny goes first, then you, then me").
 
 **3-4+ years**:
-Introduce more specific safety concepts (fire exits, emergency numbers, meeting places). Practice basic scenarios: "What if you're lost?" or "What if there's a fire?" Have children create more detailed safety posters with labels and drawings. Let children lead role-play scenarios and teach others what they learned. Allow children to create their own safety situations to act out. Extend duration to 25-30 minutes as interest allows and support more complex pretend play with multiple children.
+Children can explain the fire triangle and why water puts out fires. They can memorize their home address for 911 purposes. Let them lead the evacuation drill — they give the signal and direct the route. They can discuss different types of emergencies: fire, earthquake (drop/cover/hold), tornado (go to lowest floor interior room away from windows). Introduce the concept of triage: "First responders have to make quick decisions about who needs help first."
 
 ### Extension Ideas
 
-**Variation 1: Community Helper Gallery Walk**
-Create a simple gallery of pictures or drawings of different community helpers. Children walk around, point to pictures, and you narrate what each helper does. Children can draw or color their own helper pictures to add to the gallery.
+**Variation 1: Earthquake Drill**
+Teach "Drop, Cover, and Hold On" — get under a sturdy table, hold on so it doesn't move away, protect your head. Explain: "Earthquakes happen when tectonic plates — giant sections of Earth's crust — shift suddenly, sending shockwaves through the ground." Practice the drill at an unexpected moment.
 
-**Variation 2: Safety Scavenger Hunt**
-Hide simple safety items around your space (toy phone, first aid supplies, exit sign picture, helper picture). Children find items and you talk about what each one is used for. This adds movement and exploration.
+**Variation 2: Fire Triangle Experiment**
+Light a candle (adult only). Show that it goes out when covered with a jar (oxygen removed). Discuss: "We didn't cool it, we didn't remove the fuel — we blocked the oxygen." For older children, discuss why blowing on a campfire makes it bigger (adds oxygen) while blowing out a candle snuffs it (moves heat away).
 
-**Variation 3: Emergency Dress-Up**
-Set up a dress-up station with firefighter hats, safety vests, doctor masks, and other helper costumes. Children choose costumes and role-play helping others. This allows for extended imaginative play.
+**Variation 3: Emergency Map**
+Draw a simple floor plan of your home together. Mark two exits from each main room. Draw arrows showing evacuation routes. Mark the outdoor meeting place. Post it near the entrance. Update it when you move furniture.
 
-**Repeat play**: Different seasonal themes (fire safety in winter, water safety in summer), holiday safety topics, or inviting community helpers to visit. Focus on helpers that match children's current interests (animals with police dogs, vehicles with fire trucks).
+**Repeat play**: Practice the evacuation drill monthly — make it routine. Update the emergency kit seasonally (check batteries, replace expired food). Learn one new type of emergency each season (flood: move to high ground; tornado: lowest interior room; power outage: flashlights, no candles near curtains).
 
 ## 📝 Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Children become anxious or scared during safety discussions
+**Challenge**: Children become anxious or fearful during safety discussions
 
-**Solution**: Use calm, reassuring language. Focus on "helpers" and "what we do to stay safe" rather than dangers. Keep activities light and playful. If a child shows fear, pause and reassure: "Grown-ups know how to help. That's their job. Your job is to be a kid and have fun." Avoid detailed explanations of emergencies and keep pretend play clearly labeled as "pretend."
+**Solution**: Anxiety usually comes from vagueness. The more specific and concrete the plan, the safer children feel. Replace "something bad might happen" with "if the alarm goes off, we do exactly this." Children who have practiced a drill feel confident, not scared. Avoid dwelling on worst-case scenarios — focus on the plan and their capability.
 
-**Challenge**: Children don't want to participate or seem disinterested
+**Challenge**: Children don't understand why preparedness matters if nothing has happened yet
 
-**Solution**: Don't force participation; let them observe first. Sometimes children learn by watching others. Use their interests to connect: if they love vehicles, focus on emergency vehicles; if they like helping, focus on helpers. Start with what they naturally enjoy and weave in safety concepts.
+**Solution**: Connect to something they already understand. "We practice fire drills at school even though the school hasn't burned. We buckle seatbelts even on short trips. Preparedness means we're ready so we don't have to be scared." Fire departments practice every day — that's why they're so fast and skilled.
 
-**Challenge**: Role-play becomes too dramatic or silly
+**Challenge**: Children want to go back inside during the drill to get toys or check on pets
 
-**Solution**: Gently redirect while validating their play: "That's so funny! Now let's practice what a helper does." Keep some structure but allow playfulness. Understand that children process information through exaggeration and comedy, which is developmentally normal.
+**Solution**: This is the most important habit to build. Explain clearly: "We train ourselves not to go back in, because during a real fire your brain will want to, and we need your body to already know the rule." First responders are trained to go into fires — that is their expertise. Our expertise is getting out and staying out.
 
 ### Follow-Up Activities
 
-1. **Ongoing Reinforcement**: Keep safety posters visible in your space and refer to them during daily routines. Talk about helpers you see: "Look, there's a police officer! Remember how they help keep us safe?"
+1. **Monthly Drill**: Conduct a surprise evacuation drill. Time it. Celebrate improvement.
 
-2. **Home Extension**: Send home simple safety reminders or photos of the posters you created together. Ask families to discuss one safety helper they know or have seen in their community.
+2. **Address Practice**: Help children memorize your home address — it's the most critical piece of information for 911.
 
-3. **Building Confidence**: Celebrate your child's growing knowledge about safety helpers and their role in staying safe. Use their learning in everyday moments: "You know what to do if we need help. You're so smart!"
+3. **Community Connection**: If possible, visit a local fire station — firefighters often welcome visits and can show children equipment, explain their training, and reinforce that first responders practice constantly.
 
 ---
 
-**Category**: Social activity/Creative expression/Practical skills
+**Category**: Social activity/Practical skills/Safety
 
-*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. Always prioritize emotional safety and reassurance alongside learning.*
+*For children ages 2-4+ years. Adapt to your child's developmental stage and interests. The goal is confident capability, not anxiety — specific knowledge and practiced skills build both.*
