@@ -6,13 +6,19 @@ Children learn about meaningful ways families and communities celebrate special 
 
 ## Vocabulary
 
-**Tradition**: A special way of doing something that a family or community repeats every year. For example, your family might always bake cookies together before a holiday, or sing the same song every year.
+**Ritual**: A sequence of actions performed in a specific, repeated way because the repetition itself carries meaning. Lighting candles in a particular order, saying a blessing before eating, or singing the same song every year are all rituals. Anthropologists (scientists who study human cultures) believe rituals have existed since prehistoric times — early humans held funeral ceremonies at least 300,000 years ago. Rituals help communities mark important moments, remember shared history, and feel connected to each other and to past generations.
 
-**Celebrate**: To do something special and joyful to honor an important day or event. When you celebrate, you might decorate, sing, eat special foods, or spend time with people you love.
+**Calendar**: A system for organizing time into days, months, and years. Nearly every human culture developed a calendar, because organizing time lets people plan — when to plant crops, when to gather, when to celebrate. Many holidays are tied to astronomical events: the **solstice** (when days are longest or shortest), the **equinox** (when day and night are equal length), the **lunar cycle** (the Moon's 29.5-day orbit), or seasonal changes.
 
-**Ritual**: An action or series of actions done the same way each time because they are meaningful and important. A family ritual might be decorating the house together or lighting candles in a special order.
+**Tradition**: A practice passed down through generations within a family or community. Traditions connect living people to those who came before them — children doing what grandparents and great-grandparents did. This is how culture is transmitted across time without being written down.
 
-**Diversity**: The fact that people are different from each other and come from different families and cultures. Celebrating diversity means respecting and learning about how other people do things differently.
+**Cultural diversity in holidays**: Different civilizations developed their own calendars and celebrations based on their geography, religion, and history. Some examples:
+- **Diwali** (Hindu/Jain/Sikh): Festival of Lights, celebrating the victory of light over darkness and knowledge over ignorance; lamps are lit, fireworks set off, sweets shared
+- **Hanukkah** (Jewish): Eight-night celebration of religious freedom and a miracle of oil lasting eight nights; a menorah (candelabra) is lit with one candle added each night
+- **Eid al-Fitr** (Islamic): Marks the end of Ramadan, a month of fasting; celebrated with prayer, feasting, and giving gifts to children
+- **Lunar New Year** (Chinese, Korean, Vietnamese, and others): Based on the lunar calendar; celebrated with family gatherings, red envelopes with money symbolizing good luck, and dragon parades
+- **Día de los Muertos** (Mexican): Honors deceased relatives with altars, marigold flowers, photos, and favorite foods of those who died — death is treated not with sorrow but with celebration and memory
+- **Midsommar** (Scandinavian): Celebrates the summer solstice with dancing around a maypole, flowers, and outdoor feasting
 
 ## 🎵 Learning Song
 
@@ -101,7 +107,7 @@ Children create decorations and participate in holiday-themed activities while e
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Show a holiday decoration or picture and ask: "Have you seen something like this before?" Play a short holiday song or sing together. Share your excitement: "Today we're making special decorations for [holiday name]!" Emphasize that there are no mistakes and whatever they create is special.
+   Show a holiday decoration or picture and ask: "Have you seen something like this before? Do you know what celebration this is for?" Then share: "People all over the world celebrate special days — and they've been doing this for thousands and thousands of years! Even very ancient people had celebrations. Many celebrations happen at the same time each year because they follow the Sun, the Moon, or the seasons. For example, some holidays happen when days get shorter in winter; others celebrate the start of spring. Today we're going to make decorations for [holiday name]. Do you know why people celebrate [holiday name]?" Share a brief, real explanation of the holiday's origin or meaning.
 
 2. **Exploration** (5-8 minutes):
    Let the child examine and explore the craft materials. They can touch the soft pompoms, look at different colored papers, feel the textures of ribbons, and handle decorative items. If doing a food activity, have them smell the spices and taste safe ingredients like crackers or fruit. Comment on what they're experiencing: "You're choosing the red paper! That would look beautiful."
@@ -118,7 +124,7 @@ Children create decorations and participate in holiday-themed activities while e
 Keep introductions very short and move quickly to materials. Use pre-cut pieces to avoid frustration. Offer only 2-3 material choices so they aren't overwhelmed. Provide dot glue stickers or tape instead of liquid glue. Use large pieces of paper and big materials, not small details. Heavy adult support may be needed with hand-over-hand gluing. Shorter activities (10-15 minutes) work better. Focus on sensory experiences like touching materials, eating safe snacks, or looking at colorful items.
 
 **3-4+ years**:
-Introduce more complex crafts like folding paper into shapes or creating patterns. Encourage storytelling: "Tell me a story about your decoration." Offer choices in every step: "Which paper? Which colors? Where should this go?" Support increasing independence with scissors and gluing. Try food activities with more preparation steps like spreading and arranging. Introduce cultural elements: "In this celebration, people decorate with..." Activities can last 25-30 minutes as attention span grows. Allow children to return to activities across multiple sessions.
+Introduce more complex crafts like folding paper into shapes or creating patterns. Go deeper on cultural origins: "Diwali is celebrated because of an ancient story about light defeating darkness — that's why people light so many lamps!" or "Día de los Muertos uses marigold flowers because people believe the smell helps guide the spirits of their loved ones home." Compare two different holidays that share similar themes (light festivals in winter appear in many cultures independently). Encourage storytelling: "Tell me a story about your decoration." Activities can last 25-30 minutes. Allow children to return across multiple sessions.
 
 ### Extension Ideas
 

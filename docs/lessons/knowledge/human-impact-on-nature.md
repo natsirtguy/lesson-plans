@@ -6,13 +6,18 @@ This lesson helps young children understand how human actions affect the natural
 
 ## Vocabulary
 
-**Environment**: The natural world around us, including plants, animals, water, air, and soil—everything living and non-living that surrounds us. When we go to the park, we are exploring the environment.
+**Ecosystem**: A community of living things (plants, animals, fungi, bacteria) that all interact with each other and with non-living things (water, air, soil, sunlight) in a particular area. A forest, a pond, and a coral reef are all ecosystems. Everything in an ecosystem depends on everything else — if one species disappears, it affects many others. For example, if bees disappear from an ecosystem, the flowers they pollinate stop producing fruit, which means animals that eat fruit go hungry, which affects the animals that eat those animals.
 
-**Litter**: Trash or garbage left in natural places where it doesn't belong. When someone drops a candy wrapper on the ground, it becomes litter that harms the environment.
+**Biodiversity**: The variety of different species living in an area. Biodiversity matters because the more diverse an ecosystem is, the more resilient it is — if one species is damaged by disease or climate, others can fill its role. Rainforests have extremely high biodiversity (millions of species); monoculture farms (one crop as far as the eye can see) have almost none.
 
-**Protect**: To keep something safe from harm or danger. When we use a trash can instead of dropping things, we protect our forests and oceans.
+**Habitat destruction**: Removing or damaging the places where animals live — cutting down forests, draining wetlands, paving over meadows. Habitat destruction is the primary reason species go extinct. When a forest is cleared, every animal, insect, fungus, and plant that depended on it loses its home, food source, and neighbors all at once.
 
-**Conserve**: To save or use something carefully so there is enough for the future. When we turn off the water while brushing our teeth, we conserve water for plants and animals.
+**Pollution**: Harmful substances introduced into the environment. Types include:
+- **Plastic pollution**: Plastic takes 400–1,000 years to fully decompose. As it breaks down, it creates **microplastics** — tiny particles that are now found in ocean water, soil, fish, and even human blood
+- **Air pollution**: Burning fossil fuels releases carbon dioxide (CO₂) and other gases that trap heat in Earth's atmosphere (the greenhouse effect), causing global temperatures to rise
+- **Chemical pollution**: Pesticides, fertilizers, and industrial chemicals can wash into rivers and oceans, killing aquatic life
+
+**Food chain / food web**: The sequence of who eats whom in an ecosystem. Energy flows from the Sun → plants → plant-eaters (herbivores) → meat-eaters (carnivores) → decomposers (fungi and bacteria). Human pollution and habitat destruction can break links in food webs, causing effects that ripple up and down the chain.
 
 ## Learning Song
 
@@ -99,7 +104,7 @@ Children will create a "nature care station" where they explore different ways h
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by showing the plant: "Look at this living plant. It needs clean water, good soil, and sunshine to grow. Today, we're learning how to help plants and animals stay healthy. What do you think plants need?" Let children touch the leaves gently and smell the soil. Point out how fresh and alive the plant looks.
+   Begin by showing the plant: "Look at this living plant. It needs clean water, good soil, and sunshine to grow. Every living thing in nature is connected — plants, insects, birds, fish — in something called an **ecosystem**. When humans dump pollution or cut down forests, it can break those connections. Did you know that a plastic bottle takes 400 years to disappear? That's way, way longer than any of us will be alive. And as it breaks down, it turns into tiny invisible pieces called **microplastics** that fish accidentally eat. Today we're going to learn about how humans impact nature — and what we can do about it."
 
 2. **Exploration** (8-10 min):
    Invite the child to explore different stations:
@@ -109,12 +114,13 @@ Children will create a "nature care station" where they explore different ways h
    - **Observation station**: Use a magnifying glass to examine a leaf, stick, or stone. Talk about the details: "Look at all the tiny lines in this leaf!"
 
 3. **Discovery** (3-5 min):
-   Ask thoughtful questions:
+   Ask thoughtful questions with real answers:
    - "What did the plant look like before we watered it? What about now?"
-   - "Where should trash go so it doesn't hurt animals?"
+   - "If a fish eats a piece of plastic, what might happen to the bird that eats the fish?" (Introducing food chain cause-and-effect)
    - "What will happen to our seed when we give it water and light?"
-   - "How did it feel to help nature? What felt good?"
-   Point out: "You just protected nature! You did something helpful for our environment."
+   - "Trees make oxygen for us to breathe — what happens to animals that live in a forest when people cut the trees down?" (Habitat destruction)
+   - "Where should trash go so microplastics don't end up in the ocean?"
+   Point out: "Every animal, plant, and insect in an ecosystem depends on the others. When we protect nature, we protect the whole connected web — including us, because we're part of ecosystems too."
 
 4. **Wrap-up** (2-3 min):
    Review what you did together. Let the child choose one action they want to remember: watering, picking up trash, or planting. Say: "Every time you help nature, you're being an environmental protector. You're taking care of our world." Place the planted seed in a sunny spot where the child can observe growth over the coming weeks.
@@ -125,7 +131,7 @@ Children will create a "nature care station" where they explore different ways h
 Keep activities very simple and hands-on. Focus on one action at a time (e.g., only watering, or only cleanup). Use very soft, large items for exploration. Offer lots of repetition and short, simple language: "We water the plant. Water helps it grow." Let them observe more than explain. Provide comfort items like soft leaves or gentle water play. Keep expectations low—the goal is sensory experience and bonding with the activity.
 
 **3-4+ years**:
-Introduce more complex sorting (trash, recycling, composting). Ask them to predict what will happen ("What do you think will happen to our seed?"). Encourage longer conversations about cause and effect: "If we don't pick up trash, what happens to the animals?" Invite them to draw pictures of the plant and seed, or make a chart to track growth. Challenge them to think of other ways to help nature at home (turning off lights, closing the door so heat doesn't escape, not picking wildflowers). Suggest they teach a family member about what they learned.
+Introduce more complex sorting (trash, recycling, composting) and explain WHY: composting returns nutrients to soil (decomposers break organic matter into minerals plants need); recycling uses less energy than making new materials; landfill waste can leach chemicals into groundwater. Draw a simple food chain together: Sun → grass → rabbit → fox → decomposers → back to soil. Ask: "What happens if we remove the rabbit?" Introduce **biodiversity**: "A forest with 100 different kinds of plants and animals is stronger than one with just 5 kinds — if one species gets sick, others can take its place." Challenge them to think about habitat: "If all the trees in a forest are cut down, where does the owl go? Where does the owl's food go?"
 
 ### Extension Ideas
 

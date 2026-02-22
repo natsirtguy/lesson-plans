@@ -6,13 +6,19 @@ Children explore caring for others and helping in medical situations by pretendi
 
 ## Vocabulary
 
-**Stethoscope**: A listening tool that doctors use to hear the sounds inside a person's body, like their heartbeat. When a doctor gently places it on your chest, they can tell if your heart is healthy and strong.
+**Stethoscope**: A medical instrument that amplifies sounds inside the body. It has a **diaphragm** (a thin disk that vibrates when pressed against skin) connected by air-filled tubes to the ears. When the heart beats, it makes two sounds — doctors call them **lub-dub**. "Lub" is the sound of the mitral and tricuspid valves closing at the start of a heartbeat; "dub" is the aortic and pulmonary valves closing at the end. Doctors listen for abnormal sounds (called **murmurs**) that might indicate a problem with the valves.
 
-**Diagnose**: To figure out what is wrong with someone who is sick or hurt by listening, looking, and asking questions. A doctor diagnoses a patient to know how to help them.
+**Vital signs**: The four basic measurements that tell doctors whether a body is functioning normally:
+1. **Temperature**: Normal body temperature is about 37°C (98.6°F). A **fever** (above 38°C/100.4°F) means the immune system is fighting an infection — white blood cells release chemicals called **pyrogens** that tell the brain's hypothalamus to raise body temperature, because many bacteria and viruses can't survive as well in the heat
+2. **Heart rate (pulse)**: How many times the heart beats per minute. In toddlers, 80–130 bpm is normal. Each pulse is a wave of blood pushed through the arteries by a heartbeat — you can feel it by pressing on the wrist or neck
+3. **Breathing rate (respirations)**: How many breaths per minute. Toddlers breathe 20–30 times per minute normally; faster breathing can signal illness or distress
+4. **Blood pressure**: The force of blood pushing against artery walls as the heart pumps. Measured in two numbers: systolic (when the heart squeezes) over diastolic (when it relaxes)
 
-**Compassion**: Caring deeply about someone's feelings and wanting to help them feel better when they are sad, scared, or hurt. When you have compassion, you show gentleness and kindness.
+**Diagnose**: To determine what is causing a patient's symptoms. Doctors do this by collecting **symptoms** (what the patient reports feeling) and **signs** (what the doctor observes or measures). Then they consider all the possible explanations — this process is called **differential diagnosis** — and use tests to narrow it down.
 
-**Vital signs**: Important measurements that show how healthy a body is, like checking temperature with a thermometer, listening to heartbeat with a stethoscope, and watching how fast someone breathes.
+**Immune system**: The body's defense network against germs (bacteria and viruses). White blood cells patrol the blood, identify invaders, and destroy them. Some white blood cells (B cells) make **antibodies** — specialized proteins that lock onto specific germs and mark them for destruction. This is why vaccines work: they train the immune system to recognize a germ before actual exposure.
+
+**Triage**: In emergency medicine, sorting patients by the urgency of their need — who needs help first. From French, meaning "to sort." Emergency rooms use triage so that someone having a heart attack is seen before someone with a minor cut.
 
 ## 🎵 Learning Song
 
@@ -98,10 +104,10 @@ In this dramatic role-play activity, children become doctors, nurses, or first r
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Engage children with questions: "Have you been to the doctor? What happened?" Show medical tools one at a time and name them: "This stethoscope listens to heartbeats." Introduce the scenario: "Today we'll be doctors helping our stuffed animals feel better." Demonstrate gently using one tool on a toy.
+   Engage children with questions: "Have you been to the doctor? What happened?" Show medical tools one at a time and explain what they actually do: "This is a **stethoscope** — it has a special disk called a diaphragm that vibrates when pressed against skin, and the vibrations travel up these tubes to the ears so we can hear sounds inside the body. Your heart makes a sound every time it beats — it goes 'lub-dub!' That's the sound of the heart valves closing." Press the stethoscope gently to the child's chest: "Can you count the beats? Each one means your heart is pumping blood all through your body!" Introduce the scenario: "Today we'll be doctors checking our stuffed animals' vital signs."
 
 2. **Exploration** (5-10 min):
-   Let each child handle and explore the medical tools. Child practices using stethoscope on their own chest, then on a stuffed animal. Adult narrates: "You're listening to Teddy's heartbeat. What do you hear?" Allow sensory exploration with various tools. Build comfort and familiarity with props.
+   Let each child handle and explore the medical tools. Child practices using stethoscope on their own chest, then on a stuffed animal. Adult narrates: "You're listening to your heartbeat! That lub-dub sound is your heart valves closing. The heart is a muscle that squeezes and relaxes about 100 times a minute in a toddler." Try the thermometer: "When someone has a fever, it means their immune system is fighting germs — white blood cells are working hard!" Practice counting breaths: "Let's watch Teddy's chest go up and down. Breathing brings oxygen into the lungs..." Allow sensory exploration with various tools.
 
 3. **Guided Role-Play** (5-10 min):
    Introduce a simple scenario: "Oh no! Bunny has a boo-boo on his paw. Can you help?" Model the sequence: greet patient, ask what's wrong, examine, treat with bandage, comfort. Use simple language and demonstrate gently. Invite child to try the doctor role with you supporting: "Now you can be the doctor. What does the patient need?"
@@ -118,7 +124,7 @@ In this dramatic role-play activity, children become doctors, nurses, or first r
 Keep episodes short (10-15 minutes) with more adult modeling. Focus on one simple scenario like "Give bunny a bandage." Use only 2-3 medical items to avoid overwhelm. Adult leads play; child mirrors actions. Accept basic engagement (holding stethoscope, wrapping bandage). Narrate constantly: "You're listening to Teddy's heart." Expect sensory exploration and repetition—this is developmentally normal.
 
 **3-4+ years**:
-Create more complex scenarios with multiple problems ("hurt knee AND hurt arm"). Encourage communication: "Ask your patient what hurts." Introduce multiple children—one doctor, one nurse, one patient. Add record-keeping on clipboard. Encourage problem-solving: "Patient still sad—what else could help?" Expand beyond medical care to emotions (patient is scared, needs reassurance). Create medical tools from play dough. Introduce veterinary hospital, dentist office, or health checkup (prevention-focused) scenarios.
+Create more complex scenarios with multiple problems ("hurt knee AND fever"). Encourage proper diagnostic thinking: "Ask your patient what hurts, how long it's hurt, and if anything else feels wrong — that's how doctors gather symptoms!" Introduce **triage**: "Two patients need help — which one is worse? The one who can't breathe needs help first; the one with a small cut can wait. That's called triage." Add record-keeping on clipboard — "vital signs chart" with temperature, pulse, and breathing recorded. Discuss what a fever really means: "Fever means white blood cells are fighting germs. A little fever can actually be the immune system doing its job." Expand to prevention: "Vaccines teach the immune system to recognize germs before getting sick."
 
 ### Extension Ideas
 
