@@ -1,18 +1,20 @@
-# 📚 KNOWLEDGE, SKILLS & CULTURE: Leadership and Team Activities
+# KNOWLEDGE, SKILLS & CULTURE: Leadership and Team Activities
 
-## 🎯 Activity Summary
+## Activity Summary
 
-Leadership and team activities help young children develop social confidence, cooperative skills, and the ability to work together toward shared goals. Through simple group projects, cooperative games, and collaborative art-making, children experience the joy of teamwork and learn how different people can contribute their unique strengths to something bigger than themselves.
+Children explore what leadership really is — not bossing people around, but understanding how groups work, why they need coordination, and what makes some leaders effective while others make their groups worse. They experience leading and following firsthand, discover that different situations call for different kinds of leadership, and begin to understand the real difference between authority (power given by a role) and leadership (influence earned through trust and competence).
 
 ## Vocabulary
 
-**Cooperation**: Working together with others toward a shared goal, where everyone helps and supports each other. When you and a friend build a tower together by taking turns adding blocks, you are cooperating.
+**Authority**: Power that comes from a role or position — a teacher has authority over a classroom, a parent has authority at home. Authority is given, not earned. You might say, "The lifeguard at the pool has authority — we listen to their safety rules because it's their job."
 
-**Communicate**: Sharing thoughts, feelings, and ideas with others through words, gestures, and actions. When you tell your teammate what color paint to use, or listen to their idea for building higher, you are communicating.
+**Leadership**: Influence that comes from trust, competence, and listening — people follow a leader because the leader helps them succeed, not because the leader has power over them. Real leadership is earned. You might say, "Your friend who figured out how to make the bridge not fall down was leading — they had a good idea and shared it."
 
-**Contribute**: To give or add your own part, effort, or special talent to something. When you paint on the team's big paper or add your blocks to the building, you contribute your own special piece.
+**Role**: A specific job or responsibility within a group. Different roles let different people contribute their strongest skills. You might say, "In our building project, one person is the architect (decides the plan), one person is the builder (stacks the blocks), one person is the engineer (checks if it's stable)."
 
-**Leadership**: Guiding others and helping a group work well together by listening, encouraging teammates, and working toward shared goals. When you help make sure everyone gets a turn, you are showing leadership.
+**Consensus**: When everyone in a group discusses and agrees on a decision together — not voting where some people lose, but talking until everyone can accept the plan. You might say, "Let's reach consensus — what can everyone agree to?"
+
+**Division of labor**: Splitting up work so different people do different tasks, which gets things done faster and lets each person use their strengths. You might say, "In an ant colony, some ants gather food, some build tunnels, some care for eggs — that's division of labor."
 
 ## 🎵 Learning Song
 
@@ -107,20 +109,34 @@ Children work together on collaborative projects, cooperative games, or group ar
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Gather children in a circle. Say: "Today we're going to work as a TEAM! That means we all work together, help each other, and use our different superpowers to make something amazing." Show a simple example of teamwork (two children holding opposite ends of a scarf, each person's role is important). Explain: "A team is like a puzzle—each piece is different, but together they make something beautiful." Set expectations: everyone gets a turn, we listen to teammates, we help each other, and we celebrate together.
+1. **Introduction — What Is Leadership?** (3-5 min):
+   Ask: "What do you think a leader does?" Let them answer. Then say: "Some people think a leader tells everyone what to do. But watch what happens when someone just bosses people around..." (Act out a bossy leader: "You do this! Not like that! No, wrong!") "Is that fun? Do people want to follow that leader?"
 
-2. **Exploration** (10-15 min):
-   Choose one activity type:
+   Now demonstrate real leadership: listen to an idea someone shares, add to it rather than override it, make sure everyone has a job. Say: "A real leader helps the group succeed. That means listening, sharing ideas, making sure everyone contributes. And real leadership can come from anyone — you don't have to be the loudest or the biggest."
 
-   **For Art Activity**: Place large paper on floor or table. Provide multiple markers/crayons. Say: "Everyone paints at the same time. Your colors will mix together and make something beautiful." Circulate and comment on what you see: "I see Maya using red and Liam using blue! Look how they're making purple together!" Invite children to paint where others painted to show layering.
+   Introduce the concept of roles: "Every group works better when people have specific jobs. Today we'll give everyone a role, and we'll rotate — everyone gets to lead."
 
-   **For Building Activity**: Provide blocks or boxes. Say: "Let's build together. You can add your blocks to make our tower bigger." Model placing a block, then invite each child to add theirs. Build upward or sideways, celebrating each addition: "Oh! You made our building even bigger!"
+2. **Exploration — Structured Group Challenge** (10-15 min):
+   Use building blocks or similar materials for a group challenge: build a structure that is both tall and stable. Assign specific roles:
+   - **Architect**: Decides what to build and where each piece goes (this is leadership by expertise)
+   - **Builder**: Places the blocks
+   - **Stability checker**: Tests the structure after each block is added ("does it wobble?")
+   - **Materials manager**: Hands pieces to the builder
 
-   **For Cooperative Game**: Choose one simple game—parachute play (hold edge and move together), rolling scarves through the air, or passing a ball in a circle while saying encouraging words. Model the action first, then invite children to participate.
+   Begin building. After a few minutes, call a "team meeting" — pause and ask: "Is our plan working? Does anyone have a better idea?" Model how a good leader actually responds to suggestions: takes them seriously, tries them, gives credit. "That's a great idea — let's try it your way."
 
-3. **Discovery** (3-5 min):
-   Pause and admire what the team created together. Take photos or talk about the creation. Ask: "What did everyone help make?" or "How did we work as a team?" For older children: "What was your favorite part of being on our team?" Use descriptive language: "You worked together!" "You helped your friend!" Point out specific moments of good teamwork.
+   Mid-activity, deliberately create a problem: the tower wobbles. Say: "Our team has a challenge. Who has an idea?" The stability checker's job is to diagnose it; the architect's job is to decide what to change. Show that division of labor means different people have authority in their domain.
+
+   Halfway through, rotate roles. The builder becomes the architect; the architect becomes the materials manager. Ask: "Is it different being the one who decides vs. the one who builds?"
+
+3. **Discovery — Debrief Leadership** (3-5 min):
+   Step back from the completed structure. Ask:
+   - "What was different about being the architect vs. being the builder?"
+   - "When the tower wobbled, whose idea fixed it? Did the architect listen?"
+   - "What would have happened if the architect said 'No, I'm in charge, we do it my way' and ignored the stability checker's warning?"
+   - Connect to the real world: "Firefighters have a captain who leads — but the captain listens to the person closest to the fire. Doctors lead a team — but they listen to the nurses who are with the patient all day. Leaders who don't listen make bad decisions."
+
+   Point out moments from the activity where real leadership happened — often not from whoever had the title but from whoever had the useful idea.
 
 4. **Wrap-up** (2-3 min):
    Gather in circle with the creation visible. Explain what happens next: "We're going to leave this on the wall so everyone can see our teamwork!" or "Let's take a picture so you can remember what our team made." Ask: "How did it feel to work as a team?" Make cleanup a team activity: "Our team cleans up together!" Assign simple roles (markers in buckets, wipe tables, put blocks away). Sing while cleaning and praise cooperative effort.

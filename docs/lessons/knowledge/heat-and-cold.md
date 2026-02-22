@@ -2,177 +2,171 @@
 
 ## Activity Summary
 
-Children will explore the concepts of heat and cold through sensory experiences with various temperature objects and environments. They'll learn how to safely identify and respond to different temperatures while developing their vocabulary for describing thermal sensations.
+Children explore heat as a form of energy — the energy of moving molecules — and discover that heat always flows from hot to cold, never the reverse. Through hands-on experiments, they observe conduction (heat transfer through direct touch), discover why metal feels colder than wood even at the same temperature, and watch heat energy cause phase changes in water. This is introductory thermodynamics grounded in real physical phenomena.
 
 ## Vocabulary
 
-**Temperature**: The measure of how hot or cold something is. When you touch a warm cup of cocoa, that warmth is the temperature—higher temperature means hotter, lower temperature means colder.
+**Thermal energy**: The total energy of all the moving molecules in an object. Hotter objects have faster-moving molecules with more thermal energy. You might say, "When we heat water, we're giving the water molecules more energy so they move faster."
 
-**Thermal**: Relating to heat or warmth. Your thermal socks keep your feet warm because they trap heat close to your body on a cold winter day.
+**Temperature**: A measure of the average speed of molecules in a substance — hotter means faster-moving molecules. You might say, "A thermometer measures temperature — how fast the molecules are moving on average."
 
-**Insulate**: To protect from heat loss by surrounding something with a material that stops warmth from escaping. A blanket insulates you at night by keeping your body heat from disappearing into the air.
+**Conduction**: Heat transfer through direct contact between objects. Heat flows from the hotter object to the cooler one until they reach the same temperature. You might say, "When you touch the metal spoon, heat conducts from your warm hand into the cold metal — that's why it feels cold."
 
-**Sensation**: A feeling created by one of your senses like touch, sight, or smell. When you splash in a cool pool, the sensation of water on your skin tells your brain it feels refreshing.
+**Thermal conductivity**: How easily a material transfers heat. Metals conduct heat very well — they pull heat away from your hand quickly. Wood and fabric conduct heat poorly — they trap heat. You might say, "Metal feels cold, but wood feels warm — they're the same temperature! Metal just pulls your heat away faster."
+
+**Phase change**: When a substance changes state — from solid to liquid (melting) or liquid to gas (evaporation) — by gaining or losing thermal energy. You might say, "Ice melting is a phase change — heat energy from the room is absorbed by the ice and breaks apart the ice crystal structure."
 
 ## Learning Song
 
-**Tune**: Row, Row, Row Your Boat
+**Tune**: Twinkle Twinkle Little Star
 
-**Tempo**: Slow and gentle
+**Tempo**: Steady and curious
 
-**Lyrics** (2 verses, with actions):
+**Lyrics** (2 verses):
 
 *Verse 1*
-Hot, hot, hot feels warm,
-Cold, cold feels so cool,
-Temperature tells what we sense,
-Thermal sensations rule.
+Heat is energy, molecules move
+Faster when hot, that's the groove
+Temperature measures how fast they go
+Hot means fast and cold means slow
+Heat flows from hot to cold each day
+Never the other way
 
 *Verse 2*
-Sun is hot up in the sky,
-Ice cream cold so nice,
-Blankets warm us when we sleep,
-Insulation, oh so nice!
+Metal conducts heat away so fast
+Wood and fabric make warm things last
+When ice melts, that's energy too
+Thermal energy through and through
+Phase changes happen when heat flows in
+Watch the water — let's begin!
 
 **Actions/Gestures**:
-1. Hug yourself and shiver when singing about cold, showing a brrrr motion with shoulders
-2. Wave your arms wide and stretch when singing about hot, as if spreading warmth outward
-3. Touch different surfaces (warm blanket, cold spoon, cool water) as you point to them
+1. Wiggle fingers fast for "faster when hot," wiggle slowly for "cold means slow"
+2. Move hands from left to right for "heat flows from hot to cold"
+3. Hold hands like an ice cube, then slowly open them as "it melts"
 
 ## Intro Video Recommendation
 
-**Try to find an actual video**: Search YouTube for age-appropriate educational content on temperature, heat, and cold for toddlers.
-
-**Recommended video**: Search for: "Heat and Cold for Preschoolers" or "Temperature Learning for Kids"
+**Recommended video**: Search for "SciShow Kids heat energy" or "States of matter for kids" or "Conduction convection radiation for kids"
 
 **What to look for**:
-- 2-5 minutes long
-- Age-appropriate narration (slow, clear pronunciation)
-- Visually engaging with bright colors and movement
-- Safe content with no scary imagery (avoid extreme heat/cold examples)
-- Shows relatable examples (warm sun, cold ice cream, cozy blankets, etc.)
-- Includes simple demonstrations or animations
+- Explains that heat is molecular movement/energy
+- Shows that heat flows from hot to cold
+- Mentions conduction or phase changes
+- 3-6 minutes, clear visuals
 
-**Alternative searches** (if URL not found):
-- "Temperature song for toddlers"
-- "Hot and cold activities for preschool"
-- "Sensory learning warm cold"
+**Alternative searches**:
+- "Why does metal feel cold but wood feels warm same temperature" (conductivity demonstration)
+- "Ice melting energy experiment kids"
+- "Thermometer how it works kids"
 
 ## Activity
 
 ### Activity Overview
 
-Children will safely explore different items at various temperatures through a sensory discovery station, learning to identify and describe thermal sensations while building vocabulary around heat and cold.
+Children conduct three targeted experiments: a conductivity comparison (why metal feels colder than wood), a heat-flow demonstration (warm hand touching an ice cube), and a phase change observation (watching ice melt and recording where the water comes from). Each experiment targets a specific physical principle.
 
-**Activity Type**: Sensory exploration and hands-on discovery
+**Activity Type**: Structured physics experiments
 
-**Duration**: 15-20 minutes
+**Duration**: 20-25 minutes
 
-**Setup time**: 5-10 minutes
+**Setup time**: 5 minutes
 
 ### Materials Needed
 
 **Essential**:
-- Warm (not hot) objects: warm washcloth, warm water in a bowl, warm blanket or fleece
-- Cold objects: ice cubes, cold water in a bowl, refrigerated spoon
-- Room temperature objects: wooden block, plastic toy, paper
-- Optional: thermometer (non-digital or age-safe variety)
-- Towels or cloth for drying hands
+- Metal spoon and wooden spoon (same room temperature)
+- Ice cubes
+- Small clear bowl or container
+- Thermometer (any basic type)
+- Water
 
 **Optional**:
-- Thermal touch cards or picture cards showing hot/cold things
-- Heated (safe) object like a warm beanbag heated gently in the microwave
-- Textured items in different temperatures (cold vinyl vs. warm fabric)
+- Dark-colored tray (makes melt water visible)
+- Timer or stopwatch
+- Cloth, foam piece, and metal piece for extended conductivity comparison
 
-**Cost**: Free (uses household items)
+**Cost**: Free (household items)
 
 ### Step-by-Step Instructions
 
 **Preparation**:
-1. Gather warm items (use water no hotter than 90-95°F / 32-35°C—comfortably warm to the touch)
-2. Prepare cold items (ice cubes, refrigerated water, chilled metal items)
-3. Arrange items in separate bowls or on a tray, clearly spaced for safety
-4. Test all temperatures with your own hand before introducing to child
-5. Place towels nearby for drying hands
+1. Leave a metal spoon and wooden spoon sitting on the counter for 20+ minutes so they reach the same room temperature
+2. Prepare ice cubes in a bowl
+3. Set up the thermometer somewhere visible
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 minutes):
-   - Show the child the sensation exploration station with enthusiasm
-   - Say: "We're going to feel different temperatures today! Some things will feel warm and cozy, and some things will feel cold and refreshing."
-   - Hold up a warm blanket and say: "This feels warm. Can you feel the warmth?" Let them touch it briefly.
-   - Introduce the vocabulary: "Warm means hot, and cold means really cool. Temperature tells us if something is hot or cold."
+1. **Introduction — What IS heat?** (3-4 min):
+   Say: "Everything is made of tiny particles called molecules. Right now, even this table — its molecules are vibrating and moving. When we make them move faster, that's what heat is. A hot object has faster-moving molecules."
 
-2. **Exploration** (8-10 minutes):
-   - Let the child touch each warm item, one at a time, saying "warm!" or "hot!"
-   - Ask: "How does this make your hand feel?"
-   - Move to cold items, using the same process with "cold!" or "cool!"
-   - Encourage them to use words like: "warm," "cold," "cozy," "chilly," "nice," "brrr," "warm and toasty"
-   - Let them switch between warm and cold items to feel the contrast
-   - For older children, introduce the thermometer and explain it measures temperature
+   Use a hands-on demonstration: rub your palms together quickly. "Feel that warmth? Your hands aren't producing new energy — the rubbing is making the molecules in your skin vibrate faster, which we feel as heat."
 
-3. **Discovery** (3-5 minutes):
-   - Ask guiding questions:
-     - "Which feels warmer—the blanket or the ice?"
-     - "Does the warm water feel nice?"
-     - "What happens when you hold the ice for a few seconds?"
-     - "When do you feel warm?" (in blankets, by the sun, wearing a coat)
-     - "When do you feel cold?" (in winter, without a jacket, after swimming)
-   - Point out observations: "When you hold ice, your hand gets cold fast. When you hold the warm blanket, you feel cozy."
+   Ask: "If I put a warm hand on a cold surface, which direction does heat flow?" Let them guess. Then explain: "Heat always flows from the hotter thing to the cooler thing — never the other way. Always from hot to cold, until both reach the same temperature."
 
-4. **Wrap-up** (2-3 minutes):
-   - Sing a verse of the learning song together
-   - Ask: "What was your favorite warm thing? What was your favorite cold thing?"
-   - Dry their hands and transition to the next activity
-   - Say: "You did wonderful exploring hot and cold today! Temperature helps us stay safe and comfortable."
+2. **Experiment 1 — Conductivity Puzzle** (5-7 min):
+   Place the metal spoon and wooden spoon side by side. Say: "These have been sitting here for a long time. Are they the same temperature?" (Yes — both room temperature.) "But watch what happens when you touch them."
+
+   Have the child touch both spoons. Ask: "Which one feels colder?" (The metal.) "But they're the same temperature! Why?"
+
+   Explain: "Metal is a great conductor — it pulls heat away from your hand very quickly. The metal spoon is conducting heat out of your hand fast, so your hand loses heat fast and it feels cold. Wood is a poor conductor — it doesn't pull heat away quickly, so your hand stays warm."
+
+   Say: "This is why frying pans have metal bottoms but wooden or plastic handles — metal conducts heat from the stove to your food, but you don't want it to conduct heat to your hand."
+
+3. **Experiment 2 — Heat Flows One Way** (5-7 min):
+   Hold an ice cube in your warm hand. Ask: "Is heat flowing from my warm hand into the cold ice, or from the cold ice into my warm hand?"
+
+   After a moment: "Heat flows from my warm hand into the ice. My hand loses heat — that's why it feels cold. The ice gains heat — that's why it melts. Cold things don't make your hand cold. Your hand makes the ice warm."
+
+   Let the child hold an ice cube briefly and feel their hand losing heat to it. Say: "The cold isn't traveling into your hand — your warmth is traveling into the ice."
+
+4. **Experiment 3 — Phase Change** (5-7 min):
+   Place an ice cube in the clear bowl. Ask: "What will happen to the ice?" (It will melt.) "Where will that water come from?"
+
+   Explain: "The ice is made of water molecules locked in a crystal structure. When the air (which is warmer than the ice) touches the ice, it conducts heat into it. That heat energy breaks apart the crystal structure and the molecules start flowing freely — liquid water. The same water molecules, but now free to move."
+
+   Observe: "Where does the water in the bowl come from? The air around us! The ice is pulling thermal energy from the room, and that energy breaks the ice crystals apart into liquid water."
+
+   Read the thermometer: "The ice stays 0°C (32°F) while it's melting — all the incoming heat energy is being used to break the crystal, not to raise temperature. That's why a pile of melting ice stays cold — it's absorbing heat but not warming up."
+
+5. **Wrap-Up** (2-3 min):
+   Review the three principles: "Heat is molecular energy. Heat flows from hot to cold. Metals conduct heat fast, wood conducts it slow. When enough heat flows into a solid, it melts — a phase change." These are real laws of thermodynamics.
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use only 2-3 items (warm blanket, warm water, cold water) to avoid overwhelming
-- Keep temperature differences mild (nothing extremely hot or ice-cold)
-- Use simple language: "warm" and "cold" only
-- Make it very brief—2-3 minute exploration
-- Focus on the feeling rather than discussion
-- Let them touch items for only 3-5 seconds at a time
+Focus on Experiment 2 (ice in the hand) with simple narration: "The ice is cold. Our warm hand is heating the ice. Feel how our hand gets cold? We're giving our warmth to the ice." Introduce "heat flows from warm to cold" as a repeatable phrase. Do this with felt curiosity rather than full explanation — they're building the intuition that will make the full concept click later.
 
 **3-4+ years**:
-- Expand to 5-6 different items with temperature variety
-- Introduce vocabulary: "hot," "warm," "cool," "cold," "freezing," "thermal," "insulate"
-- Ask more detailed questions about why things are different temperatures
-- Use a simple thermometer and point to numbers going up (warmer) and down (colder)
-- Extend exploration to 10-15 minutes
-- Challenge them: "Can you find something that's warm? Something that's cold?"
-- Introduce cause and effect: "Why is the bowl cold? Because the water came from the freezer!"
+Do all three experiments. In the conductivity experiment, add a piece of fabric or foam to compare: "Rank these from most heat-conducting to least." For phase change, ask: "What would happen if we put the ice in the freezer instead? The air in there is colder than the ice — would heat flow into or out of the ice?" (Out of it — the ice would stay frozen or get colder.)
 
 ### Extension Ideas
 
-**Variation 1 - Temperature Sorting**: Gather pictures or real items (stuffed animals with different textures) and sort them into "warm" and "cold" piles. Talk about where you might find each item (warm things near the sun, cold things in winter).
+**Variation 1 - Insulation Test**: Wrap one ice cube in cloth, leave another bare. Which melts faster? The cloth is a poor conductor — it slows heat from reaching the ice. This is what insulation means: slowing heat flow, not stopping it. Ask: "How does a winter coat keep you warm?" (It traps air, which is a poor conductor, slowing heat from leaving your body.)
 
-**Variation 2 - Hot and Cold Themed Play**: Create a pretend scenario where the child is a "heat and cold explorer." Use toys to explore: "Is the toy car hot or cold? Does it need a blanket?"
+**Variation 2 - Evaporation Cooling**: Wet the back of your hand and blow on it. Ask: "Why does it feel cold?" (Evaporation: liquid water absorbs thermal energy from your skin as it turns to vapor, carrying that energy away. This is how sweating cools you.) Connect: "Why do you sweat when you're hot? Evaporation takes heat away from your skin."
 
-**Repeat play**: Change the items weekly to keep discovery fresh. Try winter themed items (snow, icicles) in winter, summer themed items (warm sand, cool water from the hose) in summer. Build a collection of temperature objects to explore throughout the seasons.
+**Repeat play**: Observe phase changes in cooking — water boiling (liquid to gas), butter melting (solid to liquid), chocolate hardening (liquid to solid). Each is thermal energy moving in or out.
 
 ## Parent/Caregiver Notes
 
 ### Common Challenges & Solutions
 
-**Challenge**: Child is nervous about touching cold ice or warm items
-**Solution**: Start with room-temperature objects first to build confidence. Let them watch you touch items first, narrating the sensation. Move very gradually to warm and cold—there's no rush. Some children develop comfort through observation before direct touch.
+**Challenge**: Child doesn't believe metal and wood are the same temperature
+**Solution**: This is the perfect scientific surprise! Use a thermometer to measure both. They'll be skeptical that two objects that feel different could measure the same — that's exactly the right reaction. Explain: "Temperature measures molecular speed. Both are the same temperature. But metal conducts your body heat away faster, so it feels colder." This teaches that our senses can mislead us and why measurement matters.
 
-**Challenge**: Child burns or discomforts themselves with warm items
-**Solution**: Always test temperatures on your own wrist or hand first. Warm should feel comfortably warm, never hot. Keep exploration brief (3-5 seconds per touch). If they show any sign of discomfort, move immediately to cooler items. Never force them to hold anything uncomfortable.
+**Challenge**: Child is uncomfortable holding ice
+**Solution**: Brief touches are fine — don't hold for more than a few seconds. The point is to feel the heat flowing from hand to ice. Even a quick touch delivers the concept. For very sensitive children, hold the ice yourself and describe what you feel.
 
-**Challenge**: Child loses interest quickly or becomes overwhelmed
-**Solution**: Break the activity into smaller parts. Do just the warm exploration one day, and cold exploration another day. Keep sessions to 5-10 minutes instead of 15. Follow their lead—if they're engaged, continue; if they're ready to move on, that's perfect learning happening in their own way.
+**Challenge**: Child asks why ice cubes appear to "sweat" in warm air
+**Solution**: This is condensation — water vapor from the warm air touching the cold ice surface and losing enough heat to turn back into liquid water. The opposite of evaporation: hot vapor → cool liquid. It's a phase change too, and a great observation.
 
 ### Follow-Up Activities
+1. **Cooking observations**: Watch butter melt in a pan (solid to liquid — phase change), water boil (liquid to gas — phase change), or puddles dry up (evaporation). Name what's happening: "The heat energy from the sun is conducting into the puddle and breaking water molecules free — evaporation."
 
-1. **Temperature Detective**: Throughout the day, point out warm and cold things (warm sunlight, cold water during bath, warm food). Ask: "Is this warm or cold?" Build awareness of temperature in daily life.
+2. **Seasonal insulation comparison**: In winter, compare which materials keep you warmest — wool, cotton, down, plastic. Discuss: which conducts heat least? Which traps air? This is applied thermodynamics in daily life.
 
-2. **Seasonal Exploration**: In winter, talk about how nature is cold and how we use warm blankets and coats. In summer, talk about the warm sun and cool water for swimming. Connect the concepts to seasons and clothing.
-
-3. **Safe Cooking Together**: Involve them in simple food preparation—warm toast, cold fruit from the fridge, warm milk. Use safe language: "The toast is warm. Let it cool down before you eat it." This teaches temperature safety in a natural context.
+3. **Thermometer readings**: Take temperature readings of different household objects with a simple thermometer — inside vs. outside, sun-warmed surfaces vs. shaded ones. Build intuition for what temperature differences feel and look like in numbers.
 
 ---
 

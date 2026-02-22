@@ -6,13 +6,15 @@ Children explore the concept that all living things are made of tiny building bl
 
 ## Vocabulary
 
-**Cell**: A tiny building block that makes up all living things. Every plant, animal, and person is made of millions of cells too small to see without special tools. Your skin, bones, and muscles are all made of cells working together.
+**Cell**: The smallest unit of life — a tiny compartment enclosed by a membrane, containing all the machinery needed to live, grow, and reproduce. Every living thing is made of cells; your body has about 37 trillion of them. Some organisms are just a single cell — bacteria are one-celled organisms doing everything a living thing needs in one microscopic package.
 
-**Living**: Something that grows, needs food and water, moves, and can change over time. Your body is living because it grows taller, your heart beats, and you can move and play.
+**Nucleus**: The control center of the cell — a membrane-wrapped compartment containing DNA, the genetic instructions that tell the cell what proteins to make, how to grow, and when to divide. You might say, "The nucleus holds the instruction manual for the whole cell."
 
-**Organism**: A complete living thing made of many cells working together as a team. You are an organism, and so is a puppy, a tree, a butterfly, or even a tiny ant.
+**Mitochondria**: Organelles that generate energy for the cell by converting glucose (from food) and oxygen into ATP — the cell's usable energy currency. Cells that need lots of energy (muscle cells, heart cells) have thousands of mitochondria. You might say, "Every time you run, your muscle cells' mitochondria are working hard to make energy."
 
-**Microscope**: A special tool that makes very tiny things look much bigger so we can see them clearly. Scientists use microscopes to see cells because cells are so small our eyes cannot see them by themselves.
+**Cell membrane**: The flexible outer boundary of the cell — a thin double layer of fatty molecules (lipids) that controls what enters and leaves the cell. It lets nutrients in and waste products out. You might say, "The cell membrane is like a gatekeeper — it decides what gets through."
+
+**Organism**: A complete living thing — either a single cell (like bacteria or amoeba) or trillions of cells working together in specialized teams (like a human or a tree). You might say, "A bacterium is a one-celled organism; you are a 37-trillion-celled organism."
 
 ## Learning Song
 
@@ -111,6 +113,7 @@ Children create a giant "cell model" using found objects and craft materials, th
    - "Why do you think the cell needs a membrane (the plastic wall) on the outside?"
    - "Can you find the nucleus? What's its job?"
    - Point out: "Look at how all these parts work together. Your body is made of trillions of cells just like this, all working as a team!"
+   - Mention single-celled organisms: "Some living things are made of just ONE cell — a bacterium is a living thing so tiny it fits in a single cell. It still has a membrane and still makes energy. A whole living thing in one tiny package!"
    Offer magnifying glass for closer observation of the model.
 
 4. **Wrap-up** (2-3 min):
@@ -150,7 +153,9 @@ Add complexity by including more cell parts with specific jobs. Ask more questio
 
 2. **Growing together**: As your child grows (measure height, try old clothes), explain: "Your cells are multiplying! That's why you're getting bigger. Your cells never stop working to help you grow and stay healthy."
 
-3. **Healthy habits connection**: When eating nutritious food, taking medicine, or getting sleep, reinforce: "You're feeding your cells with healthy food!" "Medicine helps your cells fight germs." "When you sleep, your cells repair and get stronger." This builds understanding that cell health connects to daily choices.
+3. **Cell division**: Explain that cells reproduce by dividing in two — one cell splits into two identical cells, each with a full copy of the DNA. "That's how you grew from one tiny cell into you — cells kept dividing and dividing." Hold your fists together, then pull them apart: "That's mitosis — one cell becoming two."
+
+4. **Healthy habits connection**: When eating nutritious food, taking medicine, or getting sleep, reinforce: "You're feeding your cells with healthy food!" "Medicine helps your cells fight germs." "When you sleep, your cells repair and get stronger." This builds understanding that cell health connects to daily choices.
 
 ---
 

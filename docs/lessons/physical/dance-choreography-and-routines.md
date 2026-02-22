@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Dance choreography introduces young children to structured movement sequences set to music, building confidence, rhythm awareness, and memory skills in an expressive, joyful context. Children learn to follow simple movement patterns and repeat sequences, developing body awareness and gross motor coordination while experiencing the joy of creative self-expression. This activity strengthens listening skills, timing, and the ability to move with purpose and intention.
+Choreography is the art of designing movement in space and time — organizing gestures, steps, and body shapes into intentional sequences that communicate something or create an aesthetic effect. Children learn what choreographers actually think about: spatial levels (high, medium, low), dynamics (sharp vs. flowing, fast vs. slow), 8-count phrasing (how dancers count music), and motifs (a repeated movement idea that forms the building block of a dance). This is not just dancing to music — it's an introduction to movement composition as a genuine art form.
 
 **Activity Type**: Performance Arts
 
@@ -78,29 +78,29 @@ Dance choreography introduces young children to structured movement sequences se
 
 ### Main Activity (8-15 minutes)
 
-#### Introduction & Demonstration (1-2 minutes)
+#### Introduction & Demonstration (2-3 minutes)
 
-- Explain the concept simply: "Today we're learning a special dance with moves we do over and over. It's like a game with our bodies!"
-- Play a snippet of the chosen song so children hear what they'll dance to
-- Demonstrate the first movement slowly, exaggerating your movements so children can clearly see what you're doing
-- Use enthusiastic, encouraging language: "Watch how I move to the music - then you try!"
+Explain what choreography actually is: "Choreography is how dancers plan their movements — like writing a story, but with your body instead of words. Choreographers make decisions about three things: **space** (where you move and at what level — high up, middle, or low), **time** (fast or slow, and on which beat), and **energy** (sharp and sudden, or smooth and flowing)."
+
+Introduce **8-count phrasing**: "Dancers count music in groups of eight. Let's listen." Clap or count along with the music: "1-2-3-4-5-6-7-8, 1-2-3-4-5-6-7-8." Say: "Each phrase is 8 counts. Choreographers plan which movement happens on which count."
+
+Introduce **spatial levels**: Show three positions — arms stretched high overhead (high level), arms out to the sides at shoulder height (middle level), and crouching low with hands near the floor (low level). Say: "Interesting choreography uses all three levels — not just standing up the whole time."
+
+Introduce **motif**: "A motif is one movement idea you return to throughout the dance — like a theme. We'll pick a motif and keep coming back to it." Choose something simple: a swooping arm movement, a hop-turn, or a body shape.
+
+Play a snippet of the chosen song and demonstrate the first movement slowly, exaggerating your movements so children can clearly see what you're doing.
 
 #### Skill Practice (3-5 minutes)
 
-**Skill breakdown** - Start with simple individual movements before combining them:
+**Skill breakdown** — Build choreography using real choreographic choices:
 
-1. **First movement** (8 counts): Demonstrate and practice in isolation
-   - Example: "We clap our hands together - clap, clap, clap, clap - then we stop!"
-   - Repeat this movement 4-6 times until children can follow
-   - Use a clear count or rhythm cue ("One, two, three, four")
+1. **Choose and practice the motif** (8 counts): Pick a simple movement that will recur throughout — a swooping arm, a stomp-and-clap, a spinning half-turn. Practice it together until it feels natural. Say: "This is our motif. We'll come back to it every time."
 
-2. **Second movement** (8 counts): Practice this new movement the same way
-   - Example: "Now we touch our toes - down, down, down, down - and stand back up!"
-   - Again, practice 4-6 repetitions
+2. **Add a contrasting movement** (8 counts): Choreographers use contrast — if the motif is big and sweeping, the contrasting move is small and contained. If the motif is high level, the contrast is low level. Practice the contrasting move in isolation, then connect: "Motif for 8 counts, then contrast for 8 counts."
 
-3. **Putting it together**: Combine the two movements in sequence
-   - "First we clap, then we touch our toes - let's do it together!"
-   - Go through the sequence 3-4 times slowly so they internalize the pattern
+3. **Vary the dynamics**: Practice the motif once sharply ("jerky, sudden — like a robot") and once smoothly ("slow and flowing — like seaweed"). Say: "Same move, but different energy. Choreographers change the energy to create different feelings."
+
+4. **Put it together**: Motif (8 counts) → contrast (8 counts) → motif with different dynamics (8 counts) → ending shape (hold a pose for 4 counts). This is a complete mini-choreography with intentional structure.
 
 **Coaching cues**:
 - "Watch me first, then copy what I do"
@@ -179,14 +179,12 @@ Finish with a calming statement: "Our dance is all done. Our bodies did so many 
 ### 3-4+ years
 
 **Challenges to add**:
-- Increase choreography length to 32+ counts with 3-4 different movements
-- Add directional changes ("step to the right," "turn around")
-- Incorporate arm movements that coordinate with leg movements
-- Use music with less repetitive structure (songs with verses and choruses)
-- Introduce concepts like "slow and fast," "high and low"
-- Try partner movements (dancing with a buddy, moving toward/away from partner)
-- Introduce props that require coordination (ribbons to wave while moving, scarves to twirl)
-- Allow children to create sections of their own choreography to add to the group dance
+- Increase choreography length to 32+ counts with 3-4 sections and a recurring motif
+- Introduce **canon**: you perform the motif, then the child copies it one phrase later — the same movement offset in time, like a round in music
+- Add directional changes and spatial pathways ("travel to the right for 8 counts, then return")
+- Use music with verse/chorus structure and choreograph differently for each section — high energy for the chorus, flowing and low-level for the verse
+- Have the child invent their own motif and teach it to you — this is actual choreographic composition
+- Introduce **unison vs. contrast**: both performers doing the same thing at the same time (unison) vs. doing complementary but different things (contrast)
 
 **Duration**: Can extend to 15-20 minutes with more varied movement vocabulary
 
