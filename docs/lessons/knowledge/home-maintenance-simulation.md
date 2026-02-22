@@ -6,13 +6,17 @@ In this activity, children engage in pretend play that mimics everyday home main
 
 ## Vocabulary
 
-**Maintain**: To keep something in good condition by taking care of it regularly; for example, maintaining a home by sweeping floors and wiping tables keeps it clean and safe.
+**Entropy**: The natural tendency of things to become more disordered over time without effort to maintain them. A clean room gets messy on its own; a tidy garden grows weeds; a painted fence eventually peels. Home maintenance is a constant effort against entropy.
 
-**Organize**: To arrange things in a neat and orderly way; when you organize toys into a basket or books on a shelf, you're making order from disorder.
+**Dust**: A mixture of tiny particles that settle on surfaces — mostly dead skin cells, fabric fibers, pollen, and microscopic soil particles. Dust accumulates constantly because air currents carry particles that fall and settle when air slows down.
 
-**Responsible**: Being trusted or dependable to do something important; a responsible person takes care of things they've promised to help with, like helping keep a home tidy.
+**Surfactant**: The active ingredient in soap and cleaning products. Surfactant molecules have two ends: one that bonds to water, and one that bonds to oil or grease. This lets soap lift oily dirt off surfaces so water can rinse it away. "Surfactant" means "surface-active agent."
 
-**Simulate**: To pretend or act out something real; when we simulate home maintenance with toy tools, we're practicing real-life tasks in a pretend, safe way.
+**Abrasion**: Removing material by rubbing. When you scrub a surface, tiny particles in the cleaning cloth or pad break apart and dislodge dirt through abrasion. That's why a rough sponge works better than a soft cloth on stuck-on food.
+
+**Corrosion**: When a material (especially metal) is slowly destroyed by chemical reactions with its environment — usually with oxygen or moisture. Rust is iron corrosion. Home maintenance often prevents corrosion: painting a fence seals out moisture, oiling hinges prevents rust.
+
+**Torque**: A rotating force — the twist you apply when using a wrench, screwdriver, or doorknob. Tightening a bolt applies torque. More torque (twisting harder, or using a longer handle) fastens things more securely.
 
 ## Learning Song
 
@@ -97,13 +101,17 @@ Children will explore home maintenance through guided role-play, using child-saf
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Start by showing genuine curiosity about the play space. Ask: "Look at this room! It has some toys scattered around. What should we do?" Invite the child to help make the area tidy using toy tools. Demonstrate each tool gently: "Here's our pretend broom - watch how it moves!" Create a simple scenario: "Let's pretend this is our home and we're going to take care of it together."
+   Look around the space together and ask: "What would happen if we never swept or wiped anything—ever?" Let them imagine. Explain: "Things naturally get messier and more worn out over time—that's called entropy. Everything needs maintenance." Point to dust on a shelf if visible: "That's dust—tiny pieces of skin, fabric, and dirt floating in the air until they land." Pick up a sweeping cloth: "When we wipe, the cloth traps dust particles. When we add soap, it grabs onto grease so water can wash it away."
 
 2. **Exploration** (5-8 minutes):
    Let the child pick up toy tools and explore how they work. Watch and narrate what you see: "You're sweeping! Those toys are moving out of the way." Allow free movement and testing of each tool. Ask simple questions: "What else could you tidy?" or "How does that cloth feel?" Observe which tasks draw the child's interest.
 
 3. **Guided Tasks** (5-10 minutes):
-   Introduce maintenance scenarios one at a time. Guide the child through sweeping (pushing the broom to move blocks), wiping (moving a cloth back and forth on a surface), organizing (placing toys into baskets), and dusting (soft movements with a feather duster). Use specific praise: "You're sweeping in a line! The floor is getting clearer." Ask: "What should we clean next?" or "Where does this toy belong?"
+   Introduce each maintenance task and briefly explain what's actually happening:
+   - **Sweeping**: The broom bristles trap and push particles through friction. "We're using friction—the bristles grip the dirt."
+   - **Wiping**: Cloth fibers absorb and trap dust. With soapy water: "The soap is grabbing onto any greasy spots."
+   - **Organizing**: Talk about why order helps: "If we always put things in the same place, we don't have to search."
+   - **Fix-it play**: Use toy tools. A screwdriver applies torque to turn a screw. A wrench tightens a bolt. "The longer the handle, the more turning force—that's torque."
 
 4. **Creative Play** (remaining time):
    Allow the child to lead with minimal direction. They may create their own scenarios or combine tools in new ways. Step back and observe. If invited to participate, follow their lead. Ask open-ended questions: "What would happen next if we lived in this house?" Allow repetition of favorite tasks.
@@ -114,10 +122,10 @@ Children will explore home maintenance through guided role-play, using child-saf
 ### Age Adaptations
 
 **2-3 years**:
-Keep scenarios very simple and concrete - focus on one tool at a time. Use mostly free exploration with minimal direction. Emphasize large motor movements like sweeping and pushing rather than fine motor tasks. Do most of the narration and guiding yourself. Expect short bursts of focus before moving to a different task. Keep duration to 15-20 minutes with frequent breaks. Stay close and offer frequent modeling and help.
+Use real words in passing: "We're sweeping up dust—tiny particles from the air." Focus on one tool at a time and emphasize physical discovery (how bristles feel, how the cloth drags). When using a toy wrench: "You're applying torque—twisting force." They won't memorize these words, but repeated exposure builds familiarity. Large sweeping and pushing motions are the main activity. Duration: 15-20 minutes.
 
 **3-4+ years**:
-Introduce multiple maintenance tasks in sequence to create a full "house care" routine. Add more complex tools like toy vacuums or plastic tool sets. Encourage the child to create the messy scenario themselves: "Can you scatter some toys so we have something to clean?" Include decision-making: "What area needs help first?" Add dialogue and questions: "Why is this dusty?" or "How often should we sweep?" Try role reversal where the child "teaches" you how to do a task. Extend to other rooms or areas. Ask "what if" questions. Duration can extend to 25-35 minutes with sustained engagement.
+Go deeper on mechanisms: "Why does soap help clean better than just water?" Let them hypothesize. Explain surfactants in simple terms: "One end of a soap molecule grabs water, the other grabs grease—it's like a bridge." Introduce corrosion: look for rust on outdoor metal, or explain why the fence gets painted. Create a "maintenance checklist" with pictures. In fix-it play, explore how different tools work: "A longer wrench gives more torque—more twisting power." Ask: "What would happen if nobody maintained buildings?" Duration: 25-35 minutes.
 
 ### Extension Ideas
 

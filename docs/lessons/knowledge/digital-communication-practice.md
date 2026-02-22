@@ -6,13 +6,17 @@ Digital communication practice introduces young children to safe, age-appropriat
 
 ## Vocabulary
 
-**Digital literacy**: Understanding how to use technology tools like tablets and computers to communicate and create. When you know how to safely use a video call to talk with Grandma or send a picture to a cousin, you are building digital literacy skills.
+**Pixel**: A tiny square of color — the smallest unit of a digital image. Your screen is made of millions of pixels packed together. When you zoom in very close on a photo, you can sometimes see the individual colored squares. A camera works by measuring how much light hits each of thousands of tiny sensors, each recording one pixel's color.
 
-**Facilitate**: To help make something happen or work smoothly. When you help your child take turns drawing with a grandparent on a shared drawing app, you are facilitating their connection with that person.
+**Network**: A system of connected devices that can share information. The internet is a giant network — computers, phones, and tablets all connected by cables and wireless signals. When you send a message, it travels through this network from your device to another.
 
-**Interaction**: Communication and engagement between people. A video call where you wave, talk, show toys, and listen to each other is a meaningful interaction between two people.
+**Wi-Fi**: A wireless signal that connects devices to the internet. A router converts data from internet cables into radio waves (similar to what radios use), which your tablet or phone picks up with its antenna. The radio waves travel through the air at the speed of light.
 
-**Connection**: A relationship or link between people who care about each other. When your child draws a picture and shows it to a grandparent through a video call, they are maintaining a connection across the distance.
+**Data packet**: A small chunk of information sent across a network. Long messages and videos get broken into many packets, each labeled with where it's going and what order it belongs in. The packets may take different routes and get reassembled at the destination. This is how the internet sends information efficiently.
+
+**Compression**: Reducing the size of data (images, video, audio) so it travels faster across a network. Video calls use compression *codecs* (coder-decoder programs) to shrink each video frame before sending it and expand it again on the other end — thousands of times per second.
+
+**Latency**: The delay between sending a signal and it being received. A tiny amount of latency (under 100 milliseconds) is imperceptible. Higher latency causes the "talking-over-each-other" problem on video calls — the signal takes longer to travel.
 
 ## 🎵 Learning Song
 
@@ -98,7 +102,7 @@ This activity guides children through a supported digital communication experien
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Build excitement about the connection. Say, "We're going to see [person's name] on the screen! Let's wave hello!" Show your child the device and demonstrate that the camera lets the other person see them too. Point to where they'll see the other person on screen.
+   Before starting the call, explain what's about to happen: "We're going to talk with [person] who is far away. Our tablet will capture what we look like — the camera is turning the light into millions of tiny colored squares called pixels. Those pixels get squished down and sent through the air as Wi-Fi, through cables under the ground, all the way to [person's] screen. It all happens in less than a second!" Point to the camera lens. Point to the Wi-Fi router if visible.
 
 2. **Connection & Greeting** (2-3 minutes):
    Start the video call or open the messaging app with the recipient ready. Wave and say hello together. Let your child look at themselves on screen briefly if they're curious. Have the other person greet your child warmly and in a familiar way.
@@ -118,7 +122,7 @@ This activity guides children through a supported digital communication experien
 Keep sessions very brief (5-10 minutes maximum). Use only very familiar adults. Focus on visual communication like showing, waving, and pointing more than conversation. Be very hands-on in guiding interaction and narrating what's happening. Use simple, repeated words and phrases. Have a favorite toy ready to show. Expect shyness or reluctance—this is developmentally normal and not a problem.
 
 **3-4+ years**:
-Children can engage in more extended conversations (15-20 minutes). They can follow a more structured activity with the other person, such as drawing together, singing together, or telling a story back and forth. They may ask questions about how the technology works. They can use drawing or message apps to create and share content. They might enjoy receiving messages or pictures from the other person between sessions. Allow them more independence with you checking in periodically.
+When they ask "how does the camera see us?" — answer for real: "The camera has millions of tiny sensors. Each one measures a dot of color. All those dots together make a picture — like a mosaic. That picture gets compressed — squished — into a smaller file, sent across the internet as data packets, and rebuilt on the other person's screen." Let them look at the camera lens up close. Show them pixels by zooming into a photo on the screen. If the call has a slight delay, explain latency: "The signal is traveling a long distance — there's a tiny delay." Duration: 15-20 minutes.
 
 ### Extension Ideas
 

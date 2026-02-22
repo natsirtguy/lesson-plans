@@ -6,13 +6,21 @@ Through interactive play and exploration, children learn essential safety awaren
 
 ## Vocabulary
 
-**Vigilance**: The practice of being alert and aware of what's happening around you. When you notice where you are and who is nearby, you're practicing vigilance—like noticing a car before you cross the street.
+**Hazard**: Something that could cause harm or injury. A hazard isn't always dangerous on its own—it depends on whether you know about it and how you respond to it. A hot stove is a hazard; knowing not to touch it makes you safer.
 
-**Refuge**: A safe place where you can go to feel protected and calm. Your bedroom, a parent's arms, or a quiet corner can be a refuge when you need safety or comfort.
+**Risk**: The chance that something harmful could happen. We assess risk every day: "Is this street safe to cross right now?" Recognizing risk is a skill—it means paying attention to what's around you.
 
-**Boundaries**: Invisible limits that protect what is yours and who you are. Your body belongs to you, and you get to decide who touches you—that's an important boundary.
+**Emergency**: A sudden, serious situation that needs immediate action. Emergencies need fast responses—that's why we learn what to do *before* they happen.
 
-**Resilience**: The strength and ability to recover when something difficult happens. When you practice what to do if you get scared or hurt, you're building resilience to handle challenges.
+**Emergency services**: Trained professionals who respond to emergencies—police officers, firefighters, and paramedics (emergency medical technicians, or EMTs). In many countries, calling **911** (or **999** or **112**) connects you to a dispatcher who coordinates the right help.
+
+**Dispatcher**: The person who answers emergency calls, collects information, and sends the correct response team. Dispatchers stay on the phone with callers to give instructions while help is on the way.
+
+**First responder**: A professional who arrives first at an emergency scene—paramedics, firefighters, police. Each type is trained for specific hazards (medical crises, fires, crimes).
+
+**Pathogen**: A tiny organism—like bacteria or viruses—that can make you sick. Pathogens travel through touch, droplets, and contaminated surfaces. Hand-washing removes pathogens before they enter your body through your eyes, mouth, or nose.
+
+**Smoke detector**: A device that senses smoke particles in the air and sounds an alarm. Most use *photoelectric sensors* (smoke blocks a light beam, triggering the alarm) or *ionization chambers* (smoke disrupts a tiny electrical current). Either way, they detect danger faster than humans can smell smoke alone.
 
 ## 🎵 Learning Song
 
@@ -102,18 +110,22 @@ Children learn and practice essential safety skills through picture-based discus
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit comfortably with the child and introduce gently: "Today we're going to learn about ways to stay safe and healthy. Everyone wants to feel safe, right?" Use familiar examples: "When we hold hands while we cross the street, that keeps us safe. When we look both ways, that helps too!" Keep your tone positive and empowering, like learning helpful superhero skills.
+   Sit comfortably with the child and introduce: "Today we're learning about hazards, emergencies, and the systems people use to stay safe." Use familiar examples: "When we hold hands crossing the street, that's because cars are a hazard—they move fast and are heavy. When we look both ways, we're assessing risk: 'Is it safe to cross right now?'" Explain that safety isn't just luck—it's knowledge and planning.
 
 2. **Picture Discussion** (5-7 min):
-   Show picture cards one at a time. Ask open-ended questions: "What's happening here?" "Is this safe or unsafe?" "Why?" Discuss holding an adult's hand while walking, not talking to strangers, knowing emergency numbers, looking before crossing streets, and washing hands. Celebrate correct observations: "Yes! That's a safe choice! You noticed that!"
+   Show picture cards one at a time. Ask: "What's happening here?" "Is this a hazard? Why?" "What's the risk?" For each scenario, add real context:
+   - **Crossing the street**: Cars have momentum—they can't stop instantly. Traffic lights coordinate vehicles so pedestrians can cross safely.
+   - **Washing hands**: Germs (bacteria and viruses) live on surfaces. Soap breaks apart the oily coating on bacteria and viruses so water can wash them away—that's why just rinsing doesn't work as well.
+   - **Smoke detector beeping**: It sensed smoke particles—something nearby might be burning. That's why we never ignore the alarm.
+   - **Emergency numbers**: 911 connects to a dispatcher who sends police, fire, or medical help depending on the emergency.
 
 3. **Practice & Role-Play** (5-10 min):
    Choose one or two activities to practice:
-   - **Calling for help**: Practice using a toy or real phone saying their name, that they need help, and their location
-   - **Safe space**: Show the child the cozy blanket area and explain: "This is your safe space where you can go if you feel scared or need quiet time"
-   - **Doll first aid**: Use stuffed animals to practice simple care (putting a band-aid on, getting help for someone who's hurt)
-   - **Safety walk**: Create a simple path with tape or cones, walking together and stopping to discuss safe choices
-   - **Helper role-play**: Act as a police officer, firefighter, or doctor while the child practices asking for help
+   - **Calling for help**: Explain how emergency calls work: "When you call 911, a dispatcher answers. They're trained to help. You tell them your name, what happened, and where you are—your address." Practice this script with a toy phone. Explain that dispatchers stay on the line to give instructions while first responders drive to you.
+   - **Smoke detector walk**: Find smoke detectors in your home. Explain: "This device protects us even when we're asleep. It senses smoke before we can smell it." Press the test button (warn the child first—it's loud!) so they know what it sounds like. Discuss the fire escape plan.
+   - **Hand-washing science**: Do a proper hand-washing demonstration—20 seconds with soap. Explain: "Soap molecules have one end that grabs onto oil and one end that grabs onto water. So germs get trapped in the soap and washed away."
+   - **Safety walk**: Walk through the home identifying hazards (stairs, hot oven, cleaning supplies under the sink). For each: "What's the hazard? What's the risk? What do we do?"
+   - **First responder roles**: Discuss what each type of first responder does: paramedics treat injuries and illness, firefighters handle fires and rescues, police handle crimes and accidents. Each requires years of specialized training.
 
 4. **Free Exploration** (remaining time):
    Let the child choose which safety activity to practice again. Use props for continued role-play. If interested, play a simple "Can you remember?" game reviewing safe choices. Tell a story together about a character staying safe.
@@ -124,10 +136,10 @@ Children learn and practice essential safety skills through picture-based discus
 ### Age Adaptations
 
 **2-3 years**:
-Keep explanations very simple and concrete: "Holding hands keeps us safe when we walk." Use only 2-3 picture cards to avoid overwhelm. Focus on physical safety (holding hands, staying close, not touching danger) rather than abstract concepts. Emphasize fun and playfulness over serious discussion. Practice through everyday moments: holding hands at the store, looking before stepping down, following you safely around the house. Use stuffed animals and dolls as main teaching tools—less direct pressure. Duration: 10-15 minutes or spread across several short 5-minute conversations throughout the day.
+Use real terms in simple sentences: "That's a hazard—it could hurt you." Focus on concrete hazards they encounter: stairs, hot things, the street. When washing hands together, say "soap kills germs" every time—they won't understand fully, but they'll absorb the concept. Point to the smoke detector: "That keeps us safe at night—it can smell smoke." Keep each conversation to 2-3 minutes. Repetition across daily life is the lesson. Duration: 10-15 minutes or short moments throughout the day.
 
 **3-4+ years**:
-Introduce more complex scenarios: what to do if lost in a store, basic fire safety, personal boundaries. Use more picture cards (8-10) covering traffic, strangers, home safety, and emergency numbers. Practice calling emergency numbers with a toy phone. Teach who "trusted adults" are. Create a simple safety rule chart together with pictures. Role-play realistic scenarios: "What if we get separated at the park?" Introduce body autonomy: "Your body is yours. Tell me if someone touches you in a way that doesn't feel good." Practice simple first aid: washing a scrape, finding a band-aid. Create a safety treasure hunt finding safe items around the house. Duration: 20-30 minutes.
+Expand to systems: "When someone calls 911, a dispatcher sends a first responder—a paramedic, police officer, or firefighter, depending on what kind of emergency it is." Practice the 911 script: name, location, what happened. Introduce the concept of risk assessment: "Before we cross, we check both ways. Why? Because cars have momentum—once they're moving fast, they can't stop right away." Explore smoke detectors together. Create a home hazard map—draw rooms and mark hazards with symbols. Learn the home address. Duration: 20-30 minutes.
 
 ### Extension Ideas
 
