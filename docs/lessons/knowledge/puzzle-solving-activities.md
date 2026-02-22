@@ -6,13 +6,15 @@ Children discover the joy of problem-solving through age-appropriate puzzles tha
 
 ## Vocabulary
 
-**Spatial**: Understanding how objects relate to each other in space and how they fit together. When your child rotates a puzzle piece to find where it belongs, they are using spatial thinking.
+**Mental rotation**: The cognitive ability to rotate a shape in your mind's eye without physically moving it. When you look at a puzzle piece and think "if I turn this, it would fit there," you're performing mental rotation. This skill develops gradually and is exercised every time you work with puzzles or building blocks.
 
-**Pattern**: A repeating arrangement of shapes, colors, or designs that help us recognize and predict. Puzzles show patterns like stripes, dots, or connected images that guide children to matching pieces.
+**Tab and blank**: The technical terms for puzzle piece shapes. A **tab** is the protrusion that sticks out; a **blank** is the indentation that receives it. Puzzle pieces connect when tabs fill blanks — the shapes are designed to interlock precisely. A piece fits only when its tabs match the blanks around the open space.
 
-**Persistence**: The ability to keep trying even when something feels difficult. Puzzle solving teaches children that trying different approaches and not giving up is how we succeed.
+**Spatial reasoning**: A type of thinking that involves understanding and mentally manipulating shapes, positions, and space. It's used by architects, surgeons, engineers, and athletes — and it's one of the cognitive skills most strengthened by puzzle play. The parietal lobe (at the top back of the brain) plays a major role in spatial reasoning.
 
-**Manipulate**: To touch, hold, and move something with your hands in a controlled way. When your child picks up puzzle pieces and tries different positions, they are manipulating objects to solve a problem.
+**Strategy**: A planned approach to solving a problem. Experienced puzzle solvers use strategies — like sorting edge pieces first (they have at least one flat side), sorting by color, or completing recognizable sections first. Using a strategy is smarter than random trying.
+
+**Concave and convex**: Shapes that curve inward (concave, like a bowl) or outward (convex, like a hill). Puzzle blanks are concave; tabs are convex. Matching a convex tab to a concave blank is what makes pieces interlock — the shapes are mirror images of each other.
 
 ## Learning Song
 
@@ -94,13 +96,13 @@ Children will select puzzle pieces, examine how they fit together, and experienc
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show your child the puzzle box and point to the picture: "Look what we're going to discover! This is what our puzzle looks like when it's all done." Invite them to hold a piece: "These pieces fit together like magic. Let's find where they go!"
+   Show a puzzle piece and examine it together: "See these bumps? Those are called tabs. See the indentations? Those are blanks. A piece fits only when its tabs match the blanks around the empty space — like a lock and key." Look at the box image: "Before we touch the pieces, let's make a plan. That's called a strategy. Puzzle experts usually start with edges — can you see why? Edge pieces have at least one flat side."
 
 2. **Exploration** (8-10 min):
-   Invite your child to pull out one piece at a time and explore it. Ask: "What do you notice about this piece?" or "Where do you think this goes?" Let them try placing pieces without judgment. Offer gentle guidance: "Let's try turning it a different way" or "Can you find a spot with the same color?" Celebrate every attempt: "You're trying different places—that's how we solve puzzles!"
+   Sort edge pieces first. Name the shapes as you handle pieces: "This one has two tabs and one blank — where might that fit?" Prompt mental rotation: "Don't pick it up yet — can you picture in your mind how it looks if you turn it? That's mental rotation — your brain is rotating the shape." When a piece almost fits but needs rotating: "Close! Try rotating it 90 degrees — a quarter turn." Use concave/convex: "The tab is convex — it curves out. The blank is concave — it curves in. We need a convex tab to match that concave blank."
 
 3. **Discovery** (4-5 min):
-   Point out what you observe: "I see this piece has a curved edge, and there's a curved space in the puzzle!" Ask questions: "What happens when you turn that piece?" or "Which piece looks like the animal in the picture?" Work together on final pieces and celebrate when the puzzle is complete.
+   Ask strategic questions: "Which section looks easiest to finish? Let's concentrate there." When pieces fit: "What made it click? The tab filled the blank exactly — the shapes are mirror images." Introduce the idea of strategy evaluation: "Did starting with edges make it easier? That strategy worked!"
 
 4. **Wrap-up** (2-3 min):
    Admire the finished puzzle together: "You did it! Look what we made!" Sing a verse of the song. Let your child help put pieces back in the storage container, making cleanup part of the learning.
@@ -108,10 +110,10 @@ Children will select puzzle pieces, examine how they fit together, and experienc
 ### Age Adaptations
 
 **2-3 years**:
-Use only 2-4 piece puzzles with very large, easy-to-grasp pieces or knobbed handles. Focus on exploration and sensory experience rather than completion—touching, turning, and trying pieces is the goal. Keep sessions short (5-10 minutes) and offer frequent encouragement. Celebrate any piece placement, even if not correctly positioned. Work alongside your child rather than having them work independently.
+Use 2-4 piece knobbed puzzles. Point to the tab: "This bump is called a tab." Point to the matching space: "This hole is called a blank. The tab has to go in the blank." When they try a piece, narrate the attempt: "You're rotating it — turning to see if it fits." When they succeed: "The tab filled the blank — it clicked because the shapes match!" Mental rotation at this age is very physical — they need to handle and turn pieces to understand. That IS the learning. Duration: 5-10 minutes.
 
 **3-4+ years**:
-Introduce puzzles with 8-12 pieces showing familiar pictures (animals, vehicles, shapes). Encourage them to work more independently while you observe. Ask them to find pieces matching colors or shapes in the picture. Challenge them with questions: "Can you find a piece with an edge on it?" or "Which pieces go in the corners?" Try mixing two simple puzzles and asking them to sort pieces before assembling.
+Teach the edge-first strategy explicitly: "Puzzle experts start with edges because edge pieces have a flat side — that's a clue about where they go: the border." Practice mental rotation verbally: "Before you pick it up — in your mind, rotate it. Now try." Name all five vocabulary words during play. Introduce a second puzzle and mix both, asking them to sort by which puzzle each piece belongs to before solving either. This develops the spatial reasoning skill of categorization by shape features. Duration: 15-20 minutes.
 
 ### Extension Ideas
 

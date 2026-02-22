@@ -14,6 +14,20 @@ Endurance and cardiovascular games introduce young children to sustained, rhythm
 
 **Space Required**: Large open area (20x20 feet minimum for group play, 10x10 feet for individual)
 
+## Vocabulary
+
+**Cardiovascular system**: The body's transport network — the heart, blood vessels (arteries, veins, capillaries), and blood working together to deliver oxygen and nutrients to every cell and carry away waste. "Cardio" comes from Greek *kardia* (heart); "vascular" from Latin *vascularis* (vessel).
+
+**Heart rate**: How many times the heart beats per minute. A resting heart rate for adults is around 60-100 bpm; for toddlers, it's naturally higher — around 80-130 bpm at rest. During vigorous exercise, a young child's heart rate can reach 180-200 bpm. You can feel your heartbeat by pressing two fingers gently against your neck or wrist — that's the pulse.
+
+**Aerobic**: Exercise that requires oxygen to sustain. "Aerobic" literally means "with oxygen." During aerobic activity, your muscles use oxygen (delivered by the cardiovascular system) to burn fuel. Jogging, walking briskly, and dancing are aerobic activities. Aerobic exercise strengthens the heart muscle itself — like any muscle, it gets stronger with regular use.
+
+**Endurance**: The ability to sustain physical activity over time without exhaustion. Endurance improves as the heart becomes more efficient — pumping more blood per beat (called *stroke volume*), so it doesn't need to beat as many times per minute to deliver the same amount of oxygen. That's why fit people have lower resting heart rates.
+
+**Vasodilation**: When blood vessels widen to allow more blood to flow through. During exercise, blood vessels in active muscles dilate to supply more oxygen. This is why your face gets red during exercise — more blood is flowing near the skin surface, partly to cool the body.
+
+**Lactic acid**: A substance produced by muscles when they work faster than oxygen can be delivered. It causes the "burning" feeling in muscles during intense effort. During cool-down, blood continues circulating and clears lactic acid from muscles — which is why a proper cool-down reduces soreness.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -79,10 +93,9 @@ Endurance and cardiovascular games introduce young children to sustained, rhythm
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain that today is about moving for longer periods, like running and playing games that make our hearts strong
-- Show simple sustained movement: "Watch me jog in place... see how I keep moving?"
-- Demonstrate taking breaks: "When you need a rest, that's okay! We'll do it together."
-- Key coaching point: "We're going to move for a little while, then rest, then move again. This helps our hearts get stronger!"
+- Introduce the cardiovascular system: "Your heart is a muscle — it pumps blood through your whole body, delivering oxygen to your arms, legs, and brain. When you run, your muscles need more oxygen, so your heart beats faster." Let them feel their own resting heartbeat by pressing two fingers to the side of their neck.
+- Do 20 seconds of jumping in place, then feel the heartbeat again: "Feel that? It's faster now — your heart is pumping more blood because your muscles asked for more oxygen."
+- Key coaching point: "Every time we exercise, we're training the heart muscle. A stronger heart pumps more blood with each beat, so it doesn't have to beat as often. That's what endurance means."
 
 #### Skill Practice (3-6 minutes)
 
@@ -92,10 +105,11 @@ Endurance and cardiovascular games introduce young children to sustained, rhythm
 - **Recognizing body signals**: Learning to notice when they're breathing hard and when they need rest
 
 **Coaching cues**:
-- "Keep your feet moving!"
-- "Nice steady pace - not too fast, not too slow"
-- "I can see you're working hard! Your heart is getting strong!"
-- "Stay with me - we've got a little bit more!"
+- "Keep your feet moving — your heart is delivering oxygen!"
+- "Nice steady aerobic pace — your cardiovascular system is working hard."
+- "Feel your face getting warm? That's vasodilation — blood vessels near the skin widening to cool you down."
+- "Breathe in through your nose — that's oxygen for your muscles. Out through your mouth."
+- "Almost time for rest — when we slow down, your heart rate will drop back toward normal. That's recovery."
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -160,25 +174,24 @@ Allow children to move freely around the space at their own pace - running, walk
 **Purpose**: Gradually lowers heart rate, transitions from high energy to calm, prevents dizziness, and helps children transition mentally to the next activity.
 
 **Cool-down activities**:
-1. **Slow walking** - Walk around the space very slowly, taking deep, deliberate steps. Narrate: "Let's slow down our bodies... walk like we're moving through honey..."
-2. **Deep breathing with movement** - As children walk, have them breathe in for 4 counts while raising arms, breathe out for 4 counts while lowering arms. "Breathe in through your nose... out through your mouth..."
-3. **Gentle stretching** - Sit or stand and do very gentle stretches: reach one arm overhead, bend forward slightly, rotate shoulders. Keep it simple and playful. "Reach like you're picking stars!"
+1. **Slow walking** - Walk around the space very slowly. Explain: "We don't stop suddenly — we cool down gradually so our heart can slow down safely and blood doesn't pool in our legs."
+2. **Deep breathing** - "In through the nose, out through the mouth. Breathing deeply helps deliver more oxygen and clear lactic acid — the substance muscles make when they work really hard." Breathe in for 4 counts, out for 4 counts.
+3. **Gentle stretching** - Sit and stretch quads, hamstrings, calves. "We're stretching the muscles that worked hardest. Stretching when warm (not cold) helps keep muscles flexible."
 
 **Transition**:
-- "Your heart is getting slower now... breathe deeply... we're going to sit/rest soon"
-- If moving to next activity: "Our bodies are calm now. Let's [next activity - story time, snack, etc.]"
+- "Feel your heartbeat — is it slower than after we ran? That's your cardiovascular system recovering."
+- Feel the pulse together and compare to their jumping-jack pulse: a real, observable demonstration of heart rate change.
 
 ## Age Adaptations
 
 ### 2-3 years
 
 **Modifications**:
-- Use much shorter bursts of activity: 20-30 seconds of movement followed by rest
-- Provide more frequent breaks (rest every 1-2 minutes)
-- Stick to simple, continuous movements (marching, gentle jogging in place) rather than complex games
-- Keep movements low-impact; focus on walking at varied speeds rather than actual running
-- Use more verbal encouragement and celebration
-- May need adult hand-holding during some activities to provide confidence and pacing
+- Use 20-30 second movement bursts followed by rest
+- After each burst, feel heartbeat together: "Is it fast? That's your heart working!" This makes the physiology tangible and observable
+- Keep movements low-impact (marching, brisk walking) rather than running — the cardiovascular benefit is still real
+- Introduce the word "cardiovascular" once: "This is cardiovascular exercise — it makes our hearts strong"
+- May need adult hand-holding for confidence and pacing
 
 **Duration**: 5-10 minutes total (very short activity periods)
 
