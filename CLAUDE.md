@@ -94,7 +94,7 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 - Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
 
 ### Intellectual Rigor Audit
-Existing lesson plans are being audited in batches against the above philosophy. Audit progress, results, and fixes are tracked in **[`docs/lesson-audit-tracker.md`](docs/lesson-audit-tracker.md)**. When auditing or generating new lessons, consult the tracker to avoid duplicating work.
+Existing lesson plans are being audited in batches against the above philosophy. Audit progress, results, and fixes are tracked in **[`docs/lesson-audit-tracker.md`](docs/lesson-audit-tracker.md)**.
 
 **Selecting lessons to audit**: Use `select-audit-batch.py` to automatically identify unaudited lessons and pick a random batch:
 ```bash
@@ -102,13 +102,27 @@ python select-audit-batch.py          # 25 random unaudited lessons (default)
 python select-audit-batch.py 10       # custom batch size
 python select-audit-batch.py --all    # list all remaining unaudited lessons
 ```
-The script parses the audit tracker to determine what's already been reviewed, compares against all lesson plan files on disk, and outputs file paths ready to copy-paste into subagent prompts.
+The script parses the audit tracker to determine what's already been reviewed, compares against all lesson plan files on disk, and outputs file paths ready to copy-paste into subagent prompts. Rely on this script to avoid duplicating work — **do not read the audit tracker file** (it is very large and wastes context tokens).
 
 **Audit workflow (when doing audits directly, not via subagents)**: Read and fix lessons **one at a time** rather than reading all lessons in the batch first. Reading all files upfront consumes too much context. The better pattern is:
 1. Run `select-audit-batch.py` to get the batch list
 2. Read the first lesson, assess it, fix it if needed
 3. Move to the next lesson — read, assess, fix
-4. After all lessons are done, update the tracker in one pass
+4. After all lessons are done, **append** results to `docs/lesson-audit-tracker.md` — do NOT read the file first, just append
+
+**Tracker append format**: Add a new batch heading and results table at the end of the file. Use this exact format:
+```markdown
+
+### Batch N (YYYY-MM-DD) - X Lessons
+
+| Lesson | Queue | Verdict | Issues Found | Fixed |
+|--------|-------|---------|-------------|-------|
+| Lesson Name | Knowledge or Physical | PASS, FAIL -> FIXED, or FAIL | Brief description of issues (or "Uses real terminology..." for PASS) | Brief description of fixes applied (or N/A for PASS) |
+```
+- **Batch N**: Increment from the last batch number. If unsure, use a high number or descriptive label — it will be corrected later.
+- **Verdict values**: `PASS` (already rigorous), `FAIL -> FIXED` (had issues, now fixed), `FAIL` (issues found but not fixable in this session)
+- **Issues Found**: For FAIL, describe what was wrong (missing vocabulary, no real science, etc.). For PASS, briefly note why it passed.
+- **Fixed**: For FAIL -> FIXED, describe what was changed. For PASS, write `N/A`.
 
 Common patterns found in dumbed-down lessons:
 - Vocabulary that uses only everyday words (e.g., "technology," "device") instead of real technical terms (e.g., "circuit," "sensor," "processor")
