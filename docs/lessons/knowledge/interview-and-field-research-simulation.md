@@ -1,18 +1,20 @@
-# 📚 KNOWLEDGE, SKILLS & CULTURE: Interview and Field Research Simulation
+# KNOWLEDGE, SKILLS & CULTURE: Interview and Field Research Simulation
 
-## 🎯 Activity Summary
+## Activity Summary
 
-Children become young researchers and investigators, conducting simple "interviews" and collecting information from their environment using age-appropriate research methods. Kids practice asking questions, listening carefully, and recording observations through drawing, photos, or simple notes—developing early inquiry skills, communication abilities, and curiosity about the world while building confidence as learners.
+Children practice real research methodology: forming a research question, choosing a data collection method, conducting structured interviews or field observations, and analyzing what they found. They learn the difference between open and closed questions, discover that the same question asked differently produces different answers, and practice treating their observations as data — information to be recorded, compared, and interpreted. This is how journalists, scientists, historians, and anthropologists actually work.
 
 ## Vocabulary
 
-**Investigate**: To look closely at something and ask questions to learn more about it. When you investigate, you're being a scientist or detective trying to discover new information (like watching how a butterfly moves or asking a friend what they like to eat).
+**Research question**: The specific thing you're trying to find out — the question that drives your entire investigation. Good research questions are not yes/no; they open up possibilities. You might say, "Our research question is: what do the people in our family find most challenging about mornings?"
 
-**Observe**: To watch and pay careful attention to what you see, hear, and notice without trying to change anything. Observing means using your eyes, ears, and other senses to learn about something (like noticing that a plant grows toward the window or listening to bird sounds in the park).
+**Primary source**: Information you get directly from the original source — an eyewitness account, a live interview, your own observation. Contrast with a secondary source (a book written by someone who wasn't there). You might say, "Asking grandma about her childhood is primary source research — she was there."
 
-**Interview**: To ask someone questions and listen to their answers to learn about their ideas, experiences, or preferences. An interview is like having a special conversation where you're curious to discover what someone thinks or knows (like asking grandma about her favorite childhood game).
+**Open question**: A question that invites explanation and can't be answered with just yes or no. Open questions produce richer data. "What do you like about the park?" is open. "Do you like the park?" is closed — it stops the conversation. You might say, "Open questions give you much more to learn from."
 
-**Research**: The careful work of asking questions, collecting information, and looking for answers to discover something new or learn more. Research is how scientists, historians, and curious people learn about the world (like finding out what animals live in the garden or what your family likes to do together).
+**Data**: The information you collect during research — observations, answers, measurements, descriptions. Field researchers record data in field notes so they can study it later. You might say, "Your drawing of what you saw is data — it captures information for later."
+
+**Bias**: When a question or observation is shaped by what the researcher already thinks or wants to find. A biased question leads the interviewee: "Don't you love dogs?" is biased. "What do you think about dogs?" is neutral. You might say, "We try to ask questions that don't tell people what answer we expect."
 
 ## 🎵 Learning Song
 
@@ -94,42 +96,54 @@ Children will practice the research and investigation skills that scientists, jo
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   - Say: "Today we're going to be researchers and investigators, just like people who ask questions and learn about the world!"
-   - Show the notebook/clipboard and explain: "These are our research tools"
-   - Demonstrate asking one simple question aloud and how you'll record the answer
-   - Ask: "What would you like to learn about today?"
+1. **Step 1 — Form the Research Question** (3-4 min):
+   Begin not with "let's ask questions" but with "what are we trying to find out?" Say: "Researchers always start with a research question. It's the thing they don't know yet and want to discover. Our research question can't be answered by just looking something up — we have to go find it ourselves."
 
-2. **Exploration** (5-10 min):
-   - Examine the notebook, pencils, and questions together
-   - If observing nature, walk around and discuss what they notice: "What do you see? What looks interesting?"
-   - Ask the first prepared question to the interview subject
-   - Child listens carefully to the response
-   - Child records the answer by drawing, writing, pointing at photos, or making marks
-   - Move through 3-4 prepared questions at a comfortable pace
-   - Offer prompts like "That's interesting! Can you tell me more?" or "What made you choose that?"
+   Choose a question together. Examples that work well:
+   - "What parts of the day do the people in our house find hardest or easiest?"
+   - "What's outside our window and how does it change throughout the day?"
+   - "What do different family members remember about being young?"
 
-3. **Discovery** (3-5 min):
-   - Switch roles: "Now you ask me questions!"
-   - Let child explore answers that surprised or interested them
-   - Continue observing and recording following the child's curiosity
-   - Ask open-ended questions: "You noticed that—what else do you see?"
-   - Celebrate observations: "Great watching!"
+   Write or draw the research question at the top of the notebook. Say: "This is what our whole research project is about. Every question we ask and every observation we make is trying to answer this."
 
-4. **Wrap-up** (2-3 min):
-   - Review the notebook together: "Look what we discovered!"
-   - Ask: "What was the most interesting thing we learned?"
-   - Share findings with others: "Let's tell [family member] what we researched"
-   - Celebrate as researchers: "You did great research today!"
-   - Help organize and put away materials
+2. **Step 2 — Open vs. Closed Questions** (3-5 min):
+   Demonstrate the difference. Ask the same thing two ways:
+   - Closed: "Do you have a favorite part of the day?" (Answer: Yes/No — conversation stops)
+   - Open: "What's your favorite part of the day and why?" (Answer: explanation, story, details)
+
+   Say: "See how the open question gives us so much more to learn from? Researchers use open questions on purpose." Let the child try: "Can you make a closed question open?"
+
+   Also demonstrate biased vs. neutral: "Isn't the morning the worst time?" vs. "What do you think about mornings?" Say: "If we already tell people what to answer, we won't learn what they actually think."
+
+3. **Step 3 — Conduct the Interview** (8-12 min):
+   Have the child conduct 3-4 open questions with a willing family member or stuffed animal. Before each question, check: "Is this an open question? Is it neutral?"
+
+   The child draws or narrates their record of each answer in the field notebook. Teach basic field-note habits:
+   - Write/draw the answer right away (not from memory later)
+   - Include surprising or unexpected details
+   - Write down exact words if possible ("He said 'the hardest part is getting up'")
+
+   After each answer, prompt: "Is there anything you want to know more about? Ask a follow-up." This teaches iterative questioning — one answer generates the next question.
+
+4. **Step 4 — Analyze the Data** (3-5 min):
+   Review the field notebook together. Ask:
+   - "What patterns did you notice? Did any answers surprise you?"
+   - "Did everyone answer the same way, or differently?"
+   - "Did you find the answer to our research question?"
+   - "What new questions do you have now that you've gathered data?"
+
+   Say: "Real researchers always end with more questions than they started with. That's normal — finding one answer opens up three more questions. That's how knowledge grows."
+
+5. **Wrap-Up — Share Findings** (2-3 min):
+   Share the findings with someone not involved in the research. Have the child explain the research question, how they found information, and what they learned. Frame it: "You just did primary source research — you went directly to the source and collected information yourself."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep observations simple and short. Use one-word or very simple questions like "What color?" "What sound?" or "What's soft?" Record through photos, pointing, or simple marks rather than writing. Focus on what the child notices themselves. Keep sessions to 5-8 minutes of active observation, celebrate every discovery, and use simple language like "You saw the bird! It's flying!"
+Simplify to field observation rather than interview. Go outside or look out a window and ask: "What do you see? What do you hear?" The research question becomes: "What lives in our yard?" Record by pointing at things, taking photos, or drawing a single observation. Narrate for them: "You just observed a worm. Let's draw it in our field notebook. That's your data — information you collected." The core concept to land: we look carefully and write down what we find.
 
 **3-4+ years**:
-Introduce more complex questions and let children ask some with your support. Add simple note-taking or mapping activities. Allow interviews with multiple people and longer nature observations. Record findings in multiple ways (words and pictures together). Create simple charts like "Everyone likes..." and compare different people's answers. These children may engage 20-25 minutes or longer.
+Do the full protocol. Introduce the concept of bias explicitly — make it a game where you ask the same question a biased way and a neutral way and notice how the interviewee answers differently. Add a comparison: interview two different people and look for patterns or differences in their answers. This introduces the core idea that more data gives more reliable conclusions.
 
 ### Extension Ideas
 
