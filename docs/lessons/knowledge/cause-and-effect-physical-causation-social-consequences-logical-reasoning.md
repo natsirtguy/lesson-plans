@@ -10,9 +10,15 @@ Children explore the relationship between actions and consequences through hands
 
 **Effect**: What happens as a result of a cause; the outcome or change that follows an action. When you drop a ball, the bouncing is the effect.
 
-**Consequence**: The result or outcome of an action, especially used when describing social or emotional results. If you share toys, the consequence is that friends want to play with you more.
+**Force**: A push or pull that makes objects move, change direction, or stop. Force is the mechanism behind most physical cause-and-effect relationships — when you push a car, your hand applies a force that makes it roll.
 
-**Predict**: To think ahead about what might happen before it actually occurs based on patterns you've noticed. You can predict that if you push a toy car, it will roll across the floor.
+**Energy transfer**: When energy moves from one object to another. In a domino chain, your finger gives energy to the first domino, which passes it to the next, and so on — the same energy travels all the way down the line.
+
+**Variable**: One thing that changes in an experiment. If you want to find out whether pushing harder makes a car go faster, the push strength is the variable — you change only that and watch what happens.
+
+**Predict**: To think ahead about what might happen before it actually occurs based on patterns you've noticed. Scientists always predict before they test — it forces you to think about causes before seeing effects.
+
+**Consequence**: The result or outcome of an action, especially used when describing social or emotional results. If you share toys, the consequence is that friends want to play with you more.
 
 ## Learning Song
 
@@ -103,24 +109,27 @@ Children engage in a series of discovery stations where they cause changes in th
 2. **Exploration** (10-12 min):
    Move through stations, spending 2-3 minutes at each:
 
-   **Station 1: Push & Roll**
+   **Station 1: Push & Roll — Force as cause**
    - Give child a toy car or ball
-   - Ask: "What happens if you push it gently?" (It rolls slowly)
-   - Ask: "What happens if you push it hard?" (It rolls fast)
-   - Use language: "Your push was the CAUSE. The car rolling was the EFFECT."
+   - Ask: "What happens if you push it gently?" (It rolls slowly) "What happens if you push it hard?" (It rolls fast)
+   - Introduce the mechanism: "When you push, you apply a force — an invisible push that moves things. More force means more movement. Less force means less movement. Your hand is the cause; your hand's force is why it moves."
+   - Change the variable: "What happens if we push from the side instead of straight? Now the direction changes because the force came from a different direction."
+   - Use language: "Force is the cause. Movement is the effect."
 
-   **Station 2: Drop & Fall**
+   **Station 2: Drop & Fall — Gravity is always the cause**
    - Use balls of different weights
    - Drop from different heights
-   - Ask: "What always happens when you let go?" (It falls)
-   - Introduce the pattern: "You let go (cause) → it falls (effect)"
+   - Ask: "What always happens when you let go? Why?" (Gravity — the force that pulls everything toward Earth)
+   - Introduce gravity as the named mechanism: "Gravity is pulling the ball down. It's always there, pulling on everything. When you hold the ball, you're fighting gravity. When you let go, gravity wins."
+   - Test: does a heavy ball fall faster than a light one? (They fall at the same rate — Galileo discovered this! The feather falls slower only because of air, not gravity.)
+   - Pattern: "You let go (cause) → gravity pulls it down (the mechanism) → it falls (effect)"
 
-   **Station 3: Chain Reaction**
+   **Station 3: Chain Reaction — Energy transfer**
    - Set up dominoes in a line or blocks to topple
-   - Child pushes first domino
-   - Watch the chain reaction
+   - Child pushes first domino; watch the chain reaction
    - Count: "One, two, three... all fell down!"
-   - Explain: "You knocked over this one (cause). That knocked over that one. That knocked over another. All connected!"
+   - Explain the mechanism: "When you pushed the first domino, you gave it energy — you transferred energy from your hand into that domino. It fell and hit the next one, transferring that energy to the next, and the next. Your one little push started a chain — energy traveled all the way down the line."
+   - Ask: "What would happen if we left a gap in the chain?" (Chain stops — energy can't jump the gap) Test it.
 
    **Station 4: Sound & Movement**
    - Ring bells, shake noisemakers
@@ -173,13 +182,16 @@ Act out scenarios with dolls or puppets:
 - Doll shares toy (cause) → Other doll is happy (effect)
 - Doll takes toy (cause) → Other doll is sad (effect)
 - Doll helps friend (cause) → Friend wants to play together (effect)
-Ask: "What was the cause? What was the effect?"
+Ask: "What was the cause? What was the effect?" Then ask the harder question: "Why did sharing make the friend happy? What was the mechanism?" (They felt cared for, which creates happy feelings)
+
+**Variation 3 - Controlled experiments (changing one variable)**:
+Roll a toy car down a ramp. Then change exactly one thing: make the ramp steeper, or use a heavier car, or put something in the car's path. Ask: "What changed? What stayed the same?" This teaches that to understand a cause, you should only change one variable at a time — otherwise you can't tell which change caused the effect.
 
 **Repeat play**:
 - Change the materials (use different balls, ramps, block heights)
 - Create more complex domino/block chains as child's understanding grows
 - Let child set up their own cause-effect experiments and you guess what will happen
-- Play "prediction games": "I'm going to drop this feather and this rock. What will happen? Why?"
+- Play "prediction games": "I'm going to drop this feather and this rock. What will happen? Why?" (Galileo tested this from the Tower of Pisa — both hit at the same time when there's no air resistance)
 
 ## Parent/Caregiver Notes
 

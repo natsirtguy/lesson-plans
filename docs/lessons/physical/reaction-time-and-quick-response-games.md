@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Reaction time and quick response games teach children to listen carefully, watch for signals, and move their bodies quickly in response to visual or auditory cues. These activities develop coordination, attention skills, and the ability to control impulsive movements. Perfect for building core strength and balance while having fun with responsive movement.
+Reaction time and quick response games explore one of the body's most measurable skills: how fast a signal travels from the outside world, through your nerves and brain, and back out to your muscles. Average human reaction time to a visual stimulus is about 250 milliseconds (a quarter of a second); to a sound, it's faster — about 170 milliseconds — because the auditory pathway to the brain is shorter. Through play-based signal-response games, children experience their own reaction times, learn what slows them down (distraction, tiredness), and discover that practice literally changes how their brain processes signals. These activities build coordination, attention, and the neural pathways that make skilled movement possible.
 
 **Activity Type**: Motor skill development
 
@@ -74,23 +74,27 @@ Reaction time and quick response games teach children to listen carefully, watch
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Show the child(ren) that you will make a signal (whistle, clap, or verbal cue)
-- Demonstrate the response movement slowly and clearly
-- Explain: "When you hear the sound/see my signal, quickly do this movement!"
-- Practice the signal together once or twice at a slow pace before speeding up
+- Explain what reaction time is: "When I make a signal, your eyes or ears pick it up and send a message through your nerves to your brain. Your brain figures out what it means and sends a message back down through different nerves to your muscles. That whole journey takes about a quarter of a second — that's reaction time."
+- Make it tangible: "Your nerves are like electrical wires inside your body. The signal travels along them at up to 70 meters per second — faster than a car on the highway!"
+- Test: Can you catch a dropping ruler? Hold a ruler vertically and drop it without warning — have the child catch it. "The distance it falls before you catch it shows how fast your brain reacted."
+- Sound vs. sight: "We're going to play with both sounds and visual signals today. Sound signals are often a little faster to react to — your ears send signals to your brain along a slightly shorter pathway than your eyes. Try both and see if you notice a difference."
+- Demonstrate the response movement clearly, then practice the signal-response pair once at slow pace before full speed
 
 #### Skill Practice (3-5 minutes)
 
 **Skill breakdown**:
-- **Listening/watching**: Child focuses on the adult for a signal
-- **Processing**: Child's brain recognizes the signal and identifies which movement to do
-- **Motor response**: Child's body quickly performs the movement with control
+- **Detection**: Sensory organs (eyes, ears) pick up the signal and convert it to electrical impulses
+- **Transmission**: Nerves carry the impulse to the brain at up to 70m/second
+- **Processing**: Brain identifies the signal ("that's the whistle — jump!") and selects the motor response
+- **Motor command**: Brain sends a signal back down to the muscles
+- **Movement**: Muscles contract and the body moves — this is the part you can see
 
 **Coaching cues**:
-- "Listen carefully for the whistle!"
-- "When you hear the sound, move as fast as you can!"
-- "Freeze when I clap - stay still and balanced!"
-- "Great listening! You moved so quickly!"
+- "Eyes on me — your brain needs to see the signal before it can react!"
+- "Notice: are you faster with the whistle sound or when you see my hand signal? Sound often wins — your auditory nerve is shorter than your visual pathway"
+- "Freeze when I clap — your brain is stopping the motor command mid-movement, that's hard!"
+- "Getting faster! That's your brain building a stronger pathway — practice really does rewire your neurons!"
+- "Notice when you're not paying attention — slower reaction, right? Your brain needs focus to react fast"
 
 #### Guided Play/Game (4-7 minutes)
 
@@ -167,6 +171,7 @@ Reaction time and quick response games teach children to listen carefully, watch
 Let the child experiment with making their own signals and movements.
 - "Can you make a sound and show me a movement that goes with it?"
 - "You choose the signal - clap, stomp, or say a word - and I'll do a movement!"
+- Ruler drop test revisited: try it again after the session. Did they get faster? "Your brain built a slightly stronger connection while we practiced — that's literally how learning works in your neurons."
 - Observe their creativity and understanding of the signal-response concept
 
 ### Cool-Down (2-3 minutes)
