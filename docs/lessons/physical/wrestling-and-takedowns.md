@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Wrestling and takedowns introduce young children to grappling, controlled physical contact, balance challenges, and body awareness through play-based wrestling games and movement activities. This activity builds core strength, spatial awareness, bilateral coordination, and teaches appropriate physical boundaries and consent. It's beneficial for developing confidence in physical contact, problem-solving through movement, and learning to use leverage rather than strength.
+Wrestling and takedowns introduce young children to one of humanity's oldest sports — wrestling appeared in the ancient Egyptian and Greek Olympics over 3,000 years ago. Through play-based grappling games, children explore the real physics of balance and leverage: why a wide, low stance is harder to tip, how to move someone larger using body position rather than raw strength, and where their own center of gravity is. This builds core strength, spatial awareness, and teaches the key insight of all combat sports — leverage beats muscle.
 
 **Activity Type**: Sport-based / Combat Sport
 
@@ -78,27 +78,29 @@ Wrestling and takedowns introduce young children to grappling, controlled physic
 ### Main Activity (8-13 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain that wrestling is controlled grappling, not fighting
-- Demonstrate the basic wrestling stance: feet shoulder-width apart, low center of gravity
+- Explain that wrestling is one of the oldest sports in human history — ancient Egyptians and Greeks competed in wrestling over 3,000 years ago, and it's been in every modern Olympics since 1896
+- Demonstrate the basic wrestling stance: feet shoulder-width apart, knees bent, hips low
+- Explain the physics: "Your center of gravity is the point where your weight is balanced — it's roughly in the middle of your belly. When you lower your center of gravity by bending your knees, you become harder to tip over. And your base of support — the area between your feet — gets wider when you spread your legs. Wider base + lower center of gravity = much harder to knock over"
+- Demonstrate: stand straight and narrow vs. wrestling stance — which is easier to push? Let them try pushing you in both positions
 - Show the "tap out" signal for stopping holds (gentle tapping)
-- Explain the rules around safe contact and boundaries
+- Explain that in wrestling, technique and position beat raw strength — that's the whole art of it
 
 #### Skill Practice (3-4 minutes)
 
 **Skill breakdown**:
-1. **Stance**: Low, balanced position with feet apart, ready to move
-2. **Control holds**: Gentle arm holds, hand-to-hand contact without joint pressure
-3. **Balance and stability**: Core engagement, maintaining position
-4. **Safe falling and rolling**: Landing safely on mat without tension
-5. **Leverage**: Using position rather than strength to manage movement
+1. **Stance**: Low, balanced position with feet apart — center of gravity dropped, base of support widened
+2. **Center of gravity**: Where your body's weight is balanced. Ask: "Where do you feel heaviest? That's near your center of gravity. Lower it by bending your knees!"
+3. **Leverage**: Using body position to multiply force. A small child can unbalance a bigger person by getting low and pushing at their hips — that's leverage. "You don't need to be stronger, just smarter about where you push."
+4. **Safe falling**: Learning to absorb falls by rolling rather than catching yourself with stiff arms (which can injure wrists)
+5. **Control holds**: Gentle arm holds, hand-to-hand contact without joint pressure
 
 **Coaching cues**:
-- "Get low and balanced like a wrestler"
-- "Hold gently - we're playing, not fighting"
-- "Use your hands and arms to control, not force"
+- "Get low — lower center of gravity! Wider stance — bigger base of support!"
+- "Push at their hips, not their chest — closer to their center of gravity. That's leverage!"
+- "Hold gently — we're using technique, not force"
 - "When someone taps, let go immediately"
-- "Roll smoothly onto the mat - nice and easy"
-- "Great job being strong AND being gentle"
+- "Tuck your chin when you fall, roll like a ball — spread the impact"
+- "Great job — you used position, not just strength!"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -112,12 +114,12 @@ Wrestling and takedowns introduce young children to grappling, controlled physic
 5. Tell an adult if something hurts
 
 **Variations**:
-- King of the Mat: Child holds their balance while adult gently tries to move them
-- Sumo Stance: Push against opponent with hands and arms, maintain ground contact (not aggressive pushing)
-- Grapple Tag: Child tries to reach a "safe zone" while adult provides friendly resistance
-- Roll Race: Children roll across mat in controlled manner
-- Partner Pin: Child tries to hold partner in place with gentle control (not pinning aggressively)
-- Takedown Practice: Adult demonstrates safe takedown with child, showing how to fall safely
+- King of the Mat: Child holds their balance while adult gently tries to move them. Teach them to keep their center of gravity low — "Bend your knees! Wide stance! Make yourself hard to tip!"
+- Sumo Stance: Push against opponent with hands and arms, maintain ground contact. Before starting: "Sumo wrestlers weigh 300+ pounds but still need technique — they train for years to learn balance and leverage. You're using the same principles."
+- Grapple Tag: Child tries to reach a "safe zone" while adult provides friendly resistance. Ask: "How can you get past me using movement rather than just running harder?"
+- Roll Race: Children roll across mat in controlled manner, practicing tucking chin and spreading impact
+- Center of Gravity Test: Stand normally and let the adult push gently on your shoulder — notice how easy it is. Then drop into wrestling stance — much harder. "That's why wrestlers get low."
+- Takedown Practice: Adult demonstrates safe takedown with child, showing how to fall safely (roll, don't crash)
 
 **Turn-taking** (if applicable): Multiple children take turns with adult partner; waiting children practice balance stances
 

@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Water polo and pool games introduce young children to aquatic play, water confidence, and cooperative water-based activities in a safe, age-appropriate format. Rather than formal water polo rules, these games emphasize floating, moving in water, basic ball handling, and teamwork in the shallow end or water play area. This activity builds water safety awareness, builds upper body and core strength, increases breath control confidence, and fosters comfort and joy in aquatic environments.
+Water polo and pool games introduce young children to aquatic play and the real physics of water. Real water polo is an Olympic sport (since 1900) where players tread water continuously — there's no standing allowed, even in goals. The adapted version here uses shallow water, but builds the same physical awareness: why things float (buoyancy), why moving in water takes more effort than moving on land (water is 800 times denser than air), and how your body can use the water to hold you up. This activity builds water confidence, upper body strength, breath control, and genuine understanding of why water behaves the way it does.
 
 **Activity Type**: Aquatic sports
 
@@ -85,24 +85,26 @@ Water polo and pool games introduce young children to aquatic play, water confid
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Show the foam ball floating on water: "This is our water polo ball - it floats!"
-- Demonstrate a gentle throw across the water: "We throw it to friends and try to get it to the goal zone."
-- Point to goal zones: "We're trying to move the ball to our goal to score!"
-- Key coaching point: "In water, we move slowly and carefully. Let's have fun together!"
+- Show the foam ball floating on water. Ask: "Why does the ball float?" Explain: "Buoyancy — the water pushes up on the ball with a force equal to the weight of the water the ball displaced. The foam ball is less dense than water, so the upward push is stronger than gravity pulling it down. It floats!"
+- Push the ball underwater and let go — it pops up. "Feel that? The water is pushing it back up. That upward force is called buoyancy. Archimedes figured this out over 2,000 years ago by getting into his bathtub."
+- Move your arm slowly through the water, then quickly. "Water is 800 times denser than air — that's why moving fast in water is so much harder than moving fast on land. Real water polo players swim for an hour with no breaks; they're some of the fittest athletes in the world."
+- Demonstrate a gentle throw across the water: "We throw the ball and try to get it to the goal zone."
+- Real water polo fact: "In real water polo, players aren't allowed to stand on the bottom — they tread water the entire game, even while guarding the goal."
 
 #### Skill Practice (3-5 minutes)
 
 **Skill breakdown**:
-- **Water movement**: Walking, gliding, and basic kicking in water
+- **Water movement**: Walking, gliding, and basic kicking in water — notice how you need more effort than on land (density difference)
+- **Buoyancy awareness**: Try to stand still and feel the water holding you up. Try sinking — exhale all your air and feel yourself go lower (lungs act like a built-in life jacket)
 - **Ball handling in water**: Catching a floating ball, holding it while moving, releasing it to pass
-- **Throwing in water**: Underhand and overhand passes (gentler than on land due to buoyancy)
-- **Basic floating**: Holding onto ball or adult and staying afloat while stationary
+- **Throwing in water**: Underhand and overhand passes — throwing is harder in water because your body needs to brace against the resistance
+- **Basic floating**: Full lungs = float, empty lungs = sink. This is a real physics experiment children can try in shallow water with adult support
 
 **Coaching cues**:
-- "Walk slowly in the water - nice and easy"
-- "When you hold the ball, keep it close to your body"
-- "Watch where your friend is - throw the ball to them gently"
-- "Great job staying safe in the water!"
+- "Walk slowly — feel how the water pushes back against your legs? That's resistance — water is 800 times denser than air!"
+- "Take a deep breath and try to float — your lungs full of air make you less dense than water. That's why you float when you breathe in!"
+- "When you hold the ball, feel the buoyancy — it wants to pop up. Squeeze it to feel the force of water pushing it back up."
+- "Watch where your friend is — throw gently. Your arm has to push through water resistance to make that throw."
 
 #### Guided Play/Game (5-7 minutes)
 
