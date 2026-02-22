@@ -6,6 +6,18 @@ Hockey introduces young children to stick handling, coordination, and basic team
 
 **Activity Type**: Team Sport / Motor Skill Development
 
+## Vocabulary
+
+**Stick handling**: The skill of controlling the puck or ball with your stick while moving. Real hockey players practice stick handling thousands of times until it becomes automatic — they don't need to look at the puck because their hands "know" where it is. This is called *proprioception*: your body's ability to sense where its own parts are without looking.
+
+**Dribbling**: In field hockey, moving the ball forward with small, controlled taps of the stick while running. Each tap is a moment of contact, then release, then contact again. This is harder than it sounds because you have to coordinate your feet, eyes, and stick all at once — a classic multi-limb coordination challenge.
+
+**Friction**: The force that slows things down when they slide across a surface. This is why ice hockey and field hockey feel completely different: ice has almost no friction (a puck can slide 100 feet), while grass has high friction (a ball slows quickly and must be actively pushed). Ice players use metal blades that create a thin film of water, reducing friction further.
+
+**Center of gravity**: The point where an object's weight is balanced in all directions. Hockey players crouch low to lower their center of gravity, which makes them more stable and harder to knock over. Stand straight and someone can push you over easily; crouch and bend your knees, and you're much more stable. This is basic physics applied to the human body.
+
+**Ice hockey vs. field hockey**: Two different sports using the same basic concept — a stick and a goal — but with key differences. *Ice hockey* uses a hard rubber puck (a flat disk) on a frozen ice surface; players wear skates and can move extremely fast. *Field hockey* uses a round ball on grass; the stick is curved and players hit the ball with only the flat side. Field hockey is one of the world's oldest team sports, played for over 4,000 years.
+
 **Duration**: 12-20 minutes (with natural breaks)
 
 **Energy Level**: High
@@ -84,10 +96,10 @@ Hockey introduces young children to stick handling, coordination, and basic team
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show children the hockey stick and soft puck/ball
-- Demonstrate how to hold the stick with both hands (like holding a broom)
+- Show children the hockey stick and soft puck/ball. Ask: "Why is a hockey stick curved at the bottom? So you can push and control the ball while standing upright — if it were straight, you'd have to bend down to reach the ball."
+- Demonstrate how to hold the stick with both hands (like holding a broom). Explain: "Hockey players crouch down low — like this. Your body is more stable when you're low. Try to push me over when I'm standing straight (gentle push). Now try when I'm crouched! Much harder — that's your center of gravity."
 - Model a gentle stick-ball contact (don't need to hit hard)
-- Explain: "We're going to use these sticks to push the ball toward the goal. Everyone gets a turn!"
+- Explain the ice vs. field difference: "Today we're playing field hockey — on grass or the floor. Ice hockey players use skates and go much faster because ice has almost no friction. Feel the floor — it has *more* friction, so our ball slows down faster."
 
 #### Skill Practice (3-5 minutes)
 **Skill breakdown**:

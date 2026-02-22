@@ -6,13 +6,15 @@ Children learn that disagreements are normal and that there are helpful ways to 
 
 ## Vocabulary
 
-**Problem**: A situation where two people want different things or one person has hurt another's feelings. Example: When two children want the same toy, they have a problem that needs solving.
+**Conflict**: A disagreement between two or more people who have different wants, needs, or feelings. Conflicts are normal and happen in every relationship — even between people who love each other very much. What matters is not avoiding conflict but resolving it well.
 
-**Compromise**: When two people each give up something small so both can be a little happy. Example: One friend gets the toy first, then the other friend gets it—that's a compromise.
+**Emotional regulation**: The ability to manage and calm down strong emotions like anger, frustration, or fear. When we're very upset, a part of our brain called the **amygdala** triggers a "fight or flight" response — our heart beats faster, our muscles tense up, and our thinking brain partly shuts off. You literally *cannot* think clearly or solve problems while you're in this state. That's why "calm down first, solve it second" is not just advice — it's neuroscience.
 
-**Solution**: An idea or action that helps fix a problem and makes people feel better. Example: Taking turns with the toy is a solution that helps both children play together.
+**"I" statements**: A way of expressing feelings that describes your own experience rather than accusing the other person. Instead of "You took my toy!" (a "you" statement that sounds like an attack), try "I feel sad when I don't have a turn" (an "I" statement that explains your feeling). "You" statements trigger defensiveness; "I" statements open conversation.
 
-**Cooperate**: Working together with someone else toward the same goal. Example: When children clean up toys together, they cooperate to finish faster.
+**Interests vs. positions**: A key idea in negotiation. Your *position* is what you say you want ("I want that toy!"). Your *interest* is *why* you want it ("I want something to hold while I'm tired"). When you understand the real interest behind a position, new solutions often appear. Two children both want the last orange — that's their position. One wants to eat it; one wants the peel for a craft. If they share (each gets what they actually want), both interests are met.
+
+**Empathy**: Understanding and sharing another person's feelings — trying to imagine their experience from the inside. Empathy is a skill that can be practiced and strengthened. It's the foundation of all good conflict resolution: if you can genuinely understand why the other person feels the way they do, solutions become much easier to find.
 
 ## Learning Song
 
@@ -94,7 +96,9 @@ Children will engage in guided role-play and problem-solving scenarios using pup
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Introduce the two puppets with distinct personalities and voices. Say: "This is Bunny, and this is Bear. Today they're going to help us learn about problems and how to fix them. Sometimes friends disagree—do you ever disagree with your friends? That's okay! Let's watch what Bunny and Bear do when they have a problem."
+   Introduce the two puppets. Then briefly introduce the brain concept: "When you get really, really upset — when someone takes your toy or something feels very unfair — your brain sets off a kind of alarm. Your heart goes fast, your face gets hot, and it's hard to think. That's your brain protecting you. But here's the thing: when that alarm is going off, it's really hard to solve problems. So step one of fixing any fight is: calm the alarm first."
+
+   Demonstrate: take three slow breaths, shoulders dropping. "That's real. Slow breaths actually help turn off the alarm. Scientists can measure it."
 
 2. **Exploration - Scenario 1** (5 min):
    **The Conflict**: Have both puppets reach for the same toy.
@@ -104,11 +108,14 @@ Children will engage in guided role-play and problem-solving scenarios using pup
    - Ask the child: "Oh no! What's the problem here? Both puppets want the toy. Do you think they're happy?"
 
 3. **Exploration - Scenario 2** (5 min):
-   **Finding a Solution**: Continue with the same scenario but show a solution.
-   - Have Puppet 1 say (with your guidance): "I have a good idea! You play with it first, then it's my turn. That's called taking turns!"
-   - Have Puppet 2 respond happily: "Yes! I like that idea! You go first, Bunny!"
-   - Show them playing together, passing the toy back and forth
-   - Ask the child: "Now are they happy? What did they do? They took turns! That's a solution."
+   **Finding a Solution**: Replay the scenario, this time modeling the skills.
+
+   First, the "you" statement problem: Have Puppet 1 say "YOU always take my stuff! You're being mean!" Ask: "How does Bear feel when Bunny says that? Does it make Bear want to share?" Probably not — it triggers defensiveness.
+
+   Then, the "I" statement: Have Puppet 1 try again: "I feel sad when I don't get a turn. I really wanted to play with that."
+   Ask: "That sounds different! How does Bear feel now?" Much easier to respond to.
+
+   Then, exploring interests: "Why does Bunny want the toy? (to make a pretend cake) Why does Bear want it? (to roll it down a ramp) Oh! They want it for different reasons! What if Bunny has it for pretend cooking, and Bear uses it for the ramp after? Both interests are met!"
 
 4. **Guided Practice** (3-4 min):
    Create a second simple scenario with the child's input:
@@ -123,21 +130,10 @@ Children will engage in guided role-play and problem-solving scenarios using pup
 ### Age Adaptations
 
 **2-3 years**:
-- Keep scenarios very simple (only 2 characters, 1 toy, basic conflict)
-- Use shorter puppet dialogue—just 2-3 words per puppet
-- Focus on watching and observing rather than requiring active suggestions
-- Repeat the same scenario 2-3 times with slight variations
-- Emphasize the puppets' happy emotions when they solve the problem
-- Avoid complex problem-solving steps; show direct solutions (sharing, taking turns)
+Focus on the emotional regulation piece — this is developmentally what 2-3 year olds need most. Model and practice the "calm down breath" (the amygdala concept doesn't need to be named, but the practice is real). Demonstrate "I feel sad" statements with the puppets and let the child observe. The goal is not that they implement these techniques immediately, but that they're hearing the language. Use *empathy* by name: "Bear feels sad. Bunny sees that Bear is sad. That's called empathy — noticing how someone else feels."
 
 **3-4+ years**:
-- Introduce 2-3 different conflict scenarios in one session
-- Ask open-ended questions: "What else could they try?" "How does Bear feel now?"
-- Invite the child to voice one of the puppets with your support
-- Add more nuanced solutions: compromise, waiting, playing together, trading
-- Ask reflection questions: "Have you ever had a problem like this? What did you do?"
-- Introduce the idea that solutions make everyone feel better
-- Encourage the child to create their own conflict scenario with puppets
+Practice "I" statements together actively: present a conflict scenario and ask "How could Bunny say that with an 'I' statement instead of a 'you' statement?" Introduce the interests-vs-positions concept explicitly with the orange example: "They both said they wanted the orange, but actually they wanted *different things* from the orange! What's the real reason you want something? That's your interest." Let the child invent and act out both the conflict and resolution with full puppet voices.
 
 ### Extension Ideas
 

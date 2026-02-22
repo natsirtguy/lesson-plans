@@ -6,13 +6,15 @@ Children explore the timeless human practice of sharing stories through listenin
 
 ## Vocabulary
 
-**Narrative**: A story or account of events told in sequence; the way a storyteller shares what happened, what the characters did, and how things ended.
+**Narrative arc**: Every story has a shape: a character wants something, something gets in the way (conflict), and then it gets resolved (resolution) — one way or another. This structure is so universal across human cultures that researchers think it reflects something about how the brain processes and remembers information. A list of facts is hard to remember; those same facts arranged into a story with cause-and-effect and stakes become far more memorable.
 
-**Character**: A person or animal in a story who performs actions and speaks dialogue; the actors in a story who drive the plot forward.
+**Oral tradition**: Before writing existed, *all* human knowledge was stored in people's memories and transmitted through speaking. Oral traditions weren't just entertainment — they were survival technology. Stories encoded navigation routes, seasonal patterns ("the berries ripen when the geese fly south"), medicinal knowledge, and social rules. The repetition, rhythm, and rhyme in traditional stories weren't decoration — they were *memory aids*, making crucial knowledge easier to retain and transmit accurately across generations.
 
-**Oral tradition**: Stories, knowledge, and cultural practices passed down by speaking and listening rather than writing—how families and cultures preserve their history and wisdom across generations.
+**Griot**: In many West African cultures, a Griot (pronounced "GREE-oh") is a professional oral historian, storyteller, and musician — a living library who memorizes the genealogies, histories, and cultural knowledge of their community across hundreds of years. Becoming a Griot requires decades of training. The Griot tradition shows that oral knowledge can be extraordinarily sophisticated and precise when there are skilled practitioners dedicated to preserving it.
 
-**Sequence**: The order in which events happen in a story; the beginning, middle, and end that creates the story's structure.
+**Story grammar**: The underlying structure that all stories share — characters with goals, obstacles to those goals, attempts and failures, a climax, and a resolution. Researchers have found that children as young as 3 begin to apply story grammar expectations: they notice when a story lacks a resolution, and they can retell stories better when the stories follow standard structure. Understanding story grammar helps with both comprehension and creation.
+
+**Mnemonic devices**: Techniques that make information easier to remember. Traditional oral stories used repetition (the same phrase said three times), rule of three (events always happen three times before the climax), rhyme, and rhythm specifically because these features aid memory. You can see this in "Once upon a time" (repetition), fairy tales where the hero always fails twice before succeeding on the third try (rule of three), and nursery rhymes (rhyme + rhythm).
 
 ## 🎵 Learning Song
 
@@ -97,10 +99,11 @@ In this activity, you share a story with the child through reading, retelling, o
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - Settle in together: "Let's get comfortable. I have a story to share with you."
-   - Build anticipation: "This is a story about [brief hint]—I think you'll really like it."
-   - Show a book cover, puppet, or prop: "Look at this! I wonder what happens..."
-   - Ask: "Are you ready for a story?"
+   - Start with the big idea: "Humans have been telling stories for as long as we know — there are cave paintings in France that are 40,000 years old, and we think they might be telling stories. Before anyone could write anything down, all the knowledge of a community — where to find water, which plants are medicine, how to navigate at sea — was stored in stories and passed from person to person by speaking."
+
+   - "The world's oldest *written* story is called the Epic of Gilgamesh — it's about 4,000 years old and it's about friendship and the fear of death. Those were important to humans 4,000 years ago, and they still are today."
+
+   - "Why do you think stories help us remember things better than lists?" (Engage them, then explain: stories have characters we care about, problems, and resolutions — that emotional structure helps our brains hold the information.)
 
 2. **Storytelling** (8-20 minutes):
    - **If reading from a book**: Use varied voice tones, point to pictures, pause for child reactions
@@ -111,11 +114,10 @@ In this activity, you share a story with the child through reading, retelling, o
    - Include moments for child participation: "What do you think will happen next?" or let them say predictable parts with you
 
 3. **Discovery** (2-5 minutes):
-   - Finish the story completely—provide closure and resolution
-   - Pause after the ending to let the story settle
-   - Invite response with open-ended questions: "What did you think? What was your favorite part?"
-   - Listen to child's thoughts without rushing to analysis or lessons
-   - Share why you love this story: "I've always liked this character because..."
+   - After finishing, analyze the narrative arc together: "What did the character WANT? What got in the way — what was the conflict? How did it get resolved?"
+   - Notice mnemonic patterns: "Did anything happen three times? Did any phrases repeat? Those are memory helpers — they help us remember the story more easily."
+   - Connect to oral tradition: "People used to remember stories like this without books — just in their heads! They would practice telling it over and over. Some people's whole job was remembering stories for their community."
+   - Ask: "What knowledge is hidden in this story? What could someone learn from it?"
 
 4. **Wrap-up** (2-3 minutes):
    - Acknowledge the shared experience: "Thank you for listening to my story with me"
@@ -135,14 +137,10 @@ In this activity, you share a story with the child through reading, retelling, o
 - Focus on sensory elements: sounds, movements, textures in the story
 
 **3-4+ years**:
-- Share longer, more complex stories (15-25 minutes)
-- Introduce fairy tales, folktales, and cultural stories with richer narratives
-- Encourage child to retell stories they know using their own words
-- Invite child to co-create: "What if...?" and build stories together
-- Support dramatization with simple costumes and props
-- Deliberately include stories from different cultures
-- Ask questions about motivation: "Why did the character do that? What would you do?"
-- Child can sit through longer stories with less need for constant props
+- After hearing stories, explicitly identify the narrative arc: "What did they want? What problem did they face? How did it end?" Use the terms *conflict* and *resolution*. This builds genuine literary comprehension, not just story enjoyment.
+- Try telling a story *without* a resolution and watch the child notice: "Wait — what happened?" This demonstrates that their brain already has story grammar expectations built in.
+- Introduce different cultural storytelling: the Griot tradition (West Africa), Aboriginal Australian Dreamtime stories (which encode navigation and geographic knowledge), Homer's Iliad and Odyssey (ancient Greek oral epics memorized in full by performers). Mention that humans everywhere tell stories — this is something all humans share.
+- Challenge them to create a story that *teaches something* — like oral traditions did. "Tell me a story that helps someone remember that [berries that are wrinkly are ripe / dogs growl when scared / fire needs air to burn]."
 
 ### Extension Ideas
 

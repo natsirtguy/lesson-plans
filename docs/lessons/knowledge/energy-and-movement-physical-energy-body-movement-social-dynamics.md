@@ -6,13 +6,15 @@ Children will explore the concept of energy through their bodies and observe how
 
 ## Vocabulary
 
-**Energy**: The power that makes things move and change. When you run, jump, or play, you're using your body's energy. Energy is what makes your muscles work!
+**Energy**: A measurable property that lets things do work — move, change, make heat or sound. Energy comes in different forms: your muscles store *chemical energy* from food, and when you run, that becomes *kinetic energy* (motion energy). Scientists measure energy in units called **joules**.
 
-**Movement**: The action of changing position or going from one place to another. Your legs create movement when you walk, your arms create movement when you wave, and your whole body moves when you dance.
+**Kinetic energy**: The energy of movement. Every moving thing — a rolling ball, a running child, a flying bird — has kinetic energy. The faster something moves, or the heavier it is, the more kinetic energy it has.
 
-**Force**: A push or pull that makes something move or change direction. When you push a ball, you're using force. When you pull a toy, that's force too—it's the strength behind the action.
+**Potential energy**: Stored energy, ready to be released. A ball held at the top of a ramp has *gravitational potential energy* — it hasn't moved yet, but the energy is there, waiting. When you let go, potential energy converts into kinetic energy.
 
-**Momentum**: The energy something has when it's moving and the way it keeps going. A rolling ball has momentum that makes it keep rolling until something stops it. Your body has momentum when you run and it's harder to stop suddenly.
+**Force**: A push or pull that changes how something moves. Forces can speed things up, slow them down, or change their direction. Sir Isaac Newton discovered the laws describing how forces and motion relate — for example, a bigger force produces more acceleration.
+
+**Momentum**: How much "keepgoing" a moving object has — it depends on both mass (how heavy) and velocity (how fast). Momentum is *not* the same as energy, though they're related. A slow-moving truck has more momentum than a fast-moving tennis ball because the truck is so much heavier.
 
 ## Learning Song
 
@@ -70,7 +72,7 @@ Movement is the way
 
 ### Activity Overview
 
-Children will become "energy explorers" by experimenting with different ways to move their bodies and observing how movement creates energy, momentum, and change in the world around them. They'll discover that energy comes in different forms (running fast, pushing gently, spinning slowly) and that this energy is what makes things happen.
+Children will become "energy explorers" by experimenting with how stored energy converts into motion energy. Using their own bodies and simple ramp experiments, they'll directly observe the difference between potential energy (stored, waiting) and kinetic energy (moving, happening), and trace the chain: food energy → muscle energy → movement.
 
 **Activity Type**: Sensory exploration with hands-on discovery play
 
@@ -105,34 +107,35 @@ Children will become "energy explorers" by experimenting with different ways to 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by asking: "What makes you move? What gives your body the power to run, jump, and dance?"
+   Begin with the energy chain: "Your body needed breakfast this morning. That food had energy stored inside it — chemical energy. Your body turned that food energy into muscle energy. And when you run..." (run in place briefly) "...your muscles turn that into *kinetic energy* — the energy of movement!"
 
-   Demonstrate a simple movement: Run in place for a few seconds, then stop. Ask: "Where did that running energy come from? Can you feel it in your legs?"
+   Say the chain aloud together: "Food → muscles → movement!"
 
-   Explain that energy is an invisible power that makes things happen. It's what makes YOU move and what makes toys move too.
+   Explain: "Scientists say energy doesn't appear or disappear — it just *transforms*, it changes from one form to another. That's one of the most important ideas in all of physics."
 
-2. **Exploration** (8-10 min):
-   Guide the child through different movement experiences:
+2. **Potential vs. Kinetic Energy Demo** (5-6 min):
+   Set up the ramp (a board propped on a book, or a sturdy incline). Hold a ball at the top.
 
-   - **Fast Energy**: "Can you run really fast across the floor? Feel the energy pushing your legs! Now walk slowly. Do you notice how slow movement uses less energy?"
+   - "Right now this ball isn't moving — but it has energy stored up. Scientists call this *potential energy* — it has the *potential* to move. The higher I hold it, the more potential energy."
+   - Let it go. "Now it's moving — that potential energy became *kinetic energy*, the energy of motion!"
+   - Try releasing from different heights: "More height = more potential energy = more kinetic energy at the bottom = it rolls farther. Let's test that!"
+   - Let the child experiment with ball placement height and observe distances.
 
-   - **Pushing Energy**: "Pick up this soft ball. Now push it gently—that's using force energy! Push it harder. What happens? The ball goes faster because you used more force!"
+3. **Body Kinetic Energy** (4-5 min):
+   Guide the child through movement comparisons:
 
-   - **Rolling and Momentum**: "Roll this ball across the floor. Keep watching it—it keeps moving on its own for a while. That's momentum! The energy keeps it going until it stops."
+   - **Fast vs. slow kinetic energy**: "Run fast! More speed = more kinetic energy. Now walk slowly. Same body, but much less kinetic energy."
+   - **Heavy vs. light momentum**: Roll a light ball, then a heavier one with the same push. "The heavier one is harder to stop — it has more *momentum*. Momentum isn't the same as energy, but they're related: heavy AND fast = lots of momentum."
+   - **Force and acceleration**: "Give the ball a big push, then a tiny push. A bigger force makes it accelerate faster — gain speed faster. That's Newton's second law!"
 
-   - **Spinning Energy**: "Spin the scarves or ribbon in circles. See how the movement makes them dance through the air? Your arm energy is making them move!"
-
-   - **Stopping Energy**: "Run fast, then try to stop suddenly. Is it easy or hard? Your body needs energy to stop movement, not just to start it!"
-
-3. **Discovery** (3-5 min):
+4. **Discovery** (3-5 min):
    Ask guiding questions:
-   - "Where does YOUR energy come from?" (food, rest, our bodies)
-   - "What happens to energy when you're tired?" (it gets used up)
-   - "Can you make BIG movements with lots of energy? Can you make TINY movements with less energy?"
-   - "What made that ball roll? Can you make it roll faster or slower?"
-   - "Why is it harder to run than to walk?" (running uses more energy)
+   - "Where did your running energy originally come from?" (food → muscles → movement — trace the chain)
+   - "Which had more potential energy: the ball at the TOP or BOTTOM of the ramp?" (top — it had farther to fall)
+   - "If you roll the ball on carpet vs. hard floor, where does it go farther? Why?" (friction converts kinetic energy to heat on carpet)
+   - "What do you think happens to kinetic energy when the ball stops rolling?" (it turned into heat and sound — energy transformed again!)
 
-   Observe and point out patterns: "I notice when you push harder, the ball goes farther. That's because more force = more movement!"
+   Observe and point out patterns: "I notice when you push harder, the ball goes farther. That's because more force = more acceleration = more kinetic energy gained!"
 
 4. **Wrap-up** (2-3 min):
    Slow down with gentle movements: "Let's use calm energy now. Can you move very, very slowly? Move like a sleepy turtle."
@@ -142,10 +145,10 @@ Children will become "energy explorers" by experimenting with different ways to 
 ### Age Adaptations
 
 **2-3 years**:
-Keep activities shorter and more concrete. Use simple one-word directions: "Jump!" "Push!" "Roll!" Focus on big, full-body movements rather than complex games. Let them move freely and observe their natural energy patterns. Use lots of repetition and celebration: "Yes! That's movement! Your legs made YOU move!" Avoid too many options—present one activity at a time.
+Focus on the ramp experiment with one ball — this is concrete and immediately visible. Use the words "potential energy" (ball at top, not moving yet) and "kinetic energy" (ball rolling, moving now) every time, even if they don't stick yet. The repetition primes the vocabulary. Skip the friction discussion and just enjoy rolling. Keep the energy chain simple: "You ate breakfast → muscles work → you move!"
 
 **3-4+ years**:
-Introduce more complex comparisons and challenges. Ask them to replicate movements: "Can you move the same way I'm moving?" Introduce simple cause-and-effect thinking: "If you use MORE force, what happens to the ball?" Challenge them to move in specific ways: "Move like a fast cheetah, now a slow sloth." Encourage observation of patterns: "Which toys roll the farthest? Why do you think that is?" Introduce directional language: "Push the ball toward the wall, now toward me."
+Run the full experiment: vary height AND ball weight and see what changes. Introduce the word "friction" when the ball slows down on carpet ("friction steals kinetic energy and turns it into heat — if you rub your hands fast, do they feel warm? That's friction!"). Pose the challenge: "Can you find a way to make the ball roll the farthest possible?" Let them engineer the solution — maximum height + smooth floor + hard push. Discuss Newton's laws by name: "Newton figured out that a bigger force makes bigger acceleration — that's Newton's second law."
 
 ### Extension Ideas
 
