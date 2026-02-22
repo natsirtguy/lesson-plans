@@ -4,6 +4,20 @@
 
 Self-defense and protection skills teach young children basic body safety, boundaries, and simple protective movements through playful exploration and role-play scenarios. This activity builds awareness of personal space, confidence in their body, and age-appropriate empowerment while emphasizing communication, seeking help from trusted adults, and that their body belongs to them. Children learn to recognize uncomfortable situations and practice saying "no" assertively while developing strong, controlled movement patterns.
 
+## Vocabulary
+
+**Body Autonomy**: The principle that your body belongs to you — you have the right to decide who touches it and how. This is a fundamental concept in both self-defense and child safety education.
+
+**Assertive**: Using a clear, confident voice and body posture to communicate your needs or boundaries. Being assertive is different from being aggressive — it's direct and strong without being harmful.
+
+**Distance / Personal Space**: The protective space around your body. In self-defense, creating distance from a threat is often the most important action. The further away you are, the safer you are.
+
+**Wrist Release**: A specific physical technique — when someone grabs your wrist, pulling toward the space between their thumb and fingers (the weakest point of their grip) to break free. This works because the thumb is the weakest link in any grip.
+
+**De-escalation**: Actions that reduce tension and make a situation less dangerous — like using a calm voice, creating distance, or seeking help — without physical confrontation.
+
+**Target-Denial Behavior**: Making yourself an unattractive target by being loud, making eye contact, staying near other people, and projecting confidence. Research on self-protection consistently shows this is more effective than physical technique.
+
 **Activity Type**: Motor skill development / Life safety skill
 
 **Duration**: 10-15 minutes (with natural breaks)
@@ -92,22 +106,21 @@ Self-defense and protection skills teach young children basic body safety, bound
 - Teach simple concept: "If something doesn't feel right, you can say no and tell a trusted adult"
 - Frame activity: "We're learning to feel confident in our bodies and know it's okay to say no"
 
-#### Skill Practice (3-5 minutes)
+#### Skill Practice (5-7 minutes)
 
-**Skill breakdown**:
-- Identifying safe people in their life (trusted adults)
-- Recognizing when something feels uncomfortable
-- Using a clear, strong voice to say "No" or "Stop"
-- Simple body positions of strength and confidence
-- Moving away from uncomfortable situations
-- Seeking help from trusted adults
+**Skill 1 — Voice (1-2 min)**: Practice a loud, clear "NO" and "STOP." Not a whisper, not a scared voice — a strong, assertive shout that draws attention. Explain why: "If you're in trouble, making a lot of noise is one of the most effective things you can do. It draws attention. Most people who might try to hurt you don't want attention." Practice together: "Ready? One, two, three — NO!" Keep reinforcing: louder and more confident each time.
+
+**Skill 2 — Creating Distance (1-2 min)**: "The first thing to do if something feels wrong is get away — create distance. Run to a trusted adult, run to a crowded place, or run to anywhere that feels safer." Practice: caregiver stands 10 feet away, child runs from one marked spot to the caregiver on signal. This builds the instinct that running toward safety is a positive response, not panic.
+
+**Skill 3 — Wrist Release (2-3 min)**: Introduce gently: "Sometimes people who want to help also need to physically hold on — like if you're near traffic. And sometimes someone might grab your wrist when you don't want them to. The wrist release helps you get free." Teach: "When someone holds your wrist, pull your hand toward their thumb side — that's the weakest part of anyone's grip." Practice very gently, caregiver lightly holding child's wrist, child practicing the pull-toward-thumb motion. This is a real, teachable motor skill. "The thumb is always the weakest link in a grip."
+
+**Skill 4 — Trusted Adults Network (1 min)**: Briefly identify: who are your 3-5 trusted adults? Name them. "If you feel unsafe and I'm not there, who are the other people on your list?" This is not hypothetical — name specific people.
 
 **Coaching cues**:
-- "Your body is yours - no one can touch it without permission"
-- "It's okay to say 'no' to any touch that doesn't feel right"
-- "Your feelings matter - if something feels wrong, tell a trusted adult"
-- "Stand tall and strong - feel how powerful your body is"
-- "Use a big, clear voice: 'No, stop!'"
+- "Your voice is your strongest tool — use it loud"
+- "Distance is safety — get away first, ask questions later"
+- "Pull toward the thumb — that's where grip is weakest"
+- "Your body belongs to you. It's okay to protect it."
 
 #### Guided Play/Game (4-6 minutes)
 
@@ -155,32 +168,17 @@ Let children experiment with their strong voice and body position
 
 ### 2-3 years
 
-**Modifications**:
-- Focus only on body autonomy and consent for touch
-- Use very simple language: "Your body is yours. You can say no to hugs if you don't want them."
-- Emphasize trusted adults and seeking help for any uncomfortable situations
-- Practice with familiar people only (parents, regular caregivers)
-- Use physical props (stuffed animals) instead of role-play with people
-- Keep emphasis on positive relationships and safety
-- Avoid any scary language or scenarios
+**Focus**: Voice and distance — two concrete, physical skills. "You have a powerful voice — let's hear it!" Practice the loud "NO" (make it a game, see who can be most assertive). Practice running to a safe spot. Introduce body autonomy simply: "Your body belongs to you. You can say no to hugs." Name 2-3 specific trusted adults. Skip the wrist release technique at this age — focus on the two most transferable skills that require no coordination: voice and running.
 
 **Duration**: 8-10 minutes
 
-**Adult support**: Very high - constant demonstration, modeling language, providing reassurance, monitoring emotional response closely
+**Adult support**: Model everything first. Do the loud "NO" yourself before asking child to. Make it playful and empowering, not scary.
 
 ### 3-4+ years
 
-**Challenges to add**:
-- Identify specific unsafe situations (stranger offering candy, private body parts, uncomfortable secrets)
-- Practice saying "no" with increasing confidence and volume
-- Learn about different types of trusted people (parent, teacher, counselor, etc.)
-- Understand concept of telling a trusted adult immediately if something feels wrong
-- Practice with role-play scenarios involving slightly less familiar people
-- Learn about body privacy and appropriate/inappropriate touch
-- Understand that it's never a child's fault if something wrong happens
-- Learn about respecting others' boundaries as well
+**Challenges to add**: All four skills. Practice wrist release explicitly — it requires some motor coordination but is manageable at 3-4. Discuss trusted adults network (5+ people named specifically). Introduce the concept of "target-denial" without using that term: "If someone is nearby and you feel weird, what do you do? Get close to other people, make noise, look confident, don't be alone." Role-play: "What do you do if someone you don't know says they have a puppy and wants you to come see it?" The answer isn't just "say no" — it's: create distance, find your trusted adult, make noise if needed.
 
-**Duration**: Can extend to 12-15 minutes with breaks
+**Duration**: Can extend to 15 minutes with breaks
 
 ## Parent/Caregiver Notes
 

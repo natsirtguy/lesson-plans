@@ -14,6 +14,10 @@ Children will explore the fundamental elements of visual art through hands-on cr
 
 **Value**: How light or dark a color is, independent of its hue. Pure white has the highest value; pure black has the lowest. Adding white to any pigment increases its value (called a tint); adding black decreases its value (called a shade). Your eyes detect value through rod cells in your retina — the same cells that let you see in dim light — which is why black-and-white photographs can feel just as powerful as color ones.
 
+**Composition**: The arrangement of visual elements in a work of art — what goes where, what's big vs. small, what's centered vs. off to one side. Composition creates visual balance, guides the viewer's eye, and determines whether a piece feels calm or dynamic. The "rule of thirds" is a compositional guideline where you divide the image into thirds and place key elements at the intersection points — photographers and painters have used this for centuries.
+
+**Complementary Colors**: Colors opposite each other on the color wheel: red/green, blue/orange, yellow/purple. Complementary colors create the strongest visual contrast when placed next to each other because each one stimulates different cone cells in the retina, and the contrast between their responses creates visual vibration or pop. Artists use complementary colors to make elements stand out.
+
 ## 🎵 Learning Song
 
 **Tune**: The Itsy Bitsy Spider
@@ -49,9 +53,7 @@ Help our creativity grow
 
 ## 📺 Intro Video Recommendation
 
-**Try to find an actual video**: Search YouTube for age-appropriate educational content about visual arts for toddlers and preschoolers.
-
-**Recommended video**: Search for: "Toddler art exploration for preschoolers" or "Color and shape learning for toddlers"
+**Recommended video**: Search YouTube for: "How does color mixing work science for kids" or "Light and color absorption for children"
 
 **What to look for**:
 - 2-5 minutes long
@@ -126,7 +128,7 @@ Children will explore and create visual art using multiple mediums and sensory e
    Point out specific artistic choices: "You used so many shades of blue—that's a beautiful color palette!"
 
 4. **Wrap-up** (2-3 min):
-   Celebrate the creation without judgment. Say: "You're an artist! You made these beautiful colors and shapes." Let the work dry if wet. Transition to cleanup by singing a cleanup song or playing gentle music.
+   Review the concepts while looking at their work: "What pigments did you use? How does pigment work — what does it do to light?" (It absorbs some wavelengths and reflects others.) "What happened when you mixed colors? What's that called?" (Subtractive color mixing.) "Point to a spot of negative space in your composition." Let the work dry if wet, then display it. Ask: "Is there a composition choice you made — something you put in a specific place on purpose?"
 
 ### Age Adaptations
 

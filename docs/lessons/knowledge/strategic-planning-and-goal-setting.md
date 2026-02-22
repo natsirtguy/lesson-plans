@@ -2,17 +2,21 @@
 
 ## 🎯 Activity Summary
 
-Through creative goal-setting activities, children learn to think about what they want to accomplish, plan simple steps to get there, and celebrate their achievements. This activity builds executive function, self-awareness, and confidence by helping young children express their intentions through art, movement, and playful decision-making, fostering intention, planning skills, and the joy of working toward something meaningful.
+Children learn what planning actually is — a cognitive process where your brain simulates future events before they happen, identifies obstacles in advance, and organizes steps in sequence. Through drawing and building, they explore the same cognitive toolkit used by engineers, architects, coaches, and surgeons: decomposing big goals into steps, predicting what might go wrong, and adjusting plans based on feedback. Strategic planning is a core executive function skill — and like all skills, it gets better with practice.
 
 ## Vocabulary
 
-**Strategy**: A smart plan or set of steps you decide ahead of time to help you accomplish something you want to do. When you think about what you need to do first, second, and third to reach your goal, you are creating a strategy.
+**Executive Function**: A set of mental skills managed by the prefrontal cortex (the front of your brain) that let you plan, focus, remember instructions, and control impulses. Planning is a core executive function. Other executive functions include working memory and inhibitory control. These skills develop throughout childhood and can be strengthened through practice.
 
-**Intention**: What you decide you want to do or accomplish. It's your purpose or goal that you're thinking about. When you say "I want to build a tall tower," you are setting an intention.
+**Mental Simulation**: When your brain imagines a future event before it happens — "if I stack the big block on the small one, what will happen?" This is what planning is, at a cognitive level. Humans are unusually good at mental simulation compared to other animals, and it's one reason we can build complex things.
 
-**Progress**: Moving forward and getting closer to your goal, even if it's a tiny step. Progress is the movement you make toward accomplishing something, whether it's big or small.
+**Decomposition**: Breaking a big, complex goal into smaller, manageable steps. "Build a robot" is too big to act on. "Find a box → find tubes → tape them together → decorate" is decomposed. Engineers, architects, and surgeons all use decomposition constantly.
 
-**Persist**: To keep trying even when something is hard or when you don't succeed right away. When you persist, you don't give up—you keep working toward what you want.
+**Obstacle Anticipation**: Thinking ahead about what might go wrong before starting. A good plan includes not just steps, but also "what if..." contingencies. This is sometimes called a "pre-mortem" — imagining the plan failed and asking why.
+
+**Strategy**: A chosen approach to reaching a goal, selected from multiple possible approaches. A strategy is specific: not just "I'll try harder" but "I'll start with the heaviest blocks at the bottom so the tower is stable."
+
+**Persist / Iterate**: To keep trying and adjust based on what you learn. Plans rarely work perfectly on the first try — the response to failure is to gather information and iterate (try a modified version). This is how scientists, artists, and engineers all work.
 
 ## 🎵 Learning Song
 
@@ -100,27 +104,30 @@ Children will engage in creative, visual goal-setting through drawing, painting,
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   "Today we're going to draw about something YOU want to do! Maybe you want to jump really high, build a tall tower, paint a beautiful picture, or dance. We'll draw our idea, and then think about what might help us do that. There's no 'right' picture—YOUR picture is perfect!" Ask children what they like to do or want to try. Show that goals can be small, silly, or big—all are wonderful.
+1. **Introduction: What is a plan?** (3-4 min):
+   Start with a concrete real-world example: "Before a builder makes a house, they draw a picture of what it will look like — that's called a blueprint. Before a cook makes a meal, they think about which step comes first. Before a soccer team plays, the coach thinks about where each player should stand — that's a strategy." "Planning is your brain imagining something before it happens. Let's practice using our planning brains."
 
-2. **Exploration** (4-5 min):
-   Let children think about their goal without pressure. Ask open-ended questions: "What do you love doing?" "What would make you proud?" "What's something you want to try?" For younger children (2-3), model simple goals like "I want to build blocks high" or "I want to dance and jump." Give children time to just think and play with materials before creating anything.
+2. **Decomposition practice** (4-5 min):
+   Pick one concrete goal together (building a tall block tower works well). Ask: "What do we need to do to make a really tall tower that doesn't fall?" Together, identify steps: find flat blocks for the base, put biggest blocks at the bottom, place each one carefully, go slowly near the top. "We just decomposed our goal — broke it into pieces. Each piece is a step." Now ask: "What might go wrong?" (It might fall, we might run out of blocks.) "A good plan thinks about that in advance."
 
-3. **Discovery** (8-12 min):
-   Children draw or create a visual representation of their goal. Demonstrate: "I want to climb the playground, so I'm drawing the ladder and me going up." Support mark-making without correction—scribbles, lines, and shapes all represent thinking. Ask as they work: "What are you drawing?" "Tell me about your goal." Help children add themselves in the picture (figure, handprint, sticker). For non-verbal or younger children, work together collaboratively on the representation.
+3. **Drawing phase** (8-12 min):
+   Children draw or represent their own goal — something they actually want to do or build today or this week. For each child, guide them through decomposition: "What's step one? What comes after that? What could go wrong, and what would you do?" Draw or write steps together (caregiver can write words while child draws). Keep to 3-5 steps maximum. Encourage specificity: not just "build a tower" but "build a tower that reaches the shelf."
 
-   Then add the "how"—what helps them reach this goal. Ask: "What do you need to help you with this?" or "What comes first?" Draw or add arrows showing the path. Keep it concrete and short (2-3 steps maximum for young children). As the adult, serve as a collaborator and scribe, not a director. Ask questions instead of giving answers. Notice and name what you see them thinking and planning.
+   Ask: "Can your brain picture what it will look like when you're done? That's mental simulation — your brain is practicing in advance."
 
-4. **Wrap-up** (3-5 min):
-   Gather children with their creations. Ask each child to share their goal: "Tell me about what you want to do." Add a celebration element: sticker, stamp, or marker flourish on their plan. Take a photo if desired. Discuss: "This is YOUR special plan. You thought about what you want and how to do it!" Make cleanup part of the learning—children can help sort materials back, celebrating their participation in caring for the space. Display plans somewhere special or send home with the child.
+4. **Attempt and feedback** (if time allows, 5-7 min):
+   Try to actually execute the plan. Observe together whether it works. "The plan said to put big blocks on the bottom. What happened? Did the plan work? What would you change?" This closes the loop: plan → act → observe → revise. Even a partial or failed attempt is perfect — it gives information for iteration.
+
+5. **Wrap-up** (2-3 min):
+   "What did we just do? We had a goal, we decomposed it into steps, we thought about obstacles, we tried it, and we noticed what happened." Name the executive function: "This is called strategic planning. Architects, doctors, generals, engineers — they all do this same thing, just with bigger goals." Review the vocabulary: decomposition, mental simulation, iteration.
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep goals very concrete and immediate: "build high," "paint," "run outside." Offer significant adult support as a co-creator. Use more pictures and symbols instead of words. Focus on one-step or two-step goals only. Emphasize doing the goal right after planning when possible. Use physical demonstration and modeling. Accept non-representational art—the scribble IS their plan. Duration: 15-20 minutes total.
+Keep goals very concrete and immediate: "build a tall tower," "paint something red," "jump over the pillow." Do the planning conversation verbally, with the adult as scribe/drawer. Focus on two steps: "First we do this, then we do that." After planning, immediately execute — the connection between plan and action is the learning. Introduce one vocabulary word: "step." Say "What's the first step?" and "What's the next step?" regularly. When something doesn't work, say "Let's iterate — let's try again a different way."
 
 **3-4+ years**:
-Encourage more complex goals: "learn to climb the rope," "build a structure," "make up a dance." Support multi-step planning (3-5 small steps). Encourage children to think about obstacles: "What might be tricky? How can we help?" Add writing element if interested (simple labels or words for steps). Introduce the idea of "practicing" or "trying again" as part of goal-reaching. Support goal tracking by checking back on the plan later in the week. Duration: 25-30 minutes.
+Introduce decomposition explicitly: "Let's decompose this goal into steps." Use 4-5 steps. Introduce obstacle anticipation: "Before we start, what might go wrong?" This is sophisticated metacognitive thinking, and four-year-olds can do it. Let them lead the planning conversation with you as facilitator. Ask: "Can you picture in your head what it will look like when we're done?" Discuss that this mental picture is what guides planning. Connect to real-world examples: "Architects make blueprints before buildings. Scientists make hypotheses before experiments. What's your hypothesis — your prediction — about whether this plan will work?"
 
 ### Extension Ideas
 

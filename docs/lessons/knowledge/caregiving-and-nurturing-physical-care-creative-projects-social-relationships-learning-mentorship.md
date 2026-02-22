@@ -6,13 +6,17 @@ Caregiving and nurturing is a foundational experience where children learn to ex
 
 ## Vocabulary
 
-**Nurture**: To care for someone or something by helping it grow, feel loved, and stay healthy. You nurture a plant by giving it water and sunlight; you nurture a friend by listening to them and showing kindness.
+**Attachment**: The deep emotional bond that forms between a baby and their primary caregiver. Psychologist John Bowlby discovered that this bond is not just emotional comfort — it's a biological need, as fundamental as food and water. Babies who lack consistent, responsive care experience measurable differences in brain development.
 
-**Empathy**: The ability to understand how another person (or animal or plant) is feeling and caring about their feelings. When you see your doll looks lonely, empathy helps you want to spend time with them and make them feel loved.
+**Oxytocin**: A hormone and neurotransmitter released by the brain during caregiving behaviors — touch, eye contact, feeding, comforting. Often called the "bonding hormone," oxytocin reduces stress, promotes trust, and deepens attachment. Both the caregiver and the person being cared for release oxytocin during caring interactions.
 
-**Caregiver**: A person who takes care of someone or something else. Parents are caregivers for their children; you become a caregiver when you help wash a doll, water a plant, or comfort a friend.
+**Mirror Neurons**: Brain cells that activate both when you do something AND when you watch someone else do it. They're one biological basis of empathy — when you see someone sad, your mirror neurons fire as if you were experiencing that sadness yourself. This is how humans learn through imitation and why caregiving feels meaningful.
 
-**Compassion**: A feeling of deep care and kindness for someone who needs help. Compassion means noticing when a friend is sad and wanting to help them feel better.
+**Nurture**: To provide what something needs to grow and thrive — for a plant, water and sunlight; for a baby, responsive touch and interaction; for a peer, attention and encouragement. "Nature vs. nurture" is a famous question in psychology about how much of who we are comes from our genes vs. our experiences.
+
+**Responsive Caregiving**: Caregiving that is attuned to the specific signals and needs of the other person — noticing what they need and responding quickly and appropriately. Research shows that responsive caregiving is the key factor in building secure attachment. It's not just about providing care, but about paying close attention and adjusting.
+
+**Empathy**: The ability to understand and share another person's feelings. This involves both cognitive empathy (understanding what someone thinks and feels) and affective empathy (actually feeling something in response). Mirror neurons contribute to affective empathy; imagination and theory of mind contribute to cognitive empathy.
 
 ## 🎵 Learning Song
 
@@ -116,17 +120,27 @@ In this hands-on activity, children engage in practical caregiving experiences t
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Show the doll, stuffed animal, plant, or friend and ask, "How do you think [doll/friend/plant] is feeling today?" Demonstrate a simple caregiving action: gently touching the doll's face, offering it a drink, or admiring a plant. Say, "Being a caregiver means noticing what others need and helping them feel loved." Explain that caregivers show gentleness and thoughtfulness.
+1. **Introduction: Why do we care for others?** (3-4 min):
+   "All mammals — cats, dogs, elephants, humans — care for their young. This is different from fish or lizards, which usually leave eggs and move on. Why do you think mammals care for babies more?" (Because mammal babies are born helpless — they need care to survive.) "Humans have the most helpless babies of all — a human baby can't walk, talk, or feed itself for years. That means caregiving is one of the most important things humans do."
 
-2. **Exploration** (5-10 min):
-   Allow free exploration of the caregiving experience. The child examines the recipient (doll, animal, plant, or peer) and asks themselves: "What do I notice? How is my friend today? What might make them happy?" The child explores materials (water, cloth, utensils, art supplies). Comment on observations: "You're noticing that your doll's hair needs brushing. You're being very observant!"
+   "When you care for someone — hold them, look at their eyes, feed them — your brain releases a chemical called oxytocin. The person you're caring for also releases oxytocin. It's like a chemical message that says 'we're connected, we trust each other, we're safe.'"
 
-3. **Discovery** (3-5 min):
-   Guide specific caregiving techniques with gentle modeling. For physical care: "Let's give our doll a nice wash. Feel how warm the water is." For creative projects: "Let's make a card to show [person] we care about them." For plant care: "Plants love water and light. Let's help it grow." For mentoring: "I'm helping you because I care about you." Ask guiding questions: "Do you think they're happy now? What else might help them feel better?" Narrate observations without directing: "You're wrapping your doll in a blanket. That's so cozy!"
+2. **Exploration: Noticing what someone needs** (5-8 min):
+   Choose a caregiving focus (doll, plant, or peer). The first task is observation: "Before we help, we have to notice. What does this person or plant actually need right now? Look carefully." Model close observation: checking water level of soil, noticing if a doll is positioned uncomfortably, checking if a friend seems tired or energetic.
+
+   This is responsive caregiving — paying attention first, then responding. "A good caregiver doesn't just do the same thing every time. They notice what's actually needed today." This is genuinely different from mechanical care.
+
+3. **Caregiving practice with real content** (7-10 min):
+   Choose the caregiving activity, but add the real science backdrop:
+
+   *For plant care*: "Plants need water, light, and nutrients from soil — they're doing photosynthesis right now, converting light to energy. When we water them, we're providing what they need for that chemical process to work." Let child water, observe soil color change, feel the soil texture wet vs. dry.
+
+   *For doll/baby care*: "When you talk to and hold your doll, you're practicing what researchers found: babies who are held, talked to, and responded to quickly develop bigger, healthier brains. The responsive part matters — it's not just any care, it's care that pays attention and adjusts."
+
+   *For mentoring a younger child*: "You know how to do things the younger child doesn't yet. When you show them, your mirror neurons fire and so do theirs — learning through watching someone else is built into how brains work."
 
 4. **Wrap-up** (2-3 min):
-   Acknowledge the child's caregiving work: "You were such a good helper today. You really took care of [doll/friend/plant]." Ask a reflection question: "How do you think [recipient] feels now?" or "How does it feel to help someone you care about?" Invite the child to help with cleanup, making it part of caregiving: "We take care of our materials, just like we take care of our friend." Praise responsibility: "You're taking care of our space. That's what helpers do!"
+   "What does oxytocin do? What is responsive caregiving? Why do mammals care for their young when fish usually don't?" Connect to their own experience: "When you were a baby, you needed a lot of care too. And the care you received helped shape your brain — that's how important it is."
 
 ### Age Adaptations
 

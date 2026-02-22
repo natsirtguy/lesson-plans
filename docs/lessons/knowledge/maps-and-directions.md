@@ -6,19 +6,21 @@ Children explore how maps help us understand spaces and find our way, learning t
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that:
-- Are sophisticated but age-appropriate
-- Are adult words that expand beyond toddler basics
-- Directly relate to the topic
-- Can be demonstrated or experienced
+**Navigate**: To find your way from one place to another using directions, landmarks, or a map. Sailors navigated by stars for thousands of years before paper maps existed; today GPS satellites navigate for us — but the underlying system (coordinates) is the same.
 
-**Navigate**: To find your way from one place to another by following directions or a map. When you navigate to the playground, you follow the path that leads there.
+**Bird's-Eye View / Aerial Perspective**: Looking at a space from directly above, as if you were a bird or airplane. This is the perspective all maps use. It requires a mental rotation of our normal experience — a table seen from above looks like a rectangle, not a table. This perspective shift is one of the cognitive skills maps teach.
 
-**Symbol**: A simple picture or mark that stands for something real. On a map, a little tree symbol represents an actual tree you can see outside.
+**Map Scale**: The relationship between distance on the map and distance in the real world. A map where 1 inch = 1 mile lets you measure distances accurately. Without a scale, a map can't tell you how far things actually are.
 
-**Landmark**: An important or easy-to-recognize place that helps you know where you are. Your house, the playground, or the big red mailbox are landmarks you see in your neighborhood.
+**Legend / Map Key**: The section of a map that explains what each symbol means. A blue wavy line might mean a river; a green area might mean a park. Without the legend, symbols are unreadable.
 
-**Route**: The path or way you take to get from one place to another. Your route to the park might go down the sidewalk, across the street, then through the gate.
+**Cardinal Directions**: North, South, East, West — the four primary directions based on Earth's geography. North points toward the North Pole (magnetic north, where compass needles point, is slightly different from true north — but they're close). The sun rises in the east and sets in the west, which is why ancient people could always orient themselves.
+
+**Coordinate System**: A grid system for pinpointing any location on Earth using two numbers: latitude (distance north or south of the equator, 0°–90°) and longitude (distance east or west of the prime meridian, 0°–180°). GPS satellites use this same system — your phone knows where you are because multiple satellites triangulate your exact coordinates.
+
+**Symbol**: A simple picture or mark that represents something real. On a map, a blue line represents a river; a triangle represents a mountain peak. Maps work because both the map-maker and map-reader agree on what symbols mean — this is a form of written language.
+
+**Route**: The specific path taken from one place to another. Multiple routes can connect the same two points — the "best" route depends on your priorities (fastest, most scenic, avoiding traffic, etc.).
 
 ## Learning Song
 
@@ -113,10 +115,15 @@ Children create and use their own simple map of a familiar space, learning how t
    Guide the child to draw the space on paper as if looking from above. Start by drawing a simple rectangle for the space edge. Then ask: "Where is the house? Let's put a small drawing here." Draw together or let the child draw with your support. Add symbols for each object (a small square for house, circle for tree, line for mailbox). Use different colors for each symbol. Don't worry about artistic accuracy - the goal is understanding that the map represents real things.
 
 3. **Discovery** (5-7 min):
-   Once the map is complete, point to it and say: "This map shows our space from up high, like a bird sees it." Point to one symbol, then find the real object: "Here's the tree on the map - do you see the real tree?" Repeat with other symbols. Then ask: "What's the path from the house to the tree? Let's trace it with our finger on the map." Trace a route together. Then walk that route in the real space. Ask: "Did we follow the same path?" Use words like "north," "south," "left," and "right" as you trace: "We go right to the tree, then left to the mailbox."
+   Once the map is complete, point to it and say: "This map shows our space from up high — aerial perspective, like a bird's eye view." Point to one symbol, then find the real object: "Here's the tree on the map - do you see the real tree?" Make the legend explicit: "Let's make a legend — a key that explains our symbols." Draw a small box in the corner of the map labeled "Legend" and add each symbol with its meaning.
 
-4. **Wrap-up** (2-3 min):
-   Celebrate the map together. Ask: "What did we learn? Maps help us see places from up high. Symbols on the map show real things. We can follow paths on maps to know where to go." Ask the child to place a new toy object in the space and draw its symbol on the map, then navigate to it. End by saying: "You're a great navigator!"
+   Then trace a route: "What's the path from the house to the tree? Let's trace it with our finger on the map, then walk it in the real space." Use cardinal directions: "We go north to the tree, then east to the mailbox." Orient yourself: "North is toward that window because the sun comes in from the east in the morning, and north is to the left of east." This connects cardinal directions to real-world orientation.
+
+4. **Scale moment** (2-3 min):
+   "On our map, the house and tree are 3 inches apart. In real life, how far apart are they?" Measure in real life (steps, or ruler). "That's map scale — the ratio between the map and reality. On a road map, 1 inch might equal 50 miles. Your phone GPS uses the same idea but with satellites measuring your exact coordinates — your latitude and longitude." Show a phone or printed map with a scale bar if available.
+
+5. **Wrap-up** (2 min):
+   "What is a map?" (A bird's-eye view of a real space.) "What does the legend do?" (Explains symbols.) "Why do maps need a scale?" (So you know real distances.) "What are the four cardinal directions?" Point to each in the room.
 
 ### Age Adaptations
 
@@ -124,7 +131,7 @@ Children create and use their own simple map of a familiar space, learning how t
 Keep the space very small with only 2-3 objects. Draw the map for them and let them color it. Focus on touching real objects, then finding them on the map. Use simple one-word directions: "up," "down," "left," "right." Let them place stickers on the map rather than draw.
 
 **3-4+ years**:
-Have them draw more of the map with your guidance. Include 4-5 objects and discuss more complex paths. Use full direction words: "We go north to the tree, then east to the house." Introduce simple grid concepts by drawing light lines. Challenge them to create a second map and compare, or to place new objects and update the map.
+Draw more of the map themselves. Include 5-6 objects, multiple routes between points. Create a proper legend box. Discuss map scale explicitly: measure the real distance between objects, then agree on a scale (e.g., "1 finger-width on the map = 1 step in real life"). Introduce coordinates: draw a simple grid on the map, label columns A/B/C and rows 1/2/3, and describe object locations by grid square ("The tree is at B2"). Connect to GPS: "Your phone has thousands of satellites helping it know exactly where you are on a giant coordinate grid that covers the whole Earth."
 
 ### Extension Ideas
 
