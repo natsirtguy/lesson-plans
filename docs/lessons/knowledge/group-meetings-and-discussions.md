@@ -6,13 +6,17 @@ Children gather together in a circle for structured conversations where they lis
 
 ## Vocabulary
 
-**Participate**: To take part in or be involved in an activity; to join in with others in doing something together.
+**Deliberation**: Careful, thoughtful discussion before making a decision. Courts, parliaments, and juries all deliberate — they talk through options together before deciding. A group that deliberates makes better decisions than one person deciding alone, because different people notice different things.
 
-**Facilitate**: To help make something happen smoothly; to guide a group through a process or conversation.
+**Consensus**: Agreement reached by a whole group, where everyone can live with the outcome — not necessarily everyone's first choice, but acceptable to all. Consensus is different from a majority vote, where some people win and some lose.
 
-**Contribute**: To give or add something (ideas, thoughts, words) to help the group; to share your part.
+**Democracy**: A system where decisions are made by the group rather than by one person in charge. The circle meeting is a miniature democracy — every voice counts and no one person's view automatically wins. Ancient Greeks in Athens invented formal democracy around 500 BCE, but humans had been holding group councils for far longer.
 
-**Perspective**: The way a person sees or thinks about something; a point of view that can be different from someone else's.
+**Facilitate**: To help a group process work smoothly without dominating it. A good facilitator draws out quieter voices, keeps discussion on track, and helps the group reach a decision — but doesn't impose their own view.
+
+**Perspective**: The way a person sees or thinks about something based on their experiences, knowledge, and position. Research on group decision-making shows that groups with diverse perspectives (people who see the problem differently) make fewer mistakes than groups where everyone thinks alike — a phenomenon called cognitive diversity.
+
+**Agenda**: The planned list of topics for a meeting. Having an agenda helps a group stay focused and ensures important topics get time.
 
 ## 🎵 Learning Song
 
@@ -65,7 +69,7 @@ We can solve things, we can solve things too
 
 ### Activity Overview
 
-Children participate in a structured gathering where everyone sits together, takes turns speaking, and listens to others. The focus can be a simple check-in about feelings, sharing an experience, solving a group problem, or making a decision together. Through this experience, children learn communication skills, respect for others' ideas, and develop a sense of belonging to a group.
+Children participate in a structured gathering where everyone sits together, takes turns speaking, and listens to others. This is deliberative democracy in miniature. Humans have held group councils for tens of thousands of years — from ancient tribal circles to the Greek agora to modern parliaments — because groups that deliberate together make better decisions than individuals acting alone. When different people share different observations, the group has access to more information and catches more mistakes. The circle format (where everyone faces each other equally, with no head-of-table position of dominance) was deliberately chosen by many indigenous cultures and democratic assemblies because it signals that all voices carry equal weight. Children who practice deliberation, consensus-building, and active listening are learning the fundamental skills of democratic participation.
 
 **Activity Type**: Social activity / Communication practice / Group process
 
@@ -103,8 +107,10 @@ Children participate in a structured gathering where everyone sits together, tak
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Call children together with a calm voice: "Everyone, let's come sit in our circle. We're going to meet together."
-   - Explain the purpose simply: "Today we're going to share our feelings" or "We're going to solve a problem together"
+   - Call children together with a calm voice: "Everyone, let's come sit in our circle. We're going to hold a meeting."
+   - Explain what a meeting is for: "When a group of people needs to make a decision, they meet together and each person shares what they think. That way the decision uses everyone's ideas — not just one person's. That's called democracy, and it's how lots of important decisions get made in the world."
+   - Explain the circle: "We sit in a circle because in a circle, everyone can see everyone else, and no one is at the head or the back. Everyone is equal."
+   - Set the agenda: tell children what the meeting is about today ("Today we're deciding...", "Today we're talking about...")
    - Set expectations: "We listen when others talk, we use kind words, and everyone's ideas matter"
    - Model the behavior you want (calm voice, attentive posture, respectful listening)
 
@@ -118,10 +124,11 @@ Children participate in a structured gathering where everyone sits together, tak
    - Model active listening—look at the speaker, nod, and respond with interest
 
 3. **Discovery** (3-5 min):
-   - Ask follow-up questions to encourage deeper thinking: "Tell us more about that," "How did that make you feel?"
-   - Connect children's ideas to each other: "That's like what [child] said about..."
+   - Ask follow-up questions to encourage deeper thinking: "Tell us more about that," "What would happen if we did that?"
+   - Connect children's ideas to each other: "That's like what [child] said about... these ideas are related"
+   - Point out when perspectives differ: "Interesting — [child A] thinks X and [child B] thinks Y. Both of you noticed something real. How do we decide?" This is what deliberation looks like.
    - Validate all contributions: "That's an interesting idea," "Thank you for sharing"
-   - Point out what you notice: "I notice everyone had something important to say"
+   - When a decision is needed: "We've heard everyone's ideas — now how do we decide? We could vote (majority wins) or we could find something everyone agrees on (consensus). What do you think we should do?"
    - If appropriate, record key ideas or decisions on chart paper to visualize the group's thinking
 
 4. **Wrap-up** (2-3 min):
@@ -138,7 +145,7 @@ Keep meetings very short (10-15 minutes) with concrete topics. Use simple langua
 
 **3-4+ years**:
 
-Extend meetings to 15-25 minutes with more complex topics and genuine discussion. Children can remember and refer back to previous discussions. Teach more formal structures (showing ideas on a chart, voting, making decisions). Introduce simple problem-solving: name the problem, brainstorm ideas, evaluate options, decide together. Children can manage a talking object or help facilitate. Foster more back-and-forth conversation where children respond to each other's ideas. Connect meetings to real situations and group decisions that affect them. Children at this age can understand cause-and-effect and appreciate seeing their ideas implemented.
+Extend meetings to 15-25 minutes with more complex topics and genuine discussion. Children can remember and refer back to previous discussions. Teach more formal structures (agenda, voting, majority vs. consensus). Introduce the vocabulary directly: "We're going to vote — that's democratic, it means everyone's opinion counts equally." Introduce simple problem-solving: name the problem, brainstorm ideas, evaluate options, decide together. Children can manage a talking object or help facilitate. Foster back-and-forth conversation where children respond to each other's ideas — not just to the adult. Connect meetings to real decisions that affect them and follow through. Children this age can begin to understand why listening to people with different experiences is valuable: "Grandma knows things about this that we don't, because she grew up somewhere different."
 
 ### Extension Ideas
 

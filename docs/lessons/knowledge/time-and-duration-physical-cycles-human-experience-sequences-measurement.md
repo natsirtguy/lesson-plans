@@ -12,9 +12,13 @@ Children explore the concept of time through their own physical cycles, daily ro
 
 **Cycle**: A pattern that repeats over and over again in the same order. Your body has cycles—sleeping and waking, eating and digesting. The sun rises and sets in a cycle every single day.
 
-**Oscillation**: A regular back-and-forth movement. Pendulum clocks keep time because a swinging pendulum oscillates at a steady, predictable rate—every swing takes exactly the same amount of time, which is what makes it useful for measuring.
+**Oscillation**: A regular back-and-forth movement that repeats at a perfectly steady rate. Pendulum clocks keep time because each swing of the pendulum takes exactly the same duration — the longer the pendulum, the slower it swings. Modern atomic clocks keep time by counting the oscillations of cesium atoms — 9,192,631,770 vibrations per second define exactly one second. This is now the official scientific definition of a second.
 
-**Interval**: A space of time between events, like the time between lunch and snack time. Scientists use intervals to measure and compare durations precisely.
+**Circadian rhythm**: The body's internal biological clock — a roughly 24-hour cycle that regulates when you feel sleepy, when you feel awake, when you get hungry, and even when your body temperature peaks and drops. Even without any clocks or sunlight, human bodies follow this cycle because of special cells in the brain's hypothalamus that track time. Children's circadian rhythms are still maturing, which is why toddlers and babies sleep differently than adults.
+
+**Entropy**: The scientific explanation for why time has a direction — why you can't un-spill milk or un-break an egg. The universe naturally moves from ordered states (all the milk in the cup) to disordered states (milk everywhere). This one-way tendency — called entropy — is why we remember the past but not the future, and why time seems to flow only forward. It is one of the great mysteries of physics.
+
+**Interval**: A space of time between events, like the time between lunch and snack time. Scientists use precisely measured intervals to compare durations and discover patterns.
 
 ## Learning Song
 
@@ -126,7 +130,8 @@ Children explore time through multiple sensory experiences: observing water drip
    - "Which takes longer—eating a snack or singing a song?"
    - "What do you do first when you wake up? What comes next?"
    - "Is a clock hand moving fast or slow? Can you make your arm move like the clock hand?"
-   - Point out: "Your body has cycles too. You wake up and sleep. You're hungry and then you eat. That's a cycle."
+   - Point out: "Your body has cycles too. You wake up and sleep. You're hungry and then you eat. That's a cycle. And your body runs these cycles on its own biological clock — scientists call it a **circadian rhythm**. Even if you stayed in a dark room with no clocks, your body would still know roughly when to feel tired and when to feel awake."
+   - Ask: "Have you ever noticed that time feels slow when you're bored but fast when you're playing? That's real — your brain measures time differently depending on how much it's paying attention. Scientists have studied why: when you're excited and focused, your brain doesn't keep as close a track of seconds passing. When nothing is happening, it notices every moment. Time passing at the same rate can FEEL different."
    - Say: "Time is always moving, even when we can't see it. The sand timer shows us time because we can watch it happen. A clock counts tiny regular oscillations—like a very fast heartbeat—to measure seconds and minutes exactly."
 
 4. **Wrap-up** (2-3 min):
@@ -184,7 +189,7 @@ Introduce new activities to time, or challenge them with predictions: "Do you th
 **Solution**: Use only 2-3 items at first. Repeat the same sequence daily. Add hand motions or sounds to each step so it becomes a full sensory memory. For example: wake up (stretch arms up), eat (pretend to eat), sleep (lay down and snore). You can use the word "sequence" naturally: "Let's do our morning sequence."
 
 **Challenge**: Child asks "but where does time go?"
-**Solution**: This is a profound question—don't deflect it! You can say: "That's something scientists and philosophers have wondered about for thousands of years. Time seems to only move in one direction—forward—and we can't put it back. That's one of the interesting mysteries of the universe." Even young children can hold the idea that some questions are genuinely hard and fascinating.
+**Solution**: This is a profound question — don't deflect it! Give an honest, rich answer: "That's something scientists and philosophers have wondered about for thousands of years. Physicists think time flows forward because of something called **entropy** — the universe tends to get more mixed-up and disordered over time (like how a sandcastle gets scattered by waves but the scattered sand never forms back into a castle on its own). Time going forward means things going from ordered to disordered. We can't reverse it. Even Albert Einstein showed that time isn't a fixed thing — it actually moves slightly faster or slower depending on how fast you're moving or how much gravity you're near. Astronauts aging in space age slightly differently than people on Earth." Even young children can hold the idea that some questions are genuinely hard and fascinating, and they deserve the real answer rather than a deflection.
 
 ### Follow-Up Activities
 

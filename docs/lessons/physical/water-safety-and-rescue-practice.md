@@ -14,6 +14,16 @@ Water safety and rescue practice teaches young children fundamental skills for b
 
 **Space Required**: Small water area with safe access
 
+## Key Concepts
+
+**Buoyancy**: The upward force that water exerts on objects placed in it. Water pushes back against anything that enters it — that's why objects float. Your body floats because water pushes up on you with a force equal to the weight of the water your body displaces (pushes aside). Relaxing your muscles makes your body spread out and displace more water, which is why a relaxed body floats better than a tense one.
+
+**Density**: How much mass is packed into a given space. Objects less dense than water float; objects more dense sink. The human body is close to water's density, which is why we float when we breathe in (air in lungs makes us less dense) and tend to sink when we exhale.
+
+**Aspiration**: When liquid enters the airways (trachea and lungs) instead of going down the esophagus to the stomach. Even a small amount of water aspirated into the lungs interferes with gas exchange — the process where lungs transfer oxygen into the blood and remove carbon dioxide. This is why swallowing water while swimming is uncomfortable, and why water in the airway is genuinely dangerous.
+
+**Involuntary response**: Drowning is dangerous partly because a person in water distress cannot shout — the body automatically closes the throat to prevent water entry, making rescue detection difficult. This is why adult supervision must be visual and constant, not listening-based.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -90,9 +100,10 @@ Water safety and rescue practice teaches young children fundamental skills for b
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show the child the water area and talk about water safety in simple terms: "Water is fun and also needs our respect"
+- Show the child the water area. Explain concretely why water needs care: "Water can get inside your lungs — the air bags inside your chest — and when water fills them, they can't bring oxygen to your blood. That's why we're always careful and always have an adult right here."
+- Drop a small object in the water and ask: "What happened? Water pushed it back up — that's called **buoyancy**. The water pushes back on everything. Your body is so close to water's weight that it can float too, and we're going to practice that."
 - Demonstrate calm water entry by sitting at the edge, then gently sliding into the water with support
-- Point out the non-slip mat: "This bumpy mat keeps us safe so we don't slip"
+- Point out the non-slip mat: "This bumpy mat keeps us safe so we don't slip — wet surfaces are extra slippery because water acts as a lubricant between your feet and the ground"
 - Establish the key safety rule: "An adult is always with us in the water"
 
 #### Skill Practice (4-6 minutes)
@@ -103,7 +114,7 @@ Water safety and rescue practice teaches young children fundamental skills for b
 
 2. **Supported entry into water** - Hold the child securely with both hands at chest level. Help them slowly step into the water. Say: "Nice and slow. I've got you. You're safe!" Let them feel the water around their legs and body.
 
-3. **Floating support and awareness** - With your hands supporting the child under their arms and torso, gently move them through the water. Talk about how water holds them up: "The water is holding you! You're floating!" Keep movements slow and calm.
+3. **Floating support and awareness** - With your hands supporting the child under their arms and torso, gently move them through the water. Explain the science: "The water is pushing up on you right now — that force is called buoyancy. When you take a deep breath and hold it, your lungs fill with air and you become less dense than the water, so you float better. Try taking a big breath... feel how the water holds you more?" Keep movements slow and calm. Let the child experiment with a deep breath vs. exhaled position to feel the difference.
 
 **Coaching cues**:
 - "Keep your body relaxed in the water"
@@ -264,7 +275,7 @@ Let the child play safely in the shallow water with gentle adult supervision.
 
 ### Safety Reminders
 
-- **Constant supervision**: An adult must have eyes and hands on the child at all times. Drowning can happen silently and in seconds. Do NOT assume the child can call for help.
+- **Constant supervision**: An adult must have eyes and hands on the child at all times. Drowning is often silent — a person whose airway is compromised cannot shout because the body's involuntary reflex closes the throat to block water. Do NOT rely on hearing a cry for help; watch continuously.
 - **Never leave unattended**: Not even to grab a towel or phone. Bring everything needed to the water area first.
 - **Watch for signs of cold**: Shivering, lips turning blue, chattering teeth, or lethargy mean it's time to exit and warm up
 - **Appropriate water depth**: For ages 2-3, water should never exceed waist height, and shallower is better (6-9 inches ideal)

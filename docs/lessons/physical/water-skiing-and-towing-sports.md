@@ -14,6 +14,16 @@ Water skiing and towing sports introduce young children to the thrilling sensati
 
 **Space Required**: Open water minimum 200 feet long, calm conditions
 
+## Key Concepts
+
+**Planing**: The physics phenomenon that makes water skiing possible. At slow speeds, an object sinks into water because water pressure pushing up (buoyancy) isn't enough to overcome gravity. But when an angled surface moves fast enough across water, the water flowing underneath creates a powerful upward force — **hydrodynamic lift** — that pushes the object up onto the water's surface rather than through it. Skis are angled and shaped specifically to plane at lower speeds. This is the same principle that allows boats to "get up on plane" and why speedboats rise at the bow as they accelerate.
+
+**Drag**: The resistance force that water exerts against objects moving through it. Water is about 800 times denser than air, so drag in water is enormous. Skis are narrow and smooth to minimize drag while maximizing lift. When a skier falls, drag immediately decelerates them — which is why falls feel sudden.
+
+**Center of gravity**: The point in your body where your weight is balanced. Keeping your center of gravity directly over your skis (not leaning too far forward or back) is what keeps you upright. When your center of gravity moves outside your base of support, you fall — the same physics as balancing on one foot or riding a bicycle.
+
+**Tension and force transfer**: The tow rope transfers the boat's engine force to the skier. When the boat accelerates, the rope applies a forward horizontal force. That forward force, combined with the hydrodynamic lift from the angled skis, is what lifts the skier out of the water and onto the surface.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -95,9 +105,10 @@ Water skiing and towing sports introduce young children to the thrilling sensati
 
 #### Introduction & Demonstration (2-3 minutes)
 - Show child exactly how they'll hold rope handle (firm grip, arms slightly bent)
-- Demonstrate the proper ski position: slightly crouched, looking forward, weight balanced
-- Explain that boat will start very slowly, and their job is to hold on and let the rope do the work
-- Reassure: "You won't have to pull yourself - the rope will help you. I'll be right there watching you!"
+- Explain the physics simply: "Right now, standing in the water, you're too heavy to float on top — you sink in. But when the boat pulls you fast enough, your skis are angled so that water rushing underneath pushes you UP onto the surface. That upward push is called hydrodynamic lift. Your job is to stay in position so the skis can do their job."
+- Demonstrate the proper ski position: slightly crouched, looking forward, weight over the skis (not behind them)
+- Explain center of gravity: "If you lean too far back, your weight moves behind your skis and you tip over backwards. If you lean too far forward, your tips go under. You want your weight right above your feet — that's your center of gravity in balance."
+- Reassure: "I'll be right there watching you!"
 
 #### Skill Practice (3-5 minutes)
 **Skill breakdown**:
@@ -108,9 +119,10 @@ Water skiing and towing sports introduce young children to the thrilling sensati
 
 **Coaching cues**:
 - "Hold the rope like you're holding Mommy's hand - not too tight, not too loose"
-- "Make yourself like a tree - strong, balanced, and ready to move"
-- "Eyes forward, looking where we're going. The rope is your friend!"
-- "When the boat moves, just hold on and trust it. The rope will help you up!"
+- "Keep your weight over your feet — that's your center of gravity staying balanced"
+- "Eyes forward, looking where we're going"
+- "When the boat speeds up, the water is going to push your skis upward — that's the lift! Hold your position and let the lift do the work"
+- "Bent knees act like springs — they absorb bumps and keep your center of gravity steady"
 
 #### Guided Play/Game (5-10 minutes)
 **Game structure**:
