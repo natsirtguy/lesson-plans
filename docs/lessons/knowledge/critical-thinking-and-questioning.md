@@ -6,13 +6,17 @@ In this lesson, children develop foundational critical thinking skills by learni
 
 ## Vocabulary
 
-**Wonder**: The feeling of wanting to know something or figure something out; when you ask "why" or "how" about things you see. When you watch a butterfly and wonder how it got its colors, you're being curious.
+**Observation**: Direct information gathered through your senses — what you actually see, hear, feel, smell, or taste. "The rock is hard and gray" is an observation. Observations are facts about what's directly in front of you.
 
-**Question**: A sentence that asks for information or help figuring something out. Questions often start with words like "why," "how," "what," or "when." When you ask "Where did the dog go?" you're asking a question.
+**Inference**: A conclusion you draw from observations, using what you already know. "I think this rock came from a river because it's smooth and rounded — flowing water polishes rocks over time" is an inference. Inferences can be right or wrong; they need evidence to support them. Distinguishing between what you observed and what you inferred is one of the most important thinking skills there is.
 
-**Observe**: To look closely and carefully at something to notice all its details, colors, shapes, and movements. When you observe a snail, you might notice its shell is spiral-shaped and it leaves a shiny trail.
+**Hypothesis**: An educated guess — a specific, testable prediction about what you think will happen or what you think is true, based on what you already know. "I hypothesize the heavy object will sink and the light one will float" is a hypothesis. A good hypothesis can be tested to see if it's right.
 
-**Reason**: To think carefully about why something happens or how to solve a problem using what you know. When you reason about why a plant needs water, you're thinking about what makes things grow.
+**Evidence**: Information that supports or contradicts a hypothesis. After testing, if the heavy object sinks, that's evidence your hypothesis was correct. Scientists, detectives, doctors, and lawyers all rely on evidence to figure out what's true.
+
+**Cause and effect**: The relationship between events where one thing makes another thing happen. "The ice melted because the room was warm" identifies a cause (warmth) and effect (melting). Critical thinkers are always asking: what caused this? What will this cause?
+
+**Bias**: A tendency to favor one answer or interpretation before you've looked at the evidence — which can lead you to notice only what confirms what you already believe and ignore information that contradicts it. Even scientists have to work to avoid bias.
 
 ## Learning Song
 
@@ -61,7 +65,7 @@ If you want to reason how, think it through
 
 ### Activity Overview
 
-Children become investigators exploring a mystery box or collection of objects. They practice asking questions about what they observe, make predictions, and test their ideas through exploration. This hands-on approach teaches that questions are tools for discovery and that careful observation leads to understanding.
+Children become investigators exploring a mystery box or collection of objects. They practice a real thinking framework — the same one scientists and detectives use: observe, infer, hypothesize, test, revise. The goal is not to teach "questions are fun" but to teach the specific habit of distinguishing what you know directly (observation) from what you've concluded (inference), and testing your inferences against evidence. These cognitive habits — when practiced early — become foundational to scientific reasoning, legal thinking, medical diagnosis, and everyday judgment.
 
 **Activity Type**: Guided exploration and discovery play
 
@@ -103,27 +107,24 @@ Children become investigators exploring a mystery box or collection of objects. 
 
 2. **Exploration** (8-10 minutes):
 
-   Guide children through investigation by:
-   - Allowing them to feel the box (shake it gently, feel its weight, listen for sounds)
-   - Asking open-ended questions: "What do you hear? What do you feel? Is it heavy or light? Does it move?"
-   - Encouraging them to ask their own questions about what's inside
-   - Helping them think through clues: "The sound gives us a clue. What does that tell us?"
-   - Gradually revealing one object at a time and examining it closely
-
-   For each revealed object, ask: "What do you notice about this? Where might we use it? What questions do you have about it?"
+   Guide children through the observation → inference framework explicitly:
+   - Allow them to feel the box (shake it gently, feel its weight, listen for sounds)
+   - Help them distinguish observations from inferences: "You heard a rattle. That's your observation — what your ear told you. Now, what does that tell us about what's inside? That's your inference. You're reasoning from the evidence."
+   - Encourage hypotheses before revealing: "What's your hypothesis? What do you think is in here, and why?" Make sure they give a reason ("because it rattled" or "because it's heavy").
+   - Gradually reveal one object at a time — then check: "Was your hypothesis right? What was the evidence?"
+   - For each revealed object, practice observation vs. inference: "Tell me one thing you observe directly. Now tell me one thing you're inferring — something you've figured out that you can't see directly."
 
 3. **Discovery** (3-5 minutes):
 
-   Once all objects are revealed, explore them together:
-   - "Why do you think this is smooth? What would happen if we..."
-   - "How could we use this differently?"
-   - "I notice it's red. What else is red in this room?"
-   - Encourage children to ask you questions too: "What questions do YOU have about these things?"
-   - Celebrate curiosity: "That's a wonderful question! Let's think about that together."
+   Once all objects are revealed, push to cause-and-effect reasoning:
+   - "Why do you think this is smooth?" Wait for a hypothesis, then test it if possible ("smooth things are easier to hold — let's test that")
+   - Introduce the idea of disconfirming evidence: "What would tell us our hypothesis was WRONG? What would we have to see for us to know we made a wrong guess?"
+   - Model your own reasoning aloud: "I observe that the ball is perfectly round. I infer it was made by a machine rather than by hand, because making a perfect sphere by hand is almost impossible. How could we test that inference?"
+   - Point out when bias is happening: "I thought it would be light because it's small — I had a bias. But small things can be heavy (try a small rock vs. a big balloon). Did your bias match what actually happened?"
 
 4. **Wrap-up** (2 minutes):
 
-   Summarize learning: "Today we asked lots of great questions! Questions help us learn new things. You're all wonderful investigators!"
+   Summarize the process — not just the fun: "Today we practiced observation (what we saw directly), inference (what we figured out from evidence), and hypothesis (our testable predictions). That's what scientists, doctors, and detectives do — not just asking questions, but knowing the difference between what you know and what you're guessing."
 
    Transition idea: "Our mystery objects can stay here for you to explore more, or we can put them away and make a NEW mystery box tomorrow!"
 
@@ -135,7 +136,7 @@ Keep it simple and concrete. Use only 2-3 very familiar objects (favorite toy, s
 
 **3-4+ years**:
 
-Introduce more complex objects with multiple attributes (toys with moving parts, textured items, something that makes sounds). Ask deeper questions requiring reasoning: "Why do you think it sounds that way? What would happen if we...?" Encourage them to ask YOU questions. Introduce cause and effect: "What happens when we shake it? Why does it bounce?" Let them predict before revealing items: "I think it might be... because I heard..."
+Introduce more complex objects with multiple attributes (toys with moving parts, textured items, something that makes sounds). Use the vocabulary explicitly: "Give me one observation and one inference." Ask them to articulate the difference. Introduce cause and effect systematically: "What caused that to happen? What is the effect of shaking it?" Let them formulate proper hypotheses before revealing items: "State your hypothesis and your reason — I think it's X because Y." Introduce the idea that good scientists write down their hypotheses before testing so they can't change their story afterward (this is the origin of the scientific method). Acknowledge when a hypothesis was wrong: "Your hypothesis was wrong — that's great! Wrong hypotheses are how scientists learn."
 
 ### Extension Ideas
 

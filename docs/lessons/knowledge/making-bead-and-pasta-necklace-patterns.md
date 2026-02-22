@@ -6,13 +6,17 @@ Children explore color, sequence, and pattern-making by threading beads and past
 
 ## Vocabulary
 
-**Pattern**: A repeated arrangement of colors, shapes, or objects that occurs in a predictable sequence. When you string red bead, blue bead, red bead, blue bead—that alternating design is a pattern your necklace follows.
+**Pattern**: A repeating arrangement where a unit (a group of elements) repeats over and over according to a rule. Mathematicians classify patterns by their structure: an **AB pattern** alternates two different things (red, blue, red, blue), an **ABC pattern** cycles through three (red, blue, yellow, red, blue, yellow), an **ABBA pattern** mirrors (red, blue, blue, red, red, blue, blue, red). Patterns are the foundation of algebra — in algebra, letters like A and B are just placeholders that can stand for any object or number.
 
-**Sequence**: The order in which things are arranged or happen one after another. When you place beads on your string in order—big, small, big, small—you're creating a sequence.
+**Iteration**: One complete repetition of the pattern unit. In a red-blue necklace, each "red + blue" is one iteration. Mathematicians talk about how many iterations a pattern completes. The more iterations, the more clearly predictable the pattern becomes.
 
-**Texture**: The way something feels to touch—rough, bumpy, smooth, or slippery. Pasta feels bumpy and rough, while some beads feel smooth and shiny, and that difference in texture makes your necklace interesting.
+**Predictability**: The power of patterns — once you know the rule, you can predict what comes next without seeing it. If your pattern is AB (red, blue), and I cover the next bead, you can tell me exactly what color it is. This is the same principle behind mathematical formulas and scientific laws: find the pattern, and you can predict.
 
-**Symmetric**: When both sides of something match each other and look the same. If you put a red bead in the middle and then add the same pattern on both sides, you've created a symmetric necklace.
+**Sequence**: The order in which things are arranged. All patterns are sequences, but not all sequences are patterns — a sequence only becomes a pattern when a unit repeats according to a consistent rule.
+
+**Texture**: The surface quality of an object that can be felt by touch. Texture is caused by physical structure — pasta tubes have ridges because of how they're extruded through a shaped die, while smooth beads have been polished or cast in a mold that produces a uniform surface.
+
+**Axis of symmetry**: An imaginary line through an object where, if you fold along that line, both halves match exactly. A necklace with a center bead and matching beads extending outward in the same pattern on both sides has a vertical axis of symmetry through the center bead. Many patterns in nature (butterflies, leaves, human faces) show symmetry.
 
 ## Learning Song
 
@@ -114,11 +118,11 @@ Children will thread beads and/or pasta shapes onto string to create their own p
 
 2. **Exploration** (8-15 minutes):
    - Child selects beads and pasta pieces and threads them onto the string at their own pace
-   - Provide gentle guidance: "Do you want to put red next, or blue?"
-   - Ask pattern-discovery questions: "I see you put big, small, big, small. That's a pattern! What comes next?"
+   - When a pattern emerges, name it with its mathematical label: "You did red, blue, red, blue — that's an AB pattern! A stands for red and B stands for blue."
+   - Ask predictability questions: "You've got AB, AB, AB — if I cover the next bead, what color is it? How do you KNOW?" (The point: you know because the rule tells you.)
    - If child wants to remove beads, that's okay—this is exploration, not perfection
-   - For children struggling with threading, you might thread a few pieces and let them continue, or practice with larger beads/pasta first
-   - Encourage trying both smooth beads and textured pasta: "Feel this one—it's bumpy! Now feel this bead—it's smooth!"
+   - For children struggling with threading, pre-thread a few pieces and let them continue, or practice with larger beads/pasta first
+   - Encourage trying both smooth beads and textured pasta: "Feel this one—it's bumpy! Now feel this bead—it's smooth!" (If you know: penne gets its ridges because the pasta dough is pushed through a metal mold with a ridged shape — the shape is pressed in.)
 
 3. **Discovery** (3-5 minutes):
    - Once string is full or child is satisfied, tie a knot at both ends (or help them tie it)
@@ -145,12 +149,13 @@ Children will thread beads and/or pasta shapes onto string to create their own p
 
 **3-4+ years**:
 - Offer a variety of bead sizes and pasta shapes
-- Challenge them to create intentional patterns: "Can you make red, blue, red, blue?"
+- Challenge them to create intentional patterns and name the type: "Can you make an AB pattern? An ABC pattern? What about ABBA?"
 - Introduce color sorting before threading: "Let's put all the red beads in one bowl"
-- Encourage symmetry: "Put a big bead in the middle, then add the same beads on both sides"
+- Teach symmetry explicitly: "Put a big bead in the middle — that's where the axis of symmetry will be. Now add the exact same sequence on the left and the right. If you fold it at the center bead, both halves should match."
 - Allow them to remove and rearrange beads multiple times
-- Ask them to describe their pattern to you or a friend
-- Suggest themed necklaces: "Let's make a necklace with only smooth beads" or "Let's use all warm colors—red, orange, yellow"
+- Ask them to describe their pattern using the mathematical labels: "What type of pattern is this? Can you tell me the rule?"
+- Ask: "If I hid the next 3 beads, could you tell me what they are? That's what patterns let you do — they're predictable."
+- Suggest themed necklaces: "Let's make a necklace with only smooth beads" or "Let's use all warm colors—red, orange, yellow — what type of pattern could we make with those three?"
 
 ### Extension Ideas
 

@@ -6,13 +6,17 @@ Foreign language conversation introduces young children to the sounds, rhythms, 
 
 ## Vocabulary
 
-**Linguistic**: Relating to language and the way we speak or communicate. When you notice how different languages sound different, you are being linguistic thinkers.
+**Linguistic**: Relating to language and the way we speak or communicate. Linguists — scientists who study language — have documented over 7,000 distinct languages spoken by humans around the world.
 
-**Articulation**: The clear and precise pronunciation and formation of words and sounds with your mouth, lips, and tongue. Good articulation helps people understand what you are saying.
+**Phoneme**: The smallest unit of sound in a language that changes meaning. The words "cat" and "bat" differ by one phoneme. Every language uses a different set of phonemes, which is why some foreign sounds feel impossible to say at first — your mouth has never practiced making them.
 
-**Inflection**: The way your voice rises and falls when you speak, creating expression and emotion in your words. When you say "hello?" with your voice going up, that's using inflection to ask a question.
+**Articulation**: The clear and precise pronunciation and formation of sounds using your mouth, lips, tongue, and teeth. Different languages require different articulation — some use throat sounds (Arabic), tongue rolls (Spanish), or tones (Mandarin) that English speakers find unfamiliar.
 
-**Multilingual**: Able to speak, understand, and communicate in more than one language. A multilingual person might speak Spanish at home and English at school.
+**Inflection**: The way your voice rises and falls when you speak, creating expression and meaning. In Mandarin Chinese, the same syllable "ma" means four completely different things depending on inflection: mother, hemp, horse, or scold.
+
+**Multilingual**: Able to speak and understand more than one language. Research shows that multilingual people develop stronger executive function — the brain's ability to switch attention, plan, and solve problems — because managing two languages exercises these mental skills constantly.
+
+**Language family**: A group of languages that descended from a common ancestor language. Spanish, French, Italian, and Portuguese are all "Romance languages" — they share Latin roots, which is why "water" is *agua*, *eau*, *acqua*, and *água* across these languages.
 
 ## 🎵 Learning Song
 
@@ -65,7 +69,7 @@ Celebrate our learning.
 
 ### Activity Overview
 
-In this activity, your child will be exposed to and practice simple words and phrases in a language other than their primary language. Through games, songs, repetition, and natural conversation, they'll develop phonetic awareness, build confidence with unfamiliar sounds, and begin to understand that people around the world communicate in different ways. This activity celebrates linguistic diversity and opens children's minds to the beautiful variety of human expression.
+In this activity, your child will be exposed to and practice simple words and phrases in a language other than their primary language. The goal is not fluency — it is genuine exposure to the fact that human beings have invented thousands of different sound systems to communicate the same ideas. Through games, songs, repetition, and natural conversation, children build phonological awareness (sensitivity to the sound units of language), discover that their mouth can learn new movements, and begin to understand that the particular language they grew up with is one of thousands of equally valid human inventions. Research in developmental psychology confirms that early multilingual exposure exercises the brain's executive function circuits — even without becoming fluent, children who practice switching between languages develop stronger cognitive flexibility.
 
 **Activity Type**: Linguistic development and cultural practice
 
@@ -103,19 +107,17 @@ In this activity, your child will be exposed to and practice simple words and ph
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - Use your normal language first: "Today we're learning to speak [language] together!"
-   - Show genuine enthusiasm and warmth in your voice and face
-   - Introduce one word slowly and clearly with a picture or object
-   - Say it multiple times, inviting your child to repeat after you
-   - Celebrate any attempt, even if the pronunciation is not perfect
+   - Tell your child the name of today's language and, if possible, where in the world it's spoken — point to a map or globe. "Today we're learning Spanish, which is spoken in Spain, Mexico, and about 20 other countries — more people speak Spanish than English!"
+   - If it's a language from a related family (e.g., French when you know Spanish), mention that connection: "French and Spanish are cousins — they both come from Latin, which ancient Romans spoke 2,000 years ago."
+   - Introduce one word slowly and clearly with a picture or object, saying it multiple times
+   - Celebrate any attempt, even if pronunciation is imperfect — this is exactly what phoneme training sounds like
 
 2. **Sound Play & Repetition** (3-5 minutes):
+   - Before imitation, make the sounds interesting: "This language has a sound we don't use in English — listen to this!" Then demonstrate something genuinely distinct (a Spanish rolled R, a French nasal vowel, a German umlauted vowel). Let your child try to make the new sound.
+   - Explain simply: "Your mouth has muscles, and making new sounds is exercise for mouth muscles you haven't used yet — just like learning to kick a ball."
    - Introduce new vocabulary through playful imitation
-   - Speak one simple word slowly, inviting your child to repeat
-   - Use exaggerated mouth movements to show how to make the sounds
-   - Say the word with different emotions (happy, silly, sleepy)
-   - Repeat with 2-3 additional simple words
-   - Pair each word with a gesture or action when possible
+   - Use exaggerated mouth movements to show articulation
+   - Repeat with 2-3 additional simple words, pairing each with a gesture
 
 3. **Interactive Practice** (5-10 minutes):
    - Play a naming game: point to objects and say the word in the target language, then invite your child to repeat
@@ -155,12 +157,12 @@ In this activity, your child will be exposed to and practice simple words and ph
 
 - Introduce more complex sentences and concepts
 - Your child can participate in more back-and-forth conversation
-- Introduce written letters and simple words if your child is interested
+- Introduce written letters — point out that some languages use completely different writing systems (Arabic goes right-to-left, Chinese uses characters representing whole words, not sounds)
 - Play more structured games with rules and simple storytelling
 - Create simple props to support role-play in the target language
 - Sessions can be 15-20 minutes with more engaged listening
 - Encourage your child to teach you words and correct you playfully
-- Your child may become curious about why languages are different
+- When your child asks why languages are different, give the real answer: humans spread across the whole world thousands of years ago and developed separately — so their languages evolved differently, just like animals on different islands evolved into different species
 
 ### Extension Ideas
 
@@ -174,7 +176,7 @@ In this activity, your child will be exposed to and practice simple words and ph
 
 **Variation 5**: Role Play Scenarios - Act out simple scenarios (restaurant, shopping, greeting) using the target language with props
 
-**Variation 6**: Multi-Language Comparison - Learn a simple word in multiple languages and compare how different cultures say the same thing
+**Variation 6**: Multi-Language Comparison - Learn the word for "water" in 6 languages (*agua*, *eau*, *Wasser*, *água*, *voda*, *maji*) and discuss: the same substance, six completely different sounds. Ask your child why they think that happened — there's no wrong answer, and the real answer (languages evolved separately) is worth sharing
 
 **Repeat play**: Use the same language and words for several weeks before introducing new vocabulary. Familiar words build confidence. Occasionally revisit earlier words to show progress.
 
