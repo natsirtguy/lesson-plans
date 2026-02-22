@@ -6,13 +6,15 @@ Children engage in imaginative pretend play, taking on different roles and actin
 
 ## Vocabulary
 
-**Simulate**: To act out or pretend something is happening in order to practice or understand it better, like pretending to be a doctor giving a check-up to your stuffed animal.
+**Theory of Mind**: The ability to understand that other people have thoughts, feelings, and knowledge that are *different from your own*. This is one of the most important things a young brain develops, and role-playing is one of the main ways children practice it — when you "be" someone else, you have to imagine how *they* think and feel.
 
-**Character**: A person or creature that you pretend to be during play, like becoming a firefighter, a butterfly, or a friendly dinosaur.
+**Symbolic thinking**: Using one thing to represent something else — like using a banana as a telephone, or a blanket as a spaceship. This is a major cognitive milestone: the brain has to hold *two* ideas at once (this is a banana AND it's a phone right now). All language, math, and art rely on symbolic thinking.
 
-**Scenario**: A made-up situation or scene that you act out, like pretending your living room is a grocery store or a jungle expedition.
+**Simulate**: To recreate or model something in a controlled, safe environment in order to practice or understand it. Children simulate social situations through pretend play. Adults simulate too — pilots train on flight simulators, surgeons practice on models, scientists run computer simulations before experiments. Simulation is a core human strategy for learning without real-world risk.
 
-**Improvise**: To make up words and actions as you go along without planning them first, like making up funny dance moves while pretending to be a silly robot.
+**Empathy**: The ability to understand and share the feelings of another person — to feel what they might be feeling. Role-playing builds empathy because you practice *being* someone else: their perspective, their problems, their emotions.
+
+**Executive function**: A set of mental skills that includes holding information in mind while doing something else (*working memory*), stopping yourself from doing what you immediately want (*inhibitory control*), and switching between tasks or perspectives (*cognitive flexibility*). Role-play strengthens all three — to stay "in character" you must hold the character's identity in mind, suppress your own reactions, and flexibly respond to whatever the other person does.
 
 ## Learning Song
 
@@ -97,50 +99,34 @@ Children will create and act out simple pretend scenarios, taking on different r
 **Activity Flow**:
 
 1. **Introduction** (3-4 min):
-   - Introduce the idea: "Today we're going to pretend! We can be anyone or anything we want!"
-   - Show 2-3 props and ask: "What could we be with this hat? Or these shoes?"
-   - Model one simple role (put on hat, say "I'm a chef!") and do a simple action (pretend to cook)
-   - Invite the child to choose what they want to pretend
+   Connect pretend play to the real world: "Do you know that grown-ups use pretend too? Pilots practice flying in a pretend airplane called a *simulator* before they fly a real one. Doctors practice on models before doing real surgery. Pretending is actually a smart way to practice something safely before doing the real thing."
 
-2. **Exploration** (8-12 min):
-   - Let the child pick a role or scenario and initiate play
-   - Start with the child's idea rather than directing what they should do
-   - Offer props that match their chosen role
-   - Ask open-ended questions: "What are you doing?" "What happens next?" "Can I be your helper?"
-   - Play alongside them, mirroring their actions and building on their ideas
-   - Allow play to evolve naturally - if they switch roles or scenarios, follow their lead
-   - Use simple dialogue: "Hello, I need a haircut!" or "I'm a firefighter. Let's go help!"
+   Introduce symbolic thinking explicitly: hold up a banana like a phone. "Right now in my head, this is a phone. I'm holding *two* ideas at once — banana AND phone. When you do that, you're doing *symbolic thinking*, and that's actually one of the most important things your brain can do. All reading and math work that way too."
 
-3. **Discovery** (2-3 min):
-   - Pause occasionally to point out what you notice: "You're being so gentle with the baby doll"
-   - Highlight emotions and perspective-taking: "The doctor is helping people feel better"
-   - Celebrate creative ideas: "That's a clever way to use that blanket as a bridge!"
+2. **Theory of Mind Exploration** (8-12 min):
+   Choose a role scenario (doctor and patient, shopkeeper and customer, chef and hungry person).
+
+   Before playing, pause to discuss perspective: "I'm going to be the customer. What do you think the customer is feeling? What does she need? What might she be worried about?" Then switch: "Now you be the customer — what are YOU feeling?" This explicit perspective-taking conversation is the core intellectual work of this activity.
+
+   During play, narrate the characters' inner experiences: "The patient feels nervous — her leg hurts. The doctor is calm because she knows what to do." This models the mental model-building that is Theory of Mind.
+
+   Ask questions that require perspective-taking: "The customer doesn't know the ice cream is sold out yet. How will she feel when she finds out?" (This is a classic *false belief* test — the child must track what the character knows vs. what is actually true.)
+
+3. **Symbolic Thinking Challenge** (3-4 min):
+   Grab random household objects and ask: "What could this be?" A cardboard tube → telescope, trumpet, periscope. A pot lid → steering wheel, shield, drum.
+
+   Say: "Your brain just did something powerful — it saw one thing and imagined it as something else. That's called symbolic thinking. When you learn to read, every letter is a symbol for a sound. Your brain is already trained for this!"
 
 4. **Wrap-up** (2-3 min):
-   - Gradually wind down with quieter pretend actions
-   - Ask reflection questions: "What did you like about being a [role]?" "What will you pretend to be next time?"
-   - Return props to designated spot
-   - Transition to next activity
+   Reflect: "When you pretended to be [character], you had to think about how they feel and what they want — not what YOU feel. That's called empathy. Scientists have found that children who do lots of pretend play get better at understanding other people's feelings. You just practiced that today."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use very familiar roles (mommy/daddy, baby, dog, cat)
-- Keep scenarios simple and tied to daily routines (eating, sleeping, bathing)
-- Use realistic props that clearly show the role (toy phone, toy food)
-- Provide shorter play sessions (10-15 minutes)
-- Use narration to guide: "You're feeding the baby. The baby says 'yum!'"
-- Don't expect dialogue - actions and sounds are enough
-- Stay close and play alongside them constantly
+Focus on symbolic object play — this is where 2-year-olds are developmentally. Hold up a spoon and say "I'm going to pretend this is a microphone!" and sing into it. When they do the same, name what they're doing: "You're using symbolic thinking — you made that block into a car!" For Theory of Mind, keep it simple: "The teddy bear is hungry. How does the hungry bear feel?" This seeds the concept without requiring complex reasoning yet.
 
 **3-4+ years**:
-- Introduce more complex roles (doctor, chef, teacher, astronaut, sea creature)
-- Create multi-step scenarios: "Let's go to the restaurant, order food, eat, and pay"
-- Encourage dialogue and character voices
-- Ask "what if" questions to extend play: "What if the store runs out of food?"
-- Support longer play sessions (20-25 minutes)
-- Introduce multiple character interactions ("You be the customer, I'll be the shopkeeper")
-- Encourage problem-solving in pretend: "The train is broken - how can we fix it?"
+Run the full false belief exercise: set up a scenario where a character doesn't know something that the child knows (e.g., the doll "doesn't know" that you moved the snack). Ask: "Where will the doll LOOK for the snack?" (where she last saw it) vs. where it actually is. This is the classic Sally-Anne test that psychologists use to assess Theory of Mind development — it's appropriate and genuinely fascinating for this age. Introduce *empathy* by name: "When you can imagine how someone else feels, that's called empathy."
 
 ### Extension Ideas
 

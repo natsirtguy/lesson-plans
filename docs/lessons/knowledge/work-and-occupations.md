@@ -8,13 +8,13 @@ Through this lesson, children discover the variety of jobs and roles that help o
 
 Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
 
-**Occupation**: A job or type of work that someone does regularly to earn money and help others. When firefighters put on their uniforms and drive their big trucks to help people, that is their occupation.
+**Occupation**: A job or type of work that someone does regularly — usually for money. Most people don't try to do everything themselves; instead, each person specializes in one kind of work and trades their skills or products for others' skills and products.
 
-**Tool**: A special object or instrument that helps someone do their job better and faster. A chef uses a big spoon as a tool to stir soup, and a carpenter uses a hammer as a tool to build things.
+**Specialization**: Becoming very skilled at one specific job. A surgeon who does the same operation hundreds of times gets far better at it than a doctor who tries to do everything. Specialization makes people incredibly efficient — but it also means we *depend* on each other. You can't eat without farmers, stay healthy without doctors, or read without writers.
 
-**Uniform**: Special clothes that workers wear to show what job they do and to help them stay safe. Police officers wear blue uniforms with badges, and doctors wear white coats as part of their uniforms.
+**Division of labor**: The way complex tasks are divided among many people, each doing one part. To make a single pencil, you need loggers, sawmill workers, graphite miners, chemists to make the eraser, factory workers, truck drivers, shopkeepers — and that's just for a pencil! This system of dividing up work is how humans create the enormous variety of goods and services in the world. No single person could make a pencil from scratch alone.
 
-**Responsibility**: An important job or duty that someone must do—something they are trusted to handle. A teacher's responsibility is to help children learn, and a parent's responsibility is to keep their child safe and healthy.
+**Economy**: The whole system of work and trade in a community or country — how people make things, provide services, and exchange value. When a farmer grows food, a baker bakes it into bread, and you buy the bread with money earned from your own work, that's the economy in action. Money is just a tool that makes all this trading easier.
 
 ## Learning Song
 
@@ -25,33 +25,16 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 **Lyrics** (2 verses, matching "Wheels on the Bus" structure):
 
 *Verse 1*
-The doctor in the clinic goes "Listen, listen, listen"
-"Listen, listen, listen," all day long
-With a stethoscope to hear your heart
-And helping you feel better, that's their art
-
-Let me recount and revise for proper syllable matching:
-
-*Verse 1*
-The doctor in the clinic says "Let me check you" (10... let me recount the Wheels on the Bus pattern first)
-
-Actually, "Wheels on the Bus" structure is:
-- Line 1: 8 syllables
-- Line 2: 8 syllables
-- Line 3: 12 syllables
-- Line 4: 8 syllables
-
-*Verse 1*
-The doc-tor in the cli-nic goes "check, check, check" (8: the-doc-tor-in-the-clin-ic-goes-check-check-check)
-"Check, check, check" all day long (8: check-check-check-all-day-long)
-With a stetho-scope to listen to your heart, heart, heart (12: with-a-steth-o-scope-to-lis-ten-to-your-heart-heart-heart)
-The doc-tor helps you when you're not well (8: the-doc-tor-helps-you-when-you're-not-well)
+The doctor in the clinic goes "check, check, check"
+"Check, check, check" all day long
+With a stethoscope to listen to your heart, heart, heart
+The doctor helps you when you're not well
 
 *Verse 2*
-The fire-fight-er in the truck goes "ring, ring, ring" (8: the-fire-fight-er-in-the-truck-goes-ring-ring-ring)
-"Ring, ring, ring" all through the town (8: ring-ring-ring-all-through-the-town)
-They wear their bright red coat and helmet on their head, head, head (12: they-wear-their-bright-red-coat-and-hel-met-on-their-head-head-head)
-The fire-fight-er keeps us safe and sound (8: the-fire-fight-er-keeps-us-safe-and-sound)
+The firefighter in the truck goes "ring, ring, ring"
+"Ring, ring, ring" all through the town
+They wear their bright red coat and helmet on their head, head, head
+The firefighter keeps us safe and sound
 
 **Actions/Gestures**:
 1. Stethoscope listening motion: Place hands over ears and move them in circles on chest
@@ -114,13 +97,21 @@ Children will explore a collection of real (or realistic toy) tools and items as
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin with enthusiasm: "Today we're going to discover all the different kinds of work that people do! There are so many people who help our community. Let's find out what tools they use!" Hold up one item (like a toy stethoscope) and ask, "Who uses this? What's their job?" Introduce the concept that different jobs need different tools.
+   Start with a surprising question: "How many people do you think it takes to make a pencil?"
+
+   Let them guess. Then reveal: "To make one pencil, you need loggers who cut trees, sawmill workers who cut the wood, miners who dig up the graphite in the middle, factory workers who put it all together, truck drivers who bring the pencils to the store, and the person at the store who sells it. Dozens and dozens of people — for one pencil! Nobody knows how to make a whole pencil all by themselves. We all depend on each other."
+
+   "That's called *division of labor* — everyone does their part, and together we make all the things we need."
 
 2. **Exploration** (8-10 min):
    Invite the child to pick up each item from the basket one at a time. As they handle each tool, ask open-ended questions: "What could we do with this? Who might use this? What's this person's job called?" Let them match items to the occupation pictures by placing the tool next to the correct person. Some children may match quickly; others may need guidance. Say things like: "That's right! The chef uses the spoon to cook yummy food!"
 
 3. **Discovery** (3-5 min):
-   Once items are matched, point out interesting details: "Look at the firefighter! They have special clothes called a uniform. The red coat keeps them safe. Why do you think doctors need stethoscopes? They listen to our hearts to make sure we're healthy!" Ask the child about their own family: "What kind of work does your mom/dad/grandpa do? What tools might they use?"
+   Once items are matched, go deeper: "These workers all have different *specializations*. The baker spent years learning to make perfect bread. The doctor spent years learning how to diagnose illness. Because they practiced just their skill, they got really, really good at it."
+
+   Ask: "What do you think would happen if everyone had to grow their own food AND make their own clothes AND build their own house AND fix themselves when they were sick? There would be no time for anything else!" This is why specialization and the economy exist.
+
+   Ask the child: "What kind of work does someone in your family do? What are they really good at that most people aren't?"
 
 4. **Wrap-up** (2-3 min):
    Gather items back into the basket together. Summarize: "Today we learned that people do different kinds of work. They use special tools. And all these workers help us and our community!" Transition to the next activity: "Let's wash our hands now, just like a doctor would before helping a patient!"

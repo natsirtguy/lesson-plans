@@ -6,13 +6,13 @@ Family interaction games are playful activities designed to build connection, co
 
 ## Vocabulary
 
-**Interaction**: Back-and-forth communication and play between two people, like when you make a funny face and your child laughs and makes a silly face back at you.
+**Serve and return**: The term developmental scientists use for back-and-forth interactions between a child and caregiver — like a tennis rally. A child "serves" (makes a sound, points, babbles, reaches), and the caregiver "returns" (responds with words, expression, or action). Harvard's Center on the Developing Child found that these interactions literally build and strengthen neural circuits in the developing brain. Missing or inconsistent "returns" — even for short periods — disrupts brain architecture during sensitive windows.
 
-**Connection**: The feeling of closeness and bonding with someone, the warm feeling you get when you're playing together and laughing with someone you love.
+**Object permanence**: The understanding that objects and people continue to exist even when you can't see them. Infants don't have this at birth — before 8–12 months, if you hide a toy, they don't look for it, because "out of sight" means "gone." Peek-a-boo is not just a fun game — it rehearses the concept that a face that disappears behind hands will come back. This is why babies find it endlessly surprising and delightful: they're literally learning something profound about reality.
 
-**Reciprocal**: Taking turns back and forth with someone in a game or activity, like in pat-a-cake where first you clap, then your child claps, and you keep going back and forth.
+**Attachment**: The deep emotional bond between a child and their primary caregiver, studied extensively by psychologist John Bowlby and researcher Mary Ainsworth. Secure attachment — formed through consistent, responsive caregiving — predicts better emotional regulation, social competence, and cognitive development throughout childhood and into adulthood. Family interaction games are one of the key *mechanisms* through which attachment forms.
 
-**Engagement**: Being fully interested and involved in an activity, when someone is so focused and excited about playing that they forget about everything else.
+**Imitation**: Copying another person's actions, sounds, or expressions. Young children are born powerful imitators — this is how they learn nearly everything. Imitation games (where you copy the child, or the child copies you) strengthen the **mirror neuron system**, the neural basis for learning by observation. When you mirror a child's actions back to them, it communicates: "I see you. What you do matters."
 
 ## 🎵 Learning Song
 
@@ -96,7 +96,9 @@ In this activity, you and the child will play interactive games together that bu
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start with an inviting tone: "Want to play a fun game together?" Make eye contact, smile broadly, and show your own enthusiasm. Demonstrate the first game with exaggeration. Use silly voices and funny faces to capture attention. Explain that you're going to have fun together with no pressure to do it "perfectly."
+   Start with an inviting tone: "Want to play a fun game together?" Make eye contact, smile broadly, and show your own enthusiasm. As you play, narrate what's happening in developmental terms — this isn't just for the child, it's for you to stay conscious of the science: "We're doing serve-and-return! You made a sound, I responded — that's literally building your brain right now!"
+
+   If you play peek-a-boo: "I'm hiding my face. Do you think I'm still here?" Name the concept simply: "Even when you can't see me, I'm still here. That's called object permanence — things exist even when we can't see them."
 
 2. **Exploration** (10-15 min):
    Play three phases of games:
@@ -116,10 +118,10 @@ In this activity, you and the child will play interactive games together that bu
 ### Age Adaptations
 
 **2-3 years**:
-Keep games very simple with minimal rules and lots of repetition (toddlers love playing the same game over and over). Include plenty of physical closeness and touch. Use highly exaggerated expressions and sounds. Keep sessions to about 10 minutes maximum. Allow the child to opt out without pressure—some days they prefer watching or parallel play. Try pat-a-cake, peek-a-boo variations, gentle chase games where you always "let" them win, and simple animal movements. Be fully present as the activity guide, initiating games and maintaining engagement throughout.
+At this age, every serve-and-return exchange matters enormously. Count your "returns" — every time you respond to the child's initiative (a babble, a point, a reach) with a contingent, relevant response, you're completing a circuit. Peek-a-boo is still developmentally relevant: even 2-year-olds who have object permanence enjoy the ritual of disappearance and return, now for the social pleasure and suspense rather than the ontological surprise. Use the words "object permanence" when you play: "I disappeared! But I came back — things don't stop existing just because we can't see them." Repetition of the same game many times is not boring — it's consolidation of new neural pathways.
 
 **3-4+ years**:
-Introduce games with simple rules and turn-taking where the child can suggest games and sometimes lead. Add complexity by hiding objects, creating teamwork games against imaginary opponents, and using props more creatively. Include storytelling elements and simple competitive elements where both players "win." Try card or picture-matching games, simple indoor obstacle courses, charades with animals, scavenger hunts, relay races, and soft ball games. Sessions can extend to 15-20 minutes. Children can now initiate and lead games; you follow and encourage.
+Games now build toward **joint attention** (looking at the same thing together and knowing you're both looking), **turn-taking conventions** (the foundation of conversation structure — you talk, I listen, I talk, you listen), and **theory of mind** (understanding that you know something the other player doesn't, as in hide-and-seek). Hide-and-seek is a perfect 3-4 year-old game precisely because it exercises false belief: the hider knows where they are, the seeker doesn't, and both parties are aware of this asymmetry. Name it: "You know where you're hiding, but I don't know — I have to find you!"
 
 ### Extension Ideas
 

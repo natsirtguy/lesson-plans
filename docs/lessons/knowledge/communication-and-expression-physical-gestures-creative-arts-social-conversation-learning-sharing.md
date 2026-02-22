@@ -6,13 +6,15 @@ Children explore multiple ways to express themselves beyond words—through phys
 
 ## Vocabulary
 
-**Express**: To share your feelings, ideas, or messages using your body, voice, or art instead of just words. When you draw a picture of your favorite toy or dance to happy music, you are expressing joy.
+**Verbal communication**: Communication using words — spoken or written. Only humans have spoken language with grammar: rules that let us combine words in infinite new ways. Babies aren't born speaking; they learn language by hearing it, which is why talking to babies matters from day one.
 
-**Gesture**: A movement of your hand, arm, head, or body that communicates a message or feeling. Waving bye-bye is a gesture that says goodbye, and nodding your head is a gesture that means yes.
+**Nonverbal communication**: Communication without words — facial expressions, gestures, body posture, touch, and even silence. Researchers estimate that a large portion of human communication is nonverbal. You can tell a lot about how someone feels just by watching their face and body, before they say a word.
 
-**Communicate**: To share information, feelings, or ideas with others so they understand what you mean. You communicate when you talk, draw, point, or make facial expressions.
+**Symbol**: Something that *stands for* or *represents* something else. A drawing of a heart represents love. A red traffic light represents "stop." The letter "A" is a symbol for a sound. Human language and art are built from symbols — one of the things that makes humans unique among animals.
 
-**Create**: To make something new and original that shows what you are thinking or feeling. When you paint a picture or build with blocks, you are creating something that is uniquely yours.
+**Paralanguage**: The way you say something — your tone of voice, pitch, speed, and volume — which changes the meaning even when the words stay the same. "Fine" said warmly means something very different from "fine" said coldly. Paralanguage carries enormous meaning.
+
+**Gesture**: A body movement that communicates a message. Many gestures are culturally specific — a thumbs-up means "good" in some countries but is rude in others. However, some facial expressions (like smiling for happiness or frowning for sadness) appear to be universal across all human cultures, which scientists think are built into our biology.
 
 ## Learning Song
 
@@ -63,7 +65,7 @@ Communication's everything
 
 ### Activity Overview
 
-Children participate in a "Communication Station" exploration where they try multiple ways to express themselves: making faces and gestures, creating art, having conversations, and sharing what they learned. This hands-on activity shows children that there are many ways to tell others what they're thinking and feeling.
+Children explore the difference between verbal and nonverbal communication by testing whether they can make themselves understood without words, learning about sign language as a complete language, and discovering that symbols (drawings, gestures) represent ideas — one of the core abilities that makes human communication unique.
 
 **Activity Type**: Discovery exploration with multiple stations
 
@@ -98,34 +100,38 @@ Children participate in a "Communication Station" exploration where they try mul
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Introduce the idea: "Today we're exploring all the different ways we can tell people what we're thinking and feeling. We can use our faces, our bodies, our voices, and our hands. Let's discover all these amazing ways to communicate!"
+   Start with a challenge: "I'm going to tell you something without using any words. Ready?" Use a gesture or facial expression to communicate something simple (point to a toy, make a hungry face, wave hello). "Did you understand me? That's *nonverbal* communication — sending messages without words!"
 
-2. **Exploration** (5-10 minutes):
-   Guide the child through the stations in order. At the mirror: "Can you make a happy face? A surprised face? A sleepy face?" Try gestures together: wave, clap, give thumbs up, point to show excitement. With drawing materials: "Draw your favorite thing" or "Show me a happy color." During conversation: Ask open-ended questions about a toy or book: "What do you like about this?" "Can you tell me a story?" Model interested listening by leaning in, making eye contact, and asking follow-up questions. In the movement area: "Show me how a happy person moves. How does a sleepy person walk?" Mirror their movements and invite them to teach you.
+   Explain: "Humans use two main types of communication: *verbal* (using words) and *nonverbal* (faces, hands, pictures). Today we're going to explore both."
 
-3. **Discovery** (3-5 minutes):
-   Pause and highlight what you've observed together: "You made so many different faces! You created beautiful colors in your drawing. You told me a wonderful story. You showed me how to move like a bouncy puppy!" Ask questions like: "Which way of sharing was your favorite?" "How did your body feel when you moved?" "What did your art tell me about what you like?"
+2. **Silent Communication Challenge** (5-6 minutes):
+   Play "no-words communication":
+   - Caregiver tries to tell the child to do something (sit down, give a hug, point to something in the room) using only face and body — no words. Child guesses.
+   - Switch: child tries to communicate something silently to caregiver.
+   - Discuss: "Some messages are easy without words (hungry, happy, stop). Some are hard — try telling me your favorite dinosaur without words!" This makes the limits and strengths of nonverbal communication concrete and memorable.
 
-4. **Wrap-up** (2-3 minutes):
-   Review what you explored together. Say: "We used our faces, our hands, our voices, and our art to tell stories and show feelings. Everyone communicates in their own special way. You are wonderful at expressing yourself!" Celebrate with a group gesture like waving, clapping, or dancing together.
+3. **Sign Language Introduction** (3-4 minutes):
+   "Some people communicate using sign language — a complete language made entirely of hand shapes, movements, and facial expressions. American Sign Language is called ASL. It has its own grammar, just like spoken English — it's not just 'English with hands.'"
+
+   Teach 3-4 simple ASL signs: *more*, *please*, *thank you*, *all done*. (These are genuinely useful signs for toddlers who can sign before they can speak clearly.)
+
+   "Deaf people around the world have developed hundreds of different sign languages — each one a full language."
+
+4. **Symbols in Art** (3-4 minutes):
+   With drawing materials: "Let's draw some *symbols* — pictures that mean something. Draw a heart. What does a heart represent? Love — but there's nothing lovey about the actual shape, we all just agreed it means love. That's a symbol."
+
+   Have the child draw symbols for: happy, home, food, friend. Discuss: "These symbols work because we both know what they mean. All written language works this way — letters are symbols for sounds."
+
+5. **Discovery** (2-3 minutes):
+   Ask: "What would it feel like if you could *never* use words?" (just gestures) "What would be easy? What would be hard?" "Can you think of any animals that communicate without words?" (bees dance to show direction to flowers; dogs wag tails; dolphins use clicks and whistles)
 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus mainly on simple gestures and facial expressions (clapping, waving, big smiles)
-- Keep drawing time short and allow lots of scribbling without direction
-- Use very simple, concrete language ("happy," "wave," "smile")
-- Repeat the same expressions multiple times before introducing new ones
-- Let them lead—follow their interest instead of moving through all stations if they're engaged in one
-- Offer more hand-over-hand modeling and physical guidance
+Focus on the silent communication game and ASL signs — both are immediately practical (toddlers who know the sign for "more" or "all done" can communicate needs before they have the spoken words). Use the words "verbal" and "nonverbal" naturally without demanding comprehension. Skip the deeper symbol discussion and just draw and name together: "I drew a heart — that means love!"
 
 **3-4+ years**:
-- Introduce more complex emotions (surprised, confused, excited, sleepy)
-- Ask children to create art with purpose ("draw your favorite animal," "paint a happy day")
-- Encourage longer conversations with questions like "Why do you like that?" and "What happens next?"
-- Introduce the idea that different people communicate differently: "Some people are very quiet, and some are very loud. Both are okay!"
-- Ask them to teach YOU a gesture or expression, building confidence as a communicator
-- Encourage them to describe or tell stories about their creations in more detail
+Explore cultural differences in gestures: "In some countries, nodding your head means *no*, and shaking it means *yes* — the opposite of what we do! Gestures are *cultural*, they're learned, not born." Introduce the concept of *body language* and how it gives away feelings even when someone's words say something different. Ask: "If I say 'I'm fine' but my face looks sad, which one should you believe?" This builds emotional intelligence and empathy — understanding that communication is about more than just words.
 
 ### Extension Ideas
 
