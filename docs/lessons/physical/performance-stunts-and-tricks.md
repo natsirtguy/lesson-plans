@@ -4,6 +4,8 @@
 
 Performance stunts and tricks introduces children to the exciting world of acrobatic moves, body tricks, and impressive physical feats adapted for young ages. Through practicing stunts like cartwheels, handstands, balancing tricks, and creative body positions, children develop confidence, body awareness, strength, and coordination. This activity celebrates physical capability and encourages children to challenge themselves safely while discovering what their bodies can do. Stunt practice builds courage, spatial awareness, and provides a foundation for more advanced gymnastics or acrobatics.
 
+**Key concepts**: Center of gravity, vestibular system, proprioception, bilateral coordination
+
 **Activity Type**: Gross motor play / Sport-based
 
 **Duration**: 15-20 minutes (with natural breaks)
@@ -79,7 +81,9 @@ Performance stunts and tricks introduces children to the exciting world of acrob
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Explain that they're going to learn amazing tricks their body can do
+- Explain the physics of stunts: "Every trick comes down to one thing — your **center of gravity**. That's the point in your body where all your weight is balanced. When you're standing still, your center of gravity is in your belly. To do a cartwheel or handstand, you have to move your center of gravity over your hands so you don't fall sideways."
+- Introduce the vestibular system: "Deep inside your ears, you have a tiny system called the **vestibular system** — it's like a level sensor that tells your brain which way is up and down, and when you're spinning. That's why you feel dizzy after spinning — the fluid in your ears is still moving even after you stop."
+- Explain proprioception: "Your muscles and joints have sensors called **proprioceptors** that tell your brain exactly where every part of your body is — even with your eyes closed. Gymnasts have very well-trained proprioception."
 - Show one impressive but simple trick to build excitement
 - Emphasize that we start with easy tricks and work up to harder ones
 - Explain safety rule: "I'll help you and make sure you're safe"
@@ -122,10 +126,11 @@ Performance stunts and tricks introduces children to the exciting world of acrob
 - Heel-to-toe walking - walk in straight line heel to toe
 
 **Coaching cues**:
-- "You're so strong! Look what your body can do!"
+- "Before you roll, tuck your chin — that protects your **cervical spine**, the bones in your neck. Gymnasts always protect their spine first."
+- "For the balance trick, try staring at one spot on the wall — your **vestibular system** uses your eyes to help calculate balance. Wobbling means your brain is constantly making tiny adjustments!"
+- "Feel where your weight is — that's your **center of gravity** shifting. Can you feel it moving when you lean?"
 - "I've got you - you're safe. Ready to try it?"
-- "Roll gently over your shoulders, not your head. That's it!"
-- "You did it! That was amazing!"
+- "You did it! Your **cerebellum** — the part of your brain that coordinates movement — just built a new skill pattern!"
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -197,7 +202,11 @@ Performance stunts and tricks introduces children to the exciting world of acrob
 ## Parent/Caregiver Notes
 
 ### Encouragement & Coaching Tips
-- **What to say**: "Look at you! You're so brave! You learned a new trick! I can see how strong your muscles are. You should be so proud of yourself!"
+- **What to say**:
+  - "Feel where your weight is — that's your center of gravity. Gymnastics is all about controlling where your center of gravity goes!"
+  - "Your vestibular system is working hard right now — that's the balance sensor inside your ears."
+  - "Every time you try this, even if it doesn't work perfectly, your cerebellum is recording the movement and getting better at it. Practice literally builds new brain connections."
+  - "You're training your proprioception — your brain's map of where your body is in space."
 - **What to avoid**: Don't say "that's not quite right" or criticize form; avoid comparing to other children; don't push beyond child's confidence level
 - **When to help**: Provide physical spotting support, demonstrate movements closely, use hands to guide, offer lots of encouragement and positive feedback
 

@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Fishing and angling activities introduce young children to the patience, coordination, and focus required for this timeless outdoor pursuit. Through adapted fishing games using child-safe fishing poles and magnetic props, children develop fine motor control, hand-eye coordination, and the ability to sustain attention. This activity builds confidence in outdoor settings, fosters an appreciation for nature and aquatic environments, and provides a calming, meditative experience that supports emotional regulation.
+Fishing and angling activities introduce young children to the patience, coordination, and focus required for this timeless outdoor pursuit. **Angling** specifically means catching fish using a hook and line — the word comes from the Old English word for hook ("angel"). Real anglers cast lures or bait into the water: **lures** are artificial objects designed to mimic small fish or insects that a larger fish wants to eat, while **bait** is real food (worms, insects) that fish find by smell and movement. Through adapted fishing games using child-safe fishing poles and magnetic props, children develop fine motor control, hand-eye coordination, and the ability to sustain attention. Weave in real vocabulary (habitat, predator, aquatic, lure, species) so children build a mental model of the living world beneath the water's surface.
 
 **Activity Type**: Outdoor Adventure
 
@@ -91,11 +91,11 @@ Fishing and angling activities introduce young children to the patience, coordin
 ### Main Activity (10-18 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Introduce the activity: "Today we're going fishing! Fishers are very patient and focus on catching fish. We'll use special fishing poles with magnets to catch our fish."
+- Introduce the activity: "Today we're going fishing — or angling, which is the word for catching fish with a hook and line! Real fish live underwater in habitats called ponds, rivers, and lakes. They breathe using **gills** instead of lungs, and they use their **fins** to steer through the water. Fishers use **lures** — colorful objects that look like smaller fish or bugs — to trick a fish into biting."
 - Demonstrate how to hold the pole (hands on grip, elbow at comfortable angle)
 - Show how to cast gently (controlled swing motion, not throwing)
 - Demonstrate the "hook" motion (lowering the pole to the water and waiting)
-- Emphasize patience: "Fishers wait quietly for fish to come. We might wait a few seconds or a few minutes."
+- Emphasize patience: "Real fish are **cold-blooded** — their body temperature changes with the water. On cold days they move slowly, so we have to wait a long time. Fishers know patience is part of the game."
 
 #### Skill Practice (3-5 minutes)
 
@@ -201,10 +201,11 @@ Create a simple fishing game where children take turns casting and attempting to
 ### Encouragement & Coaching Tips
 
 - **What to say**:
-  - "You're waiting so patiently! Great fishers know that patience is important."
-  - "Look at how carefully you're casting! Your fish is so lucky!"
-  - "Every fisher needs practice. That's what makes it fun!"
-  - "You caught a fish! You're an amazing fisher!"
+  - "You're waiting so patiently! Real fish are shy — they hide in **habitats** like weeds and rocks. That's why fishers have to be quiet and still."
+  - "Look at how carefully you're casting! Real anglers aim for spots where fish like to hunt — near plants, rocks, or shadows."
+  - "Every fisher needs practice. Real fish can see a lure that moves unnaturally — it takes real skill to fool them!"
+  - "You caught a fish! Did you know a real fish breathes underwater through **gills** on the sides of its head? It never needs to come up for air!"
+  - "Fish are **vertebrates** — they have a backbone just like us. Can you feel your own backbone?"
 
 - **What to avoid**:
   - Don't say "You're doing it wrong" or show frustration if they splash or struggle
