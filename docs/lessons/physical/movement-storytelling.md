@@ -2,7 +2,13 @@
 
 ## Activity Summary
 
-Movement storytelling combines narrative and physical expression, allowing children to bring stories to life through their bodies and gestures. This activity develops gross and fine motor skills, body awareness, creativity, and language comprehension simultaneously. Children learn to interpret words through movement, express emotions physically, and develop confidence in self-expression while engaging with classic or original narratives.
+Movement storytelling combines narrative and physical expression, allowing children to bring stories to life through their bodies and gestures. This activity develops gross motor skills, body awareness, creativity, and language comprehension simultaneously — and it works for reasons grounded in neuroscience.
+
+**Embodied cognition** is the principle that physical experience shapes how the brain processes and stores abstract concepts. When a child crawls like a caterpillar while hearing the word "crawl," two things happen simultaneously: the auditory cortex processes the language, and the motor cortex and cerebellum generate the movement. These systems fire together, creating stronger, more redundant memory traces than hearing alone. Movement isn't just a way to make stories fun — it's a neurologically more effective encoding strategy.
+
+**Mirror neurons** are a class of neurons that fire both when you perform an action and when you observe someone else perform it. They are thought to underlie imitation learning — why children naturally copy movements they see. When a caregiver lumbers like a bear, the child's mirror neuron system activates, predisposing them to understand and replicate that movement. This is why demonstration is so effective: it literally activates the child's motor system before they've moved at all.
+
+**Narrative comprehension** — understanding that stories have sequence, cause-and-effect, characters with intentions, and resolutions — is a cognitive skill that develops throughout early childhood. Acting out a story in order reinforces the child's understanding of temporal sequence (what came first, what came next) and causal logic (the caterpillar ate food → grew bigger → built a cocoon → became a butterfly). These are foundations of both language and mathematical thinking.
 
 **Activity Type**: Performance Arts / Motor skill development
 
@@ -95,13 +101,17 @@ Movement storytelling combines narrative and physical expression, allowing child
 
 **Game structure**: Tell a simple, familiar story with clear action words and characters. Pause at key moments for children to perform the movements. Use a sing-song storytelling voice to hold attention.
 
-**Sample Story**: "The Very Hungry Caterpillar"
-- "A tiny egg sits on a leaf..." (children curl into a small ball)
-- "Out pops a hungry caterpillar!" (children crawl slowly)
-- "The caterpillar eats and eats..." (children mime eating with exaggerated mouth movements)
-- "It grows bigger and bigger..." (children slowly stand up and stretch wider)
-- "The caterpillar builds a cocoon..." (children wrap arms around themselves)
-- "The butterfly emerges with beautiful wings!" (children spread arms wide and flutter)
+**Sample Story**: "The Very Hungry Caterpillar" — with real biology
+
+The Very Hungry Caterpillar describes **metamorphosis** — one of the most remarkable biological transformations in nature. Caterpillars are the larval stage of butterflies and moths (order *Lepidoptera*). The metamorphosis sequence is real: egg → larva (caterpillar) → pupa (chrysalis, not a cocoon — cocoons are spun by moths, not butterflies) → adult butterfly. Inside the chrysalis, the caterpillar's body literally dissolves into cellular soup and reorganizes into an entirely different body plan. Tell children this is actually happening in the world right now.
+
+Movement sequence:
+- "A tiny egg sits on a leaf..." (children curl into the smallest ball possible — like a single cell)
+- "Out pops a hungry caterpillar!" (children crawl on hands and knees — "This is the larva stage! The caterpillar's whole job is to eat and grow")
+- "The caterpillar eats and eats and stores energy..." (children mime eating; say: "it's storing energy in its body — like charging a battery, because transformation takes a lot of energy")
+- "It grows bigger and bigger..." (children slowly stand and stretch outward — "its exoskeleton actually splits and it sheds its skin — that's called molting!")
+- "The caterpillar builds a chrysalis..." (children wrap arms tightly around themselves — "inside, the body is dissolving and completely rebuilding — when we say transformation, we mean it literally")
+- "The butterfly emerges with beautiful wings!" (children spread arms wide and slowly flutter — "a completely different body: wings, different legs, compound eyes, and a proboscis to drink nectar instead of a mouth to eat leaves")
 
 **Rules** (keep very simple):
 1. When you hear a story word or action, show that movement with your body

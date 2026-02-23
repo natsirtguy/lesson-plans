@@ -2,17 +2,23 @@
 
 ## Activity Summary
 
-Children visit 4-5 different learning stations, each focused on a distinct academic subject like numbers, letters, colors, science, and art. Through playful exploration and hands-on discovery, children develop an understanding that learning happens in many different ways and that each subject area can be engaging and fun to investigate.
+Children visit 4-5 different learning stations, each focused on a distinct academic discipline—mathematics, literacy, natural science, and visual art. This is not just an activity about enjoying learning; each station introduces real concepts from real fields of knowledge. Math deals with quantity and patterns; science deals with observable phenomena and testable questions; literacy deals with the relationship between sounds and written symbols; art deals with color, form, and composition. Young children can engage genuinely with all of these.
+
+The goal is to introduce children early to the idea that human knowledge is organized into disciplines—ways of asking questions and finding answers—each with its own vocabulary and methods. A child who hears "that's a scientific observation" or "you just did mathematics" is learning that these subjects are real, interesting, and something they already participate in.
 
 ## Vocabulary
 
-**Explore**: To travel through or investigate something carefully and thoughtfully. When you explore a garden, you look under leaves, touch flowers, and discover new things hiding there.
+**Mathematics**: The study of numbers, quantities, shapes, and patterns. When you count objects or notice that two piles have the same amount, you're doing mathematics.
 
-**Subject**: An area of learning or study. Math, reading, science, and art are all different subjects we can learn about and discover.
+**Cardinality**: The total number of items in a group. When you count "one, two, three" and say "there are THREE blocks," you're using cardinality — the last number you say tells you the total.
 
-**Discover**: To find or learn about something for the first time. When you discover that sand feels gritty and water feels smooth, you're learning through discovery.
+**Observation**: In science, an observation is something you notice using your senses — something you can actually see, hear, feel, smell, or taste. "The leaf is bumpy" is an observation. "The leaf is pretty" is an opinion.
 
-**Investigate**: To look closely at something to understand how it works or what it is. Scientists investigate plants by observing them carefully and asking questions about what they see.
+**Hypothesis**: A scientific guess or prediction about what will happen. Before you try something, you guess the result — that's a hypothesis. Scientists make hypotheses before every experiment.
+
+**Phoneme**: The smallest unit of sound in language. The word "cat" has three phonemes: /k/ /æ/ /t/. Learning to hear the separate sounds in words is called phonemic awareness — it's how children learn to read.
+
+**Composition** (in art): The arrangement of shapes, colors, and objects in an artwork. Artists make choices about what goes where — that's composition.
 
 ## Learning Song
 
@@ -109,11 +115,10 @@ Children visit 4-5 different "subject stations" set up around your space, each f
 
 2. **Exploration** (10-15 min):
    Guide the child to the first station and give them time to freely explore before asking questions. Here are examples for each station:
-   - **Math station**: "Can you count the blocks? How many do you have? Can you make a tower or pattern?"
-   - **Literacy station**: "Point to the letter A. What sound does it make? Can you find this letter in the book?"
-   - **Color station**: "Can you find two things that are red? What other colors do you see? Can you match colors?"
-   - **Science station**: "What do you notice about this leaf? Is it smooth or bumpy? Can you describe what it feels like?"
-   - **Art station**: "What color will you choose? How do you want to create today—drawing, painting, or scribbling?"
+   - **Math station**: Count objects together and emphasize **cardinality** — "We counted one, two, three — so there are THREE. The last number tells us the total!" Try sorting objects by size or color and name it: "We're making a *pattern* — big, small, big, small." Patterns are one of the most important ideas in mathematics.
+   - **Literacy station**: Pick a letter and focus on its **phoneme** (sound), not just its name. "This is the letter S — it makes the /s/ sound, like a snake hissing: ssssss. Can you hear /s/ at the start of *sun*? *Sand*?" Letters are symbols that represent sounds — that's what makes reading a code to crack.
+   - **Science station**: Distinguish **observations** from guesses. "The leaf is rough on one side and smooth on the other — that's an observation, something we can actually feel. Now let's make a *hypothesis* — if I drop a heavy rock and a feather, which lands first? That's our prediction — let's test it!" Give every observation a name: texture, color, weight.
+   - **Art station**: Introduce **composition** — the artist's choices about arrangement. "Where do you want to put the sun? Up high or to the side? Artists decide where everything goes — that's called composition." Mix two primary colors together and name what happens: "Red and blue mixed make violet — that's color mixing chemistry!"
 
    Allow 2-3 minutes per station, moving at the child's pace. Some stations may capture more interest than others—that's perfectly okay.
 

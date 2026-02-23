@@ -6,13 +6,17 @@ Mental math and calculation games introduce young children to number concepts, q
 
 ## Vocabulary
 
-**Quantity**: The amount or number of something. When you have a pile of blocks, the quantity tells you how many blocks you have altogether.
+**Cardinality**: The fundamental principle that the last number you say when counting a set IS the total quantity of that set. When you count "one, two, three" and arrive at "three," the number three doesn't just mean the third object — it means there are THREE objects altogether. This is called the **cardinal principle**, and children typically understand it around age 3-4 after a period where they can recite numbers in order without yet grasping that the final count gives the total.
 
-**Calculate**: To figure out an answer by thinking about numbers and using objects to help. When you roll dice and count the dots, you are calculating how many dots you see.
+**Subitizing** (SOO-bi-tizing): The ability to instantly recognize the number of objects in a small group without counting one-by-one. Most people can subitize up to about 4 objects instantly — you just "see" that there are three dots on a die without counting them. This is a genuine perceptual skill, not just fast counting. Dice, dominoes, and playing cards are all designed to support subitizing. Young children are developing this ability, and games with small dot patterns help train it.
 
-**Correspond**: To match or pair one thing with another. When you give each toy a block, you are making things correspond—one block for each toy.
+**One-to-one correspondence**: The principle that each object in a set gets exactly one count, and each count belongs to exactly one object. "One, two, three" while touching three objects separately — not skipping any, not touching the same one twice. This sounds obvious but is a genuine cognitive achievement for 2-3 year olds: the understanding that counting is a matching operation between numbers and objects.
 
-**Sequence**: A series of things arranged in order, one after another. Counting 1, 2, 3, 4, 5 is a number sequence.
+**Ordinal number**: Numbers used to describe position or rank — first, second, third. These are distinct from **cardinal numbers** (which tell you how many). The same word "three" functions cardinally ("three cookies") and ordinally ("third in line"). Children encounter both uses constantly.
+
+**Addition as set union**: Addition is the operation of combining two separate groups (sets) into one. When you have 2 blocks in one hand and 3 in the other, combining them gives you a new group — 5 blocks. The "+" symbol represents that combining operation. This is the underlying concept behind all addition, whether you're adding small numbers with blocks or large numbers on paper.
+
+**Base-10**: The number system we use counts in groups of ten. After 9, we start over and carry one group of ten into the "tens" column. We likely use base-10 because humans have 10 fingers — it's a biologically convenient choice, not a mathematical necessity. Other bases exist: computers use base-2 (binary), and ancient Babylonians used base-60 (which is why an hour has 60 minutes).
 
 ## 🎵 Learning Song
 
@@ -111,10 +115,10 @@ Children will explore counting, quantity relationships, and simple arithmetic th
 ### Age Adaptations
 
 **2-3 years**:
-Focus entirely on counting (rote counting and one-to-one correspondence), not arithmetic. Use small quantities (numbers 1-5 primarily). Emphasize touching and manipulating objects as they count. Accept non-standard counting (skipping numbers, counting out of sequence)—this is normal development. Avoid pressure to count in the "right way." Use very concrete, familiar objects. Duration: 15-20 minutes. Provide high adult support—count aloud together, model the process, initiate activities, and celebrate participation.
+Focus on one-to-one correspondence and small quantities (1-5). Emphasize touching each object as they count — this trains the correspondence principle. Practice subitizing with 2-3 objects: hold up two fingers and ask "how many?" without counting. Test for cardinality by asking "how many?" AFTER counting — if they re-count from the beginning every time, the cardinal principle hasn't clicked yet; if they say the last number immediately, it has. Accept non-standard counting order — this is normal. Duration: 15-20 minutes.
 
 **3-4+ years**:
-Begin introducing simple addition (without formal equations): "If you have 2 and add 2 more, you have 4." Introduce larger quantities (numbers 1-20, or even to 100 if interested). Begin comparing and ordering: "Put these in order from smallest to biggest." Introduce patterns with numbers: "1, 2, 1, 2—what comes next?" Play games that require a bit more strategy or prediction. Connect to real-world contexts: "We need 4 cups for snack time—help me count them." Duration: 20-25 minutes.
+Introduce addition as **combining sets**: "Put 2 blocks in one pile and 3 in another. Now push them together — how many altogether?" Use the word "addition" and explain it means combining groups. Introduce subitizing challenges: show dice faces or dot patterns for one second and ask "how many?" — training them to recognize patterns without counting. Explore ordinal numbers alongside cardinal: "You're first, I'm second — first means position one, not just the number 1." Connect to base-10 by noting that we have 10 fingers and we count in groups of 10. Duration: 20-25 minutes.
 
 ### Extension Ideas
 

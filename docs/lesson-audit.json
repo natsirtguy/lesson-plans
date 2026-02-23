@@ -4,6 +4,11 @@
     "issues": "Vocabulary was everyday words (construct, spatial reasoning, balance, structure). No physics — no compression, center of gravity, load-bearing, or cantilever concepts. Activity was generic block stacking with no engineering content.",
     "fixed": "Replaced vocabulary with center of gravity, compression, load-bearing, cantilever. Rewrote activity to explain forces during stacking, base-width stability, and cantilever counterbalance. Added triangulation and arch physics for 3-4+."
   },
+  "knowledge/academic-subject-exploration.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Meta-lesson about 'enjoying learning' with zero actual academic content; vocabulary section defined only process words",
+    "fixed": "Added cardinality, phoneme/phonemic awareness, scientific observation vs. opinion, hypothesis, composition; rewrote station activities to include real disciplinary content"
+  },
   "knowledge/acting-and-character-play.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary all everyday words (character, expression, improvise, performance). No theater history, no cognitive science of pretend play, no theory of mind, no mirror neurons, no dramatic arc structure. Activity was \"move like a cat\" with no intellectual content.",
@@ -664,6 +669,11 @@
     "issues": "\"Regulate\" was real terminology but lesson was mostly craft (paper plate faces) with basic emotion labeling. No neuroscience of emotions.",
     "fixed": "Replaced vocabulary with amygdala, fight-or-flight response, cortisol, regulate (with vagus nerve mechanism). Rewrote activity to explain the amygdala alarm system, cortisol release, and how deep breathing activates the parasympathetic nervous system via the vagus nerve. Added dopamine for 3-4+."
   },
+  "knowledge/manufacturing-and-making-things.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Only surface vocabulary; treated manufacturing as gluing pieces together; no materials science, no polymer/smelting chemistry, no assembly line history",
+    "fixed": "Added polymer chemistry (plastic from petroleum), smelting (iron ore to steel), paper production; assembly line and division of labor; materials science properties; rewrote intro to explain raw material origins of plastic, metal, paper"
+  },
   "knowledge/maps-and-directions.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Template boilerplate instruction text left visible in vocabulary section (lines 9-13: \"Select 3-4 vocabulary words that...\"). Missing map scale, legend/key, coordinate systems, and cardinal direction science (why north is north).",
@@ -683,6 +693,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Details not recorded.",
     "fixed": "Agent committed fixes."
+  },
+  "knowledge/mental-math-and-calculation-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary defined only everyday words; missing subitizing, cardinality, base-10, set union concept of addition, ordinal vs cardinal distinction",
+    "fixed": "Added cardinality/cardinal principle, subitizing as perceptual skill, one-to-one correspondence, ordinal vs cardinal numbers, addition as set union, base-10 with historical context"
   },
   "knowledge/mentoring-younger-children.md": {
     "verdict": "FAIL -> FIXED",
@@ -873,6 +888,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was generic social-emotional terms (vigilance, refuge, boundaries, resilience) with no real content about how emergency services work, what dispatchers do, why hand-washing kills germs, or how smoke detectors function",
     "fixed": "Replaced vocabulary with hazard, risk, emergency services, dispatcher, first responder, pathogen, smoke detector (with photoelectric/ionization sensor explanation); rewrote introduction to focus on risk assessment; upgraded picture discussion with real mechanisms (soap surfactants, 911 dispatch, smoke detectors); rewrote age adaptations to use real terminology throughout"
+  },
+  "knowledge/safety-rule-learning-and-practice.md": {
+    "verdict": "PASS",
+    "issues": "Excellent rigor: reaction time with neural pathway, momentum formula with real stopping distances, peripheral vision using rod cells, habituation as neurological process; ruler-drop demonstration",
+    "fixed": "N/A"
   },
   "knowledge/science-experiments-and-discovery.md": {
     "verdict": "FAIL -> FIXED",
@@ -1289,6 +1309,11 @@
     "issues": "No explanation of why ice is slippery, how blade edges work, or physics of spins; never explained why it's called \"figure skating\" (tracing geometric figures); coaching language was fluffy (\"imagine you're a beautiful swan\"); no physics vocabulary",
     "fixed": "Added vocabulary: blade edge, angular momentum, ice surface slipperiness, compulsory figures, arabesque; rewrote intro to cover 4,000-year history of skating and origin of \"figure skating\" as tracing geometric figures; replaced fluffy coaching cues with physics-based ones (feel which edge, what happens when arms pull in, why ice is slippery)"
   },
+  "physical/fine-motor-skill-development.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Entirely procedural — no neuroscience content despite being about brain-muscle coordination",
+    "fixed": "Added myelin/myelination, neuroplasticity, motor cortex, cerebellum, proprioception, corticospinal tract, synaptic strengthening"
+  },
   "physical/fishing-and-angling-activities.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section; all caregiver language was pure praise/encouragement with zero biology of fish or science of fishing; word \"angling\" never explained; no mention of fish anatomy (gills, fins, cold-blooded), aquatic habitats, or how lures work",
@@ -1388,6 +1413,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section. \"Punch from your whole body\" stated without explaining kinetic chain. No biomechanics, no martial arts history, no reaction time science.",
     "fixed": "Added vocabulary: kinetic chain (feet→legs→hips→torso→arm sequential force transfer), center of gravity (wide stance physics), reaction time (150-300ms, myelination), martial arts history (Shaolin 500 CE, judo 1882, capoeira 1500s, UFC 1993). Rewrote introduction and coaching cues with kinetic chain and center of gravity explanations."
+  },
+  "physical/movement-storytelling.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Purely procedural; no science backdrop; Hungry Caterpillar used with zero metamorphosis biology",
+    "fixed": "Added embodied cognition, mirror neurons, narrative comprehension as intellectual backdrop; rewrote Caterpillar sequence with full metamorphosis biology (larva/pupa/chrysalis vs cocoon, molting, dissolution and rebuilding inside chrysalis)"
   },
   "physical/nature-observation-and-wildlife-tracking.md": {
     "verdict": "FAIL -> FIXED",
@@ -1528,6 +1558,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No anatomy, no physics of balance, no history of tai chi (400+ years). \"Move slowly\" without explaining why slow movement is neurologically harder. Coaching cues were generic imagery with no science.",
     "fixed": "Added full vocabulary section: slow-twitch muscle fibers (Type I, aerobic metabolism, endurance), proprioception (muscle spindles, Golgi tendon organs, cerebellum feedback), center of gravity (balance physics, wide stance stability), tai chi history (Chen Wangting 1600s, five family styles, yin-yang philosophy). Rewrote coaching cues with muscle names (deltoids, quadriceps, gluteus maximus) and proprioception awareness."
+  },
+  "physical/track-and-field-running-jumping-throwing.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No physics or physiology; running/jumping/throwing described only as motor patterns with no biomechanical explanation",
+    "fixed": "Added Newton's 3rd law/ground reaction force for running, stretch-shortening cycle for jumping, kinetic chain for throwing, projectile motion, fast-twitch vs slow-twitch fibers, aerobic vs anaerobic respiration, lactic acid"
   },
   "physical/volleyball-and-net-sports.md": {
     "verdict": "FAIL -> FIXED",
