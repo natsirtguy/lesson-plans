@@ -6,13 +6,17 @@ This lesson introduces young children to the foundational idea that learning is 
 
 ## Vocabulary
 
-**Curious**: The feeling you get when you want to know more about something. When you see a butterfly and want to watch where it goes, that's being curious—your mind is hungry to explore and discover.
+**Neuroplasticity**: The brain's ability to change and grow by forming new connections between neurons. When you learn something new, your brain physically changes—neurons grow new branches (dendrites) and form synapses (connections) with other neurons. The more you practice something, the stronger those connections become. Young children's brains have especially high neuroplasticity.
 
-**Explore**: To investigate and discover by moving around and trying things out. When you open a kitchen cabinet to find pots and pans, or dig in sand to find treasures, you are exploring and learning what's there.
+**Neuron**: A brain cell that communicates using electrical signals. The brain has about 86 billion neurons, each connected to thousands of others. Learning happens when neurons fire together repeatedly and strengthen their connections. "Neurons that fire together, wire together."
 
-**Persist**: To keep trying even when something is hard or doesn't work the first time. When you keep trying to stack blocks even after they fall down, you are persisting—you don't give up.
+**Memory**: The brain system that stores and retrieves information. Working memory is like a small desk where you hold a few things at once (about 4-7 items for adults). Long-term memory is like a vast library. To move something from working memory to long-term memory, you usually need to sleep on it, practice it, or connect it to something you already know.
 
-**Observe**: To watch carefully and notice details about something. When you watch a bird build a nest or see how water moves down a drain, you are observing—really paying attention to what's happening.
+**Sleep and learning**: During sleep, the brain consolidates memories—it sorts through the day's experiences and moves important information into long-term storage. This is why sleep after learning is so important. Young children need more sleep than adults partly because their brains are doing so much consolidation.
+
+**Practice and myelin**: A white substance called myelin wraps around neural pathways that are used repeatedly, making signals travel faster—like adding insulation to an electrical wire. This is why skills that once felt hard (walking, talking, writing) eventually become automatic: the pathway got myelinated through practice.
+
+**Spaced repetition**: Reviewing something across multiple sessions (with sleep in between) works far better than cramming once. The slight forgetting that happens between sessions actually strengthens the memory when you retrieve it again—your brain works harder to find it and reinforces the pathway.
 
 ## Learning Song
 
@@ -105,7 +109,9 @@ Children will engage in a "Discovery Station" where they explore different learn
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by sitting together and asking open-ended questions: "What is something you learned recently? How did you learn it?" Read a very short (1-2 min) story or show a picture of someone learning (child planting a seed, child learning to walk, child trying to climb). Explain: "Today, we're going to discover all the ways we learn by trying, exploring, and asking questions. Learning is not about being perfect—it's about being curious and trying."
+   Start with the real science: "Do you know what your brain is made of? Billions of tiny cells called neurons. Right now, while we're talking, your neurons are sending electrical signals to each other. Every time you learn something new, your neurons grow new connections to each other—your brain actually, physically changes. Scientists call this neuroplasticity—it means your brain is plastic, like clay, and you can shape it by what you practice and learn."
+
+   Connect to something the child can do now but once couldn't: "You learned to walk. You didn't know how to walk when you were born. Your brain practiced and practiced until the pathway for walking got so strong that now it's automatic—you don't even have to think about it. That's neuroplasticity in action. The same thing will happen with everything else you learn."
 
 2. **Exploration** (10-15 min):
    Invite the child to move through the stations:
@@ -115,12 +121,11 @@ Children will engage in a "Discovery Station" where they explore different learn
    - **Art Discovery Station**: "Can you make something with these colors? What happens if you mix colors? There's no wrong way—you're exploring!" Encourage process over product.
 
 3. **Discovery** (3-5 min):
-   After exploring, sit together and ask reflective questions:
-   - "What was tricky? How did you figure it out?"
-   - "Did anything not work the first time? What did you do then?"
-   - "What did you learn by trying?"
-   - "Which station made you most curious?"
-   Name the learning mindset: "You were being curious, exploring, and persisting. That's how everyone learns!"
+   After exploring, connect the experience to brain science:
+   - "When you kept trying that puzzle even though it was hard—your neurons were firing and forming new connections. Your brain got a tiny bit better at that skill. That's how learning works."
+   - "Why do you think we practice things more than once? Because every time you practice, you make the neural pathway stronger—like a path through grass that gets clearer the more people walk on it."
+   - "Did you know that sleeping tonight will help you remember what we did today? Your brain will sort through memories while you sleep and store the important ones. That's why bedtime is actually part of learning."
+   - "If you wanted to really remember something, what would be better—studying it once for a long time, or studying it a little bit today, a little bit tomorrow, and a little bit the day after? Scientists found the second way works better. It's called spaced repetition."
 
 4. **Wrap-up** (2-3 min):
    Celebrate specific moments you observed: "I noticed you kept trying when the block tower fell. That's persistence!" Sing the learning song together, doing the gestures. End with: "You're a learner, and you learn something new every single day."

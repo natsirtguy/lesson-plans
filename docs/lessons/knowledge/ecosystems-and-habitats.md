@@ -6,13 +6,19 @@ Children discover that different animals live in different homes and environment
 
 ## Vocabulary
 
-**Habitat**: A special home or place where an animal lives with everything it needs to survive, like food, water, and shelter. A forest is a habitat for bears; the ocean is a habitat for fish.
+**Habitat**: The specific environment a living thing needs to survive—with the right food, water, shelter, and temperature. A saltwater habitat is completely different from a freshwater habitat, even though both are water.
 
-**Ecosystem**: A community of plants, animals, and living things that all depend on each other and share the same environment. A pond ecosystem includes fish, frogs, water plants, and insects all living together.
+**Ecosystem**: A community of living things (plants, animals, fungi, bacteria) and their non-living environment (water, soil, sunlight, air), all interacting together. The key idea: nothing lives in isolation. Every organism affects others. Remove one species and the whole system can shift.
 
-**Adapt**: To change or develop special features that help an animal survive in its home. A polar bear adapts to cold by growing thick fur; a desert lizard adapts to heat by hiding in shade.
+**Food web**: The network of who eats whom in an ecosystem. Plants (producers) capture sunlight and make food through photosynthesis. Herbivores (plant-eaters) eat the plants. Carnivores eat the herbivores. Decomposers (fungi, bacteria) break down dead matter and return nutrients to the soil—which plants then absorb. Energy flows in one direction: from sunlight through the whole chain.
 
-**Shelter**: A safe place where an animal can rest, sleep, and hide from danger or bad weather. A bird's nest is a shelter; a rabbit's burrow is a shelter.
+**Producer**: A living thing that makes its own food using sunlight—plants, algae, some bacteria. They are the foundation of almost every food web on Earth.
+
+**Consumer**: A living thing that gets energy by eating other organisms. Caterpillars eat leaves (herbivore consumers), birds eat caterpillars (carnivore consumers), hawks eat birds (apex consumers).
+
+**Decomposer**: Organisms (mainly fungi and bacteria) that break down dead plants and animals, releasing nutrients back into the soil. Without decomposers, dead material would pile up and ecosystems would run out of nutrients.
+
+**Adaptation**: A feature shaped by evolution that helps an organism survive in its specific environment. Polar bears have dense, oily fur and thick fat (blubber) for Arctic cold. Cacti store water in their thick stems for desert drought. These features developed over millions of generations.
 
 ## Learning Song
 
@@ -117,10 +123,12 @@ Children create a sensory habitat box or explore multiple mini-habitats, discove
    - Offer props: "Can you build a nest for the bird with these twigs?"
 
 3. **Discovery** (3-5 min):
-   - Point out connections: "The fish adapted to live in water, so it needs the pond habitat."
-   - "See how the rabbit has long ears? That helps it hear danger in the forest."
-   - "The desert animal needs just a little water, so it lives where it's hot and sandy."
-   - Ask: "What does this animal eat in its habitat?" or "Where does it hide from danger?"
+   Focus on the food web, not just "which animal lives where":
+   - "What does this fish eat? What eats the fish? That's part of the food web—who eats whom."
+   - "The plants in the pond get their energy from sunlight. The frog eats the insects that eat the plants. The heron eats the frog. Energy from the sun traveled all the way to the heron!"
+   - "What happens when an animal dies? Decomposers—bacteria and fungi—break it down and return the nutrients to the soil. Plants absorb those nutrients and grow. The cycle goes round and round."
+   - "If all the frogs disappeared from this pond, what do you think would happen to the insects? To the heron?"
+   - For desert habitat: "The cactus stores water in its stem so it can survive months without rain—that's an adaptation to drought. The desert mouse eats cactus seeds. The hawk eats the mouse. Energy from the sun passed through the cactus, the mouse, and into the hawk."
 
 4. **Wrap-up** (2-3 min):
    - Review: "You found the right home for each animal! Each habitat gives animals what they need."
@@ -131,19 +139,17 @@ Children create a sensory habitat box or explore multiple mini-habitats, discove
 **2-3 years**:
 - Use only 1-2 habitats and 2-3 toy animals to avoid overwhelming
 - Focus on sensory exploration: touching materials, exploring with hands
-- Use simple language: "Fish lives in water. Bird lives in tree."
-- Keep water shallow and supervised; skip water if concerned about spillage
-- Choose sturdy, larger toy animals that are easy to manipulate
-- Accept any placement as valid exploration; don't require "correct" answers
+- Use real vocabulary alongside simple explanations: "Fish lives in water—it breathes with gills, not lungs like us. Gills take oxygen out of the water."
+- Keep water shallow and supervised
+- Model simple food chain: "Frog eats fly. Bird eats frog. That's a food chain!"
 
 **3-4+ years**:
 - Set up 3-4 different habitats with more variety of materials
 - Add 5-8 animals with varying habitat needs
-- Introduce more vocabulary: ecosystem, adapt, shelter, food chain
-- Ask deeper questions: "What does this animal eat here?" "Where does it sleep?"
-- Challenge them to create habitats: "Can you build a home for this squirrel?"
-- Introduce pictures: "Match the photo of the ocean to the habitat where fish live"
-- Explore: "What other animals live in this habitat with the fish?"
+- Use all vocabulary: ecosystem, producer, consumer, decomposer, food web, adaptation
+- Build a food chain with the toy animals: arrange them in order (plant → caterpillar → bird → hawk)
+- Ask: "What happens if we take the plant away from the food chain?"
+- Explain decomposers: add a piece of bark or leaf and say "bacteria and fungi break this down—you can't see them, but they're the recyclers of the ecosystem"
 
 ### Extension Ideas
 

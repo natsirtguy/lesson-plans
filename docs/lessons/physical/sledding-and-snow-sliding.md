@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Sledding and snow sliding are exhilarating winter activities that build confidence, balance, and spatial awareness while providing intense sensory experiences. Children develop courage, learn to navigate slopes, and build gross motor strength through climbing, pushing, and maneuvering sleds. These activities are wonderful for building resilience and creating joyful winter memories.
+Sledding and snow sliding are exhilarating winter activities that build confidence, balance, and spatial awareness while providing intense sensory experiences. They're also a live physics lesson: gravity pulls the sled downhill, friction between the sled and snow controls speed, and momentum carries the sled forward even once the slope ends. Children can feel these forces acting on their bodies in a way no classroom can replicate.
 
 **Activity Type**: Outdoor adventure / Winter Sports
 
@@ -91,18 +91,20 @@ Sledding and snow sliding are exhilarating winter activities that build confiden
 
 #### Introduction & Demonstration (2 minutes)
 - Gather children at the top of slope away from sliding area
-- Show the sled and explain: "This is our magic carpet for the snowy mountain"
+- Explain what makes sledding work: "We're going to zoom down this hill. Do you know why things go downhill? Gravity! Gravity is a force that pulls everything toward the ground. The hill gives gravity a path to pull us down—the steeper the hill, the faster gravity pulls."
+- Explain why snow helps: "Snow is slippery because it's made of tiny ice crystals, and when the sled presses on them, they get just a little bit melty. That creates a thin layer of water that makes sliding easy. That's called reducing friction—friction is the force that slows things down when they rub together."
 - Demonstrate proper sitting position: bottom down, feet forward, hands holding sled
 - Explain the simple rule: "One person slides at a time, everyone else cheers from the side"
-- Model pushing off gently: "We use our hands to push a little bit and then wheee - off we go"
+- Model pushing off: "We use our hands to push off, and then gravity takes over—it pulls us all the way to the bottom"
 
 #### Skill Practice (3-5 minutes)
 
 **Skill breakdown**:
 1. **Getting on the sled**: Practice sitting balance on sled while stationary; get comfortable with the equipment
-2. **Pushing off**: Show how to use hands to give gentle push down slope; emphasize starting slowly
-3. **Steering and balance**: Lean body slightly to guide direction; keep feet forward for balance
-4. **Slowing down**: Drag feet lightly in snow to slow sled; use hands on snow if needed
+2. **Pushing off**: Show how to use hands to give a gentle push—"you're adding energy to get moving; after that, gravity does the work"
+3. **Steering and balance**: Lean body slightly to guide direction—"shifting your weight moves your center of gravity, which changes where the sled goes; your whole body is the steering wheel"
+4. **Slowing down**: Drag feet lightly in snow to slow sled—"you're adding friction back in to fight gravity and momentum; the heavier you press, the more friction slows you down"
+5. **Momentum**: After reaching flat ground, notice the sled keeps moving—"that's momentum: once something is moving, it wants to keep moving in the same direction. Friction from the flat snow gradually stops it."
 
 **Coaching cues**:
 - "Sit down nice and solid, like you're sitting in a comfortable chair"
@@ -151,9 +153,9 @@ Establish one-at-a-time sledding with clear turn order. At top of slope, use a s
 **Purpose**: Gradually reduce heart rate, transition from excitement, prepare for going inside
 
 **Cool-down activities**:
-1. Walk slowly around the snow area - "We're walking like tired explorers heading home"
+1. Walk slowly around the snow area—notice how much harder breathing is now: "Your muscles need more oxygen when you exercise, so your lungs breathe faster and your heart pumps faster to deliver it. That's why you feel warm even though it's cold out."
 2. Gentle stretching while standing - "Reach up high to touch the sky, then bend down to touch your boots"
-3. Breathing together - "Take a big breath in... and let it out slowly like a melting snowflake"
+3. Breathing together—"Take a big breath in... and let it out slowly. Can you see your breath? That's water vapor from your lungs condensing in the cold air—the same reason clouds form."
 4. Celebrate the adventure - "We were so brave and had so much fun today!"
 
 **Transition**:
