@@ -309,6 +309,11 @@
     "issues": "Vocabulary was entirely everyday words (culture, celebrate, tradition, diverse). No cultural anthropology, no migration, no trade routes, no geographic isolation as mechanism for cultural divergence. Activity was \"touch the fabric and say what color it is\" with no intellectual content. The 2-3 age adaptation said \"Avoid complex explanations about geography or culture.\"",
     "fixed": "Replaced vocabulary with migration, geographic isolation, oral tradition, trade route, syncretism, linguistic family. Rewrote activity to explain HOW cultures diverged (geographic isolation) and how they spread (trade routes, migration). Added real food history (tomatoes from Mexico, rice from China), Silk Road, jazz as syncretism example. Updated 2-3 adaptation to remove anti-knowledge instruction."
   },
+  "knowledge/cultural-exploration-through-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Entirely generic—'cultures are different' framing with no anthropological content; no explanation of why cultures differ",
+    "fixed": "Added anthropology, cultural diffusion, indigenous, oral tradition vocabulary; added geography/climate explanations for why food/music/material culture differs; discovery questions now connect observations to historical and environmental causes"
+  },
   "knowledge/customer-service-role-play.md": {
     "verdict": "PASS",
     "issues": "Already uses real economic vocabulary (transaction, commerce, shopkeeper) with substantive definitions; activity genuinely teaches commercial exchange rather than just themed play",
@@ -368,6 +373,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary entirely everyday (scribble, sketch, mark-making, expression). No color science, no neuroscience of motor control, no art technique. Activity was \"draw whatever you want\" with no intellectual content.",
     "fixed": "Replaced vocabulary with pigment (light absorption/reflection), motor cortex (34 hand muscles, neural pathways), primary colors (subtractive color mixing), line weight. Rewrote activity to include pressure/pigment experiments, primary color mixing, and tool science (graphite, wax, liquid ink). Added color wheel, complementary colors, perspective, and cross-hatching for 3-4+."
+  },
+  "knowledge/ecosystems-and-habitats.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Activity reduced ecosystem to habitat-matching game; no food webs, energy flow, producers/consumers/decomposers, or real interdependence content",
+    "fixed": "Added food web, producer, consumer, decomposer vocabulary; discovery questions now teach energy flow from sun through food chain; age adaptations include building food chains with toy animals and learning about decomposers"
   },
   "knowledge/emergency-preparedness-activities.md": {
     "verdict": "FAIL -> FIXED",
@@ -629,6 +639,11 @@
     "issues": "All four vocabulary words (lead, follow, direction, turn) were everyday words. No psychology of leadership, no social learning theory, no neuroscience of imitation. Activity was follow-the-leader with no intellectual content.",
     "fixed": "Replaced vocabulary with hierarchy (universal in social animals — wolf packs, pecking orders), social learning (Albert Bandura's observational learning research), mirror neurons (premotor cortex neurons that fire during both action and observation), initiative (prefrontal cortex generating vs. copying actions, executive function). Rewrote activity to explain mirror neuron activation during following, initiative as harder cognitive task than imitation, and democratic hierarchy rotation. Added emergent leadership, V-formation energy conservation, animal hierarchy examples, and dual-leader confusion experiment for 3-4+."
   },
+  "knowledge/learning-how-to-learn.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Entirely about growth mindset emotional framing (persist, don't give up); no actual neuroscience content about how the brain learns",
+    "fixed": "Added neuroplasticity, neuron, working/long-term memory, sleep consolidation, myelin/practice, spaced repetition vocabulary; introduction now teaches brain cell biology; discovery questions connect activity to neural pathway strengthening"
+  },
   "knowledge/learning-to-tie-knots-and-bows.md": {
     "verdict": "PASS",
     "issues": "Already excellent. Vocabulary covered friction (as the actual mechanism knots rely on), overhand knot, crossing (mathematically defined), and topology (knot theory, DNA research application). Activity explicitly teaches friction at every step. Age adaptations reference knot theory for 3-4+. No changes needed.",
@@ -733,6 +748,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary used \"Landmark\" (not a scientific term) and \"Formation\" (vague process description). Missing plate tectonics (WHY mountains form), stratigraphy, and rock type information. Activity had no geological mechanisms.",
     "fixed": "Replaced \"Landmark\" with tectonic plates (12-20 plates, Indian-Eurasian collision still growing Himalayas). Replaced \"Formation\" with stratigraphy (Grand Canyon's 2 billion year rock record, color = time period). Enhanced erosion definition (Colorado River, 75B tons/year sediment). Added elevation's effect on temperature and oxygen. Updated mountain-building and canyon-creation activity steps with plate tectonics and stratigraphy content."
+  },
+  "knowledge/nature-study-and-observation.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "All process, no scientific content—observation framed as sensory play without any biology",
+    "fixed": "Added chlorophyll, exoskeleton, adaptation, camouflage, decomposition, arachnid/insect distinction; discovery questions now teach actual concepts instead of open-ended wondering"
   },
   "knowledge/oceans-and-rivers.md": {
     "verdict": "FAIL -> FIXED",
@@ -853,6 +873,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was \"narrative, illustration, anticipate, literature\" — real but basic literacy terms. No neuroscience of reading, no phonological awareness, no explanation of how the brain processes written symbols. Activity was looking at picture books with no science content.",
     "fixed": "Replaced vocabulary with phoneme (44 English phonemes, infant phoneme pruning), Broca's area (speech production, Paul Broca 1861), Wernicke's area (language comprehension, Carl Wernicke 1874, arcuate fasciculus connection), decoding (visual cortex repurposing, reading invented only 5,000 years ago). Rewrote activity to include phoneme awareness, brain region identification, and CMYK printing science. Added writing system comparison, narrative structure, and phonological awareness exercises for 3-4+."
+  },
+  "knowledge/religious-and-spiritual-practices.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Lesson titled 'Religious and Spiritual Practices' but contains only a secular mindfulness exercise—no actual content about religion, traditions, or beliefs",
+    "fixed": "Added vocabulary for monotheism, polytheism, animism, sacred, meditation; added real examples from Islam, Judaism, Buddhism, Hinduism in intro; discovery questions now explore why religion is a human universal"
   },
   "knowledge/repetition-and-practice-physical-skills-creative-techniques-social-routines-learning-exercises.md": {
     "verdict": "FAIL -> FIXED",
@@ -1118,6 +1143,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Activity overview framed the lesson as \"themed play with a toy car\" — no graph theory, no logistics science, no route optimization framework.",
     "fixed": "Reframed activity as legitimate graph theory and logistics exercise: networks (nodes and edges), route optimization, the Traveling Salesman Problem (one of math's most famous unsolved problems, intuitively experienced when choosing stop order). Updated activity type descriptor."
+  },
+  "knowledge/travel-planning-and-booking-simulation.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Purely procedural role-play (pack a suitcase, make fake tickets) with no geographic, economic, or logistical content",
+    "fixed": "Added time zones, GPS navigation, transportation infrastructure, and logistics vocabulary; discovery questions now include real distance/time concepts, climate-latitude connections, and basic economics of air travel"
   },
   "knowledge/tutoring-and-coaching-activities.md": {
     "verdict": "PASS",
@@ -1498,6 +1528,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Coaching cues gave only procedural instructions with no physics explanation (\"Stand tall like a tree trunk!\" vs. explaining center of gravity; \"Make a pizza!\" vs. explaining friction and momentum diversion). Despite the title, cross-country skiing was entirely absent — the lesson only covered downhill.",
     "fixed": "Rewrote coaching cues to explain why techniques work (wedge creates friction in two directions; bent knees lower center of gravity; leaning forward keeps ski tips down for control). Added cross-country skiing section explaining the fundamentally different mechanics (stride-and-glide, poles for propulsion, diagonal pattern, kick-zone grip vs. glide), including Newton's Third Law explanation for the kick."
+  },
+  "physical/sledding-and-snow-sliding.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good safety and logistics but no physics content—gravity, friction, momentum, center of gravity all absent",
+    "fixed": "Added gravity/friction/momentum explanations integrated into instruction cues; added body-science to cool-down (oxygen demand, visible breath/condensation)"
   },
   "physical/snowshoeing-and-winter-hiking.md": {
     "verdict": "FAIL -> FIXED",

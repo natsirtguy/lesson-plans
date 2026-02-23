@@ -6,13 +6,19 @@ Children develop their natural curiosity by closely examining plants, insects, r
 
 ## Vocabulary
 
-**Observe**: To look closely and carefully at something to notice details. When you observe a bug, you watch how it moves and see its patterns.
+**Observe**: To look closely and carefully at something to notice details—what naturalists and scientists do when studying living things in the field.
 
-**Texture**: How something feels when you touch it—rough like tree bark, smooth like a pebble, bumpy like an orange, or soft like moss.
+**Adaptation**: A feature that helps a living thing survive in its environment. Bark is rough because it's protective armor for the tree. Insects are tiny colors that help them hide from predators—that's camouflage, which is a type of adaptation.
 
-**Habitat**: A place where plants or animals naturally live and find food, water, and shelter. A bird's habitat might be a tree; a frog's habitat might be near water.
+**Exoskeleton**: The hard outer shell of insects and spiders. Instead of bones inside their body (like us), they have an armored outside. That's why a beetle feels crunchy and a worm feels soft—different body structures.
 
-**Natural**: Something that comes from nature and is not made by people—like leaves, rocks, soil, flowers, and rain.
+**Chlorophyll**: The green pigment inside leaves that captures sunlight to make food. Leaves are green because they're full of chlorophyll. When leaves turn orange and red in autumn, it's because the chlorophyll breaks down and other pigments are revealed.
+
+**Decomposition**: When dead plants or animals slowly break down and return nutrients to the soil. Dead leaves and rotting logs are decomposing—fungi and bacteria are the main decomposers, invisibly digesting organic matter.
+
+**Camouflage**: Colors or patterns that help an animal blend into its surroundings. Many insects look like leaves or bark so predators can't spot them.
+
+**Habitat**: The specific environment a living thing needs to survive—with the right food, water, shelter, and temperature. A woodlouse needs damp, dark places under bark; a butterfly needs flowers and sunlight.
 
 ## Learning Song
 
@@ -61,7 +67,7 @@ Nature study every day
 
 ### Activity Overview
 
-Children will go on a guided nature observation journey where they explore natural items with all their senses. They'll look closely at details they might normally miss, touch different textures, listen for sounds, and discover the small wonders of the natural world. This activity teaches observation skills and fosters a deep appreciation for nature.
+Children will go on a guided nature observation journey, exploring natural items with all their senses. Along the way, caregivers provide real scientific context for what they're finding: why bark is rough (protective outer layer of the tree), why insects have six legs (that's the definition of an insect—spiders are different, they have eight legs and are arachnids, not insects), why some leaves are shiny (waxy coating to reduce water loss). Observation teaches the scientific method, and naming what you see teaches biology.
 
 **Activity Type**: Sensory exploration / Nature walk / Discovery play
 
@@ -106,27 +112,27 @@ Children will go on a guided nature observation journey where they explore natur
 
    - **Look closely**: "Let's observe this together. What do you see? Look at the colors. Are they all the same color or different colors?"
 
-   - **Use the magnifying glass**: "Let's look even closer with this magic glass. What new things can we see now? Can you see tiny lines or patterns?"
+   - **Use the magnifying glass**: "Let's look even closer. What new things can we see? Scientists use magnifying lenses and microscopes to see things that are too small for our eyes."
 
-   - **Touch and describe texture**: "Now let's feel it gently. Is it rough like sandpaper or smooth like your cheek? Is it bumpy? Soft?"
+   - **Touch and describe texture**: "Now let's feel it gently. Is it rough or smooth? Bark is rough because it protects the tree—like armor."
 
-   - **Listen and smell** (if appropriate): "Do you hear any sounds? Do you smell anything?"
+   - **Ask real questions**: "Do you smell anything? Some plants make smells to attract insects. The smell from flowers is called a fragrance—it's a signal to bees and butterflies that there's nectar inside."
 
-   Suggested items to observe:
-   - Tree bark, leaves, or flowers
-   - A small bug (ant, ladybug) or spider web
-   - Rocks or pebbles of different sizes
-   - Soil or moss
-   - Pine cone, seed pod, or flower
+   Suggested items to observe with real content:
+   - **Leaf**: Hold it up to the light—you can see the veins that carry water and nutrients (like a tiny circulatory system). If it's green, that's chlorophyll doing its job.
+   - **Insect (ant, ladybug, beetle)**: Count the legs—six means it's an insect. Three body parts: head, thorax, abdomen. The hard outer shell is the exoskeleton.
+   - **Bark**: Rough protective layer. Trees grow a new ring of wood every year—the bark stretches around them.
+   - **Soil or rotting log**: Full of life—decomposers like fungi and bacteria are breaking down dead material and releasing nutrients back into the ground.
+   - **Pine cone or seed pod**: A seed-dispersal structure. The plant built this specifically to spread its seeds—some use wind, some use animals, some use water.
 
 3. **Discovery** (3-4 min):
-   Ask open-ended questions to deepen observation:
-   - "Where do you think this bug lives? That's its habitat."
-   - "Why do you think these leaves are different colors?"
-   - "Can you find something rough and something smooth? Tell me how they're different."
-   - "What would you name this? What sounds do you think it makes?"
+   Ask questions that connect observations to biology:
+   - "That bug has six legs—that means it's an insect. If it had eight legs, it would be a spider, which is an arachnid, not an insect."
+   - "These leaves are different colors because the chlorophyll in them is different. In autumn, chlorophyll breaks down and orange and red pigments that were already there become visible."
+   - "Can you find something rough and something smooth? Bark is rough—it's protecting the softer wood inside. A pebble is smooth because water rubbed against it for thousands of years."
+   - "That's a fungus—a decomposer. It's eating the dead wood and turning it back into soil nutrients."
 
-   If the child wants to collect items, place them in the basket and talk about each find: "Why did you choose this one? What's special about it?"
+   If the child wants to collect items, place them in the basket and discuss: "Why did you choose this? What's interesting about it scientifically?"
 
 4. **Wrap-up** (2-3 min):
    Gather items and prepare to transition. Say: "You were such great nature detectives today. You noticed so many wonderful things. Your eyes were very sharp and you touched the textures very gently."

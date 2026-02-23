@@ -6,13 +6,17 @@ Children discover how people around the world celebrate, create, and live differ
 
 ## Vocabulary
 
-**Tradition**: A special way of doing something that families and communities do again and again, often passed down from grown-ups to children. When you light candles on a birthday cake every year, that's a birthday tradition.
+**Culture**: The shared practices, beliefs, language, art, food, and stories of a group of people—shaped over generations by their geography, history, and environment. Rice is a staple food in East and Southeast Asian cuisines because rice grows well in those climates; wheat is central to European cuisines for the same reason. Culture reflects where people came from and what they needed to survive.
 
-**Culture**: All the special things that make a group of people unique—their songs, foods, clothes, stories, holidays, and how they celebrate together. Your family's culture includes the foods you eat and the holidays you celebrate.
+**Tradition**: A practice passed down from one generation to the next, often connected to a community's history or beliefs. Oral traditions are stories and knowledge passed down by speaking rather than writing—many of the world's oldest cultures preserved their histories this way.
 
-**Celebrate**: To come together with others and do something joyful to mark a special day or important event. When you sing "Happy Birthday" with a cake, you are celebrating.
+**Anthropology**: The study of human cultures—how different societies live, what they believe, how they organize themselves, and how cultures change over time. Anthropologists travel to study communities and record their traditions.
 
-**Festival**: A joyful gathering where many people come together to enjoy music, dancing, food, and fun activities that celebrate a culture or season. A farmer's market or street parade can be a kind of festival.
+**Cultural diffusion**: How practices, ideas, and inventions spread from one culture to another through trade, migration, or contact. Pasta spread from China to Italy via trade routes; jazz music spread from African American communities in New Orleans to the whole world.
+
+**Indigenous**: The original people of a land, whose culture developed in that place over thousands of years. Indigenous peoples around the world have deep knowledge of their local ecosystems—plants, animals, weather—built up over countless generations.
+
+**Festival**: A community gathering connected to seasons, harvests, religious events, or historical moments. Diwali (India) marks the harvest season and the triumph of light over darkness. Chinese New Year follows the lunar calendar and involves specific rituals tied to thousands of years of tradition.
 
 ## Learning Song
 
@@ -60,7 +64,7 @@ We celebrate together every day
 
 ### Activity Overview
 
-Children explore cultural diversity through hands-on play with authentic objects, music, and traditions from different parts of the world. They'll taste, touch, listen, and discover how people celebrate, create art, and express themselves in different ways, building appreciation for our beautifully diverse world.
+Children explore cultural diversity through hands-on play with objects, music, and traditions from different parts of the world. The goal isn't just "look how different people are" but understanding *why* cultures differ: the geography of their homeland, the history of their people, what they grew and traded. A drum from West Africa and a sitar from India both make music—but they evolved in completely different contexts. Real cultural education explains those connections.
 
 **Activity Type**: Discovery play with sensory exploration and cultural immersion
 
@@ -102,18 +106,18 @@ Children explore cultural diversity through hands-on play with authentic objects
    Let your child handle each object with guidance:
    - Pick up the first object and ask: "What do you notice? What does it feel like? What do you think it does?"
    - Let them shake, touch, and explore safely
-   - Share where it comes from: "This comes from [place]. People there use this to..."
-   - Play the music from that culture—even a 30-second clip. Ask: "Do you hear this music? Let's sway and dance the way people there might dance."
+   - Share where it comes from and *why* it exists: "This comes from [place]. People there use this to... It's made from [material] because that material grows/is available there."
+   - Connect to geography: "People in India eat a lot of rice because the climate there is warm and wet—rice grows well there. People in Mexico eat a lot of corn because corn was first grown by indigenous people in Mexico thousands of years ago."
+   - Play the music from that culture—even a 30-second clip. Ask: "Do you hear this music? The instruments are different from our music. That's because they were made from different materials in different places."
    - Move to the next object and repeat
-   - Let them taste the cultural food item: "In [place], families eat this for a celebration or special meal."
+   - Let them taste the cultural food item and explain: "This spice is called [name]. It grows in [place]. Traders used to travel thousands of miles to buy and sell spices—they were incredibly valuable."
 
 3. **Discovery** (3-5 min):
-   Ask open-ended questions:
-   - "What was your favorite thing we explored?"
-   - "How did the music make you feel?"
-   - "What was the best-tasting treat?"
-   - "If you could dance like the people in that music, how would you move?"
-   Point out connections: "You like this song just like children in [place] do!"
+   Ask questions that connect culture to context:
+   - "Why do you think people in cold countries wear heavy clothes but people near the equator wear light clothes? What does climate do to culture?"
+   - "This music uses drums. Why do you think humans all over the world make music—even in cultures that never met each other?"
+   - "This food tastes spicy. Spices come from specific plants that grow in specific places. That's why spice trading was one of the most important parts of ancient history."
+   Point out connections: "You like this song just like children in [place] do—and they've been singing songs like this for hundreds of years."
 
 4. **Wrap-up** (2-3 min):
    Return objects to the table and say: "People all around the world do special things their own way. There are so many beautiful ways to celebrate and create. You learned about people far away today!"

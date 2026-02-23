@@ -6,13 +6,17 @@ Children engage in pretend travel planning and booking activities, learning abou
 
 ## Vocabulary
 
-**Destination**: The place you are traveling to. For example, when you visit Grandma's house or go to the beach, that place is your destination.
+**Destination**: The place you're traveling to. On a map or globe, every place has a location described by latitude (how far north or south of the equator) and longitude (how far east or west). Different locations have different climates, languages, and cultures.
 
-**Itinerary**: A plan or schedule for your trip that shows what you'll do and when you'll do it. Like a list of fun activities for each day of your vacation.
+**Itinerary**: A detailed plan showing what you'll do, where you'll go, and when. Real travel itineraries include flight numbers, hotel bookings, activity reservations, and estimated travel times.
 
-**Navigate**: To find your way from one place to another using a map or directions. When you navigate, you're figuring out which way to go.
+**Navigate**: To find your way from one place to another. Before GPS, navigators used compasses (which point to magnetic north), maps, and the position of stars. GPS satellites orbit the Earth and continuously broadcast their location; your phone calculates its position by measuring the signal time from multiple satellites.
 
-**Luggage**: All the bags and suitcases you pack with clothes, toys, books, and other things you need for your trip.
+**Time zone**: Because the Earth is a sphere rotating on its axis, different places experience day and night at different times. The world is divided into 24 time zones (one for each hour of the day). If you fly from New York to London overnight, you "lose" 5 hours—arriving the next morning even though it feels like night. This is called jet lag: your body's internal clock is confused.
+
+**Transportation infrastructure**: The roads, airports, railways, ports, and systems that allow people and goods to move. A flight from one country to another requires airports, air traffic controllers, fuel networks, and international agreements that allow planes to fly through each country's airspace.
+
+**Logistics**: The practical planning of moving people or goods from one place to another—coordinating transportation, timing, packing the right things, and managing costs. Professional logistics is a huge industry that keeps food, goods, and people moving around the world every day.
 
 ## Learning Song
 
@@ -111,10 +115,11 @@ Children plan an imaginary trip by selecting a destination, deciding what to pac
    - Discuss transportation options: "Will we take a plane, train, car, or boat?"
 
 3. **Discovery** (3-5 min):
-   - Ask thoughtful questions: "What will you see when you get there?" "What's the weather like there?" "Who will you meet?"
-   - Point out details on the map: "Look, we have to cross water to get to this island"
-   - Discuss packing choices: "Why did we pack a warm coat?" "Do we need sunscreen there?"
-   - Talk about the journey time and what they might see along the way
+   - Use the globe or map to show real scale: "It would take a plane about 10 hours to fly from here to Japan. The plane travels around 900 km per hour—almost as fast as sound. Even so, Japan is so far away it takes that long."
+   - Discuss time zones: "When we land in Japan, it will be tomorrow there even though we just left today. The Earth is rotating and Japan is already seeing a new day."
+   - Connect packing to climate: "Why do we need a coat for Canada in December? Canada is far north—close to the Arctic. Why would we need light clothes and sunscreen for Brazil? Brazil is near the equator where the sun is most direct and powerful."
+   - Explain the cost concept: "Airline tickets cost money because the plane uses enormous amounts of fuel, and there are hundreds of workers—pilots, mechanics, air traffic controllers—who make sure you get there safely."
+   - Point to the destination on the map: "This is where we'd be going. Can you trace with your finger the path we'd take to get there?"
 
 4. **Wrap-up** (2-3 min):
    "You did a great job planning your trip! You picked a destination, packed your suitcase, and made your travel documents. Have a wonderful imaginary journey! Maybe someday we can take a real trip like this one."
