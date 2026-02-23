@@ -2,7 +2,11 @@
 
 ## Activity Summary
 
-Fine motor skills involve the precise coordination of small muscles in the hands, fingers, and wrists to manipulate objects and perform detailed tasks. These activities build hand strength, finger dexterity, hand-eye coordination, and bilateral coordination—all essential foundations for later writing, drawing, and self-care skills. Regular fine motor practice increases confidence with tools and improves control, concentration, and spatial awareness in young learners.
+Fine motor skills involve the precise coordination of small muscles in the hands, fingers, and wrists to manipulate objects and perform detailed tasks. These activities build hand strength, finger dexterity, hand-eye coordination, and bilateral coordination—all essential foundations for later writing, drawing, and self-care skills.
+
+The reason toddlers struggle with fine motor tasks is partly neurological: the brain is still laying down **myelin**—a fatty insulating sheath around nerve fibers—that dramatically speeds up signal transmission between the motor cortex and the muscles. Without full myelination (which continues through childhood and even adolescence), nerve signals travel more slowly and less reliably, making precise movements harder to execute. Every time a child practices a fine motor skill, they're also engaging **neuroplasticity**: the brain physically strengthens the synaptic connections used in that movement, making the neural pathway faster and more automatic. What feels like "learning to hold a crayon" is also the child's **motor cortex** (the brain's movement-planning region) and **cerebellum** (coordination and balance center) building a precise motor program together.
+
+Children also rely heavily on **proprioception**—a sensory system that tells the brain where each body part is in space without looking. Fine motor tasks train proprioceptive awareness in the hands and fingers: knowing how hard to press, where the finger tip is relative to the bead, how much grip to apply without crushing. This is a genuine sensory skill separate from vision.
 
 **Activity Type**: Motor skill development
 
@@ -87,6 +91,7 @@ Fine motor skills involve the precise coordination of small muscles in the hands
 - "Let's wake up our hands! Can your fingers do a little dance?"
 - "Make your fingers wiggly like worms coming out of the ground!"
 - "Clap your hands with me—slow, slow, then faster, faster!"
+- "When we move our fingers, our brain is sending messages down to them—let's wake those pathways up!"
 
 ### Main Activity (8-15 minutes)
 
@@ -110,7 +115,8 @@ Fine motor skills involve the precise coordination of small muscles in the hands
 **Skill breakdown - Putting It Together**:
 - Sustained focus on small movements
 - Controlled pressure and movement (not too rough or too light)
-- Awareness of hand position and object placement
+- Awareness of hand position and object placement via proprioception (the sense of where your hands are in space)
+- **Muscle memory**: the more you repeat a movement, the stronger the synaptic pathway becomes—this is why practice makes things feel automatic
 
 **Coaching cues**:
 - "Hold the crayon like you're holding a snack—thumb and fingers!"
@@ -262,7 +268,7 @@ Fine motor skills involve the precise coordination of small muscles in the hands
 
 **Challenge**: Child drops objects repeatedly; can't maintain grip
 
-**Why**: Normal at 2-3 years. Hand muscles still developing; pincer and power grips still maturing. Attention span may be short.
+**Why**: Normal at 2-3 years. Hand muscles still developing; pincer and power grips still maturing. Attention span may be short. Neurologically, incomplete myelination of the corticospinal tract (the nerve pathway from motor cortex to hands) means signals are slower and less precise—the brain genuinely cannot yet send fine-grained force-control instructions reliably.
 
 **Solution**:
 - Use larger objects with easier-to-grip shapes (chunky blocks, bigger beads)

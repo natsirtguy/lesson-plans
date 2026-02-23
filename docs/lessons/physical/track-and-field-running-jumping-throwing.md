@@ -2,7 +2,15 @@
 
 ## Activity Summary
 
-Track and field activities develop fundamental athletic skills across running, jumping, and throwing movements. These classic athletic disciplines build explosive power, speed, coordination, and body awareness while encouraging friendly competition and personal goal-setting. Children develop confidence through mastering individual skills and enjoy the motivational aspects of friendly races and distance challenges.
+Track and field activities develop fundamental athletic skills across running, jumping, and throwing movements. These aren't just "exercise" — they're applications of physics and physiology that children's bodies are already demonstrating without knowing it.
+
+**Running** is powered by Newton's Third Law: each foot pushes backward against the ground, and the ground pushes the runner forward with equal force (ground reaction force). The faster you push back, the faster you accelerate. Efficient runners lean slightly forward, keeping their center of mass ahead of their feet so gravity assists acceleration. Arm swing isn't decorative — it counterbalances the rotation of the legs and shoulders, keeping the body from twisting.
+
+**Jumping** uses the **stretch-shortening cycle**: bending the knees rapidly stretches the muscles and tendons like a spring, storing elastic energy. When released, this energy adds to the muscular force of the jump. The arm swing is also biomechanically significant — swinging the arms up transfers angular momentum upward through the body, adding height to the jump.
+
+**Throwing** is a chain of body rotations: hips rotate first, then torso, then shoulder, then elbow, then wrist — each link adding speed to the next in a **kinetic chain**. The ball follows projectile motion after release: a curved arc determined by launch angle and speed. The optimal angle for maximum distance is approximately 45 degrees (ignoring air resistance).
+
+**Muscle physiology**: short sprints (under 30 seconds) rely on **fast-twitch muscle fibers** — powerful but quick to fatigue, burning stored glucose without oxygen (anaerobic respiration). Longer steady running uses **slow-twitch muscle fibers** — less powerful but highly efficient, burning fat and glucose with oxygen (aerobic respiration). Lactic acid builds up during anaerobic effort, which is why muscles feel burning and heavy after a hard sprint — a sign the muscles are running out of readily available oxygen.
 
 **Activity Type**: Sport-based athletic skill development
 
@@ -97,22 +105,23 @@ Track and field activities develop fundamental athletic skills across running, j
 #### Skill Practice (4-8 minutes)
 
 **Running skill breakdown**:
-- Posture: slight forward lean, eyes forward, arms pumping at sides
-- Leg drive: lift knees high, push off ground powerfully
-- Breathing: natural breathing, not holding breath
+- Posture: slight forward lean — leaning moves the center of mass forward so ground reaction force is directed backward, propelling you forward rather than straight up
+- Leg drive: lift knees high, push off ground powerfully — the push-back is what generates the forward reaction force (Newton's 3rd Law)
+- Arm swing: pump arms at sides — counterbalances rotation and adds to stride rhythm; say "your arms help your legs go faster!"
+- Breathing: breathe naturally; holding breath cuts oxygen to muscles
 - Finishing: maintain form to the very end
 
 **Jumping skill breakdown**:
-- Starting position: feet shoulder-width apart, knees slightly bent
-- Arm swing: swing arms backward to prepare, then forward forcefully
-- Takeoff: push off with both feet at same time
-- Landing: land softly on both feet, bend knees to absorb impact
+- Starting position: feet shoulder-width apart, knees bent — this loads the stretch-shortening cycle (like compressing a spring)
+- Arm swing: swing arms backward first (loading), then forcefully forward and up — the upward momentum transfers through the body, adding height
+- Takeoff: push off both feet simultaneously — "you're storing energy in your bent knees and releasing it all at once, like a spring!"
+- Landing: land softly on both feet, bend knees to absorb impact — the muscles act as shock absorbers, dissipating the kinetic energy gradually
 
 **Throwing skill breakdown**:
-- Stance: feet shoulder-width apart, side toward target
-- Grip: hold ball firmly in palm, not fingers alone
-- Motion: bring ball to chest, step forward, extend arm and release
-- Follow-through: arm continues across body after release
+- Stance: feet shoulder-width apart, side toward target — positions body for the kinetic chain rotation (hips first, then torso, then arm)
+- Grip: hold ball in fingers, not palm — fingers act as a lever at the final link of the kinetic chain
+- Motion: hips rotate first, then torso, then shoulder, then elbow, then wrist snap — each part adds speed to the next link in the chain
+- Release and follow-through: arm continues across body — allows maximum transfer of momentum to the ball; stopping abruptly cuts power
 
 **Coaching cues**:
 - "Run like your favorite animal - fast and strong!"
@@ -288,11 +297,11 @@ Let children experiment with movements:
 ### Encouragement & Coaching Tips
 
 **What to say**:
-- "Look at how fast you're running! Feel your legs working hard?"
-- "You jumped so high! I could see your feet leave the ground!"
-- "Great throw! The ball went so far!"
-- "Every time you practice, you get stronger and better"
-- "I'm proud of how hard you tried, not just the result"
+- "Look at how fast you're running! Your legs are pushing the ground backward, and the ground pushes you forward — that's Newton's Third Law!"
+- "You jumped so high! You loaded your legs like a spring and released all that energy!"
+- "Great throw! The ball made an arc through the air — that's projectile motion!"
+- "Feel that burning in your legs? That's lactic acid — your muscles were working so hard they ran out of oxygen for a moment!"
+- "Every time you practice, you get stronger and better — your muscles and neurons are literally changing"
 
 **What to avoid**:
 - Comparing children to each other ("You're not as fast as...")
