@@ -6,13 +6,19 @@ In this lesson, children explore the fascinating world of patterns—discovering
 
 ## Vocabulary
 
-**Pattern**: A sequence of things that repeats in an orderly way, like red-blue-red-blue or big-small-big-small. You see patterns on a zebra's stripes, in the tiles on the floor, and in songs that repeat the same words.
+**Pattern**: A sequence of things that repeats in an orderly, predictable way. Patterns can be visual (stripes, spots), auditory (rhythms), numerical (1, 2, 3…), or behavioral (daily routines).
 
-**Predict**: To say what you think will happen next based on what you've already seen. When you see the pattern red-blue-red-blue, you can predict the next color will be red.
+**System**: A group of parts that work together and follow rules. A weather system, a solar system, and even a daily schedule are all systems — the parts interact in predictable, patterned ways.
 
-**Sequence**: The order that things happen or appear, one after another. A sequence might be: get dressed, eat breakfast, brush teeth—these always happen in the same order.
+**Fibonacci sequence**: A famous number pattern where each number is the sum of the two before it: 1, 1, 2, 3, 5, 8, 13… Nature uses this sequence constantly — count the spirals on a sunflower or pinecone and you'll almost always land on a Fibonacci number.
 
-**Symmetry**: When both sides of something look exactly the same or match perfectly. A butterfly has symmetry because its left wing looks like its right wing.
+**Fractal**: A pattern that looks the same at different scales — when you zoom in, you see the same shape repeated. Tree branches, coastlines, snowflakes, and ferns are all fractals. The small parts look like miniature versions of the whole.
+
+**Tessellation**: A pattern of shapes that fit together perfectly with no gaps or overlaps, like bathroom tiles or a honeycomb. Honeybees build hexagonal (six-sided) tessellations because hexagons are the most efficient shape for storing honey.
+
+**Symmetry**: When both sides of something match — a butterfly's wings, a human face, or a leaf. Radial symmetry (like a starfish or flower) means the pattern repeats around a central point.
+
+**Predict**: To say what comes next based on the pattern already seen. Pattern recognition is one of the brain's most powerful tools — your brain is constantly predicting what comes next based on past patterns.
 
 ## Learning Song
 
@@ -62,7 +68,7 @@ Patterns, patterns help us learn, help us learn
 
 ### Activity Overview
 
-Children will explore and create their own patterns using everyday materials, learning to recognize when a sequence repeats. They'll discover patterns in nature by collecting and arranging objects, predict what comes next in a pattern, and create their own repeating sequences. This multi-sensory approach helps cement the concept of patterns as predictable, organized sequences.
+Children will explore four kinds of patterns: mathematical (number and color sequences), natural (Fibonacci in nature, fractal branching), social (daily routine sequences), and thinking patterns (how our brains use pattern recognition). They'll create patterns with materials, discover Fibonacci numbers in real objects, and begin understanding how systems — collections of interacting parts — generate patterns.
 
 **Activity Type**: Hands-on exploration and creation
 
@@ -96,37 +102,28 @@ Children will explore and create their own patterns using everyday materials, le
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Say: "Today we're going to discover patterns! Patterns are things that repeat over and over. Let me show you." Point out a pattern on your clothing or in the room (tiles, stripes). Say: "See this? Red, blue, red, blue—the same colors keep repeating! That's a pattern."
+1. **Mathematical patterns** (3-4 min):
+   Start with a simple repeating sequence using blocks or buttons: "Red, blue, red, blue — what comes next? Your brain already knows, because it spotted the pattern!" Build the sequence together, then try a growing pattern: 1 block, then 2 blocks, then 3 — "This one keeps getting bigger! That's called a growing pattern." Introduce the Fibonacci idea verbally: "There's a famous pattern called the Fibonacci sequence — 1, 1, 2, 3, 5, 8 — each number is the sum of the two before it. Nature loves this pattern!"
 
-2. **Exploration** (7-10 min):
-   Provide the child with containers of materials. Start with a simple pattern: "Let's make a pattern together. I'll put down a red button. You put down a blue button. Now I'll put down red again." Continue several repetitions, then say: "Your turn! What comes next?" Let the child place the next item and continue the pattern.
+2. **Natural patterns** (4-5 min):
+   Look at a real pinecone, sunflower head, or photos if outdoors is unavailable. Count the spiral rows going one direction, then the other. Say: "Sunflowers almost always have 34 spirals one way and 55 the other — Fibonacci numbers! Nature discovered mathematics before humans did." Examine a leaf: "See the veins branching off into smaller branches, which branch into even smaller ones? That repeating-at-every-scale pattern is called a fractal." Tear a piece of broccoli apart and show how each floret looks like a mini version of the whole head. If outside, look at tree branches — same pattern.
 
-   Offer variations:
-   - Create patterns with different shapes (block, button, block, button)
-   - Create patterns with size (big button, small button, big button, small button)
-   - Use picture cards to show patterns, then have the child replicate with objects
-   - Create rhythm patterns using a drum (tap-tap-rest, tap-tap-rest)
+3. **Social patterns** (2-3 min):
+   "People make patterns too! What's the first thing you do every morning?" Walk through the daily routine together (wake up → eat → get dressed → play). "That sequence repeats every day — it's a social pattern! Why do you think routines are useful?" Discuss: predictability helps our brains relax because we don't have to figure everything out fresh each day.
 
-3. **Discovery** (3-5 min):
-   Point to the patterns they've created and ask:
-   - "What color comes next?"
-   - "What shape comes next?"
-   - "Can you point to the repeating part?"
-   - "Can we make this pattern again with different colors?"
+4. **Create and predict** (4-5 min):
+   Child makes their own pattern with objects. Caregiver covers the last few items and asks: "What comes next? How do you know?" Encourage the child to explain their reasoning — this is the "thinking pattern" element. "Your brain spotted the rule and used it to predict. That's pattern recognition — one of the most powerful things brains do!"
 
-   Show them a natural pattern (leaves with veins, flower petals) and discuss: "Nature makes patterns too! Look at this leaf—see how the lines repeat?"
-
-4. **Wrap-up** (2-3 min):
-   Display the patterns they've created. "You made patterns! You predicted what came next! Patterns help us understand how things work." Sing a quick verse from the learning song together while pointing to your patterns.
+5. **Wrap-up** (2-3 min):
+   "We found patterns in numbers, in nature, in our daily lives, and in how our brains work. When many patterns work together — like day and night, seasons, and weather all following rules — that's a *system*." Sing a verse from the learning song.
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep patterns very simple: just two elements repeating (red-blue-red-blue or big-small-big-small). Use larger, easy-to-handle materials. Focus on observing and copying simple patterns rather than creating from scratch. Use lots of repetition: "Red button, blue button, red button, blue button..." Let them feel the rhythm and anticipation of "what comes next." Don't push if they're not ready to create independently—that's okay! The exposure to the concept is what matters.
+Focus on simple AB repeating patterns (red-blue-red-blue) and recognizing when something repeats. Use the Fibonacci language lightly — "this is nature's favorite number pattern" — without requiring understanding. Point out fractals in broccoli or leaves and say "it keeps repeating the same shape!" Let the child feel the rhythm of patterns rather than needing to articulate the rule. Social patterns (daily routines) are often the most intuitive entry point at this age.
 
 **3-4+ years**:
-Introduce more complex patterns with three or more elements (red-blue-green-red-blue-green). Ask them to continue patterns independently. Challenge them to create their own patterns and explain what repeats. Ask higher-level questions: "Can you make a different pattern with the same colors?" "Can you make the pattern faster or slower?" Introduce pattern prediction with cards (show first three items, cover the rest, ask what comes next). Explore natural patterns more deeply by going outside and finding patterns.
+Introduce the actual Fibonacci sequence: count it out together (1, 1, 2, 3, 5, 8). Try to find the spirals on a pinecone and count them. Discuss the difference between repeating patterns (AB) and growing patterns (1, 2, 3…). Ask: "What's the rule this pattern is following?" Explore what happens when you break a pattern — why does it feel wrong? Introduce the word "system" and list examples: weather system, digestive system, a game with rules. "Every system follows patterns."
 
 ### Extension Ideas
 
@@ -151,11 +148,11 @@ Introduce more complex patterns with three or more elements (red-blue-green-red-
 
 ### Follow-Up Activities
 
-1. **Pattern hunt at home**: Walk through your house together and find patterns—on the couch, the kitchen floor, their clothing, blankets, plates. Point them out and name them: "That's a striped pattern!" This builds observation skills and helps transfer the concept to real-world contexts.
+1. **Fibonacci hunt**: Look for Fibonacci numbers in nature on walks. Pinecones, sunflowers, flower petals (most flowers have 3, 5, 8, or 13 petals — all Fibonacci). Count petals on a daisy together. "Nature's counting system!"
 
-2. **Create a pattern necklace**: String beads or pasta in a pattern. This is great fine motor practice combined with pattern work. The child can wear their creation, giving them pride in what they've made.
+2. **Fractal drawing**: Draw a big Y shape (a branch). On each tip of the Y, draw a smaller Y. Repeat. Watch a fractal tree grow from one simple rule repeated over and over. Discuss: "A real tree grows the same way — the same branching rule, over and over."
 
-3. **Rhythm patterns in daily life**: Create simple rhythm patterns during transitions. Before meals, clap a pattern (clap-clap-rest, clap-clap-rest) and have everyone copy it. This integrates pattern thinking into everyday routines and helps with listening skills.
+3. **Pattern necklace with a rule**: String beads with a deliberate rule (every third bead is a different color, or 1 red, 2 blue, 1 red, 2 blue). Say the rule aloud while making it. Ask: "If I kept going forever, what would the 20th bead be?"
 
 ---
 

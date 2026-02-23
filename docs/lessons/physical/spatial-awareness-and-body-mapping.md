@@ -2,7 +2,21 @@
 
 ## Activity Summary
 
-Spatial awareness and body mapping help children develop an understanding of their body in relation to space and learn to identify body parts. Through interactive games and guided exploration, children discover where their body parts are, how to move them independently, and how they fit within their environment. This foundational skill supports coordination, balance, and self-awareness while building vocabulary and body confidence.
+Spatial awareness and body mapping help children develop a precise understanding of where their body is in space — a sense called **proprioception**. The brain maintains a living "body map" in a region called the somatosensory cortex, constantly updated by signals from muscles, joints, and skin. Through movement games and guided exploration, children activate and refine this internal map, improving coordination, balance, and the brain-body connection.
+
+## Key Vocabulary
+
+**Proprioception**: Your body's sixth sense — the ability to feel where your limbs are without looking. Special receptors in your muscles and joints send position signals to your brain constantly, even with your eyes closed. This is how you can touch your nose in the dark.
+
+**Vestibular system**: The balance system in your inner ear. Tiny fluid-filled tubes detect tilt and rotation, telling your brain which way is "up." Spinning makes you dizzy because the fluid keeps sloshing after you stop.
+
+**Somatosensory cortex**: The region of the brain that contains your "body map" — a dedicated area for each body part. Interestingly, the hands and lips have huge regions in this map (they're very sensitive), while the back has a small region.
+
+**Kinesthesia**: The sense of your body's movement — feeling that your arm is swinging, not just knowing where it is right now.
+
+**Bilateral coordination**: Using both sides of the body together in a coordinated way — like catching a ball, climbing, or using scissors.
+
+---
 
 **Activity Type**: Motor skill development
 
@@ -69,10 +83,10 @@ Spatial awareness and body mapping help children develop an understanding of the
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Say: "Today we're going to explore our amazing bodies and learn all the parts that help us move!"
-- Point to your own body parts as you name them
-- Use enthusiasm and joy to make the child interested in their own body
-- Key coaching point: Keep language simple and use positive, encouraging tone
+- Say: "Your brain has a map of your whole body. Right now, without looking, your brain knows exactly where your hands are — that's called proprioception. Let's explore it!"
+- Demonstrate: Close your eyes and touch your nose. "How did my finger know where to go? Proprioception! Signals from my arm muscles traveled to my brain's body map."
+- Point to body parts as you name them; use real anatomical terms alongside simple ones
+- Key coaching point: Name the science; young children absorb real vocabulary through repeated context
 
 #### Skill Practice (3-5 minutes)
 
@@ -88,22 +102,29 @@ Spatial awareness and body mapping help children develop an understanding of the
 
 #### Guided Play/Game (3-6 minutes)
 
-**Game structure: "Body Parts Dance"**
+**Game structure: "Body Parts Dance / Proprioception Test"**
 - Call out a body part: "Shake your hands!"
 - Child moves that body part
 - Call different parts in sequence: "Wiggle your fingers! Bounce your arms! Kick your legs!"
-- Gradually combine movements: "Move your hands AND your feet!"
+- Gradually combine bilateral movements: "Move your hands AND your feet at the same time — that's bilateral coordination!"
+
+**Proprioception challenge** (add after a few rounds):
+- Ask child to close their eyes. "Can you touch your elbow with your other hand without looking? Your proprioception will guide you!"
+- Try: "Close your eyes. Where is your left foot? Point to it with your hand without looking." Open eyes to check.
+- "Your brain knew exactly where it was — that's your body map working!"
+
+**Vestibular check**:
+- Spin slowly 3-4 times, then try to walk straight. "Why is that hard? The fluid in your inner ear is still moving — your vestibular system is giving your brain confusing signals!"
 
 **Rules** (keep very simple):
 1. When I say a body part, move that part
 2. When I say "freeze," stop and be very still
-3. We have fun and enjoy how our bodies move
+3. We test our proprioception — eyes closed, find your body parts!
 
 **Variations**:
-- **Simon Says version**: "Simon says touch your toes" - only move when you hear "Simon says"
 - **Mirror game**: Stand facing child and move; child copies your movements and names the body parts moving
-- **Slow motion**: Move in very slow motion to increase body awareness
-- **Speed changes**: Sometimes move fast, sometimes slow
+- **Slow motion**: Move in very slow motion to increase kinesthetic awareness
+- **Eyes-closed challenges**: How many body parts can you locate without looking?
 
 **Turn-taking** (if applicable): Not needed for this activity; all movements happen simultaneously
 
@@ -130,11 +151,11 @@ Let child experiment with moving different body parts and combinations:
 ### 2-3 years
 
 **Modifications**:
-- Use very simple body part names (head, arms, legs, feet, hands) and avoid complex anatomical terms
+- Name body parts (head, arms, legs, feet, hands) and introduce "proprioception" and "vestibular" naturally — "your body's map" and "your balance sense in your ear" are the concepts; the words will stick over time
 - Focus on one or two body parts at a time before combining
 - Keep movements large and visible
-- Provide hand-over-hand support if needed ("Let's touch your nose together")
-- Use lots of repetition and familiar routines
+- Provide hand-over-hand support if needed ("Let's touch your nose together — that's proprioception!")
+- The eyes-closed nose-touch demonstration is perfect for this age — it's magical and immediately intuitive
 - Include more imitation activities (child copies adult movements)
 - Expect shorter attention span; keep segments very brief
 
@@ -145,13 +166,13 @@ Let child experiment with moving different body parts and combinations:
 ### 3-4+ years
 
 **Challenges to add**:
-- Name more body parts (elbows, knees, shoulders, ankles, fingers, toes)
-- Introduce concepts like "left" and "right" (though not expected at 3, good to introduce)
-- Combine multiple body parts in complex movement sequences
-- Play more sophisticated games: "Freeze Dance," "Musical Statues"
-- Introduce body tracing activity: trace child's body outline on paper, label parts together
-- Ask child to lead movements; copy what they do
-- Explore how body parts work together ("Your legs help you run, your arms help you balance")
+- Name more body parts including joints: elbows, knees, shoulders, ankles — explain joints as "hinge points where two bones meet"
+- Introduce left and right (not expected at 3, but good to plant)
+- Run the full proprioception challenges: eyes closed, locate body parts
+- Discuss the vestibular system after spinning: "Why do you feel dizzy? What's happening in your ear?"
+- Introduce body tracing: trace child's body outline on paper and label the somatosensory cortex on a simple brain drawing next to it — "the brain has a special spot for every body part"
+- Ask child to lead movements; copy what they do (develops awareness of teaching vs. doing)
+- Explore reflexes: tap the knee below the kneecap gently. "Your leg kicked by itself — that's a reflex, a signal that bypasses your brain and goes straight to your spinal cord!"
 
 **Duration**: Can extend to 15-20 minutes
 

@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Figure skating introduces children to graceful movement, balance, and self-expression on ice while building coordination, strength, and artistic confidence. This activity develops leg strength, core stability, proprioception, and body awareness through skating and movement exploration. Figure skating is an elegant ice sport that combines physical skill development with creative expression, building both athletic ability and artistic appreciation.
+Figure skating introduces children to graceful movement, balance, and artistic expression on ice. It also introduces real physics: why ice is slippery, how blade edges work, and why spinning skaters speed up when they pull their arms in (angular momentum). The sport's name comes from its origins — skaters were originally judged on the precision of the geometric *figures* they traced on the ice with their blades. Ice skating is one of humanity's oldest sports, with bone-blade skates found dating back 4,000 years.
 
 **Activity Type**: Mind-body practice / Performance arts
 
@@ -44,6 +44,18 @@ Figure skating introduces children to graceful movement, balance, and self-expre
 **Cost estimate**: $40-80 for skate rental; $100-200+ for purchase of used child skates; lessons $40-100/hour
 
 **Safety equipment**: Helmet is essential; some facilities require wrist guards or padded shorts
+
+## Key Vocabulary
+
+**Blade edge**: A skate blade has two edges — inside and outside — separated by a hollow groove. Skaters never skate flat on the blade; they skate on one edge or the other. Edges allow turns and curving glides that would be impossible on a flat blade.
+
+**Angular momentum**: The physics of spinning. When a skater pulls their arms close to their body, they spin faster — without any extra push. This is conservation of angular momentum: as the mass moves closer to the axis of rotation, rotation speed increases. You can feel this in a spinning chair.
+
+**Why ice is slippery**: The surface of ice is always slightly different from the solid bulk below — the outermost molecules aren't as locked in place and behave more like a thin liquid layer. Pressure from a skate blade (and friction generating heat) enhances this effect, creating a lubricating film that allows gliding.
+
+**Compulsory figures**: The original meaning of "figure skating." Skaters used to trace precise geometric patterns — circles, figure-8s — on the ice with their blades and be judged on the accuracy of the tracings. This discipline was dropped from Olympic competition in 1990, but it's where the sport's name comes from.
+
+**Arabesque / spiral**: A skating position where one leg extends behind the body while the skater glides on the other — borrowed directly from ballet vocabulary.
 
 ### Space Setup
 
@@ -87,10 +99,10 @@ Figure skating introduces children to graceful movement, balance, and self-expre
 ### Main Activity (15-25 minutes)
 
 #### Introduction & Demonstration (2-3 minutes)
-- Show basic figure skate movements - gliding, swaying, gentle turns
-- Explain that figure skating is about moving gracefully and expressively
-- Demonstrate simple positions - arabesque (one leg extended), spiral (arm and leg extending)
-- Key coaching point: "Figure skating is like dancing on ice - we're going to move beautifully together!"
+- Say: "Did you know ice skating is 4,000 years old? The first skates were made from animal bones. And 'figure skating' gets its name from drawing geometric figures — circles and figure-8s — on the ice with the blade. Skaters used to be judged on how perfectly shaped the figures were."
+- Show the blade and point out the groove: "There are two edges on this blade. Skaters use their edges to curve and turn — you're never skating flat."
+- Show basic movements: gliding, gentle turns, the arabesque position
+- Key physics point: "Watch what happens when I pull my arms in while spinning — I go faster. That's called angular momentum."
 
 #### Skill Practice (5-10 minutes)
 **Skill breakdown**:
@@ -99,9 +111,9 @@ Figure skating introduces children to graceful movement, balance, and self-expre
 - **Simple turns**: Practice small, gentle turns that begin to change direction
 
 **Coaching cues**:
-- "Make yourself tall and graceful - imagine you're a beautiful swan!"
-- "Move smoothly like you're gliding through clouds!"
-- "Feel the rhythm of your movements - let your body dance!"
+- "Feel which edge you're on — inside or outside? Try to feel the difference."
+- "Keep your arms out for balance. What happens to your spin when you pull them in?"
+- "Why does the ice let you glide? There's always a tiny bit of slippery surface right on top."
 
 #### Guided Play/Game (8-10 minutes)
 **Game structure**:
