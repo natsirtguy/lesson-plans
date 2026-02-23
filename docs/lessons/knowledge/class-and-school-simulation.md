@@ -6,13 +6,13 @@ In this role-play activity, children create and participate in a pretend classro
 
 ## Vocabulary
 
-**Simulate**: To pretend or act out something as if it were real. When you simulate school, you're playing pretend school just like the real thing.
+**Pedagogy**: The science and art of teaching — how to help someone learn something new. The word comes from ancient Greek: *paidagogos* meant "child-leader." People have studied pedagogy for over 2,000 years because teaching well is genuinely difficult. A good teacher doesn't just talk — they figure out what you already know, then build on it.
 
-**Routine**: Something you do the same way every single day, in the same order. Brushing your teeth in the morning is a routine, and saying hello at the start of school is a classroom routine.
+**Curriculum**: A planned course of study — all the subjects and topics a school decides to teach, organized in a deliberate order. The word comes from Latin for "racecourse." A curriculum isn't random; each lesson builds on the ones before it, like steps on a staircase. When you play school and decide "first we'll learn about animals, then about colors," you're designing a curriculum.
 
-**Role**: The special job or part you play in a game or story. When you play school, you might have the role of teacher, student, or principal.
+**Socialization**: The process of learning how to function in a group — understanding rules, norms, expectations, and how to cooperate with others. Schools are one of the main places socialization happens. Children learn that groups need shared agreements (raise your hand, wait your turn) to function without chaos. These aren't arbitrary — they solve real coordination problems.
 
-**Participate**: To take part in or join in an activity. When you participate in class, you raise your hand, answer questions, and join the activities.
+**Metacognition**: Thinking about your own thinking. When you ask yourself "do I understand this?" or "what's confusing me?" — that's metacognition. It happens in the prefrontal cortex, the part of the brain behind your forehead. Metacognition is one of the most powerful learning tools: students who monitor their own understanding learn faster than those who don't.
 
 ## 🎵 Learning Song
 
@@ -58,7 +58,7 @@ School is fun for me and you.
 
 ### Activity Overview
 
-Children create a pretend classroom and take turns being teachers and students. Through this guided imaginative play, they practice classroom routines, explore social roles, and build confidence about school experiences. The activity naturally develops turn-taking, empathy, and understanding of how educational settings work.
+Children create a pretend classroom and take turns being teachers and students — while learning real content about why schools exist, how teaching and learning actually work, and what makes education effective. Through guided play grounded in real pedagogy and cognitive science, children experience the mechanics of knowledge transfer: how a teacher assesses understanding, how curriculum is sequenced, and why metacognition (monitoring your own learning) matters.
 
 **Activity Type**: Social role-play / Imaginative play
 
@@ -93,25 +93,25 @@ Children create a pretend classroom and take turns being teachers and students. 
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Explain the activity: "We're going to play school. Some of us will be teachers and some will be students. Let's create our classroom right here!" Point out the classroom space you've set up and demonstrate a simple classroom action like ringing a bell to get everyone's attention. Practice saying "Good morning, class!" together.
+1. **Introduction — Why Do Schools Exist?** (3-4 min):
+   Start with the real question: "Why do humans have schools? Every animal learns — baby birds learn to fly, cubs learn to hunt. But humans are the only animals that build special places just for learning. Why?" Explain: humans have so much knowledge — language, math, science, history, how to build things — that it takes years to pass it all along. A school is a place designed for *knowledge transfer*: getting what's inside one person's brain into another person's brain. That's hard! The science of how to do it well is called *pedagogy*. "Today we're going to play school, but we're also going to learn what makes a good teacher and a good learner — because scientists have actually studied this."
 
-2. **Exploration** (8-15 min):
-   Invite a child to be the teacher (you can start if needed to model). The teacher sits at the desk while students take seats. Guide the teacher with simple suggestions: "What would you like to teach today? We could sing, count, draw, or tell a story." Have students participate in the pretend lesson—raising hands, answering questions, completing "assignments." Rotate roles so different children experience being the teacher. Let the play unfold naturally with your gentle support.
+2. **Exploration — Building a Real Curriculum** (8-15 min):
+   Start as the teacher yourself to model real pedagogy. "A teacher doesn't just teach random things. They plan a *curriculum* — a sequence of lessons that build on each other. Watch: I'm going to teach you three things about animals, and I'm putting them in a specific order." Teach three quick facts in a scaffolded sequence (e.g., "animals need energy" → "they get energy from food" → "different animals eat different food — herbivore, carnivore, omnivore"). Then ask: "Why did I teach them in that order? Could I have started with the last one?" (No — each idea needed the one before it.) Now invite a child to be the teacher. Help them plan a mini curriculum of 2-3 facts about something they know well. Coach them: "What does your student need to know *first* before they can understand the next part?" When the "teacher" teaches, guide them to check understanding: "Ask your student a question to see if they got it — that's called *assessment*."
 
-3. **Discovery** (3-5 min):
-   As children play, point out what you observe: "I see the teacher is listening to what the students want to learn!" "What a wonderful drawing you made for your classroom assignment!" Ask reflection questions: "What did you like about being the teacher?" "What did you learn?"
+3. **Discovery — Metacognition Practice** (3-5 min):
+   Pause the play and introduce metacognition: "Scientists discovered something amazing about learning. The students who learn the fastest aren't the smartest — they're the ones who *think about their own thinking.* That's called metacognition, and it happens right here" (touch forehead — prefrontal cortex). Practice: ask students "What was easy to understand? What was confusing?" Model it yourself: "When I was learning, the part I found hardest was ___. So I asked a question. That's metacognition — noticing what you don't understand yet." Also introduce *retrieval practice*: "Here's another science trick — if I ask you to remember what we learned instead of just telling you again, your brain holds onto it much better. Let's try: what were the three things our teacher taught us?" (Let them retrieve without hints — this is the testing effect, one of the most robust findings in cognitive science.)
 
-4. **Wrap-Up** (2-3 min):
-   Ring the bell for dismissal: "School is finished for today!" Invite children to help you clean up, making it part of the school experience: "Students and teachers, let's work together to put our classroom away." Store props in a labeled bin so children can rebuild the classroom for next time.
+4. **Wrap-Up — Socialization and Group Norms** (2-3 min):
+   Before clean-up, name what the group just practiced: "All those rules we used — raising hands, taking turns, listening — that's called *socialization.* It means learning how to work together in a group. Every classroom in the world has rules like these, because groups need agreements to function. Can you think of a rule we used today and why it helped?" Ring the bell for dismissal. Store props for next time.
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep activities very simple and short (15-20 minutes). Use mostly demonstrations rather than long explanations—show rather than tell. Be the main teacher with children participating as students. Focus on concrete actions: sitting, singing together, drawing, and moving. This age benefits from watching and imitating more than leading the play.
+Keep the session to 15-20 minutes. Be the teacher yourself for most of the play — model the pedagogy rather than explaining it abstractly. Still use the real vocabulary: say "curriculum" when you describe your lesson order, say "metacognition" when you ask "did you understand that?" Use physical, concrete teaching: count real objects, sort real items by color, name real animals. When the child "teaches" a stuffed animal, help them with one simple question: "What should teddy learn first?" That's curriculum design in miniature. Focus the socialization discussion on one rule at a time: "We raised our hands — that's so everyone gets a turn to talk."
 
 **3-4+ years**:
-Introduce more complex activities like teaching about letters or numbers, "show and tell," or telling stories with props. Create classroom jobs (line leader, materials manager). Make simple rules charts together and invite children to lead more of the play. Add longer scenarios like a full school day with different activities. Include conflict resolution practice and new classroom elements like calendar time or a weather chart.
+Let children design and deliver real mini-lessons with scaffolded curriculum sequences. Introduce the idea that different subjects need different teaching methods — you teach counting differently than you teach drawing (procedural knowledge vs. declarative knowledge). Create classroom jobs with real titles: "curriculum designer" (picks what to teach), "assessor" (checks if students understood). Practice retrieval at the end of every mini-lesson — the "teacher" asks questions without giving hints. Discuss what makes a good teacher vs. a bad one using real criteria: "Did they check if you understood? Did they put things in the right order? Did they explain *why*, not just *what*?" Introduce Socrates (ancient Greece, ~400 BCE) as a teacher who only asked questions and never gave answers — the Socratic method. Try it: can the teacher teach something using only questions?
 
 ### Extension Ideas
 

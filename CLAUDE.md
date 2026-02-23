@@ -94,35 +94,41 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 - Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
 
 ### Intellectual Rigor Audit
-Existing lesson plans are being audited in batches against the above philosophy. Audit progress, results, and fixes are tracked in **[`docs/lesson-audit-tracker.md`](docs/lesson-audit-tracker.md)**.
+Existing lesson plans are being audited against the above philosophy. Audit results are tracked in **`docs/lesson-audit.json`** — a flat JSON object keyed by relative file path (e.g. `knowledge/topic-name.md`). Do **not** read this file to check audit status; use the scripts below.
 
-**Selecting lessons to audit**: Use `select-audit-batch.py` to automatically identify unaudited lessons and pick a random batch:
+**Step 1 — Select lessons to audit**:
 ```bash
 python select-audit-batch.py          # 25 random unaudited lessons (default)
 python select-audit-batch.py 10       # custom batch size
 python select-audit-batch.py --all    # list all remaining unaudited lessons
 ```
-The script parses the audit tracker to determine what's already been reviewed, compares against all lesson plan files on disk, and outputs file paths ready to copy-paste into subagent prompts. Rely on this script to avoid duplicating work — **do not read the audit tracker file** (it is very large and wastes context tokens).
+The script reads `docs/lesson-audit.json` and compares against lesson files on disk. It outputs file paths for unaudited lessons.
 
-**Audit workflow (when doing audits directly, not via subagents)**: Read and fix lessons **one at a time** rather than reading all lessons in the batch first. Reading all files upfront consumes too much context. The better pattern is:
-1. Run `select-audit-batch.py` to get the batch list
-2. Read the first lesson, assess it, fix it if needed
-3. Move to the next lesson — read, assess, fix
-4. After all lessons are done, **append** results to `docs/lesson-audit-tracker.md` — do NOT read the file first, just append
+**Step 2 — Audit lessons one at a time**: Read a lesson, assess it against the rigor criteria, fix it if needed, then record the result before moving to the next lesson. Do not read all lessons in a batch upfront — that wastes context.
 
-**Tracker append format**: Add a new batch heading and results table at the end of the file. Use this exact format:
-```markdown
+**Step 3 — Record each result immediately after auditing**:
+```bash
+# Lesson passes (already rigorous):
+python record-audit-results.py docs/lessons/knowledge/topic.md PASS \
+    "Uses real terminology: circadian rhythm, melatonin, REM sleep"
 
-### Batch N (YYYY-MM-DD) - X Lessons
+# Lesson fixed:
+python record-audit-results.py docs/lessons/knowledge/topic.md "FAIL -> FIXED" \
+    "No food chemistry, purely procedural" \
+    "Added chemical reaction, emulsification, dissolve vocabulary"
 
-| Lesson | Queue | Verdict | Issues Found | Fixed |
-|--------|-------|---------|-------------|-------|
-| Lesson Name | Knowledge or Physical | PASS, FAIL -> FIXED, or FAIL | Brief description of issues (or "Uses real terminology..." for PASS) | Brief description of fixes applied (or N/A for PASS) |
+# Lesson needs work but can't fix now:
+python record-audit-results.py docs/lessons/physical/topic.md FAIL \
+    "No anatomy or physiology content"
 ```
-- **Batch N**: Increment from the last batch number. If unsure, use a high number or descriptive label — it will be corrected later.
-- **Verdict values**: `PASS` (already rigorous), `FAIL -> FIXED` (had issues, now fixed), `FAIL` (issues found but not fixable in this session)
-- **Issues Found**: For FAIL, describe what was wrong (missing vocabulary, no real science, etc.). For PASS, briefly note why it passed.
-- **Fixed**: For FAIL -> FIXED, describe what was changed. For PASS, write `N/A`.
+
+**Check status anytime**:
+```bash
+python record-audit-results.py --status              # summary stats
+python record-audit-results.py --check <path>         # check specific lesson
+```
+
+**Verdict values**: `PASS` (already rigorous), `FAIL -> FIXED` (had issues, now fixed), `FAIL` (issues found but not fixable in this session)
 
 Common patterns found in dumbed-down lessons:
 - Vocabulary that uses only everyday words (e.g., "technology," "device") instead of real technical terms (e.g., "circuit," "sensor," "processor")
