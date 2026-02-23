@@ -86,21 +86,21 @@ Skiing introduces young children to snow-based movement, balance, and coordinati
 ### Main Activity (12-25 minutes)
 
 #### Introduction & Demonstration (2-3 minutes)
-- Show child the skis and how they work - explain they help feet go fast on snow
-- Demonstrate the "pizza" or "wedge" position (toes in, heels out) for slowing down
-- Show proper falling technique - sit back and to the side, tuck and roll if needed
-- Key coaching point: "We're learning to slide and balance together!"
+- Show child the skis and explain the physics simply: "Gravity is pulling us down the hill — that's why we go fast! Skis slide so easily because the pressure of your weight melts a tiny layer of snow under the ski, like ice. The trick is controlling gravity using the shape of your skis."
+- Demonstrate the "pizza" or "wedge" position (toes in, heels out) and explain why it works: "When the ski tips point together and heels go out, the skis push outward against the snow in two directions at once. That creates friction — resistance — and slows you down. The wider the wedge, the more friction, the slower you go."
+- Explain bent-knee stance: "Bending your knees lowers your center of gravity — the point where all your weight is balanced. Lower center of gravity = harder to topple over. That's why race cars are built low to the ground!"
+- Show proper falling technique: sit back and to the side; avoid using hands to catch (wrist fractures)
 
 #### Skill Practice (4-8 minutes)
 **Skill breakdown**:
-- **Standing balance**: Practice standing in skis on flat ground; feel weight distribution
-- **Side-stepping**: Move skis laterally uphill using side-to-side stepping motion
-- **Straight gliding**: Push off gently on flat area to feel how skis slide; practice stopping using pizza wedge
+- **Standing balance**: Practice standing in skis on flat ground; feel that the ski can tip onto its edge to grip (edging) vs. lying flat to slide — that edge control is how skiers steer and stop
+- **Side-stepping**: Move skis laterally uphill; this is also how cross-country skiers climb hills — the edge bites into the snow like a stair
+- **Straight gliding**: Push off gently on flat area to feel how skis slide; practice stopping using pizza wedge; notice that wider wedge = more friction = faster stop
 
-**Coaching cues**:
-- "Stand tall and strong - your legs are like tree trunks!"
-- "Make a pizza slice with your skis - toes together, heels apart to stop!"
-- "Keep your knees bent like you're sitting in a tiny chair!"
+**Coaching cues** (explain the *why*):
+- "Bend your knees — lower your center of gravity so you're harder to knock over. See how much steadier you feel?"
+- "Make a pizza wedge — push both heels out. You're creating friction in two directions; your momentum wants to go straight but the skis are redirecting it sideways. Wider pizza = more friction = more stopping power!"
+- "Keep your weight forward over the center of the ski — if you lean back, the tip lifts and you lose control of where you're going."
 
 #### Guided Play/Game (4-10 minutes)
 **Game structure**:
@@ -121,6 +121,17 @@ Skiing introduces young children to snow-based movement, balance, and coordinati
 - Variation 3: Flat terrain only for very young or first-time skiers; focus on balance and gliding
 
 **Turn-taking**: If sharing a slope, establish clear areas and times when each child can ski
+
+#### Cross-Country Skiing Alternative (can replace or supplement downhill)
+
+Cross-country (Nordic) skiing is actually more accessible for young children and flat spaces — no slope required. The technique is fundamentally different:
+
+- **Stride and glide**: Unlike downhill (where gravity does the work), cross-country relies on a diagonal stride — kick one foot backward to push, glide forward on the other. It's closer to walking/running in movement pattern.
+- **Poles are essential**: Cross-country poles are longer and provide propulsion, not just balance. The arm pushes the pole back while the opposite leg pushes off — same diagonal pattern as walking.
+- **Edging to climb**: On hills, skiers herringbone (V-shape pointing forward, edges biting in) to climb without slipping back.
+- **Why it's different physics**: Downhill converts gravitational potential energy to kinetic energy (speed). Cross-country converts muscle energy to motion through friction-grip of kick-zone wax or textured base that grips snow on the kick, then releases for the glide.
+
+**For beginners**: On flat snowy ground, practice the shuffle-glide motion — push back with one foot and glide on the other. Say: "You're converting energy from your muscles into forward motion — your kick pushes back against the snow, and Newton's Third Law pushes you forward!"
 
 #### Free Exploration (2-3 minutes)
 Allow child to practice movements independently with close supervision

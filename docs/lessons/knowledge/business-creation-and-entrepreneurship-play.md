@@ -6,13 +6,21 @@ Children will create and run their own pretend shop or business, exploring found
 
 ## Vocabulary
 
-**Entrepreneur**: A person who creates and runs their own business. Example: "You're being an entrepreneur when you build your own shop and decide what to sell!"
+**Entrepreneur**: A person who creates and runs their own business to solve a problem or fill a need. Example: "You're being an entrepreneur — you saw people might want toys, so you made a shop to sell them!"
 
-**Customer**: A person who buys or trades for something from a shop or business. Example: "The customer came to your shop to find toys they wanted."
+**Customer**: A person who pays for something from a shop or business because they want or need it. Example: "The customer came to your shop because they needed a toy — you solved their problem!"
 
-**Product**: Something that is made or grown to be sold or used by others. Example: "Your drawings are products you can sell in your pretend shop."
+**Product**: Something made or grown to be sold. Example: "Your drawings are products — you made them, and now someone can buy them."
 
-**Exchange**: To trade one thing for another, or to give something in return for payment or other items. Example: "You exchange your toy car for pretend coins at the toy store."
+**Exchange**: Trading something (money or goods) for something else of roughly equal value. Example: "You exchange coins for the toy because we agreed that's fair — both sides get something they want."
+
+**Profit**: What you have left over after paying for everything it cost you to make or get your product. Example: "If you spent 2 coins on supplies and sold your drawing for 5 coins, you made a profit of 3 coins!"
+
+**Cost**: What you have to give up or pay to make or get something. Example: "The paper and markers cost something — that's why you can't give your drawings away for free and still make profit."
+
+**Value**: How much something is worth to the person who wants it — not always the same for everyone. Example: "Your painting might be worth 5 coins to someone who loves art, but only 1 coin to someone who doesn't care about it."
+
+**Supply and demand**: When many people want something but there isn't much of it, its value goes up. When everyone has it already, its value goes down. Example: "If you only have one dinosaur toy and three customers want it, you could charge more — lots of demand, not much supply!"
 
 ## Learning Song
 
@@ -119,15 +127,16 @@ Children will establish and operate their own pretend business with a caregiver 
 3. **Discovery** (7-10 min):
    - Begin as a customer: "I'd like to buy something from your shop. Do you have toys?"
    - Let the child show items and explain what they offer and how much they cost
-   - Practice exchanges: "I'll give you these 3 coins for that toy. Is that fair?"
-   - Ask questions: "How did you make this? Why is it special?"
-   - Make purchases and use pretend money or trading items
+   - Practice exchanges: "I'll give you these 3 coins for that toy. Is that fair?" — then ask "Why does that toy cost more than this one? What makes it more valuable?"
+   - Introduce cost and profit: "You used paper and markers to make this drawing — those cost something. If you sell the drawing for 5 coins but the supplies cost 2 coins, how many coins do you actually keep? That leftover is called profit!"
+   - Try supply/demand: "What if I want this toy but so do two other customers? Could you charge more for it because everyone wants it?" Introduce: "Lots of people wanting something and not enough of it — that's demand going up, supply staying small."
+   - Make purchases; after each one ask: "Did your business make profit on that?"
    - If appropriate, switch roles: "Now you be the customer and I'll run the shop"
 
 4. **Wrap-up** (2-3 min):
-   - Count the pretend money earned together
-   - Ask reflection: "What was fun about running your shop? Did customers like what you were selling?"
-   - Discuss: "You were an entrepreneur today! You created a business and served customers."
+   - Count the pretend money earned together; subtract the pretend "cost" of materials and see if the business made a profit
+   - Ask reflection: "Did you make a profit? What would you charge more for next time? Did customers think the prices were fair — was the value right?"
+   - Discuss: "Real entrepreneurs have to think about all of this — what things cost to make, what customers will pay, and how to make a profit."
    - Help clean up items and put materials away together
 
 ### Age Adaptations
@@ -143,13 +152,13 @@ Children will establish and operate their own pretend business with a caregiver 
 
 **3-4+ years**:
 - Expand with 15-20 items and varied product categories
-- Introduce pretend money with basic pricing ("This costs 2 coins")
-- Encourage the child to create their own products (draw pictures, wrap toys, make collages)
-- Ask more complex questions: "Why did you price it that way? Would customers buy it?"
-- Introduce multiple customers (siblings, stuffed animals, imaginary people)
-- Allow longer, more complex play with role reversals and story extensions
-- Challenge them to think about advertising: "How will customers learn about your shop?"
-- Introduce service-based businesses: "car wash" or "salon" where they perform actions
+- Use pretend money with pricing; introduce the concept of cost vs. selling price and profit
+- Encourage the child to create their own products (draw pictures, wrap toys, make collages) and think about how much it cost them to make each one
+- Ask more complex questions: "Why did you price it that way? If it costs 2 coins to make, and you sell it for 2 coins, did you make any profit?"
+- Introduce supply and demand: offer a "rare" item (only one available) and ask if it should cost more because demand is high
+- Introduce multiple customers (siblings, stuffed animals, imaginary people) and observe what they choose — what's most popular?
+- Challenge them to think about advertising: "How will customers learn about your shop? What would make them want to come?"
+- Introduce service-based businesses: "car wash" or "salon" — what's the cost? What's the charge? What's the profit?
 
 ### Extension Ideas
 

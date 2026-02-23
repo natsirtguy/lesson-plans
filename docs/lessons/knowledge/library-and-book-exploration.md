@@ -6,13 +6,17 @@ Library and Book Exploration transforms reading time into an adventure of discov
 
 ## Vocabulary
 
-**Explore**: To examine or look at something carefully and with curiosity. When you explore a library, you look through the books to discover stories and information that interest you.
+**Fiction**: Stories that are invented — the characters, events, and places are imagined, not real. Most picture books and chapter books with characters and plots are fiction. Even if a fiction story feels true, it came from the author's imagination.
 
-**Literature**: Written or told stories and information shared through books, poems, and other texts. Literature lets us travel to new worlds and learn about different people and ideas.
+**Non-fiction**: Books about real things — real animals, real people, real events, real places. A book about how volcanoes work is non-fiction; a story about a dragon is fiction. Libraries usually organize them in completely separate sections because they're used differently.
 
-**Imagination**: The ability to picture things in your mind that you haven't seen before. When you read a story, your imagination helps you see the characters and adventures in the words.
+**Genre**: A category of books that share similar features or purpose. Mystery, fairy tale, biography, science book, poetry — these are all different genres. Knowing the genre helps you know what to expect from a book.
 
-**Library**: A collection of books and materials organized and arranged so people can browse, discover, and borrow them. A library can be a room in your home, a small bookshelf, or a large community building full of thousands of books.
+**Author**: The person who writes the words of a book. The author invented (or researched) everything in the text. Example: "Eric Carle wrote *The Very Hungry Caterpillar*."
+
+**Illustrator**: The person who makes the pictures in a book. Sometimes the author and illustrator are the same person; often they're different people. Illustrators make artistic choices — color, style, perspective — that shape how the story feels. Example: "The illustrator drew the caterpillar getting bigger on each page to show the food it ate."
+
+**Narrative**: The sequence of events in a story — the order things happen from beginning to middle to end. Most narratives introduce a character, then a problem or question, and then a resolution. Even simple picture books follow this structure.
 
 ## Learning Song
 
@@ -99,14 +103,20 @@ This activity creates a dedicated library exploration time where children discov
 1. **Introduction** (2-3 min):
    Introduce the library adventure with enthusiasm: "Welcome to our library! Let's explore all these wonderful books together." Create anticipation by asking: "Which book looks interesting to you?" Show how to handle books respectfully: "We turn pages gently so the books stay beautiful."
 
-2. **Browsing and Selection** (3-5 min):
-   Invite the child to browse the book selection freely. Ask open-ended questions: "What catches your eye? Which picture looks interesting?" Support the child's selections without judgment. Discuss covers and titles to build anticipation about what the story might contain.
+2. **Browsing and Sorting** (3-5 min):
+   Before reading, sort books into two piles: fiction and non-fiction. Let the child hold each book and decide together: "Is this a story someone made up, or is it about something real?" Use the covers and flip to a page — the pictures and text usually make it obvious. Name the genre if you know it: "This one is a fairy tale — that's a genre of fantasy fiction."
+
+   For a non-fiction book, show the table of contents and explain: "This page lists all the subjects in this book in order. If I want to find the chapter about shark teeth, I look here." For a fiction book, notice: "There's no table of contents — because it's a story, not reference information."
 
 3. **Shared Reading and Exploration** (8-12 min):
-   Read selected books together at the child's pace. For picture books without words, talk about the images: "What do you see? What's happening?" For worded books, read text and invite comments. Ask open-ended questions: "What's your favorite part? What do you think will happen next?" Follow the child's interest—if they want to linger on a page, do so.
+   Read at least one fiction and one non-fiction book. When reading fiction, track the narrative aloud: "That's the beginning — we've met the character and the problem. Now the middle — watch what the character tries. Here's the end — how did they solve it?"
+
+   When reading non-fiction, model how to use it differently: "I don't need to read this whole thing in order. I can look in the index for exactly what I want to know." Find one fact together and say: "That's a real fact — it's true about all [penguins/volcanoes/trains]." Note the author and illustrator names: "The author researched this. The illustrator drew these diagrams to show us what it looks like inside."
 
 4. **Independent Engagement** (remaining time):
-   Let the child continue selecting and "reading" books independently while you observe nearby. Accept "reading" that involves looking at and discussing pictures. For pre-readers, this visual and conversational engagement is genuine reading. Note what genres and topics most engage the child.
+   Let the child browse independently. If they "read" a book by looking at pictures and narrating, that's real reading comprehension — accept it fully. Pre-readers decode images the same way readers decode text; both are constructing meaning from a book.
+
+   Ask as they go: "Is that one fiction or non-fiction? How do you know? What genre do you think it is?"
 
 5. **Wrap-up** (2-3 min):
    Reflect together: "What was your favorite book today? What did you like about it?" Celebrate the exploration and help return books to the library, making it collaborative: "Let's put these back so they're ready for next time."
