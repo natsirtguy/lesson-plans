@@ -18,6 +18,8 @@ Children explore the concept of time through their own physical cycles, daily ro
 
 **Entropy**: The scientific explanation for why time has a direction — why you can't un-spill milk or un-break an egg. The universe naturally moves from ordered states (all the milk in the cup) to disordered states (milk everywhere). This one-way tendency — called entropy — is why we remember the past but not the future, and why time seems to flow only forward. It is one of the great mysteries of physics.
 
+**Sexagesimal**: A counting system based on 60, invented by the Babylonians around 4,000 years ago. This is why we have 60 seconds in a minute and 60 minutes in an hour — ancient Babylonian mathematicians used base 60 because it's divisible by many numbers (1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30). They counted to 12 on each finger using the thumb, and 12×5=60. We still use their system every time we read a clock.
+
 **Interval**: A space of time between events, like the time between lunch and snack time. Scientists use precisely measured intervals to compare durations and discover patterns.
 
 ## Learning Song
@@ -132,7 +134,7 @@ Children explore time through multiple sensory experiences: observing water drip
    - "Is a clock hand moving fast or slow? Can you make your arm move like the clock hand?"
    - Point out: "Your body has cycles too. You wake up and sleep. You're hungry and then you eat. That's a cycle. And your body runs these cycles on its own biological clock — scientists call it a **circadian rhythm**. Even if you stayed in a dark room with no clocks, your body would still know roughly when to feel tired and when to feel awake."
    - Ask: "Have you ever noticed that time feels slow when you're bored but fast when you're playing? That's real — your brain measures time differently depending on how much it's paying attention. Scientists have studied why: when you're excited and focused, your brain doesn't keep as close a track of seconds passing. When nothing is happening, it notices every moment. Time passing at the same rate can FEEL different."
-   - Say: "Time is always moving, even when we can't see it. The sand timer shows us time because we can watch it happen. A clock counts tiny regular oscillations—like a very fast heartbeat—to measure seconds and minutes exactly."
+   - Say: "Time is always moving, even when we can't see it. The sand timer shows us time because we can watch it happen. A clock counts tiny regular oscillations—like a very fast heartbeat—to measure seconds and minutes exactly. And why 60 seconds in a minute? Because 4,000 years ago, Babylonian mathematicians loved the number 60 — it divides evenly into so many parts. We inherited their system and use it every day without thinking about it."
 
 4. **Wrap-up** (2-3 min):
    Say: "You just learned about time and duration. You discovered that some things are fast and some are slow. You learned that things happen in sequences—one after another. You can see time with timers, clocks, and by watching what happens in your body and your day."

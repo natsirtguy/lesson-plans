@@ -6,13 +6,19 @@ In this imaginative activity, children explore the concept of sharing and creati
 
 ## Vocabulary
 
-**Composition**: The way different elements (colors, shapes, objects) are arranged together in a picture or artwork. When you decide where to place your drawings on the paper, you're creating a composition—just like how a photographer positions things in a photo.
+**Platform**: A digital place — a website or app — where people can share content with others. Instagram, YouTube, and TikTok are platforms. Each has different rules for what you share (photos, videos, short clips).
 
-**Narrative**: A story that unfolds through pictures or words, showing a sequence of events or ideas. A narrative "post" might show what you did first, then second, then third—like chapters in a picture story.
+**Content**: What you create and share — photos, videos, drawings, or writing. Creators think carefully about what their content communicates and who will see it.
 
-**Self-expression**: The act of showing your own feelings, thoughts, and ideas through creative work like drawing, painting, or building. Self-expression is when your art tells the world something about what makes you unique.
+**Audience**: The people who see your content. A good creator thinks about their audience: Who are they? What will they find interesting, funny, or useful? Thinking about your audience shapes what you choose to create.
 
-**Curation**: Thoughtfully selecting and arranging items to display them in a way that shows care and intention. When you choose which pictures to put in your gallery or how to arrange them on a wall, you're curating a display.
+**Composition**: How you arrange elements within a frame. Photographers use rules like "rule of thirds" — imagining the frame divided into a 3×3 grid and placing important things along those lines rather than dead center. This makes photos feel more interesting.
+
+**Caption**: Words added to a photo or image that explain, describe, or add meaning. A great caption can completely change how a viewer understands an image.
+
+**Curation**: Thoughtfully selecting what to include and what to leave out. Social media feeds are curated — people choose their best moments and most appealing images. This is why feeds often don't show the full picture of real life.
+
+**Narrative**: A story told through images and words in sequence. Many creators tell stories across multiple posts, building suspense or showing a process from start to finish.
 
 ## 🎵 Learning Song
 
@@ -60,7 +66,7 @@ Show your own creativity
 
 ### Activity Overview
 
-Children explore materials and create original "posts" using art supplies, then share their creations with peers in a gallery-style display. Through this pretend social media experience, children develop fine motor skills, creative confidence, and understanding that sharing one's work brings joy to both creator and audience.
+Children learn what social media actually is — platforms where people create and share content with audiences — then practice the real skills involved: thinking about composition, considering their audience, adding captions, and curating what to share. The activity introduces basic photography and media literacy concepts while remaining screen-free and hands-on.
 
 **Activity Type**: Creative expression / Pretend play / Social activity
 
@@ -98,35 +104,28 @@ Children explore materials and create original "posts" using art supplies, then 
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Ask children: "Do you know what it means when grown-ups share pictures with their friends?" Show the toy camera and say: "Today, we're going to be artists and photographers! We're going to create special pictures and share them, just like people do on their phones." Demonstrate by creating a quick drawing and explaining why you made it.
+1. **What is social media?** (3-4 min):
+   Explain: "Social media is a platform — a digital place — where people create content and share it with an audience. Some platforms are for photos, some for videos, some for short thoughts. Millions of people around the world share what they're doing, making, or thinking." Show the toy camera: "Today we're going to be content creators — people who make things to share. Real content creators think carefully before they post: Who is my audience? What story am I telling? What's the best way to show it?"
 
-2. **Exploration** (5-10 min):
-   Invite children to browse materials and think about what they want to create. Ask guiding questions: "What makes you happy? What's your favorite thing? What do you want to show your friends?" Allow free exploration and scribbling. Children may start creating immediately or need time to think.
+2. **Photography basics** (3-4 min):
+   Demonstrate composition with the toy camera or a paper frame: "Professional photographers use a rule called 'rule of thirds.' Instead of putting your subject right in the center, you put it a little off to the side." Hold up a frame and show how placing a stuffed animal at the edge looks more interesting than dead center. Talk about lighting: "Good photographers look for light — a window, sunlight — because it makes the subject easier to see." Let children practice "framing" objects around the room with their hands or the toy camera.
 
-3. **Creation** (8-15 min):
-   Show how to arrange materials on paper as if it's a phone screen. Demonstrate simple techniques like drawing, pasting stickers, and using markers. Ask questions about their work: "What colors will you use? What's happening in your picture? Tell me about what you made." Offer support with fine motor skills. Allow children to create multiple "posts" if interested. For older children, discuss adding simple words or captions.
+3. **Creation** (8-12 min):
+   Children create their "post." Before starting, ask: "Who is your audience? What do you want them to feel when they see this?" Encourage thinking about composition as they arrange materials: "Where is your main subject? Is it off to the side a little?" Help add a caption — what words explain or add meaning to the image? Even a dictated one-line caption works perfectly.
 
-4. **Wrap-up** (3-5 min):
-   Gather in a sharing circle. Invite each child to show their creation and tell about it: "Tell us what you made. Why did you like making this?" Display all creations on the gallery wall. Celebrate: "Everyone made something special! These are beautiful posts from amazing artists." Help children put materials away together.
+4. **Gallery and media literacy** (4-5 min):
+   Display all posts on the gallery wall. Walk through the "feed" together. Then introduce media literacy: "On real social media, people only share their best moments — the ones they're proud of. They don't post pictures when they're sad or the day was boring. So when you see someone's feed, you're seeing their curated highlights, not their whole life." Ask: "Do you think that's confusing for people who forget that?"
+
+5. **Wrap-up** (2 min):
+   "You were content creators today — you thought about composition, your audience, and your caption. Real creators do exactly this, every time they post."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on the process of making marks and choosing colors rather than creating a story
-- Keep materials simpler: crayons and paper primarily, maybe stickers
-- Show more, say less; use simple language
-- Adult provides hands-on support with fine motor skills
-- Celebrate simple scribbles and marks as valid "posts"
-- Shorter duration: 15-20 minutes
+Focus on the photography framing activity and simple creation. Use the words "platform," "audience," and "caption" naturally without requiring full comprehension. The key concept to land: people make things to share with others, and they think about how it looks. Keep the media literacy discussion brief: "People share their favorite moments." Celebrate scribbles as legitimate posts — the creative decision is the point, not the product quality.
 
 **3-4+ years**:
-- Introduce narrative elements: "Your post can tell a story"
-- Offer writing/labeling: Help add simple words or captions
-- More complex creative choices: combining materials, making designs, arranging elements thoughtfully
-- Introduce pretend "comments": Others say what they like about the post
-- Optional: Create a pretend "like" system using stickers or hearts
-- May engage for 30+ minutes and want to create multiple posts
+Go deeper on the rule of thirds — draw the grid on paper and practice placing subjects. Discuss what makes a photo interesting vs. boring (lighting, angle, subject choice). Ask about multiple post formats: "Some people post videos. Some post a series of three photos. What format would you use?" Extend the media literacy discussion: "If someone only posts smiling pictures, is that the whole truth about their life?" Introduce the idea of an algorithm — "platforms use computers to show people the posts the computer thinks they'll like most, based on what they clicked before."
 
 ### Extension Ideas
 

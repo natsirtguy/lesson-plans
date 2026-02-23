@@ -2,17 +2,23 @@
 
 ## Activity Summary
 
-Children will explore the magic of storytelling and books through interactive read-aloud experiences, dramatic storytelling, and book exploration activities. They'll discover how stories have characters, settings, and events that unfold in sequence, building foundational literacy skills and a love of reading.
+Humans have been telling stories for at least 40,000 years — long before writing existed. Stories are one of our most powerful technologies: they let us experience things we haven't lived through, understand other minds, transmit values across generations, and make sense of difficult emotions. Every culture in history has had stories. Children will explore how stories are built — their structure, genre, and the ideas they carry — through interactive storytelling, retelling, and creation.
 
 ## Vocabulary
 
-**Character**: A person, animal, or creature in a story who does things and has feelings. When you read about Goldilocks trying the porridge in "Goldilocks and the Three Bears," Goldilocks is the character—the one doing the action.
+**Oral tradition**: Passing stories down by speaking and listening rather than writing. Before writing was invented, all stories were oral — memorized and retold by storytellers, griots, elders. Many famous stories (myths, fairy tales, epics like The Odyssey) began as oral tradition.
 
-**Setting**: The place and time where a story happens. In the story "Where the Wild Things Are," the setting includes Max's bedroom at the beginning and the island with wild things where he goes on his adventure.
+**Genre**: The type or category of a story. A **fable** features animals and teaches a moral lesson (like Aesop's fables — "slow and steady wins the race"). A **myth** explains a natural phenomenon or the origin of the world, using gods and supernatural beings. A **fairy tale** involves magic, transformation, and often good vs. evil. Knowing the genre helps you understand what a story is trying to do.
 
-**Narrative**: A story that has a beginning, middle, and end that tells about events or adventures that happen one after another. When we listen to "The Three Little Pigs," we're following a narrative that shows what happens first, next, and last.
+**Conflict**: The central problem or challenge a character faces. Without conflict, there's no story. In The Three Little Pigs, the conflict is the wolf threatening the pigs' safety. Conflict can be character vs. character, character vs. nature, or character vs. themselves (internal conflict).
 
-**Illustrate**: To create pictures or drawings that show what's happening in a story and help us understand and visualize the characters and events. The colorful pictures in children's books illustrate the words and make the story come alive.
+**Plot**: The sequence of events in a story, usually following an arc: beginning (introduce character and setting) → rising action (conflict develops) → climax (the biggest moment of tension) → resolution (how things end).
+
+**Theme**: The deeper idea or message a story is exploring beneath the surface. The theme of The Three Little Pigs isn't "build houses from bricks" — it's something like "preparation and hard work protect you." A story's theme is what it's *really* about.
+
+**Character**: A person, animal, or creature in a story. Good characters have wants, fears, and flaws — they change and grow (character development).
+
+**Setting**: The time and place where a story happens. Setting shapes everything — the same character in ancient Rome vs. modern New York lives a completely different story.
 
 ## Learning Song
 
@@ -97,25 +103,30 @@ Children will become active participants in storytelling by creating their own s
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Say: "We're going to tell a story together using these pictures and toys! Do you know the story of [The Three Little Pigs]? Let me show you what happens." Show the first picture card or prop and name it: "Here's the first little pig!" Point to the beginning event and say what's happening in simple language. Build excitement: "When I turn this over, something happens next!"
+1. **Introduction: why humans tell stories** (2-3 min):
+   Say: "Humans have been telling stories for 40,000 years — way before books or writing existed. People sat around fires and told stories out loud. That's called the oral tradition. All the fairy tales you know — The Three Little Pigs, Cinderella — started as oral tradition, told and retold for hundreds of years before anyone wrote them down." Then: "Today we're going to tell a story AND talk about how it's built. Because every good story has the same parts."
 
-2. **Exploration** (8-10 min):
-   Let the child handle the props and picture cards. Ask them to arrange them in order while you narrate, or ask them to help: "What happens first?" "What does the pig do next?" With puppets or stuffed animals, encourage them to make the characters "act out" the story. They can move the pig across the table, have it knock on a door, hide from the wolf, etc. Use exaggerated voices and movements: "Oh no! The wolf is coming!" Help them understand sequence by saying: "First the pig built... then the wolf came... next he ran to..."
+2. **Story structure** (3-4 min):
+   Using The Three Little Pigs (or your chosen story), walk through the plot arc:
+   - "The beginning introduces the characters and setting — three pigs, their mother, a world where wolves exist."
+   - "The conflict is the wolf — he's the problem. What does he want? What do the pigs want? That clash is the conflict."
+   - "The climax is the biggest moment — the wolf at the brick house. Everything has been building to this."
+   - "The resolution is how it ends — the pigs are safe, the wolf is defeated."
+   Identify the genre: "This is a fairy tale — there's magic-ish danger, a test, and a triumphant ending." Then: "What's the theme? What's it *really* about? Not building houses — something bigger." Let the child suggest ideas (preparation, hard work, family safety).
 
-3. **Discovery** (3-5 min):
-   Ask guiding questions: "Where is the pig now?" "What's going to happen next?" "How do you think the pig feels?" "Why did the pig do that?" Point out story elements: "See how this is the setting—the forest—and this is the character—the little pig?" Celebrate their storytelling: "You told me what happened first, next, and last. That's a great story!"
+3. **Exploration with props** (5-7 min):
+   Let the child handle the props and arrange events in order. Encourage them to make characters act out the story with exaggerated voices. Ask: "At what moment is the conflict at its peak?" "Who changes in this story — who is different at the end than the beginning?" "What would the story be like if the wolf was the main character? Would the wolf call himself a villain?"
 
 4. **Wrap-up** (2-3 min):
-   Ask if they want to tell the story again or tell a different version: "What if the pig was really brave? What would the pig do?" Help them retell it with variations. Praise their narrative skills: "You're such a good storyteller! You know what happens from the beginning to the end!"
+   "Every story you'll ever read has: characters, setting, conflict, a climax, a resolution, and a theme. Now you know how stories are built — you can be both a reader *and* a story architect."
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep the story to 2-3 main events maximum. Focus on concrete props they can manipulate (stuffed animals, blocks). Use very simple language and repeat key phrases: "The pig ran, ran, RAN!" Let them point to what happens next rather than verbally sequencing. Make animal sounds together and do actions (sniffing like a wolf, trotting like a pig). Don't worry if they don't follow the exact sequence—the goal is exploration and enjoyment of the activity.
+Use the full vocabulary — oral tradition, conflict, genre, theme — naturally in your narration without requiring understanding. Focus on 2-3 main events using props. Make animal sounds and actions. The key concepts to plant at this age: "people have always told stories" and "every story has a problem to solve." Let them point to what happens next. Celebrate any sequence-awareness ("you remembered what comes after!").
 
 **3-4+ years**:
-Use stories with 4-5 events and more complex emotions. Encourage them to retell the entire story with your support: "Can you tell me what happened?" Ask them to predict: "What happens next? Why do you think so?" Introduce new vocabulary: "The wolf was frustrated because..." Challenge them to create variations: "What if the pig was silly instead of scared?" Have them use multiple props to create different scenes and settings.
+Dig into genre actively: compare a fable (e.g., The Tortoise and the Hare, which has an explicit moral) with a fairy tale. Ask: "How is this story different from that one? What was this story *trying* to teach?" Discuss the wolf's perspective: point of view. Challenge them to change one story element and see how it cascades ("What if the conflict were different — what if all three houses were brick? Is there still a story?"). Have them invent their own story by deliberately choosing: character, setting, conflict, and theme — in that order.
 
 ### Extension Ideas
 
