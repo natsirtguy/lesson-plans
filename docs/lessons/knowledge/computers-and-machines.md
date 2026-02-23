@@ -6,15 +6,17 @@ Children will discover how machines work and learn about computers through hands
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly related to the topic, and can be demonstrated or experienced.
+**Simple machine**: A basic device that changes the direction or size of a force to make work easier. Levers, wheels, gears, and ramps are all simple machines — and almost every complex machine is built from combinations of them.
 
-**Machine**: A device with moving parts that does work or helps people complete tasks. When you push a button on a toy car, that's a machine making the wheels turn. Washing machines, fans, and toy trains are all machines.
+**Gear**: A wheel with teeth around its edge that interlocks with another gear to transfer motion. When one gear turns, it pushes the teeth of the next gear, which turns too — often in the opposite direction or at a different speed. Gears are in bikes, clocks, and engines.
 
-**Computer**: A special machine that thinks and remembers information, and follows instructions we give it. Your tablet or parent's laptop is a computer. Computers help us draw pictures, watch videos, and find information very quickly.
+**Circuit**: A complete loop that electricity travels through. For a machine to work electrically, electricity must flow in a complete circle from the battery or power source, through the wires and components, and back again. Break the loop (like flipping a switch off), and the electricity stops.
 
-**Technology**: Tools and machines that people created to help them do things easier or better. A light switch is technology, a bicycle is technology, and your phone is technology. Technology makes our lives more convenient.
+**Input and output**: What you put *into* a computer and what comes *out*. When you type on a keyboard or touch a screen, that's input — you're giving the computer information. When the screen shows a picture or the speaker plays a sound, that's output — the computer sending something back to you.
 
-**Mechanism**: The way a machine's parts work together to make something happen. When you turn a doorknob, the mechanism inside opens the door. Every machine has a mechanism that makes it work.
+**Processor**: The part of a computer that does the actual computing — it reads instructions and carries them out, billions of times per second. It's often called the "brain" of the computer, but unlike a brain, it can only follow exact step-by-step instructions called code.
+
+**Mechanism**: The arrangement of parts that transfers force and motion inside a machine. A doorknob mechanism turns rotation into a sliding latch. A scissors mechanism uses a lever pivot to multiply the force from your hand. Every machine has a mechanism that converts one kind of motion into another.
 
 ## Learning Song
 
@@ -98,52 +100,49 @@ Children will explore simple machines and interact with age-appropriate technolo
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Say: "Today we're going to discover machines! A machine is something with parts that move and work together to help us. Let me show you some machines we use every day."
+   Say: "Today we're going to discover machines! A machine is something with parts that work together to move things or do jobs. Scientists have found that almost every machine in the world is made of just a few simple machines — levers, wheels, and gears — combined in different ways."
 
-   Point to a nearby machine (light switch, fan, or toy) and let the child watch it work. Use simple language: "See how it moves? That's a machine working!"
+   Point to a nearby wheel (toy car, bicycle wheel) and say: "A wheel is a simple machine. It lets things roll instead of drag. Without wheels, cars would just scrape along the ground — they couldn't go fast at all."
 
 2. **Exploration** (8-10 minutes):
    Allow the child to freely explore the discovery station items:
-   - Wind up a windup toy and let them watch it move
-   - Let them push a toy car back and forth to feel the wheels rolling
-   - If age-appropriate, gently help them flip a light switch or press a remote control button
-   - Let them feel the vibration of a phone or electric toothbrush (turned off, then on briefly with your hand guiding)
-   - Spin the gears on a gearbox toy if available
+   - Wind up a windup toy and let them watch it move. Explain: "There's a spring inside — you wound the spring tight, and now it slowly unwinds and pushes the gears. That's stored energy turning into motion!"
+   - If a gearbox toy is available, turn one gear and watch the others respond. Explain: "See how turning one gear makes the other one turn too? Gears have teeth that interlock — they push each other. This is how bicycles work: your feet turn a gear, which pushes a chain, which turns the wheel gear."
+   - Demonstrate a simple circuit with a battery, wire, and LED (or just point to a flashlight): "The battery pushes electricity through this wire. When the electricity makes a complete loop back to the battery, the light turns on. If I break the loop — like this — the light goes off."
+   - Let them push a toy car back and forth: "The wheels are a simple machine. The axle connects them. When one turns, the other must turn too — they're locked together."
 
-   Narrate what they're observing: "You made the car go! See how the wheels are moving? That's the machine working. You're making it work!"
+   Narrate what they're observing: "You made the gears spin! The teeth pushed each other — one gear transferred its motion to the next one."
 
 3. **Discovery** (3-5 minutes):
-   Ask gentle guiding questions:
-   - "What happens when you turn this? Can you feel it moving?"
-   - "This light switch is a machine too! When we flip it, the light machine turns on."
-   - "Can you make this toy go? What are you doing to make it work?"
-   - "Do you see all the different machines in this room?" (Point to fan, door handle, etc.)
+   Ask guiding questions:
+   - "What happens when you turn this gear? Why does the other one move too?"
+   - "This light switch is part of a circuit! Flipping it on closes the loop so electricity can flow. Flipping it off breaks the loop. Can you flip it and see?"
+   - "Can you find another simple machine in this room?" (wheel on a chair, scissors as a lever, door as a lever on a hinge)
 
-   If using a tablet: Let the child touch the screen on a simple drawing app (like Toddler Doodle or Toca Boca). Say: "This is a computer. It's a special machine that remembers where you touch and makes pictures. Computers are helpers, just like other machines!"
+   If using a tablet: Let the child touch the screen on a simple drawing app. Say: "That touch was input — you gave the computer information. The picture appearing on screen is output — the computer responded. The processor — a tiny chip — figured out exactly where your finger was and what color to draw."
 
 4. **Wrap-up** (2-3 minutes):
-   Gather items and say: "You discovered so many machines today! Machines have parts that move and work together. They help us do things. Great exploring!"
+   Gather items and say: "Machines use simple parts — gears, wheels, levers — in clever combinations to do jobs. Computers are machines too, but instead of moving gears, their processor follows millions of instructions every second using electricity flowing through circuits."
 
-   Transition to the next activity: "Should we go play with more machines? Or maybe sing our machine song?"
+   Transition: "Should we see if we can find more simple machines around the house?"
 
 ### Age Adaptations
 
 **2-3 years**:
-- Focus on simple cause-and-effect experiences (push = machine moves)
-- Use fewer items to avoid overwhelming the child
-- Provide more hands-on guidance ("Let's wind this up together")
-- Skip digital interaction; stick to purely mechanical exploration
-- Use very simple 1-2 word labels: "Machine go!" "Wheels turn!"
-- Emphasize the sensory aspects: sounds, movements, vibrations
+- Focus on cause-and-effect: wind the spring, watch the toy go; flip the switch, light turns on
+- Use fewer items; spend more time with each one
+- Provide hands-on guidance ("Let's wind this together — feel how tight it gets?")
+- Say real words alongside simple ones: "Those are gears — they have teeth that push each other. Gears!"
+- Emphasize sensory aspects: the click of gears, the vibration of a motor, the warmth of a battery
+- Ask "what happens if...?" even if they can't fully answer — build the habit of wondering
 
 **3-4+ years**:
-- Introduce the concept that machines have a "job" or purpose
-- Ask "why" questions: "Why do you think this machine makes that sound?"
-- Introduce parts vocabulary: wheels, buttons, gears, handles, batteries
-- Add a brief digital exploration with apps that show cause-and-effect
-- Discuss how different machines do different jobs
-- Ask them to find other machines around the house during activity
-- Introduce the idea that "people made these machines to help us"
+- Explore simple machines by name: "This wheel and axle, this lever, this gear — these are the pieces every machine is made from"
+- Investigate circuits more deeply: try disconnecting a wire and seeing the light go off; reconnect it
+- Ask mechanistic "why" questions: "Why does turning one gear make the other one turn the opposite way?"
+- Introduce the idea of energy transformation: "The spring stored energy when you wound it, and now it's letting that energy out as motion"
+- Compare input/output on the computer: "What input did you give? What output came back?"
+- Challenge: find 5 simple machines in the house (hinges as levers, doorknobs as wheel-and-axle, ramps, scissors)
 
 ### Extension Ideas
 

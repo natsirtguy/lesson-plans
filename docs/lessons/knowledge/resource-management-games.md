@@ -6,13 +6,17 @@ In this lesson, children explore how to make thoughtful choices about sharing, d
 
 ## Vocabulary
 
-**Allocate**: To decide how to divide or distribute something fairly among people or objects. When you allocate your crayons, you decide which colors each friend gets to use.
+**Scarcity**: When there isn't enough of something for everyone who wants it. Scarcity is what makes resource management necessary — if there were infinite blocks, you'd never need to decide who gets how many. Example: "There are only 10 blocks but three of us want to build — that's scarcity!"
 
-**Prioritize**: To decide which things are most important and should be taken care of first. You prioritize drinking water before playing because your body needs it most right now.
+**Allocate**: To decide how to divide limited resources among competing uses or people. When you allocate, you're making a real decision about who or what gets how much of something scarce. Example: "We need to allocate the building blocks — not everyone can have all of them."
 
-**Conserve**: To use something carefully and not waste it, so it lasts longer for everyone to enjoy. When we conserve blocks during building time, we have enough pieces to make a taller, bigger tower together.
+**Trade-off**: When you use a resource one way, you can't use it another way — that's a trade-off. Choosing always means giving something up. Example: "If we use all our clay to make a snake, we'll use up our clay — that's a trade-off. We can't also make a bowl."
 
-**Distribute**: To share or give out something so that everyone gets a fair amount. When we distribute crackers for snack time, each person gets the same number of crackers.
+**Prioritize**: To decide which needs or uses are most important when you can't do everything. Example: "We only have 5 crackers and want to save some for later — we have to prioritize who needs one most right now."
+
+**Conserve**: To use a resource carefully so it lasts longer, stretching a scarce supply. Conserving makes sense when you can't get more. Example: "If we conserve the paint by using small amounts, there'll be enough for everyone to finish their picture."
+
+**Budget**: A plan for exactly how to use a limited amount of something. A budget helps you avoid running out by deciding in advance what gets what. Example: "We have 12 stickers to budget for three projects — let's plan how many each project gets before we start."
 
 ## Learning Song
 
@@ -101,27 +105,25 @@ Children will play hands-on resource management games where they divide material
    Gather children around the collection of items. Say: "Today we're going to make choices about how to share and use these treasures! We can divide them fairly, decide what's most important, and think about what happens with our choices." Let children explore the items briefly with their hands while you talk.
 
 2. **Exploration** (8-10 min):
-   Choose one of three game types:
+   Introduce the core idea first: "These blocks are scarce — there aren't enough for everyone to have as many as they want. So we have to make a plan — a budget — for how to use them." Then choose one game type:
 
-   **Game Type 1: Fair Division** - "We have 12 items and 3 people. How many does each person get?" Let children count and distribute. Ask: "Does everyone have the same? Is that fair?"
+   **Game Type 1: Scarcity and Trade-offs** - Set out 10 blocks and three building projects (tower, wall, bridge). "We only have 10 blocks for three buildings. We can't build all three the same size — that's a trade-off. How do we allocate them?" Help children decide; when they spend blocks on one, narrate: "Those 5 blocks are in the tower now — we can't use them for the bridge. That's the trade-off."
 
-   **Game Type 2: Resource Choices** - "You have 10 items. Which 5 will you keep to play with, and which 5 will we save for later?" Children decide and explain their choices.
+   **Game Type 2: Budget Challenge** - "You have 10 items to budget for the whole day: 5 different activities, each needs at least 1 item. Plan how you'll use them without running out." Children must think ahead and plan rather than just dividing.
 
-   **Game Type 3: Allocation Challenge** - "We have 15 blocks. We want to build with them fairly. How many blocks should each person get?" Children work together to divide and then build.
+   **Game Type 3: Scarcity Role Play** - "Our explorer team has 8 food items but 3 people and a long journey. How do we allocate the food so everyone has enough and some is conserved for emergencies?" This scenario frames resource management as real strategy.
 
-   Use language that promotes thinking: "Why did you choose that first? What will happen next? Is everyone happy with this?"
+   Use language that highlights the real concepts: "If you use it here, you can't use it there — what trade-off are you making? Is there scarcity in this situation?"
 
 3. **Discovery** (3-5 min):
    Ask reflective questions:
-   - "What did you choose first? Why was that important?"
-   - "Did everyone get the same amount? How do you know?"
-   - "What would happen if one person took everything?"
-   - "How did it feel when things were fair?"
-
-   If division was unequal, work together to redistribute: "Let's move some items so everyone has the same number."
+   - "Why do we need to manage these resources? What would happen if there were unlimited blocks?"
+   - "What trade-off did you make? What did you give up by choosing that?"
+   - "Did you make a budget before you started, or did you run out? What would you do differently?"
+   - "Scarcity means not enough for everyone — where do you see scarcity in real life?" (One cookie left, only one person can use the swings at once, family has only so much money to spend)
 
 4. **Wrap-up** (2-3 min):
-   Celebrate their thinking: "You did such a good job making fair choices and thinking about what matters! You allocated treasures so everyone could have some." Let them keep their items for free play or reset and play another round with different objects.
+   Summarize the real concept: "Resource management is about making choices when there isn't enough of something for everyone — that's scarcity. You had to allocate, make trade-offs, and budget. Real families, towns, and countries do this every day with money, food, water, and land." Let children keep items for free play or reset for another round.
 
 ### Age Adaptations
 

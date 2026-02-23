@@ -6,13 +6,15 @@ Mentoring younger children is an experience where older children (3-4+ years) ta
 
 ## Vocabulary
 
-**Mentor**: A person who teaches, guides, and helps someone else learn by showing them how to do things and supporting them with kindness and patience.
+**Mentor**: A person who guides and supports someone less experienced, helping them learn by demonstrating, encouraging, and providing just the right amount of help. Mentoring is different from just doing things for someone — a good mentor helps the learner do it themselves.
 
-**Responsibility**: The duty or job of taking good care of someone or something, and knowing that what you do matters to another person.
+**Scaffolding**: Temporary support that helps someone accomplish something just beyond their current ability alone. Like building scaffolding holds a structure while it's being built and then gets removed, a mentor provides support while the learner is building a skill, then gradually pulls back as they improve. Example: Holding a younger child's hand while they climb, then letting go as they get more confident.
 
-**Patience**: The ability to stay calm, kind, and encouraging even when things take longer or don't go perfectly the first time.
+**Modeling**: Demonstrating a skill or behavior so someone can observe and learn by watching. Young children learn enormous amounts through modeling — they watch closely and then imitate. When you show someone how to do something before asking them to try, you're modeling.
 
-**Leadership**: Guiding and helping others in a thoughtful way by making good choices, being kind, and helping people feel brave and capable.
+**Observational learning**: Learning by watching others, before doing it yourself. It's one of the most powerful ways young children acquire new skills. The younger child in a mentoring pair is using observational learning constantly — watching the older child and absorbing patterns of behavior.
+
+**Fading support**: Gradually reducing help as the learner becomes more capable. A good mentor starts with a lot of scaffolding, then fades it — gives a little less help each time — until the learner can do it independently. Going from "let me show you" → "let's try together" → "now you try while I watch" is fading support.
 
 ## Learning Song
 
@@ -101,49 +103,37 @@ In this activity, an older child (3-4+ years) takes on a mentoring role with a y
 
 1. **Introduction** (3-4 min):
 
-   **To the older child**: Frame it as an honor and responsibility: "I'm giving you a really important job today because you're such a good helper. You're going to be a mentor—that means you help [younger child] and teach them new things. You're going to be a leader."
+   **To the older child**: Explain how learning works: "When [younger child] watches you do something, their brain is already learning — that's called observational learning. They learn a lot just from watching! And when you help them just a little bit — not too much — it lets them do things they couldn't do alone yet. That helping is called scaffolding."
 
-   Ask them to think about the younger child's experience: "What will make [younger child] feel happy and safe while you help them? How can you be a good mentor?"
+   Teach them the mentor's sequence: "Good mentors do three steps: first, show how (modeling); then, do it together (scaffolding); then, watch while they try it alone (fading support). You fade your help as they get better."
 
-   **To the younger child**: Introduce the mentor relationship positively: "Look who's here to play with us today! [Older child] is going to help you and play with you. That's going to be fun!"
+   **To the younger child**: "Look who's going to help you today! You can watch what they do first, and then we'll try together."
 
 2. **Exploration** (15-22 min):
 
-   The older child and younger child engage in a shared activity with the older child taking a supportive role:
+   The older child and younger child engage in a shared activity. The adult coaches the older child to use the three-step sequence explicitly:
 
-   **Activity Examples**:
+   **Step 1 — Modeling**: "Show them how to do it first, so their brain can watch and learn." The older child demonstrates the skill completely (building a block tower, putting puzzle pieces in, folding paper) while the younger child watches.
 
-   - **Building Together**: Older child helps younger child stack, balance, and create. Older child models and encourages: "You did that! Great job!" Older child problem-solves together: "Uh oh, it's falling. Let's try putting this piece here instead."
+   **Step 2 — Scaffolding**: "Now do it together with your hands helping their hands." The older child physically guides or assists. Prompt: "Is that enough help, or too much? Try giving just a little help."
 
-   - **Sensory Exploration**: Water play, sand play, playdough. Older child shows techniques: "You can squish it like this, or roll it like this." Older child offers choices: "Do you want the blue or the red?" Older child takes turns.
+   **Step 3 — Fading support**: "Now let them try while you just watch and cheer." The older child backs off and observes. Coach: "What happens if you give less help? Can they do more on their own now?"
 
-   - **Story and Reading**: Look at a picture book together. Older child points to pictures: "What's that? Do you see the dog?" Older child asks questions: "What happens next?"
-
-   - **Outdoor Exploration**: Walk and observe together. Older child points out interesting things: "See the butterfly? Isn't it pretty?" Older child helps with challenges: "Want help climbing that?"
-
-   **What to observe and comment on** (for adult):
-   - Notice and praise the older child's patience: "I see how kind you're being with [younger child]"
-   - Notice their teaching moments: "Look how you showed them how to do that!"
-   - Notice their nurturing: "You noticed they were frustrated and helped them calm down"
-   - Affirm their leadership: "You're a really good mentor"
+   Label the learning as it happens: "You scaffolded that! You gave just enough help. Now you're fading your support — watch them try!"
 
 3. **Discovery** (remaining time):
 
-   **Addressing challenges together** (builds the older child's problem-solving):
+   Try fading support on a second attempt of the same skill: "They did it with your help last time. What if you gave less help this time?"
 
-   - If younger child gets frustrated: Coach the older child: "I see they're frustrated. What could help them feel better?" Guide options: "You could give them space, help them calm down, or try a different activity."
+   Ask the older child: "What did you notice? What does [younger child] almost know how to do? What do they still need scaffolding for?"
 
-   - If older child gets frustrated: Validate: "This is harder than you thought, huh?" Offer support: "What do you need? Do you want a break?" Help with patience: "Remember—they're still learning. You're doing a great job."
-
-   - If conflict arises: Help them problem-solve: "You both want a turn. How could you solve that?" Praise solutions: "That's a great idea—taking turns!"
+   If younger child gets frustrated: Coach the older child: "They're frustrated — that means they're at the edge of what they can do. That's actually where learning happens! What small help could you give right now?"
 
 4. **Wrap-up** (2-3 min):
 
-   Bring both children together and celebrate what they did together. Praise the older child's mentoring specifically: "You were such a great mentor today. You were patient, kind, and a good teacher. You helped [younger child] feel happy and brave."
+   Debrief with the older child: "What did you use — modeling, scaffolding, or fading support — in that moment? Did you see them learn something? What happens in their brain when you show them how — before they even try?" Explain: "That's why modeling first is so powerful. Even watching builds pathways in the brain."
 
-   Ask reflection questions: "How did you feel about being a mentor? What did you like about playing with [older child]?"
-
-   Make the mentoring feel significant: "Mentoring is an important job. You're becoming a real leader."
+   Celebrate what the younger child accomplished with less help than at the start.
 
 ### Age Adaptations
 

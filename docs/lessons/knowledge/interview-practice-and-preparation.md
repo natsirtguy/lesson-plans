@@ -6,13 +6,15 @@ Children explore the foundations of communication through playful interview scen
 
 ## Vocabulary
 
-**Interview**: A structured conversation where one person asks questions and another person answers them to learn information or get to know someone better.
+**Interview**: A structured conversation where one person asks purposeful questions to gather information or understand another person's knowledge, opinions, or experience. Journalists use interviews to report news; scientists use them to collect data; employers use them to evaluate candidates; doctors use them to understand symptoms.
 
-**Interviewer**: The person who asks questions during an interview to gather information or learn more about someone.
+**Open-ended question**: A question that invites a full, personal answer — not just yes or no. "What did you like about the park?" is open-ended. It gives the other person space to share real information. Compare to "Did you like the park?" — which can be answered with one word and tells you almost nothing. Open-ended questions are the interviewer's most important tool.
 
-**Communication**: The exchange of ideas, feelings, and information between people through talking, listening, and responding to each other.
+**Closed question**: A question with a short, fixed answer — yes/no or a single fact. "Is your name Max?" and "How old are you?" are closed questions. Useful for confirming facts, but not for learning about someone's thoughts or experiences.
 
-**Listen**: To pay careful attention to what someone is saying by focusing on their words and showing interest in what they share.
+**Follow-up question**: A question you ask based on what someone just said, to dig deeper or clarify. If someone says "I like dogs," a follow-up question might be "What kind of dog? What do you like about them?" Good interviewers listen carefully and follow up — it shows real interest and gets richer answers.
+
+**Active listening**: Showing the speaker you're genuinely paying attention — through eye contact, nodding, short responses ("Oh really? Tell me more"), and paraphrasing ("So you're saying you liked the big slide the best?"). Active listening makes people feel heard and encourages them to share more.
 
 ## 🎵 Learning Song
 
@@ -99,13 +101,19 @@ This hands-on activity introduces children to structured conversation through gu
    Start with enthusiasm and show the materials. Introduce the concept: "Today we're going to be interviewers! We get to ask questions and hear interesting stories." Demonstrate with a stuffed animal or puppet if available - ask the toy a simple question ("What is your favorite color?") and answer in a funny voice. Explain that "we take turns asking and listening, and there are no wrong answers - everyone's answers are special and interesting."
 
 2. **Exploration** (8-12 minutes):
-   Model the interview process first by asking the child simple questions: "Can you tell me your name?" and "What is your favorite food?" Listen attentively and respond with genuine interest. Then invite the child to be the interviewer: "Now you be the interviewer. Can you ask me something?" Provide question starters if needed ("You could ask me what my favorite animal is"). Answer authentically and expand slightly on responses. Praise effort and curiosity: "Great question! I never thought about that before!"
+   **Teach open vs. closed questions explicitly.** Say: "There are two kinds of questions. A closed question gets a short answer — like 'Do you like cats?' I can just say yes or no and we're done. An open-ended question gets a real answer — like 'What do you like about cats?' Tell me why." Demonstrate both with the same topic and compare the answers.
+
+   Then model a real interview: ask the child a closed question ("Do you like dinosaurs?") — get a yes — and narrate: "See, I don't know much. Let me ask open-ended: 'What's your favorite thing about dinosaurs?'" Listen to the fuller answer, then ask a follow-up question based on what they said: "Oh — why do you think T. rex had such short arms?"
+
+   Now let the child interview you. If they ask a closed question, gently show the difference: "You asked 'Do you like music?' — I can just say yes! What if you asked 'What kind of music do you like?' — then I'd have a lot more to say." Help them rephrase if they want to.
 
 3. **Discovery** (3-5 minutes):
-   Allow the child to direct the interaction with minimal adult guidance. Follow their lead on questions. Invite another stuffed animal or puppet to "be interviewed" if interest is still high. Model good interview behavior by listening actively, maintaining eye contact, showing genuine interest, and using natural pauses. If multiple children are present, facilitate interviews between them with gentle prompting.
+   Try a short "real interview" — one person interviews the other about a topic they genuinely know (their favorite game, their pet, what happened yesterday). Practice active listening: after the answer, the interviewer paraphrases ("So you're saying the best part was when the dog jumped in the puddle?") and asks a follow-up. Switch roles.
+
+   Ask reflective questions: "Which kind of question got you more information? What made that answer really interesting to hear? Did you think of a follow-up question when they were talking?"
 
 4. **Wrap-Up** (2-3 minutes):
-   Transition with a clear signal: "We have time for two more questions, then we'll wrap up our interview time." Review what you discovered together: "I learned that you love dinosaurs! You asked me great questions today." Celebrate the child's effort: "You were an excellent interviewer today!" Make cleanup collaborative and continue the conversation naturally.
+   Connect to the real world: "Journalists who write news stories use interviews to find out what really happened. Scientists interview people to learn about their experiences. Doctors ask patients open-ended questions to understand what's wrong. You practiced real interviewing today — asking questions that invite real answers, and listening carefully enough to follow up." Review the best question they asked.
 
 ### Age Adaptations
 
