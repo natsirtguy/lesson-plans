@@ -2,17 +2,23 @@
 
 ## 🎯 Activity Summary
 
-Through imaginative play with real or pretend work tools and scenarios, children explore different jobs they see in their community and begin to understand what adults do. Children practice real-world skills in a safe, playful context while developing vocabulary and understanding about the diversity of work in their world.
+Through imaginative play with real or pretend work tools and scenarios, children explore different jobs they see in their community and begin to understand what adults do. But careers are more than just "what you do" — they reflect a fundamental principle of human civilization called **division of labor**: the idea that communities become far more productive when individuals specialize in particular skills rather than trying to do everything themselves. This insight, famous from economist Adam Smith, explains why ancient villages had potters, farmers, and blacksmiths rather than everyone doing all three. Today's modern economy has thousands of specialized occupations, all **economically interdependent** — a baker depends on a wheat farmer, who depends on an equipment manufacturer, who depends on miners and machinists. Children engaging in job role-play are exploring the foundations of how human societies organize work, trade, and cooperation.
 
 ## Vocabulary
 
-**Career**: The different kinds of work that people do throughout their lives to help their community and earn money. Your parent might have a career as a teacher, builder, or gardener.
+**Division of labor**: The economic principle that communities are more productive when people specialize in particular skills. Rather than everyone growing their own food, building their own house, and making their own clothes, people specialize and trade — a farmer grows food, a builder constructs houses, a tailor makes clothes, and they exchange their work.
 
-**Occupation**: The specific job that someone does regularly—like being a baker, a doctor, or a gardener. Each occupation helps people in different ways.
+**Specialization**: Becoming skilled at one particular task or area. Specialists can develop much greater expertise than generalists. A surgeon who does one operation thousands of times becomes far more skilled than a doctor who does everything.
 
-**Role**: A part we pretend to play in imaginative games. When we pretend to be a doctor, we are playing the doctor role.
+**Economic interdependence**: The way jobs and industries depend on each other. A baker needs a farmer (wheat), a miller (flour), a trucker (delivery), and an oven manufacturer — all jobs connected in a chain.
 
-**Tools**: Objects that people use to help them do their work. A baker uses tools like a mixing bowl and spoon; a carpenter uses a hammer and saw.
+**Career**: The path of work a person develops over their lifetime, often involving training, specialization, and increasing expertise. Careers take different amounts of education — some require years of university, others are learned through apprenticeship and hands-on practice.
+
+**Occupation**: The specific job that someone does regularly — like being a baker, a doctor, or a gardener. Each occupation represents a form of specialization that serves the wider community.
+
+**Goods and services**: What economies produce. Goods are physical things (bread, shoes, chairs); services are things people do for others (teaching, healing, haircuts). Most jobs produce either goods or services.
+
+**Tools**: Objects that people use to help them do their work more effectively. A baker uses a mixing bowl, whisk, and oven; a surgeon uses a scalpel; a carpenter uses a hammer and saw. Tools extend human capability and are central to every occupation.
 
 ## 🎵 Learning Song
 
@@ -70,7 +76,7 @@ Every job is special and great, nod your head,
 
 ### Activity Overview
 
-Children will explore 2-3 different job roles through imaginative play using real or pretend work tools and props. They'll practice the skills and actions that people use in different occupations, developing social understanding and symbolic thinking while building vocabulary about the world of work.
+Children will explore 2-3 different job roles through imaginative play using real or pretend work tools and props. While playing, caregivers can highlight the real concepts: "A baker specializes in making bread — they get really good at it because they practice every day. That's division of labor!" Connect the jobs: "If we're playing baker and delivery driver today, those two jobs depend on each other — the delivery driver brings the baker's bread to people who can't come to the bakery." This transforms themed play into a genuine exploration of economics and social organization.
 
 **Activity Type**: Imaginative role-play / Hands-on exploration / Social play
 
@@ -110,7 +116,7 @@ Children will explore 2-3 different job roles through imaginative play using rea
    Introduce the activity by showing a simple picture book about community helpers or acting out a brief job scenario yourself (e.g., "I'm a baker, watch me mix the ingredients!"). Ask children what they see grown-ups doing (driving cars, cooking, helping people, building things). Name the job roles available today: "Today we can be a baker, a doctor, or a gardener." Explain that everyone gets a turn and this is pretend play where we imagine what these jobs are like.
 
 2. **Exploration** (10-15 minutes):
-   Introduce the first job role with a simple explanation and demonstrate one simple action (mixing, kneading, or arranging items). Let the child freely explore the materials and try the tools without too much instruction. Ask simple questions to guide the role-play: "What are you making?" "Who will eat your food?" "Can you show me how you do this?" Use narration to extend the play: "Oh, you're the doctor checking the baby's ears!" If the child is hesitant, join in briefly: "Can I be a customer? I'd like to buy some bread, please." Introduce new job roles when interest wanes in the first one.
+   Introduce the first job role with a simple explanation and demonstrate one simple action (mixing, kneading, or arranging items). Let the child freely explore the materials and try the tools without too much instruction. Ask simple questions to guide the role-play: "What are you making?" "Who will eat your food?" "Can you show me how you do this?" Use narration to extend the play: "Oh, you're the doctor checking the baby's ears!" If the child is hesitant, join in briefly: "Can I be a customer? I'd like to buy some bread, please." Connect jobs to each other: "As the baker, you make goods — that's something people can hold and eat. A teacher provides a service — something they do for others." Introduce new job roles when interest wanes in the first one.
 
 3. **Discovery** (3-5 minutes):
    Let the child lead the play and observe what captures their attention. They may create hybrid jobs or invent new scenarios (e.g., "What if the baker is also the delivery driver?"). Observe and comment on what you see: "You're very carefully measuring the flour." Ask open-ended questions rather than directing play. Avoid correcting "wrong" ways of doing the job—imaginative play is the goal.

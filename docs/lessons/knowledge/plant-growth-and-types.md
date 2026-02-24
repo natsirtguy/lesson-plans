@@ -8,9 +8,11 @@ Children will observe and explore the life cycle of plants, discovering how seed
 
 **Germinate**: When a seed awakens and begins to grow, pushing out tiny roots and shoots. You can see germination when you plant a seed in soil and water and wait to watch the first green sprout push through the dirt.
 
-**Photosynthesis**: The magical process where plants use sunlight to make their own food and energy to grow strong. When you see a plant reaching its leaves toward a sunny window, it's using sunlight to create the energy it needs.
+**Photosynthesis**: The chemical process plants use to make food from sunlight. Inside leaf cells, a green pigment called **chlorophyll** captures light energy and uses it to combine carbon dioxide (from the air) and water (from the soil) into glucose — a sugar the plant uses for energy and to build its body. As a byproduct, plants release **oxygen** — the oxygen we breathe comes largely from plants and algae doing photosynthesis. That's why plant leaves are green: chlorophyll reflects green light while absorbing red and blue wavelengths.
 
-**Root system**: The underground network of thin, thread-like parts that drink water and nutrients from the soil to feed the plant. Roots are like the plant's hidden "drink straw" that pulls moisture from the ground to help the whole plant survive.
+**Chlorophyll**: The green pigment inside plant cells that captures sunlight for photosynthesis. Chlorophyll is what makes plants green — it reflects green wavelengths of light while absorbing the red and blue light it needs to power photosynthesis.
+
+**Root system**: The underground network of roots that absorbs water and dissolved minerals from the soil. Water enters roots through a process called **osmosis** — water naturally moves from wetter soil into the drier root cells. Roots also absorb minerals like nitrogen and phosphorus that plants need to grow. Many roots have tiny **root hairs** — microscopic extensions that dramatically increase the surface area for absorption.
 
 **Biodiversity**: The wonderful variety of many different kinds of plants and animals all living together in nature. When you walk through a forest or garden and see tall trees, small bushes, colorful flowers, and green grass all together, you're experiencing biodiversity.
 
@@ -111,7 +113,8 @@ Children will create their own observation garden by planting seeds in clear con
 3. **Discovery** (3-5 min):
    - Talk about what the seed needs to grow: "Seeds need three things: water, warmth, and light. We just gave our seeds water. The sun outside will give them light, and our warm room will help them grow."
    - Ask observation questions: "What do you think will happen first? Will roots come out first, or leaves?"
-   - Explain: "The roots grow down into the soil to drink water, while the sprout grows up toward the light."
+   - Explain: "The roots grow down into the soil to absorb water through osmosis — water moves from the wet soil into the root cells. The green sprout grows up toward the light because it needs sunlight for photosynthesis — that's how the plant makes its food."
+   - Share a surprising fact: "The oxygen in our air comes mostly from plants doing photosynthesis — every time you breathe, you're breathing oxygen that plants made from sunlight and water!"
 
 4. **Wrap-up** (2-3 min):
    - Place cups in a safe, visible location where children can check them daily
