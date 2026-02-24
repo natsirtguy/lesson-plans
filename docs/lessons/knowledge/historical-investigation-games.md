@@ -6,13 +6,15 @@ Children become young detectives exploring objects from the past, developing cur
 
 ## Vocabulary
 
-**Artifact**: A special object made or used by people long ago that helps us learn about the past and how they lived differently than we do today. Your grandmother's old wooden spoon is an artifact!
+**Artifact**: An object made or used by people in the past that helps us understand how they lived. Stone tools, clay pots, coins, and buttons are all artifacts. Even a 50-year-old spoon is an artifact — it tells us something about materials and cooking from that era.
 
-**Investigate**: To look very carefully and explore something to discover what it is, how it works, and what it tells us. When you investigate an old key, you notice its weight, its patterns, and imagine what doors it might have opened.
+**Archaeologist**: A scientist who studies the past by carefully excavating (digging up) and analyzing artifacts. Archaeologists don't just find objects — they study where objects were found, what layer of earth they came from, and what other objects were nearby. All of that context gives clues about when and how the object was used.
 
-**Texture**: The way something feels when you touch it with your fingers, like smooth, bumpy, rough, soft, scratchy, or silky. An old piece of fabric has a different texture than a new one.
+**Stratigraphy**: The study of layers. Earth builds up in layers over time — older layers are deeper, newer layers are on top. Archaeologists use stratigraphy to figure out how old an artifact is: an object found 10 feet underground is usually much older than one found near the surface.
 
-**Archaeologist**: A person who studies old things and learns about how people lived long, long ago by carefully looking at objects they left behind. Archaeologists are like detectives searching for clues about the past!
+**Preservation**: Why some artifacts survive for thousands of years while others disappear. Hard materials like stone, bone, and fired clay preserve well. Soft materials like wood, cloth, and leather usually decay. That's why we know so much about ancient people's stone tools but rarely find their baskets or clothing.
+
+**Material**: What something is made from — stone, metal, clay, wood, glass. The material of an artifact tells us a lot: stone tools came before metal tools, so a stone arrowhead is older than an iron one. Changes in materials through history show us how technology developed.
 
 ## 🎵 Learning Song
 
@@ -104,20 +106,20 @@ Children engage in playful detective work with 4-6 carefully selected "old" or h
 
 2. **Exploration** (5-10 min):
    - Let the child freely handle and examine items with minimal guidance for the first few minutes
-   - Observe without interrupting: narrate what you see - "You're really noticing the bumpy texture on that one!" and "That makes an interesting sound!"
-   - After free play, introduce gentle investigation: pick up one item together and ask, "Tell me everything you notice. Is it smooth or bumpy? Heavy or light? What color is it?"
-   - Try simple grouping activities: "Let's put all the soft things together and the hard things together"
-   - Introduce the history element: "This is so old. A long, long time ago, maybe someone's great-great grandmother used something like this"
-   - Ask open-ended questions: "What do you think someone might have done with this?" (allow imaginative guessing)
-   - Show picture cards if available: "Look, here's how people used this a long time ago!"
+   - Observe without interrupting: narrate what you see — "You're really noticing the bumpy texture on that one!" and "That makes an interesting sound!"
+   - After free play, introduce guided investigation: pick up one item together and ask "Tell me everything you notice. Is it smooth or bumpy? Heavy or light? What is it made of?"
+   - Introduce material thinking: "This is made of stone/metal/clay. Stone tools are very, very old — people made them before we knew how to make metal. Metal tools came later because it took a long time to figure out how to melt and shape metal."
+   - Preservation concept: hold up a stone and a piece of cloth. "Which do you think would last longer buried in the dirt? Stone can last millions of years! That's why we find so many stone tools from ancient people — everything else rotted away."
+   - Ask open-ended questions: "What do you think someone might have done with this? What does the shape tell us?" (allow imaginative guessing — there are no wrong answers)
+   - Show picture cards if available: "Here's how people used this a long time ago. What's different about how we do that now?"
 
 3. **Discovery** (3-5 min):
-   - Encourage "detective" role-play: "You found a clue! What does it tell us?"
+   - Encourage "detective" role-play: "You found a clue! What does it tell us about who used this and when?"
+   - Introduce stratigraphy: "Real archaeologists dig through layers of earth. The deeper something is, the older it usually is. Imagine if we buried this spoon today — in 1,000 years someone might dig it up and try to figure out what it was for!"
+   - Compare materials across objects: "This one is stone, this one is metal, this one is clay. Which do you think is oldest? Stone tools came before metal ones — humans figured out metal much later."
    - Allow imaginative use: if the child wants to pretend with the objects, follow their lead
-   - Ask story questions: "What story does this old thing tell us?"
-   - Support drawing or marking to "document" discoveries if interested
-   - Follow the child's pace and interest - if they want to explore one item repeatedly, that's perfect learning
-   - Model genuine curiosity, not testing questions
+   - Support drawing or marking to "document" discoveries if interested (real archaeologists draw detailed pictures of every artifact they find!)
+   - Follow the child's pace and interest — if they want to explore one item repeatedly, that's deep learning
 
 4. **Wrap-up** (2-3 min):
    - Celebrate: "We were such great detectives today! You discovered so many things about these old, special items"
@@ -139,14 +141,14 @@ Children engage in playful detective work with 4-6 carefully selected "old" or h
 
 **3-4+ years**:
 - Use 5-8 items with greater variety in textures, weights, and materials
-- Introduce simple categorization: "Things that are hard/soft, smooth/bumpy, heavy/light"
-- Create a simple timeline concept: "This is from long, long ago. This is newer but still old"
-- Add sequencing thinking: "First people used this, then we started using that"
-- Explore comparisons: "How is this different from what we use now?"
+- Sort by material: stone, metal, clay, wood, fabric — discuss why stone and clay artifacts survive longest (preservation concept)
+- Introduce a simple material timeline: "Stone Age → Bronze Age (copper + tin = bronze) → Iron Age → today." You don't need the dates — just the sequence of "people figured out new materials over a very long time"
+- Add sequencing thinking: "First people used stone tools, then they discovered how to make metal, then factories made machines — each step took a long, long time"
+- Explore comparisons: "How is this different from what we use now? Why do you think people switched to the newer version?"
 - Encourage more independent investigation with less prompting
-- Use vocabulary like "artifact," "discover," "investigate," "detective," "history," "archaeologist," "clues"
+- Use vocabulary: "artifact," "archaeologist," "stratigraphy," "preservation," "material," "excavate," "primary source"
 - Allow 20-30 minutes; they may want extended exploration
-- Support documentation through drawing, photos, or simple storytelling
+- Support documentation through drawing (archaeologists always sketch their finds!), photos, or storytelling
 
 ### Extension Ideas
 

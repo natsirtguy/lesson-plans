@@ -14,6 +14,20 @@ Snowboarding introduces children to balance, body rotation, and edge control whi
 
 **Space Required**: Gentle slope 50+ feet long, or flat area for learning fundamentals
 
+## Key Concepts (share with children while snowboarding)
+
+**Edge control**: A snowboard has two edges — the heel edge (behind the back foot) and the toe edge (in front of the toes). Pressing your heels down digs the heel edge into the snow, creating friction that turns and slows you. Pressing your toes down digs the toe edge in and turns you the other way. Almost everything in snowboarding comes back to edge control — which edge is engaging the snow and how much pressure you're applying to it.
+
+**Why snowboarders face sideways**: Skis let you face downhill because each ski is separate and can edge independently. Snowboarders are bound sideways to a single board because this lets them transfer weight from one edge to the other efficiently. Facing sideways also means your shoulders can rotate to initiate turns — when your upper body rotates, the board follows because your feet are attached.
+
+**Body rotation and turns**: Turns in snowboarding are initiated by the upper body. Because your feet are fixed to the board, when your shoulders and hips rotate, the board rotates too — that's how you steer. Exaggerating shoulder rotation ("look where you want to go") is a real technique, not just beginner coaching.
+
+**Center of gravity and balance**: Your center of gravity (roughly belly button height) needs to stay over the board. Lean too far forward or backward and you fall. Bending your knees lowers your center of gravity, which makes you more stable — harder to tip over. Snowboarders naturally adopt a bent-knee squat for this reason.
+
+**Why wrists break when falling**: When humans fall, the instinct is to stick hands out to brace. This sends all the impact force through the wrist bones (radius fracture is one of the most common snowboarding injuries). Wrist guards absorb some impact, and the correct fall technique is to tuck arms in and land on the padded parts of the body — forearms, bottom, or roll to the side.
+
+**Snow and board friction**: Fresh powder is soft and slow — boards sink in a bit, creating drag. Hard-packed snow is faster because the board slides on a thinner layer of compressed ice crystals with less drag. Ice is fastest (and most dangerous) because there's almost no friction and edge control becomes much harder. Experienced boarders adjust their technique based on snow conditions.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -88,10 +102,11 @@ Snowboarding introduces children to balance, body rotation, and edge control whi
 ### Main Activity (12-20 minutes)
 
 #### Introduction & Demonstration (2-3 minutes)
-- Show the snowboard and explain it works like a surfboard on snow
-- Demonstrate the stance - sideways body position, knees bent, weight centered
+- Show the snowboard and explain it works like a surfboard or skateboard on snow — same physics of edge control and weight shifting
+- Explain the two edges: "This board has a heel edge and a toe edge. Pushing on your heels makes the heel edge dig into the snow and slow you down. Pushing on your toes does the same on the other side. That's how we steer and stop."
+- Demonstrate the stance — sideways body position, knees bent, weight centered
 - Show how to strap in bindings properly
-- Key coaching point: "Your snowboard is like a magic carpet - we'll learn to control it together!"
+- Key concept: "When we want to turn, we look where we want to go and rotate our shoulders that way. Because our feet are attached to the board, it follows."
 
 #### Skill Practice (4-8 minutes)
 **Skill breakdown**:

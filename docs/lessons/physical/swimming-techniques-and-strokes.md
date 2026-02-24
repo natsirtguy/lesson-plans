@@ -14,6 +14,20 @@ Swimming techniques and strokes introduce young children to water movement, brea
 
 **Space Required**: Shallow water area (waist-deep for caregiver minimum); 30+ feet of clear water space
 
+## Key Concepts (share with children while swimming)
+
+**Buoyancy (Archimedes' Principle)**: You float because water pushes up against you with a force equal to the weight of the water your body displaces. This is called buoyancy. If you weigh less than the water you displace, you float. Humans are mostly water, so our density is close to water's — we float easily when we keep air in our lungs (air is much less dense than water). That's why taking a deep breath helps you float: more air in your lungs makes your whole body less dense.
+
+**Saltwater vs. freshwater**: Saltwater is denser than freshwater because dissolved salt adds to the water's weight without adding much volume. This is why it's easier to float in the ocean than in a freshwater pool — the water is pushing up harder. The Dead Sea is so salty that almost everyone floats effortlessly, even without trying.
+
+**Propulsion and Newton's Third Law**: Every action has an equal and opposite reaction. When your hand pushes water backward, the water pushes your hand (and body) forward with equal force. That's Newton's Third Law — and it's the physics behind all swimming strokes. More powerful, larger arm/leg movements push more water and generate more forward force.
+
+**Drag and streamlining**: Water is much thicker (more viscous) than air, so moving through it takes much more energy. A streamlined body position (stretched long, arms ahead, face down) cuts through water with less resistance. Curled-up or diagonal positions create more drag and slow you down. This is why competitive swimmers are so stretched out — they're minimizing drag.
+
+**Why kick power comes from the hips, not the knees**: Bending at the knee mostly moves only the lower leg, which is small and creates little water push. Kicking from the hip engages the entire leg (the largest muscles in the body) and sweeps a much larger surface area through the water. Long, powerful flutter kicks originate at the hip with a loose knee that follows.
+
+**Breath control and buoyancy**: When you exhale underwater, you release the air that helps you float — you actually sink a little. When you inhale, you're more buoyant. Coordinating breathing with stroke timing uses this effect deliberately: breathe in when your face is up, exhale slowly when face is down, so you're always balanced.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -103,10 +117,10 @@ Swimming techniques and strokes introduce young children to water movement, brea
 ### Main Activity (12-20 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show floating/buoyancy concept: "Your body floats in water like a boat. The water helps hold you up."
-- Demonstrate basic kick: "Legs move up and down, back and forth; they help push you through the water"
-- Show arm motion: "Arms reach forward and pull the water back; that helps you go forward"
-- Explain breath control: "We blow out in water, breathe in when face is up; like blowing bubbles"
+- Show floating/buoyancy concept: "Water pushes up against your body — that's called buoyancy. When you fill your lungs with air, your body gets less dense, so water pushes you up more. That's how floating works."
+- Demonstrate basic kick: "Kick from your hip — not just your knee. Using the whole leg pushes more water and makes you go faster. Watch." (demonstrate long hip-driven kick vs. bent-knee flap)
+- Show arm motion: "When your arm pushes water backward, the water pushes you forward — that's called Newton's Third Law. The bigger and more powerful the push, the faster you go."
+- Explain breath control: "Take a breath, go face-down, blow bubbles out slowly. When your air runs out, turn to breathe. Swimmers time this with their strokes."
 
 #### Skill Practice (4-8 minutes)
 

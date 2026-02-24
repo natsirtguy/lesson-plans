@@ -14,6 +14,18 @@ Skiing and snow sports introduce young children to winter movement and balance s
 
 **Space Required**: Open snowy area minimum 50 feet long by 20 feet wide (for learning area)
 
+## Key Concepts (share with children while skiing)
+
+**Gravity and slopes**: Gravity pulls everything straight down toward the center of the Earth. On a flat surface, gravity just holds you in place. On a slope, gravity pulls you downhill — the steeper the slope, the faster the pull. Skiers use gravity as their engine; technique is about controlling how much gravity accelerates you.
+
+**Friction and speed control**: Friction is the force that slows you down when surfaces rub together. Ski edges on snow create friction — the more edge touching the snow, the more friction, the slower you go. The "pizza" or "snowplow" position works because you're turning your skis into a V-shape, pushing more edge into the snow and creating more friction. Parallel skis (pointing straight downhill) create less friction = faster. Understanding this helps children predict what will happen before they try it.
+
+**Center of gravity**: Everyone has a center of gravity — the point where your body's weight balances. For humans it's roughly at the belly button. Bending your knees lowers your center of gravity, which makes you more stable (harder to tip over). That's why skiing coaches tell skiers to bend their knees — it's not arbitrary, it's physics. Try it: stand straight and let someone push you sideways, then try with bent knees. Much harder to topple.
+
+**Snow science**: Snow is made of ice crystals that form around tiny particles (dust, pollen) in clouds. Each snowflake has a six-sided (hexagonal) structure because of how water molecules bond when freezing. Fresh powder snow has a lot of air trapped between crystals — that's why it's soft. Packed snow has had its crystals compressed, squeezing out the air. Ice forms when snow melts and refreezes. Interestingly, a thin layer of liquid water at the surface of snow/ice is what makes it so slippery — skis glide on this molecular-thin water layer.
+
+**Thermoregulation**: The body generates heat through metabolism — burning food for energy. In cold weather, the body prioritizes keeping vital organs (heart, lungs, brain) warm by reducing blood flow to extremities (hands, feet, nose, ears). That's why these get cold first. Frostbite occurs when tissue actually freezes — ice crystals form inside cells and damage them. Staying active (skiing) generates metabolic heat and helps prevent cold injury.
+
 ## Complete Activity Structure
 
 ### Equipment Needed
@@ -104,11 +116,12 @@ Skiing and snow sports introduce young children to winter movement and balance s
 ### Main Activity (12-25 minutes)
 
 #### Introduction & Demonstration (2-3 minutes)
-- Show child the skis and explain their purpose in simple terms
+- Show child the skis and explain their purpose
+- Explain gravity simply: "This hill is slanted. Gravity — the force that keeps us on the ground — pulls us downhill when the ground tilts. Our skis help us control that."
 - Demonstrate how to stand with skis on (don't demonstrate skiing yet)
-- Show how to move skis apart and together (pizza/French fries position)
+- Show pizza position and explain the physics: "When skis make a V-shape and push into the snow, that's friction slowing us down. The pizza shape makes more friction."
 - Explain that falling is normal and happens to everyone
-- Use positive language: "We're learning to slide on snow. It's so fun!"
+- Use positive language: "We're learning to slide on snow — we're going to use gravity to go downhill and friction to stop!"
 
 #### Skill Practice (5-8 minutes)
 
@@ -258,10 +271,10 @@ Skiing and snow sports introduce young children to winter movement and balance s
 - **Ski jump imagination**: Mark small jump (very gentle) and practice launching
 
 ### Learning Connections
-- **Snow science**: Discuss how snow forms, why it slides, different types of snow
-- **Winter animals**: Talk about how animals move in snow (rabbits, deer, foxes)
-- **Gravity and physics**: Explain why things slide downhill (age-appropriate)
-- **Weather exploration**: Discuss temperature, wind, and snow conditions
+- **Snow science**: Pick up a handful of snow and examine it — ice crystals, each with six sides. Squeeze it: packed snow is denser because you're compressing crystals and squeezing out air. Why is ice slippery? A thin layer of water at the surface is what skis actually glide on.
+- **Winter animals**: How do animals move in snow? Rabbits and snowshoe hares have wide feet that distribute weight across more snow surface (like snowshoes) so they don't sink in. Deer have narrow hooves that punch through.
+- **Gravity and friction experiment**: Find a slope and slide different objects down it — a block of ice, a rough rock, a smooth piece of cardboard. Which goes fastest? Why? (Smoother surface = less friction)
+- **Wind chill**: Why does wind make it feel colder? Wind carries heat away from your skin faster. The "wind chill" number tells you what the temperature feels like given the wind speed — not the actual temperature, but the rate of heat loss.
 
 ### Home Practice
 - Sledding on gentle hills in park or yard
