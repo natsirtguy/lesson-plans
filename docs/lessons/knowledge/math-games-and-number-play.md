@@ -6,13 +6,17 @@ Through playful games and hands-on exploration, children discover that numbers a
 
 ## Vocabulary
 
-**Quantity**: The amount or number of something (e.g., "We have a quantity of three blocks" versus "We have three blocks").
+**Quantity**: The amount or number of something — how many. Understanding quantity is the goal behind counting; the counting words are just labels for quantities.
 
-**Pattern**: A repeated sequence of objects, colors, or sounds that follows a predictable rule (e.g., red-blue-red-blue is a pattern).
+**Subitizing**: Recognizing a small quantity (typically 1–4) at a glance, without counting. When you see three dots on a die and instantly know it's three, that's subitizing. Even young infants can subitize up to 2 or 3 — it's one of the brain's built-in mathematical abilities.
 
-**Compare**: To look at two things and notice how they are the same or different (e.g., "This pile has more blocks than that pile").
+**One-to-one correspondence**: Matching exactly one number word to each object as you count — touching each block once while saying "one, two, three." This is a foundational insight children develop between ages 2 and 4.
 
-**Sequence**: An order of things arranged in a specific way, one after another (e.g., 1, 2, 3, 4, 5 is a number sequence).
+**Cardinality**: The principle that the *last* number you say when counting tells you the total quantity of the whole group. A child who counts five blocks and then says "five blocks!" is applying the cardinality principle. Many children can count aloud before they understand cardinality.
+
+**Pattern**: A repeated sequence of objects, colors, or sounds that follows a predictable rule (e.g., red-blue-red-blue is a pattern). Recognizing patterns is at the heart of mathematics — algebra, geometry, and even calculus are ultimately about finding and describing patterns.
+
+**Compare**: To look at two groups and judge which has more, fewer, or the same. Comparison underpins the concepts of greater than, less than, and equal to.
 
 ## Learning Song
 
@@ -67,6 +71,10 @@ Six, seven, eight, nine, ten
 
 ### Activity Overview
 
+Counting seems simple, but it actually involves several distinct mathematical concepts that children discover gradually. **Subitizing** (seeing a small quantity instantly) is built into the human brain from birth. **One-to-one correspondence** — matching exactly one number word to each object — is a discovery most children make between ages 2 and 3. **Cardinality** — understanding that the last number counted tells you the total — typically follows shortly after and marks a significant leap in mathematical thinking. A child may be able to count "one, two, three, four, five" perfectly while still not grasping that "five" means the whole group. These are genuine mathematical insights, not just rote skills.
+
+Mathematicians describe number as the science of quantity and pattern. Even at ages 2–4, children are doing real mathematics when they compare groups, identify patterns, and test whether quantities change when objects are rearranged.
+
 Children will engage in simple math games using everyday objects from around the home. They'll count, compare quantities, find patterns, and play games that build early number sense and mathematical thinking through joyful exploration and discovery.
 
 **Activity Type**: Games and hands-on exploration
@@ -113,15 +121,15 @@ Children will engage in simple math games using everyday objects from around the
    Put some objects in one bowl and fewer in another. Ask, "Which bowl has more?" Let the child point. Then ask, "Which has less?" If they're ready, say, "Let's count both and see!" This builds comparison skills without pressure.
 
    **Game 3 - Hide and Find** (3 minutes):
-   Put a few objects (3-5) in front of the child where they can see them. Have them count. Then cover with a scarf. Move one object. Uncover and ask, "What changed?" This builds awareness of quantity changes and mathematical thinking.
+   Put a few objects (3-5) in front of the child where they can see them. Have them count. Then cover with a scarf. Move one object. Uncover and ask, "What changed?" This tests **conservation of number** — the understanding that a quantity stays the same even when the arrangement changes. Psychologist Jean Piaget discovered that young children often think a quantity *changes* when objects are moved or hidden; recognizing that number is stable regardless of arrangement is a genuine mathematical insight. You can say: "We still have the same number — we just moved one!"
 
 3. **Discovery (2-3 minutes)**:
 
-   Point out patterns if they occur naturally: "Look! Red, blue, red, blue—that's a pattern!" Celebrate what they noticed: "You found a group of five! That's wonderful!"
+   Point out patterns if they occur naturally: "Look! Red, blue, red, blue—that's a pattern!" Try a **subitizing** moment: quickly show 2–3 objects in your cupped hand for a second, then close it. "How many did you see? You didn't need to count — your brain just knew!" This is subitizing — an instant number sense humans are born with. Celebrate discoveries: "You found a group of five! That's wonderful!"
 
 4. **Wrap-up (1-2 minutes)**:
 
-   Gather the objects together. Count them one more time as you put them away. Say, "We counted lots of things today. Numbers help us understand how many! Great job, mathematician!"
+   Gather the objects together. Count them one more time as you put them away, touching each one: "One... two... three... four... five. Five blocks! The last number tells us how many there are total — mathematicians call that cardinality." Say: "Numbers help us understand how many! Great job, mathematician!"
 
 ### Age Adaptations
 
