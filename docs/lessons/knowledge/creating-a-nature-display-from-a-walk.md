@@ -6,13 +6,17 @@ Children collect natural items during an outdoor walk and arrange them into a cr
 
 ## Vocabulary
 
-**Arrange**: To place objects in a particular order or pattern; when you arrange things, you're deciding where each one should go to make something look nice or organized.
+**Observe**: To watch something carefully and notice details about it — like a scientist or naturalist. Naturalists like Charles Darwin kept detailed notebooks of every organism they observed, with sketches, measurements, and written descriptions. Careful observation is the first step of science.
 
-**Observe**: To watch something carefully and notice details about it; when you observe nature on a walk, you look closely at leaves, bugs, and rocks to see their colors, shapes, and textures.
+**Specimen**: An individual item collected for study. Museum collections contain millions of specimens — rocks, dried leaves, pinned insects, pressed flowers — each carefully labeled with where it was found and when. Your nature display is a collection of specimens.
 
-**Display**: A thoughtful arrangement of items shown together for others to see and enjoy; a nature display is when you put your collected treasures together in a beautiful or interesting way.
+**Veins (leaf)**: The network of thin lines running through a leaf that carry water and nutrients — like a miniature system of roads. The thick center line is the **midrib**; smaller veins branch off from it. If you hold a leaf up to light, you can see every vein clearly.
 
-**Texture**: The way something feels when you touch it—smooth, rough, bumpy, or soft; natural objects have many different textures like smooth pebbles or bumpy pine cones.
+**Abscission**: The process by which a tree actively cuts off a leaf in autumn. The tree grows a special layer of cells (the *abscission zone*) at the base of the leaf stem that gradually blocks water and nutrients. As the leaf's green chlorophyll breaks down, yellow and red pigments that were there all along become visible — that's why leaves change color. Falling leaves aren't an accident; it's the tree preparing for winter.
+
+**Decomposer**: An organism — usually fungi or bacteria — that breaks down dead plant material and returns nutrients to the soil. Every fallen leaf is being slowly digested by decomposers. Without decomposers, dead leaves would pile up forever and the nutrients inside them would be locked away.
+
+**Erosion**: The wearing down of surfaces by water, wind, or ice over time. A smooth river pebble was once a jagged rock fragment; running water ground off its sharp edges over thousands of years. You can tell a lot about a rock's history from its shape and texture.
 
 ## 🎵 Learning Song
 
@@ -60,9 +64,22 @@ Display them standing proud and tall
 
 ## Activity
 
+## What Your Walk Items Are Actually Telling You
+
+Every item you pick up on a walk has a story encoded in its physical form:
+
+- A **smooth, rounded stone** was shaped by water erosion — it may have tumbled in a stream or river for hundreds of years before ending up here.
+- A **rough, angular rock** hasn't been worn down yet; it broke off from a larger rock recently (in geological time).
+- A **fallen leaf** is mid-abscission — the tree deliberately severed it. Notice the small bump where the leaf stem attached; that's where the abscission zone was.
+- **Leaf veins** reveal vascular anatomy — the plant equivalent of blood vessels, bringing water up from roots and sugars down from the leaf.
+- **Moss on a rock** only grows where moisture stays — moss needs water and can't store it the way plants with roots can. Its presence tells you something about shade and dampness.
+- **A pine cone** is a seed-delivery structure. Its scales open in dry weather to release seeds and close in humid weather to protect them — you can test this by putting one in water.
+
+The display you create is a real collection of natural specimens. Naturalists have done exactly this for centuries, and those collections became the foundation of biology and geology as sciences.
+
 ### Activity Overview
 
-Children take an outdoor walk to intentionally collect natural items like leaves, twigs, stones, and flowers. They then arrange these treasures into a display, exploring colors, shapes, and textures. This activity combines physical exploration with creative arrangement and develops observation skills, fine motor control, and a growing connection to the natural world.
+Children take an outdoor walk to intentionally collect natural items like leaves, twigs, stones, and flowers — and learn to read the story each object tells about the processes that shaped it. The display becomes a labeled specimen collection, practicing the same skills used by field naturalists.
 
 **Activity Type**: Sensory exploration and creative arrangement
 
@@ -102,18 +119,20 @@ Children take an outdoor walk to intentionally collect natural items like leaves
    - Point out a few examples: "See that green leaf? Notice the bumpy bark on that branch?"
 
 2. **Exploration** (8-12 min):
-   - Take children on a slow walk, pausing frequently to observe
-   - Encourage them to choose items they find beautiful or interesting
-   - Guide their attention: "What colors do you see? Can you find something smooth? Something with a bumpy texture?"
-   - Use vocabulary words naturally: "Observe that leaf—see all the lines? Let's arrange it carefully in your basket."
-   - Limit collection to prevent overwhelm (5-10 items per child is plenty)
-   - Narrate discoveries: "You found a beautiful red leaf! I see a stick with moss on it."
+   - Take children on a slow walk, pausing frequently to observe like naturalists
+   - For each item, ask *what it is* and *why it looks that way*:
+     - Leaf: "Can you see the veins? They carry water, like tiny tubes inside the leaf. Why do you think this leaf fell?"
+     - Smooth rock: "Feel how smooth this is. Water rubbed it smooth over a very long time — that's called erosion."
+     - Rough rock: "This one is jagged — it hasn't been worn down yet."
+     - Moss: "Moss only grows where it's damp. Why do you think this spot stays wet?"
+   - Limit collection to 5-10 items; encourage selecting *different types* rather than many of the same thing
 
 3. **Discovery** (2-3 min):
-   - Return from the walk and examine collections together
-   - Spread items out and observe before arranging
-   - Ask questions: "Which item is your favorite? What makes this one special? Can you show me something bumpy? Something smooth?"
-   - Discuss colors, shapes, and textures: "These leaves are so many different colors! Look at the patterns."
+   - Return from the walk and examine collections like a museum naturalist
+   - Spread items out and identify each one before arranging
+   - Ask questions that go beyond aesthetics: "Is this rock smooth or rough? Smooth rocks were shaped by water — that's erosion. Can you see the veins in that leaf? Those carry water, like the leaf's blood vessels."
+   - Hold a fallen leaf up to the light: "Look at all the veins! The thick one in the middle is called the midrib."
+   - Look for decomposers: any leaf with holes or dark patches is being eaten by fungi or bacteria
 
 4. **Arrangement** (8-10 min):
    - Show children the display space
@@ -140,11 +159,11 @@ Children take an outdoor walk to intentionally collect natural items like leaves
 
 **3-4+ years**:
 - Extend the walk and explore a larger area
-- Encourage selective collection: "Choose only the prettiest ones" or "Find 3 different kinds of leaves"
-- Challenge them to sort or organize items: "Can you put all the brown things together?"
-- Ask them to create patterns or designs with their arrangement
-- Encourage them to count or compare items: "We have more rocks than leaves. These are bigger than those."
-- Invite them to describe items in detail and explain their display choices: "Why did you put this here?"
+- Encourage specimen-style collection: "Find a smooth rock AND a rough rock so we can compare how erosion works"
+- Look for leaves with visible veins, spots of decomposition, or still-attached stems; name these features
+- Try the pine cone water experiment if available: dry pine cone in a warm spot, then submerge in water — the scales close
+- Create a simple label for each specimen: draw it and write where it was found (under a tree, by the path, in mud)
+- After arranging, explain each item as if showing a visitor to a nature museum: "This smooth rock was shaped by water over thousands of years..."
 
 ### Extension Ideas
 

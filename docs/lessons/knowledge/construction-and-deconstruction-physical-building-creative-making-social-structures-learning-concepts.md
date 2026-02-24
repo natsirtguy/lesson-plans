@@ -10,9 +10,17 @@ Children explore building structures with various materials and then intentional
 
 **Deconstruct**: To take something apart carefully or intentionally, piece by piece. When you gently remove blocks from your tower one at a time, you are deconstructing it.
 
-**Stability**: The quality of being firmly balanced and unlikely to topple or fall over. A tower with blocks placed carefully on the bottom is more stable than one with blocks tilted on top.
+**Stability**: The quality of being firmly balanced and unlikely to topple or fall over. A structure is stable when its **center of gravity** sits directly above its **base of support**. A wide base is more stable than a narrow one — that's why pyramids don't fall over.
 
-**Spatial**: Relating to the space around us and how objects fit together in that space. Understanding spatial relationships helps you know whether a tall block will balance on top of a smaller block.
+**Center of gravity**: The single point where all of a structure's weight is balanced. When the center of gravity moves outside the base of support, the structure falls. Tall, narrow towers fall easily because a slight push moves the center of gravity sideways past the base.
+
+**Compression**: A squishing force. When you stack blocks, the lower blocks are under *compression* — the weight above is pressing down on them. Stone and concrete are strong under compression; they can hold enormous weight without being crushed.
+
+**Tension**: A pulling or stretching force. A rope holds weight through tension — it's being pulled apart. Steel cables are incredibly strong under tension; they can span thousands of meters.
+
+**Arch**: A curved structure that transfers load sideways into the ground rather than straight down. The Romans used arches to build aqueducts and bridges that are still standing 2,000 years later. An arch works because every stone pushes against its neighbors — the arch can only fall if all the stones move at once.
+
+**Foundation**: The part of a structure underground that anchors it to solid ground and spreads the weight out. Skyscrapers have foundations that go dozens of meters deep. Without a good foundation, even a perfect structure will sink or tilt — like the Leaning Tower of Pisa.
 
 ## 🎵 Learning Song
 
@@ -58,9 +66,17 @@ See them gather on the ground.
 
 ## Activity
 
+## Why Buildings Stand (and Why They Fall)
+
+Every building in history is an experiment in managing two forces: **compression** (squishing down) and **tension** (pulling apart). Ancient builders discovered that stone and mud brick are great in compression — stack them high and they hold. But they're terrible in tension — try to span a wide opening with stone and it cracks in the middle. The solution: the **arch**, which sidesteps tension entirely by routing forces sideways into the walls.
+
+Steel changed everything. Steel is equally strong in both compression and tension. A steel-framed skyscraper can sway several feet in the wind without falling — the steel bends rather than snapping. The Burj Khalifa in Dubai, the world's tallest building, sways about 2 meters at its tip on windy days — by design.
+
+When children's block towers fall, it's always for the same reason: the **center of gravity** moved outside the **base of support**. A taller tower has a higher center of gravity, which means a smaller tilt is enough to topple it. This is why tall buildings taper toward the top, and why the most ancient stable structures — pyramids — are wide at the base and narrow at the peak.
+
 ### Activity Overview
 
-In this hands-on lesson, children discover how different materials stack, balance, and relate to one another in space. They build towers, houses, and creative structures of their choosing, then experience the delight and freedom of taking them apart. This cycle of creation and deconstruction teaches cause-and-effect while building confidence, problem-solving skills, and an appreciation for the process of play rather than just the final product.
+In this hands-on lesson, children discover how different materials stack, balance, and relate to one another in space — and learn the engineering principles that explain exactly why structures stand or fall. The cycle of construction and deconstruction is itself a scientific method: build a hypothesis, test it, observe the failure, adjust, rebuild.
 
 **Activity Type**: Creative expression, Physical building, Sensory exploration
 
@@ -100,7 +116,13 @@ In this hands-on lesson, children discover how different materials stack, balanc
    Let the child freely handle and experiment with different materials. Observe which materials capture their interest. Ask open questions: "What happens when you stack these blocks?" "How do the fabric pieces drape?" Offer gentle guidance: "You're testing how these pieces fit together." Notice what the child discovers about balance, stacking, and material properties.
 
 3. **Discovery** (3-8 minutes):
-   Introduce building techniques (stacking vertically, placing side-by-side, nesting one inside another). Ask: "What happens if you put the bigger block on the bottom?" "Can you make a line? A tower? A circle?" Show how different materials behave. Celebrate creativity and effort, not perfection. If the child's structure falls, rebuild immediately and model positive responses: "It fell! Let's make it different this time!"
+   Introduce building techniques and the science behind them:
+   - Stacking: "The blocks on the bottom are being *compressed* — squeezed by all the weight above."
+   - Wide base: "Why is the tower more stable with bigger blocks on the bottom? Because the base of support is wider — the center of gravity has to move further before the tower tips."
+   - Try arch: Lean two blocks against each other like an inverted V. "This is how arches work — each side pushes against the other. That's how the Romans built bridges that are still standing!"
+   - When it falls: "It fell because the center of gravity moved too far to the side. Where should we make the base bigger?"
+   - Different materials: "Why does the soft block squish but the wooden block doesn't? Different materials have different *compression strength*."
+   Celebrate creativity and effort. Treat every fall as data: "It fell — what did we learn? Now we know!"
 
 4. **Wrap-Up** (2-3 minutes):
    Signal ending time with a 5-minute warning. Reflect together: "You built a [describe what they made]. Tell me about it." Acknowledge that it's time to deconstruct and clean up. Make cleanup playful: "Let's take it all apart together and put the pieces back in their homes." Praise effort during cleanup and ensure a positive ending.
@@ -111,7 +133,7 @@ In this hands-on lesson, children discover how different materials stack, balanc
 Focus on basic stacking (2-3 blocks) and knocking down—this age loves the cause-and-effect of making things fall. Use larger, lighter blocks that are easy to grasp. Build short structures specifically for the child to knock down. Keep language simple: "Up! Down! Build! Crash!" Adult does most of the initial building; child participates by adding one piece or pushing it down. Expect engagement of 5-10 minutes. Deconstruction is the star activity at this age. Shorter total activity time (15-20 minutes including setup and cleanup).
 
 **3-4+ years**:
-Introduce more complex structures: multi-layer towers, bridges, enclosures (houses, forts), and combinations of different materials simultaneously. Add challenges: "Can you make it taller than you?" "Can you build a house for this toy animal?" Encourage planning before building: "What are you going to build?" Allow longer building phases before deconstructing. Try collaborative building: "You build the bottom, I'll add the top." Ask discovery questions about structure: "What makes it sturdy?" "Why did that fall?" Children this age can sustain 30-40 minutes of engagement.
+Introduce more complex structures and engineering challenges: "Can you build a bridge that spans this gap?" "Can you make a structure with an arch?" "Can you build the tallest tower without it falling — what does it need?" Encourage planning before building: "What are you going to build, and why will it stay up?" Use engineering language throughout: "That base is wider — better foundation. Where's the center of gravity?" Discuss the Leaning Tower of Pisa: "It leans because the foundation was soft on one side — what should the builders have done?" Children this age can sustain 30-40 minutes of engagement and begin developing genuine intuitions about physics.
 
 ### Extension Ideas
 

@@ -6,13 +6,17 @@ Children explore how we send and receive messages in many different ways - throu
 
 ## Vocabulary
 
-**Express**: To share your feelings, ideas, or thoughts in a way that others can understand. When you make a picture to show how happy you feel, or make a big jump to show excitement, you are expressing yourself.
-
-**Symbol**: A picture or sign that stands for something else and helps us understand information quickly. A red stop sign is a symbol that means "stop and wait," and a smile is a symbol that means someone is happy.
-
-**Gesture**: A movement of your body, hands, or face that communicates a feeling or idea without using words. Waving your hand is a gesture that means "hello," and shrugging your shoulders is a gesture that means "I don't know."
-
 **Communicate**: To share information or ideas with another person so they understand what you mean. You can communicate by talking, drawing, pointing, singing, or dancing.
+
+**Symbol**: A picture, sound, or sign that stands for something else. The letter "A" is a symbol for a sound. A red traffic light is a symbol meaning "stop." An emoji 😊 is a symbol for happiness. Symbols only work if the sender and receiver share the same code.
+
+**Sign language**: A complete language — with its own grammar, vocabulary, and sentence structure — that uses hand shapes, movement, and facial expressions instead of spoken sounds. American Sign Language (ASL) is not just "gestures"; it is a full language, as complex as English or Spanish, spoken by millions of deaf people worldwide.
+
+**Writing system**: A set of visual symbols that represent spoken language. The world has three main types: **alphabetic** (like English, where letters represent sounds), **syllabic** (like Japanese kana, where symbols represent syllables), and **logographic** (like Chinese characters, where symbols represent whole words or concepts). Ancient Egyptian **hieroglyphs** used pictures to represent sounds — a picture of an owl meant the *m* sound, not an actual owl.
+
+**Encode / Decode**: When you *encode* a message, you translate your idea into a signal (words, marks, gestures). When someone *decodes* it, they translate the signal back into meaning. Communication breaks down when sender and receiver don't share the same code — like reading a book in a language you've never learned.
+
+**Semiotics**: The study of signs and meaning. Semioticians ask: why does a red light mean "stop"? (Convention — humans agreed.) Why does a growl mean danger? (Evolution — it's instinctive.) Understanding that signs are either *conventional* (agreed upon) or *instinctive* helps us understand how all communication works.
 
 ## Learning Song
 
@@ -53,11 +57,22 @@ Share our messages
 - "Nonverbal communication for young children"
 - "Traffic signs and symbols for kids"
 
+## Communication in the Animal Kingdom
+
+Humans aren't the only species that communicates in complex ways:
+
+- **Bees** perform a "waggle dance" — literally a figure-8 dance — to tell other bees the exact direction and distance of a flower patch relative to the sun. This is a symbolic language that encodes spatial information.
+- **Dolphins** have **signature whistles** — unique sounds each dolphin develops as an individual "name." They use these to identify themselves and call to specific other dolphins.
+- **Crows** recognize and remember human faces, and communicate information about dangerous humans to other crows — passing this knowledge across generations.
+- **Honeybees** can communicate even in the dark of a hive using vibrations and scent.
+
+None of these animals use spoken language — yet they encode and transmit real information. This shows that language is just one *type* of communication system, not the only one.
+
 ## Activity
 
 ### Activity Overview
 
-Children become communication detectives, exploring four different ways people send messages: using words, making pictures, showing emotions through faces, and using hand gestures. They'll experiment with each form and discover how many ways they can "say" the same thing.
+Children become communication detectives, exploring how the same idea can be encoded in radically different systems — spoken words, written symbols, gestures, pictures, music — and practicing both encoding (sending) and decoding (receiving) messages. This mirrors how linguists and semioticians study communication.
 
 **Activity Type**: Sensory exploration and hands-on demonstration
 
@@ -108,15 +123,17 @@ Children become communication detectives, exploring four different ways people s
 
    **Gestures & Body Movements**: Demonstrate simple gestures - wave, point, thumbs up, shrug, hands up high for "big," hands close together for "small." Have the child try each one. Ask: "What does this show without talking?"
 
-3. **Discovery** (3-5 min):
+3. **Discovery — Encoding & Decoding** (3-5 min):
 
-   Choose one simple concept (like "Come here" or "I'm cold") and ask the child to show you four different ways to communicate it:
-   - Say the words
-   - Make a drawing of it
-   - Show the feeling on your face
-   - Use your body or hands to show it
+   Choose one simple concept (like "Come here" or "I'm cold") and ask the child to encode it four different ways:
+   - Say the words (spoken language — sound symbols)
+   - Make a drawing of it (pictographic — visual symbols)
+   - Show the feeling on your face (body language — instinctive signals)
+   - Use your hands to show it (gesture or sign — spatial symbols)
 
-   After each attempt, celebrate: "You told me that by [drawing/pointing/making a face]! That's communication!"
+   Then *you* encode a secret message using only drawing or gesture — and see if they can *decode* it. "I didn't use any words. How did you know what I meant? Because we share the same code!"
+
+   Introduce a symbol they've never seen — draw a random squiggle and say "in my made-up language, this means 'apple.'" Ask: "Can you read this? No? That's what it feels like to see a language you've never learned — the symbols are there, but the code is missing."
 
 4. **Wrap-up** (2-3 min):
 
@@ -130,7 +147,7 @@ Keep it very concrete and physical. Focus on just two communication forms: words
 
 **3-4+ years**:
 
-Introduce more abstract thinking. Explore all four forms equally. Create a more complex picture or simple story using symbols. Play a guessing game: child shows a feeling or idea without talking, adult guesses what they're expressing. Create a "communication chart" together with labels for different ways we communicate. Ask more "why" questions: "Why do you think people wave when they say goodbye?" Extend to discussing how animals communicate (bird songs, tail wagging, growling).
+Introduce more abstract thinking. Explore all four forms equally. Introduce ASL signs for a few words (hello, eat, more, please) — emphasize that this is a real language, not just gestures. Discuss writing systems: "Did you know some languages use pictures instead of letters? Ancient Egyptians wrote in pictures called hieroglyphs." Try encoding a simple message in a made-up symbol system and see if the other person can decode it without a key. Discuss bee waggle dances or dolphin signature whistles. Ask: "Do you think the bee is thinking, or just dancing automatically? How could we find out?"
 
 ### Extension Ideas
 
