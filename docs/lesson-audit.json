@@ -669,10 +669,25 @@
     "issues": "No anthropological framework: missing cultural transmission, why humans universally develop traditions, oral traditions, material culture, anthropology as a field",
     "fixed": "Added anthropology, cultural transmission, oral tradition, material culture, artifact as primary source; rewrote activity overview to frame exploration as anthropological fieldwork; vocabulary expanded with 3 new terms"
   },
+  "knowledge/historical-investigation-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No actual archaeological content — pure sensory play with historical framing. No stratigraphy, material history, preservation, or real archaeological method.",
+    "fixed": "Added stratigraphy, preservation (why stone/clay survive), material timeline (Stone Age→Bronze→Iron), real archaeological vocabulary; updated activity prompts to include real content"
+  },
+  "knowledge/historical-preservation-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Titled 'Historical Preservation Games' but contained zero historical content — purely a lesson about handling toys gently. No conservation science, archival methods, or explanation of why preservation matters.",
+    "fixed": "Rewrote entirely: added conservation science (acid deterioration, humidity, UV light, oxidation/rust), real vocabulary (conservation, archive, humidity, acid-free, museum conservator, deteriorate), hands-on activities demonstrating real preservation threats, age-adapted content"
+  },
   "knowledge/hobbies-and-collections.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was \"collection, hobby, organize, treasure\" — all everyday words. No taxonomy, classification science, or psychology of collecting. Activity was picking things up and sorting by color with no intellectual content.",
     "fixed": "Replaced vocabulary with taxonomy (Linnaeus 1735 hierarchical classification), specimen (with provenance), classification (sorting by attributes, Darwin's finch beaks), curation (museum practice — selection, organization, presentation, labeling). Rewrote activity as a scientist-collector exercise with specimen labeling, multi-level taxonomy, and museum exhibit curation. Added rock types (igneous/sedimentary/metamorphic), famous collectors (Darwin, Mary Anning), and field guide use for 3-4+."
+  },
+  "knowledge/hobby-group-participation.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Almost entirely logistical — how to find/register for groups. No content about why group learning works, what different activities develop cognitively, or the psychology of motivation and skill acquisition.",
+    "fixed": "Added intrinsic motivation, community of practice (Lave & Wenger), peer modeling, zone of proximal development (Vygotsky), mastery motivation; added what each activity type specifically develops (music→auditory/rhythm, sports→proprioception, art→spatial reasoning); integrated concepts into activity flow"
   },
   "knowledge/holiday-celebrations-and-traditions.md": {
     "verdict": "FAIL -> FIXED",
@@ -703,6 +718,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Missing key linguistics concepts: morpheme (smallest unit of meaning vs. phoneme as sound unit), overgeneralization (evidence of grammar rule learning rather than imitation), syntax differences across languages. Extension for multi-language comparison didn't explain why word order differs.",
     "fixed": "Rewrote summary with overgeneralization as the key evidence that children learn grammar rules (not imitate), and the universal features of all 7,000+ human languages (all have nouns and verbs, word order varies enormously). Replaced vocabulary with morpheme (meaning unit), syntax (word order rules, named after language type), overgeneralization (real examples: goed/mouses as rule-following not mistakes), and expanded grammar definition. Added morpheme exploration and word-order comparison (English SVO vs. Japanese SOV) to discovery section. Updated multi-language extension with actual syntax comparison across Japanese/Spanish/English."
+  },
+  "knowledge/how-societies-develop.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Song section contained all AI draft/scratch work (syllable counting deliberation) never cleaned up. Vocabulary too generic. Activity lacked real content about HOW societies develop (agriculture, division of labor, specialization, surplus, governance).",
+    "fixed": "Removed song draft artifacts; added society, division of labor, specialization, agriculture, surplus, governance vocabulary; rewrote activity to trace societal development from nomadic hunters through agriculture to specialized towns; added trade, power dynamics, governance origins"
   },
   "knowledge/how-things-work.md": {
     "verdict": "FAIL -> FIXED",
@@ -1789,6 +1809,11 @@
     "issues": "No vocabulary section. Mentioned \"proprioceptive awareness\" in summary but never explained it. No vestibular system, no center of gravity physics, no ankle/hip strategy distinction, no muscle anatomy. Coaching cues were generic (\"bendy like springs\").",
     "fixed": "Added full vocabulary section: vestibular system (semicircular canals, otoliths, 500 updates/sec), proprioception (muscle spindles, Golgi tendon organs, cerebellum), center of gravity (base of support physics), ankle strategy vs. hip strategy (tibialis anterior/gastrocnemius vs. gluteus medius/obliques). Rewrote coaching cues with specific muscles, moment of inertia, and neural pathway science."
   },
+  "physical/skiing-and-snow-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good practical/safety content but zero physics or science explanation — mentions 'discuss gravity' in extensions without any content to share. No explanation of why pizza position works, what snow is made of, or how the body handles cold.",
+    "fixed": "Added Key Concepts section: gravity on slopes, friction and speed control (why pizza position works), center of gravity and knee-bending physics, snow crystal science, thermoregulation/frostbite; integrated physics language into introduction; expanded extension science activities with actual content"
+  },
   "physical/skiing-downhill-and-cross-country.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Coaching cues gave only procedural instructions with no physics explanation (\"Stand tall like a tree trunk!\" vs. explaining center of gravity; \"Make a pizza!\" vs. explaining friction and momentum diversion). Despite the title, cross-country skiing was entirely absent — the lesson only covered downhill.",
@@ -1808,6 +1833,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No science content. Entirely procedural — scoop here, pack there. No explanation of what snow is, why it packs, or why structures collapse. Snow insulation and igloo connection completely absent.",
     "fixed": "Added Key Concepts section covering ice crystals and snow structure, sintering (why snow compacts), snow as insulator and the igloo/Inuit engineering connection, structural engineering (arches/domes vs flat walls), and states of water. Wove concepts into introduction and challenge solutions."
+  },
+  "physical/snowboarding-and-board-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good technique and safety content but no physics or science explanation. No explanation of edge control mechanics, why sideways stance works, body rotation physics, or why wrists break in falls.",
+    "fixed": "Added Key Concepts section: edge control (heel vs. toe edge), why snowboarders face sideways, body rotation and turning physics, center of gravity and balance, wrist fracture mechanics (why hands-out instinct is dangerous), snow conditions and friction; integrated edge control explanation into introduction"
   },
   "physical/snowshoeing-and-winter-hiking.md": {
     "verdict": "FAIL -> FIXED",
@@ -1858,6 +1888,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No physics of water — no buoyancy, no drag, no propulsion explanation. Activity was \"kick and float\" with purely procedural coaching and no science content.",
     "fixed": "Added full vocabulary section: buoyancy (Archimedes' principle, lung inflation changes density), drag (water 800x denser than air, increases with speed squared and surface area), propulsion (Newton's Third Law — push water backward, water pushes you forward), thermoregulation (water conducts heat 25x faster than air, children's surface-area-to-mass ratio). Rewrote coaching cues to explain buoyancy through breathing, drag through streamlining, and propulsion through kick mechanics."
+  },
+  "physical/swimming-techniques-and-strokes.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Comprehensive on technique and safety but zero physics or science content. No explanation of buoyancy (Archimedes' principle), Newton's Third Law and propulsion, drag and streamlining, why hip-driven kicks are more powerful, or saltwater vs. freshwater density.",
+    "fixed": "Added Key Concepts section: buoyancy (Archimedes' principle), saltwater vs. freshwater density (Dead Sea example), Newton's Third Law and propulsion, drag and streamlining, hip-driven kick mechanics, breath control and its effect on buoyancy; integrated physics explanations into introduction demonstration"
   },
   "physical/synchronized-movement-activities.md": {
     "verdict": "FAIL -> FIXED",

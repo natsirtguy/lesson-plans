@@ -6,13 +6,17 @@ Children explore how communities and groups of people work together to create so
 
 ## Vocabulary
 
-**Cooperation**: Working together with other people toward a common goal. When you and your friend build a block tower together instead of alone, you're cooperating—each person helps make something bigger and stronger.
+**Society**: A large group of people who live together, share resources, and have developed organized ways of working together — laws, customs, jobs, and structures for making decisions. All human societies, from tiny ancient villages to modern cities, solve the same basic problems: food, shelter, safety, and how to get along.
 
-**Community**: A group of people living or working together in the same place who share things and help each other. Your neighborhood or classroom is a community where people look out for one another.
+**Division of labor**: When different people specialize in different jobs instead of everyone doing everything. In early human groups, some people hunted while others gathered plants, made tools, or cared for children. Division of labor makes groups much more efficient — one skilled person can do a job better than ten unskilled people each doing it a little.
 
-**Responsibility**: A job or duty that you are trusted to do. Putting toys away, feeding a pet, or helping set the table are responsibilities—things that help your family or group work smoothly.
+**Specialization**: Getting very good at one specific skill or job. A specialist (a potter, a blacksmith, a healer) can produce much better work than a generalist. Specialization became possible only after agriculture — once farming produced enough surplus food, some people could stop farming and specialize in crafts, governance, or trade.
 
-**Culture**: The special ways a group of people does things together, like their traditions, celebrations, food, music, and stories that make them unique. Your family's way of celebrating birthdays or your classroom's special songs are part of your culture.
+**Agriculture**: Farming — growing crops and raising animals for food instead of hunting and gathering. Agriculture, invented around 10,000 years ago, made permanent settlements possible and was the foundation of nearly all complex societies. Before agriculture, humans moved constantly to follow food sources.
+
+**Surplus**: More than you need right now. Agricultural societies could produce surplus food — extra beyond what was immediately eaten. Surplus enabled trade, enabled non-farmers to exist, enabled cities, and enabled inequality (whoever controlled the surplus had power).
+
+**Governance**: The systems people develop to make decisions together and resolve conflicts — rules, leaders, councils, laws. Every society has some form of governance because people in groups will disagree, and without a way to resolve disputes, groups fall apart.
 
 ## Learning Song
 
@@ -20,175 +24,22 @@ Children explore how communities and groups of people work together to create so
 
 **Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 8-8-12 syllables per verse):
+**Lyrics**:
 
 *Verse 1*
-We all work to-geth-er in our com-mu-ni-ty
-
-Let me recount carefully:
-- "We all work together" = We(1) all(1) work(1) to(1)geth(1)er(1) = 6
-- "in our community" = in(1) our(1) com(1)mu(1)ni(1)ty(1) = 6
-- Total = 12 syllables (need 8)
-
-Adjusting:
-
-*Verse 1*
-Work-ing to-geth-er, we help ev-ery-one (8: Work=1, ing=1, to=1, geth=1, er=1, we=1, help=1, ev=1, ry=1, one=1 = 10... need to recount)
-
-Let me be more careful and create 8-8-12 syllable structure:
-
-*Verse 1*
-Peo-ple work to-geth-er in our com-mu-ni-ty
-
-*Verse 1*
-Peo-ple work to-geth-er, work to-geth-er
-
-*Verse 1*
-We all work to-geth-er, help-ing one an-oth-er (8: We=1, all=1, work=1, to=1, geth=1, er=1, help=1, ing=1, one=1, an=1, oth=1, er=1 = 12, too many)
-
-Let me restart with correct syllable counting by saying them aloud:
-
-*Verse 1*
-Work-ing, work-ing all to-geth-er ev-ery day
-
-*Verse 1*
-We build and work to-geth-er, that's how we live
-
-Let me try simpler lines:
-
-*Verse 1*
-Build-ing, build-ing, build-ing up to-geth-er (8: Build=1, ing=1, build=1, ing=1, build=1, ing=1, up=1, to=1, geth=1, er=1 = 10)
-
-Build-ing up, build-ing up our com-mu-ni-ty (8: Build=1, ing=1, up=1, build=1, ing=1, up=1, our=1, com=1, mu=1, ni=1, ty=1 = 11)
-
-Let me use exactly 8 syllables per line:
-
-*Verse 1*
-Work-ing to-geth-er ev-ery sin-gle day (8: Work=1, ing=1, to=1, geth=1, er=1, ev=1, ery=1, sin=1, gle=1, day=1 = 10)
-
-Build-ing, help-ing, shar-ing all the way (8: Build=1, ing=1, help=1, ing=1, shar=1, ing=1, all=1, the=1, way=1 = 9)
-
-Work-ing hand in hand, we learn and grow (8: Work=1, ing=1, hand=1, in=1, hand=1, we=1, learn=1, and=1, grow=1 = 9)
-
-Com-mu-ni-ties are built on love and care (8: Com=1, mu=1, ni=1, ties=1, are=1, built=1, on=1, love=1, and=1, care=1 = 10)
-
-Let me count "Wheels on the Bus" itself:
-"The wheels on the bus go round and round" = The(1) wheels(1) on(1) the(1) bus(1) go(1) round(1) and(1) round(1) = 9... that doesn't match either.
-
-Actually "Wheels on the Bus" pattern is typically:
-Line 1: 8 syllables
-Line 2: 8 syllables
-Line 3: 12 syllables (repeating pattern)
-
-Let me verify: "The wheels on the bus go 'round and 'round"
-The(1) wheels(1) on(1) the(1) bus(1) go(1) round(1) and(1) round(1) = 9 syllables
-
-Let me try a different approach with clear 8-8-12:
-
-*Verse 1*
-We all need a place to call our own (8: We=1, all=1, need=1, a=1, place=1, to=1, call=1, our=1, own=1 = 9)
-
-We live to-geth-er, share and care and grow (8: We=1, live=1, to=1, geth=1, er=1, share=1, and=1, care=1, and=1, grow=1 = 10)
-
-Peo-ple work to-geth-er, share and care (8: Peo=1, ple=1, work=1, to=1, geth=1, er=1, share=1, and=1, care=1 = 9)
-
-Fam-i-lies and friends all live to-geth-er here (8: Fam=1, i=1, lies=1, and=1, friends=1, all=1, live=1, to=1, geth=1, er=1, here=1 = 11)
-
-Let me be very precise. I'll create lines that are definitely 8, 8, and 12:
-
-*Verse 1*
-Work-ing, help-ing, shar-ing ev-ery day (7: Work=1, ing=1, help=1, ing=1, shar=1, ing=1, ev=1, ery=1, day=1... that's 9)
-
-Simple approach - count on fingers carefully:
-
-"In our community" = In(1) our(1) com(1) mu(1) ni(1) ty(1) = 6
-"We work together" = We(1) work(1) to(1) geth(1) er(1) = 5
-
-"In our community we all work together" = 11 (too many)
-
-"Community we share" = Com(1) mu(1) ni(1) ty(1) we(1) share(1) = 6
-"Sharing, caring ev-ery day" = Shar(1) ing(1) car(1) ing(1) ev(1) ery(1) day(1) = 7
-
-Let me try lines that I know work:
-
-*Verse 1*
-Peo-ple in a com-mu-ni-ty (7: Peo=1, ple=1, in=1, a=1, com=1, mu=1, ni=1, ty=1 = 8) ✓
-Live to-geth-er, help and care (7: Live=1, to=1, geth=1, er=1, help=1, and=1, care=1 = 7) Need 8
-Work to-geth-er ev-ery sin-gle day (9: Work=1, to=1, geth=1, er=1, ev=1, ery=1, sin=1, gle=1, day=1 = 9)
-Build-ing up our so-ci-e-ty (8: Build=1, ing=1, up=1, our=1, so=1, ci=1, e=1, ty=1 = 8) ✓
-
-For 12 syllables in line 3:
-"Work-ing, help-ing, shar-ing all to-geth-er now" = Work(1) ing(1) help(1) ing(1) shar(1) ing(1) all(1) to(1) geth(1) er(1) now(1) = 11
-
-"All the peo-ple in our com-mu-ni-ty work to-geth-er" = All(1) the(1) peo(1) ple(1) in(1) our(1) com(1) mu(1) ni(1) ty(1) work(1) to(1) geth(1) er(1) = 14
-
-"Peo-ple build-ing up our homes and so-ci-e-ties" = Peo(1) ple(1) build(1) ing(1) up(1) our(1) homes(1) and(1) so(1) ci(1) e(1) ties(1) = 12 ✓
-
-*Verse 1*
-Peo-ple in a com-mu-ni-ty (8)
-Live to-geth-er, care for all (8: Live=1, to=1, geth=1, er=1, care=1, for=1, all=1 = 7, need 8)
-
-Live to-geth-er, help and care for all (8: Live=1, to=1, geth=1, er=1, help=1, and=1, care=1, for=1, all=1 = 9)
-
-Live to-geth-er, shar-ing and car-ing all (8: Live=1, to=1, geth=1, er=1, shar=1, ing=1, and=1, car=1, ing=1, all=1 = 10)
-
-Help-ing one an-oth-er ev-ery day (8: Help=1, ing=1, one=1, an=1, oth=1, er=1, ev=1, ery=1, day=1 = 9)
-
-To-geth-er build-ing what we need (8: To=1, geth=1, er=1, build=1, ing=1, what=1, we=1, need=1 = 8) ✓
-
-Peo-ple build-ing up our homes and so-ci-e-ties (12) ✓
-
-*Verse 1*
-Peo-ple in a com-mu-ni-ty (8)
-To-geth-er build-ing what we need (8)
-Peo-ple build-ing up our homes and so-ci-e-ties (12)
-
-*Verse 2* (8-8-12)
-"Fam-i-lies and friends all live as one" = Fam(1) i(1) lies(1) and(1) friends(1) all(1) live(1) as(1) one(1) = 9
-
-"Cul-ture, tra-di-tions, ways we share" = Cul(1) ture(1) tra(1) di(1) tions(1) ways(1) we(1) share(1) = 8 ✓
-
-"Cul-ture, tra-di-tions, all the ways we share" = Cul(1) ture(1) tra(1) di(1) tions(1) all(1) the(1) ways(1) we(1) share(1) = 10
-
-"Cul-ture, tra-di-tions help us all be-long" = Cul(1) ture(1) tra(1) di(1) tions(1) help(1) us(1) all(1) be(1) long(1) = 10
-
-"Cul-ture and tra-di-tions make us whole" = Cul(1) ture(1) and(1) tra(1) di(1) tions(1) make(1) us(1) whole(1) = 9
-
-"Res-pon-si-bil-i-ty helps us grow" = Res(1) pon(1) si(1) bil(1) i(1) ty(1) helps(1) us(1) grow(1) = 9
-
-"Res-pon-si-bil-i-ty and trust" = Res(1) pon(1) si(1) bil(1) i(1) ty(1) and(1) trust(1) = 8 ✓
-
-"Cul-ture, songs and sto-ries, sis-ters, broth-ers, friends" = Cul(1) ture(1) songs(1) and(1) sto(1) ries(1) sis(1) ters(1) broth(1) ers(1) friends(1) = 11
-
-"All our cul-ture, sto-ries, songs and sis-ters, broth-ers, too" = All(1) our(1) cul(1) ture(1) sto(1) ries(1) songs(1) and(1) sis(1) ters(1) broth(1) ers(1) too(1) = 13
-
-"Cul-ture, sto-ries, songs and friends all bring-ing us to-geth-er" = Cul(1) ture(1) sto(1) ries(1) songs(1) and(1) friends(1) all(1) bring(1) ing(1) us(1) to(1) geth(1) er(1) = 14
-
-"Ev-ery per-son has a role to play in our so-ci-e-ty" = Ev(1) ery(1) per(1) son(1) has(1) a(1) role(1) to(1) play(1) in(1) our(1) so(1) ci(1) e(1) ty(1) = 15
-
-"When we work to-geth-er we are stron-ger, hap-pi-er too" = When(1) we(1) work(1) to(1) geth(1) er(1) we(1) are(1) stron(1) ger(1) hap(1) pi(1) er(1) too(1) = 14
-
-"Each per-son in our com-mu-ni-ty makes a big dif-fer-ence" = Each(1) per(1) son(1) in(1) our(1) com(1) mu(1) ni(1) ty(1) makes(1) a(1) big(1) dif(1) fer(1) ence(1) = 15
-
-Let me try: "Work-ing hand in hand we all be-long to-geth-er" = Work(1) ing(1) hand(1) in(1) hand(1) we(1) all(1) be(1) long(1) to(1) geth(1) er(1) = 12 ✓
+People in a community
+Together building what we need
+People building up our homes and societies
 
 *Verse 2*
-"Res-pon-si-bil-i-ty and trust" (8)
-"Cul-ture, songs and sto-ries make us whole" = Cul(1) ture(1) songs(1) and(1) sto(1) ries(1) make(1) us(1) whole(1) = 9
-
-"Cul-ture, songs and sto-ries bind us" = Cul(1) ture(1) songs(1) and(1) sto(1) ries(1) bind(1) us(1) = 8 ✓
-
-"Work-ing hand in hand we all be-long to-geth-er" (12)
-
-*Verse 2*
-Res-pon-si-bil-i-ty and trust (8)
-Cul-ture, songs and sto-ries bind us (8)
-Work-ing hand in hand we all be-long to-geth-er (12)
+Responsibility and trust
+Culture, songs and stories bind us
+Working hand in hand we all belong together
 
 **Actions/Gestures**:
-1. "Building together" - stack hands on top of each other, then spread out in a circle to show community
-2. "Working" - make circular motions with arms as if cooperating to move something
-3. "Growing and caring" - place hand on heart, then reach arms open to show giving and sharing
+1. "Building together" — stack hands on top of each other, then spread out in a circle to show community
+2. "Working" — make circular motions with arms as if cooperating to move something
+3. "Belong together" — arms wide open, then bring everyone into a hug
 
 ## Intro Video Recommendation
 
@@ -251,22 +102,20 @@ Children build and manage their own small "community" using blocks, toy people, 
    Show the toy people: "These are our community members. What do you think they need to survive and be happy? A place to sleep? Food? Friends?"
 
 2. **Exploration** (7-10 min):
-   - Invite the child to help build homes using blocks: "Let's make houses where our people can live. Should they build small houses or big ones? How many houses do we need?"
-   - Once homes are built, introduce the resource container: "Our community members will share resources—food, blankets, dishes. Everyone takes care of these things together."
-   - Place some toy food and resources in the container, some in individual "homes"
-   - Ask exploration questions:
-     - "If one person has all the food, is that fair?"
-     - "What happens if we share? How do people feel?"
-     - "Does everyone have a home? What should we do if someone doesn't?"
-   - Encourage the child to move resources to where needed and rearrange to make it "fair"
+   - Start with a scenario: "Long, long ago — before houses, before farms — people moved from place to place following animals they hunted and plants they could find. They couldn't stay in one place because the food would run out."
+   - Ask: "What would you need to be able to stay in one place? What if you could grow your own food?" (Introduce agriculture concept)
+   - Invite the child to build homes: "Once people learned to farm, they could stay. Let's build a village."
+   - Once homes are built, introduce the resource container: "Farmers could grow extra food — more than they ate right away. That's called surplus. With surplus, not everyone had to farm."
+   - Ask: "If not everyone has to grow food, what else could people do?" Help generate ideas: make pottery (to store food), build better homes, heal sick people, make tools
+   - This is division of labor: "When different people do different jobs, everyone gets more — the farmer is really good at farming, the potter is really good at making pots. Specialization makes everything better."
 
 3. **Discovery** (3-5 min):
-   Introduce the concept of responsibilities and rules:
-   - "In a community, people have jobs and responsibilities. Your job might be to care for the animals, or gather food, or build houses. What job would you like?"
-   - Simple "jobs": one person brings food from storage, one person fixes houses, one person visits neighbors and checks on them
-   - Introduce simple rules: "Let's say: everyone gets food. Everyone has a home. We help our neighbors."
-   - Act out the rules with the toy people: "See, when we share and help, everyone is happy!"
-   - Ask: "Why do you think people make rules? What happens without rules?"
+   Introduce governance:
+   - "When many people live together, they sometimes disagree. Who gets the bigger house? What happens if someone takes food that isn't theirs? Communities needed rules — and people to make decisions together."
+   - Simple "jobs": one person grows food, one person makes tools, one person heals sick people, one person enforces the rules
+   - "When communities got bigger and bigger — hundreds of people, then thousands — they needed more organized rules and leaders. That's called governance."
+   - Act out a simple dispute: "Two toy people both want the same piece of land. Who decides? How do they solve it without fighting?" This is why governance developed.
+   - Ask: "Why do you think people started making rules? What would happen without any rules?"
 
 4. **Wrap-up** (2-3 min):
    - "Our community is working! Everyone has what they need because we cooperated and shared. Real communities work the same way—people help each other, follow rules, and take care of everyone."
@@ -285,14 +134,13 @@ Children build and manage their own small "community" using blocks, toy people, 
 - Use familiar language: "home," "toys," "sharing," "friends"
 
 **3-4+ years**:
-- Expand to include more elements: homes, jobs, resources, community areas (market, park, meeting place)
-- Use 8-10+ toy figures and create distinct roles
-- Introduce more complex rules and consequences: "If we don't share, people won't be happy"
-- Ask children to draw or dictate rules to create a visual rule chart
-- Explore cause and effect: "What happens if everyone takes all the food?"
-- Introduce simple economy concepts: trades or "jobs" that earn resources
-- Extend to 18-20 minutes
-- Use more sophisticated vocabulary: "responsibility," "cooperation," "community," "culture," "society"
+- Tell the arc of societal development: nomadic hunters → agricultural villages → towns → cities
+- Introduce all vocabulary: society, division of labor, specialization, agriculture, surplus, governance
+- Expand to include 8-10+ toy figures with distinct specialized roles (farmer, potter, healer, builder, leader)
+- Run the "surplus" exercise: "The farmer grew extra food. Who gets it? If you control the food, you have power — that's how some early leaders emerged."
+- Explore cause and effect: "What happens if the harvest fails? What happens if a neighboring group wants your food?"
+- Discuss trade: "Our village makes good pottery but needs metal. Another village has metal. How do we get what we need?" (This is how trade networks developed)
+- Extend to 20-25 minutes; follow where the child's questions lead
 
 ### Extension Ideas
 

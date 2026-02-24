@@ -6,13 +6,15 @@ Hobby group participation introduces young children to organized groups where th
 
 ## Vocabulary
 
-**Participate**: To take part in or join in an activity with others. When you participate in a music class, you're singing and playing instruments along with other children and a teacher.
+**Intrinsic motivation**: Doing something because you genuinely enjoy it and find it interesting — not for a reward or to please someone else. When a child practices kicking a ball for the sheer pleasure of it, that's intrinsic motivation. Research shows intrinsically motivated children develop skills faster and stick with activities longer than children who are only externally rewarded.
 
-**Community**: A group of people who gather together because they share something in common, like an interest or goal. Your hobby group is a community of children who all love painting or soccer or dancing.
+**Community of practice**: A group of people who learn together by doing an activity together. The term comes from researchers Lave and Wenger, who found that the most effective learning happens not just from a teacher, but from being immersed in a community where everyone is doing the thing (some better, some worse, some just starting). A music group, art class, or sports team is all a community of practice.
 
-**Instructor**: A person who teaches skills and guides learning in a group setting. Your music instructor shows you how to play an instrument and helps you get better.
+**Peer modeling**: Learning by watching other people — especially peers at similar or slightly higher skill levels — rather than just from an instructor. Children often pick up techniques from other children faster than from adults, because they can see the skill is achievable for someone like them.
 
-**Skill**: An ability or talent that you develop and improve through practice and learning. Learning to kick a soccer ball or mix paint colors are skills you build in hobby groups.
+**Zone of proximal development**: A concept from psychologist Lev Vygotsky: the range of things a child can't quite do alone yet, but can do with guidance or by watching someone slightly more skilled. Hobby groups are valuable partly because they naturally put children in their zone of proximal development — surrounded by peers who model the next step.
+
+**Mastery motivation**: The drive to get better at something for its own sake. Young children show this naturally — they repeat activities over and over until they master them (stacking blocks, for example). Hobby groups channel this motivation toward specific skills.
 
 ## 🎵 Learning Song
 
@@ -67,6 +69,13 @@ Our hobby group has just begun!
 
 Hobby group participation teaches children to learn in a structured group setting while discovering their own interests and building peer relationships. Children explore new activities like music, art, movement, or sports with an instructor and other children their age, developing both skills and social confidence.
 
+**What different hobbies develop (real content)**:
+- **Music**: Auditory processing, rhythm, pattern recognition, emotional expression, fine motor coordination (for instruments), language development (singing builds phonological awareness)
+- **Visual arts**: Spatial reasoning, fine motor control, understanding of color/form/composition, creative problem-solving, patience with process
+- **Sports/movement**: Gross motor coordination, proprioception (body awareness in space), reaction time, rule-following, understanding of strategy
+- **Dance**: Body coordination, rhythm, spatial awareness, memorization, self-expression through physical movement
+- **Building/making (LEGO, crafts)**: Spatial reasoning, planning, cause-and-effect thinking, fine motor precision, iterative problem-solving
+
 **Activity Type**: Social activity, Group learning, Skill exploration, Community participation
 
 **Duration**: 20-60 minutes per session (depends on child's age and group type)
@@ -105,7 +114,8 @@ Hobby group participation teaches children to learn in a structured group settin
 1. **Introduction** (5-10 min):
    - Read a book or show pictures about the type of activity (music class, art class, sports, etc.)
    - Use excited, positive language: "You're going to learn [activity] with a teacher and other children!"
-   - Address any concerns calmly: "It's okay to feel a little shy at first"
+   - Share what this activity specifically develops: "Music class teaches your brain to understand patterns and rhythm. Sports teach your body how to balance and coordinate. Art teaches your eyes and hands to work together."
+   - Address any concerns calmly: "It's okay to feel a little shy at first. One of the best ways to learn is by watching people who are a tiny bit better than you — that's called peer modeling."
 
 2. **Exploration** (20-40 min):
    - Arrive early so your child has time to settle into the space
@@ -117,9 +127,9 @@ Hobby group participation teaches children to learn in a structured group settin
 
 3. **Discovery** (5-10 min):
    - Observe how your child responds to instruction and group participation
-   - Notice which parts of the activity your child enjoys most
-   - Watch peer interactions forming
-   - If participating alongside your child, model how to follow the instructor's guidance
+   - Notice which parts of the activity your child enjoys most — signs of intrinsic motivation (absorbed, voluntarily repeating something, upset to stop) are more meaningful than polished performance
+   - Watch peer modeling happen in real time: notice when your child copies another child's technique
+   - If participating alongside your child, model how to follow the instructor's guidance and demonstrate your own learning process (including trying and failing)
 
 4. **Wrap-up** (5-10 min):
    - Help gather belongings when class concludes
@@ -143,10 +153,11 @@ Hobby group participation teaches children to learn in a structured group settin
 - Child can participate in drop-off classes and separate from parent
 - Longer sessions (45-60 minutes) become manageable
 - Child can follow multi-step directions from instructor
-- Peer friendships become more important motivation
-- More structured instruction with clear skill-building
-- Child begins developing independent interests and preferences
+- Peer friendships become more important motivation (community of practice is growing)
+- More structured instruction with clear skill-building; introduce the vocabulary "mastery" — "You're working on mastering that"
+- Child begins developing independent interests and preferences: watch for signs of intrinsic motivation (vs. just compliance)
 - Can engage in group projects and simple performances
+- Talk explicitly about what this activity develops: "Do you know that drumming is teaching your brain rhythm? Rhythm is a kind of math pattern."
 
 ### Extension Ideas
 
