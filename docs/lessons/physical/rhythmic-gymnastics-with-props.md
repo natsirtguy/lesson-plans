@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Rhythmic gymnastics with props combines movement, music, and self-expression as children dance and move while holding colorful ribbons and scarves. This gentle, creative activity builds body awareness, coordination, and confidence while allowing children to explore how props move through space. It's perfect for developing gross motor skills, rhythm awareness, and emotional expression in a joyful, non-competitive way.
+Rhythmic gymnastics is an Olympic sport that combines elements of ballet, gymnastics, and dance using five official apparatus: ribbon, ball, hoop, clubs, and rope. Athletes perform to music with each apparatus requiring precise technique — a ribbon must form continuous spirals and snakes without touching the ground; a ball must never be gripped, only balanced and rolled. For young children, ribbon and scarf work introduces the real physics and motor development at the heart of the sport. Ribbons move through air using momentum (the tendency of a moving object to keep moving) and experience air resistance (the drag that slows them). The key skill is learning to generate smooth, continuous motion — which requires proprioception (the body's internal sense of its own position and movement) and bilateral coordination (using both sides of the body together in controlled, often asymmetric ways).
 
 **Activity Type**: Performance Arts / Mind-body practice
 
@@ -75,12 +75,13 @@ Rhythmic gymnastics with props combines movement, music, and self-expression as 
 
 #### Introduction & Demonstration (2 minutes)
 
-- Show children the colorful ribbons or scarves with enthusiasm - hold one up and let the fabric flutter
+- Show children the colorful ribbons or scarves — hold one up and let the fabric flutter
 - Demonstrate simple movements: waving the scarf side to side, making circles in the air, moving it up and down
-- Say: "Watch how my scarf moves through the air! When we move it gently, the scarf floats like it's dancing. Today, we get to dance with scarves just like this!"
+- Introduce the physics: "Watch how my ribbon stays up in the air when I keep it moving! That's called momentum — the ribbon wants to keep going the direction I started it. If I stop, what happens?" (ribbon falls) "Air resistance slows it down and gravity pulls it down."
+- Name what we're practicing: "In real rhythmic gymnastics, athletes make the ribbon form spirals and waves without ever stopping. We're going to practice that — keeping it moving smoothly."
 - Let children choose which color ribbon/scarf they want
 
-**Key coaching point**: Movement should be slow and controlled at first; the goal is to enjoy how the prop moves, not to perform perfectly.
+**Key coaching point**: The goal is smooth, continuous motion — stopping and starting is the main thing to gradually eliminate. When the ribbon flows continuously, that's the real skill.
 
 #### Skill Practice (3-6 minutes)
 
@@ -90,10 +91,11 @@ Rhythmic gymnastics with props combines movement, music, and self-expression as 
 3. **Following the music** - Moving with the beat, pausing when music pauses, moving faster when music speeds up
 
 **Coaching cues**:
-- "Hold your scarf gently - imagine it's made of soap bubbles and you don't want to pop them"
-- "Let the scarf be your dancing partner - it floats through the air like it's flying"
-- "Move slowly and smoothly - this is lazy, beautiful dancing, not fast dancing"
-- "Listen to the music with your whole body - feel the beat in your feet"
+- "Keep it moving — the ribbon needs momentum to stay up. If it starts to fall, move your wrist faster to give it more energy"
+- "Make a circle all the way around — the ribbon should trace a shape in the air. What shape did you make?"
+- "Feel your body doing this — your wrist, your arm, your shoulder are all working together. That's called bilateral coordination when you use both sides together"
+- "Listen to the music with your whole body — feel the beat and try to match your ribbon movements to the rhythm"
+- "Proprioception means your body knows where it is even with your eyes closed. Close your eyes and keep moving — your body knows!"
 
 **Practice sequence**:
 1. Wave the scarf side to side (left and right)
@@ -138,11 +140,12 @@ Rhythmic gymnastics with props combines movement, music, and self-expression as 
 
 #### Free Exploration (2-3 minutes)
 
-Let children experiment with their scarves and ribbons without direction:
-- What happens if you spin in circles?
-- Can you make the scarf go really high?
-- Can you drag the scarf along the ground?
-- How does it feel in your other hand?
+Let children experiment with their scarves and ribbons — this is actually where real learning happens:
+- What happens if you spin in circles? (The ribbon spirals outward — that's centripetal force!)
+- Can you make the scarf go really high without letting go?
+- What shape can you trace in the air? A spiral? A figure-8? A zigzag?
+- How does it feel in your other hand? (This is bilateral coordination practice — making the non-dominant hand do fine movements)
+- Can you make it move without your wrist moving? Can you feel the difference?
 
 **What to encourage**:
 - "Look at the beautiful shapes you're making!"

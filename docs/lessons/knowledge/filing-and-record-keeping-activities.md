@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-Children will learn how to organize, sort, and create simple filing systems by managing pictures, artwork, or collections. Through hands-on sorting and labeling activities, they develop categorization skills, fine motor coordination, and understanding of how systems help us find and remember important things.
+Children will create and use simple filing systems, developing the fundamental cognitive skill of classification — sorting things into groups based on shared attributes. Classification is how humans organize all knowledge: biologists classify species into taxonomy, libraries use the Dewey Decimal System, hospitals organize patient records, and scientists sort data into categories. The key insight is that categories are human constructs — the same object can be classified in multiple valid ways depending on which attribute matters most to you. A red toy truck could be filed under "red things," "vehicles," or "toys that roll." Learning to choose and apply consistent classification rules is a genuine reasoning skill.
 
 ## Vocabulary
 
-**Organize**: To arrange items in a particular way or order so they are easy to find and use. When you organize your toy box by putting cars in one basket and blocks in another, you know exactly where to look for what you want.
+**Classification**: Grouping items by shared attributes — the fundamental way humans and scientists organize knowledge. Biologists classify all living things into kingdoms, phyla, classes, and species. Librarians use the Dewey Decimal System. We classify things every time we decide which things "go together."
 
-**Categorize**: To sort items into groups based on what they have in common, like color, shape, size, or type. When you put all the red crayons together and all the blue crayons together, you are categorizing them.
+**Attribute**: A property or characteristic we use to classify something — color, size, shape, function, material, or origin. "A red wooden block has several attributes: it's red (color), wooden (material), and cube-shaped (shape). We can file it differently depending on which attribute we focus on."
 
-**System**: A set of organized steps or methods that work together in a planned way to accomplish something. A filing system is a plan for how to store and find your things, like keeping all your storybooks on one shelf and all your picture books on another.
+**Categorize**: To sort items into groups based on shared attributes. The important thing is that the same item can belong to different categories depending on which attribute you choose. A crayon is both a "red thing" and a "drawing tool."
 
-**Record**: Information about something that you keep and save so you can look at it or remember it later. A photo record shows pictures of your baby from birth until now, so you can remember how much they've grown.
+**System**: A set of rules consistently applied so anyone using it gets the same result. Libraries use alphabetical and numerical systems so any librarian — and any visitor — can find any book. A system only works if the rules are clear and applied consistently.
+
+**Record**: Information preserved over time so it can be retrieved later. Records are only useful if the filing system that stores them is well-organized — a record that can't be found is the same as no record at all.
 
 ## Learning Song
 
@@ -97,10 +99,10 @@ Children will create their own simple filing system using colored folders, envel
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by asking: "Where do we keep our clothes?" (in the closet), "Where do we keep our books?" (on the shelf). Explain that a filing system is like having a special home for each type of thing. Show the containers and ask the child: "How could we organize these items? What groups could we make?" Let them help decide on categories.
+   Start by asking: "Where do we keep our clothes?" (in the closet), "Where do we keep our books?" (on the shelf). Explain that sorting things is called classification — and it's something scientists do all day. "Biologists classify animals — they put fish in one group, birds in another, mammals in another." Show a mixed pile of items and ask: "How could we classify these? What attributes could we sort by — color? Size? What they're made of? What they do?" Let them help decide on categories, and name the attribute they chose.
 
 2. **Exploration** (7-10 min):
-   Hand the child items one at a time and ask: "Where does this go?" Let them place each item in the container they think is right. Offer gentle guidance if needed ("This red paper would match the red container!"). Celebrate successes enthusiastically. If the child places an item somewhere unexpected, ask "Why did you put it there?" to understand their thinking and logic.
+   Hand the child items one at a time and ask: "Where does this go? Which attribute are we using?" When they place an item, have them name why: "This is red, so it goes with the red things." Then try the key insight: pick one item and ask "Could this also go somewhere else?" — show that a red vehicle is both a "red thing" AND a "vehicle." "When we set up a filing system, we have to choose ONE attribute and stick to it — that's the rule of a good system." Offer gentle guidance if needed; celebrate good reasoning even when the placement differs from yours.
 
 3. **Discovery** (3-5 min):
    Once items are filed away, pause and review what they created. Ask discovery questions: "How many things did we organize?" "Can you find all the red items?" "What goes in this basket?" Walk through the system together and celebrate how organized everything looks. Take a photo if desired to document their work.
@@ -114,7 +116,7 @@ Children will create their own simple filing system using colored folders, envel
 Simplify to sorting by one clear attribute (color, shape, or type). Use larger items that are easier to handle. Reduce to 2 categories instead of 3-4. Use picture labels to show what goes in each container. Provide more hands-on guidance and celebrate each correct placement. Repeat the same activity multiple times to build familiarity and mastery.
 
 **3-4+ years**:
-Introduce more complex sorting (color AND size, vehicle types, animal groups). Invite them to create their own categories and labels. Ask them to explain their system to you. Challenge them to sort in multiple ways: "First let's organize by color, now let's organize by size." Introduce the concept of sub-categories (vehicles sorted by trucks, cars, and buses). Create an inventory list with drawings and words.
+Introduce multi-attribute sorting: sort first by color, then re-sort those groups by size — this creates sub-categories (like biological taxonomy). Invite them to invent their own classification attribute and explain the rule. Challenge: give them an item that doesn't fit neatly into any category — "Where does this go? Does our system need a new category, or should we change the rules?" Introduce the idea of conflicting classification: "Scientists used to classify whales as fish because they live in the ocean — but then they realized mammals are a better category because whales breathe air and nurse their babies. Classification can change when we learn more." Create an inventory list with labels — a real record-keeping system.
 
 ### Extension Ideas
 

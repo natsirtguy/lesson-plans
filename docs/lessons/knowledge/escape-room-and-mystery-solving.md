@@ -2,17 +2,23 @@
 
 ## Activity Summary
 
-Children develop problem-solving skills, logical thinking, and persistence through guided mystery-solving activities. In this lesson, kids become young detectives searching for hidden objects, following clues, and discovering solutions through observation and exploration—building confidence in their ability to solve challenges independently.
+Children develop logical reasoning skills through guided mystery-solving activities. In this lesson, kids become young detectives who practice real cognitive skills: making observations, forming hypotheses, using deductive reasoning to eliminate possibilities, and following sequential logic from clue to clue. Mystery-solving is one of the most natural ways to introduce formal reasoning—the same mental processes used by scientists, mathematicians, and detectives.
 
 ## Vocabulary
 
-**Mystery**: Something that is hidden or unknown that we work to discover and understand. "We have a mystery to solve—where did the teddy bear go?"
+**Deduction**: Using clues and what we already know to figure out what must be true. "We know the toy isn't in the kitchen—so it must be in the living room. That's deduction!"
 
-**Clue**: A piece of information or evidence that helps us solve a puzzle or find something. "The picture on the paper is a clue—it shows us where to look next."
+**Evidence**: Information we can observe that helps us decide what's true. "The wet footprints are evidence that someone walked here recently."
 
-**Puzzle**: A challenge or problem that requires thinking and trying different ways to solve it. "This puzzle has pieces that fit together to make a picture."
+**Hypothesis**: A guess we make based on evidence, which we then test to see if it's right. "My hypothesis is the toy is under the pillow—let's test it!"
 
-**Solve**: To figure out the answer to a problem or mystery using our thinking skills. "We worked together to solve the mystery and found the toy!"
+**Eliminate**: To rule out possibilities that don't match the evidence. "It can't be in the box because the box is too small—we can eliminate that spot."
+
+**Clue**: A piece of information or evidence that guides our reasoning toward the answer. "The picture on the paper is a clue—it shows us where to look next."
+
+**Sequence**: Steps in a specific order where each one leads to the next. "We follow the clues in sequence—first clue leads to second clue leads to the answer."
+
+**Observation**: Using our senses carefully to notice details that others might miss. "Good observation—you noticed the arrow pointed left, not right!"
 
 ## Learning Song
 
@@ -66,7 +72,7 @@ We can solve it, yes we will
 
 Children search for hidden objects using simple clues you provide, learning to follow directions, observe their environment, and think through simple logical sequences. This hands-on exploration builds problem-solving confidence while encouraging active searching and playful discovery.
 
-**Activity Type**: Guided discovery play with clue-following
+**Activity Type**: Guided logical reasoning and deductive inquiry
 
 **Duration**: 15-20 minutes
 
@@ -102,23 +108,22 @@ Children search for hidden objects using simple clues you provide, learning to f
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Sit together and say: "We have a mystery to solve today! Something is hiding and we need to find it."
-   - Show the first clue and ask: "What do you think this clue shows?"
-   - Use excited, encouraging language: "We are detectives searching for treasure!"
+   - Sit together and say: "We have a mystery to solve today! Detectives don't just search randomly—they think carefully about evidence and use deduction."
+   - Introduce the idea of elimination: "If we know it's NOT in the bedroom, we can eliminate the bedroom and focus somewhere else."
+   - Show the first clue and ask: "What do you think this clue shows? Let's form a hypothesis—our best guess—before we go look."
 
-2. **Exploration** (8-12 min):
-   - Child searches while you provide verbal clues ("You're getting warm!" or "Look over there!")
-   - Let them lead the search—follow their direction even if they don't find it immediately
-   - If they seem stuck, give more specific hints: "Remember our clue? It showed something soft..."
-   - When they discover the object, celebrate with excitement and praise: "You solved the mystery!"
+2. **Reasoning Out Loud** (8-12 min):
+   - Model detective thinking as you search: "Our clue shows something soft. Let's think—what soft things are in this room? The couch, the blanket, the pillow. Which one matches the clue best?"
+   - When they check a wrong spot: "Good thinking—now we have evidence it's NOT there. We eliminated that possibility. That's real detective work!"
+   - Introduce the "warm/cold" game as a metaphor for evidence strength: "When I say warm, your hypothesis is probably right. Cold means look elsewhere."
+   - When they find it, name the reasoning: "You deduced it! You used the clue as evidence and eliminated wrong answers until only one was left."
 
 3. **Discovery** (2-3 min):
-   - Ask questions about what they found: "What was hiding? How did the clue help us?"
-   - Let them open any treasure box or enjoy the found object
-   - Ask: "Should we hide it again and look for more mysteries?"
+   - Ask reasoning questions: "How did the clue help? What did you eliminate first? What was your hypothesis?"
+   - Introduce a harder version: hide 3 objects, give one clue for each, child must match each clue to its object before searching ("This clue shows something round—which object is round?")
 
 4. **Wrap-up** (2-3 min):
-   - Discuss what they liked about the game
+   - Name the cognitive skill explicitly: "You used deductive reasoning—that's the same skill scientists and detectives use to solve real problems."
    - Store the toy and clue cards for next time
    - Transition to the next activity
 
@@ -127,18 +132,18 @@ Children search for hidden objects using simple clues you provide, learning to f
 **2-3 years**:
 - Use only 1-2 very simple, obvious hiding spots (under a cushion in plain sight, in a basket they can see)
 - Draw picture clues instead of words—draw exactly what they're looking for
-- Hide something small but favorite (pacifier, stuffed animal, snack)
+- Narrate the deduction process for them: "The clue shows something soft. Is the floor soft? No! Is the pillow soft? Yes! So let's check the pillow—that's deduction!"
 - Use "warm/cold" guidance with your voice to help—ring a bell that gets louder as they approach
-- Keep the search area very small (one room or corner)
-- Be hands-on; hold their hand while searching if they need support
+- Keep the search area very small (one room or corner); elimination is easier when there are only 3-4 possible spots
+- After finding: "You found it! And you figured out it wasn't in the kitchen first—that's called eliminating a possibility"
 
 **3-4+ years**:
 - Hide objects in more challenging spots (behind a door, under blankets, in a cabinet they can safely open)
 - Use 2-3 sequential clues that build on each other ("Look where we sit" → points to couch area, next clue "Look under soft things")
-- Try simple symbol matching (draw a star, hide it under something with a star sticker)
-- Introduce very basic color codes ("Look for the red box")
-- Allow them to search independently for longer before giving hints
-- Ask them to create their own clues and hide something for you to find
+- Introduce formal elimination: draw a simple list of 4 spots, cross each off as they're checked—"We're keeping track of our evidence"
+- Give one false clue and see if they can identify it: "One of these clues is wrong. Which one doesn't match where we found the toy?"
+- Ask them to design their own 3-clue sequence for you—making clues requires understanding what constitutes evidence
+- Introduce conditional logic: "IF the toy is soft AND the clue shows something yellow, THEN..."
 
 ### Extension Ideas
 

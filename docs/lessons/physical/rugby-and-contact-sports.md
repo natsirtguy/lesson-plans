@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Rugby and contact sports concepts are adapted for early childhood as safe, non-contact team games that teach cooperation, spatial awareness, and gentle physical engagement. These activities introduce turn-taking, basic offensive and defensive ideas, and the joy of moving together as a group. Through modified rugby-inspired games, young children develop gross motor skills, learn to follow simple rules, and build confidence in group play.
+Rugby is one of the world's most widely played team sports, originating in England in the 1820s when a player (according to legend) picked up the ball during a football match and ran with it. Rugby's most distinctive rule is that the ball can only be passed sideways or backward — never forward — so teams advance by running with the ball and passing to teammates who are behind them. Scoring a "try" (worth 5 points) is done by touching the ball down in the opponent's in-goal area. Contact sports like rugby also teach an important lesson about how the human body responds to intense exercise: the cardiovascular system (heart and blood vessels) pumps harder to deliver more oxygen to working muscles; heart rate increases; muscles generate lactic acid when oxygen supply can't keep up — which is the burning feeling during hard effort. For young children, tag rugby (where players pull a ribbon from an opponent's waistband instead of tackling) preserves the core passing and spatial strategy while removing contact.
 
 **Activity Type**: Team Sport (adapted, no-contact version)
 
@@ -84,11 +84,10 @@ Rugby and contact sports concepts are adapted for early childhood as safe, non-c
 ### Main Activity (10-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Show the soft ball and explain: "Today we're going to play a gentle team game where we work together to move the ball down the field."
-- Demonstrate the basic idea: "We'll try to get the ball to the end zone, and the other team will try to stop us - but we do it gently, with only soft touches."
-- Show how to pass the ball: Gently toss underhand or side-pass to a teammate
-- Show a gentle "tag" by touching someone on the shoulder and saying "tag!"
-- Key coaching point: "We play together, we play gently, and we have fun moving as a team."
+- Show the soft ball and explain: "Today we're going to play rugby! Rugby has a very special rule: you can ONLY pass the ball sideways or backward — never forward. That means you have to run toward the goal yourself, or pass to a teammate who's behind you. If you pass forward, the other team gets the ball."
+- Demonstrate the lateral pass: hold the ball and pass it sideways or backward to someone, not forward. Ask: "Which way can I pass? This way? (forward — No!) This way? (sideways/backward — Yes!)"
+- Explain scoring: "In real rugby, you score a try by touching the ball down past the line. We'll do the same — but to stop people instead of tackling, we gently tag their shoulder."
+- Key coaching point: The backward-pass rule is what makes rugby strategy interesting — teams have to work together to advance since no single person can just run forward and throw ahead.
 
 #### Skill Practice (2-3 minutes)
 **Skill breakdown**:
@@ -98,10 +97,11 @@ Rugby and contact sports concepts are adapted for early childhood as safe, non-c
 
 **Coaching cues**:
 - "Use your hands like a basket to catch the ball"
-- "Pass to your friend with a gentle toss - not too hard!"
+- "Remember the rugby rule — pass sideways or backward! Not forward!"
 - "Run with small, quick steps and look where you're going"
-- "A tag is just a soft touch - like you're gently saying hello"
-- "Keep the ball moving and keep smiling!"
+- "A tag is just a soft touch — like you're gently saying hello"
+- "Can you feel your heart beating faster? That's your cardiovascular system working — your heart is pumping more blood to your muscles because they need more oxygen right now!"
+- "If your legs feel a little burny, that's lactic acid — your muscles are working really hard"
 
 #### Guided Play/Game (6-8 minutes)
 **Game structure**: Divide into two simple teams (use pinnies or armbands to identify). Start with very basic "rugby" concept: try to move the ball from one end to the other without it being intercepted.
