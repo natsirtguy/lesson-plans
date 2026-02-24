@@ -14,6 +14,10 @@ Children explore the foundational concept of rhythm—the organized pattern of b
 
 **Pattern**: A sequence of sounds, movements, or events that repeats in the same order. A pattern helps you predict what comes next and makes it easier to learn and remember.
 
+**Entrainment**: What happens in your brain and body when you automatically sync up with a rhythm around you. When you hear a steady beat and your foot starts tapping on its own—that's entrainment! Your brain has special circuits that detect rhythmic patterns and lock your body's movements to them. This is why humans (and even some animals, like parrots) spontaneously move to music.
+
+**Meter**: The repeating grouping of beats in music. When we count "ONE-two-three, ONE-two-three" (a waltz), the meter is in groups of three. "ONE-two, ONE-two" (a march) has a meter in groups of two. Meter gives rhythm its shape and feel.
+
 ## Learning Song
 
 **Tune**: Baa, Baa, Black Sheep
@@ -95,10 +99,12 @@ Children will participate in a guided rhythm experience that progresses from sim
 3. Start with slow, steady beats (about 60-80 beats per minute—roughly the speed of a heartbeat)
 4. Ensure clean, uncluttered space for movement
 
+**Background for caregivers**: Rhythm is one of the most fundamental features of human cognition. Every culture on Earth has music with rhythm — archaeologists have found musical instruments over 40,000 years old. Humans are among the few species capable of entrainment: our brains contain dedicated neural circuits in the auditory cortex and cerebellum that detect rhythmic patterns and coordinate movement to them. This is why babies bounce to music before they can speak, and why rhythm is so deeply pleasurable — it engages multiple brain systems at once.
+
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by sitting with the child at eye level. Say: "Today we're going to play with rhythm—that's the beat in music!" Gently pat your leg in a slow, steady rhythm while singing a familiar song like "Twinkle, Twinkle, Little Star." Let the child observe your body moving in time with the beat. Don't pressure participation yet—simply model the experience with joy and enthusiasm.
+   Begin by sitting with the child at eye level. Say: "Today we're going to play with rhythm—that's the beat in music, the steady pulse you can feel!" Gently pat your leg in a slow, steady rhythm while singing a familiar song like "Twinkle, Twinkle, Little Star." Let the child observe your body moving in time with the beat. Say: "Did you notice your foot wanted to tap? That's called entrainment—your brain hears the rhythm and tells your body to join in automatically!" Don't pressure participation yet—simply model the experience with joy and enthusiasm.
 
 2. **Exploration: Matching the Beat** (5-7 min):
    Once the child shows interest, invite them to join you: "Can you pat your leg like me?" Continue the same slow beat. If they don't immediately copy, gently take their hand and guide it to pat their own leg in rhythm, or pat alongside them so they feel the timing. Gradually introduce variations by switching from patting legs to clapping hands, adding foot tapping (stomp, stomp, stomp), or using your rhythm instrument. Use your voice to reinforce the beat: "Clap, clap, clap, clap."

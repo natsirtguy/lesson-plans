@@ -14,6 +14,16 @@ Young learners explore the magical properties of light and sound through interac
 
 **Reflect**: To bounce light or sound back from a surface. When you look in a mirror, you see your reflection because the light bounces (reflects) off the shiny glass surface back to your eyes.
 
+**Opaque**: A material that completely blocks light — no light passes through. Wood, your hand, and a book are opaque. When something opaque blocks a light source, it makes a shadow.
+
+**Transparent**: A material that lets light pass through clearly — you can see right through it. Glass and clear plastic are transparent. That's why windows let sunlight in.
+
+**Translucent**: A material in between — it lets some light through but scatters it, so you can't see clearly through it. Frosted glass, wax paper, and colored tissue paper are translucent. They let light through but soften and color it.
+
+**Frequency and pitch**: Sound is made by vibrations, and how fast something vibrates determines its pitch. Fast vibrations = high pitch (like a piccolo or a squeaky voice). Slow vibrations = low pitch (like a big drum or a bass voice). A hummingbird's wings vibrate at 50-80 times per second — that's what creates the humming sound. A big drum vibrates slowly, which is why its sound is deep and low.
+
+**Spectrum**: White light is actually a mixture of all colors — red, orange, yellow, green, blue, violet — each traveling at slightly different wavelengths. A prism or a drop of water (like in a rainbow) splits white light into these colors by bending each wavelength differently. That's what a rainbow is: sunlight split by water droplets in the air.
+
 ## Learning Song
 
 **Tune**: Row, Row, Row Your Boat
@@ -111,19 +121,17 @@ Children will explore light through shadow play and sound through musical explor
 2. **Exploration** (8-10 min):
 
    *Light Exploration*:
-   - Hold up different objects (teddy bear, block, spoon) between the light and wall
-   - Ask: "What happened to the light?"
-   - Show how the object creates a shadow (dark shape)
+   - Hold up different objects between the light and wall. Say: "This block is opaque — it blocks all the light, so it makes a dark shadow." Try wax paper or tissue paper: "This is translucent — it lets some light through, so the shadow is lighter." Try clear plastic wrap: "This is transparent — light goes right through it, almost no shadow!"
    - Let the child place their hand in front of the light to make a hand shadow
    - Move objects slowly to show how shadows move and change
-   - If you have a mirror, show how light reflects off it (sparkles)
-   - If available, place colored cellophane over the light: "Now the light changed color!"
+   - If you have a mirror, show how light reflects off it: "The mirror is so smooth that light bounces right back — that's reflection!"
+   - If available, place colored cellophane over the light: "This is translucent red plastic. It only lets red wavelengths of light through — now the light is red!" This connects to the spectrum: white light contains all colors.
 
    *Sound Exploration*:
    - Move to a well-lit area
    - Show the drum and demonstrate by tapping gently: "This makes a vibration and a sound"
    - Let the child tap the drum and feel the vibration underneath
-   - Tap different surfaces: metal pot, wooden table, plastic container: "Listen—different sounds!"
+   - Tap different surfaces: metal pot, wooden table, plastic container: "Listen—different sounds! Each material vibrates at a different speed (frequency), which is why they have different pitches. The metal bell vibrates fast and makes a high pitch. The big drum vibrates slowly and makes a low pitch."
    - Ring the bell or chime: "Hear that ringing sound?"
    - Tap a spoon against different objects
    - If available, shake homemade shakers or play with wind chime
@@ -134,10 +142,10 @@ Children will explore light through shadow play and sound through musical explor
    - "How did the shadow move when we moved the object?"
    - "What sounds did we hear? Which was loud? Which was quiet?"
    - "What makes sounds vibrate?"
-   - Point out: "Light travels through the air. We can see it. Sound travels through the air too. We can hear it but not see it!"
+   - Point out: "Sound travels by pushing air molecules — the vibration moves through the air like a ripple in water. But light is different! Light doesn't need air at all — it travels through the emptiness of space. That's how sunlight reaches us from the sun, 93 million miles away, through space where there's no air. That's also why outer space is completely silent — no air means no sound waves!"
 
 4. **Wrap-up** (2-3 min):
-   Return all materials to their places. Say: "We explored light and sound today! Light helps us see. Sound helps us hear. Both light and sound travel through the air to reach us. You're learning about how the world works!"
+   Return all materials to their places. Say: "We explored light and sound today! Light helps us see — it reflects off objects and into our eyes. Sound helps us hear — vibrations push through the air to our ears. Light can travel through empty space; sound needs air to travel. Together they make up most of how we experience the world!"
 
 ### Age Adaptations
 

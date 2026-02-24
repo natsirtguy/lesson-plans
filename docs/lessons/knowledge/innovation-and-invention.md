@@ -14,6 +14,10 @@ Children explore the concept of innovation and invention by discovering how ever
 
 **Experiment**: To try something new and watch what happens to see if it works. When you experiment, you ask a question, try something, and observe the results—like seeing if different materials float or sink in water.
 
+**Simple machine**: One of six basic mechanical devices that make work easier by changing how a force is applied. Almost every invention uses at least one: a **lever** (a bar that pivots, like a seesaw), a **wheel and axle** (wheel attached to a rod, like on a cart), an **inclined plane** (a sloped surface, like a ramp), a **pulley** (a wheel with a rope, for lifting), a **wedge** (for splitting or cutting), and a **screw** (a twisted inclined plane). The spoon, the door hinge, and the bicycle wheel are all simple machines combined.
+
+**Design process**: The steps engineers use to invent: (1) **Define** the problem, (2) **Design** a solution, (3) **Build** a prototype, (4) **Test** it, (5) **Improve** based on what didn't work. Real inventors repeat steps 3–5 many times before finishing.
+
 ## Learning Song
 
 **Tune**: Baa, Baa, Black Sheep
@@ -105,9 +109,10 @@ In this activity, children become inventors by creating simple machines or solut
 
 1. **Introduction** (2-3 min):
    - Gather children and show them one familiar object (like a spoon or cup). Ask: "How do you think someone invented this? What problem does it solve?"
-   - Explain that they're going to be inventors today and create something new
+   - Share a quick inventor story: "Thomas Edison tried over 1,000 different materials before he found one that worked for the lightbulb filament. Every time something didn't work, he learned something new. That's what inventors do." (Or: "The Wright Brothers made hundreds of glider experiments before their first powered flight.")
+   - Explain that they're going to be inventors today and create something new, following the **design process**: define a problem, design a solution, build a prototype, test it, and improve it.
    - Show the pile of materials and say: "These are our invention supplies. We can use them in any way we imagine!"
-   - Introduce the word "prototype"—a first version we make to test our idea
+   - Introduce the word "prototype"—a first version we make to test our idea. Also mention "simple machines": "A ramp is a simple machine called an inclined plane. A wheel is a simple machine. Today we might use some of these in our inventions!"
 
 2. **Exploration** (8-10 min):
    - Invite each child to choose materials and start building
@@ -152,7 +157,7 @@ In this activity, children become inventors by creating simple machines or solut
 
 ### Extension Ideas
 
-**Variation 1 - Ramp Building**: Create ramps with books and cardboard, then test which materials roll down fastest. Ask: "How do you think people invented wheelchairs or toy cars?"
+**Variation 1 - Ramp Building**: Create ramps (inclined planes) with books and cardboard, then test which materials roll down fastest. A ramp is actually a simple machine — it lets gravity do work gradually instead of all at once (lifting something straight up is much harder than sliding it up a slope). Test steepness: does a steeper ramp make things go faster? That's exploring the relationship between angle and force. Ask: "Why do you think roads going up mountains zig-zag instead of going straight up?" (Answer: longer slope = less force needed = easier for cars and horses.)
 
 **Variation 2 - Water Play Invention**: Provide containers, cups, and tubes. Challenge: "Invent a way to move water from one container to another without using your hands." (Funnels, tubes, cups as scoops)
 
