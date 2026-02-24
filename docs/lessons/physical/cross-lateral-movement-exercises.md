@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Cross-lateral movement exercises involve coordinating opposite arms and legs—for example, touching the right hand to the left knee, or stepping forward with the left leg while raising the right arm. These movements are fundamental for developing bilateral coordination, balance, and brain integration, as they require both sides of the body to work together in opposite patterns. This type of movement strengthens neural pathways between the left and right hemispheres, supporting improved coordination, academic readiness (especially for writing and reading), and overall motor control.
+Cross-lateral movement exercises involve coordinating opposite arms and legs—for example, touching the right hand to the left knee, or stepping forward with the left leg while raising the right arm. These movements strengthen the **corpus callosum** — a massive bundle of approximately 250 million nerve fibers that connects the brain's left and right hemispheres. Each hemisphere controls the *opposite* side of the body (contralateral control), so cross-lateral movements require both hemispheres to cooperate intensively through the corpus callosum. This type of bilateral brain activation supports improved coordination, academic readiness (especially for writing and reading, which require both eyes and both language centers to work together), and overall motor control.
 
 **Activity Type**: Motor skill development
 
@@ -60,7 +60,7 @@ Cross-lateral movement exercises involve coordinating opposite arms and legs—f
 
 ### Warm-Up (2-3 minutes)
 
-**Purpose**: Prepare muscles and nervous system for coordinated movement; establish rhythm and get child's attention focused on body awareness.
+**Purpose**: Prepare muscles and nervous system for coordinated movement; establish rhythm and get child's attention focused on body awareness. Each cross-lateral movement sends signals through the corpus callosum, warming up the neural bridge between hemispheres.
 
 **Warm-up activities**:
 1. **Marching in place** - Stand together and march slowly, lifting knees moderately high. Say "March, march, march!" with each step. Help child feel the alternating leg pattern.
@@ -77,7 +77,7 @@ Cross-lateral movement exercises involve coordinating opposite arms and legs—f
 #### Introduction & Demonstration (1-2 minutes)
 
 - **Show the concept**: Stand in front of child and demonstrate a simple cross-lateral movement in slow motion. "See my right hand? I'm going to touch my left knee. Right hand... left knee. They're opposites, like best friends crossing to say hello!"
-- **Make it relatable**: Use simple imagery: "We're making an 'X' with our arms and legs! Can you make an X?"
+- **Make it relatable**: "We're making an 'X' with our arms and legs! Here's a secret: your left brain controls your right arm, and your right brain controls your left leg. So when you cross them together, *both* sides of your brain have to talk to each other through a bridge in the middle called the corpus callosum!"
 - **Key coaching point**: Emphasize that opposite limbs work together - it's not complicated, just "different sides at the same time."
 
 #### Skill Practice (3-6 minutes)
@@ -187,9 +187,10 @@ Move from active movement to sitting or lying down. "Let's sit down and feel how
 ### Encouragement & Coaching Tips
 
 - **What to say**:
-  - "You're connecting opposite sides of your body - that's what helps your brain work better!"
-  - "This is tricky, and I can see you really concentrating. That's exactly what your brain needs!"
-  - "Every time you do this, your body gets better at it. You're building new pathways in your brain!"
+  - "You're connecting opposite sides of your body — that signals are flying through your corpus callosum right now!"
+  - "Your left brain is controlling your right arm, and your right brain is controlling your left leg — and they're working together!"
+  - "This is tricky, and I can see you really concentrating. That's exactly what your corpus callosum needs to grow stronger!"
+  - "Every time you do this, you're building new neural connections across the middle of your brain!"
 
 - **What to avoid**:
   - "That's wrong - it should be the other way!" Corrections should be gentle: "Let's try this side next time."

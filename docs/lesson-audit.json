@@ -194,6 +194,11 @@
     "issues": "Vocabulary all everyday words (acrobat, balance, perform, flexibility). No physics of balance, angular momentum, proprioception, or parabolic arcs. No circus history. Generic movement play with no science.",
     "fixed": "Replaced vocabulary with center of gravity (balance physics), angular momentum (conservation — tuck tighter = spin faster), proprioception (muscle spindles, Golgi tendon organs, cerebellum), circus history (Philip Astley 1768, 42-foot ring diameter from centripetal force physics). Rewrote activity with angular momentum demonstrations, tightrope center-of-gravity experiments, and juggling parabolic arc science."
   },
+  "knowledge/cities-and-rural-areas.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Surface-level urban/rural comparison; no population density, infrastructure, or interdependence; activity was purely observational diorama play",
+    "fixed": "Added population density, infrastructure, suburb, interdependence vocabulary; added 'Why Cities Form' section explaining agglomeration and river/coast origins; enriched discovery questions to trace food supply chains and urban-rural interdependence"
+  },
   "knowledge/class-and-school-simulation.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was all everyday words (simulate, routine, role, participate). No pedagogy, no cognitive science, no explanation of why schools exist or how learning works. Activity was pure roleplay of school behaviors with zero intellectual content.",
@@ -224,10 +229,20 @@
     "issues": "Exceptional — vocabulary cites Adam Smith's division of labor (1776) with actual pin-factory statistics; Norman Triplett's 1898 social facilitation research with brain chemistry (dopamine, norepinephrine); theory of mind with developmental timeline and chimpanzee comparison; free rider problem in 3-4+ adaptation",
     "fixed": "N/A"
   },
+  "knowledge/collection-and-curation-physical-objects-creative-works-social-memories-learning-resources.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure process lesson — gather, sort, display — with no intellectual content; no taxonomy, classification science, provenance, or why classification matters",
+    "fixed": "Added taxonomy, provenance, catalog, classify vocabulary; added 'Why Humans Classify' section covering Linnaeus, Dewey Decimal System, natural history; enriched activity to try multiple classification systems and discuss what each reveals; added curator/geologist framing"
+  },
   "knowledge/collection-display-and-presentation.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Mostly themed play — arranging objects prettily with no intellectual payload. No museum science (curatorship), no taxonomy/classification science, no visual design principles (symmetry, asymmetry, focal point, contrast). Age adaptation said \"Keep language simple: 'big' or 'small' instead of 'symmetrical'\" — directly against the philosophy.",
     "fixed": "Replaced vocabulary with curator (museum role), taxonomy (classification by shared characteristics, Linnaeus), symmetry (bilateral symmetry, with asymmetry as contrast), aesthetic (with design principles: contrast, repetition, focal point). Rewrote introduction framing the child as a curator. Renamed sorting section to connect to taxonomy explicitly. Updated arrangement section to introduce design vocabulary (symmetrical, asymmetrical, focal point) naturally during activity. Updated 2-3 age adaptation to remove anti-vocabulary guidance and replace with use-the-words-with-explanations instruction."
+  },
+  "knowledge/communication-across-forms-language-visual-symbols-music-body-language-information.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Stayed at surface level (wave, point, draw, talk) with no linguistics, semiotics, or writing systems; no distinction between sign language and gestures; no animal communication examples",
+    "fixed": "Added semiotics, encode/decode, sign language, writing systems vocabulary; added animal communication section (bee waggle dance, dolphin signature whistles, crows); enriched discovery to practice encoding/decoding and introduced concept of missing code; added ASL, hieroglyphs for older children"
   },
   "knowledge/communication-and-expression-physical-gestures-creative-arts-social-conversation-learning-sharing.md": {
     "verdict": "FAIL -> FIXED",
@@ -269,6 +284,11 @@
     "issues": "Vocabulary everyday (conserve, recycle, environment, sort). No material science — no polymers, biodegradation, or natural resource extraction. Activity was sorting into bins with no science behind why.",
     "fixed": "Replaced vocabulary with decomposition (microbial breakdown, 450-year plastic timeline), polymer (long molecular chains), biodegradable vs. non-biodegradable, natural resource (extraction and finite supply). Rewrote activity with material science investigation and decomposition timeline comparison."
   },
+  "knowledge/construction-and-deconstruction-physical-building-creative-making-social-structures-learning-concepts.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No engineering science — missing center of gravity, compression/tension, arch mechanics, foundation; when things fell it was treated as emotional event not physics to analyze",
+    "fixed": "Added center of gravity, compression, tension, arch, foundation vocabulary; added 'Why Buildings Stand' section covering Roman arches, steel frames, pyramid stability, Burj Khalifa; enriched discovery to name the physics in each observation; treats structural failure as engineering data"
+  },
   "knowledge/conversation-and-dialogue-practice.md": {
     "verdict": "PASS",
     "issues": "Vocabulary (dialogue, turn-taking, active listening, reciprocity) IS real communication science and developmental psychology terminology. Activity genuinely teaches communication skills through practice — the skill itself is the content.",
@@ -293,6 +313,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary included \"discover\" (non-geographic, non-technical). Missing the continent/country distinction (geographic vs. political), no hemispheres, no equator explaining climate, no borders as human decisions. Activity was pure \"point at globe\" with no deeper geographic reasoning.",
     "fixed": "Replaced vocabulary with continent, country (with explicit continent/country distinction via pizza analogy), equator (climate explanation), hemisphere, border (as human decision), latitude (climate predictor). Rewrote activity to explain the geographic vs. political distinction, equator effect on climate, one real fact about each continent (Africa 54 countries, Australia = single country, Antarctica = no countries), and borders as human inventions. Added continental drift as extension activity."
+  },
+  "knowledge/creating-a-nature-display-from-a-walk.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Purely aesthetic — collecting and arranging pretty things with no natural science; no botany, geology, ecology, or scientific observation",
+    "fixed": "Added specimen, veins/midrib, abscission, erosion, decomposer vocabulary; added 'What Your Walk Items Are Actually Telling You' section covering erosion history of rocks, leaf vascular anatomy, moss moisture requirements, pine cone mechanics; enriched walk with naturalist-style questioning for each item type"
   },
   "knowledge/creative-problem-solving-challenges.md": {
     "verdict": "FAIL -> FIXED",
@@ -1369,6 +1394,11 @@
     "issues": "No vocabulary section at all; neuroscience of bilateral coordination nearly absent (corpus callosum, contralateral control, lateralization, myelination not mentioned)",
     "fixed": "Added complete vocabulary section with corpus callosum, contralateral control, lateralization, motor cortex, myelination, bilateral definitions; added Key Concepts section covering why midline crossing is neurologically significant, corpus callosum development timeline, occupational therapy connection, cerebellum automatization of motor learning; updated Introduction and Challenge sections to use technical terms accurately"
   },
+  "physical/bobsledding-and-speed-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No physics (inertia, aerodynamics, drag) or physiology (fast-twitch fibers) content; bobsled framing was thin theme over generic running activity",
+    "fixed": "Added physics/physiology section covering inertia, aerodynamics, drag, fast-twitch muscle fibers, motor synchronization; enriched introduction to explain why push phase decides the race; added aerodynamics experiment (crouch vs upright); connected synchronized push to additive force"
+  },
   "physical/body-awareness-and-proprioception.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Details not recorded.",
@@ -1433,6 +1463,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section. No kinetic chain, no hand-eye coordination neuroscience, no momentum physics, no cricket history despite being a culturally specific sport. Coaching cues were motivational with no science.",
     "fixed": "Added vocabulary: kinetic chain (feet→hips→torso→arm, professional speeds >100 km/h), hand-eye coordination (V5/MT visual cortex 150ms, cerebellum trajectory prediction, 34 hand muscles), momentum (mass × velocity, why bat weight and swing speed both matter), cricket history (16th century England, British Empire spread, 2.5B fans, second most popular sport). Updated coaching cues with kinetic chain and cerebellar learning."
+  },
+  "physical/cross-lateral-movement-exercises.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good developmental science (vestibular system, mirror neurons, homolateral stages) but never named corpus callosum or contralateral brain control — the central anatomical concepts",
+    "fixed": "Added corpus callosum (250M nerve fibers connecting hemispheres), contralateral control (left brain controls right body side), and bilateral brain activation to summary, warm-up purpose, introduction, and coaching language"
   },
   "physical/curling-and-precision-ice-sports.md": {
     "verdict": "FAIL -> FIXED",
