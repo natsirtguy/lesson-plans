@@ -414,10 +414,20 @@
     "issues": "Details not recorded.",
     "fixed": "Agent committed fixes."
   },
+  "knowledge/digital-organization-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary was all everyday words; no technical content about file systems, algorithms, or databases",
+    "fixed": "Added file/folder/directory/metadata/algorithm/database vocabulary; explained how sorting algorithms and databases underpin digital organization; updated activity narration to reference real computing concepts"
+  },
   "knowledge/disaster-relief-for-toys-dolls.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "All 4 vocabulary words (rescue, comfort, nurture, restore) were everyday words. No disaster management, no triage science, no humanitarian aid concepts, no logistics. Pure empathy-themed dramatic play with no real knowledge content.",
     "fixed": "Replaced vocabulary with triage (French origin, color-coded urgency system), humanitarian aid (Red Cross, UNICEF, MSF), infrastructure (roads, water, electricity — first priority in disaster relief), basic needs hierarchy (Maslow 1943, physiological → safety → social), logistics (moving supplies to where needed). Rewrote activity framing around real disaster relief operations."
+  },
+  "knowledge/documentary-creation-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No real filmmaking content; vocabulary was generic; activity was just 'take pictures and arrange them' with no teaching about what makes documentary a distinct medium",
+    "fixed": "Added framing/composition/editing/narration/subject vocabulary; explained how documentaries differ from fiction; introduced real filmmaking techniques (close-up vs. wide shot, editing decisions); connected to real-world documentary tradition"
   },
   "knowledge/drawing-sketching-and-scribbling.md": {
     "verdict": "FAIL -> FIXED",
@@ -428,6 +438,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Activity reduced ecosystem to habitat-matching game; no food webs, energy flow, producers/consumers/decomposers, or real interdependence content",
     "fixed": "Added food web, producer, consumer, decomposer vocabulary; discovery questions now teach energy flow from sun through food chain; age adaptations include building food chains with toy animals and learning about decomposers"
+  },
+  "knowledge/electronics-and-simple-circuits.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good foundation with real components; missing electrons as the actual carrier, battery as chemical-to-electrical energy conversion, insulator as contrast to conductor, and LED anode/cathode explanation",
+    "fixed": "Added electron definition; explained battery as chemical energy conversion; added insulator vocabulary; named LED legs as anode/cathode; incorporated all these into activity narration"
   },
   "knowledge/emergency-preparedness-activities.md": {
     "verdict": "FAIL -> FIXED",
@@ -448,6 +463,16 @@
     "verdict": "PASS",
     "issues": "Outstanding — vocabulary defines energy with joules unit; kinetic/potential/chemical energy with correct physics; force cites Newton; momentum distinguishes from energy correctly; activity traces food→muscle→kinetic energy chain; ramp experiment teaches potential-to-kinetic conversion; friction converting energy to heat; Newton's second law by name",
     "fixed": "N/A"
+  },
+  "knowledge/environmental-care-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No real ecological science; vocabulary was affective (stewardship, responsibility) not scientific; activity was purely procedural with no explanation of why these care actions matter ecologically",
+    "fixed": "Added ecosystem/photosynthesis/decomposition/food-web/habitat vocabulary; explained why watering feeds photosynthesis, why litter harms ecosystems (no decomposition), why birds matter to food webs; wove ecological concepts into activity narration"
+  },
+  "knowledge/equipment-care-and-maintenance.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Entirely procedural; vocabulary was everyday words; no science behind why maintenance works (paint chemistry, surfactants, oxidation/rust, bristle materials)",
+    "fixed": "Added pigment/binder/surfactant/oxidation/bristles vocabulary; explained how water-soluble binders enable washing, how soap surfactants work, why metal must be dried to prevent rust; wove these concepts into activity narration"
   },
   "knowledge/evaluating-information.md": {
     "verdict": "FAIL -> FIXED",
@@ -1599,6 +1624,11 @@
     "issues": "No vocabulary section. \"Punch from your whole body\" stated without explaining kinetic chain. No biomechanics, no martial arts history, no reaction time science.",
     "fixed": "Added vocabulary: kinetic chain (feet→legs→hips→torso→arm sequential force transfer), center of gravity (wide stance physics), reaction time (150-300ms, myelination), martial arts history (Shaolin 500 CE, judo 1882, capoeira 1500s, UFC 1993). Rewrote introduction and coaching cues with kinetic chain and center of gravity explanations."
   },
+  "physical/mountain-biking-and-trail-riding.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good practical structure but no physics or physiology; missing vestibular system/proprioception, gyroscopic effect, muscle groups named, center of gravity concept",
+    "fixed": "Added vestibular system and proprioception explanation in warm-up; introduced gyroscopic stabilization effect; named quadriceps/hamstrings/glutes/core; explained visual-motor system; added lactic acid and cardiovascular recovery in cool-down"
+  },
   "physical/movement-storytelling.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Purely procedural; no science backdrop; Hungry Caterpillar used with zero metamorphosis biology",
@@ -1613,6 +1643,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No ecology (ecosystem, food chain), no tracking science (spoor, camouflage), no taxonomy, no sensory neuroscience. Activity was \"walk around and look at stuff\" with generic encouragement and no scientific framework.",
     "fixed": "Added full vocabulary section: ecosystem (producers/consumers/decomposers), camouflage (cryptic coloration, visual cortex contrast detection), spoor (tracks, scat, feathers — weight, speed, species identification), taxonomy (Linnaeus 1735, kingdom to species). Rewrote warm-up with sensory neuroscience and taxonomist stretches. Rewrote observation points with bird beak adaptation, chlorophyll/xylem/phloem in plants, ant pheromone trails, and decomposer ecology. Added food chain construction and dichotomous keys for 3-4+."
+  },
+  "physical/orienteering-and-navigation-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No real content about navigation; didn't explain what orienteering is, how compasses work, cardinal directions, cognitive maps/hippocampus, or why left/right is harder than forward/backward",
+    "fixed": "Added orienteering as a sport; introduced compass and Earth's magnetic field; added cardinal directions tied to sun's position; explained hippocampus and cognitive maps; explained why left/right is neurologically harder; connected to GPS and historical navigation"
   },
   "physical/outdoor-obstacle-courses.md": {
     "verdict": "FAIL -> FIXED",

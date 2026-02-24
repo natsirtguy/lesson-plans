@@ -6,13 +6,17 @@ Children become filmmakers and storytellers, creating simple visual documentarie
 
 ## Vocabulary
 
-**Documentary**: A real story told through pictures or video that shows what actually happened, arranged in order from beginning to end—like when you photograph your pet playing and arrange the photos to show what your dog did all morning.
+**Documentary**: A film or photo story that shows real events — not made-up stories, but actual things that happened. Documentaries can teach people about animals, history, nature, or everyday life. Famous wildlife documentaries like *Planet Earth* are documentaries.
 
-**Sequence**: The order in which things happen, one after another—like when you film the beginning of an activity, then the middle, then the end, to tell the whole story.
+**Framing**: Choosing exactly what goes inside the camera's view — what to include and what to leave out. A filmmaker who frames a close-up of a bee on a flower is making a creative decision about what the audience will see and feel.
 
-**Perspective**: The view or angle from which something is seen or photographed—like when you take a picture of your toy from above, from the side, or from down low on the ground to show it differently.
+**Composition**: How you arrange what's in the picture — where the subject is, what's in the background, what angle you shoot from. Good composition helps the viewer understand what matters most.
 
-**Narrate**: To tell a story using words, explaining what is happening in pictures or describing what you filmed—like when you tell someone "First I was playing with blocks, then I made a tower, then it fell down."
+**Editing**: Choosing which footage to keep and arranging clips in a particular order to tell a story. Editors make documentaries make sense — the same footage in a different order tells a completely different story.
+
+**Narration**: The spoken explanation that goes over the images, telling the audience what they're seeing and why it matters. David Attenborough's voice narrating a nature documentary is narration.
+
+**Subject**: The main topic or focus of a documentary — what it's about. The subject could be a person, an animal, a place, or an event.
 
 ## 🎵 Learning Song
 
@@ -59,7 +63,7 @@ Make a real documentary.
 
 ### Activity Overview
 
-In this hands-on media creation activity, children explore how to tell stories through pictures and video. They'll choose a simple topic to film (like a pet eating, building with blocks, or playing outside), capture 5-10 key moments, and then arrange those images in order to tell a complete story. Through this process, children develop visual thinking, sequencing skills, observation abilities, and the confidence to communicate ideas creatively.
+In this hands-on media creation activity, children explore how to tell real stories through pictures and video — the same craft that professional documentary filmmakers use. They'll choose a subject to document (like a pet eating, building with blocks, or a nature walk), think about framing and composition as they capture moments, and then arrange those images in order through editing. Real documentaries have shaped how humanity understands the world — from wildlife films that sparked conservation movements to historical films that preserved events for future generations. Children are learning the foundational skills of that craft: observation, framing, sequencing, and narration.
 
 **Activity Type**: Media creation / Visual storytelling / Hands-on documentation
 
@@ -96,32 +100,32 @@ In this hands-on media creation activity, children explore how to tell stories t
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   "Today we're going to be documentary filmmakers—we'll tell a story with pictures! We'll use the camera to capture what happens, step by step, and then arrange the pictures in order to show our whole story."
+   "Today we're going to be documentary filmmakers — just like the people who make films about animals, volcanoes, and wild places! A documentary tells a real story using real pictures. We choose a subject, decide what to film, and then edit it — put the pictures in order — so it makes sense. Let's make one!"
 
-   Show the camera and explain: "This is our tool to capture moments. We'll film the beginning, the middle, and the end."
+   Show the camera and explain: "This is our tool to capture moments. When we hold it up, we're choosing what to *frame* — what goes in the picture and what stays out."
 
 2. **Planning and Observation** (3-5 min):
    Talk through the story together:
-   - "What happens first in our story?"
-   - "What comes next?"
-   - "How does it end?"
+   - "What is our *subject* — what's our documentary about?"
+   - "What happens first in our story? What comes next? How does it end?"
+   - "Where should we film from? Up high? Down low? Up close?"
 
-   Walk through the space where you'll film. Look for good angles and interesting moments to capture. Ask: "What should we film first?"
+   Walk through the space where you'll film. Look for interesting angles. Point out: "A close-up makes something look important and big. A wide shot shows the whole scene. Documentary makers use both!"
 
 3. **Filming and Capturing** (5-10 min):
    Child directs where to point the camera (with your guidance):
    - Take 5-10 photos or short videos of the sequence
-   - Narrate as you film: "What's happening now? Should we capture this?"
-   - Encourage close-ups and different angles
-   - Review images together on screen: "Look at what we filmed!"
+   - Talk about composition as you go: "Should we move closer? What's in the background — does that help or distract?"
+   - Encourage close-ups *and* wide shots: "Let's get a close-up of the caterpillar, and then a wide shot of the whole leaf"
+   - Review images together on screen: "Look at what we filmed! Which photos tell the story best?"
 
-4. **Organizing and Sequencing** (Remaining time):
-   Arrange the story in order:
+4. **Editing** (Remaining time):
+   Arrange the story in order — this is called editing:
    - Print photos or let child draw what they filmed on paper
-   - Arrange images in order on poster board or paper
+   - Arrange images in order on poster board or paper: "This is editing — choosing what order to put things in. The same photos in a different order could tell a different story!"
    - Add simple captions or labels
-   - Record child's voice describing the pictures (optional): "Tell me about this photo"
-   - Create a title for the documentary together
+   - Record child's voice describing the pictures — this narration goes over the images: "Tell me about this photo. What's happening? Why is it important?"
+   - Create a title for the documentary together: "Every documentary has a title that tells the audience what the subject is"
 
 5. **Wrap-up** (3-5 min):
    Review the completed documentary together:

@@ -6,13 +6,17 @@ Environmental care activities introduce young children to caring for plants, ani
 
 ## Vocabulary
 
-**Stewardship**: Taking care of something because you're responsible for it and want to keep it healthy and beautiful, just like caring for a pet or helping your garden grow.
+**Ecosystem**: A community of living things — plants, animals, insects, fungi, bacteria — and the non-living environment (soil, water, sunlight) that they all depend on. A garden is an ecosystem. A pond is an ecosystem. Everything in an ecosystem is connected.
 
-**Nurture**: To help something grow and stay healthy by giving it what it needs, like watering a plant so it gets stronger and taller.
+**Photosynthesis**: The process plants use to make their own food. They absorb water through their roots, carbon dioxide from the air, and sunlight through their leaves — and convert it into sugar (food) and oxygen. When we water a plant, we're giving it one ingredient for photosynthesis.
 
-**Environment**: All of the living things and natural spaces around us—plants, animals, soil, water, sky—that make up the world we live in.
+**Decomposition**: The process by which dead things (leaves, food scraps) are broken down by bacteria and fungi into nutrients that feed soil and plants. This is why litter is harmful — plastic and metals don't decompose, so they stay in the ecosystem for hundreds of years, harming animals that eat or get trapped in them.
 
-**Responsibility**: A job or duty that's yours to do, like caring for a plant means you're responsible for watering it and keeping it alive.
+**Food web**: The interconnected network of who eats whom in an ecosystem. Birds eat insects; insects pollinate flowers; flowers feed bees; bees make honey. When we care for plants and provide food for birds, we're supporting the whole food web.
+
+**Stewardship**: Taking responsibility for caring for a place or ecosystem — not because it belongs to you, but because all living things depend on it being healthy.
+
+**Habitat**: The natural home of an animal or plant — the specific place that provides everything it needs: food, water, shelter, space. Litter, pollution, and habitat destruction shrink or destroy habitats.
 
 ## 🎵 Learning Song
 
@@ -107,17 +111,17 @@ In this activity, children explore caring for plants and their environment throu
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Invite the child to notice the plants and outdoor space. Say: "Look at these beautiful plants! They need our help to stay healthy. We're going to be plant helpers today." Show them the watering can and demonstrate holding it gently. Point out details: "See the bright green leaves?" or "This soil looks dry."
+   Invite the child to notice the plants and outdoor space. Say: "Everything you see here — the plants, the soil, the insects, the birds — they're all connected. It's called an ecosystem. Plants make food from sunlight and water through something called photosynthesis. Insects visit flowers and help them reproduce — that's called pollination. Birds eat insects. Everything depends on everything else. We're going to take care of part of this ecosystem today!" Show them the watering can and demonstrate holding it gently. Point out details: "See the bright green leaves?" or "This soil looks dry — the plant needs water for photosynthesis."
 
 2. **Exploration** (3-5 minutes):
    Let the child hold and explore the watering can, spray bottle, and plants. Allow them to gently touch leaves and observe colors and textures. Ask open-ended questions: "What do you see?" "Can you feel how soft this leaf is?" Point out living things: insects, birds, seeds.
 
 3. **Guided Care** (5-10 minutes):
    Demonstrate each care task:
-   - **Watering**: "Watch how I fill the can at the water. Now I pour slowly into the soil, not on the leaves. Hear the glug glug sound? The plant is drinking water!"
-   - **Leaf care**: "We gently wipe or mist the leaves so the plant can breathe better"
-   - **Collecting trash**: "We pick up litter to keep our space clean and safe for our plant and animal friends"
-   - **Bird feeding**: "We put seed here so birds can eat and stay healthy"
+   - **Watering**: "Watch how I fill the can at the water. Now I pour slowly into the soil — the roots will absorb this water and carry it up through the whole plant. The plant uses the water, plus sunlight and CO2 from the air, to make its own food through photosynthesis. That's why we water into the soil, where the roots are, not just on the leaves."
+   - **Leaf care**: "We gently wipe or mist the leaves — dust blocks sunlight, and plants need sunlight for photosynthesis. Clean leaves can absorb more light!"
+   - **Collecting trash**: "We pick up litter because plastic and metal don't decompose — they stay in the ecosystem for hundreds of years. Animals can eat them by mistake, or get tangled in them. Real leaves and sticks break down into nutrients that feed the soil — that's decomposition — but plastic never does."
+   - **Bird feeding**: "We put seed here so birds can eat. Birds are part of the food web — they eat insects that might otherwise eat our plants. When we care for birds, we're caring for the whole ecosystem."
 
    Guide the child's hands as they pour, wipe, and collect. Narrate their actions: "You're pouring so gently! The soil is getting wet and dark. You're being such a good helper!"
 

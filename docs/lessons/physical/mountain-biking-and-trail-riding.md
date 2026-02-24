@@ -74,21 +74,24 @@ Mountain biking and trail riding introduces young children to pedaling, balance,
 
 ### Warm-Up (2-3 minutes)
 
-**Purpose**: Prepare muscles and balance system; get child excited about riding
+**Purpose**: Prepare muscles and balance system; activate proprioception; get child excited about riding
+
+**What's happening in the body**: The vestibular system — a set of fluid-filled canals in the inner ear — detects movement and tilt. Proprioception is the body's sense of where its limbs are in space, using sensors in muscles and joints. Biking demands both systems working together. The warm-up begins activating them.
 
 **Warm-up activities**:
-1. Walk around on the bike (straddling, moving slowly) to get comfortable - "Let's say hello to your bike"
-2. Gentle marching in place while holding handlebars - "Feel your legs waking up"
-3. Slow walking while on the bike seat - "Nice and easy, just like we're taking a stroll"
+1. Walk around on the bike (straddling, moving slowly) to get comfortable - "Let's say hello to your bike — your body is learning to feel where it is"
+2. Gentle marching in place while holding handlebars - "Feel your legs waking up — the big muscles in your thighs (quadriceps) and the back of your legs (hamstrings) are getting ready"
+3. Slow walking while on the bike seat - "Nice and easy — your inner ear is starting to feel the balance"
 
-**Warm-up cues**: "We're getting ready for an adventure! Let's wake up our legs and get to know your bike first."
+**Warm-up cues**: "We're getting ready for an adventure! Let's wake up our legs and let our bodies practice feeling balanced."
 
 ### Main Activity (10-18 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show how to stand over the bike frame with both feet on ground: "Your toes should touch the ground, like you're standing up"
-- Demonstrate pushing off with one foot while pedaling with the other: "One foot pushes the ground, one foot on the pedal to go"
-- Show the pedaling motion slowly: "Round and round the pedals go, like your feet are climbing stairs"
+- Show how to stand over the bike frame with both feet on ground: "Your toes should touch the ground. This keeps your center of gravity — the invisible point where your body's weight is balanced — over the bike."
+- Explain the gyroscope effect simply: "Here's something magic about bikes: the faster the wheels spin, the more stable the bike becomes. The spinning wheel acts like a gyroscope — a spinning top — and resists tipping over. That's why it's actually easier to balance when you're moving than when you're stopped!"
+- Demonstrate pushing off with one foot while pedaling with the other: "One foot pushes the ground to get us moving, then both feet on the pedals to keep going"
+- Show the pedaling motion slowly: "Round and round the pedals go — your quadriceps (front thigh muscles) push down, your hamstrings (back thigh muscles) pull up, and your glutes (bottom muscles) add power. It's a whole team of muscles working together in a cycle."
 
 #### Skill Practice (3-5 minutes)
 
@@ -99,10 +102,11 @@ Mountain biking and trail riding introduces young children to pedaling, balance,
 - **Steering**: Gentle handlebar movements for direction; avoid jerky turns
 
 **Coaching cues**:
-- "Keep your eyes where you want to go, not down at your feet"
-- "Pedals are like a merry-go-round—just keep them turning"
-- "Hold the handlebars like you're holding a hug"
-- "You're doing it! Keep pedaling!"
+- "Keep your eyes where you want to go, not down at your feet" (the body automatically steers toward where the eyes look — this is called the visual-motor system)
+- "Pedals are like a merry-go-round — just keep them turning"
+- "Hold the handlebars like you're holding a hug — your core muscles (belly and back) are doing the balancing work, not your arms"
+- "Feel your inner ear? It's telling your brain which way you're leaning — your brain uses that information to steer you back upright"
+- "You're doing it! Keep pedaling — faster is actually easier because the spinning wheels help stabilize you!"
 
 #### Guided Play/Game (5-10 minutes)
 
@@ -133,11 +137,11 @@ Let child experiment with pedaling speed and gentle turns on safe terrain.
 **Purpose**: Safely slow down and transition from active riding; reflect on the adventure
 
 **Cool-down activities**:
-1. Walk the bike slowly back to starting area - "Let's take a peaceful stroll home"
-2. Park the bike and do gentle stretches - reach toward toes, side stretches
-3. Sit together and discuss: "What was your favorite thing you saw?" "Where would you like to ride next?"
+1. Walk the bike slowly back to starting area - "Let's take a peaceful stroll — your heart rate is coming down, which means your cardiovascular system is recovering"
+2. Park the bike and do gentle stretches — reach toward toes (stretches hamstrings), side stretches (stretches the core muscles that worked to keep balance): "We stretch after exercise because the muscles shortened while they were working — stretching helps them return to their resting length and removes lactic acid that built up during effort"
+3. Sit together and discuss: "What was your favorite thing you saw?" "Where would you like to ride next?" "Did you notice it was easier to balance when you were going faster?"
 
-**Transition**: "You were such a great rider today! Let's give your bike a rest and get some water."
+**Transition**: "You were such a great rider today! Your vestibular system, your muscles, and your brain all worked together. Let's give your body some water."
 
 ## Age Adaptations
 

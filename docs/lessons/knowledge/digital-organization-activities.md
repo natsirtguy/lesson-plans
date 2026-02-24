@@ -6,13 +6,17 @@ Children explore how to sort, categorize, and organize digital objects on a tabl
 
 ## Vocabulary
 
-**Organize**: Arranging things in a neat way so you can find them easily. Like putting all your red blocks in one basket and blue blocks in another basket so you know where everything is.
+**File**: A collection of information stored on a computer, just like a drawing stored on paper. Every photo, song, or document on a device is a file with its own name.
 
-**Sort**: To look at things and put them into groups based on what they have in common. You might sort buttons by color or size, putting similar ones together.
+**Folder (Directory)**: A container that holds files — computers use folders to group related files together, just like a physical folder holds papers. Folders can even hold other folders inside them, creating a hierarchy.
 
-**Digital**: Something that uses technology, like a computer, tablet, or smartphone. When you tap a picture on a tablet screen, you're using a digital tool.
+**Metadata**: Extra information *about* a file, like when it was made, how big it is, or what type of file it is. When you sort photos by date, you're using metadata.
 
-**Category**: A group of things that are similar in some way. Animals could be one category, vehicles could be another category, and foods could be a third category.
+**Algorithm**: A set of step-by-step instructions a computer follows to do a job. When a computer sorts files alphabetically, it's running a sorting algorithm — doing the same comparing-and-ordering steps over and over, very fast.
+
+**Database**: An organized collection of information that a computer can search through quickly. Apps store your photos, contacts, and messages in databases so they can find exactly what you need in seconds.
+
+**Category**: A group of things that share something in common. Computers use categories (and labels called *tags*) to help organize and find files faster.
 
 ## Learning Song
 
@@ -70,7 +74,7 @@ When we sort and organize
 
 ### Activity Overview
 
-Children will use a tablet, computer, or sorting app to organize digital objects by color, shape, size, or category. They'll practice touching the screen, dragging items, and placing them into groups, building digital literacy while reinforcing sorting and categorization skills. This hands-on digital exploration develops fine motor control, decision-making, and understanding of how we use technology to organize information.
+Children will use a tablet, computer, or sorting app to organize digital objects by color, shape, size, or category. They'll practice touching the screen, dragging items, and placing them into groups — mimicking how real computers use folders, databases, and sorting algorithms to keep millions of files organized. Every photo app, music library, and file manager on a computer uses the same core idea: grouping similar things so they can be found quickly. This activity builds digital literacy, logical thinking, and an early intuition for how computers manage information.
 
 **Activity Type**: Interactive digital exploration with tactile learning
 
@@ -111,9 +115,9 @@ Children will use a tablet, computer, or sorting app to organize digital objects
 
 1. **Introduction** (2-3 minutes):
    - Sit together and show the child the tablet or screen
-   - Say: "Today we're going to play a game where we organize things on this screen. We'll touch and move things to make groups. See these items? We're going to organize them!"
+   - Say: "Today we're going to organize things on this screen — just like computers do! Computers keep millions of files organized using folders and something called an algorithm, which is like a recipe of steps for sorting things. We're going to do the same thing!"
    - Point to the first item and demonstrate a gentle tap
-   - Name what you see: "This is a red circle. This is a yellow square. Let's put similar things together."
+   - Name what you see: "This is a red circle. This is a yellow square. Let's put similar things together — we're making categories, just like folders on a computer."
 
 2. **Exploration** (7-10 minutes):
    - Let the child take the device and explore touching the screen
@@ -125,9 +129,10 @@ Children will use a tablet, computer, or sorting app to organize digital objects
 
 3. **Discovery** (2-3 minutes):
    - Ask observational questions: "What color are we organizing now?" "Where should this square go?"
-   - Point out patterns: "I notice all the big ones are on this side now!"
+   - Point out patterns: "I notice all the big ones are on this side now! That's just like a folder called 'big things.'"
    - Ask: "Can you find all the circles? Can you find the blue things?"
-   - Show them how their organizing makes it easier to find things: "Look! All the yellow things are together, so if we wanted yellow, we'd look right here!"
+   - Show them how their organizing makes it easier to find things: "Look! All the yellow things are together, so if we wanted yellow, we'd look right here! That's what a database does — it organizes information so you can find it in an instant."
+   - Mention: "When you search for a song or photo on a tablet, an algorithm runs super fast and checks every file — that's why it finds things almost immediately!"
 
 4. **Wrap-up** (1-2 minutes):
    - Acknowledge their work: "You did such great organizing today! You used the tablet to sort and organize things, just like grown-ups do with computers."
@@ -149,9 +154,10 @@ Children will use a tablet, computer, or sorting app to organize digital objects
 - Introduce apps with more items and multiple sorting categories
 - Challenge them with compound sorting: "Put the red circles in this group and the blue circles in that group"
 - Encourage independence; use guiding questions instead of direct instruction
-- Ask them to explain their organizing choices: "Why did you put that there?"
-- Introduce the concept of multiple ways to organize: "We organized by color. Can we organize by size instead?"
-- Extend to creating categories themselves: "What things should go together?"
+- Ask them to explain their organizing choices: "Why did you put that there?" — this mirrors how computer scientists design database schemas
+- Introduce the concept of multiple ways to organize: "We organized by color. Can we organize by size instead? Computers can sort the same files many ways — by date, name, or size!"
+- Extend to creating categories themselves: "What folder name would you give this group?"
+- Introduce the word *metadata*: "When we notice this is big AND blue, those are two pieces of metadata about the shape."
 
 ### Extension Ideas
 
