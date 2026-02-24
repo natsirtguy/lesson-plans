@@ -4,6 +4,20 @@
 
 Bilateral coordination exercises develop the ability to use both sides of the body together in a coordinated, intentional way. This foundational motor skill involves crossing the body's midline, synchronizing limbs, and building neural pathways that support fine motor development, balance, and overall physical confidence. These activities strengthen the connection between both brain hemispheres and are essential for later skills like writing, cutting with scissors, and athletic movements.
 
+## Vocabulary
+
+**Bilateral**: Involving both sides. "Bi" = two, "lateral" = sides. Bilateral coordination is the ability to use both body sides simultaneously and in a coordinated way — one of the key motor milestones of early childhood.
+
+**Corpus callosum**: The thick bundle of nerve fibers connecting the left and right cerebral hemispheres. Crossing the body's midline requires both hemispheres to communicate across the corpus callosum. The corpus callosum continues myelinating (developing its insulating coating) until approximately age 20 — which is why bilateral coordination is a skill that develops gradually.
+
+**Contralateral control**: The brain's wiring pattern where each hemisphere controls the *opposite* side of the body. Your left hemisphere controls your right hand; your right hemisphere controls your left hand. When you reach your right hand across to your left shoulder, you're forcing the left hemisphere to engage — which requires a signal to cross the corpus callosum.
+
+**Lateralization**: The process by which the brain becomes specialized — certain functions (like language) become primarily handled by one hemisphere. Lateralization develops through childhood. Strong bilateral coordination exercises both hemispheres and the corpus callosum pathway between them.
+
+**Motor cortex**: The strip of cortex running across the top of the brain that controls voluntary movement. Each point on the motor cortex maps to a specific body part — this mapping is called the *homunculus* ("little man"). The hand and face areas are disproportionately large because they require the most fine motor control.
+
+**Myelination**: The process of coating nerve fibers with myelin (a fatty insulating sheath) that dramatically speeds up signal transmission. Motor skills improve as brain circuits myelinate. The cerebellum and motor cortex myelinate substantially in the toddler years, which is why motor milestones cluster in this period.
+
 **Activity Type**: Motor skill development
 
 **Duration**: 10-15 minutes (with natural breaks)
@@ -60,6 +74,18 @@ Bilateral coordination exercises develop the ability to use both sides of the bo
 - Ensure adult is positioned to provide physical support if needed
 - Watch for dizziness or disorientation—pause if child seems overwhelmed
 
+## Key Concepts
+
+**Why crossing the midline is neurologically significant.** The brain's two hemispheres each control the opposite side of the body (contralateral control). When a child reaches their right hand across to the left side of their body, the signal must cross from the right hemisphere to the left — traveling through the corpus callosum. For very young children, whose corpus callosum is still developing and myelinating, this is genuinely difficult. The resistance isn't stubbornness — it's neurological immaturity.
+
+**The corpus callosum develops slowly.** Unlike many brain structures that mature by age 5-6, the corpus callosum continues to myelinate through adolescence and into early adulthood. This means the speed and efficiency of inter-hemisphere communication is literally still developing throughout childhood. Bilateral coordination exercises are not just physical practice — they are exercises in cross-hemisphere neural communication.
+
+**Bilateral coordination predicts later skills.** Occupational therapists (OTs) assess bilateral coordination because it underlies many academic and daily living skills: cutting with scissors (one hand holds paper, one hand cuts), writing (one hand holds paper, one writes), tying shoes, and playing musical instruments. Children with bilateral coordination difficulties often receive OT intervention specifically targeting midline crossing and interlimb coordination.
+
+**The cerebellum automates the learning.** As bilateral movements are practiced repeatedly, the cerebellum encodes them as procedural memory — unconscious, automatic motor programs. This is why skills that feel effortful at first (riding a bike, catching a ball) eventually feel automatic. The cerebellum is running the learned program while the cortex is free to attend to other things.
+
+**Even animals show bilateral coordination.** Most vertebrates have contralateral brain organization, though the degree of brain lateralization varies by species. Humans are unusual in having particularly strong lateralization (especially for language). The corpus callosum is proportionally larger in humans than in other primates, which may relate to our capacity for complex coordinated tool use.
+
 ## Session Flow
 
 ### Warm-Up (2-3 minutes)
@@ -80,8 +106,9 @@ Bilateral coordination exercises develop the ability to use both sides of the bo
 
 #### Introduction & Demonstration (1-2 minutes)
 - Show the child what "both sides working together" means by doing the movement yourself at their level
+- Explain the neuroscience simply: "Your brain has two halves — left and right. Each half controls the opposite hand and foot. When we reach across our body, both halves have to talk to each other through a bridge called the corpus callosum. We're practicing making that bridge stronger!"
 - Demonstrate the movement slowly, then at normal speed
-- Key coaching point: "Watch how my arms are working together—one goes in while the other goes out!"
+- Key coaching point: "Watch how my arms are working together — one goes in while the other goes out! Both sides of my brain are coordinating right now."
 
 #### Skill Practice (3-4 minutes)
 
@@ -224,9 +251,9 @@ Bilateral coordination exercises develop the ability to use both sides of the bo
 
 **Challenge**: Child can't cross the midline (reaching opposite hand across body feels awkward)
 
-**Why**: Crossing the body's midline is a developmental skill that builds neural connections between brain hemispheres. It's developmentally normal for younger toddlers to find this confusing.
+**Why**: Crossing the body's midline requires signals to travel across the corpus callosum — the neural bridge between brain hemispheres. In toddlers, the corpus callosum is still myelinating (developing its insulating sheath), making cross-hemisphere communication slower and less efficient. This is genuinely neurological, not behavioral.
 
-**Solution**: Start with same-side movements (right hand with right side, left with left). Practice reaching across for short periods. Use external cues like a target on opposite shoulder. Progress slowly over weeks.
+**Solution**: Start with same-side movements (right hand with right side, left with left). Practice reaching across for short periods. Use external cues like a target on opposite shoulder. Progress slowly over weeks — myelination is gradual.
 
 **Timeline**: Most children develop comfortable midline crossing by age 4. Keep practicing in small doses.
 

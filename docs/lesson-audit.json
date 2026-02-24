@@ -14,6 +14,11 @@
     "issues": "Vocabulary all everyday words (character, expression, improvise, performance). No theater history, no cognitive science of pretend play, no theory of mind, no mirror neurons, no dramatic arc structure. Activity was \"move like a cat\" with no intellectual content.",
     "fixed": "Replaced vocabulary with theory of mind (cognitive development ages 2-5), mirror neurons (premotor cortex, action-observation coupling), dramatic arc (Aristotle's structure — setup/rising action/resolution), projection (diaphragm-based vocal technique). Rewrote activity to explicitly teach dramatic arc, mirror neuron awareness, and theory of mind during role-play. Added commedia dell'arte, bunraku, and shadow theater for 3-4+."
   },
+  "knowledge/adaptation-and-modification-physical-adjustments-creative-improvisation-social-flexibility-learning-strategies.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Process-only lesson with no cognitive science or biological content; vocabulary limited to everyday words",
+    "fixed": "Added cognitive flexibility, executive function, neuroplasticity vocabulary; added Key Concepts section covering prefrontal cortex, biological adaptation, improvisation as constrained creativity; updated activity instructions to name brain skills being exercised"
+  },
   "knowledge/animal-behaviors-and-types.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No taxonomy, no adaptation/evolution, no endotherm/ectotherm, no vertebrate/invertebrate classification, no metamorphosis. Activity was mimicking animal movements with no biological content. Age adaptation said \"Keep vocabulary to just 'move,' 'animal,' and animal names.\"",
@@ -54,10 +59,20 @@
     "issues": "Vocabulary was all everyday words (measure, combine, texture, transform). No chemistry whatsoever — \"flour and liquid become batter\" with no explanation of what happens. No chemical reactions, gluten, leavening, or states of matter.",
     "fixed": "Replaced vocabulary with chemical reaction (Maillard reaction, denaturation), gluten (glutenin/gliadin protein network), leavening (biological/chemical/mechanical), states of matter (solid/liquid/gas with specific melting/boiling points). Rewrote activity flow to explain gluten formation during mixing, denaturation of egg proteins, and CO2 release from leavening. Added three types of leavening and Maillard reaction for 3-4+."
   },
+  "knowledge/balance-and-movement.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good vocabulary (proprioception, equilibrium) but missing vestibular system, cerebellum, center of gravity; leftover template instruction in vocabulary section; no Key Concepts section",
+    "fixed": "Added vestibular system, cerebellum, center of gravity to vocabulary; added Key Concepts section covering three-system balance integration, motor learning, center of gravity physics, inner ear mechanics; updated activity instructions to name systems being used"
+  },
   "knowledge/basic-engineering-concepts.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was everyday words (engineer, design, test, improve). No forces — no compression, tension, triangulation, or material properties. Activity was generic building with no engineering physics content.",
     "fixed": "Replaced vocabulary with compression and tension (two fundamental forces), triangulation (inherent rigidity), load distribution, material properties (rigidity vs. flexibility). Rewrote activity to test structural physics concepts hands-on."
+  },
+  "knowledge/basic-web-design-concepts.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good generic design vocabulary but missing core web concepts: no HTML, CSS, browser, hyperlink, UX; no explanation of how websites actually work technically",
+    "fixed": "Added HTML, CSS, browser, hyperlink, UX, wireframe vocabulary; added Key Concepts section covering server/browser model, HTML/CSS separation of concerns, history of the web (Berners-Lee), UX as a profession, and the principle that good design is invisible; updated introduction to reference real technical concepts"
   },
   "knowledge/beauty-and-aesthetics.md": {
     "verdict": "FAIL -> FIXED",
@@ -68,6 +83,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was basic everyday words (strategy, pattern, persistence, rule). No cognitive science, no probability for dice, no spatial reasoning, no working memory. Activity was basic play with no intellectual content.",
     "fixed": "Replaced vocabulary with probability (1-in-6 die face, 36 combinations for two dice), spatial reasoning (parietal lobe, mental rotation), working memory (prefrontal cortex, 2-3 items for children vs. 7 for adults), algorithm (systematic problem-solving strategy). Rewrote activity to track dice probability, use sorting algorithms for puzzles, and identify cognitive processes during play."
+  },
+  "knowledge/board-games-and-strategy-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Recommends Candy Land/Chutes and Ladders as 'strategy games' without noting they are pure chance; missing probability, game theory, chance vs. strategy distinction, ancient history of board games, executive function research",
+    "fixed": "Added probability, game theory, decision tree vocabulary; added Key Concepts covering chance vs. strategy distinction, ancient board games (Senet, Go, Chess), probability and gambler's fallacy, game theory history (von Neumann), executive function skills; updated activity to explicitly teach the chance/strategy distinction and introduce Tic-Tac-Toe as a true strategy game"
   },
   "knowledge/body-awareness-and-coordination.md": {
     "verdict": "PASS",
@@ -153,6 +173,11 @@
     "verdict": "MINOR FIX",
     "issues": "Core content was solid — real organelle names (nucleus, mitochondria, ribosomes, cytoplasm) deployed throughout the activity. But vocabulary section had only generic terms (cell, living, organism, microscope) while actual organelle vocabulary was only in the activity body with brief descriptions. Missing single-celled organisms and cell division.",
     "fixed": "Replaced vocabulary section with nucleus, mitochondria, cell membrane, and organism (expanded to include single-celled organisms — bacteria). Added mention of single-celled organisms (bacteria as complete one-celled life) during discovery. Added cell division / mitosis to follow-up activities."
+  },
+  "knowledge/change-and-adaptation-physical-changes-human-development-evolution-learning.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Evolution is in topic title but never mentioned; missing natural selection, metamorphosis, germination, phototropism, biological vs. behavioral adaptation distinction; template instruction left in vocabulary section",
+    "fixed": "Added evolution, natural selection, metamorphosis, germination, phototropism, biological adaptation vocabulary; added Key Concepts covering Darwin/natural selection, metamorphosis biology (imaginal discs), seed dormancy and germination, human developmental biology, two types of adaptation; updated activity instructions to use real biological terms"
   },
   "knowledge/chemical-elements-and-reactions.md": {
     "verdict": "FAIL -> FIXED",
@@ -1304,6 +1329,11 @@
     "issues": "No vocabulary section; summary promised physics concepts (momentum, direction, balance) but none were taught; no anatomy; coaching cues were 100% nature metaphors (\"move like water,\" \"root of a tree\") with zero physics or anatomy; the lesson is explicitly about redirecting force but never defines force, momentum, or vector.",
     "fixed": "Added full vocabulary section: force/momentum/vector/center of mass/base of support (physics), proprioception/vestibular system/core muscles/hip external rotators/gluteus medius (anatomy), aiki/irimi/tenkan (authentic aikido terminology). Rewrote introduction to explain physics of redirection; replaced all metaphor-only coaching cues with anatomical and physics references."
   },
+  "physical/american-football-and-tackle-games.md": {
+    "verdict": "PASS",
+    "issues": "Excellent rigor: accurate vocabulary (angular momentum, projectile, deltoid, proprioception), physics explanations (parabolic arc, 9.8 m/s², kinetic chain), and activity instructions consistently use technical terms; one of the strongest lessons in the set",
+    "fixed": "N/A"
+  },
   "physical/archery-and-target-sports.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No projectile physics, no trajectory science, no muscle anatomy, no visual cortex processing. Coaching cues were generic encouragement.",
@@ -1333,6 +1363,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Proprioception mentioned in summary but never defined or explained; missing physics of why sand is harder to move on; forearm pass technique not explained mechanically.",
     "fixed": "Added full definition of proprioception with explanation of sand's unstable, energy-absorbing properties and their training benefit; added sand resistance physics in warm-up notes; explained forearm pass surface area mechanics"
+  },
+  "physical/bilateral-coordination-exercises.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No vocabulary section at all; neuroscience of bilateral coordination nearly absent (corpus callosum, contralateral control, lateralization, myelination not mentioned)",
+    "fixed": "Added complete vocabulary section with corpus callosum, contralateral control, lateralization, motor cortex, myelination, bilateral definitions; added Key Concepts section covering why midline crossing is neurologically significant, corpus callosum development timeline, occupational therapy connection, cerebellum automatization of motor learning; updated Introduction and Challenge sections to use technical terms accurately"
   },
   "physical/body-awareness-and-proprioception.md": {
     "verdict": "FAIL -> FIXED",

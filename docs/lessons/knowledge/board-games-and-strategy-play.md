@@ -6,13 +6,17 @@ Through simple board games, children develop turn-taking skills, practice waitin
 
 ## Vocabulary
 
-**Strategy**: A plan or approach you decide on ahead of time to reach a goal. When you're playing a game, your strategy might be deciding where to move your piece to get closer to winning.
+**Strategy**: A plan or approach you decide on ahead of time to reach a goal. Strategy only applies in games where your *choices actually matter* — if the outcome is entirely random, there's no strategy to use.
+
+**Probability**: The mathematical chance of something happening. When you roll a 6-sided die, each number has a 1-in-6 probability of coming up — that's about 17% for any single number. Probability is why dice games feel unpredictable.
+
+**Game theory**: A branch of mathematics and economics that studies how people make decisions when the outcome depends on other players' choices. Game theory is used by economists, military strategists, and biologists — not just game players.
 
 **Turn-taking**: The practice of taking turns one at a time so everyone gets a chance to play. You take your turn, then the next person takes theirs—this helps games be fair and fun for everyone.
 
-**Anticipate**: To think about what might happen next before it actually happens. When you anticipate in a game, you're thinking "If I move here, then what will happen?"
+**Cooperative**: Working together with others toward a shared goal rather than competing. Cooperative games have been proven to develop stronger prosocial behavior than purely competitive ones, because success requires genuine collaboration.
 
-**Cooperative**: Working together with others toward a shared goal, even when you might not all win. Some games ask players to work as a team instead of competing against each other.
+**Decision tree**: A way of mapping out all the choices you could make and what might happen after each one. Chess players think several moves ahead using mental decision trees — "if I move here, they might move there, so then I could…"
 
 ## Learning Song
 
@@ -59,11 +63,23 @@ Here a game, there a game, playing everywhere
 - "Preschool games teaching cooperation"
 - "Simple dice games for young children"
 
+## Key Concepts
+
+**Chance vs. strategy — a critical distinction.** Some games are entirely luck-based: Candy Land and Chutes and Ladders are pure chance games — the outcome is determined entirely by dice or card draws, and no decision you make affects whether you win. This makes them excellent for *turn-taking practice*, but there is literally no strategy involved. Strategy games require decisions that matter: Tic-Tac-Toe, Checkers, Connect Four, and Memory all require thinking ahead.
+
+**Board games are ancient.** Humans have played board games for at least 5,000 years. Senet — found in Egyptian tombs from 3100 BCE — is the oldest known board game. Mancala boards carved into rock surfaces are found across Africa and may be even older. The Royal Game of Ur (c. 2600 BCE) was found in a Mesopotamian tomb. Chess originated in India around the 6th century CE and spread westward through Persia and the Islamic world. Go (围棋, *wéiqí*) is over 2,500 years old and is still played competitively today with dedicated professionals.
+
+**Probability and dice.** A standard 6-sided die gives each number equal probability — 1/6 ≈ 17%. Importantly, each roll is *independent* — the die has no memory of past rolls. If you've rolled six 1s in a row, the probability of rolling another 1 is still exactly 1/6. This counterintuitive fact (called the "gambler's fallacy") confuses even adults.
+
+**Game theory emerged from mathematics.** Mathematician John von Neumann and economist Oskar Morgenstern published the foundational theory of games in 1944. Game theory now underlies economics, evolutionary biology, political science, and even animal behavior research — animals competing for food or mates are essentially playing "games" with strategies that evolved over millions of years.
+
+**What strategy games build.** Games requiring planning ahead specifically exercise *working memory* (holding the board state in mind), *inhibitory control* (resisting an impulsive move in favor of a better one), and *cognitive flexibility* (adjusting strategy when conditions change). These are the same executive function skills measured by researchers studying school readiness.
+
 ## Activity
 
 ### Activity Overview
 
-Children will play a simplified board game that introduces turn-taking, following simple rules, and making basic strategic choices. This hands-on experience teaches patience, planning, and social skills while building confidence in game play and decision-making.
+Children play both chance-based and simple strategy games, learning to distinguish between them. They experience turn-taking, practice probability reasoning ("how likely is it I'll roll a 6?"), and begin thinking ahead using simple decision trees. Caregivers name the distinction clearly: "This game is about luck — Candy Land doesn't have strategy. Let's also try a game where your choices matter."
 
 **Activity Type**: Interactive game play and turn-taking practice
 
@@ -96,7 +112,7 @@ Children will play a simplified board game that introduces turn-taking, followin
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by gathering everyone around the game. Say: "Today we're going to play a special game together! In this game, we take turns. That means each person gets to take one turn, and then it's the next person's turn. We'll be moving our pieces around the board and seeing who reaches the end first!" Show the game pieces and let each child pick the color or piece they want to use.
+   Begin by gathering everyone around the game. Introduce the big idea: "There are two kinds of games in the world. Games of *chance*, where the dice or cards decide everything — like Candy Land. And games of *strategy*, where what you *decide* changes who wins — like Tic-Tac-Toe. Today we'll play both kinds." Show the game pieces and let each child pick the color or piece they want to use. Roll a die together and talk about probability: "There are six sides. Each one has the same chance of coming up — that's 1 out of 6."
 
 2. **Learning the Basics** (3-5 min):
    Explain the game step-by-step. For simple games like Candy Land or Chutes and Ladders, say: "You roll the die (or pick a card), and that tells you how many spaces to move. Then you move your piece forward. If you land on a ladder, you climb up—that gets you closer to the end! If you land on a slide, you go back down. That's okay! Everyone takes turns doing this." Play through one full round with narration so children understand what happens.
@@ -109,7 +125,7 @@ Children will play a simplified board game that introduces turn-taking, followin
    - "Keep going! There are lots more spaces to cover."
 
 4. **Noticing Choices** (3 min during play):
-   As you play, point out simple strategic elements: "You're getting close to the top! If you move carefully, you might reach it on your next turn!" This introduces the idea that moves matter and have consequences.
+   After the chance game, transition to a simple strategy game (Tic-Tac-Toe, or a homemade connect-the-dots grid). Point out the difference: "Now *you* get to decide where to put your mark. Which spot is best? What would happen if I went here?" Introduce decision tree thinking: "If you put yours here, I might go there — so what then?" This is what chess players call "thinking ahead."
 
 5. **Wrap-up** (2-3 min):
    When someone reaches the end, celebrate with enthusiasm: "You made it all the way to the finish! Wonderful!" If multiple children are playing, let everyone finish. You might say: "Look at how far you all came! You all worked hard, took turns, and had fun together. That's what makes games special!"
