@@ -2,7 +2,15 @@
 
 ## Activity Summary
 
-Water aerobics and pool exercises introduce young children to the joy and freedom of movement in water while building water confidence, strength, and coordination. These activities develop gross motor skills, cardiovascular fitness, and body awareness in a low-impact environment where buoyancy supports growing bodies. Water play builds courage, independence, and a positive relationship with water safety that lasts a lifetime.
+Water aerobics and pool exercises introduce young children to the joy and freedom of movement in water while building water confidence, strength, and coordination. These activities develop gross motor skills, cardiovascular fitness, and body awareness in a low-impact environment where buoyancy supports growing bodies.
+
+**Why water exercise is physically different from land exercise:**
+- **Buoyancy** (Archimedes' principle): Water pushes up on any object submerged in it with a force equal to the weight of water that object displaces. This is why bodies feel lighter in water — the water is literally pushing you up. Standing in chest-deep water, you feel about 90% lighter. This reduced weight-bearing makes water ideal for exercise that would otherwise stress joints.
+- **Water resistance**: Water is about 800 times denser than air. Every movement through water requires significantly more muscle force than the same movement on land. This is why even gentle water walking builds strength — muscles work against the water's resistance from all directions.
+- **Thermoregulation**: Water conducts heat away from the body approximately 25 times faster than air. This is why children cool down quickly in water even when the water feels warm — their bodies are losing heat rapidly. This makes monitoring session length and water temperature critical for young children, whose thermoregulation systems are still developing.
+- **Cardiovascular benefit**: Even low-intensity water movement elevates heart rate, strengthening the heart muscle over time. The heart works to maintain circulation against water's hydrostatic pressure (the gentle squeeze water exerts on the body from all sides).
+
+Water play builds courage, independence, and a positive relationship with water safety that lasts a lifetime.
 
 **Activity Type**: Aquatic Sports
 
@@ -93,7 +101,8 @@ Water aerobics and pool exercises introduce young children to the joy and freedo
 
 #### Introduction & Demonstration (2 minutes)
 - Show how you move in the water with big, slow movements
-- Demonstrate that water feels different - heavier, holds us up
+- Explain why water feels different: "Water is much heavier than air — that's why moving through it takes more effort. Push your arm through the water: you can feel it pushing back! That's called resistance. Your muscles get stronger because they have to work against the water."
+- Demonstrate buoyancy: "Water is pushing us up — that's called buoyancy. The water holds some of our weight so our legs and joints don't work as hard. That's why people who have sore joints love swimming."
 - Point out toys and play areas available
 - Establish simple safety rule: "Stay close to me/the adult"
 
@@ -105,10 +114,10 @@ Water aerobics and pool exercises introduce young children to the joy and freedo
 - **Kicking**: Gentle kicks while holding flotation device or adult
 
 **Coaching cues**:
-- "Push the water with your arms like you're pushing it away"
-- "Your legs are like frog legs - kick gently"
-- "The water helps hold you up - that's what makes it special"
-- "Big movements are fun in the water!"
+- "Push the water with your arms like you're pushing it away — feel it pushing back? That's resistance!"
+- "Your legs are like frog legs — kick gently. The water pushes against your kick and makes your leg muscles work."
+- "The water is pushing you up — that's buoyancy. It's holding some of your weight for you!"
+- "Big movements are fun in the water — and they make your heart work harder to pump blood to your muscles!"
 
 #### Guided Play/Game (3-7 minutes)
 
@@ -289,7 +298,7 @@ Let child move freely in shallow water with flotation support:
 
 **Challenge**: Child becomes cold or shows fatigue
 
-**Why**: Young bodies lose heat quickly in water; water activities are more tiring than they appear
+**Why**: Water conducts heat away from the body about 25 times faster than air — even warm-feeling water steadily removes body heat. Young children have a larger surface-area-to-body-mass ratio than adults, meaning they lose heat proportionally faster. Water activities are also more tiring than they appear because muscles are working against constant resistance.
 
 **Solution**:
 1. Exit water and dry off immediately

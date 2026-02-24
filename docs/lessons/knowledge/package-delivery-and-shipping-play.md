@@ -6,13 +6,15 @@ Children explore the world of commerce and community helpers through immersive r
 
 ## Vocabulary
 
-**Package**: A container holding items that are wrapped or boxed together to be sent somewhere, usually to another person or place.
+**Logistics**: The system for planning and managing how goods move from where they're made to where they're needed. Getting a package from a warehouse to your door involves trucks, sorting machines, planes, and delivery vehicles all working as a coordinated system. Logistics is the science of making that work efficiently.
 
-**Deliver**: To transport something from one place to another and give it to the person who will use it or keep it.
+**Barcode**: A pattern of parallel lines that encodes information — a package's ID number, destination, weight, and contents summary. Laser scanners read barcodes in milliseconds at sorting facilities. Every time a package is scanned, its location is recorded in a computer system, which is how you can track a package in real time as it moves across the country.
 
-**Address**: The location or place where a person lives or receives things, usually written on a package to show where it should go.
+**ZIP code**: A 5-digit number that encodes geographic location in the United States. The first digit represents a broad region (0 = Northeast, 9 = Pacific Coast), the next two narrow it to a sectional center, and the final two identify a specific post office. ZIP codes allow postal computers and workers to sort millions of pieces of mail quickly because every address is turned into a number the system can process.
 
-**Route**: A planned path or journey from one place to another, often following the same stops in the same order.
+**Supply chain**: The complete journey a product takes from raw materials to the customer — manufacturing, packaging, warehousing, shipping, and delivery. When a toy is made in a factory, shipped to a warehouse, ordered online, and delivered to your door, every step is part of the supply chain.
+
+**Sorting facility**: A large building where packages from many different origins are gathered, sorted by destination using automated conveyor belts and scanning systems, and redistributed into outgoing trucks or planes. A single major facility may process hundreds of thousands of packages per day.
 
 ## 🎵 Learning Song
 
@@ -64,7 +66,7 @@ Your package has arrived and it came from me too!
 
 ### Activity Overview
 
-Children simulate the complete package delivery experience by wrapping items, creating addresses, and delivering packages along an imaginary route. This hands-on role-play develops understanding of commerce, logistics, and community workers while building practical skills in fine motor control, labeling, and communication.
+Children simulate the complete package delivery experience by wrapping items, creating addresses, and delivering packages along an imaginary route. Alongside the role-play, caregivers explain how the real logistics system works: barcodes that track packages electronically, ZIP codes that encode geography, sorting facilities that handle hundreds of thousands of packages per day, and the supply chain that connects manufacturers to customers. The play is the hook; the content is genuine.
 
 **Activity Type**: Role-playing and simulation
 
@@ -110,15 +112,15 @@ Children simulate the complete package delivery experience by wrapping items, cr
 **Activity Flow**:
 
 1. **Introduction** (3-5 min):
-   Start with enthusiasm: "Today we're going to be mail carriers and package deliverers! Have you ever received a package?" Show a small wrapped item and explain that you'll wrap it, address it, and deliver it together. Discuss delivery experiences and the work of mail carriers. Set expectations about handling packages gently and carefully, emphasizing that process matters more than perfection.
+   Start by looking at a real package or delivery box together (or a photograph). Point out the barcode: "This pattern of lines is a barcode. Every time this package passed through a sorting facility, a laser scanned this code in less than a second — and a computer recorded exactly where the package was. That's how we can track a package all the way from the factory to our door." Point to the ZIP code on the address: "These five numbers are a ZIP code. The first number tells the post office which part of the country it belongs to. Sorting machines read ZIP codes and automatically send packages down the right conveyor belt — without a person having to read every single address." Set up the play: "Today we'll run our own logistics system — wrapping packages, writing addresses with ZIP codes, and delivering along a route."
 
 2. **Exploration** (15-30 min):
-   - **Phase 1: Package Creation** (8-12 minutes) - Children select items to "ship" and practice wrapping with your support. Narrate their actions: "You're wrapping your package so carefully!" Observe techniques and celebrate choices.
-   - **Phase 2: Addressing and Labeling** (3-5 minutes) - Show how to create addresses by writing or drawing recipient names. Practice distinguishing "FROM" and "TO" addresses. Children add decorations, stickers, or designs to personalize packages.
-   - **Phase 3: Delivery and Role Play** (5-10 minutes) - Establish the delivery route and take turns being mail carrier and package recipient. Walk the route, deliver packages to designated stops, and practice simple dialogue. Add complexity by checking addresses before delivery.
+   - **Phase 1: Package Creation** (8-12 minutes) - Children select items to "ship" and practice wrapping. While they wrap, explain: "Real packages get wrapped to protect what's inside — cushioning absorbs impact if the box is bumped. Heavy packages might ride in a truck; very fast deliveries go on airplanes because planes fly hundreds of miles per hour." Create a simple "barcode" together — draw lines on a label. "Our barcode is package number 001. Every time it passes a checkpoint, we'll write where it was."
+   - **Phase 2: Addressing and Labeling** (3-5 minutes) - Write addresses including a pretend ZIP code (e.g., "12345"). Explain: "Real ZIP codes were invented in 1963 because the post office was overwhelmed with mail. By turning addresses into numbers, machines could sort mail much faster than humans alone." Practice FROM and TO addresses. Draw a simple barcode on each package.
+   - **Phase 3: Sorting Facility and Delivery** (5-10 minutes) - Set up a "sorting center" midpoint between the "warehouse" and the delivery stops. Packages must pass through sorting (a table) where the address is checked and packages are directed to the right route. Then deliver to designated stops. This models the hub-and-spoke logistics system real carriers use.
 
 3. **Discovery** (3-5 min):
-   Ask reflection questions: "Where did your package go?" "What was your favorite part about being a mail carrier?" "Who do you think receives packages in real life?" Acknowledge the learning and effort: "You worked so hard wrapping and delivering those packages carefully!"
+   Ask reflection questions: "What information did your barcode hold?" "How does a ZIP code help the sorting facility?" "If our package had to go to a different country, what would change?" Connect back to the supply chain: "Before our package got here, where do you think it came from? It probably started as raw materials — plastic, cotton, wood — that were made into something in a factory, then shipped to a warehouse, then ordered and delivered. That whole journey is the supply chain."
 
 4. **Wrap-Up** (2-3 min):
    Do a final delivery round with any remaining packages. Make cleanup part of the experience: "Mail carriers also tidy up the post office when they're done!" Children help gather scraps, organize materials, and return items to storage.

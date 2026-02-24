@@ -6,13 +6,15 @@ This lesson introduces children to collecting and organizing photographs, creati
 
 ## Vocabulary
 
-**Photograph**: A picture taken with a camera that captures what something or someone looks like at that exact moment in time
+**Photograph**: A permanent image created when light enters a camera lens and is recorded — either chemically on film or electronically on a digital sensor. Before photography was invented in 1839, the only way to capture someone's appearance was to paint or draw them. Photography changed human history by making it possible for ordinary people to preserve moments from their lives.
 
-**Collect**: To gather things together and keep them because you find them interesting, special, or important
+**Lens**: A curved piece of glass inside a camera that bends light and focuses it to create a sharp image. The lens in a camera works the same way the lens in your eye does — both bend (refract) light to form a focused picture. Wide lenses capture a broad scene; zoom lenses make distant objects appear closer.
 
-**Organize**: To arrange things in order or into groups that make sense, like by color, person, or activity
+**Pixel**: Short for "picture element" — the smallest unit of a digital photograph. A modern phone camera captures images using millions of tiny light-sensitive cells, each recording color and brightness. When you zoom in very close on a digital photo, you can see the individual pixels as colored squares. A "10 megapixel" camera records 10 million pixels per photo.
 
-**Album**: A special book or folder made to keep photos safe, together in one place, and easy to look at and enjoy
+**Exposure**: The amount of light that reaches the camera's sensor when you take a photo. Too much light makes the photo washed out (overexposed); too little makes it too dark (underexposed). Cameras automatically measure light to set the right exposure — this is why your phone camera adjusts when you point it somewhere bright or dark.
+
+**Classification**: Organizing objects into groups based on shared characteristics. Scientists use classification systems to organize species, minerals, and stars. Photo albums are a personal classification system — you decide which categories matter (by person, date, place, activity) and arrange images accordingly. Every library, museum, and database uses classification.
 
 ## Learning Song
 
@@ -99,18 +101,18 @@ Children will create their own photo collection by sorting, arranging, and displ
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   - Show child a real family photo album or picture book
-   - Point to a photo: "This is you at the park! Remember when we played there?"
-   - Explain simply: "Today we're going to make our own special photo collection that tells our story!"
-   - Show the materials: "We'll pick photos we love and put them together."
+   - Show child a camera (phone or camera). Let them look through the lens: "See how the lens is curved? That curve bends light into the camera and focuses it into a sharp picture. Your eye has a lens too — that's why you can see!"
+   - Take a photo together. If the device allows, zoom in far on the photo: "See these tiny squares? Each square is a pixel. Your picture is made of millions of pixels — tiny dots of color all together."
+   - Brief history: "Before cameras were invented about 200 years ago, the only way to remember what someone looked like was to paint or draw them. Paintings took months. Now a photo takes one second! Photography changed everything about how people remember their lives."
+   - Hold up a printed photo: "This photograph was made when light went through the lens and was recorded by the camera's sensor. It captured that exact moment of light — forever."
 
 2. **Exploration** (8-10 min):
    - Spread photos out where child can see them all
-   - Ask: "Can you find a picture of someone we know?" or "Show me a picture with colors you like"
-   - Guide sorting: "Let's put all the pictures with people together" or "Which ones are from outside?"
-   - Child arranges photos on the album base in their preferred order
-   - Help child attach photos with glue, tape, or sticky dots
-   - As you glue, narrate: "This picture goes here because it's special to you!"
+   - Look at one photo closely: "What did the camera's lens need to capture this picture? Light! Without light, cameras can't work — that's why you can't photograph in total darkness."
+   - Guide classification: "Scientists sort things into groups — they call that classification. Let's classify our photos. We can sort by: who's in them, where they were taken, what we were doing, or what season it was." Let the child choose the classification system.
+   - Child arranges photos on the album base in their chosen order
+   - As you glue, discuss: "Why did you put this one here? What's the rule for this group?" This practices categorical thinking.
+   - Point out photo qualities: "Why does this photo look bright? Lots of light! Why does this one look dark? Not much light — low exposure."
 
 3. **Discovery** (3-5 min):
    - Point to each photo and ask: "Who is in this picture?" "What are we doing?" "Do you remember this?"

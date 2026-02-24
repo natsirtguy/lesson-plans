@@ -2,7 +2,15 @@
 
 ## Activity Summary
 
-Yoga poses and sequences introduce young children to mindful movement, body awareness, and emotional regulation through playful, animal-inspired postures. This activity builds flexibility, balance, core strength, and coordination while teaching children how to calm their minds and connect with their bodies. Yoga is an excellent foundation for lifelong wellness, helping children develop self-awareness, confidence, and healthy stress management tools from an early age.
+Yoga poses and sequences introduce young children to mindful movement, body awareness, and emotional regulation through playful, animal-inspired postures. This activity builds flexibility, balance, core strength, and coordination while teaching children how to calm their minds and connect with their bodies.
+
+**What yoga is and why it works:**
+- **Cultural origin**: Yoga originated in India more than 5,000 years ago as a physical and philosophical practice. The word "yoga" comes from the Sanskrit word *yuj*, meaning to yoke or unite — joining the mind and body. It remains central to Indian culture and has been adopted worldwide. The pose names used in this lesson are Sanskrit, the ancient language of yoga's origins.
+- **Parasympathetic nervous system**: The human nervous system has two modes — sympathetic ("fight or flight," activated by stress) and parasympathetic ("rest and digest," activated during calm). Slow, deep breathing directly activates the parasympathetic system through the vagus nerve, lowering heart rate, reducing the stress hormone cortisol, and creating a genuine sense of calm. This is why yoga breathing is not just relaxing — it's physiologically changing the child's brain and body state.
+- **Proprioception**: Balance poses like Tree Pose train proprioception — the body's internal sense of its own position in space. Specialized receptors in muscles, tendons, and joints send continuous signals to the brain about limb position and movement. The inner ear's vestibular system (three fluid-filled semicircular canals) detects tilting and rotation. Balancing challenges these systems actively, strengthening the neural pathways that govern coordination and body awareness.
+- **Flexibility and muscle adaptation**: Repeated gentle stretching gradually lengthens muscle fibers and the connective tissue (fascia) around them, increasing range of motion over time. Yoga should never cause pain — the beneficial sensation is a mild pull, not sharp discomfort.
+
+Yoga is an excellent foundation for lifelong wellness, helping children develop self-awareness, confidence, and healthy stress management tools from an early age.
 
 **Activity Type**: Mind-body practice
 
@@ -77,9 +85,10 @@ Yoga poses and sequences introduce young children to mindful movement, body awar
 ### Main Activity (8-12 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Introduce the concept of yoga as a way to help our bodies feel strong and our minds feel calm
+- Introduce yoga's origin briefly: "Yoga started in India thousands of years ago. The word yoga means 'union' — joining the mind and body together. The names of the poses are in Sanskrit, the ancient language of India."
 - Show how we'll become different animals and objects through poses
 - Demonstrate one simple pose (like Mountain Pose) so children know what to expect
+- Explain the breathing connection: "In yoga, we breathe slowly on purpose. Slow breathing tells your brain to be calm — it actually changes what's happening inside your body. When we breathe in slowly and out slowly, our heart rate slows down and we feel more peaceful."
 - Key coaching point: "In yoga, we listen to our bodies and never push too hard. It should feel good!"
 
 #### Skill Practice (3-5 minutes)
@@ -102,10 +111,10 @@ Yoga poses and sequences introduce young children to mindful movement, body awar
 - Use transition language: "When I say 'breathe in,' we'll move to the next pose"
 
 **Coaching cues**:
-- "Stand tall like a mountain, strong and still"
-- "Reach your arms like tree branches swaying in the breeze"
-- "Make your back round like a stretching cat, then drop your belly like a happy cow"
-- "You're doing such a great job listening to your body!"
+- "Stand tall like a mountain, strong and still. Feel your feet pressing into the ground — that's your body sensing where it is in space."
+- "Tree Pose challenges your balance — your inner ear and the sensors in your legs are all working together to keep you from tipping! That's called proprioception."
+- "Make your back round like a stretching cat, then drop your belly like a happy cow — feel the difference in your spine?"
+- "Take a slow breath in... and slowly out. Feel your heart rate slow down? That's your nervous system shifting into calm mode."
 
 #### Guided Play/Game (3-5 minutes)
 
@@ -165,12 +174,12 @@ Let children experiment with their own animal poses or favorite poses from the s
 **Challenges to add**:
 - Introduce 6-8 poses in sequence, building a "yoga story"
 - Hold poses for 5-8 breaths, teaching breath awareness
-- Add balance challenges (Tree Pose with eyes closed, standing on one leg)
-- Introduce simple breath awareness: "Breathe in through your nose for a count of 3, out through your mouth for a count of 3"
+- Add balance challenges (Tree Pose with eyes closed — removing vision makes the vestibular and proprioceptive systems work harder)
+- Teach diaphragmatic breathing explicitly: "Put your hand on your belly. When you breathe in deeply, your belly should push out — that's your diaphragm muscle working. Belly breathing turns on your calming nervous system."
+- Introduce Sanskrit pose names alongside the English: "This is Dog Pose — its Sanskrit name is Adho Mukha Svanasana. That's the language yoga came from, from ancient India thousands of years ago."
 - Create longer sequences (6-10 poses in a flowing order)
 - Encourage children to help demonstrate and teach poses to peers
-- Add partner poses with guided practice
-- Introduce simple yoga principles: "Yoga helps us feel calm," "Yoga gives us strong bodies"
+- Connect to real anatomy: "In Cat Pose, you're flexing your spine — bending it like a C-shape. In Cow Pose, you're extending it the other way. Feel how your backbone can curve in different directions?"
 
 **Duration**: 12-15 minutes (children this age can sustain focus longer)
 

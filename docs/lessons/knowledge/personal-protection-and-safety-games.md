@@ -6,13 +6,15 @@ This lesson introduces young children to personal safety concepts through playfu
 
 ## Vocabulary
 
-**Boundary**: An invisible line around your body that shows how close other people can be. When someone asks before giving you a hug, they are respecting your boundary.
+**Boundary**: A limit around your body or personal space that defines what feels comfortable and what doesn't. Boundaries are normal and healthy — every person has them. When someone asks before touching you, they are respecting your boundary. Children have the right to set boundaries even with adults they know.
 
-**Trusted Adult**: A person in your life who keeps you safe, listens to you, and helps you when you need it—like a parent, teacher, or grandparent.
+**Consent**: Freely given permission for something to happen. Real consent means saying yes when you actually want to, without feeling pressured. A yes that comes from feeling scared or pressured isn't real consent. This applies at all ages — toddlers who say "no" to a hug are practicing consent.
 
-**Alert**: Being awake and paying attention to what's happening around you. When you stay alert, you notice when something feels wrong.
+**Private body parts**: The parts of the body covered by a bathing suit — for girls: chest, bottom, and genitals (vulva, vagina); for boys: penis, testicles, bottom. Child safety researchers and pediatricians strongly recommend using anatomically correct terms. Children who know the real names can communicate clearly if something happens and are more likely to be believed and helped. Vague nicknames make it harder for children to report and for adults to understand.
 
-**Consent**: When you agree that someone can do something to you or near you, like giving permission for a hug or holding hands.
+**Body signals**: The physical sensations your body sends when something feels wrong — a stomach that feels tight or upset, a fast heartbeat, a shivery feeling, or a sense of wanting to run away. These signals come from a part of the brain called the amygdala, which scans for danger automatically. Teaching children to notice and trust these signals gives them an early warning system. "If your tummy feels funny or your heart feels scared, that's your body telling you something."
+
+**Safe secrets vs. unsafe secrets**: Safe secrets are temporary surprises that feel good and will be revealed soon (a birthday present). Unsafe secrets are things that someone told you to keep forever and that make you feel scared, confused, or bad inside. A trusted adult would never ask a child to keep an unsafe secret. Children should always be able to tell their safe people about anything — there are no secrets too big to share with a trusted adult.
 
 ## Learning Song
 
@@ -95,6 +97,10 @@ Children engage in interactive games that teach personal safety concepts: recogn
 1. **Introduction** (2-3 min):
    Sit together and say: "Today we're going to play some special games about our bodies and staying safe. Your body is special and belongs to you. Let's talk about that!"
 
+   Introduce the concept of body signals: "Your body is really smart — it sends you signals when something doesn't feel right. Has your tummy ever felt weird or tight when something was scary? That's your brain sending a signal. We're going to learn to listen to those signals."
+
+   Name the private parts simply and directly: "The parts of your body covered by a bathing suit are your private parts. They have real names: [use anatomically correct terms appropriate to the child]. Your private parts belong only to you. Doctors sometimes check them to keep you healthy, and parents help you stay clean — but those are the only times, and it's always okay to ask what's happening."
+
    Ask: "Who are the safe, trusted adults in your life?" Help them identify 2-3 people by name.
 
 2. **Exploration** (10-12 min):
@@ -117,9 +123,13 @@ Children engage in interactive games that teach personal safety concepts: recogn
    **Game 3: Who Are My Safe People** (2-3 min)
    - Draw or point to pictures of trusted adults in your child's life
    - Practice saying their names together
-   - Say: "If something doesn't feel right, you can tell [safe person's name]"
-   - Create a simple visual: Draw or take photos and label "My Safe People"
-   - Practice the phrase together: "I need help" or "That doesn't feel okay"
+   - Introduce the secrets distinction: "There are safe secrets — like a birthday surprise that you'll share soon. And there are unsafe secrets — when someone says 'don't ever tell anyone' and it makes you feel scared or bad inside. If anyone ever asks you to keep an unsafe secret, you tell a safe person right away. Safe people would never want you to keep unsafe secrets."
+   - Practice the phrase together: "I need to tell you something" — and practice an adult responding warmly: "I'm so glad you told me. I believe you."
+
+   **Game 4: Body Signal Check-In** (1-2 min)
+   - Ask: "Can you feel your heartbeat? Put your hand on your chest." Take a deep breath together.
+   - "When something feels wrong, your heart might beat faster and your tummy might feel tight. That's your brain saying 'pay attention!' It's called a body signal."
+   - Practice: "What would your body feel like if someone made you uncomfortable?" vs. "What does your body feel like when you're cozy and safe?"
 
 3. **Discovery** (3-5 min):
    Ask reflection questions:
@@ -136,20 +146,19 @@ Children engage in interactive games that teach personal safety concepts: recogn
 ### Age Adaptations
 
 **2-3 years**:
-- Focus mainly on identifying and naming trusted adults
-- Keep games very short and simple (5 minutes total)
-- Use stuffed animals to act out scenarios instead of involving real people directly
-- Practice simple phrases: "My body" and "Safe person"
-- Keep the tone playful and positive—no scary concepts
-- Don't discuss "unsafe" situations; focus on who to go to for help
+- Focus mainly on identifying trusted adults and naming private body parts correctly
+- Use the real anatomical terms matter-of-factly — no need to make them a big deal
+- Keep games very short (5 minutes total) using stuffed animals to act out scenarios
+- Practice simple phrases: "That's my private part" and "I'll tell [safe person]"
+- Introduce body signals simply: "Does your tummy feel cozy or tight right now?"
+- Keep the tone calm and empowering — not scary
 
 **3-4+ years**:
-- Explore more complex scenarios: "What if a friend wants to hug but you don't feel like it today?"
-- Introduce all vocabulary words (boundary, consent, alert) and use them naturally
-- Practice saying no with more confidence and in varied situations
-- Discuss that people can ask before touching, and it's okay to say yes or no
-- Ask more reflection questions to build critical thinking
-- Encourage their ideas: "What would you do if...?"
+- Use all vocabulary words naturally: boundary, consent, private parts (anatomical names), body signals, safe/unsafe secrets
+- Explore the secrets distinction: practice distinguishing safe secrets (birthday surprise) from unsafe secrets (something that makes your tummy feel bad)
+- Ask about body signals: "What does your body feel like when you're happy? Scared? Uncomfortable?"
+- Practice consent in multiple contexts: hugs, holding hands, tickling, sharing belongings
+- Reinforce: "It's always okay to tell me anything. There is nothing too big or too scary to share with a safe person."
 
 ### Extension Ideas
 
