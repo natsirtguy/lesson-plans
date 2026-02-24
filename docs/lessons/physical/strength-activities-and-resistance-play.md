@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Strength activities and resistance play help young children build muscle tone, coordination, and confidence in their growing bodies. Through pushing, pulling, lifting, and carrying games, children develop functional strength they'll use in daily activities like climbing, playing, and self-care. These activities also build body awareness and give children a sense of accomplishment as they discover what their bodies can do.
+Strength activities and resistance play help young children build muscle tone, coordination, and confidence in their growing bodies. Through pushing, pulling, lifting, and carrying games, children develop functional strength they'll use in daily activities like climbing, playing, and self-care. When muscles work against resistance, tiny muscle fibers are challenged and then repair themselves slightly thicker and stronger — this is called **adaptation**, and it's how all humans (and animals) become stronger over time. These activities also develop **proprioception** — the body's internal sense of where its limbs are and how much force they're producing — which is essential for coordination and motor control.
 
 **Activity Type**: Motor skill development / Gross motor play
 
@@ -43,6 +43,16 @@ Strength activities and resistance play help young children build muscle tone, c
 **Safety equipment**:
 - Soft play mats or blankets to cushion falls
 - Clear space free of hard furniture corners
+
+## Key Concepts to Weave In
+
+**Muscles and how they work**: Muscles are made of bundles of fibers that contract (squeeze and shorten) to create movement. When you push a pillow, your leg muscles — especially the **quadriceps** (front of thigh) and **glutes** (bottom) — contract to generate force. When you pull, your **biceps** (front of upper arm) and **back muscles** do the work. Naming these muscles during play is a great habit: "I can feel my quadriceps working!"
+
+**Resistance**: Resistance is a force that pushes back against movement. When a child pushes a heavy pillow, the pillow resists being moved (due to its mass and friction with the floor). The child's muscles must generate enough force to overcome that resistance. Heavier objects = more resistance = more muscle effort required. This is basic Newtonian physics: force must exceed resistance for movement to happen.
+
+**Isometric vs. isotonic strength**: When muscles contract but the object doesn't move (like pushing against a wall), it's called **isometric** contraction. When muscles contract and produce movement (like lifting a box), it's **isotonic**. Both build strength in different ways. Children are naturally curious about why the wall doesn't move — "the wall is pushing back with exactly as much force as you're pushing with!"
+
+**Proprioception**: The body has special sensors in muscles and joints (called **proprioceptors**) that tell the brain where each body part is and how hard it's working. This is why we can close our eyes and still know where our hands are. Resistance play sharpens these sensors, improving balance and coordination.
 
 ### Space Setup
 
@@ -89,21 +99,21 @@ Strength activities and resistance play help young children build muscle tone, c
 
 #### Introduction & Demonstration (1-2 minutes)
 
-- **How to introduce**: "Today we're going to play games where we push, pull, and lift things! We're going to make our bodies strong, just like superheroes or construction workers."
-- **What to demonstrate**: Show a simple push of a pillow across the floor, lifting a light box, and pulling a stretchy fabric
-- **Key coaching point**: "Strength games feel hard, and that's exactly right! Our muscles get stronger when we work a little bit."
+- **How to introduce**: "Today we're going to play games where we push, pull, and lift things! We're going to make our bodies strong. Do you know how muscles get stronger? When we make them work hard, the muscle fibers inside get bigger and stronger — like our muscles are learning!"
+- **What to demonstrate**: Show a simple push of a pillow across the floor, lifting a light box, and pulling a stretchy fabric. Point to your quadriceps and biceps as you demonstrate: "My quadriceps — the big muscles in my legs — are working right now!"
+- **Key coaching point**: "Strength games feel hard, and that's exactly right! That feeling of effort is your muscle fibers doing their job. They'll be a little stronger next time."
 
 #### Skill Practice (3-5 minutes)
 
 **Skill breakdown**:
-- **Pushing movements**: Using legs and core to move something away from body (wall push, pillow push, object push)
-- **Pulling movements**: Using arms and back to bring something toward body (tugging games, dragging activities)
-- **Lifting and carrying**: Using legs to bend and lift, keeping object close to body, walking while holding
+- **Pushing movements**: Using legs and core to move something away from body (wall push, pillow push, object push). The quadriceps (front thigh), glutes (bottom), and core muscles all generate force together.
+- **Pulling movements**: Using arms and back to bring something toward body (tugging games, dragging activities). The biceps and upper back muscles (latissimus dorsi) do most of the work.
+- **Lifting and carrying**: Using legs to bend and lift, keeping object close to body, walking while holding. Bending the knees transfers the load to the powerful leg muscles instead of the weaker lower back.
 
 **Coaching cues**:
-- **For pushing**: "Use your strong legs! Bend your knees and push like you're pushing a big heavy door open."
-- **For pulling**: "Grab it tight and pull! Your arms are getting stronger with every tug!"
-- **For lifting**: "Bend your knees down low, then stand up strong. You did it! You're so strong!"
+- **For pushing**: "Use your strong quadriceps — those big leg muscles! Bend your knees and push like you're pushing a big heavy door open. Can you feel those leg muscles working?"
+- **For pulling**: "Grab it tight and pull with your biceps — the muscles in the front of your arms! Your muscles are getting stronger with every tug!"
+- **For lifting**: "Bend your knees down low — that puts your powerful leg muscles in charge. Then stand up strong. Your legs are much stronger than your back for lifting!"
 
 #### Guided Play/Games (5-7 minutes)
 

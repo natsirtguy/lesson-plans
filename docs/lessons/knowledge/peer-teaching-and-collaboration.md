@@ -6,13 +6,15 @@ Peer teaching and collaboration activities create opportunities for young childr
 
 ## Vocabulary
 
-**Collaborate**: To work together with another person toward a shared goal or creation. When two children build a structure together or create art as a team, they are collaborating because they're combining their ideas and efforts.
+**Collaborate**: To work together with another person toward a shared goal or creation. When two children build a structure together or create art as a team, they are collaborating because they're combining their ideas and efforts. Human beings are one of the most collaborative species on Earth — our ability to work together in large groups, share knowledge across generations, and divide tasks is central to why our civilization exists.
 
-**Reciprocal**: Giving and receiving from each other in equal or alternating turns. In peer teaching, reciprocal learning means both children take turns being the teacher and the learner, so both benefit.
+**Reciprocal**: Giving and receiving from each other in equal or alternating turns. In peer teaching, reciprocal learning means both children take turns being the teacher and the learner, so both benefit. Research shows that the *teacher* often learns as much as or more than the student, because explaining something to someone else forces you to organize your own understanding — this is called the **protégé effect**.
+
+**Zone of proximal development**: A concept from psychologist Lev Vygotsky describing the space between what a child can do alone and what they can do with help. Learning happens most efficiently in this zone — when a task is slightly beyond your current ability but achievable with support from someone who's just a little further ahead. This is why peer teaching works so well: a child who *just* learned something is often a better explainer than an adult, because they remember the confusing parts.
+
+**Scaffolding**: Temporary support that helps someone accomplish something they couldn't quite do alone. Just as construction scaffolding is removed once a building can stand on its own, learning scaffolds are gradually removed as the child becomes capable. Peers naturally scaffold each other.
 
 **Facilitate**: To help something happen by providing support, guidance, or the conditions needed for success. An adult facilitates collaboration by creating space, asking helpful questions, and stepping back to let children work things out together.
-
-**Model**: To demonstrate or show how something is done so others can learn by watching and imitating. When you show a child how to take turns or listen carefully, you are modeling collaborative behavior they can copy.
 
 ## 🎵 Learning Song
 
@@ -110,7 +112,7 @@ Children work in pairs or small groups on a collaborative task where they must s
 ### Age Adaptations
 
 **2-3 years**:
-Focus on parallel play happening alongside a peer rather than complex collaboration. Choose open-ended activities with no "right way" (art, blocks, sensory play). Keep collaboration time short (10-15 minutes) and expect more conflict that needs adult mediation. Celebrate any shared attention: "You both played with the blocks!" Model language like "Can I help?" and "Your turn/My turn." Expect higher adult support with constant modeling.
+Children this age are mostly in **parallel play** — playing alongside a peer but not truly with them. This is not a failure of collaboration; it's a normal developmental stage. Genuine cooperative play typically emerges around age 3-4. Developmentally, the sequence is: **solitary play** → **parallel play** → **associative play** (loosely sharing materials, some interaction) → **cooperative play** (shared goals, assigned roles). Focus on parallel play happening alongside a peer. Choose open-ended activities with no "right way" (art, blocks, sensory play). Keep collaboration time short (10-15 minutes) and expect more conflict that needs adult mediation. Celebrate any shared attention: "You both played with the blocks!" Model language like "Can I help?" and "Your turn/My turn." Expect higher adult support with constant modeling.
 
 **3-4+ years**:
 Introduce tasks requiring genuine collaboration (building that needs two people, cooking with divided tasks). Ask children to explain their thinking: "Why did you choose that?" Introduce roles: "You're the builder, you're the designer." Encourage peer teaching: "Can you teach your friend how you did that?" Create opportunities for different peer pairings. Children can sustain collaboration longer (25-30 minutes). Gradually reduce your involvement as they become more independent.
@@ -131,7 +133,9 @@ Introduce tasks requiring genuine collaboration (building that needs two people,
 
 **Challenge**: Children argue or conflict arises during collaboration
 
-**Solution**: Pause the activity. Use calm language to acknowledge both children's feelings. Ask them to suggest solutions: "You both want to use the red crayon. What could we do?" Offer options like taking turns or finding another marker. Let them solve it—conflict is actually a learning opportunity for collaboration skills.
+**Why**: Conflict is a natural and necessary part of genuine collaboration — two people with their own ideas will sometimes disagree. Vygotsky's research shows that cognitive conflict between peers (disagreement about *how* to do something) is actually one of the most powerful drivers of learning, because each child must articulate and defend their approach.
+
+**Solution**: Pause the activity. Use calm language to acknowledge both children's feelings. Ask them to suggest solutions: "You both want to use the red crayon. What could we do?" Offer options like taking turns or finding another marker. Let them solve it — conflict is actually a learning opportunity for collaboration skills and perspective-taking.
 
 **Challenge**: One child dominates the activity while the other becomes passive
 

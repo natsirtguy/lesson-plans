@@ -8,11 +8,15 @@ Children learn to gather, classify, and organize objects into groups based on sh
 
 **Collect**: To gather things together in one place. When you collect acorns from under a tree or gather all the blocks into one basket, you are collecting things.
 
-**Categorize**: To sort things into groups based on what they have in common. When you put all the red toys together and all the blue toys together, you are categorizing them.
+**Attribute**: A property or characteristic that describes an object — its color, size, shape, texture, or material. When you say "this rock is smooth and gray," you are describing two attributes. Scientists and mathematicians use attributes to decide which group something belongs to.
 
-**Organize**: To arrange things in a way that makes sense and is easy to find again. When you put books on a shelf by size or toys in labeled containers, you are organizing.
+**Categorize / Classify**: To sort things into groups based on shared attributes. When you put all the red toys together and all the blue toys together, you are classifying them by color. Scientists do this too — biologists classify all living things into kingdoms, phyla, and species based on shared traits.
 
-**Pattern**: A repeating sequence of things that follows a rule. A line of red, blue, red, blue is a pattern because the colors repeat in the same order.
+**Set**: A mathematical word for a group of things that share something in common. "All the round objects" is a set. "All the red AND round objects" is a smaller set called a **subset**. Sets can overlap — a red ball belongs to both the "red things" set and the "round things" set at the same time.
+
+**Organize**: To arrange things in a way that makes sense and is easy to find again. Libraries organize books by subject; biologists organize living things by how they are related; chemists organize elements in the periodic table by their properties.
+
+**Pattern**: A repeating sequence that follows a rule. A line of red, blue, red, blue is a pattern because the colors repeat in the same order. Patterns are how we spot rules hiding in data.
 
 ## Learning Song
 
@@ -60,7 +64,7 @@ Sorting helps us learn to care
 
 ### Activity Overview
 
-Children gather natural and household objects, then organize them into categories of their choosing. This exploration builds classification skills, develops decision-making abilities, and teaches children that there are multiple right ways to organize the same set of items. The activity reinforces vocabulary while celebrating the joy of discovery and order.
+Children gather natural and household objects, then organize them into categories of their choosing. This exploration builds classification skills, develops decision-making abilities, and teaches children that there are multiple right ways to organize the same set of items — just as scientists use different classification systems for different purposes (a biologist classifies a whale as a mammal; a sailor classifies it as a sea creature). The activity introduces the mathematical concept of sets and the idea that objects have multiple attributes that can each become the basis for a different grouping.
 
 **Activity Type**: Hands-on exploration and discovery play
 
@@ -100,7 +104,7 @@ Children gather natural and household objects, then organize them into categorie
    Encourage the child to pick up objects, notice their qualities (color, size, texture, type), and begin grouping them in the containers or on the blanket. Observe their choices without correcting. Ask open-ended questions: "Tell me about that group. What do they have in common?" "Where should this go?" "Could we organize them a different way?"
 
 3. **Discovery** (4-5 minutes):
-   Once the child has created their own groupings, ask them to explain their thinking. Look for patterns: Did they sort by color? Size? Type? Purpose? Ask: "I see you put these together. Why?" Introduce vocabulary: "You categorized them by color!" or "You organized them by size." Point out if they've created a pattern, and explore how the same items could be organized differently.
+   Once the child has created their own groupings, ask them to explain their thinking. Look for patterns: Did they sort by color? Size? Type? Purpose? Ask: "I see you put these together. Why?" Introduce vocabulary: "You classified them by color — that color is an attribute they all share!" or "You organized them by size." Point out if they've created a pattern. Then pose the "same objects, different rule" challenge: "Could we re-sort these into completely different groups?" This demonstrates that objects have multiple attributes, and classification depends on which attribute you choose to focus on — a key idea in science and mathematics.
 
 4. **Wrap-up** (2-3 minutes):
    Praise the organization effort: "You did such a great job gathering and organizing. You made groups that make sense to you." Take a photo if desired. Help return items to a designated collection box or basket that stays accessible for repeat play.
@@ -116,11 +120,12 @@ Children gather natural and household objects, then organize them into categorie
 
 **3-4+ years**:
 - Increase to 20-25 objects with more subtle differences
-- Challenge them to create multiple sorting systems (sort by color, then by size)
-- Ask them to predict where items will go before organizing
+- Challenge them to create multiple sorting systems (sort by color, then by size) and discuss: "Same objects, different rule — both systems work!"
+- Ask them to predict where items will go before organizing (hypothesis testing)
+- Introduce the concept of overlapping sets: "This red ball belongs in the 'red' group AND the 'round' group. Where should it go?" (Introduce the idea of a Venn diagram if interested)
 - Introduce recording ideas with drawings or a sorting chart
 - Explore creating patterns within their groups (alternating colors in a line)
-- Ask them to teach you their sorting logic and why items belong together
+- Ask them to teach you their sorting logic — explain that scientists who classify living things (called taxonomists) do the same kind of careful thinking
 
 ### Extension Ideas
 

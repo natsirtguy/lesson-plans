@@ -6,13 +6,15 @@ Knowledge sharing games are playful, interactive activities where children learn
 
 ## Vocabulary
 
-**Strategy**: A plan or method for achieving a goal; when playing a game, you think about which choice will help you remember or match better next time
+**Memory**: The brain's system for storing and retrieving information. Memory has stages: first your brain **encodes** (records) new information, then it goes into **storage**, and later you **retrieve** (pull it back out) when you need it. Games that make you remember where cards are hidden are exercising your **working memory** — the brain's temporary workspace, like a mental whiteboard.
 
-**Collaborate**: To work together with others toward a shared purpose; in games, players take turns, follow rules, and learn alongside each other
+**Retrieval practice**: Scientists who study learning have discovered that *trying to remember* something is actually one of the best ways to make it stick. When you struggle to recall an answer in a game, your brain works hard to pull it out of storage — and that effort makes the memory stronger. This is called the **testing effect** or retrieval practice. It's why games are often better for learning than just being told the answer.
 
-**Memory**: The ability to recall or remember information you've learned; in matching games, you practice remembering where things are or what you've seen
+**Strategy**: A plan or method for achieving a goal. In a memory card game, a strategy might be to focus on one area of the grid, or to remember the card you just saw. Good strategies are based on understanding the rules — not just guessing.
 
-**Pattern**: A repeated sequence or arrangement of things that we can notice and predict; games help you discover patterns like matching colors or repeating sounds
+**Collaborate**: To work together toward a shared purpose. In cooperative games, players share information ("I saw a frog over there!"), which lets everyone benefit from what each person remembers — a model of how teams of scientists, researchers, and engineers solve problems together.
+
+**Pattern**: A repeated sequence or arrangement that follows a rule. When matching, you're finding patterns between objects. Pattern recognition is one of the most fundamental cognitive skills — it underlies reading (letter patterns), math (number sequences), and science (finding regularities in nature).
 
 ## 🎵 Learning Song
 
@@ -58,7 +60,7 @@ Let's have fun, let's have fun
 
 ### Activity Overview
 
-Children play simple knowledge-sharing games designed to reinforce learning concepts like colors, shapes, sounds, or letters. Through matching, remembering, and taking turns, children build memory skills, pattern recognition, and confidence while enjoying the social fun of playing together with friends and adults.
+Children play simple knowledge-sharing games designed to reinforce learning concepts like colors, shapes, sounds, or letters. Through matching, remembering, and taking turns, children build memory skills, pattern recognition, and confidence. Crucially, the act of trying to remember — even when they get it wrong — is itself the learning. Cognitive scientists call this **retrieval practice**: the effortful search for a memory strengthens it far more than passively re-reading or being told the answer. This is why games with a small "struggle" element are ideal for learning at any age.
 
 **Activity Type**: Collaborative learning / Game-based education / Interactive play
 
@@ -98,7 +100,7 @@ Children play simple knowledge-sharing games designed to reinforce learning conc
    Build excitement by showing the game materials and explaining the concept simply: "We're going to play a game about colors today!" Demonstrate one quick round so children understand the basic action. Keep expectations clear and positive: everyone gets a turn, we play to learn and have fun, and trying is what matters.
 
 2. **Exploration** (5-10 min):
-   Children play while you actively facilitate. Let children take turns or play simultaneously depending on game design. Offer gentle prompts: "What do you think?" or "Remember, you're looking for the one that matches." Provide hints without giving away answers. Celebrate attempts and efforts: "Nice try! You found two that go together!" Keep energy high and pacing moving so children stay engaged.
+   Children play while you actively facilitate. Let children take turns or play simultaneously depending on game design. Offer gentle prompts: "What do you think?" or "Remember, you're looking for the one that matches." Provide hints without giving away answers — the struggle to retrieve is exactly where the learning happens. Celebrate attempts and efforts: "Nice try! Your brain is working hard to remember — that's how memories get stronger!" Keep energy high and pacing moving so children stay engaged.
 
 3. **Discovery** (3-5 min):
    Step back and let children play more independently. Observe and notice learning moments: "You're getting really good at remembering where things are!" or "You know all the animal sounds now!" Celebrate successes and pattern-noticing: "Look, you found all the red ones!" Play multiple rounds if children remain engaged and interested.

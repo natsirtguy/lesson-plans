@@ -46,6 +46,18 @@ Musical theater and integrated performance combines movement, music, storytellin
 - Water bottles for hydration during active movement
 - Clear space free of furniture or obstacles
 
+## Key Concepts to Weave In
+
+**Beat vs. Rhythm**: These are two different things, even though we often confuse them. The **beat** is the steady, regular pulse underneath music — like a heartbeat or a ticking clock. The **rhythm** is the pattern of long and short sounds that play *over* the beat — the da-da-DUM-da-da-DUM of a melody. When you clap to music, you can clap the beat (steady and equal) or clap the rhythm (following the syllables of the song). Try both!
+
+**Tempo and Dynamics**: **Tempo** is how fast or slow music is. Fast music (like a march) tends to feel exciting or urgent; slow music tends to feel calm or sad. **Dynamics** is how loud or soft music is — musicians use Italian words: **forte** (loud) and **piano** (soft). Listening to how tempo and dynamics change in a piece is like reading emotions in a story.
+
+**Major and minor keys**: Music can be in a **major key** (most nursery rhymes and happy songs) or a **minor key** (music that sounds more mysterious, sad, or dramatic). This isn't magic — it's mathematics. Major and minor scales are built from different patterns of intervals (distances between notes), and our brains have learned to associate them with different emotions. You can demonstrate this: play "Twinkle Twinkle" normally (major), then hum a minor version — it sounds completely different!
+
+**What musical theater is**: Musical theater is a form of storytelling that uses songs, spoken dialogue, and dance together. Unlike a concert (where songs stand alone), in musical theater **each song advances the story or reveals something about a character**. When characters sing instead of speak, it means their feelings are too big for regular words. This form has ancient roots — ancient Greek theater used music and movement, and traditions of song-story exist in cultures around the world.
+
+**Expression and the body**: Actors and dancers use their whole bodies to communicate emotion — not just their faces. **Posture** (standing tall vs. slumping), **gesture** (arm movements), and **use of space** (taking up a lot of room vs. making yourself small) all convey different things to an audience even before a word is spoken.
+
 ### Space Setup
 
 **Before starting**:
@@ -96,17 +108,17 @@ Musical theater and integrated performance combines movement, music, storytellin
 #### Skill Practice (2-4 minutes)
 
 **Skill breakdown**:
-1. **Rhythm awareness**: Clap hands together on the beat of a song; start simple with one clap per beat, then add movements like arm raises or body sways synchronized with the music
-2. **Directional movement**: Practice walking forward, backward, and turning while following music cues; add hand gestures to match the direction
-3. **Expression and emotion**: Practice showing feelings through face and body - happy (smile and bounce), sad (slower movements, softer arms), excited (faster movements, bigger gestures), calm (gentle swaying, soft movements)
-4. **Coordination**: Combine movement elements - sing while moving, move while making expressions, synchronize arm and leg movements
+1. **Beat vs. rhythm**: Clap the *beat* (steady pulse, same every time) vs. clap the *rhythm* (follow the syllables of the words). Try with "Twin-kle twin-kle LIT-tle STAR" — the rhythm follows the syllables, but the beat stays steady underneath. Can you hear the difference?
+2. **Tempo and emotion**: Play the same song fast and slow. What does fast feel like? (Excited, urgent.) What does slow feel like? (Calm, heavy, sad.) Your body naturally wants to move differently at different tempos — that's your nervous system responding to musical information!
+3. **Expression and emotion**: Practice showing feelings through face, body, and space — happy (smile, open arms, bouncing, taking up lots of space), sad (slower movements, softer arms, making yourself smaller), excited (faster movements, bigger gestures), calm (gentle swaying, soft voice)
+4. **Coordination**: Combine movement elements — sing while moving, move while making expressions, synchronize arm and leg movements. This is what performers practice for months!
 
 **Coaching cues**:
-- "Feel the beat in your feet - step, step, step!"
-- "Make your face match your movement - big smile for happy, gentle face for calm"
-- "Imagine you're a tree in the wind - sway with the music"
-- "Let your arms be ribbons floating in the air"
-- "You're doing great - keep going!"
+- "Can you find the beat? It's like a heartbeat — steady, steady, steady. Now tap it with your foot!"
+- "Is this music fast or slow? (Forte or piano?) How does it make you feel?"
+- "Make your face match your movement — big smile for happy, gentle face for calm"
+- "Stand tall and open — that's what confident characters look like on stage!"
+- "In musical theater, when feelings get too big for words, characters sing. What would you sing about if you were too happy for words?"
 
 #### Guided Play/Game (5-10 minutes)
 

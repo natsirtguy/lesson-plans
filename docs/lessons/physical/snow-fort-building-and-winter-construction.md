@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Snow fort building and winter construction introduces young children to creative outdoor play during winter months, combining physical activity with imaginative building. Children engage in scooping, packing, stacking, and shaping snow while developing fine and gross motor skills, hand-eye coordination, and problem-solving abilities. This activity builds strength, teaches cause-and-effect relationships, and encourages collaborative play in a winter environment.
+Snow fort building and winter construction introduces young children to creative outdoor play during winter months, combining physical activity with imaginative building. Children engage in scooping, packing, stacking, and shaping snow while developing fine and gross motor skills, hand-eye coordination, and problem-solving abilities. This activity is also a window into real engineering and physics: snow is one of nature's most remarkable building materials, and human cultures have built with it for thousands of years — the Inuit people of the Arctic perfected the **igloo**, a domed snow shelter so effective that it can stay 50°F warmer inside than outside, even in Arctic conditions.
 
 **Activity Type**: Winter Sports / Outdoor Adventure / Motor Skill Development
 
@@ -46,6 +46,18 @@ Snow fort building and winter construction introduces young children to creative
 - Sunscreen for sunny winter days
 - Hand warmers or chemical heat packs
 
+## Key Concepts to Weave In
+
+**What is snow?** Snow is water in its solid form — **ice crystals**. Each snowflake is a crystal with a unique six-sided (hexagonal) structure. When snow falls and piles up, billions of tiny crystals loosely stack on top of each other, trapping air between them. Fresh snow is mostly air: a cubic foot of fresh powder can be 90–95% air!
+
+**Why does snow pack?** When you squeeze snow with your hands or feet, the pressure creates just enough heat to melt the outer surfaces of ice crystals slightly. Those tiny droplets of water then refreeze as a bond between crystals — a process called **sintering**. This is why "packable" snow (around 28–32°F) sticks together and "powder" snow (very cold) doesn't: the powder is too cold for that surface melting to happen.
+
+**Snow as insulation**: Snow's trapped air makes it an excellent **insulator** — it slows heat from moving through it. This is why animals burrow under snow to stay warm in winter, and why the Inuit built **igloos**: body heat from people inside can warm the interior to 50–60°F even when it's -40°F outside. The igloo's domed shape is also key — a dome distributes weight evenly so the structure doesn't collapse under its own snow load. Say to children: "We're doing the same thing engineers and builders do — figuring out what shapes are strong!"
+
+**Structural engineering basics**: Flat walls have a weakness: they can tip over or collapse sideways. Rounded, arched shapes are much stronger because the force of the snow's weight pushes down and outward through the curve instead of straight down at one point. This is why Roman aqueducts, stone bridges, and igloos all use arches — it's one of humanity's oldest engineering discoveries.
+
+**States of water**: Snow (solid) → water (liquid) when it warms up → water vapor (gas) when it evaporates. You can see this during play: snow on mittens melts (solid to liquid), and wet clothes dry (liquid to vapor).
+
 ### Space Setup
 
 **Before starting**:
@@ -88,10 +100,10 @@ Mentally prepare children for outdoor winter play, practice motor skills before 
 ### Main Activity (10-20 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Show children pictures or describe what a snow fort looks like (walls, roof, entrance, room inside)
-- Demonstrate scooping: "Watch how I scoop the snow - I squat down, push the shovel into the snow, and pull toward me"
-- Demonstrate packing: "We pack the snow tight by pushing it with our hands - this makes strong walls"
-- Demonstrate stacking: "We can stack snow blocks and piles to make walls"
+- Show children pictures or describe what a snow fort looks like (walls, roof, entrance, room inside). Mention the igloo: "The Inuit people who live in the Arctic — one of the coldest places on Earth — build shelters from snow called igloos. They figured out that snow can keep you warm even in -40°F weather!"
+- Demonstrate scooping: "Watch how I scoop the snow — I squat down, push the shovel into the snow, and pull toward me"
+- Demonstrate packing: "We pack the snow tight by pushing it with our hands — when we squeeze it, the ice crystals melt a tiny bit and stick together. That's what makes strong walls!"
+- Demonstrate stacking: "We can stack snow blocks to make walls — just like bricks!"
 
 #### Skill Practice (3-5 minutes)
 
@@ -216,7 +228,7 @@ Transition from active play to preparation for going indoors, calm excitement, a
 
 **Challenge**: Child becomes frustrated with structure collapsing
 **Why**: Cause-and-effect understanding is developing; children this age struggle with complex construction problems; patience is still developing
-**Solution**: Build with the expectation that structures will change and fall; frame it as rebuilding and adventure; keep designs simple and sturdy; celebrate partial successes
+**Solution**: Use the collapse as a teaching moment — "The wall fell because all the weight was pushing straight down in one spot. Engineers discovered that rounded shapes are stronger because they spread the weight around — that's why the Inuit build dome-shaped igloos instead of box forts!" Keep designs simple and sturdy; celebrate partial successes and rebuilding as problem-solving.
 **Timeline**: Better understanding of structural stability develops at age 4+
 
 **Challenge**: Child gets wet and uncomfortable from melting snow
