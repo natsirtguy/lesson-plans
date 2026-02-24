@@ -6,13 +6,15 @@ Children create and maintain a simple picture diary to document their daily expe
 
 ## Vocabulary
 
-**Chronicle**: To record or write down events and moments as they happen. When you make a picture diary, you are chronicling your day by drawing what happened.
+**Chronicle**: To record events and moments as they happen, in order. The word comes from the Greek *chronos*, meaning time. When you make a picture diary, you are chronicling your day by drawing what happened.
 
-**Reflect**: To think about something carefully and consider how it makes you feel. When you look back at your journal pages, you reflect on happy memories and special moments.
+**Autobiographical memory**: Memory of the events of your own life — who you are, what you've experienced, and the story of your own self. Autobiographical memory develops rapidly in early childhood and is what makes a person feel like a continuous "self" over time. A picture diary captures autobiographical memories before they fade.
 
-**Memory**: Something you remember from the past—a picture in your mind. Your journal helps you hold onto memories by drawing them before you forget.
+**Narrative**: A story or account of events told in sequence. Humans are uniquely wired to make sense of experience through narrative — "first this happened, then that" — and this is how we organize memory into meaning. Describing a drawing ("I went to the park and then we had ice cream") is building narrative.
 
-**Expression**: Showing your feelings, ideas, and personality through art, words, or actions. Your picture diary is a way to show your own unique expression without anyone telling you what to draw.
+**Encoding**: The process of forming a new memory. Drawing or describing an event re-activates and strengthens the brain's memory trace for that experience — you're essentially re-encoding it a second time through movement, vision, and language.
+
+**Reflect**: To think about something carefully and consider how it makes you feel. Reflection activates the same brain regions used to form the original memory, which strengthens it.
 
 ## Learning Song
 
@@ -61,6 +63,12 @@ My journal holds my memories, yes it can
 
 ### Activity Overview
 
+Humans have been making visual records of their experiences for at least 40,000 years — the cave paintings at Lascaux and Altamira are among the earliest known examples of people documenting what they saw and did. Picture diaries connect children to this ancient human drive to preserve memory and meaning.
+
+Keeping a diary does more than create a record — it actively strengthens memories. When a child draws or describes an experience, they are **re-encoding** it: activating the memory trace again through movement, vision, and language, which makes it more durable and detailed. Scientists call memories of our own life events **autobiographical memory** — the story of our own self over time. This kind of memory develops rapidly in early childhood and forms the foundation of a person's sense of identity.
+
+Humans also make sense of experience through **narrative** — arranging events into "first this, then that" stories. When a caregiver asks "What happened next?" they're not just making conversation; they're helping a child build the cognitive skill of narrative, which is central to both memory and literacy.
+
 Children create the cover and first pages of their own picture journal, then begin documenting a special moment from their day through drawing. They'll discover that journals are personal creations where there are no "right" or "wrong" pictures—only their own authentic memories and feelings. This activity honors each child's voice and creativity.
 
 **Activity Type**: Hands-on creative project with memory documentation
@@ -97,7 +105,7 @@ Children create the cover and first pages of their own picture journal, then beg
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Introduce the idea: "This is YOUR special book where YOU can draw and remember. Every day, we can draw something you saw or did. There's no right or wrong way to draw—this is YOUR way." Invite the child to decorate the cover with their name and favorite colors or stickers. Ask: "What should we call your journal?" Let them decide.
+   Introduce the idea: "This is YOUR special book where YOU can draw and remember. Every day, we can draw something you saw or did. Did you know that people have been making picture records of their lives for thousands and thousands of years? Cave paintings are like the oldest diaries in the world! This is YOUR way of doing that." Invite the child to decorate the cover with their name and favorite colors or stickers. Ask: "What should we call your journal?" Let them decide.
 
 2. **Exploration** (8-12 minutes):
    Say: "Let's make your first page together. Think about something special that happened today—something you saw, someone you played with, or something that made you happy." Give them time to think. Ask guiding questions: "What was the best part of your day?" "What did you play with?" "Who did you spend time with?" Encourage them to draw on the first page. Provide minimal direction—the goal is their authentic expression, not a "finished" picture. If they need prompting, offer: "I see you drew... can you tell me about it?"
@@ -106,7 +114,7 @@ Children create the cover and first pages of their own picture journal, then beg
    As they draw, sit with them and ask follow-up questions: "Tell me about your picture. What's happening here?" "How does this make you feel?" "What was your favorite part?" Point out specific details you notice: "I see you used lots of blue—that's beautiful!" Write or help them write one simple word or sentence describing their entry if they're interested (e.g., "Playing with blocks" or "Sunny day").
 
 4. **Wrap-up** (2-3 minutes):
-   Celebrate the page: "You made a memory! Now we can look at this whenever you want to remember today." Store the journal in a special, accessible place. Say: "Tomorrow we'll make another page for your journal."
+   Celebrate the page: "You made a memory! Did you know that drawing it actually helps your brain remember it better? When you drew that picture, your brain practiced the memory again." Store the journal in a special, accessible place. Say: "Tomorrow we'll make another page for your journal — and we'll be building your autobiographical memory, the story of you."
 
 ### Age Adaptations
 
@@ -152,7 +160,7 @@ Children create the cover and first pages of their own picture journal, then beg
 
 ### Follow-Up Activities
 
-1. **Looking Back**: Once a month, sit together and flip through the journal. Ask: "What do you remember about this picture? How were you feeling that day? What was different then compared to now?" This builds reflection and time awareness.
+1. **Looking Back**: Once a month, sit together and flip through the journal. Ask: "What do you remember about this picture? How were you feeling that day? What was different then compared to now?" This is autobiographical memory in action — each time you revisit a past event and talk about it, the brain re-encodes it, strengthening the memory trace. This is exactly why people who keep diaries report remembering their past more vividly.
 
 2. **Sharing Circle**: If in a group setting (childcare, preschool, library), create time for children to share their journal entries with peers. This validates their work and teaches communication skills.
 

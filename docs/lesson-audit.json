@@ -834,6 +834,11 @@
     "issues": "Title promises logic but lesson never defines logic, deductive reasoning, or process of elimination. Vocabulary (analyze, pattern, persist, strategy) could apply to any lesson — no actual logic content.",
     "fixed": "Added logic, deductive reasoning, process of elimination, and if-then thinking to vocabulary with real definitions; rewrote Discovery step to name logical strategies during play; added 20 Questions extension as explicit deductive reasoning practice; added Fibonacci sequence to pattern vocabulary"
   },
+  "knowledge/making-a-picture-diary-or-journal.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Process-heavy craft activity with no memory science, narrative cognition, or cultural context",
+    "fixed": "Added autobiographical memory, narrative, encoding vocabulary; cave paintings historical context; explained why drawing strengthens memory traces; updated intro and wrap-up scripts"
+  },
   "knowledge/making-and-keeping-friends.md": {
     "verdict": "PASS",
     "issues": "Vocabulary (companionship, cooperation, empathy, connection) IS the real developmental psychology terminology. Activities involve genuine practice of social skills through cooperative planting.",
@@ -869,10 +874,20 @@
     "issues": "Good vocabulary (vendor, transaction, commerce) but no actual economics concepts. Running a pretend stall with uniform pricing taught social skills, not economics.",
     "fixed": "Replaced vocabulary with supply and demand, scarcity, profit, medium of exchange. Rewrote activity to include price-setting based on scarcity, supply-depletion price experiments, profit calculation, and barter vs. money comparison. Added competition and \"double coincidence of wants\" for 3-4+."
   },
+  "knowledge/math-games-and-number-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing key mathematical concepts: subitizing, one-to-one correspondence, cardinality, conservation of number",
+    "fixed": "Added subitizing, one-to-one correspondence, cardinality, conservation of number (Piaget) to vocabulary; added conceptual overview paragraph explaining what counting actually involves; updated discovery and wrap-up to explicitly name concepts in play"
+  },
   "knowledge/media-creation-and-sharing.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary had only 4 basic everyday terms (creator, audience, media, share) — no technical content. No mention of pixels, image sensors, lenses, file formats, compression, digital vs. analog, microphones, or networking. Entire activity was process-based with no explanation of how any technology works.",
     "fixed": "Replaced vocabulary with 10 technical terms: pixel (RGB values 0-255), lens (refraction, aperture), image sensor (photodiodes, electrical signals), resolution (megapixels), file format/compression (JPEG, PNG, MP4 codecs), microphone (sound waves → electrical → binary), transmission/network (Wi-Fi, fiber optics, speed of light). Rewrote introduction to explain lens and image sensor; rewrote wrap-up to narrate full transmission path."
+  },
+  "knowledge/memory-games-and-exercises.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "A lesson about memory with almost no cognitive science: missing working memory, encoding, retrieval, hippocampus, recognition vs recall distinction",
+    "fixed": "Replaced generic vocabulary with working memory, encoding, retrieval, recognition, recall, hippocampus; added scientific overview of memory systems and how retrieval practice strengthens memories; connected each game to the memory type it exercises"
   },
   "knowledge/memory-strategies.md": {
     "verdict": "FAIL -> FIXED",
@@ -893,6 +908,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary basic (architect, balance, structure, miniature). No structural engineering, no scale/ratio mathematics, no physics of why things stand or fall. Activity was stacking blocks with no engineering content.",
     "fixed": "Replaced vocabulary with scale (ratio, proportional reasoning, architect models), compression (pushing force, pyramids), center of gravity (balance point, stability physics), load-bearing (structural support, weight distribution). Rewrote activity to include center-of-gravity experiments, compression explanations, lintel construction, and triangle-as-strongest-shape demonstrations."
+  },
+  "knowledge/money-and-trade.md": {
+    "verdict": "PASS",
+    "issues": "Strong vocabulary (trade, currency, transaction, negotiate) with genuine economic content; activity involves real decision-making about value and exchange",
+    "fixed": "N/A"
   },
   "knowledge/money-counting-and-budgeting-games.md": {
     "verdict": "FAIL -> FIXED",
@@ -1874,10 +1894,25 @@
     "issues": "No vocabulary section at all. No anatomy, no physics of balance, no history of tai chi (400+ years). \"Move slowly\" without explaining why slow movement is neurologically harder. Coaching cues were generic imagery with no science.",
     "fixed": "Added full vocabulary section: slow-twitch muscle fibers (Type I, aerobic metabolism, endurance), proprioception (muscle spindles, Golgi tendon organs, cerebellum feedback), center of gravity (balance physics, wide stance stability), tai chi history (Chen Wangting 1600s, five family styles, yin-yang philosophy). Rewrote coaching cues with muscle names (deltoids, quadriceps, gluteus maximus) and proprioception awareness."
   },
+  "physical/tennis-and-racquet-sports.md": {
+    "verdict": "PASS",
+    "issues": "Uses real developmental terminology (bilateral coordination, neuromuscular control); challenge section explains the WHY behind each difficulty with appropriate physiological context",
+    "fixed": "N/A"
+  },
   "physical/track-and-field-running-jumping-throwing.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No physics or physiology; running/jumping/throwing described only as motor patterns with no biomechanical explanation",
     "fixed": "Added Newton's 3rd law/ground reaction force for running, stretch-shortening cycle for jumping, kinetic chain for throwing, projectile motion, fast-twitch vs slow-twitch fibers, aerobic vs anaerobic respiration, lactic acid"
+  },
+  "physical/ultimate-frisbee-and-disc-sports.md": {
+    "verdict": "PASS",
+    "issues": "Uses hand-eye coordination, bilateral coordination, spatial awareness, motor planning correctly; challenge section provides developmental explanations for each difficulty",
+    "fixed": "N/A"
+  },
+  "physical/visual-motor-skill-development.md": {
+    "verdict": "PASS",
+    "issues": "Strong use of real terms: visual-motor integration, bilateral coordination, motor planning, peripheral vision; clearly explains what each term means and why it matters developmentally",
+    "fixed": "N/A"
   },
   "physical/volleyball-and-net-sports.md": {
     "verdict": "FAIL -> FIXED",

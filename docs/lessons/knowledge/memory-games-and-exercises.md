@@ -6,13 +6,17 @@ Memory games and exercises develop early cognitive skills like attention span, r
 
 ## Vocabulary
 
-**Recall**: The ability to remember and bring information back to mind. When you recall, you're thinking about something you saw or experienced before. Example: When you find a matching pair and remember where you saw it, you're using your recall.
+**Working memory**: The part of memory that holds information for a few seconds while you're actively using it — like a mental scratch pad. When you look at a card, flip it over, and hold that image in your mind while searching for its match, you're using working memory.
 
-**Pattern recognition**: The skill of spotting similarities and noticing which things go together or match. Example: When you see that two red blocks are the same and belong together, you're recognizing a pattern.
+**Encoding**: The process of storing a new experience or image in the brain. Looking carefully at an object before it's hidden is encoding — your brain is creating a memory trace.
 
-**Concentration**: Focusing your attention on one thing for a period of time without getting distracted. Example: When you're looking carefully at objects to find matches, you're using concentration.
+**Retrieval**: Bringing a stored memory back into consciousness. When you try to remember where a hidden object is, your brain is searching its storage and retrieving. Retrieval practice (testing yourself) actually strengthens memories each time you do it.
 
-**Sequence**: A series of things arranged in a particular order. Example: If you remember that the blue block is first, the yellow block is second, and the red block is third, you've created a sequence in your memory.
+**Recognition**: A type of memory where you identify something you've seen before — the answer is present in front of you. Matching games use recognition: you see a card and identify which other card it matches.
+
+**Recall**: A harder type of memory than recognition — bringing back information without any visual prompt. Finding a hidden object without seeing it uses recall: the target is absent, and your brain must reconstruct where it was.
+
+**Hippocampus**: A region deep in the brain, shaped like a seahorse (hippo = horse, campus = sea monster in Greek), that plays a central role in forming new memories. Every time something new is learned, the hippocampus helps transfer it from working memory into long-term storage.
 
 ## 🎵 Learning Song
 
@@ -63,7 +67,11 @@ Using your brain feels so right
 
 ### Activity Overview
 
-In this hands-on memory activity, children explore matching games, learn to remember object locations, and build concentration skills through playful exploration. They'll practice visual matching with familiar objects, develop early memory recall, and experience the joy of discovery as they find matching pairs and remember where hidden objects are located.
+Memory isn't a single thing — scientists have identified multiple distinct systems in the brain. **Working memory** holds a handful of items for a few seconds. **Long-term memory** stores information for hours or years. The **hippocampus**, a seahorse-shaped structure deep in the brain, helps convert what we pay attention to into lasting memories. Crucially, every time we successfully *retrieve* a memory — bring it back to mind — that memory gets slightly stronger and easier to access in the future. This is why retrieval practice (like hiding-and-finding games) is one of the most effective ways to build memory.
+
+The games in this lesson target different memory skills: matching visible objects exercises **recognition** (a relatively easy memory task); hiding objects and asking children to find them exercises **recall** (a harder task requiring the brain to reconstruct where something was without any visual prompt). Naming this distinction for children — "now we're going to remember something we can't see!" — introduces them to how their own brains work.
+
+In this hands-on activity, children explore matching games, learn to remember object locations, and build concentration skills through playful exploration. They'll practice visual matching with familiar objects, develop early memory recall, and experience the joy of discovery as they find matching pairs and remember where hidden objects are located.
 
 **Activity Type**: Cognitive Challenge / Learning Game / Brain-Building Play
 
@@ -107,7 +115,7 @@ In this hands-on memory activity, children explore matching games, learn to reme
    Start with 3-4 pairs visible (not hidden yet). Demonstrate: "I'm going to find two blocks that match. Here's one... now I'm looking for its friend." Invite the child to help: "Can you find the other red block?" Celebrate successes with genuine enthusiasm. Keep it playful and switch games if interest wanes.
 
 4. **Memory Challenge** (remaining time):
-   For younger 2-year-olds: Hide ONE object under a cloth and let them find it immediately. For 3+ year-olds: Hide 2-3 objects in different locations and ask the child to remember where they are. Use simple language: "Can you remember where the red block is?" Offer hints when needed.
+   For younger 2-year-olds: Hide ONE object under a cloth and let them find it immediately. For 3+ year-olds: Hide 2-3 objects in different locations and ask the child to remember where they are. Use simple language: "Can you remember where the red block is?" Offer hints when needed. This is a **recall** task — the object is absent and the brain must reconstruct its location from memory. You can name it: "Your brain remembered where we put it — that's your hippocampus working!" Each successful retrieval strengthens the memory trace, so repeating the game makes memories stronger over time.
 
 5. **Wrap-Up** (2-3 minutes):
    Signal gently that playtime is ending. Reflect together: "You were so good at finding matches!" Ask a simple memory question: "What was your favorite thing we found today?" Make cleanup fun and let the child help gather objects back into a basket or container.
@@ -130,7 +138,9 @@ Increase to 6-8 pairs of objects for more challenging matching games. Introduce 
 
 **Variation 4 - Themed Variations**: Use objects that reflect your child's current interests (animals, vehicles, favorite characters) or seasonal themes (fall leaves and flowers, winter snowflakes, springtime animals).
 
-**Repeat play**: Rotate games monthly to keep them fresh. Use objects or images representing diverse cultures and families. Notice and celebrate improvements in attention span and memory over weeks and months.
+**Variation 5 - Sound and Texture Recall**: Ask the child to close their eyes and feel two objects, then find them again by touch alone. This exercises tactile memory — a separate memory channel from visual memory, but still processed and stored by the hippocampus.
+
+**Repeat play**: Rotate games monthly to keep them fresh. Use objects or images representing diverse cultures and families. Notice and celebrate improvements in attention span and memory over weeks and months. Improvements reflect real physical changes in the brain — neural connections strengthening through use.
 
 ## 📝 Parent/Caregiver Notes
 
