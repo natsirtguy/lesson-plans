@@ -2,7 +2,9 @@
 
 ## Activity Summary
 
-Brazilian Jiu-Jitsu and ground fighting introduce children to controlled movements and techniques performed on the ground, emphasizing leverage, balance, and partner cooperation. This activity builds core strength, develops spatial awareness and body control, and teaches problem-solving through movement. Children learn to move confidently on the ground, understand leverage and physics through their bodies, and practice respectful partner interactions while building strength and flexibility.
+Brazilian Jiu-Jitsu (BJJ) is a martial art built on a remarkable physical principle: a smaller, lighter person can reliably defeat a larger, stronger one through superior technique and understanding of **leverage**. BJJ traces its lineage from Japanese **Judo**, which was brought to Brazil in the early 20th century by Mitsuyo Maeda and refined by the Gracie family into a system emphasizing ground fighting and submission holds. The core physics concept is **mechanical advantage**: by positioning your body correctly — using your skeletal structure as a lever and your opponent's joints as a fulcrum — you can generate forces far exceeding what raw muscle alone could produce. Archimedes said "give me a lever long enough and I will move the world"; BJJ practitioners say the same about technique over strength.
+
+Beyond the physics, BJJ powerfully develops **proprioception** — the body's internal sense of its own position and movement in space — because ground fighting requires constant awareness of where every limb is, how weight is distributed, and how shifting one part of the body affects everything else. This activity builds core strength, develops spatial awareness and body control, and teaches problem-solving through movement.
 
 **Activity Type**: Partner-based martial art / Gross motor play / Core strength and flexibility development
 
@@ -80,19 +82,20 @@ Brazilian Jiu-Jitsu and ground fighting introduce children to controlled movemen
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain: "Brazilian Jiu-Jitsu is about using leverage and technique instead of strength. We're going to practice ground movements where we work with our partner on the mat. The most important things are safety, respect, and communication with your partner. We move slowly and carefully."
+- Explain: "Brazilian Jiu-Jitsu is about using leverage and technique instead of strength. It was developed by a family in Brazil called the Gracies, who learned it from Japanese judo and turned it into a system where smaller people can beat bigger ones — using physics instead of muscle power."
 - Demonstrate: Show a simple ground position (guard position) and a gentle, controlled transition
-- Key coaching point: "In Brazilian Jiu-Jitsu, technique is more important than strength. You can move someone bigger than you if you use the right technique and leverage"
+- Key coaching point: "In Brazilian Jiu-Jitsu, technique is more important than strength. When you use leverage — using your body like a lever — you can create more force than your muscles alone could make. That's physics!"
+- Proprioception moment: "Right now, without looking, can you feel where your hands are? That feeling is called proprioception — your brain knows where every part of your body is. BJJ makes that sense stronger."
 
 #### Skill Practice (4-7 minutes)
 
 **Skill breakdown**:
 - **Ground positioning**: Comfortable positions on the mat (sitting, kneeling, controlled lying)
-- **Base and balance**: Understanding center of gravity while on the ground
-- **Guard position**: Being on back with partner between your legs (fundamental position)
+- **Base and balance**: Understanding **center of gravity** — the point in your body where weight is balanced. Lower your center of gravity (crouch, spread out) and you become much harder to move.
+- **Guard position**: Being on back with partner between your legs (fundamental BJJ position) — uses legs as levers to control partner's movement
 - **Top position**: Being above partner while maintaining control and support
-- **Controlled transitions**: Moving between positions slowly and safely
-- **Grip and hold**: Proper ways to hold partner's arm or body without being uncomfortable
+- **Controlled transitions**: Moving between positions slowly and safely — proprioception training
+- **Grip and hold**: Proper ways to hold partner's arm or body without being uncomfortable; grips are the foundation of leverage
 
 **Coaching cues**:
 - "Control your center - feel where your balance point is"

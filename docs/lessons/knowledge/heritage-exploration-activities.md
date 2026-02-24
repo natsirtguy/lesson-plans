@@ -2,17 +2,23 @@
 
 ## Activity Summary
 
-Heritage exploration activities invite young children to discover and celebrate the cultural traditions, stories, and practices that make their families and communities unique. Through sensory exploration of cultural objects, music, foods, and traditions, children develop appreciation for diversity, respect for different ways of living, and pride in their own identity. This foundation builds cultural awareness and understanding that families have different but equally valuable customs and traditions.
+Heritage exploration activities invite young children to discover and celebrate the cultural traditions, stories, and practices that make their families and communities unique. Every human society throughout history — from ancient hunter-gatherer groups to modern cities — has developed music, storytelling, ritual, and craft. These aren't accidents: **cultural traditions** serve real functions, including transmitting practical knowledge, building group identity, and maintaining social bonds across generations. The scientific study of human cultures is called **anthropology**, and the objects cultures leave behind are called **material culture** — physical evidence of how people lived, worked, and celebrated. Through sensory exploration of cultural objects, music, foods, and traditions, children develop appreciation for diversity, respect for different ways of living, and pride in their own identity while encountering real concepts from cultural anthropology.
 
 ## Vocabulary
 
 **Heritage**: The traditions, values, customs, and practices that families and communities pass down from generation to generation. When you wear a special outfit for a family celebration or cook a favorite family recipe, you're sharing your heritage.
 
-**Tradition**: A practice, story, or custom that families repeat and value over time because it's important and meaningful to them. Birthdays, holiday celebrations, and special family meals are traditions that bring families together.
+**Tradition**: A practice, story, or custom that families repeat and value over time because it's important and meaningful to them. Birthdays, holiday celebrations, and special family meals are traditions that bring families together and help groups maintain shared identity.
 
-**Culture**: The special ways that families and communities live, celebrate, express themselves, and make meaning together. This includes the food they eat, the languages they speak, the music they play, and the traditions they value.
+**Culture**: The special ways that families and communities live, celebrate, express themselves, and make meaning together. This includes the food they eat, the languages they speak, the music they play, and the traditions they value. Every known human society has developed culture — it's a universal human trait.
 
-**Artifact**: A meaningful object or item that represents or tells the story of a person or family's heritage. Examples include jewelry, textiles, musical instruments, family photos, or cooking tools that have special significance.
+**Anthropology**: The scientific study of human cultures, past and present. Anthropologists study how different groups of people live, what they believe, and how their traditions developed.
+
+**Artifact**: A meaningful object or item made or used by people that tells us about their lives and culture. Jewelry, textiles, musical instruments, family photos, and cooking tools are artifacts. Artifacts are how historians and archaeologists learn about ancient cultures.
+
+**Oral tradition**: The passing of stories, history, songs, and knowledge by word of mouth across generations — before writing existed, all human knowledge was transmitted this way. Grandparents telling family stories is a form of oral tradition.
+
+**Cultural transmission**: The process by which knowledge, skills, and practices are passed from one generation to the next through teaching, imitation, and participation in traditions.
 
 ## 🎵 Learning Song
 
@@ -68,7 +74,7 @@ Family traditions just for you.
 
 ### Activity Overview
 
-In this activity, children explore meaningful cultural objects and family heritage items through sensory discovery and storytelling. By examining, touching, listening to, and learning stories about cultural artifacts, children develop respect for different traditions while strengthening their own cultural identity. Children create their own response through art, movement, or craft.
+In this activity, children explore meaningful cultural objects and family heritage items through sensory discovery and storytelling — doing what anthropologists call **fieldwork**, learning about a culture by examining its material culture and listening to its stories. Before writing was invented, all knowledge was passed through oral tradition: spoken stories, demonstrated skills, and shared ritual. The artifacts you examine today are primary sources — objects that carry cultural memory across generations. By examining, touching, listening to, and learning stories about cultural artifacts, children develop respect for different traditions while strengthening their own cultural identity.
 
 **Activity Type**: Cultural practice, sensory exploration, social-emotional learning
 

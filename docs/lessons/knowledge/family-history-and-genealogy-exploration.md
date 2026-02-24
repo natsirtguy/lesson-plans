@@ -2,17 +2,23 @@
 
 ## 🎯 Activity Summary
 
-Children become family historians by exploring their own family history through storytelling, interviews, photo investigations, and simple family tree creation. They'll collect stories about ancestors, examine family photos, learn where their family came from, and discover how they're connected to people across generations. This activity builds identity, deepens appreciation for family heritage, and strengthens understanding of family connections and cultural roots.
+Children become family historians by exploring their own family history through storytelling, interviews, photo investigations, and simple family tree creation. Genealogy is a genuine research discipline that combines **history**, **genetics**, and **detective work** — professional genealogists use census records, immigration documents, birth certificates, and DNA testing to trace family lines back hundreds of years. The reason you physically resemble your relatives is **genetic inheritance**: traits like eye color, nose shape, and skin tone are encoded in **DNA** (deoxyribonucleic acid) — molecules passed from parents to children that carry the biological "instructions" for building a human body. Family history is thus both a social and biological story: the choices ancestors made (where to migrate, who to marry, what work to do) shaped the family that exists today, while their genes continue to literally live on in the next generation.
 
 ## Vocabulary
 
-**Genealogy**: The study of your family history—learning who your relatives are and where they came from. It's like being a detective finding clues about your family tree, the grandparents of your grandparents, and all the people connected to you.
+**Genealogy**: The scientific study of family history — learning who your relatives are, where they came from, and how they're connected. Real genealogists use census records, immigration documents, birth certificates, and DNA tests as evidence. It's like being a history detective.
 
-**Heritage**: The special things your family passes down to you from generation to generation, like stories, traditions, foods, celebrations, or ways of doing things that make your family unique and special.
+**DNA (deoxyribonucleic acid)**: The molecule inside every cell of your body that carries instructions for how you look and develop. You inherit DNA from both parents, which is why you might have grandma's eyes or grandpa's nose — those traits were encoded in DNA passed down through generations.
 
-**Ancestor**: A person in your family who lived a long time ago, like your great-grandparents, grandparents, or great-great-grandparents. They're part of your family history and helped make your family what it is today.
+**Genetic inheritance**: The process by which traits are passed from parents to children through genes (sections of DNA). That's why families often share physical characteristics like hair color, height, or facial features.
 
-**Generation**: A group of people born around the same time period, like all the grandparents being one generation, all the parents being another generation, and all the children being a younger generation.
+**Heritage**: The traditions, knowledge, and practices families pass down from generation to generation — both through DNA (biological inheritance) and through teaching and storytelling (cultural transmission).
+
+**Ancestor**: A person in your family who lived before you — parents, grandparents, great-grandparents, and all the generations before them. Their DNA literally lives on in you, and their choices shaped your family's history.
+
+**Generation**: A group of people born around the same time period. Genealogists count generations to trace how far back a family line extends — great-grandparents are typically 3 generations back.
+
+**Primary source**: An original piece of evidence — a photograph, letter, birth certificate, or recording — created at the time of the event. Genealogists rely on primary sources to verify family history, rather than stories alone.
 
 ## 🎵 Learning Song
 
@@ -60,7 +66,7 @@ In your family tree they're found.
 
 ### Activity Overview
 
-In this activity, children explore their family's past by looking at photos, listening to family stories, interviewing relatives, and creating a simple family tree. They'll learn about relationships across generations, understand where they fit in their family, and develop a sense of belonging and cultural identity through discovering their own unique family heritage.
+In this activity, children explore their family's past by looking at photos, listening to family stories, interviewing relatives, and creating a simple family tree — using real genealogical methods. Photos and documents are **primary sources**: original evidence that historians and genealogists use to verify what really happened. Oral history (stories from family members) is another key tool; before writing was widespread, oral tradition was how all family and community history was preserved. Pointing out physical resemblances to ancestors ("you have grandma's chin — that's genetic inheritance, from the DNA she passed down") connects the social experience of family to real biology.
 
 **Activity Type**: Cultural practice / Family research / Storytelling / Social-emotional learning
 
@@ -105,9 +111,10 @@ In this activity, children explore their family's past by looking at photos, lis
    - Invite: "Let's explore your family history together!"
 
 2. **Photo Exploration and Stories** (5-8 min):
-   - Look through photos together
+   - Look through photos together — these are primary sources, real evidence from the past
    - Child points to people and asks: "Who is this? Do you know them?"
    - Share stories: "This is your grandmother, and she loves to garden."
+   - Point out physical resemblances: "See how you have grandma's nose? That's genetic inheritance — she passed that trait through DNA to your parent and then to you!"
    - Talk about what child notices in the photos: "What's happening here?"
    - Answer questions about family members and their roles
 

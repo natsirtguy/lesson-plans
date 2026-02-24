@@ -2,7 +2,11 @@
 
 ## Activity Summary
 
-Boxing and striking sports introduce young children to fundamental striking techniques including punches, palm strikes, blocks, and defensive movements from various martial arts traditions. This activity builds hand-eye coordination, gross motor strength, core stability, and body awareness while teaching children how to control force and direction of movement. Striking sports develop confidence, focus, and provide an excellent outlet for releasing energy in a structured, safe environment.
+Boxing and striking sports introduce young children to fundamental striking techniques including punches, palm strikes, blocks, and defensive movements from various martial arts traditions. Striking sports are among humanity's oldest athletic pursuits — boxing appeared in the ancient Greek Olympics in **688 BC**, was depicted in ancient Egyptian paintings, and versions of striking combat appear in virtually every human civilization throughout history.
+
+The science of striking is grounded in physics. **Force = mass × acceleration** (Newton's Second Law): a punch generates force not just from arm muscle, but by accelerating body mass through the kinetic chain — the sequential transfer of force from legs, through hips and core, through the shoulder and arm to the fist. This is why boxers are taught to "punch with your hips": the large muscles of the legs and core generate far more mass in motion than the arm alone. **Newton's Third Law** explains why form protects the striker: for every action there's an equal and opposite reaction, so a loose wrist or misaligned fist means that impact force bounces back harmfully into your own joints.
+
+This activity builds hand-eye coordination, gross motor strength, core stability, and body awareness while teaching children how to control force and direction of movement.
 
 **Activity Type**: Sport-based / Motor skill development
 
@@ -85,12 +89,13 @@ Boxing and striking sports introduce young children to fundamental striking tech
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- **How to introduce**: "Today we're going to learn to strike like martial artists! We'll learn how to make a strong fist, aim our strikes, and move safely"
+- **How to introduce**: "Today we're going to learn to strike like martial artists! Humans have been practicing striking sports for thousands of years — boxing was in the ancient Greek Olympics over 2,700 years ago! We'll learn how to make a strong fist, aim our strikes, and move safely."
 - **What to demonstrate**:
   - Show proper fist formation (thumb on outside, fingers curled firmly in palm - NOT loosely)
   - Demonstrate three basic strikes: straight punch (jab), cross punch, and open-hand palm strike
   - Show basic defensive position: hands up by face, elbows in, slight knee bend
-- **Key coaching point**: "Strikes come from your whole body, not just your arm. Rotate your hips and shoulders when you punch to make it strong!"
+- **Key coaching point**: "Strikes come from your whole body, not just your arm. When you rotate your hips, you're moving more body mass — and more mass moving faster means more force. That's physics: force equals mass times acceleration!"
+- **Newton's Third Law moment**: "Here's something important: when your fist hits the bag, the bag pushes back on your fist with equal force. That's why we keep our wrists straight — to protect ourselves from our own punch coming back at us!"
 
 #### Skill Practice (3-6 minutes)
 

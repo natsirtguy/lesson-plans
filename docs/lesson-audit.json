@@ -424,6 +424,11 @@
     "issues": "\"Dramatic play\" (meta-term defining the lesson type) and \"Gathering\" (everyday word) in vocabulary. No developmental psychology about symbolic play, no anthropology, no oxytocin. Activity had no intellectual content beyond social script practice.",
     "fixed": "Replaced \"Gathering\" with ritual (universal human behavior, oxytocin/endorphin release, anthropological definition). Replaced \"Dramatic play\" with theory of mind (ages 2-5 development, false belief task, what pretend play trains neurologically). Enhanced hospitality with evolutionary/anthropological context. Enhanced tradition with cultural transmission framing. Rewrote guided social play to include ritual framing and theory of mind prompting questions."
   },
+  "knowledge/family-history-and-genealogy-exploration.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing science of heredity (DNA, genetic inheritance), genealogy as a research discipline with methodology (primary sources, census records, DNA testing), historical context for family migration",
+    "fixed": "Added DNA/genetic inheritance, primary source concept, genealogy as investigative discipline; expanded vocabulary with DNA, genetic inheritance, primary source, oral history; activity overview reframed around real genealogical methods"
+  },
   "knowledge/family-interaction-games.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was everyday (\"interaction,\" \"connection,\" \"reciprocal,\" \"engagement\"). Peek-a-boo mentioned but its developmental significance (object permanence — Piaget's foundational milestone) completely missed. No serve-and-return science, no attachment theory, no imitation/mirror neuron framing.",
@@ -534,6 +539,11 @@
     "issues": "Pure dress-up play as community helpers. No sociology, no economics of community organization, no real knowledge about what specialists actually know or why communities exist.",
     "fixed": "Replaced vocabulary with altruism (kin selection, reciprocal altruism), division of labor, interdependence, civic duty. Rewrote activity to build an interdependent community where removing one role affects all others. Added public goods concept and historical context for 3-4+."
   },
+  "knowledge/heritage-exploration-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No anthropological framework: missing cultural transmission, why humans universally develop traditions, oral traditions, material culture, anthropology as a field",
+    "fixed": "Added anthropology, cultural transmission, oral tradition, material culture, artifact as primary source; rewrote activity overview to frame exploration as anthropological fieldwork; vocabulary expanded with 3 new terms"
+  },
   "knowledge/hobbies-and-collections.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was \"collection, hobby, organize, treasure\" — all everyday words. No taxonomy, classification science, or psychology of collecting. Activity was picking things up and sorting by color with no intellectual content.",
@@ -589,6 +599,11 @@
     "issues": "All four vocabulary words (imagine, transform, pretend, scenario) were everyday words. No cognitive science of pretend play whatsoever — no theory of mind, no executive function, no explanation of what the brain does during imagination.",
     "fixed": "Replaced vocabulary with symbolic representation (cognitive foundation of language and math), theory of mind (understanding others' mental states, Bandura), executive function (working memory, cognitive flexibility, inhibitory control — prefrontal cortex), counterfactual thinking (foundation of scientific reasoning and engineering). Rewrote activity to explicitly identify each cognitive process during play."
   },
+  "knowledge/imitation-and-modeling-physical-movements-creative-expression-social-behaviors-practical-skills.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No brain science: missing mirror neurons, observational learning, motor cortex/memory — activities with no intellectual framing for why imitation is fundamental to human development",
+    "fixed": "Added mirror neurons, motor cortex, observational learning, motor memory vocabulary; added neurological context to activity overview and follow-up notes; humans as uniquely skilled imitators from birth"
+  },
   "knowledge/information-gathering-games.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was decent (observe, investigate, clue, pattern) but no scientific method framework. No distinction between observation and inference. No hypothesis testing. Activity taught \"finding things\" without the intellectual structure of information gathering.",
@@ -623,6 +638,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was entirely generic (interview, interviewer, communication, listen) — no real content about what makes interviews effective. Activity was just asking \"what's your favorite food?\" with no teaching of actual interview technique. No mention of open vs. closed questions, active listening, follow-up questions, or real-world interview contexts.",
     "fixed": "Replaced vocabulary with open-ended question, closed question, follow-up question, active listening — the actual concepts of effective interviewing. Updated activity to explicitly contrast open vs. closed questions and show why open-ended questions get richer answers. Added follow-up question practice and real-world context (journalism, science, medicine)."
+  },
+  "knowledge/job-role-play-and-career-exploration.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No economic concepts: missing division of labor, specialization, economic interdependence, goods vs services — just themed play with thin vocabulary",
+    "fixed": "Added division of labor, specialization, economic interdependence, goods and services to vocabulary and activity overview; framed job exploration as economics education; added prompts to connect interdependent jobs during play"
   },
   "knowledge/knowledge-sharing-games.md": {
     "verdict": "FAIL -> FIXED",
@@ -868,6 +888,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Had real terms (luminous, celestial, orbit, constellation) but content was mostly craft-based (placing glow stars on paper). Never explained nuclear fusion, gravity, star vs. planet distinction, or solar system scale.",
     "fixed": "Replaced vocabulary with nuclear fusion (hydrogen to helium, 600M tons/second, E=mc²), gravity (Newton 1687, Einstein 1915, space bending), light-year (9.5 trillion km, seeing back in time), solar system (4.6 billion years, rocky inner vs. gas outer). Rewrote activity with fusion explanation, star-vs-planet distinction, and scale model (basketball sun, marble Earth 30 feet away)."
+  },
+  "knowledge/plant-growth-and-types.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Photosynthesis called 'magical process' — no actual chemistry; missing chlorophyll, CO2/O2 exchange, glucose, why plants are green; root system missing osmosis and minerals",
+    "fixed": "Fixed photosynthesis definition to include chlorophyll, carbon dioxide, glucose, oxygen byproduct, why plants are green; added chlorophyll as separate vocabulary term; added osmosis and root hairs to root system definition; added oxygen-from-photosynthesis fact in Discovery step"
   },
   "knowledge/poetry-and-rhyming-games.md": {
     "verdict": "FAIL -> FIXED",
@@ -1293,6 +1318,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No physics of rolling — no momentum, friction, force transfer, trajectory. Coaching cues were generic (\"soft and smooth\") with no science content.",
     "fixed": "Added full vocabulary section: momentum (mass × velocity, Newton's First Law), friction (surface resistance, coefficient), force transfer (momentum transfer at impact, chain reactions), trajectory (path prediction, cerebellar learning). Rewrote coaching cues with muscle names (deltoids, latissimus dorsi, flexor digitorum), energy conversion, and Newton's laws."
+  },
+  "physical/boxing-and-striking-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No science of striking: missing F=ma, kinetic chain (why hip rotation generates power), Newton's Third Law (why form protects you), boxing's ancient history",
+    "fixed": "Added boxing history (ancient Greek Olympics 688 BC), F=ma and kinetic chain physics in activity summary, Newton's Third Law in introduction; explains why hip rotation generates more force and why wrist alignment protects the striker"
+  },
+  "physical/brazilian-jiu-jitsu-and-ground-fighting.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Mentions leverage but never explains the physics; missing proprioception, center of gravity, BJJ history (Gracie family, Judo origins, philosophy of smaller defeating larger), mechanical advantage",
+    "fixed": "Added BJJ history (Maeda, Gracie family, Judo lineage), physics of leverage and mechanical advantage, proprioception concept, center of gravity explanation in skill breakdown; added Archimedes reference for intellectual depth"
   },
   "physical/calisthenics-and-bodyweight-exercises.md": {
     "verdict": "FAIL -> FIXED",
