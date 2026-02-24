@@ -4,6 +4,18 @@
 
 Drum line and marching band introduces children to rhythmic movement, coordination, and the joy of making music while moving through space. This activity combines gross motor movement with rhythm awareness, percussion instrument use, and synchronized group dynamics. Children develop auditory discrimination, gross motor coordination, and learn to coordinate complex movements (marching with upper body percussion motions). Marching band activities foster confidence, rhythm awareness, and the pleasure of creative group participation.
 
+## Vocabulary
+
+**Percussion**: A family of instruments that make sound by being struck, shaken, or scraped — drums, tambourines, maracas, xylophones, and even hand claps are all percussion. Percussion instruments are among the oldest in human history; humans have been drumming for at least 50,000 years.
+
+**Resonance**: When an object vibrates at its natural frequency and amplifies sound. A drum's hollow body resonates — the shell vibrates along with the stretched membrane on top, making the tap of a drumstick much louder than it would be without the resonating chamber. This is why a cardboard box sounds different from a wooden drum.
+
+**Tempo**: How fast or slow a piece of music moves, measured in beats per minute (BPM). A slow march might be 80 BPM; a fast parade cadence might be 120–140 BPM. The tempo of a marching band determines how fast the band physically walks — faster tempo, faster march.
+
+**Meter**: The recurring grouping of beats in music. Most marching music is in "4/4 meter" — four beats per measure, with a strong emphasis on beat 1. "One-two-three-four, one-two-three-four" is 4/4 meter. Children naturally feel meter before they can name it — it's what makes them want to clap along.
+
+**Vibration**: Sound is caused by vibration — rapid back-and-forth movement of a surface that pushes air in waves. When you strike a drum, the membrane vibrates and pushes air outward in all directions as sound waves. The tighter the membrane, the faster it vibrates and the higher the pitch.
+
 **Activity Type**: Performance arts / Gross motor play
 
 **Duration**: 12-20 minutes (with natural breaks)
@@ -82,9 +94,9 @@ Drum line and marching band introduces children to rhythmic movement, coordinati
 
 #### Introduction & Demonstration (1-2 minutes)
 - Explain that they're going to be in a special marching band making music and moving
-- Show the instruments and how to hold them safely
+- Show the instruments and how to hold them safely. Before playing, let children touch the drum membrane gently: "Feel how tight this skin is stretched? When we tap it, it **vibrates** — jiggles back and forth really fast — and those jiggles push air into sound waves that reach our ears." This is **acoustics** — the science of sound.
 - Demonstrate the basic marching pattern and simple instrument beats
-- Explain that everyone follows the beat together
+- Explain that everyone follows the **tempo** (the speed of the beat) together — this is what makes a marching band move as one unit. Historically, military drum lines existed to communicate commands across loud battlefields; the rhythm told soldiers when to march, halt, and change formation.
 
 #### Skill Practice (3-6 minutes)
 

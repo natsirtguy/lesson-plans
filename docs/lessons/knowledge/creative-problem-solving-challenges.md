@@ -14,6 +14,12 @@ Creative problem-solving challenges encourage children to think flexibly, experi
 
 **Solution**: An answer or way to solve a problem. When you figure out that a ramp helps the ball roll down, you have found a solution to the challenge.
 
+**Hypothesis**: A guess about what might work, made before you try it. Scientists and engineers make hypotheses all the time: "I think the big block will make a better bridge than the small one—let's test it!" A hypothesis turns guessing into an experiment.
+
+**Constraint**: A limit or rule that makes a challenge harder and more interesting. In real engineering, constraints might be "only use three materials" or "it must hold this much weight." Constraints force creative thinking by removing easy solutions.
+
+**Divergent thinking**: Coming up with many different possible solutions instead of stopping at the first one. The opposite of "there's only one right answer"—divergent thinking celebrates that there are always more ideas to explore.
+
 ## 🎵 Learning Song
 
 **Tune**: This Old Man
@@ -98,10 +104,10 @@ In this activity, children explore materials and discover creative ways to solve
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Start with genuine curiosity rather than instructions. Ask: "I wonder how we could make a bridge that this toy car can drive over?" Show the available materials but keep focus on the question, not the answer. Invite their thinking: "What do you think might work?" Emphasize that there's no one "right" way and that trying different ideas is what learning looks like.
+   Start with genuine curiosity rather than instructions. Ask: "I wonder how we could make a bridge that this toy car can drive over?" Show the available materials but keep focus on the question, not the answer. Invite their thinking: "What do you think might work?" Explain that this is exactly what engineers and scientists do: they make a **hypothesis** (a guess), then test it, then improve. This "design-build-test" cycle is the same process used to design real bridges, rockets, and medicines. Emphasize that there's no one "right" way and that generating many different ideas—**divergent thinking**—is what creative problem-solvers do.
 
 2. **Exploration** (8-12 minutes):
-   Present the challenge simply and clearly. Allow the child to explore materials first without jumping in. Watch what they pick up, how they interact, and what ideas emerge naturally. When they get stuck, offer choices rather than solutions: "Would it work better with the bigger block or the smaller one?" Ask questions that guide thinking: "What happens if you try it this way?" Celebrate all attempts and iterations, not just successful outcomes.
+   Present the challenge simply and clearly—and consider adding a **constraint** to make it more interesting: "Can you build the bridge using only five pieces?" Constraints are how real engineers and designers work; they force creative thinking. Allow the child to explore materials first without jumping in. Watch what they pick up, how they interact, and what ideas emerge naturally. When they get stuck, offer choices rather than solutions: "Would it work better with the bigger block or the smaller one?" Ask questions that guide thinking: "What happens if you try it this way?" Celebrate all attempts and iterations, not just successful outcomes.
 
 3. **Discovery** (5-8 minutes):
    Once they've solved it or created something, extend the challenge: "Now can you make it taller?" or "Can you make two different paths?" Invite them to create their own challenge for you. Take a moment to acknowledge what they figured out. Ask reflection questions: "What was tricky about this?" or "What did you try?"

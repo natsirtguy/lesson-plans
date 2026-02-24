@@ -269,6 +269,11 @@
     "issues": "Vocabulary included \"discover\" (non-geographic, non-technical). Missing the continent/country distinction (geographic vs. political), no hemispheres, no equator explaining climate, no borders as human decisions. Activity was pure \"point at globe\" with no deeper geographic reasoning.",
     "fixed": "Replaced vocabulary with continent, country (with explicit continent/country distinction via pizza analogy), equator (climate explanation), hemisphere, border (as human decision), latitude (climate predictor). Rewrote activity to explain the geographic vs. political distinction, equator effect on climate, one real fact about each continent (Africa 54 countries, Australia = single country, Antarctica = no countries), and borders as human inventions. Added continental drift as extension activity."
   },
+  "knowledge/creative-problem-solving-challenges.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Activity-only lesson — no real cognitive science terminology (divergent thinking, hypothesis, constraint, design cycle)",
+    "fixed": "Added hypothesis, constraint, divergent thinking to vocabulary; added engineering design cycle framing and constraint-based challenge prompts to activity flow"
+  },
   "knowledge/creative-problem-solving.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was \"solution,\" \"obstacle,\" \"persist,\" \"transform\" — no cognitive science. Activity was retrieving stuck toys with no systematic thinking framework. No scientific method, no distinction between divergent and convergent thinking.",
@@ -324,6 +329,11 @@
     "issues": "Vocabulary was basic everyday terms (rhythm, expression, balance, choreography). No music science, no anatomy, no neuroscience. Activity was \"move to music\" with no explanation of why humans respond to rhythm.",
     "fixed": "Replaced vocabulary with tempo (beats per minute, auditory cortex), entrainment (automatic synchronization to rhythm, unique to humans and a few species), dynamics (pianissimo to fortissimo, Italian musical terms), vestibular system (semicircular canals, fluid mechanics of dizziness). Rewrote activity to explore tempo differences, dynamics, vestibular response to spinning. Added meter (4/4 vs 3/4 time), spotting technique, muscle group naming, and evolutionary purpose of dance for 3-4+."
   },
+  "knowledge/dance-and-movement.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No physiology or neuroscience content; vocabulary limited to generic terms with no real scientific depth",
+    "fixed": "Added proprioception, vestibular system, tempo to vocabulary; added cerebellum's role in movement to activity overview; added tempo naming to phase 3 of activity"
+  },
   "knowledge/data-and-statistics.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary everyday (collect, organize, compare, pattern). No statistics terminology — no variable, frequency, bar graph, or data set concepts. Activity was sorting with no statistical framework.",
@@ -348,6 +358,21 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Good structure overall, but missing key concepts: inference (never named despite activities requiring it), visual narrative (illustrations as independent story layer), and the scientific terms inference and subtext. Vocabulary was decent but non-specific (attentive, illustrate, curious, pattern).",
     "fixed": "Rewrote summary to frame deep reading around inference, visual narrative, and two simultaneous stories (words vs. illustrations). Replaced vocabulary with inference (reading between the lines, the core deep reading skill), visual narrative (illustrator's separate story), subtext (unstated meaning), pattern (more specific definition). Updated first reading section to prompt both text reading and visual narrative reading, name inference when children use it, and introduce subtext via color/composition choices."
+  },
+  "knowledge/different-cultures-and-peoples.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Purely activity-based with generic vocabulary (culture, tradition, community, diversity); no anthropological concepts or real content about how cultures work",
+    "fixed": "Added anthropology, oral tradition, cultural diffusion to vocabulary; added ~7000 cultures statistic and cultural diffusion framing to activity overview; added cultural diffusion example (tomatoes in Italian food) to activity flow"
+  },
+  "knowledge/different-environments-forest-desert-ocean-mountains.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Factual error (polar bears in mountains instead of Arctic); missing biome/climate as organizing concepts; adaptation definition incomplete",
+    "fixed": "Fixed polar bear error (now correctly references Arctic); added biome and climate to vocabulary; corrected cactus anatomy (stem not leaves); added climate science to activity overview with explicit biome/climate/adaptation framing"
+  },
+  "knowledge/different-languages-around-the-world.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No linguistics vocabulary; all vocabulary terms are everyday words; no content about phonemes, language families, writing systems, or tonal languages",
+    "fixed": "Added phoneme, tonal language, language family to vocabulary; added ~7000 languages fact and language family/phoneme/tonal language content to activity overview; added note about related vs unrelated language families during discovery phase"
   },
   "knowledge/digital-art-and-drawing.md": {
     "verdict": "FAIL -> FIXED",
@@ -1404,6 +1429,11 @@
     "issues": "No physics of throwing or catching. No parabolic arc, no projectile motion, no momentum, no hand-eye coordination neuroscience. Coaching cues were generic (\"swing your arm like a pendulum\") with no underlying physics explained. \"Hand-eye coordination\" named but mechanism never explained.",
     "fixed": "Rewrote summary with projectile physics (parabolic arc, gravity + forward momentum), the catching challenge (3D trajectory prediction as a real neural computation), and the explanation that struggling to catch isn't failure but a complex calculation. Updated skill breakdown to explain arc differences between throw types and that catching is prediction. Updated coaching cues to include \"watch it the whole way — your brain needs the arc to predict landing\" and \"soft throw = gentle arc, hard throw = fast flat line.\""
   },
+  "physical/drum-line-and-marching-band.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No vocabulary section at all; no acoustics content (how drums produce sound via vibration and resonance); no music theory terms; no cultural/historical context for drum lines",
+    "fixed": "Added full vocabulary section with percussion, resonance, tempo, meter, vibration; added acoustics explanation (membrane vibration, resonating chamber) to introduction; added historical context about military drum lines"
+  },
   "physical/endurance-and-cardiovascular-games.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section; activity had zero content about the cardiovascular system, heart physiology, aerobic exercise, or why cool-down matters — pure game mechanics with generic encouragement",
@@ -1498,6 +1528,11 @@
     "verdict": "PASS",
     "issues": "Uses \"bilateral coordination,\" \"explosive power.\" Appropriate technical depth for physical lesson.",
     "fixed": "N/A"
+  },
+  "physical/karate-and-striking-arts.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No vocabulary section; no etymology of 'karate'; no cultural/historical origin content; no biomechanics (torque, hip rotation); martial arts terms mentioned but not defined or taught",
+    "fixed": "Added vocabulary section with martial arts, karate etymology (empty hand/Okinawa origin), kata, kiai, torque; added cultural history and torque explanation to introduction; added kiai practice to demonstration; expanded 3-4+ years section with kata, kiai, and Japanese dojo vocabulary"
   },
   "physical/kayaking-and-paddling-sports.md": {
     "verdict": "FAIL -> FIXED",

@@ -4,6 +4,18 @@
 
 Karate and striking arts introduce children to basic punching and striking movements in a fun, controlled way that builds strength, coordination, and focus. This activity develops gross motor skills, teaches body awareness and directional control, and introduces the concepts of discipline and self-regulation. Children learn to control their movements safely while building confidence in their physical power and developing respect for their own bodies.
 
+## Vocabulary
+
+**Martial arts**: Structured systems of combat and self-defense that have been developed and refined over centuries across many cultures. The word "martial" comes from Mars, the Roman god of war. Karate, judo, kung fu, taekwondo, capoeira, and boxing are all different martial arts traditions from different parts of the world.
+
+**Karate**: A striking martial art that originated in Okinawa, Japan, blending indigenous Okinawan fighting techniques with Chinese martial arts. "Karate" (空手) literally means "empty hand" in Japanese — a reference to fighting without weapons. It was formalized as a sport and discipline in the early 20th century.
+
+**Kata**: A pre-arranged sequence of movements — strikes, blocks, and stances — performed alone, like a solo routine. Kata (型) are how martial arts knowledge was memorized and transmitted before video existed. Each kata tells a story of a defensive encounter, encoded in movement.
+
+**Kiai**: The sharp, focused shout used during a strike in martial arts (空気合い — "spirit meeting"). A kiai is not just an expression of effort; it tightens the core muscles, steadies breathing, and focuses mental attention at the moment of impact. Even young children can experience how a firm exhale makes a movement feel stronger.
+
+**Torque**: The rotational force that gives a punch or kick its power. In karate, strikes derive most of their force not from the arm alone but from hip rotation — turning the hips generates torque, which travels up the body and is released through the fist. This is why a skilled martial artist can strike powerfully without looking strong.
+
 **Activity Type**: Individual martial art / Gross motor play / Motor skill development
 
 **Duration**: 12-20 minutes (with natural breaks)
@@ -78,15 +90,16 @@ Karate and striking arts introduce children to basic punching and striking movem
 ### Main Activity (8-15 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Explain: "Karate is a martial art where people learn to control their bodies and movements. We're going to learn some basic striking techniques safely and respectfully. We'll practice punching and kicking movements in a controlled way - always with respect for ourselves and others."
-- Demonstrate: Show a basic punch and basic kick in very slow motion
+- Explain: "Karate is a **martial art** — a system people developed over hundreds of years to move and protect themselves. The word 'karate' means 'empty hand' in Japanese, because it's about using your body, not weapons. It comes from an island called Okinawa in Japan." Even toddlers can hear "empty hand" and look at their own hands.
+- Demonstrate: Show a basic punch and basic kick in very slow motion. Point out where the power comes from: "Watch my hips turn — that's called **torque**. The twist in my hips travels up my body and into my arm. That's why karate punches are powerful even when they look relaxed."
+- Introduce the **kiai**: "In karate, we make a sharp sound when we strike — 'Kiai!' It's not just a shout — it tightens our belly muscles and helps us focus our energy right at the moment of the punch. Try it: punch slowly and say 'kiai' at the end." Let children try.
 - Key coaching point: "Control is more important than power. We move slowly and carefully, and we only strike soft targets"
 
 #### Skill Practice (4-7 minutes)
 
 **Skill breakdown**:
 - **Basic stance**: Feet shoulder-width apart, knees slightly bent, hands up, good balance
-- **Punch formation**: Make a fist (thumb outside, not tucked in), arm extended from shoulder, control the movement
+- **Punch formation**: Make a fist (thumb outside, not tucked in), arm extended from shoulder, control the movement. Remind children that the power comes from hip rotation (**torque**) — even if they can't feel it yet, naming it plants the concept.
 - **Kick formation**: Balance on one leg, lift other leg up or out, controlled movement
 - **Target focus**: Looking at and aiming for the target, not swinging wildly
 
@@ -161,8 +174,9 @@ Let children experiment with their own striking combinations
 - Multiple targets at different heights
 - Introduce basic martial arts terminology (punch, kick, stance, focus)
 - Add balance challenges (standing on one leg)
-- Introduce "forms" or sequences of movements
-- Add counting or chanting (like "Kiai!" - the martial arts focus sound)
+- Introduce "forms" or sequences of movements — these are called **kata**, memorized routines that encode defensive techniques
+- Add counting or chanting and the **kiai** (the martial arts focus sound): teach that it tightens the core and focuses energy
+- Introduce basic Japanese vocabulary: *dojo* (training hall), *sensei* (teacher), *gi* (uniform)
 
 **Duration**: Can extend to 18-20 minutes
 

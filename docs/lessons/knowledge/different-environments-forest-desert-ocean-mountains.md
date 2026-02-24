@@ -12,7 +12,11 @@ Select 3-4 vocabulary words that expand beyond basic toddler language while rema
 
 **Landscape**: The natural scenery and features that make up a particular place—like mountains, trees, sand, water, or rock formations. When you look at a big picture of nature and see all the details together, you're seeing a landscape.
 
-**Adaptation**: The special features plants and animals develop to help them survive in their specific environment. A cactus adapted by storing water in its thick leaves; a polar bear adapted thick fur to stay warm in cold mountains.
+**Adaptation**: The special features plants and animals develop to help them survive in their specific environment. A cactus adapted by storing water in its thick stem; a polar bear adapted thick fur and a layer of insulating fat to survive in the frozen Arctic. Adaptations happen slowly over thousands of generations — animals that happened to have useful features survived and passed those features on to their offspring.
+
+**Biome**: A large region of the Earth defined by its climate (how much rain it gets, how hot or cold it is) and the types of plants and animals that live there. Forests, deserts, oceans, and tundra are all biomes. The same type of biome can exist on different continents — there are tropical rainforests in South America, Africa, and Southeast Asia, all shaped by the same hot, wet climate.
+
+**Climate**: The long-term pattern of weather in a place — how much rain falls each year, how hot summers get, how cold winters are. Climate determines which biome forms in a place. Deserts are dry not because they are hot but because they receive very little precipitation (less than 250mm of rain per year).
 
 **Terrain**: The actual surface and shape of the land—whether it's flat, hilly, rocky, sandy, or steep. Different terrain affects how animals move around and what plants can grow there.
 
@@ -71,7 +75,7 @@ All around
 
 ### Activity Overview
 
-Children create a multi-sensory environment exploration experience using a divided sensory bin or table setup representing four distinct environments. Through hands-on exploration of materials that represent each landscape, children discover the different characteristics of forests, deserts, oceans, and mountains while developing observational skills and environmental awareness.
+Children create a multi-sensory environment exploration experience using a divided sensory bin or table setup representing four distinct environments. Through hands-on exploration of materials that represent each landscape, children discover the different characteristics of forests, deserts, oceans, and mountains while developing observational skills and environmental awareness. Each of these environments is a distinct **biome**, shaped by its **climate** — its pattern of rainfall, temperature, and sunlight. The organisms living in each biome have developed specific **adaptations** over thousands of generations. Name these big ideas during play: "This is the desert biome. It gets very little rain — that's its climate. The cactus adapted a special way to store water so it can survive here."
 
 **Activity Type**: Sensory exploration with comparative learning and discovery play
 
