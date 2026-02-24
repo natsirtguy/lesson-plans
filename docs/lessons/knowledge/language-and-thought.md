@@ -6,13 +6,17 @@ Children discover how words help us think and understand the world around us thr
 
 ## Vocabulary
 
-**Communicate**: To share your thoughts, feelings, or ideas with other people using words, sounds, or gestures. When you tell a friend what you're thinking, you communicate. When you describe what you see at the park, you're communicating your thoughts.
+**Cognition**: The mental process of knowing, thinking, and understanding. Your brain is always doing cognition — noticing things, making sense of them, remembering them. Language is one of the most powerful tools your brain uses for cognition.
 
-**Express**: To show or tell what you're thinking or feeling in words or actions. You express happiness when you laugh and say "I'm so happy!" You express curiosity when you ask "Why?" over and over.
+**Symbol**: Something that stands for or represents something else. Words are symbols — the sound "dog" isn't a dog, but it makes us think of one. All languages use symbols to point to things in the world.
 
-**Imagine**: To create pictures or ideas in your mind about things that aren't right in front of you. When you close your eyes and think about your favorite animal, you're imagining. When you pretend to be a dinosaur, you're using your imagination.
+**Inner Speech**: The voice inside your head that talks while you think. When you're puzzling something out ("hmm, where did I put my shoe?"), that's inner speech — you're using language to think, even without making a sound.
 
-**Connection**: A link or relationship between two things that go together or affect each other. There's a connection between clouds and rain. There's a connection between your thoughts and the words you use.
+**Linguistic Relativity**: The idea that the words you know affect how you think and notice things. If you have a word for something, you see it more clearly. Some languages have many words for snow; speakers of those languages notice different kinds of snow that others might not see at all.
+
+**Communicate**: To share your thoughts, feelings, or ideas with other people using words, sounds, or gestures.
+
+**Express**: To show or tell what you're thinking or feeling in words or actions.
 
 ## Learning Song
 
@@ -59,9 +63,9 @@ Make that connection now, connection now
 
 ### Activity Overview
 
-Children create a "Thought Bubble" exploration activity where they draw or point to pictures representing their thoughts, then practice naming them aloud. Through this sensory and language-rich activity, they discover that their inner thoughts can be expressed through words, pictures, and actions—understanding the crucial link between what they think and how they communicate.
+Children explore how words and thinking are connected through symbol play, inner speech activities, and the "new word, new world" game (a simple demonstration of linguistic relativity). They discover that words are symbols that point to things, that thinking often uses language even silently, and that learning new words actually helps them notice new things — their thinking changes when their vocabulary grows.
 
-**Activity Type**: Hands-on demonstration with sensory exploration and drawing/pointing
+**Activity Type**: Hands-on discovery with symbol play and language experiments
 
 **Duration**: 10-20 minutes
 
@@ -92,41 +96,36 @@ Children create a "Thought Bubble" exploration activity where they draw or point
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Start by pointing to your head and say: "What do YOU think about? We have thoughts in our brains all day long. Let's find words for our thoughts!" Show the child a familiar toy (like a teddy bear) and say: "I'm thinking about this soft bear. I think it's soft and warm and cuddly. Those are my thoughts, and now I'm saying them with words. Can you think about our bear too?"
+1. **Introduction — Words Are Symbols** (2-3 min):
+   Hold up a picture of a dog (or a toy dog). Say: "This picture is a symbol — it stands for a real dog. And the word 'dog' is also a symbol! It's just a sound, but it makes your brain think of a real dog. Every word you know is a symbol that points to something." Try it: say "apple" without showing anything. "Did you think of an apple? That's a symbol working! Your brain already knows what 'apple' means, so the word alone is enough."
 
-2. **Exploration** (5-10 min):
-   - Hold up 3-4 picture cards one at a time. Point and ask: "Do you see this? What do YOU think about it?" Give them time to respond—even pointing or making sounds counts!
-   - Model expressing thoughts: "I think a strawberry is red and yummy. I think a dog says 'woof.' I think rain is wet."
-   - Encourage the child to repeat or add their own thoughts: "You think the dog is big! Great thought!"
-   - If they seem interested, have them draw or scribble what they're thinking about. Say: "That's your thought on paper! Tell me about it."
+2. **Exploration — Inner Speech** (5-7 min):
+   - Introduce inner speech: "Did you know that when you think really hard, your brain talks to itself? That's called **inner speech** — a little voice inside your head."
+   - Model it aloud: "Watch me think out loud. 'Hmm... where did I put the bear? I think it was near the blocks. Let me look there.' I was using words inside my head to figure it out — that's inner speech turned outside!"
+   - Try it together: Ask the child to think about where their favorite toy lives in the house. Encourage them to whisper their thinking. "Did your brain use words? Did you say in your head where it is?"
+   - Point out: "Animals communicate too, but human language lets us think about things that aren't here right now — like your grandma, or tomorrow, or a dragon. That's something special about words and cognition."
 
-3. **Discovery** (3-5 min):
-   Ask thoughtful questions:
-   - "What are you thinking right now?"
-   - "What do you think is inside that box?" (build anticipation)
-   - "When you think of your favorite food, what do you think about it? Is it yummy? Is it cold?"
-   - "How do we know what someone is thinking? They tell us with words!"
-   - Point out: "Your thoughts are in your head. Words come out of your mouth. They're connected!"
+3. **Discovery — The New Word Game (Linguistic Relativity)** (3-5 min):
+   Go outside or look out a window at the sky. Say: "I'm going to teach you a word, and then you'll see if you notice something new." Teach: **"cumulus"** — the big, puffy kind of cloud. "Cumulus clouds look like cotton balls piled up. Can you find a cumulus cloud?" After they find one, say: "Now that you know the word 'cumulus,' you'll notice cumulus clouds all the time. Before you knew the word, they were just 'clouds.' Now your brain has a sharper thought! That's linguistic relativity — words change how you see the world." If inside, do the same with an unusual color word (e.g., "magenta" for a pink-purple), or a texture word (e.g., "translucent" — you can see light through it, like a window).
 
 4. **Wrap-up** (2-3 min):
-   Have the child gather their drawings or point to their favorite picture again. Say: "You had so many wonderful thoughts today! You used your words to tell me what you were thinking. That's how we communicate—by using words to share our thoughts."
+   Review: "Today we learned that words are **symbols** that point to things. That your brain uses **inner speech** — words — to think, even silently. And that learning new words like **cumulus** or **translucent** actually changes what you notice — that's **linguistic relativity**." Ask: "What new word did you learn today? Can you find that thing right now?"
 
 ### Age Adaptations
 
 **2-3 years**:
-Keep activities very concrete and simple. Use only 2-3 familiar pictures or objects. Use shorter sentences: "Think of dog. Say 'dog.' Good thinking!" Point to objects and name them together. Focus on the connection between thinking and saying one word at a time. Use repetition and very simple language. Accept any verbalization or gesture as "thinking" and "communicating."
+Focus on the symbol concept: hold up objects and say "This word is a symbol for this thing — 'cup'! The word 'cup' makes your brain think of a cup." Name objects together and marvel at symbols. For inner speech, simply say "I'm thinking in my head — shhh, my brain is talking!" and then announce what you were thinking. Skip the linguistic relativity game and instead teach one fancy new word for something they see every day (e.g., "That's a **petal** on the flower").
 
 **3-4+ years**:
-Extend with more complex thinking activities. Ask open-ended questions: "What would happen if...?" Encourage longer sentences and storytelling about their thoughts. Introduce simple thought bubbles in pictures (show a picture of a child with a thought bubble). Practice predicting: "What do you think will happen next?" Play rhyming games that show how words and thoughts connect. Ask them to imagine scenarios: "Think about being a dinosaur—what would you do?"
+Dive deeper into the new-word game: after teaching "cumulus," teach a second cloud type ("**stratus**" — flat, gray, layer-like) and have them distinguish between the two. Discuss: "Before you knew these words, were they both just 'clouds'?" Ask them to think about times they couldn't explain something because they didn't have the word. Introduce the idea that different languages have different words — some languages have many words for "snow" because snow is very important where those people live. Ask: "What things do you notice a lot that might need more words?"
 
 ### Extension Ideas
 
-**Variation 1 - Thought Bubble Art**: Draw large thought bubbles on paper. Have the child draw or paste pictures inside the bubbles, then narrate what they're thinking. Label their drawing with simple words (you can write them in).
+**Variation 1 - Symbol Hunt**: Walk around the house or neighborhood naming things. Point out that every word you say is a symbol: "I said 'door' and your brain immediately knew what I meant — that's a symbol working!" Challenge: can they think of a thing they don't have a word for? (This is a real philosophical puzzle — and young children sometimes find it!)
 
-**Variation 2 - Conversation Stories**: Show a picture of two people and ask: "What do you think they're thinking about? What do you think they're saying to each other?" Create little conversations together about what people might be thinking.
+**Variation 2 - New Word, New World**: Each day this week, teach one precise vocabulary word for something in the environment: **translucent** (window, glass), **cumulus** (puffy cloud), **texture** (rough bark, smooth stone), **symmetry** (butterfly wings, your face). Ask at bedtime: "Did you notice any [word] today?" Track how often they spot the thing now that they have a word for it.
 
-**Repeat Play**: Keep 3-4 picture cards available. Each day, ask the same question differently: "What do you think about...?" This repetition helps children internalize that thoughts become words. Change the pictures weekly to keep it fresh.
+**Variation 3 - Thinking Out Loud**: Model inner speech by narrating your problem-solving aloud: "Hmm, I need to figure out how to fit this toy in the bag. Let me think... maybe if I turn it sideways..." Ask the child to do the same with a simple puzzle or block task. Discuss: "What did your brain say while you were thinking?"
 
 ## Parent/Caregiver Notes
 

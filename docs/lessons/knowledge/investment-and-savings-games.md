@@ -14,6 +14,10 @@ In this activity, children learn foundational concepts about earning, saving, sp
 
 **Delayed Gratification**: Choosing to wait for something you want, even though you could have it right now. When you wait to save enough tokens for the special toy, you're practicing delayed gratification.
 
+**Interest**: Extra money that a bank or savings account adds to your savings over time. The bank pays you interest because it uses your saved money while you're not spending it. That's why "money grows" when you save it — interest keeps adding a little more.
+
+**Opportunity Cost**: The thing you give up when you make a choice. If you spend your tokens on a small toy, the opportunity cost is that you can't buy the bigger toy later. Every spending choice has an opportunity cost.
+
 ## 🎵 Learning Song
 
 **Tune**: The Itsy Bitsy Spider
@@ -105,7 +109,7 @@ Children will engage in structured play involving earning, spending, and saving 
    Each child receives their starting "money" and freely explores: examining coins/bills, counting, organizing, and looking at the shop items. Introduce the prices and what different amounts can buy. Demonstrate decision-making aloud: "I have 20 tokens. This toy costs 5 tokens. If I buy it, I'll have 15 left. What will I do with my remaining tokens?" Invite each child to make one purchase decision - will they spend now or save? What will they buy? How much will they have left? Ask questions: "How much money do you have left? Could you buy something else? Why did you choose to save?" Children count out money, trade with the "shopkeeper," take their item or make their choice, and observe what's left.
 
 3. **Discovery** (7-10 minutes):
-   Children continue making purchase and saving decisions at their own pace. Introduce the "Growth" concept: "Every few minutes, people who saved money get a bonus! It's like money grows when you keep it safe." Add a few extra tokens to savings containers. Allow multiple rounds of earning, saving, and purchasing. Children who finish early can help run the shop, count total savings, set new goals, or teach a friend. Encourage conversation: "Tell me about your money decisions." Celebrate both savers and spenders: "You enjoyed that toy right away!" and "You're working toward your goal!"
+   Children continue making purchase and saving decisions at their own pace. Introduce interest by name: "Every few minutes, people who saved money get a bonus called **interest**! Real banks do this too — they add extra money to your savings because they're using your money while it sits there." Add a few extra tokens to savings containers and count the new total together. Allow multiple rounds of earning, saving, and purchasing. Introduce opportunity cost explicitly: "You chose the small toy now — what's the opportunity cost? What can't you buy anymore?" Children who finish early can help run the shop, count total savings, set new goals, or teach a friend. Encourage conversation: "Tell me about your money decisions. What was your opportunity cost?"
 
 4. **Wrap-Up** (3-5 minutes):
    Count everyone's savings together and share amounts. Ask: "Who saved the most? Did you spend money or save it? What was hard? What was fun?" Make cleanup part of the economic lesson: "Let's count all the tokens as we put them back. We want to make sure we have all our money accounted for." Children help sort money back into containers. Celebrate: "You took care of our money very carefully!"
@@ -116,7 +120,7 @@ Children will engage in structured play involving earning, spending, and saving 
 Simplify to basic cause-and-effect: Money → Purchase. Use only 2-3 items for "purchase" to avoid overwhelming choices. Focus on the sensory experience of handling money and trading. Very short rounds (2-3 transactions maximum per child). Reduce quantities to 10-15 tokens per child. Frame as pure play and trading, not yet about saving for later. Caregiver does most shopkeeping while child focuses on trading. Keep duration to 10-15 minutes with frequent breaks. Provide high support with hand-over-hand counting and frequent verbal celebration.
 
 **3-4+ years**:
-Introduce delayed gratification explicitly: "If you save for 2 more rounds, you can buy the BIG toy." Add value complexity: "This costs 10 tokens OR 2 big tokens." Create tiered rewards: Small purchase = 5 tokens, Medium = 15 tokens, Premium = 30 tokens. Introduce "earning" rounds: "Everyone who helped clean up earns 5 bonus tokens." Add "growth": "All saved money grows by 1 extra token each turn." Have children role-play as shopkeepers. Create a "savings goal" chart with pictures. Introduce "jobs" to earn money: Organize blocks, count items, help a friend. Play multiple rounds with running totals. Duration can extend to 25-30 minutes or longer for engaged learners.
+Introduce delayed gratification explicitly: "If you save for 2 more rounds, you can buy the BIG toy." Add value complexity: "This costs 10 tokens OR 2 big tokens." Create tiered rewards: Small purchase = 5 tokens, Medium = 15 tokens, Premium = 30 tokens. Introduce "earning" rounds: "Everyone who helped clean up earns 5 bonus tokens." Add interest: "All saved money earns 1 extra interest token each turn — just like a real bank!" Have children role-play as shopkeepers. Create a "savings goal" chart with pictures. Introduce "jobs" to earn money: Organize blocks, count items, help a friend. Play multiple rounds with running totals. Duration can extend to 25-30 minutes or longer for engaged learners.
 
 ### Extension Ideas
 
