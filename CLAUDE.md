@@ -96,6 +96,23 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 ### Intellectual Rigor Audit
 Existing lesson plans are being audited against the above philosophy. Audit results are tracked in **`docs/lesson-audit.json`** — a flat JSON object keyed by relative file path (e.g. `knowledge/topic-name.md`). Do **not** read this file to check audit status; use the scripts below.
 
+**Pre-selected audit batches**: 10 batches of 7 lessons each are pre-defined in `docs/audit-batches/`. Each file is a markdown checklist covering 70 of the 95 remaining unaudited lessons (as of 2026-02-24), mixing knowledge and physical topics:
+
+| File | Lessons |
+|------|---------|
+| `docs/audit-batches/batch-01.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-02.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-03.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-04.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-05.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-06.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-07.md` | 4 knowledge, 3 physical |
+| `docs/audit-batches/batch-08.md` | 5 knowledge, 2 physical |
+| `docs/audit-batches/batch-09.md` | 4 knowledge, 3 physical |
+| `docs/audit-batches/batch-10.md` | 5 knowledge, 2 physical |
+
+To work through a batch, open the relevant file and audit the listed lessons one at a time. Mark `[x]` in the file as you go (optional), and always record each result with `record-audit-results.py` before moving on.
+
 **Step 1 — Select lessons to audit**:
 ```bash
 python select-audit-batch.py          # 25 random unaudited lessons (default)
