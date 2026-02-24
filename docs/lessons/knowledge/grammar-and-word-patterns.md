@@ -14,6 +14,16 @@ In this lesson, children explore how words are built and used together in patter
 
 **Compound**: A word made by putting two complete words together to create a new word with a new meaning, like "sun" + "flower" = "sunflower" or "rain" + "bow" = "rainbow"
 
+**Phoneme**: The smallest unit of sound in a language. The word "cat" has three phonemes: the /k/ sound, the /a/ sound, and the /t/ sound. Different phonemes change meaning — swap the first phoneme in "cat" and you get "bat," "hat," or "mat." Linguists use special notation to write phonemes.
+
+**Morpheme**: The smallest unit of meaning in a word. "Dog" is one morpheme. "Dogs" is two morphemes: "dog" + "-s" (which means more than one). "Unhappy" has two: "un-" (not) + "happy." Even toddlers produce morphemes when they say "cats" or "running" — they're applying grammar rules!
+
+**Noun**: A word that names a person, place, thing, or idea — "dog," "park," "rain," and "happiness" are all nouns. Every sentence needs at least one noun.
+
+**Verb**: A word that describes an action or state — "run," "sleep," "eat," "is," "looks." Verbs are the doing and being words. The grammar rule is that a complete sentence needs both a noun and a verb: "The dog runs" — noun + verb.
+
+**Grammar**: The system of rules that a language follows — how words change form, how sentences are built, which word orders are allowed. Every human language has grammar, though the rules differ. Children learn their language's grammar automatically, just by hearing it spoken.
+
 ## Learning Song
 
 **Tune**: "Old MacDonald Had a Farm"
@@ -104,13 +114,14 @@ Children will explore word patterns through a hands-on "Word Pattern Match and B
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Say: "Today we're going to play a game with words. Some words sound the same at the end—like 'cat' and 'bat.' We call that rhyming! And sometimes we can put two words together to make a brand new word. Let me show you."
+   Say: "Today we're going to explore how words work — their sounds and patterns. People who study language are called linguists, and one thing they study is grammar: the rules that all sentences follow. Every sentence has naming words called nouns — like 'dog' or 'park' — and doing words called verbs — like 'run' or 'eat.' Let me show you, and we'll also find patterns in the sounds words make."
    Sing a quick verse from the learning song while clapping syllables to activate their listening skills.
 
 2. **Exploration** (7-10 min):
    - **Rhyme Sorting**: Spread out the rhyming word cards (cat, bat, hat, dog, log, fog, etc.). Start with three cards in one color and three in another. Ask the child: "Which words sound the same at the end?" Help them group cat/bat/hat together, then dog/log/fog.
    - **Clapping Syllables**: Pick a word card and say the word slowly while clapping once per syllable. Have the child clap along: "but-ter-fly" (clap-clap-clap). Do this with 5-6 words, mixing in one-syllable and multi-syllable words.
    - **Building Compounds**: Show the compound word cards. Point to "sun" and "flower" separately, then show "sunflower." Ask: "What happens when we put these words together? Do you see the sun in the word sunflower?" Let them trace their finger along the word while you say it.
+   - **Noun and Verb Sort**: Make a small set of picture cards — some show things (dog, tree, ball — nouns) and some show actions (running, jumping, sleeping — verbs). Sort them into two piles: "naming words" and "doing words." Then try making a tiny sentence by pointing to one from each pile: "Dog... runs!" Linguists call this the subject (noun) + predicate (verb) — the basic pattern of almost every sentence in every language.
    - **Free Exploration**: Give the child blank cards and markers to draw their own rhyming pairs or attempt to write simple words if they're interested (don't push writing—focus on the pattern concept).
 
 3. **Discovery** (3-5 min):

@@ -8,6 +8,18 @@ Running, walking, and locomotion activities develop the fundamental gross motor 
 
 **Duration**: 15-20 minutes (with natural breaks)
 
+## Key Concepts
+
+**Gait**: The pattern of limb movement used for locomotion. Humans have two main gaits: walking and running. Each is a repeating cycle of steps.
+
+**Flight phase**: The moment in running when both feet are off the ground at the same time. This is what makes running different from walking — in walking, one foot is always touching the ground (no flight phase). Children typically develop true running (with a flight phase) around age 2–3.
+
+**Gait cycle**: The complete sequence from one footfall to the next footfall of the same foot. It includes the stance phase (foot on ground) and the swing phase (foot in the air). During running, the stance phase is shorter and the swing phase is longer than in walking.
+
+**Cardiovascular system**: The heart and blood vessels that circulate blood through the body. During running, working muscles need more oxygen, so the heart beats faster to deliver oxygen-rich blood more quickly. That's why your heart rate goes up and breathing quickens during vigorous movement.
+
+**Quadriceps, hamstrings, and gastrocnemius**: The main muscle groups powering locomotion. The quadriceps (front of thigh) extend the knee to push forward. The hamstrings (back of thigh) bend the knee and drive the leg back. The gastrocnemius (calf muscle) pushes off the ground with each step. Strengthening these muscles through running and walking builds the foundation for all future physical activity.
+
 **Energy Level**: High
 
 **Best Environment**: Outdoor open space / Backyard / Park / Indoor gymnasium
@@ -86,9 +98,10 @@ Running, walking, and locomotion activities develop the fundamental gross motor 
 ### Main Activity (10-15 minutes)
 
 #### Introduction & Demonstration (1-2 minutes)
-- Introduce the activity: "Today we're going to practice walking and running - two super important ways to move!"
+- Introduce the activity: "Today we're going to practice walking and running — two different gaits, or movement patterns!"
 - Demonstrate both walking and running clearly: Show yourself walking (slow, controlled, both feet stay low) then running (feet leave ground, arms swing, faster)
-- Key coaching point: "Walking means one foot is always touching the ground. Running means both feet come off the ground!"
+- Key coaching point: "Walking means one foot is always touching the ground. Running has a flight phase — a split second when both feet are off the ground at the same time! That's what makes it a different gait."
+- Point out what the body is doing: "Your quadriceps — the big muscles in the front of your thighs — push you forward. Your calves push you off the ground. And when you run hard, you can feel your heart beating faster because it's sending more blood to your muscles!"
 
 #### Skill Practice (3-5 minutes)
 
@@ -172,7 +185,7 @@ Running, walking, and locomotion activities develop the fundamental gross motor 
 
 ### Cool-Down (2-3 minutes)
 
-**Purpose**: Gradually lower heart rate and transition to calmer activity, help children relax and focus attention
+**Purpose**: Gradually lower heart rate and transition to calmer activity, help children relax and focus attention. After running, the cardiovascular system needs time to return to resting state — the heart rate slows, breathing deepens, and muscles begin to recover.
 
 **Cool-down activities**:
 1. Slow walking around the space - "Let's walk slowly and catch our breath" - gradually decrease pace

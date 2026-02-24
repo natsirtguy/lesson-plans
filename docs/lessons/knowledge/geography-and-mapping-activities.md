@@ -2,7 +2,7 @@
 
 ## 🎯 Activity Summary
 
-Children explore how maps help us understand and represent the world around us, developing spatial awareness and early map-reading skills. Through hands-on activities with simple maps, photos, and creating their own representations, children learn that maps are special pictures showing us where things are in space.
+Children explore how maps help us understand and represent the world around us, developing spatial awareness and early map-reading skills. Through hands-on activities with simple maps, photos, and creating their own representations, children learn that maps are scale drawings viewed from above — made by cartographers using symbols, legends, and directions to show where things are in the real world.
 
 ## Vocabulary
 
@@ -13,6 +13,14 @@ Children explore how maps help us understand and represent the world around us, 
 **Spatial**: Relating to where things are located in space and how they connect to each other. Spatial thinking helps us understand if something is near or far, up or down, and inside or outside.
 
 **Represent**: To show something in a picture, drawing, or model—to stand for something else in a different form. A map represents a real place by showing it on paper so we can see it from above.
+
+**Cartography**: The science and art of making maps. People who make maps are called cartographers. They decide what to include, what symbols to use, and how to show a large place on a small piece of paper.
+
+**Scale**: The relationship between a distance on a map and the actual distance in the real world. Because the real world is huge and maps are small, cartographers shrink everything down by the same amount — so if 1 centimeter on the map equals 1 kilometer in real life, that's the map's scale.
+
+**Legend (or map key)**: A box on a map that explains what the symbols mean — a blue line might mean a river, a green area might mean a park, a small square might mean a building. Without the legend, you can't read the map.
+
+**Cardinal directions**: The four main compass directions: North, South, East, and West. North points toward the North Pole, and when you face North, East is to your right and West is to your left. Many maps have a compass rose — a small drawing showing these four directions.
 
 ## 🎵 Learning Song
 
@@ -98,7 +106,7 @@ Children explore simple maps of familiar locations and create their own represen
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child a simple map and ask: "What do you see here? Can you point to where we live?" Display familiar photos and talk about each place: "This is the park where we play!" Use simple language: "Maps are pictures that show us where things are." Demonstrate how maps help us find places.
+   Show the child a simple map and ask: "What do you see here? Can you point to where we live?" Display familiar photos and talk about each place: "This is the park where we play!" Explain what maps really are: "A map is a bird's-eye view — it shows what a place looks like from high above, like a bird or an airplane looking down. Everything is shrunk down to fit on paper — that's called scale." Demonstrate how maps help us find places. Point out the legend if the map has one: "This little box tells us what the colors and symbols mean."
 
 2. **Exploration** (5-10 min):
    Look at the printed map together and point out familiar locations (home, park, school, store). Ask the child to identify places they know. Look through photos and discuss each place: "Where is this? What do we do there?" Trace paths with your finger: "This is the way we walk to the park." Pay attention to what captures the child's interest most.
@@ -115,7 +123,7 @@ Children explore simple maps of familiar locations and create their own represen
 Focus on concrete, familiar places only (home, park, immediate neighborhood). Keep maps very simple with large drawings. Use more photos and real objects alongside drawings. Emphasize exploration and pointing rather than creating detailed maps. Keep activity to 10-15 minutes. The adult creates most of the map while the child helps by pointing, making marks, or choosing colors and stickers.
 
 **3-4+ years**:
-Expand to larger neighborhoods or familiar routes (school, store, library). Create multiple maps showing different places. Introduce simple compass directions: "This is where we look at the sky" for north. Add more detail: street names, landmarks, signs, different types of buildings. Create maps with natural materials or in 3D with blocks. Compare two different maps of the same area. Create a map showing a journey or specific route. Sustain activity for 20-25 minutes.
+Expand to larger neighborhoods or familiar routes (school, store, library). Create multiple maps showing different places. Introduce cardinal directions: North points toward the North Pole — you can find north in the daytime by noting where the sun rises (East) and sets (West), then facing West with your right hand pointing north. Add a compass rose to their map. Create a simple legend together: "Let's decide what our symbols mean — a green circle means a tree, a blue line means a road." Add more detail: street names, landmarks, signs, different types of buildings. Create maps with natural materials or in 3D with blocks. Compare two different maps of the same area. Create a map showing a journey or specific route. Sustain activity for 20-25 minutes.
 
 ### Extension Ideas
 

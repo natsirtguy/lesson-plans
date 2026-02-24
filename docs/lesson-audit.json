@@ -634,20 +634,45 @@
     "issues": "Missing key developmental psychology concepts: stages of play development, theory of mind, reciprocity; activities framed as generic fun without naming the social-cognitive skills being developed",
     "fixed": "Added theory of mind, reciprocity vocabulary; rewrote summary to explain stages of play development and why theory of mind is central to friendship; added developmental framing to age adaptations with guidance on making others' internal states visible and practicing perspective-taking explicitly"
   },
+  "knowledge/furniture-design-with-blocks.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing real engineering vocabulary and physics explanations — no center of gravity, load-bearing, prototype, or industrial design context",
+    "fixed": "Added center of gravity, load-bearing, prototype vocabulary; explained physics of why wide bases are stable; connected to industrial designers who prototype real furniture"
+  },
   "knowledge/game-creation-and-rule-making.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Reasonable social/creative focus but missed opportunities to connect to formal concepts. Rules were treated as informal, not as logical structures.",
     "fixed": "Added conditional logic framing (if-then rules) and fairness/game theory to vocabulary. Updated rule-making phase to explicitly teach if-then structure and rule conflicts. Connected to computer programming and law as parallel systems. Added game theory framing to social negotiation."
+  },
+  "knowledge/geography-and-mapping-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing cartography vocabulary, no mention of scale, legend, cardinal directions, or bird's-eye/aerial perspective; compass direction explanation was incorrect",
+    "fixed": "Added cartography, scale, legend, cardinal directions vocabulary; fixed aerial-view explanation; added compass rose and legend creation to 3-4+ activities; corrected compass direction language"
   },
   "knowledge/government-and-leadership.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Title says government but lesson had zero civics content — generic taking-turns leadership activity with no democracy, voting, laws, or government structures.",
     "fixed": "Added government, democracy, law, vote, citizen vocabulary with real definitions; restructured activity to practice actual democratic voting and elected leadership; added monarchy vs democracy comparison extension; integrated political science framing throughout"
   },
+  "knowledge/grammar-and-word-patterns.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Titled 'Grammar and Word Patterns' but contained no actual grammar — no nouns, verbs, morphemes, phonemes, or linguistics context; purely a phonological rhyming activity",
+    "fixed": "Added phoneme, morpheme, noun, verb, grammar vocabulary; added noun/verb sorting activity to activity flow; introduced linguists as the people who study language"
+  },
+  "knowledge/group-celebrations-and-ceremonies.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing anthropological context: no explanation of why rituals exist, no rites of passage concept, no social cohesion, no oral tradition — treated ceremonies as nice activities rather than universal human phenomena",
+    "fixed": "Added rite of passage, social cohesion, oral tradition vocabulary; added anthropology framing in introduction; explained that every human society has rituals and why"
+  },
   "knowledge/group-meetings-and-discussions.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Democracy never mentioned despite being a lesson in democratic deliberation. Vocabulary was basic (participate, facilitate, contribute, perspective) with no political philosophy, decision science, or cognitive diversity research. Activities were entirely socio-emotional (feelings, kindness) with no intellectual content about HOW and WHY group decisions work.",
     "fixed": "Replaced vocabulary with deliberation, consensus (vs. majority vote), democracy (with 500 BCE Athens origin), agenda, and cognitive diversity (diverse groups make fewer mistakes). Rewrote activity overview with 7,000+ year history of human councils and cognitive diversity argument for inclusive deliberation. Rewrote introduction step to explain what a meeting is for (democratic decision-making) and why circle seating signals equality. Updated discovery phase to explicitly teach deliberation, teach the consensus vs. vote distinction, and connect to real governance. Updated 3-4+ with direct \"democracy\" vocabulary and geographic isolation explanation for why perspectives differ."
+  },
+  "knowledge/growth-and-development-biological-growth-human-development-skill-development-societal-progress.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No real biology vocabulary — metamorphosis mentioned but never defined, germination and cell division absent, photosynthesis absent, nutrients absent; 'grow' and 'progress' as vocabulary entries are not scientific terms",
+    "fixed": "Added germination, cell division, metamorphosis, nutrients, photosynthesis vocabulary; rewrote introduction to explain seed embryo and germination process; updated discovery questions to reference real mechanisms"
   },
   "knowledge/health-and-nutrition.md": {
     "verdict": "FAIL -> FIXED",
@@ -1834,6 +1859,11 @@
     "issues": "Lesson never explained what rugby actually is — its origin, distinctive backward-pass rule, scoring (try), or how it differs from other sports; no physiology content about cardiovascular response to exercise",
     "fixed": "Added rugby history, the lateral/backward pass rule, try scoring; introduced cardiovascular system, heart rate, lactic acid in coaching cues; rewrote introduction to teach the actual sport rules while adapting for toddler safety"
   },
+  "physical/running-walking-and-locomotion.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No vocabulary or concepts section, no anatomy content, no physiology — cardiovascular mentioned but not explained; the mechanics were described but without real terminology (flight phase, gait cycle, muscle names)",
+    "fixed": "Added Key Concepts section with gait, flight phase, gait cycle, cardiovascular system, quadriceps/hamstrings/gastrocnemius; updated introduction to name flight phase and muscles; added physiology note to cool-down"
+  },
   "physical/sailing-and-wind-sports.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Summary claimed \"developing understanding of wind and physics\" but never delivered any physics. No lift, drag, pressure differential, Bernoulli, or points of sail (running/reaching/beating). \"See how the sail fills with wind? That's what makes the boat go\" with no explanation of why.",
@@ -1848,6 +1878,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Used terms \"vestibular\" and \"proprioceptive\" but never explained mechanisms. No neuroscience of how sensory systems actually work (semicircular canals, otolith organs, mechanoreceptors, corpus callosum). Coaching cues were motivational with no science. Sensory defensiveness challenge lacked neurological framing.",
     "fixed": "Added neuroscience of sensory integration (semicircular canals, otolith organs, mechanoreceptors, myelination) to summary. Rewrote introduction to name vestibular, proprioceptive, and tactile systems with actual mechanisms. Updated skill breakdown with real physiology (muscle spindles, Golgi tendon organs, corpus callosum for bilateral coordination). Rewrote coaching cues with sensory integration terminology. Updated tactile defensiveness challenge to explain neurological thresholds and recommend OT evaluation. Updated balance challenge to mention cerebellar maturation."
+  },
+  "physical/sequential-movement-patterns.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Mentioned 'motor planning' and 'brain-body connections' without explaining them; no concepts section; working memory cited in challenges but never defined; missing proprioception, cerebellum, neural pathways",
+    "fixed": "Added Key Concepts section with motor planning/praxis, working memory, proprioception, cerebellum, neural pathways; updated introduction to name the brain science; added working memory explanation to the common challenge response"
   },
   "physical/skateboarding-and-balance-sports.md": {
     "verdict": "FAIL -> FIXED",
