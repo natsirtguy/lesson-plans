@@ -10,9 +10,15 @@ In this activity, children use building blocks and household items to design and
 
 **Balance**: When weight is spread evenly so something doesn't tip over or fall. A chair needs good balance so it stays upright when someone sits on it.
 
-**Design**: A plan for how something will look and work, created before you build it. Architects design buildings and furniture designers plan what chairs and tables will look like.
+**Design**: A plan for how something will look and work, created before you build it. Industrial designers and architects design real furniture — they sketch plans, choose materials, and think carefully about how people will use each piece.
 
 **Stability**: How firmly and steadily something stands without moving, tipping, or falling apart. A wide base helps give a block structure good stability.
+
+**Center of gravity**: The point where all of an object's weight seems to be concentrated. When you stack blocks very high, the center of gravity moves up — and if it shifts outside the base, the structure tips over. That's why tall, narrow towers fall more easily than short, wide ones.
+
+**Load-bearing**: Able to hold weight without collapsing. The legs of a chair are load-bearing — they carry the weight of whoever sits on it. Thicker legs or more legs spread the load better.
+
+**Prototype**: A first test version of a design, built to see if the idea actually works. Engineers and designers always build prototypes before making the final product — just like we test our block furniture before declaring it finished.
 
 ## 🎵 Learning Song
 
@@ -97,13 +103,13 @@ Children explore how blocks can be stacked and arranged to create furniture. Thr
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Show children a simple chair or table in the room and ask: "What makes this a chair? What does it need to hold someone up?" Demonstrate how blocks can stack and balance. Introduce the dolls: "These little friends need places to sit and sleep. Can we build them furniture?" Explain that you are designers creating furniture together.
+   Show children a simple chair or table in the room and ask: "What makes this a chair? What does it need to hold someone up?" Demonstrate how blocks can stack and balance. Introduce the dolls: "These little friends need places to sit and sleep. Can we build them furniture?" Explain that you are designers creating furniture together — just like industrial designers who design real chairs, tables, and sofas. Real designers make prototypes to test their ideas, and that's exactly what we're going to do.
 
 2. **Exploration** (4-6 minutes):
    Allow free handling and stacking of blocks. Children experiment with how blocks balance and what happens when arranged different ways. Narrate observations without directing: "I see you're stacking blocks high - that's building up!" Observe which stacking methods seem stable and which tip easily.
 
 3. **Guided Creation** (6-10 minutes):
-   Demonstrate building a simple chair: "A chair needs a seat (flat top), legs to hold it up, and maybe a back." Show a two-step process: "First, I'll make a strong base, then blocks on top for sitting." Ask the child: "What kind of furniture should we make? A bed? A table? A throne?" Guide them through selecting blocks and building their first piece. Test together by placing a doll on it. Ask problem-solving questions: "What happens if we take away a leg? How can we fix it?"
+   Demonstrate building a simple chair: "A chair needs a seat (flat top), load-bearing legs to hold it up, and maybe a back." Show a two-step process: "First, I'll make a strong base, then blocks on top for sitting." Ask the child: "What kind of furniture should we make? A bed? A table? A throne?" Guide them through selecting blocks and building their first piece — this is their prototype. Test together by placing a doll on it. Ask problem-solving questions: "What happens if we take away a leg? How can we fix it? Why does a wider base make it harder to tip over?" (The center of gravity stays over the base when it's wider.)
 
 4. **Free Expression** (remaining time):
    Child creates multiple furniture designs with growing independence. Allow experimentation with different styles and heights. Child tests designs by placing dolls on them. Encourage refinement: "You made a wobbly chair - how could you make it more sturdy?" Remain available for guidance but let the child lead.
@@ -141,7 +147,7 @@ Work together to build one large piece or a whole room setup. This introduces co
 
 **Challenge**: The structure keeps falling over or is unstable.
 
-**Solution**: Model building with a wider base: "Let's make the bottom bigger so it's more sturdy." Use heavier blocks at the bottom and lighter ones on top. Teach the wobble test by gently pushing on the structure to see if it's strong. Show how adding more blocks to one side can tip things over. Celebrate attempts: "You're learning how to make it strong!"
+**Solution**: Model building with a wider base: "Let's make the bottom bigger so it's more sturdy." Use heavier blocks at the bottom and lighter ones on top. Explain why: "When the base is wide, the center of gravity — where all the weight sits — stays above the base, and it won't tip." Teach the wobble test by gently pushing on the structure to see if it's strong. Show how adding more blocks to one side can tip things over. Celebrate attempts: "You're learning how to make it strong — just like real engineers do when they test prototypes!"
 
 **Challenge**: Child gets frustrated when their design doesn't work or look "right".
 

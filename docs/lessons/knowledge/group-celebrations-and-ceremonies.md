@@ -8,11 +8,17 @@ In this activity, children participate in or create meaningful group celebration
 
 **Ceremony**: A formal event or special gathering where people come together in a meaningful way to mark something important, like a birthday, achievement, or cultural holiday.
 
-**Ritual**: A special action or set of actions that are repeated in the same way each time, often with deep meaning—like singing a song before eating or holding hands in a circle.
+**Ritual**: A special action or set of actions that are repeated in the same way each time, often with deep meaning—like singing a song before eating or holding hands in a circle. Anthropologists (scientists who study human cultures) have found that every human society in history has rituals — they are universal.
 
 **Celebrate**: To honor and show joy about something special or important, often with other people through singing, eating, dancing, or sharing time together.
 
 **Tradition**: A special way of doing something that families or communities pass down over time, like how they mark holidays or special moments in their own unique way.
+
+**Rite of passage**: A ceremony that marks an important life transition — moving from one stage of life to another. Being born, starting school, becoming an adult, and getting married are all transitions marked by rites of passage in cultures around the world. Even a "first day of school" party is a rite of passage.
+
+**Social cohesion**: The way that shared rituals and ceremonies bind a community together — creating a sense of belonging, shared identity, and trust. When a group repeats the same actions together (the same song, the same gathering), it signals "we are one group" and strengthens the bonds between people.
+
+**Oral tradition**: The way knowledge, stories, and ceremonies are passed down through generations by speaking and doing — not by writing. Most of the world's cultural traditions existed as oral traditions long before writing was invented, and many still are.
 
 ## 🎵 Learning Song
 
@@ -104,9 +110,10 @@ Children participate in creating a group celebration or ceremony that marks a sp
 
 1. **Introduction** (3-5 minutes):
    - Begin with calm, intentional energy: "Today is a special day. We're gathered together for something meaningful."
+   - Explain what ceremonies really are: "People everywhere — in every country, in every time in history — have held ceremonies together. Anthropologists, the scientists who study human cultures, have found that rituals and ceremonies help people feel like they belong to a group and mark the important moments in life. Today we're doing something human beings have always done."
    - Explain the ceremony simply: "We're celebrating [person's achievement/occasion]" or "We're holding a [type of ceremony]"
    - Set expectations: "During our ceremony, we listen, we watch, and we're kind to each other. Everyone's feelings matter here."
-   - Point to or show the focal point (decoration, candle, or symbol): "This helps us remember that this is a special time"
+   - Point to or show the focal point (decoration, candle, or symbol): "This symbol helps us remember that this is a special time — that's what symbols do in ceremonies."
 
 2. **Exploration** (15-25 minutes):
    - **Opening Ritual**: Gather everyone in the circle. Light a candle or point to the focal point and explain its significance. Sing an opening song together about gathering or the occasion. Ask children to share what they notice about the space.

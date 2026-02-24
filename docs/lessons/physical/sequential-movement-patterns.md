@@ -8,6 +8,18 @@ Sequential movement patterns help young children develop coordination, motor pla
 
 **Duration**: 10-15 minutes (with natural breaks)
 
+## Key Concepts
+
+**Motor planning (praxis)**: The brain's ability to conceive, plan, and execute a novel sequence of movements. Before your body moves, your brain has to figure out which muscles to activate, in what order, and with what timing. Sequential movement patterns give children practice developing this skill.
+
+**Working memory**: The cognitive system that temporarily holds information while you use it. When a child watches "clap, stomp, spin" and then tries to copy it, their working memory is holding that sequence. Working memory capacity is limited in young children (typically 1–2 items at age 2, growing to 3–4 items by age 4), which is why short sequences must come before longer ones.
+
+**Proprioception**: The sense of where your body parts are in space, without needing to look at them. Proprioceptive receptors in muscles and joints send signals to the brain about limb position and movement. Practicing movement sequences strengthens proprioceptive awareness — children become more precise and less reliant on visual feedback to know where their arms and legs are.
+
+**Cerebellum**: The region of the brain located at the base of the skull that coordinates movement, balance, and timing. When children practice a movement sequence repeatedly, the cerebellum encodes the pattern, making execution smoother and more automatic over time. This is the biological basis of "muscle memory."
+
+**Neural pathways**: The connections between brain cells (neurons) that strengthen with repeated use. When a movement sequence is practiced many times, the neural pathway for that sequence becomes more efficient — signals travel faster, requiring less conscious effort. This is why a sequence that felt hard at first eventually feels easy.
+
 **Energy Level**: Moderate
 
 **Best Environment**: Living room, Indoor gymnasium, Backyard
@@ -74,9 +86,10 @@ Sequential movement patterns help young children develop coordination, motor pla
 
 #### Introduction & Demonstration (1-2 minutes)
 
-- **How to introduce**: "Today we're going to learn some fun movement patterns! I'm going to show you a movement, and then you copy me. Let's start with something easy."
+- **How to introduce**: "Today we're going to practice movement sequences — patterns of movements you do in a specific order. Your brain has to remember the sequence and plan what to do next, and your body has to carry it out. That takes real skill! I'm going to show you a movement, and then you copy me."
 - **What to demonstrate**: Show the first simple 2-3 movement sequence slowly and clearly (e.g., clap, stomp, spin)
-- **Key coaching point**: "Do it just like me! Watch carefully - I'm clapping, then stomping, then spinning!"
+- **Key coaching point**: "Do it just like me! Watch carefully — I'm clapping, then stomping, then spinning! Your brain is storing the sequence in working memory while you watch."
+- **The science**: "The more we practice, the more the sequence gets encoded in your cerebellum — the part of your brain that coordinates movement. That's why it gets easier every time!"
 
 #### Skill Practice (3-5 minutes)
 
@@ -193,7 +206,7 @@ Sequential movement patterns help young children develop coordination, motor pla
 
 **Challenge**: Child forgets the sequence after you demonstrate it once
 
-**Why**: At this age, working memory is very limited. They may remember 1-2 movements but forget the order or the third movement.
+**Why**: Working memory — the cognitive system that holds the sequence while executing it — is very limited at this age (typically 1-2 items at age 2, growing to 3-4 by age 4). They may hold "clap" and "stomp" but not the third step.
 
 **Solution**:
 - Repeat your demonstration 3-4 times before expecting them to copy

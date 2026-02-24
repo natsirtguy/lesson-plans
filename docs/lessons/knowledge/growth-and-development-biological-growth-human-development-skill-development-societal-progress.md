@@ -6,13 +6,19 @@ Children explore the concept of growth through observing living things, measurin
 
 ## Vocabulary
 
-**Grow**: To become bigger, taller, or stronger over time. When you were a baby, you were tiny. Now you're bigger—that's growing! Plants grow taller when they get sunlight and water.
+**Grow**: To become bigger over time — but growth isn't magic. It happens because cells (the tiny building blocks of all living things) divide and multiply. When a plant sprouts a new leaf, tiny cells are dividing over and over to make more cells. That's how bodies grow.
 
-**Transform**: To change from one state into something quite different. A caterpillar transforms into a beautiful butterfly. A baby transforms into a child, then a grown-up.
+**Cell division**: The process by which one cell splits into two. Every time you grow a tiny bit — a new skin cell, a longer bone — it starts with cell division. Your body contains trillions of cells, all descended from one original cell.
 
-**Develop**: To gradually get better at something through practice and time. You develop your abilities when you learn to walk, talk, or ride a bike. Your skills develop as you practice.
+**Germination**: The process by which a seed sprouts and begins to grow into a plant. Inside a seed is a tiny embryo (a baby plant) waiting for the right conditions — water, warmth, and sometimes light — to wake up and start growing. The moment it breaks through the seed coat and reaches for light is called germination.
 
-**Progress**: Moving forward and making improvements step by step. When you learn to tie your shoes, that's progress. A plant showing new leaves is showing progress in its growth.
+**Metamorphosis**: A dramatic biological transformation in which an animal changes its form entirely. Caterpillars undergo complete metamorphosis: egg → larva (caterpillar) → pupa (chrysalis) → adult (butterfly). Inside the chrysalis, the caterpillar's cells essentially dissolve and reorganize into a completely different body. Tadpoles undergo a similar transformation into frogs.
+
+**Nutrients**: Substances that living things absorb from food, water, or soil that the body uses to grow and function. Plants absorb nutrients — like nitrogen, phosphorus, and potassium — through their roots from the soil. Animals get nutrients from food. Without the right nutrients, growth slows or stops.
+
+**Photosynthesis**: The process plants use to make their own food using sunlight. A plant absorbs light through chlorophyll (the green pigment in leaves), combines it with carbon dioxide from the air and water from the soil, and produces sugar — the plant's fuel for growth. That's why plants need sun to grow.
+
+**Develop**: To gradually change or mature over time. Development includes both getting physically bigger and gaining new abilities. Human development follows predictable stages: infants learn to hold their heads up before they can sit, sit before they can walk. Each stage builds on the last.
 
 ## Learning Song
 
@@ -107,7 +113,7 @@ Children engage in multi-sensory exploration of growth by measuring plant growth
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show the child the tiny seed. Ask: "What do you think will happen to this little seed?" Explain that seeds are alive and will grow into plants. Discuss how they grew from tiny babies too. Emphasize that growth takes time and we'll watch it happen together.
+   Show the child the tiny seed. Ask: "What do you think will happen to this little seed?" Explain that inside the seed is a tiny embryo — a baby plant — waiting for the right conditions to wake up. When water reaches it and it gets warm enough, germination begins: the seed coat splits open and the first root pushes down while the first shoot reaches up toward light. That process is already happening at the level of tiny cells dividing and multiplying. Discuss how they grew from tiny embryos too. Emphasize that growth takes time and we'll watch it happen together.
 
 2. **Exploration** (7-10 min):
    - Child plants the seed (pushes into soil or cotton)
@@ -120,10 +126,10 @@ Children engage in multi-sensory exploration of growth by measuring plant growth
 3. **Discovery** (3-5 min):
    Ask observation questions:
    - "Can you see the seed? Where did it go?"
-   - "What do you think the seed needs to grow? Let's think: water, sunshine, soil"
-   - "How are you like a seed? You grow too!"
-   - "When you were a baby, were you bigger or smaller than now?"
-   - Observe together: "What changes do you notice?" (soil getting darker, tiny sprout emerging, tadpole features developing)
+   - "What does the seed need to germinate — to wake up and start growing? Water gives the embryo the signal to start. Sun provides the energy through photosynthesis once leaves appear. Soil provides nutrients — the minerals the growing plant needs."
+   - "How are you like a seed? You grew from one tiny cell too!"
+   - "When you were a baby, were you bigger or smaller than now? Your bones grew longer because cells kept dividing — that's how your body grew."
+   - Observe together: "What changes do you notice?" (soil getting darker, tiny sprout emerging — that first green shoot is germination happening, tadpole features developing during metamorphosis)
 
 4. **Wrap-up** (2-3 min):
    Place the container in a sunny spot. Plan return visits: "In three days, let's look again and see if it grows bigger!" Acknowledge that growth takes patience. Celebrate the child's own growth: "You're getting stronger and learning new things every day!"
