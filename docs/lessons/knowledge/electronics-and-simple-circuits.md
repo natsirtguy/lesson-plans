@@ -6,13 +6,19 @@ In this hands-on exploration, young children discover how electricity works thro
 
 ## Vocabulary
 
-**Electricity**: The flow of energy that travels through wires and makes lights, toys, and devices work. When you turn on a lamp or use a battery-powered toy, electricity is doing the work.
+**Electron**: A tiny particle inside every atom that carries a negative electric charge. Electricity is the flow of electrons moving through a wire — billions of electrons moving together, passing energy from one atom to the next. We can't see electrons, but we can see what they do (light up a bulb, power a motor).
 
-**Circuit**: A complete path that electricity travels around, like a circle or loop. The electricity starts at the battery, flows through the wire and light, and comes back to the battery to complete the path.
+**Electricity**: The flow of electrons through a conductor. When electrons are pushed through a wire by a battery, their movement is what we call electricity. It travels almost as fast as light.
 
-**Conductor**: Something that electricity can flow through easily, like copper wire or metal. It's like a path that lets the energy travel where you want it to go.
+**Circuit**: A complete loop that electrons travel around. If the loop is broken anywhere — a disconnected wire, a dead battery — electrons stop flowing and the light goes out. "Circuit" comes from the Latin word for *circle*.
 
-**Energy**: The power that makes things work and move. Batteries store energy, and when we connect them the right way, that energy can light up bulbs, make sounds, or power toys.
+**Conductor**: A material that lets electrons flow through it easily, because its atoms have loosely-held electrons that can move freely. Metals like copper and aluminum are excellent conductors — that's why wires are made of copper inside.
+
+**Insulator**: The opposite of a conductor — a material that blocks electron flow. Rubber, plastic, and glass are insulators. That's why wires have a plastic coating: the copper inside conducts electricity, but the plastic coating keeps it from escaping where you don't want it.
+
+**Battery**: A device that converts stored chemical energy into electrical energy. Inside a battery, a chemical reaction pushes electrons out of the negative terminal (−) and pulls them back in at the positive terminal (+). When those terminals are connected in a circuit, electrons flow.
+
+**Anode and Cathode**: The two ends of an LED. The longer leg is the anode (positive side) and the shorter leg is the cathode (negative side). Electrons can only flow one way through an LED — that's why getting the legs in the right direction matters.
 
 ## 🎵 Learning Song
 
@@ -106,10 +112,11 @@ Children will explore the fundamentals of electricity by creating simple circuit
 
 1. **Introduction** (2-3 min):
    - Hold up a battery and ask: "What do you think this does? Have you seen these before?"
-   - Show an LED light: "This is very special. It has a superpower - it can light up!"
-   - Say: "When we connect things the right way, electricity travels through this wire and makes the light glow. Watch!"
+   - Explain: "Inside this battery, there's a chemical reaction happening right now — chemicals are reacting together, and that reaction creates a push that can move tiny particles called electrons. Electrons are so small we can't see them, but when they flow through a wire, we call that electricity!"
+   - Show an LED light: "This is a special kind of light called an LED — Light Emitting Diode. When electrons flow through it, they make it glow!"
+   - Say: "When we connect things in a complete loop, electrons travel from the battery, through the wire, through the LED, and back to the battery. That loop is called a circuit."
    - Demonstrate the light glowing and let the child observe
-   - Set expectations: "We're going to be engineers today - people who build things that work"
+   - Set expectations: "We're going to be engineers today — people who build things that work"
 
 2. **Exploration** (5-7 min):
    - Let the child hold the battery, feel it, and examine it
@@ -120,12 +127,13 @@ Children will explore the fundamentals of electricity by creating simple circuit
 
 3. **Guided Creation** (7-10 min):
    - Demonstrate making the simplest circuit: battery → wire → LED → wire → battery
-   - Use clear language: "The electricity wants to travel in a circle. Like a path. It goes out and comes back"
-   - Show how the longer LED leg connects to the positive (+) side of the battery
-   - Show the shorter leg connects to the negative (-) side
+   - Use clear language: "Electrons travel from the battery's negative side, through the wire, through the LED, and back to the battery's positive side. They need a complete loop — if there's a gap anywhere, they stop."
+   - Show how the longer LED leg (the anode) connects to the positive (+) side of the battery: "The long leg is the entrance for electrons — they flow in here and make light"
+   - Show the shorter leg (cathode) connects to the negative (−) side
+   - Point out the wire: "Feel the wire — it's copper inside and plastic outside. The copper is a conductor, so electrons flow through it. The plastic is an insulator, so the electricity stays inside the wire where we want it."
    - Let the child try connecting one wire while you hold others
-   - Celebrate success: "You did it! Look at that light! You made that happen!"
-   - If it doesn't work, troubleshoot together: "Maybe we need to check if this leg is touching..."
+   - Celebrate success: "You did it! Look at that light! Electrons are flowing through our circuit right now!"
+   - If it doesn't work, troubleshoot together: "Maybe we need to check if this leg is touching — if there's a gap in the circuit, electrons can't flow"
 
 4. **Free Exploration** (remaining time):
    - Let the child experiment with different ways to connect wires

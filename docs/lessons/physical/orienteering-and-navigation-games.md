@@ -2,7 +2,9 @@
 
 ## Activity Summary
 
-Orienteering and navigation games introduce young children to spatial awareness, direction words, and simple map-reading concepts through playful exploration of their environment. These activities build confidence in outdoor navigation, teach children to follow directions, and develop their understanding of spatial relationships like "forward," "backward," "left," and "right." Through games like treasure hunts and following colored paths, children learn that spaces have boundaries, different routes lead to the same place, and they can develop their own sense of direction.
+Orienteering is a competitive sport and navigation skill in which participants use a map and compass to find a series of marked locations (called *control points*) across terrain, as fast as possible. It originated in Scandinavia in the 1800s as military training and is now an Olympic-level sport. The core skills — reading a map, taking a compass bearing, and spatial reasoning — are exactly the skills used by explorers, sailors, hikers, pilots, and scientists throughout history.
+
+This lesson introduces young children to spatial awareness, direction words, and simple map-reading concepts through playful exploration. Through games like treasure hunts and following paths, children begin developing the cognitive mapping abilities that the brain relies on for all navigation — and that begin forming in early childhood.
 
 **Activity Type**: Outdoor adventure
 
@@ -65,7 +67,11 @@ Orienteering and navigation games introduce young children to spatial awareness,
 
 ### Warm-Up (2-3 minutes)
 
-**Purpose**: Activate children's bodies and introduce directional concepts in preparation for navigation activities. A warm-up helps children focus and gets them thinking about directions.
+**Purpose**: Activate children's bodies and introduce directional concepts. A warm-up helps children focus and begins building their spatial awareness.
+
+**What's happening in the brain**: The hippocampus — a seahorse-shaped structure deep in the brain — creates "cognitive maps," mental representations of spaces and where things are within them. Even young children's brains are constantly building these maps. Navigating new spaces and following directions exercises and strengthens the hippocampus. Notably, left/right is neurologically harder than forward/backward: forward and backward are relative to the front of the body (easy), while left and right require knowing which side of the body is which (harder, develops more gradually).
+
+**Cardinal directions**: Before starting, point out the sun and note which direction it's in. Explain: "The sun rises in the East every morning and sets in the West every evening. If the sun is there (point), that direction is East, and behind us is West. There are four main directions: North, South, East, West — called the cardinal directions. Explorers and sailors have used them for thousands of years!"
 
 **Warm-up activities**:
 1. **Direction dance** - Play simple music or sing a song while children follow your directions. Call out: "Everyone walk FORWARD," "Turn and walk BACKWARD," "Step LEFT," "Step RIGHT." Move slowly and exaggerate each movement.
@@ -78,9 +84,11 @@ Orienteering and navigation games introduce young children to spatial awareness,
 
 #### Introduction & Demonstration (2 minutes)
 
-- **How to introduce the movement**: Gather children in the starting area (sitting if you prefer). Explain: "Today we're going on an adventure to find special spots in our play area. We're going to follow directions to discover where treasures or special things are hidden."
-- **What to demonstrate**: Show children the direction cards (if using them). Point to each one and make the motion: "This arrow means GO FORWARD" (walk forward), "This one means TURN LEFT" (turn left), "This means TURN RIGHT" (turn right), "This one means STOP" (hold hand up).
-- **Key coaching point**: Emphasize that they should look for the markers you've placed (cones, ribbons, or chalk arrows) and follow where they point. "We follow the path. When we see a marker, we know which way to go next."
+- **How to introduce the movement**: Gather children in the starting area (sitting if you prefer). Explain: "Today we're going to be orienteers — that's what you call someone who navigates with a map! Real orienteering is a sport where people race through forests using maps and a special tool called a compass to find hidden checkpoints. We're going to do the same thing, just in our yard!"
+- **Show a compass if available**: "A compass has a magnetic needle that always points toward magnetic North — because Earth itself is a giant magnet with a North Pole. No matter where you go, your compass always points the same direction. Sailors used compasses to cross oceans before GPS existed."
+- **Map introduction**: Show a simple hand-drawn map of the play area if you made one: "This is a map — a bird's-eye view of our space, as if we're looking down from above. These marks are where things are. Maps help us plan our route before we move."
+- **What to demonstrate**: Show children the direction cards. "This arrow means GO FORWARD, this means TURN LEFT, this means TURN RIGHT, this means STOP. These are the building blocks of any navigation route — even the directions a GPS gives you are just these four things combined!"
+- **Key coaching point**: Emphasize that they should look for the markers and follow them. "Real orienteers look at their map and compass, then at their surroundings, and match them up. We're learning that same skill."
 
 #### Skill Practice (3-5 minutes)
 
@@ -122,8 +130,8 @@ Orienteering and navigation games introduce young children to spatial awareness,
 
 #### Free Exploration (2-3 minutes)
 
-- **What to encourage**: Allow children to explore the marked play area freely, experimenting with different paths and directions. Ask open-ended questions: "Can you find a different way to get to that cone?" "What direction did you go to get there?" "Can you go backward and find the way back?"
-- **When to observe**: Watch for children who are confident navigating and those who need more support. Note which directions (left/right) are easier or harder for individual children.
+- **What to encourage**: Allow children to explore the marked play area freely, experimenting with different paths and directions. Ask open-ended questions: "Can you find a different way to get to that cone?" "What direction did you go to get there?" "Can you make a map in your head of where things are?" "Where is the sun right now — can you figure out which way is East?"
+- **When to observe**: Watch for children who are confident navigating and those who need more support. Note which directions (left/right) are easier or harder — this is developmentally normal and varies widely at this age.
 
 ### Cool-Down (2-3 minutes)
 

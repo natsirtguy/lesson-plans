@@ -6,13 +6,17 @@ Young children learn to care for and maintain creative and play equipment throug
 
 ## Vocabulary
 
-**Maintain**: To keep something in good condition by caring for it regularly. When you maintain your paintbrushes by washing them after you use them, they stay soft and clean and ready to paint again.
+**Pigment**: The tiny colored particles in paint that give it color. When you paint with red paint, red pigment particles are what you see. Cleaning a brush removes those pigment particles from the bristles.
 
-**Equipment**: Tools and supplies that help us do activities. Your paintbrushes, markers, and containers are equipment that helps you create art.
+**Binder**: The substance that holds pigment particles together and makes them stick to paper. In most kids' paints, the binder is water-soluble — meaning it dissolves in water — which is why you can wash brushes with just water.
 
-**Organization**: Arranging things in a neat, ordered way so you can find them easily. When you organize your markers by putting all the red ones in one basket and all the blue ones in another basket, everything has a special place.
+**Surfactant**: The active ingredient in soap that helps lift dirt and paint. Soap molecules have one end that loves water and one end that loves oil and grease. They surround oily particles, letting water rinse them away. "Surfactant" comes from "surface active agent."
 
-**Restore**: To clean something or fix it so it looks and works like new again. When you restore a dirty paintbrush by washing it in water, it becomes clean and ready to use again.
+**Oxidation (Rust)**: A chemical reaction between metal, oxygen (from air), and water that creates iron oxide — the reddish-brown flaking we call rust. This is why we dry metal tools carefully: water left on metal causes oxidation. The scientific term for rust is *iron oxide*.
+
+**Bristles**: The hairs or fibers at the end of a brush that hold and apply paint. Bristles can be made of animal hair (like sable or hog hair) or synthetic fibers (like nylon). Their shape matters — flattened or splayed bristles don't hold paint well, which is why we store brushes carefully.
+
+**Maintain**: To keep something in good working condition through regular care — preventing damage before it happens, rather than fixing it after.
 
 ## 🎵 Learning Song
 
@@ -105,14 +109,15 @@ In this hands-on activity, children practice caring for real art equipment and m
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Introduce the activity with enthusiasm: "Look! These brushes helped us create beautiful art. Now they need a little cleaning to stay healthy and ready for more creating." Show the child what needs care and invite them to help: "You're going to be the art equipment doctor today! Let's take care of our tools."
+   Introduce the activity with enthusiasm: "Look! These brushes helped us create beautiful art. They have pigment — tiny color particles — stuck in their bristles. We need to clean them out so the bristles stay soft and the brush keeps working well." Show the child what needs care: "You're going to be the art equipment doctor today! When we wash brushes in water, the water dissolves the binder — the stuff holding the paint together — and carries the pigment away. Watch the water turn colored as the paint comes out!"
 
 2. **Exploration** (5-10 min):
-   - Let child examine the equipment closely. Ask: "What color was this brush before? What does it feel like now?"
-   - Guide child to gently dip brushes in water with narration: "See the paint coming off? The water is getting colored!"
-   - Encourage swishing and gentle movements: "Nice and gentle, like giving the brush a bath."
-   - Let child feel the difference between wet and dry: "Does it feel softer now?"
-   - Repeat at child's own pace with multiple items, providing encouragement and celebrating progress
+   - Let child examine the equipment closely. Ask: "What color was this brush before? What does it feel like now? The bristles might feel stiff — that's dried pigment and binder stuck in them."
+   - Guide child to gently dip brushes in water with narration: "See the paint coming off? The water is carrying away the pigment! The water is turning blue because there are blue pigment particles in it now."
+   - If using soap: "Soap has something called surfactant in it — it helps the water grab the paint and pull it off. The soap surrounds the paint particles and lets the water rinse them away."
+   - Encourage swishing and gentle movements: "Nice and gentle — we don't want to splay the bristles or they'll lose their shape."
+   - When drying metal scissors or tools: "Metal tools need to be dried carefully — if we leave water on metal, a chemical reaction happens between the metal, water, and air that makes rust. Rust is called iron oxide and it damages the metal."
+   - Let child feel the difference between wet and dry: "Does it feel softer now? The bristles are clean!"
 
 3. **Organization** (3-5 min):
    - Show child where each item belongs with clear language: "Brushes go in the red container. Markers go in the green one."
