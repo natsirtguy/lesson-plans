@@ -4,10 +4,10 @@
 
 ## Lessons
 
-- [ ] `docs/lessons/knowledge/escape-room-and-mystery-solving.md`
-- [ ] `docs/lessons/knowledge/event-planning-and-coordination.md`
-- [ ] `docs/lessons/knowledge/farming-and-food-production.md`
-- [ ] `docs/lessons/knowledge/filing-and-record-keeping-activities.md`
-- [ ] `docs/lessons/knowledge/friendship-games-and-activities.md`
-- [ ] `docs/lessons/physical/rhythmic-gymnastics-with-props.md`
-- [ ] `docs/lessons/physical/rugby-and-contact-sports.md`
+- [x] `docs/lessons/knowledge/escape-room-and-mystery-solving.md`
+- [x] `docs/lessons/knowledge/event-planning-and-coordination.md`
+- [x] `docs/lessons/knowledge/farming-and-food-production.md`
+- [x] `docs/lessons/knowledge/filing-and-record-keeping-activities.md`
+- [x] `docs/lessons/knowledge/friendship-games-and-activities.md`
+- [x] `docs/lessons/physical/rhythmic-gymnastics-with-props.md`
+- [x] `docs/lessons/physical/rugby-and-contact-sports.md`

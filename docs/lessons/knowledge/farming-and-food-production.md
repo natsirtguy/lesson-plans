@@ -2,19 +2,23 @@
 
 ## Activity Summary
 
-Children explore where food comes from by learning about farms, growing plants, and the journey from seed to harvest. Through sensory activities and discovery play, they understand that farmers grow the fruits, vegetables, and grains we eat every day, building gratitude and appreciation for the natural world and the people who feed us.
+Children explore where food comes from by learning about farms, growing plants, and the journey from seed to harvest. At the heart of farming is photosynthesis — the remarkable process by which plants use sunlight, water, and carbon dioxide from the air to manufacture their own food (sugars). Farmers are essentially managers of photosynthesis at scale: they cultivate conditions for this chemical reaction to occur, then harvest the stored energy. Children plant real seeds and observe germination, building direct understanding of the biological processes that produce all food.
 
 ## Vocabulary
 
 Select vocabulary words that are sophisticated but age-appropriate, directly related to the topic, and can be demonstrated or experienced.
 
-**Cultivate**: To grow plants by caring for them with water, sunlight, and soil. When we cultivate a garden, we prepare the earth, plant seeds, water them each day, and watch them grow into food we can eat.
+**Photosynthesis**: The process plants use to make their own food — they capture sunlight with a green chemical called chlorophyll and use that energy to turn water and carbon dioxide (a gas from the air) into sugar. "The plant's green leaves are doing photosynthesis right now, turning sunlight into food!"
 
-**Harvest**: The time when farmers pick ripe fruits, vegetables, or grains that are ready to eat. At harvest time, tomatoes are red and sweet, carrots pull from the ground, and wheat is golden and dry.
+**Chlorophyll**: The green pigment inside plant leaves that captures light energy for photosynthesis. Chlorophyll is why leaves are green — and in autumn when plants stop making chlorophyll, we see the other colors hidden underneath.
 
-**Germinate**: When a seed awakens and begins to sprout roots and leaves underground and above. You can watch a seed germinate by planting it in wet soil and seeing the first tiny green shoot push through after several days.
+**Germinate**: When a seed awakens and begins to sprout roots and leaves. Inside every seed is a tiny embryo — a baby plant — plus stored food (called cotyledon) that feeds the embryo until it can photosynthesize on its own. You can watch a seed germinate by planting it in wet soil and seeing the first tiny green shoot push through after several days.
 
-**Sustain**: To provide what something needs to live and grow, like how soil and water sustain plant growth. Our bodies are sustained by the nutrients and energy in the food farmers grow.
+**Cultivate**: To grow plants by intentionally providing the conditions they need — soil, water, light, and nutrients. When we cultivate a garden, we're creating optimal conditions for photosynthesis and growth.
+
+**Harvest**: The time when farmers collect ripe fruits, vegetables, or grains that are ready to eat. At harvest time, tomatoes are red and sweet, carrots pull from the ground, and wheat is golden and dry.
+
+**Nutrient**: A substance a plant (or animal) absorbs from its environment that it needs to grow. Plants get nutrients like nitrogen, phosphorus, and potassium from soil — that's why healthy soil matters so much to farmers.
 
 ## Learning Song
 
@@ -103,7 +107,7 @@ Children plant seeds and observe germination and growth over time, experiencing 
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Begin by showing the child the dry bean seed. Ask: "What do you think is inside this tiny seed? Can you feel how hard it is?" Explain that inside is a baby plant waiting to grow. Show a picture of a farm or growing plant if available, and describe how farmers plant seeds just like you're about to do. Use the word "cultivate" - "We're going to cultivate our own plant!"
+   Begin by showing the child the dry bean seed. Ask: "What do you think is inside this tiny seed? Can you feel how hard it is?" Explain that inside is a tiny embryo — a baby plant — with its own stored food to get started. "Once it germinates and grows green leaves, it can make its own food using sunlight. That's called photosynthesis — the leaves use a green chemical called chlorophyll to capture light and turn it into sugar." Show a picture of a farm or growing plant if available, and describe how farmers cultivate conditions for photosynthesis to happen at scale. Use the word "cultivate" — "We're going to cultivate our own plant!"
 
 2. **Exploration** (5-8 minutes):
    Guide the child to plant seeds by:
@@ -118,8 +122,9 @@ Children plant seeds and observe germination and growth over time, experiencing 
 3. **Discovery** (3-5 minutes):
    Ask discovery questions:
    - "What does the seed need to grow? Water? Sunshine? Soil?"
-   - "Do you think anything is happening under the soil right now?"
-   - Introduce the word "germinate" - "Soon your seed will germinate - that means it will wake up and start growing!"
+   - "Do you think anything is happening under the soil right now? The embryo inside is starting to wake up and use its stored food!"
+   - Introduce the word "germinate" — "Soon your seed will germinate — that means the baby plant inside will break out and start growing roots and leaves"
+   - "Once the leaves are green, they'll start photosynthesis — making food from sunlight. The plant uses chlorophyll — that's what makes leaves green — to capture light energy"
    - Take a photo of the setup so you can compare growth later
    - Establish a daily watering routine (every 1-2 days)
 

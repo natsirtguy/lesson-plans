@@ -499,10 +499,20 @@
     "issues": "Entirely procedural; vocabulary was everyday words; no science behind why maintenance works (paint chemistry, surfactants, oxidation/rust, bristle materials)",
     "fixed": "Added pigment/binder/surfactant/oxidation/bristles vocabulary; explained how water-soluble binders enable washing, how soap surfactants work, why metal must be dried to prevent rust; wove these concepts into activity narration"
   },
+  "knowledge/escape-room-and-mystery-solving.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Only everyday vocabulary (mystery, clue, puzzle, solve); activities were themed hide-and-seek with no real cognitive science content; no mention of deductive reasoning, hypothesis formation, evidence, or logical inference",
+    "fixed": "Added real reasoning vocabulary (deduction, hypothesis, evidence, eliminate, sequence, observation); rewrote activity flow to model and name detective reasoning processes; added elimination tracking and conditional logic for older children; updated summary to name the cognitive skills being developed"
+  },
   "knowledge/evaluating-information.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Wrong frame — used \"real vs. pretend\" as a proxy for evaluating information. Never taught claims, evidence, sources, bias, or how to reason from evidence. No critical thinking framework. Vocabulary was basic (observe, compare, question, real).",
     "fixed": "Replaced vocabulary with claim, evidence, source, bias, experiment, logical fallacy. Rewrote entire activity around claim-testing: state a claim, make a prediction, test it physically, observe results, compare. Added \"source check game\" with made-up scenario cards teaching source reliability, bias, and the difference between an anecdote and data. Updated age adaptations with concrete application of all vocabulary."
+  },
+  "knowledge/event-planning-and-coordination.md": {
+    "verdict": "PASS",
+    "issues": "Uses real organizational vocabulary: coordinate, sequence, collaborate, delegate; activities teach genuine planning and logistics skills; connects to real-world event management processes",
+    "fixed": "N/A"
   },
   "knowledge/exploration-and-investigation-physical-world-discovery-creative-materials-social-interactions-learning-environments.md": {
     "verdict": "PASS",
@@ -534,10 +544,20 @@
     "issues": "Vocabulary was everyday (\"interaction,\" \"connection,\" \"reciprocal,\" \"engagement\"). Peek-a-boo mentioned but its developmental significance (object permanence — Piaget's foundational milestone) completely missed. No serve-and-return science, no attachment theory, no imitation/mirror neuron framing.",
     "fixed": "Replaced vocabulary with serve and return (Harvard Center on the Developing Child, neural circuit building), object permanence (Piaget, why peek-a-boo matters), attachment (Bowlby/Ainsworth, secure base theory), imitation (mirror neuron system). Updated age adaptations to explain developmental significance of each game type, including false belief in hide-and-seek."
   },
+  "knowledge/farming-and-food-production.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing photosynthesis — the central mechanism of plant growth; mentioned sunlight without explaining why plants need it; no mention of chlorophyll, seed anatomy (embryo/cotyledon), or soil nutrients",
+    "fixed": "Added photosynthesis, chlorophyll, nutrient, and embryo/cotyledon to vocabulary; rewrote summary to frame farming as management of photosynthesis at scale; integrated these concepts into activity flow"
+  },
   "knowledge/fashion-and-clothing.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No textile science. Vocabulary was \"texture, garment, drape, adornment.\" No fibers, weaving, thermal insulation, or material science. \"This jacket is waterproof\" stated with no explanation of how waterproofing works.",
     "fixed": "Replaced vocabulary with fiber (natural vs. synthetic — cotton, wool, silk, polyester, nylon), thermal insulation (trapped air pockets, wool crimping, down feathers), weaving (warp/weft on loom vs. knitting), dye (chemical bonding, historical pigments — indigo, Tyrian purple). Rewrote activity with water absorption tests, fiber type sorting, and weaving demonstrations. Added silk production, dye experiments, and fabric engineering for 3-4+."
+  },
+  "knowledge/filing-and-record-keeping-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary was basic organizational terms without deeper concepts; activities treated filing as purely mechanical sorting with no insight that categories are human constructs or that classification is a fundamental cognitive/scientific skill; missing real-world classification systems",
+    "fixed": "Added classification, attribute vocabulary; rewrote summary to frame filing as the cognitive skill of classification used in biology, libraries, and science; introduced the key insight that the same item can be classified multiple ways; added sub-categories and historical reclassification example to older age adaptation"
   },
   "knowledge/finding-your-way-around.md": {
     "verdict": "FAIL -> FIXED",
@@ -608,6 +628,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary defined \"linguistic\" vaguely and was missing \"phoneme.\" Activity was process-only (\"repeat after me,\" \"sing songs\") with no intellectual content about WHY languages differ, what makes foreign sounds hard, or the cognitive science of bilingualism. No language families, no 7,000 languages fact, no phoneme concept, no neural/executive function benefits of multilingualism.",
     "fixed": "Replaced vocabulary with phoneme (smallest sound unit), language family (Latin roots, Romance languages), iteration, predictability. Added phoneme, articulation as mouth muscle training, language family context, cognitive diversity research, and bilingualism's executive function benefits. Rewrote introduction to include the ~7,000 languages fact and language family origins. Added phoneme training framing in Sound Play. Updated multi-language comparison to use concrete water/water examples across six languages. Updated 3-4+ to explain geographic divergence of language (island species analogy)."
+  },
+  "knowledge/friendship-games-and-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing key developmental psychology concepts: stages of play development, theory of mind, reciprocity; activities framed as generic fun without naming the social-cognitive skills being developed",
+    "fixed": "Added theory of mind, reciprocity vocabulary; rewrote summary to explain stages of play development and why theory of mind is central to friendship; added developmental framing to age adaptations with guidance on making others' internal states visible and practicing perspective-taking explicitly"
   },
   "knowledge/game-creation-and-rule-making.md": {
     "verdict": "FAIL -> FIXED",
@@ -1729,10 +1754,20 @@
     "issues": "No vocabulary section at all. No muscle names, no cardiovascular physiology, no physics of acceleration. Coaching cues were purely motivational with no science.",
     "fixed": "Added full vocabulary section: acceleration (Newton's Third Law, quadriceps/gluteus push), anaerobic exercise (glucose without oxygen, lactic acid byproduct), quadriceps/hamstrings (antagonist pair, 5 contractions per second during sprinting), cardiovascular system (heart rate 80→180 bpm, stroke volume, vessel dilation). Rewrote warm-up, coaching, and cool-down with muscle names, Newton's laws, and cardiovascular physiology."
   },
+  "physical/rhythmic-gymnastics-with-props.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Described activity as generic scarf play without explaining that rhythmic gymnastics is an Olympic sport; no physics content (momentum, air resistance); no motor development terminology (proprioception, bilateral coordination); coaching language was purely aesthetic with no technical concepts",
+    "fixed": "Added summary explaining rhythmic gymnastics as an Olympic sport with five apparatus; introduced momentum, air resistance, proprioception, bilateral coordination; updated coaching cues to include physics and body-awareness concepts; framed free exploration as physics discovery"
+  },
   "physical/rock-climbing-and-bouldering.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. Good technique advice (\"push from legs, not arms\") but never explained WHY — no physics of center of gravity, no friction science, no muscle anatomy. Coaching was motivational rather than educational.",
     "fixed": "Added full vocabulary section: center of gravity (keeping weight over feet on holds), friction (skin-to-hold contact, chalk absorbs sweat, rubber shoe coefficient), forearm flexors (flexor digitorum profundus/superficialis — primary climbing muscles), lactic acid (anaerobic byproduct causing \"pump,\" cleared by blood flow during rest). Rewrote coaching cues with physics explanations for hip position, friction maximization, leg vs. arm muscle size comparison, and three-point-of-contact stability."
+  },
+  "physical/rugby-and-contact-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Lesson never explained what rugby actually is — its origin, distinctive backward-pass rule, scoring (try), or how it differs from other sports; no physiology content about cardiovascular response to exercise",
+    "fixed": "Added rugby history, the lateral/backward pass rule, try scoring; introduced cardiovascular system, heart rate, lactic acid in coaching cues; rewrote introduction to teach the actual sport rules while adapting for toddler safety"
   },
   "physical/sailing-and-wind-sports.md": {
     "verdict": "FAIL -> FIXED",

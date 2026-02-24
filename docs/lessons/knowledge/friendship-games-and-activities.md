@@ -2,17 +2,19 @@
 
 ## 🎯 Activity Summary
 
-Friendship games and activities are structured, playful interactions designed to build positive relationships and teach cooperation. Through games that require turn-taking, collaboration, and positive interaction, children learn to enjoy each other's company, develop empathy, and experience the joy of shared play. This activity builds foundational social skills children need for healthy peer relationships while teaching cooperation and creating joyful shared memories.
+Friendship games and activities build the social-cognitive skills that underpin all human relationships. Children develop through stages of play: first solitary play (playing alone), then parallel play (playing near others without interacting), then associative play (playing together with some coordination), and finally cooperative play (shared goals, roles, and rules). Around age 3-4, a crucial cognitive ability emerges called theory of mind — the understanding that other people have their own thoughts, feelings, and knowledge that differ from your own. Friendship depends on theory of mind: to be a good friend, you must be able to imagine how the other person is feeling. These games provide structured practice in cooperation, reciprocity (the give-and-take that sustains relationships), and perspective-taking.
 
 ## Vocabulary
 
-**Cooperation**: Working together with other people toward a shared goal, where everyone contributes and helps each other succeed. When you and a friend hold a parachute together to make a balloon bounce, you're cooperating.
+**Theory of mind**: The ability to understand that other people have their own thoughts, feelings, beliefs, and knowledge that are different from your own. This is a major developmental milestone around age 3-4. When you realize your friend might be scared even though you're not, or that your friend wants a different snack than you do, you're using theory of mind. Friendship is impossible without it.
 
-**Empathy**: Understanding and feeling what another person feels—recognizing when someone is happy, sad, scared, or excited, and caring about their feelings. When you notice your friend is shy and you invite them to play, you're showing empathy.
+**Reciprocity**: The back-and-forth exchange at the heart of all relationships — I give, you give; I help, you help; I listen, you listen. When you take turns in a game, you're practicing reciprocity. Strong friendships are built on reciprocal care.
 
-**Collaboration**: Working with others by combining your ideas and efforts to create something together. When children in a circle each add one sentence to create a story together, they are collaborating.
+**Empathy**: Understanding and feeling what another person feels — recognizing when someone is happy, sad, scared, or excited, and caring about their feelings. Empathy requires theory of mind: you must first understand that the other person has feelings that may be different from yours. When you notice your friend is shy and you invite them to play, you're showing empathy.
 
-**Trust**: Believing that someone will be honest, safe, and kind with you. In a trust walk game where one friend closes their eyes while another guides them, you must trust your friend to keep you safe.
+**Cooperation**: Working together toward a shared goal where everyone contributes. Cooperative play is the most advanced stage of social play — it requires coordination, communication, and shared rules. When you and a friend hold a parachute together to make a balloon bounce, you're cooperating.
+
+**Trust**: A belief that someone will be consistent, honest, and safe with you — built through repeated experiences of reciprocity. In a trust walk game where one friend guides another with their eyes closed, trust is the essential ingredient.
 
 ## 🎵 Learning Song
 
@@ -127,22 +129,19 @@ In this activity, children participate in structured games and activities design
 ### Age Adaptations
 
 **2-3 years**:
-- Use very simple games with minimal rules
-- Stick to games without long wait times for turns
+- Children this age are mostly in parallel or associative play — don't be discouraged if true cooperation is limited; it's developmentally appropriate
+- Use very simple games with minimal rules and no long wait times for turns
 - Pair children with an adult or older buddy for confidence
 - Keep sessions shorter—15-20 minutes with frequent activity changes
-- Use lots of repetition; children this age love playing the same game multiple times
-- Expect that some children may not be ready for cooperative games yet—this is developmentally normal
-- Provide high adult support and encouragement throughout
+- Narrate the social experience: "Look, your friend is smiling! They like it when you share." This builds theory of mind by making others' internal states visible
+- Celebrate reciprocity when it happens naturally: "You gave her a turn, and now she gave you one back — that's how friendships work!"
 
 **3-4+ years**:
-- Introduce games with simple rules children can learn and follow
-- Add more structured turn-taking games
-- Introduce games that require strategy or problem-solving
-- Have children help teach other children the games
-- Encourage leadership: "Can you be the helper for this game?"
-- Support more peer interaction with less adult involvement
-- Can engage in 25-30 minute sessions or play multiple games consecutively
+- This is when theory of mind is emerging — use games to make it explicit: "Why do you think your friend wants that turn? What might they be feeling right now?"
+- Introduce games that require assigning different roles (one person is the guide, one is the walker) — different roles require perspective-taking
+- After conflicts, debrief: "How do you think [friend] felt when that happened? What could you do differently?" This is active theory-of-mind practice
+- Have children help design game rules together — this teaches that social rules are negotiated agreements, not fixed laws
+- Encourage children to teach games to others; teaching requires understanding the other person's perspective
 
 ### Extension Ideas
 
