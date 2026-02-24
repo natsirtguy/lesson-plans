@@ -919,6 +919,11 @@
     "issues": "Vocabulary used \"Landmark\" (not a scientific term) and \"Formation\" (vague process description). Missing plate tectonics (WHY mountains form), stratigraphy, and rock type information. Activity had no geological mechanisms.",
     "fixed": "Replaced \"Landmark\" with tectonic plates (12-20 plates, Indian-Eurasian collision still growing Himalayas). Replaced \"Formation\" with stratigraphy (Grand Canyon's 2 billion year rock record, color = time period). Enhanced erosion definition (Colorado River, 75B tons/year sediment). Added elevation's effect on temperature and oxygen. Updated mountain-building and canyon-creation activity steps with plate tectonics and stratigraphy content."
   },
+  "knowledge/natural-phenomena.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No scientific mechanisms — activities were pure sensory play with no explanation of why phenomena happen; vocabulary lacked real scientific terms",
+    "fixed": "Added convection (wind), opaque/straight-line light (shadows), evaporation/condensation/phase change (water cycle); station instructions now explain mechanisms not just observations"
+  },
   "knowledge/nature-study-and-observation.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "All process, no scientific content—observation framed as sensory play without any biology",
@@ -948,6 +953,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Generic sensory exploration with no ecology. Vocabulary (terrain, atmosphere, landscape, elements) sounded scientific but taught nothing real. Activities were \"find something smooth/rough\" — pure sensory play with no science. No ecosystem, habitat, decomposer, or adaptation content.",
     "fixed": "Replaced vocabulary with ecosystem, habitat, decomposer (with worms/pill bugs/fungi as real examples), adaptation. Rewrote activity around ecological observation: finding habitats, identifying decomposers in dead leaf litter, spotting plant and animal adaptations. Added food chain dependency reasoning and single-celled organism mention."
+  },
+  "knowledge/package-delivery-and-shipping-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure role-play with no real content — vocabulary only at surface level (package, deliver, address, route); no logistics concepts, no barcode/tracking, no ZIP code geography, no supply chain",
+    "fixed": "Added logistics, barcode/scanning, ZIP code structure, supply chain, sorting facility vocabulary; activity now includes real explanations of how postal system works alongside the role-play"
   },
   "knowledge/painting-a-group-mural-together.md": {
     "verdict": "FAIL -> FIXED",
@@ -994,6 +1004,11 @@
     "issues": "Mostly a self-esteem activity (\"you are special and unique!\") with no cognitive science. Mirror self-recognition mentioned but not explained — no rouge test, no cognitive milestone context. No theory of mind, no DNA as biological basis of uniqueness, no psychological concept of self-concept. Challenge solution for mirror non-recognition had no scientific framing.",
     "fixed": "Replaced vocabulary with self-concept (psychology), self-recognition (rouge test, 18-24 month milestone, cognitive significance), theory of mind (own thoughts vs. others', prefrontal cortex/temporoparietal junction, develops ages 3-4), unique (DNA as biological uniqueness, exception for identical twins). Rewrote introduction to frame mirror recognition as a cognitive milestone. Added DNA and theory of mind content to discovery section. Updated mirror challenge solution to describe the rouge test."
   },
+  "knowledge/personal-protection-and-safety-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing anatomically correct body part terminology (critical evidence-based safety practice), body signals/amygdala connection, and safe vs. unsafe secrets distinction",
+    "fixed": "Added anatomically correct private parts vocabulary, body signals (amygdala-based physiological warning), safe/unsafe secrets game, and reinforced consent language throughout"
+  },
   "knowledge/perspective-taking.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "\"Point of View\" redundant with \"Perspective.\" Empathy not connected to mirror neurons. No theory of mind science, no prefrontal cortex, no false belief task despite this being exactly the topic.",
@@ -1008,6 +1023,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was everyday words (observe, composition, capture, frame). No optics, no explanation of how cameras work, no physics of light. Activity was \"point and click\" with no science content.",
     "fixed": "Replaced vocabulary with lens (curved glass that refracts light to focal point, same principle as eye), sensor (millions of photosites converting light to pixels), exposure (aperture/shutter speed/ISO — \"photography\" = \"writing with light\" from Greek), composition (rule of thirds, visual cortex spatial processing). Rewrote activity to explain lens optics, pixel construction, light-and-shadow photography, and depth of field. Added shutter speed, motion blur, and photojournalism for 3-4+."
+  },
+  "knowledge/photography-collection-and-albums.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure craft activity with no photography science or history; vocabulary only defined everyday words; no mention of lenses, light, pixels, sensors, or the history of photography",
+    "fixed": "Added lens/optics, pixels, exposure, classification vocabulary; intro now explains how cameras work (light + lens + sensor), 200-year history of photography, and pixel zooming activity; sorting reframed as scientific classification"
+  },
+  "knowledge/photosynthesis.md": {
+    "verdict": "PASS",
+    "issues": "Excellent: uses photosynthesis, chlorophyll, carbon dioxide, oxygen, stomata, carotenoids throughout; genuine experiments (oxygen bubble observation, chlorophyll extraction, chromatography); correct mechanistic explanation; outstanding age adaptations that use real vocabulary for toddlers",
+    "fixed": "N/A"
   },
   "knowledge/planets-and-stars.md": {
     "verdict": "FAIL -> FIXED",
@@ -1884,6 +1909,11 @@
     "issues": "No vocabulary section, no muscle names, no anatomy, no physiology. Warm-up mentioned \"windmill arms\" without naming deltoids or rotator cuff. No explanation of visual tracking, hand-eye coordination neural circuit, reaction time, projectile motion/parabola, or cardiovascular response.",
     "fixed": "Added full vocabulary section: deltoids (anterior/lateral/posterior), triceps brachii, pectoralis major, serratus anterior, core stabilizers; visual tracking (smooth pursuit), hand-eye coordination, reaction time (150-200ms, myelination), projectile motion (parabola, gravity), momentum transfer, cardiovascular response. Rewrote warm-up and coaching cues with anatomy and physics."
   },
+  "physical/water-aerobics-and-pool-exercises.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good safety and activity content but missing physics/physiology: no explanation of buoyancy (Archimedes' principle), water density/resistance, thermoregulation mechanics, or cardiovascular benefits; coaching cues say 'water holds you up' without explaining why",
+    "fixed": "Added buoyancy (Archimedes' principle), water resistance (800x denser than air), thermoregulation (25x faster heat loss than air), cardiovascular benefit, and hydrostatic pressure to intro; coaching cues now name the science; cold challenge explanation updated with real physiology"
+  },
   "physical/water-polo-and-pool-games.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No physics of water at all despite being an aquatic activity. \"This is our water polo ball — it floats!\" with no explanation of why. No buoyancy, no water density, no resistance. Real water polo's history and rules not mentioned.",
@@ -1913,5 +1943,10 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No anatomy or physiology. \"Feel your feet on the ground\" without naming proprioception. \"Calm your nervous system\" without explaining how. Coaching cues were generic encouragement with no science.",
     "fixed": "Added full vocabulary section: proprioception (muscle/tendon/joint sensors sending position data to cerebellum), fascia (connective tissue web with more sensory endings than muscle, hydration through stretching), parasympathetic nervous system (vagus nerve pathway, cortisol reduction mechanism), isometric contraction (force without length change — yoga hold mechanics). Rewrote coaching cues with specific muscle names (quadriceps, erector spinae, rectus abdominis) and physiological explanations. Added vestibular system, antagonist pairs, and pulse-based parasympathetic measurement for 3-4+."
+  },
+  "physical/yoga-poses-and-sequences.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Sanskrit pose names used (strong) but no cultural origin of yoga, no neuroscience of calming (parasympathetic/vagus nerve), no proprioception/vestibular explanation for balance poses; calming effect stated but never explained",
+    "fixed": "Added yoga's origin in ancient India (5000+ years, Sanskrit 'yuj' = union), parasympathetic nervous system/vagus nerve/cortisol for breathing, proprioception/vestibular system for balance poses; coaching cues now name the science"
   }
 }

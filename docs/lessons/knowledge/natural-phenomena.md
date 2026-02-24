@@ -6,13 +6,17 @@ Children explore the fascinating world of natural phenomena—observable events 
 
 ## Vocabulary
 
-**Phenomenon**: An observable event or occurrence in nature that happens around us every day. When you see rain falling from clouds or feel wind pushing you gently, these are phenomena. The plural is "phenomena."
+**Phenomenon**: An observable event or occurrence in nature that follows physical laws. Wind, shadows, rain, and evaporation are all phenomena — they happen for specific scientific reasons, not by chance. The plural is "phenomena."
 
-**Observe**: To watch and pay close attention to something using your senses. When you observe the wind, you might feel it on your skin, see it move the trees, and hear it whistling around corners.
+**Evaporation**: When liquid water turns into an invisible gas called water vapor and rises into the air. Puddles disappear through evaporation — the water molecules absorb heat energy and escape into the atmosphere. This is the first step in the water cycle.
 
-**Cause and Effect**: Understanding that something happens (the cause) and it creates a result (the effect). Wind is the cause; trees bending is the effect. Heat is the cause; ice melting is the effect.
+**Condensation**: When water vapor in the air cools down and turns back into tiny liquid droplets. Clouds are condensation — billions of tiny water droplets clinging to dust particles high in the sky. Fog is condensation close to the ground.
 
-**Transform**: To change from one form or condition into something different. Water transforms from liquid to ice when it gets very cold, or from liquid to steam when it gets very hot.
+**Convection**: The movement of warm air (or liquid) rising upward as cold air sinks downward. Wind is caused by convection — the sun heats some parts of Earth more than others, making warm air rise and cooler air rush in to replace it. That moving air is wind.
+
+**Opaque**: A material that blocks light completely, preventing it from passing through. Opaque objects cast shadows because light travels in straight lines — when something opaque blocks the path, the area behind it receives no light.
+
+**Phase change**: When a substance transforms between solid, liquid, and gas states. Water ice (solid) melts into liquid water, then evaporates into water vapor (gas). These changes happen because heat energy is added or removed — they are the same water molecules in different arrangements.
 
 ## Learning Song
 
@@ -63,7 +67,7 @@ Nature's wonders we'll explain
 
 ### Activity Overview
 
-In this activity, children become nature observers using their senses to explore and describe natural phenomena happening around them. They'll investigate wind, water, light, and shadows through interactive discovery, learning that these natural events follow patterns and have causes.
+In this activity, children become nature scientists exploring wind, water, light, and shadows. Each phenomenon has a real scientific explanation — this lesson provides those explanations alongside the sensory experience, so children encounter the *why* behind what they observe. Wind is moving air driven by temperature differences (convection). Shadows form because light travels in straight lines and opaque objects block it. Puddle water disappears through evaporation into the water cycle.
 
 **Activity Type**: Sensory exploration and guided discovery
 
@@ -103,15 +107,15 @@ In this activity, children become nature observers using their senses to explore
    Begin by asking: "What do you notice outside right now? Is there wind? Can you see the sun? Listen carefully—what do you hear?" Point out one natural phenomenon you observe together (wind moving leaves, sunlight, shadows). Introduce the word "phenomenon" simply: "When something happens in nature, we call it a phenomenon. Wind is a phenomenon. Sunshine is a phenomenon."
 
 2. **Exploration** (8-12 min):
-   Guide children through hands-on observation stations:
+   Guide children through hands-on observation stations. At each station, name the phenomenon and give a brief real explanation:
 
-   - **Wind Station**: Release lightweight objects and watch them move. Ask: "What's making these move? Can you feel the wind? What else does wind do?" (Move the streamers, watch them flow)
-   - **Light and Shadow Station**: Stand in sunlight or use a flashlight. Have children observe their own shadows on the ground or a surface. Ask: "Can you make your shadow big? Small? Can you step on it?" Encourage them to move and watch the shadow move.
-   - **Water Station**: Pour water into a clear container. If weather permits, show how sunlight makes the water sparkle. Ask: "What happens to water? Does it stay in one place?"
-   - **Natural Observation**: Point out clouds, trees moving, insects (if safe and visible). Use the magnifying glass to look closely at natural details.
+   - **Wind Station**: Release lightweight objects and watch them move. Explain: "Wind is air that's moving. It moves because the sun heats up some parts of Earth more than others. Warm air rises up, and cooler air rushes in to fill the space — that rushing is wind! Scientists call this convection." Let children feel wind on their faces and wave streamers. Ask: "Where do you think the warm air came from?"
+   - **Light and Shadow Station**: Stand in sunlight or use a flashlight. Explain: "Light travels in straight lines — it can't go around corners or through solid things. When you stand in the light, your body blocks it because you are opaque — light can't go through you. The dark area behind you is your shadow, where no light is reaching." Have children stretch arms wide to make a big shadow, then make a tiny shadow. Ask: "What happens to your shadow when you move closer to the flashlight?"
+   - **Water/Evaporation Station**: Pour water on a dark surface (or use a puddle). Explain: "Water is made of tiny molecules — too small to see. When the sun warms them, they get enough energy to escape into the air as invisible water vapor. This is called evaporation. That's why puddles disappear! The water doesn't vanish — it goes up into the sky to make clouds." Put ice in the sun: "Ice is solid water. Heat energy makes the molecules move faster until they become liquid. That's a phase change — solid to liquid."
+   - **Clouds/Water Cycle**: Point to clouds. Explain: "Those clouds are actually tiny water droplets — millions of them! When water vapor rises high where the air is cold, it condenses back into droplets. Condensation. When the droplets get heavy enough, they fall as rain. Water evaporates from oceans, becomes clouds, falls as rain — over and over. That cycle never stops."
 
 3. **Discovery** (3-5 min):
-   Ask guiding questions: "What did you notice? What made that happen? What caused the leaves to move?" Help children connect cause and effect by using simple language: "The wind caused the leaves to move." "The sun caused that bright spot." Create a simple observation chart together by drawing or pointing out what you noticed.
+   Ask guiding questions: "What phenomenon did you observe? What caused it?" Help children name the mechanisms: "The wind was caused by..." "The shadow formed because light..." "The ice melted because heat energy..." Draw a simple diagram of the water cycle: puddle → arrow up (evaporation) → cloud → arrow down (rain) → puddle.
 
 4. **Wrap-up** (2-3 min):
    Sing a verse of the learning song together or simply review: "We observed wind, shadows, and sunshine today. These are all natural phenomena." Transition to next activity with: "Nature is amazing! Let's go look for more phenomena."
@@ -119,20 +123,18 @@ In this activity, children become nature observers using their senses to explore
 ### Age Adaptations
 
 **2-3 years**:
-- Keep observations simple and focused on ONE phenomenon at a time (wind OR shadows, not both)
-- Use repetitive, concrete language: "Wind makes leaves move. Watch it dance!"
-- Shorten activity to 8-10 minutes with frequent movement breaks
-- Focus on sensory experience: What do you feel? What do you see?
-- Don't worry about vocabulary retention—model the words naturally
-- Allow for shorter attention spans; celebrate any observation they make
+- Focus on ONE phenomenon per session. Wind is ideal for toddlers — the sensory experience is immediate and physical
+- Use the scientific word alongside a simple description: "Wind is moving air — convection. Feel it? That's air rushing past!"
+- For shadows: "You're blocking the light — you're opaque!" Kids love this word
+- Don't skip the science — just keep the explanation to one sentence. "The sun warms the air and it rises, then cooler air rushes in — that's our wind"
+- Shorten to 8-10 minutes with movement breaks
 
 **3-4+ years**:
-- Introduce the word "cause and effect" explicitly: "What caused that? What happened because of that?"
-- Encourage children to predict: "What do you think will happen to this feather in the wind?"
-- Ask them to name and describe multiple phenomena they observe
-- Introduce "natural phenomenon" vocabulary; use plural "phenomena" naturally
-- Extend to pattern observation: "Does the wind always move things the same way?"
-- Challenge them to find new phenomena to share with you
+- Encourage children to explain phenomena: "Why does the shadow move when you move? Because light travels in straight lines!"
+- Challenge predictions: "If I make the ice warmer, what phase change will happen?"
+- Introduce the water cycle as a connected system: evaporation → condensation → precipitation → repeat
+- Discuss convection in everyday contexts: "Why does steam rise from hot food? Warm air rises!"
+- Challenge them to find examples of evaporation and condensation at home (bathroom mirror fogging, wet laundry drying)
 
 ### Extension Ideas
 
