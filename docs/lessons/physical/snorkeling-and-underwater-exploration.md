@@ -49,6 +49,22 @@ Snorkeling introduces young children to the wonder of the underwater world while
 - First aid kit on shore
 - Flotation line marking snorkel area
 
+## Key Concepts to Weave In
+
+**What is a coral reef?** Coral reefs are built by tiny animals called **coral polyps** — each one is a small creature with a mouth, tentacles, and a hard **calcium carbonate** (limestone) skeleton. When polyps die, their skeletons remain and new polyps build on top. A reef forms over thousands of years through this layering process. Reefs are called the "rainforests of the sea" because they cover less than 1% of the ocean floor but support about 25% of all marine species — a stunning example of biodiversity.
+
+**What children might see and what it is**:
+- **Fish**: Vertebrates (have backbones) with gills to extract oxygen from water. Different species have evolved specific shapes, colors, and behaviors. Bright colors can signal territory, attract mates, or warn predators of toxicity.
+- **Sea urchins and starfish**: **Echinoderms** — animals with five-fold symmetry and spiny skin. Starfish can regrow a lost arm!
+- **Anemones and coral polyps**: Actually animals, not plants! Anemones are close relatives of jellyfish. Clownfish famously live *inside* anemone tentacles — they have a special mucus that makes them immune to the sting.
+- **Seaweed/algae**: Simple organisms (not true plants) that photosynthesize and provide food and shelter for many animals. Tiny **zooxanthellae** algae live *inside* coral tissue and perform photosynthesis to feed the coral — which is why corals die and turn white ("bleach") when stressed by warm water, because the algae leave.
+
+**Light underwater**: Water absorbs different colors of light at different depths. Red light is absorbed first (within a few feet), then orange, then yellow. By the time you're 30 feet deep, almost everything looks blue-green because those are the wavelengths that penetrate deepest. This is why underwater photographers use artificial lights — to restore the colors the water has absorbed.
+
+**How a snorkel works**: A snorkel is simply a tube that extends your breathing space to above the water surface. The key physics: the tube must be short enough that your lungs can create the pressure difference (suction) needed to pull air down through it and push exhaled air back up. Too long a snorkel and it becomes impossible to breathe — your lungs aren't strong enough to move the air column over that distance.
+
+**Ecology of the reef**: Every creature in a reef ecosystem has a role. Herbivorous fish (parrotfish, surgeonfish) eat algae that would otherwise smother the coral. Predators like barracuda keep fish populations balanced. Even the sand on the beach has a surprising origin: **parrotfish eat coral** (biting off chunks with their beak-like teeth), digest the organic parts, and excrete the calcium carbonate as white sand!
+
 ### Space Setup
 
 **Before starting**:
@@ -111,10 +127,11 @@ Snorkeling introduces young children to the wonder of the underwater world while
 - Communication signals - raising hand for "stop," thumbs up for "okay," pointing for "look here"
 
 **Coaching cues**:
-- "Breathe slowly and calmly - like you're thinking about what you see"
-- "Keep your face down in the water so you can see the fish"
-- "Relax your body - let the water help you float"
-- "There are so many colors and friends living down there!"
+- "Breathe slowly and calmly — like you're thinking about what you see"
+- "Keep your face down in the water so you can see the fish. Are they vertebrates or invertebrates? (Fish have backbones — vertebrates!)"
+- "Relax your body — let the water help you float"
+- "Do you notice things look more blue-green down here? That's because water absorbs the red and yellow light — only blue-green light reaches us this deep!"
+- "That bumpy structure is coral — it's actually made of thousands of tiny animals building their limestone homes on top of each other!"
 
 #### Guided Play/Game (4-12 minutes)
 **Game structure**:

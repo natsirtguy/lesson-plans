@@ -624,6 +624,11 @@
     "issues": "Vocabulary was entirely generic (interview, interviewer, communication, listen) — no real content about what makes interviews effective. Activity was just asking \"what's your favorite food?\" with no teaching of actual interview technique. No mention of open vs. closed questions, active listening, follow-up questions, or real-world interview contexts.",
     "fixed": "Replaced vocabulary with open-ended question, closed question, follow-up question, active listening — the actual concepts of effective interviewing. Updated activity to explicitly contrast open vs. closed questions and show why open-ended questions get richer answers. Added follow-up question practice and real-world context (journalism, science, medicine)."
   },
+  "knowledge/knowledge-sharing-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No intellectual content — purely procedural meta-lesson about playing games. Vocabulary used only process words. No explanation of how memory works, the cognitive science of game-based learning, or the testing effect.",
+    "fixed": "Added real cognitive science vocabulary: encoding, retrieval, working memory, testing effect/retrieval practice. Explained why game-based struggle strengthens memory more than passive learning. Wove retrieval practice concept into activity guidance."
+  },
   "knowledge/language-and-cultural-exchange.md": {
     "verdict": "PASS",
     "issues": "Vocabulary is excellent: phoneme (44 English phonemes, Mandarin tones, Xhosa clicks, infant brain specialization by 12 months), language family (Indo-European family, 3 billion speakers, cognates across 5,000 years), bilingualism (prefrontal cortex strengthening, executive function, >50% of world bilingual, 7,000 languages with one going extinct every two weeks), writing system (alphabets vs. logographic vs. three simultaneous Japanese systems, Sumerian cuneiform 5,400 years ago). Activity references sitar strings, pentatonic scales, Diwali's 2,500-year history, and encourages cognate hunting and endangered language discussion.",
@@ -774,6 +779,11 @@
     "issues": "All process, no scientific content—observation framed as sensory play without any biology",
     "fixed": "Added chlorophyll, exoskeleton, adaptation, camouflage, decomposition, arachnid/insect distinction; discovery questions now teach actual concepts instead of open-ended wondering"
   },
+  "knowledge/object-collecting-and-organizing.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary used only surface-level terms; no mention of attributes as formal properties, mathematical sets/subsets, or classification systems in science. Activities were purely procedural with no intellectual framework.",
+    "fixed": "Added 'attribute' and 'set/subset' to vocabulary with mathematical and scientific context; connected classification to biological taxonomy and the periodic table; added 'same objects, different rule' discovery moment; introduced Venn diagram concept for older children"
+  },
   "knowledge/oceans-and-rivers.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Details not recorded.",
@@ -823,6 +833,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Topic title includes 4 pattern types but lesson only covered basic AB repeating patterns; \"social patterns\" and \"thinking patterns\" entirely absent; no Fibonacci, fractals, or tessellation; \"systems\" concept not explained; 2-3 adaptation told to avoid complex vocabulary",
     "fixed": "Added Fibonacci sequence, fractal, tessellation, system vocabulary; rewrote activity flow to cover all 4 pattern types; added natural Fibonacci hunt (pinecones/sunflowers), social patterns (daily routines), thinking patterns (pattern recognition as prediction); fixed age adaptations to use real vocabulary"
+  },
+  "knowledge/peer-teaching-and-collaboration.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing developmental and cognitive science. No mention of Vygotsky's zone of proximal development, the protégé effect, or the parallel-to-cooperative play developmental sequence. Generic activity without intellectual framework.",
+    "fixed": "Added Vygotsky's zone of proximal development and scaffolding concepts; the protégé effect (teaching consolidates teacher's own learning); the developmental play sequence (solitary → parallel → associative → cooperative); and cognitive conflict as a driver of learning. Added to vocabulary and age adaptations."
   },
   "knowledge/personal-hygiene-and-self-care.md": {
     "verdict": "FAIL -> FIXED",
@@ -1484,6 +1499,11 @@
     "issues": "Purely procedural; no science backdrop; Hungry Caterpillar used with zero metamorphosis biology",
     "fixed": "Added embodied cognition, mirror neurons, narrative comprehension as intellectual backdrop; rewrote Caterpillar sequence with full metamorphosis biology (larva/pupa/chrysalis vs cocoon, molting, dissolution and rebuilding inside chrysalis)"
   },
+  "physical/musical-theater-and-integrated-performance.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No music theory content. Mentions rhythm and beat interchangeably without distinction. No explanation of tempo, dynamics, major/minor keys, or how musical theater works as a storytelling form.",
+    "fixed": "Added Key Concepts section covering beat vs rhythm distinction, tempo and dynamics (forte/piano), major vs minor keys and emotional effect, musical theater as story-song integration with ancient roots, and physical expression/posture. Rewrote skill practice section to incorporate music concepts."
+  },
   "physical/nature-observation-and-wildlife-tracking.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No ecology (ecosystem, food chain), no tracking science (spoor, camouflage), no taxonomy, no sensory neuroscience. Activity was \"walk around and look at stuff\" with generic encouragement and no scientific framework.",
@@ -1569,6 +1589,16 @@
     "issues": "Good safety and logistics but no physics content—gravity, friction, momentum, center of gravity all absent",
     "fixed": "Added gravity/friction/momentum explanations integrated into instruction cues; added body-science to cool-down (oxygen demand, visible breath/condensation)"
   },
+  "physical/snorkeling-and-underwater-exploration.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No marine science content. Children told to look for fish and coral with no explanation of what these are, what coral reefs are ecologically, or any physics of light underwater or snorkel mechanics.",
+    "fixed": "Added Key Concepts section covering coral reef ecology (polyps, calcium carbonate, bleaching), marine organism categories (vertebrates/invertebrates/echinoderms), light absorption at depth, snorkel physics, and reef food web including parrotfish sand production. Wove concepts into coaching cues."
+  },
+  "physical/snow-fort-building-and-winter-construction.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No science content. Entirely procedural — scoop here, pack there. No explanation of what snow is, why it packs, or why structures collapse. Snow insulation and igloo connection completely absent.",
+    "fixed": "Added Key Concepts section covering ice crystals and snow structure, sintering (why snow compacts), snow as insulator and the igloo/Inuit engineering connection, structural engineering (arches/domes vs flat walls), and states of water. Wove concepts into introduction and challenge solutions."
+  },
   "physical/snowshoeing-and-winter-hiking.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section; no anatomy or physiology; no muscle names anywhere; no physics of snowshoes (flotation, pressure distribution, surface area); no explanation of thermoregulation, UV reflection, or wind chill despite all being directly relevant; coaching cues were purely motivational metaphors with zero technical content.",
@@ -1588,6 +1618,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No proprioception science, no proxemics (Hall's four zones), no center of gravity physics, no anatomy of core muscles, no theater history. Coaching cues were generic with no science or technical theater content.",
     "fixed": "Added full vocabulary section: blocking (history and notation), proprioception (muscle/tendon/joint receptors, sixth sense), proxemics (Edward T. Hall's four zones — intimate/personal/social/public, how stage blocking manipulates emotional meaning), center of gravity (performer stability physics), proscenium (historical raked stage etymology of \"upstage/downstage\"), core muscles (transverse abdominis, rectus abdominis, obliques, erector spinae), kinesthetic awareness (conscious proprioception in trained performers). Added stage labeling to setup."
+  },
+  "physical/strength-activities-and-resistance-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No anatomy, physiology, or physics content. Entirely procedural: push this, pull that. No explanation of how muscles work, which muscles are engaged, or the physics of resistance.",
+    "fixed": "Added Key Concepts section covering muscle fiber adaptation, proprioception, isometric vs isotonic contraction, resistance as force, and named muscle groups (quadriceps, glutes, biceps). Wove muscle names and physiological explanations into coaching cues."
   },
   "physical/stretching-and-flexibility-exercises.md": {
     "verdict": "FAIL -> FIXED",
