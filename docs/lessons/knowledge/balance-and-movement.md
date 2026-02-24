@@ -6,8 +6,6 @@ Children explore how their bodies can move in different ways while maintaining s
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly relate to the topic, and can be demonstrated or experienced.
-
 **Equilibrium**: The state of being balanced and steady, with your body weight distributed evenly. When you stand on one foot and don't wobble, you have good equilibrium. When a child walks along a line without tipping over, they're using equilibrium.
 
 **Coordination**: The ability to use different parts of your body together smoothly and at the right time. Coordination helps you catch a ball, hop on one foot, or dance without stumbling. When your hands and feet work together as a team, that's coordination in action.
@@ -15,6 +13,12 @@ Select 3-4 vocabulary words that are sophisticated but age-appropriate, directly
 **Stability**: Being firmly steady and not easy to tip over or fall. A wide stance with feet apart gives you more stability than standing with feet close together. A sturdy table has stability, and so does a child's body when they plant their feet firmly.
 
 **Proprioception**: Your body's awareness of where it is in space and how it's moving, without having to look. Proprioception is what helps you walk in the dark without bumping into things, or know how much strength to use when picking up a toy.
+
+**Vestibular system**: The balance organ inside your inner ear. Tiny fluid-filled tubes called semicircular canals detect when your head tilts, spins, or accelerates — and send signals to your brain to keep you upright. This is why spinning in circles makes you dizzy: the fluid keeps moving after you stop.
+
+**Cerebellum**: The part of your brain at the back of your head that automatically coordinates movement and balance without you having to think about it. It's constantly making tiny adjustments so you don't fall over. "Cerebellum" means "little brain" in Latin.
+
+**Center of gravity**: The point where your body's weight is balanced on all sides. Lowering your center of gravity (bending your knees, crouching) makes you more stable — this is why people crouch when a bus is moving.
 
 ## Learning Song
 
@@ -60,11 +64,21 @@ Where our body needs to go
 - "Movement and balance for preschoolers"
 - "Yoga for young children balance poses"
 
+## Key Concepts
+
+**Three systems work together.** Balance isn't just one sense — it requires three systems cooperating: (1) the *vestibular system* in the inner ear detecting head position and motion; (2) *proprioception* from muscles and joints reporting body position; and (3) *vision* confirming where you are in space. This is why balance gets harder with your eyes closed — you've lost one of the three inputs.
+
+**The cerebellum does the work automatically.** When you walk along a line, your cerebellum is receiving constant signals from all three systems and making micro-corrections you don't consciously control. Practiced movements (like walking) become "automatic" because the cerebellum has learned the pattern. This is called *motor learning*.
+
+**Center of gravity matters.** Every object has a center of gravity — the point where its weight is balanced. For a standing human, it's roughly at the hips. When you lean or reach, your center of gravity shifts, and your body must compensate. Spreading your feet wide lowers and widens your base of support, making it much harder to topple — the same engineering principle used in cranes and bridge pillars.
+
+**Inner ear fluid keeps moving.** Dizziness from spinning happens because the fluid in the semicircular canals of the vestibular system keeps sloshing after your body stops. Your brain receives a "still spinning" signal even though your eyes see you've stopped — the mismatch causes the dizzy feeling.
+
 ## Activity
 
 ### Activity Overview
 
-Children explore balance through a series of guided movements and challenges. They'll stand, walk, and move in different ways while discovering how their body maintains balance. The activity includes standing on one foot, walking along a line or path, and experimenting with different body positions. Through hands-on exploration, children develop awareness of their center of gravity and learn how to adjust their body for stability.
+Children explore balance through a series of guided movements and challenges. They'll stand, walk, and move in different ways while discovering how their body maintains balance. Caregivers name the underlying systems being used — vestibular, proprioception, cerebellum, center of gravity — throughout the activity, treating balance as the real neuroscience it is.
 
 **Activity Type**: Hands-on demonstration with guided exploration and movement challenges
 
@@ -99,7 +113,7 @@ Children explore balance through a series of guided movements and challenges. Th
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by standing together and asking: "How do we stand without falling down?" Demonstrate standing on two feet with a wide base. Invite the child to mirror your stance. Point out: "Your feet are your foundation. They help you balance." Show what it looks like to have feet close together versus far apart, and notice which feels more stable.
+   Begin by standing together and asking: "How do we stand without falling down?" Demonstrate standing on two feet with a wide base. Invite the child to mirror your stance. Explain: "Your body uses three things to balance: your eyes, your muscles (that's called proprioception), and a tiny organ inside your ear called the vestibular system. They all send messages to a part of your brain called the cerebellum, which makes tiny adjustments so you don't fall over." Show what it looks like to have feet close together versus far apart: "Wider feet move your center of gravity down — that makes you more stable."
 
 2. **Exploration** (10-15 min):
 
@@ -125,7 +139,7 @@ Children explore balance through a series of guided movements and challenges. Th
    - Step over or around obstacles (cushions, cones) while maintaining control
 
 3. **Discovery** (2-3 min):
-   Ask observational questions throughout: "What happens to your arms when you balance?" "How does your body feel when you stand on one foot?" "What helps you stay steady?" Point out observations: "I notice you're getting better at staying on the line!" "Your arms really help you balance!" Explain: "Your body is learning where it is in space. That's called proprioception—your body's special sense."
+   Ask observational questions throughout: "What happens to your arms when you balance?" "How does your body feel when you stand on one foot?" "What helps you stay steady?" Try closing eyes briefly: "With eyes closed, you lose one of your three balance systems — just proprioception and vestibular left!" Point out observations: "Your arms are moving your center of gravity to help you stay balanced — your cerebellum figured that out automatically." Connect to everyday life: "Gymnasts and tightrope walkers train their cerebellum for years to make balance feel easy."
 
 4. **Wrap-up** (1-2 min):
    End with a gentle cool-down. Sit down together and notice: "Your body worked hard to balance! That's how you learn to move with control." Review what you discovered: "We learned that balance helps us walk, dance, and play safely." Offer one more challenge: "Can you walk to the other room without falling down? Try using what you learned about balance!"

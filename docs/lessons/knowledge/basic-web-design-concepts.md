@@ -6,13 +6,19 @@ In this unplugged, hands-on activity, children become web designers and architec
 
 ## Vocabulary
 
-**Design**: The thoughtful plan for how something looks and works, including the colors, shapes, and arrangement of different parts. When you arrange your toys in a specific way or choose colors for your drawing, you are making a design.
+**HTML**: HyperText Markup Language — the code that tells a browser what content goes on a webpage. HTML uses "tags" (like labels) to say "this is a heading," "this is a paragraph," "this is a picture." Every website in the world is built on HTML.
 
-**Navigation**: The buttons and paths that help people find their way around a website or move through information. When you tap buttons on your parent's phone to explore different screens, you are using navigation.
+**CSS**: Cascading Style Sheets — the code that tells a browser how things should *look*: colors, sizes, fonts, spacing. HTML provides the structure; CSS provides the decoration. They work together like a building (HTML) and its paint and furniture (CSS).
 
-**Layout**: The organized arrangement of different elements—where the pictures go, where the buttons are placed, and where the text appears. A grocery store has a layout with different sections for produce, dairy, and bread so shoppers know where to find things.
+**Browser**: The app (like Chrome, Safari, or Firefox) that downloads a website's files from a server and turns the HTML and CSS code into the visual page you see. The browser is the translator between code and screen.
 
-**Visual Hierarchy**: The way designers make the most important information stand out by making it bigger, brighter, or placing it where people look first. On a favorite poster or book cover, the biggest picture or title is usually the most important thing the designer wants you to notice.
+**Hyperlink**: A piece of text or an image that, when clicked, takes you to a different page. "Hyper" comes from Greek meaning "beyond" — a hyperlink takes you beyond the current page. The whole web is a giant network of pages connected by hyperlinks.
+
+**User experience (UX)**: How a person *feels* when using a website — whether it's easy to find things, pleasant to look at, and satisfying to use. UX designers study how real people interact with interfaces and redesign them to be less frustrating and more intuitive.
+
+**Visual hierarchy**: The way designers make the most important information stand out by making it bigger, brighter, or placing it where people look first. On a favorite poster or book cover, the biggest picture or title is usually the most important thing the designer wants you to notice.
+
+**Wireframe**: A simple sketch showing the layout of a webpage — just boxes and lines, no color or detail. Designers create wireframes before building the real site, the same way architects draw blueprints before constructing a building.
 
 ## 🎵 Learning Song
 
@@ -56,11 +62,23 @@ Navigation helps us, E-I-E-I-O
 - "Web design basics for preschoolers"
 - "How do designers organize spaces and websites"
 
+## Key Concepts
+
+**What is a website, technically?** A website is a collection of files stored on a computer called a *server* that is connected to the internet 24 hours a day. When you type a web address (URL) into a browser, the browser sends a request to that server, which sends back the files. The browser then reads the HTML and CSS code in those files and draws the page on your screen — all in about half a second.
+
+**HTML and CSS are a team.** HTML says *what* is on the page ("there is a heading here, an image there, a paragraph below"). CSS says *how it looks* ("the heading is red, 48 pixels tall, and centered"). This separation of structure and style is a fundamental design principle in computing — keeping concerns separate makes complex systems manageable.
+
+**The web is made of hyperlinks.** The word "web" in World Wide Web refers to the interconnected network of pages linked together by hyperlinks. Tim Berners-Lee invented HTML and the first web browser in 1989-91. Before that, computers could share files but not link between pages the way we do today.
+
+**UX design is a real profession.** User experience (UX) designers spend their careers figuring out where to put buttons, what labels to use, and how to make interfaces feel intuitive. They use research, testing with real users, and data about where people click to improve designs. The feeling that an app is "easy to use" is not an accident — it's the result of hundreds of deliberate design decisions.
+
+**Good design is invisible.** When something is well-designed, you don't notice the design — you just accomplish your goal easily. Bad design is noticeable because it gets in your way. This is why visual hierarchy matters: if everything on a page looks equally important, nothing stands out and users feel confused.
+
 ## Activity
 
 ### Activity Overview
 
-Children explore design thinking by creating paper websites. They'll plan layouts, draw or cut out buttons, organize visual elements, and think about how people navigate and use information—all without screens. This hands-on exploration teaches that humans intentionally organize and design spaces so others can understand and use them.
+Children explore design thinking by creating paper websites (wireframes). They'll plan layouts, draw or cut out buttons, organize visual elements, and think about how people navigate and use information — all without screens. Caregivers introduce real web design vocabulary throughout, treating the child as a genuine designer learning real concepts.
 
 **Activity Type**: Creative expression, Design thinking, Role-playing, Exploration
 
@@ -98,7 +116,7 @@ Children explore design thinking by creating paper websites. They'll plan layout
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by asking: "Have you ever seen a website? What do you remember about it?" Listen to their descriptions of colors, pictures, buttons, and words. Explain: "Today, we're going to become web designers and create our own websites—but on paper instead of a computer. We get to decide where everything goes, what colors to use, and what buttons people will click."
+   Start by asking: "Have you ever seen a website? What do you remember about it?" Listen to their descriptions of colors, pictures, buttons, and words. Explain: "Websites are made of code — a special language called HTML that tells the browser what's on the page, and CSS that tells it what color and size everything is. Real web designers start with a sketch called a wireframe — just like an architect draws blueprints before building a house. Today we're going to be web designers and make our wireframes on paper."
 
 2. **Exploration** (5-10 min):
    Ask open-ended questions: "What kind of website do you want to make? A website about animals? Your favorite foods? A game?" Show visual examples if helpful. Children brainstorm their website topic and what they want it to feature. Encourage: "Your website can be about anything you like!"

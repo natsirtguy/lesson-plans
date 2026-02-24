@@ -12,7 +12,11 @@ Children learn how to adjust their approach when something isn't working as plan
 
 **Improvise**: To create something using what you have on hand, without a plan, and make it work in a creative way. When you don't have markers, you improvise by using crayons instead.
 
-**Flexible**: Able to bend and change; willing to try new ideas and different ways of doing things. Being flexible means if your first idea doesn't work, you can try a second or third idea without getting upset.
+**Cognitive flexibility**: The scientific name for what your brain does when it switches to a new idea. Cognitive flexibility is a real skill scientists can measure — it's part of a group of brain skills called *executive function* that help us plan, focus, and solve problems.
+
+**Executive function**: The brain's control system — the part that helps you stop yourself from doing something impulsive, hold a plan in your mind, and shift to a new approach when needed. Children's executive function is still developing and grows strongest between ages 3 and 7.
+
+**Neuroplasticity**: The brain's ability to change and grow new connections (called *neural pathways*) every time you learn or practice something new. When you try a new way of building a tower, your brain is literally rewiring itself.
 
 ## 🎵 Learning Song
 
@@ -54,11 +58,19 @@ That's how all great builders solve what they have sought.
 - "Itsy Bitsy Spider kids song with movements"
 - "Classic nursery rhyme Itsy Bitsy Spider for toddlers"
 
+## Key Concepts
+
+**Adaptation happens everywhere in nature.** When animals can't get food one way, they try another — a crow will drop a nut on the road for a car to crack it open. Plants grow sideways around obstacles to reach sunlight. This isn't just luck; organisms that can adapt survive. Humans are the most adaptable animals on Earth, partly because of our unusually large and flexible prefrontal cortex — the front part of the brain that manages executive function.
+
+**Cognitive flexibility vs. rigidity.** Scientists studying child development use the term "cognitive flexibility" to describe the brain's ability to shift strategies. The opposite — getting stuck on one approach even when it isn't working — is called "perseveration." Young children are naturally prone to some perseveration because their prefrontal cortex is immature. The activities below are actually exercising that developing brain region.
+
+**Improvisation has structure.** In music, theater, and engineering, improvisation doesn't mean random — it means *constrained creativity*. Jazz musicians improvise *within* a key and chord structure. Engineers improvise within physics. When a child can't find the piece they need and substitutes another, they're doing real improvisational problem-solving.
+
 ## Activity
 
 ### Activity Overview
 
-Children explore how to adjust their approach when building or creating doesn't work as planned. Through free play with varied materials and open-ended challenges, they discover that when something falls, breaks, or doesn't fit, they can try a completely different way. This teaches them that flexibility and problem-solving are essential creative skills and that "mistakes" are just opportunities to try something new.
+Children explore how to adjust their approach when building or creating doesn't work as planned. Through free play with varied materials and open-ended challenges, they discover that when something falls, breaks, or doesn't fit, they can try a completely different way. Caregivers narrate these moments using real cognitive science vocabulary — naming the brain skills being exercised and connecting them to adaptation in nature.
 
 **Activity Type**: Creative expression, hands-on exploration, cognitive skill-building
 
@@ -93,13 +105,13 @@ Children explore how to adjust their approach when building or creating doesn't 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show children a simple incomplete or unstable structure and ask, "What if we change this? Can we make it different?" Demonstrate trying one approach, pausing, and saying aloud, "Hmm, that didn't work the way I wanted. Let me try something different!" Invite them to explore: "Today we're going to build and create, and if something isn't working the way we want, we get to try it a new way. That's what great builders and artists do!"
+   Show children a simple incomplete or unstable structure and ask, "What if we change this? Can we make it different?" Demonstrate trying one approach, pausing, and saying aloud, "Hmm, that didn't work the way I wanted. Let me try something different!" Introduce the idea: "When you switch to a new idea, your brain is using a skill called *cognitive flexibility* — that's a real science word for when your brain shifts gears. Scientists study this skill because it's so important for learning." Invite them to explore: "Today we're going to build and create, and every time you change your approach, your brain is growing."
 
 2. **Exploration** (5-10 min):
    Child selects materials and begins creating without instruction. Observe quietly as the child tests different materials, builds, and experiments. Gently narrate what you see: "You're stacking those pieces tall," "That feels soft in your hands," "You're using the tape to connect them." Notice where the child encounters challenges or needs to adjust.
 
 3. **Discovery** (3-5 min):
-   When a child encounters a challenge, ask: "What could we try next? Do you want to change it?" Demonstrate a simple alternative and introduce adaptive language: "You changed your mind! Now let's try...," "That didn't work that way, what else could we do?" Provide choices when stuck and allow child time to try the modification independently. Celebrate the adjustment: "You figured out a new way to make that work!"
+   When a child encounters a challenge, ask: "What could we try next? Do you want to change it?" Demonstrate a simple alternative and introduce adaptive language: "You changed your mind — that's cognitive flexibility! Your brain just switched gears." Connect to nature: "Animals do this too — if a bird can't get food one way, it tries another way. That's adaptation." Provide choices when stuck and allow child time to try the modification independently. Celebrate the adjustment: "You figured out a new way to make that work! Every time you do that, your brain builds a new neural pathway."
 
 4. **Wrap-up** (2-3 min):
    Gather with creations and reflect: "Show me something you changed about your creation. How did you make it different?" Highlight specific adaptations you observed. Ask: "What's something new you learned about building/creating today?" Take photos of creations for documentation. Involve child in sorting and organizing materials back into bins.

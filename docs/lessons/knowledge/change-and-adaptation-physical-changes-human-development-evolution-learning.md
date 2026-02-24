@@ -6,15 +6,17 @@ Children explore how everything around them changes over time—from how they gr
 
 ## Vocabulary
 
-Select 3-4 vocabulary words that are sophisticated but age-appropriate and directly relate to the topic:
+**Evolution**: The process by which living things change over many, many generations through natural selection. Evolution doesn't happen to one individual — it happens to populations over thousands or millions of years. Penguins' flippers evolved from bird wings over millions of generations.
 
-**Transform**: To change from one form or appearance into something completely different. When a caterpillar becomes a butterfly, it transforms. When water becomes ice, it transforms.
+**Natural selection**: The mechanism that drives evolution. Individuals with traits that help them survive and reproduce pass those traits to their offspring more often than others. Over time, helpful traits become more common in the population. Darwin called this "survival of the fittest" — though "fittest" means best-suited, not strongest.
 
-**Adapt**: To change or adjust to fit a new situation or environment. When the weather gets cold, we adapt by wearing warmer clothes. A penguin's thick feathers help it adapt to icy places.
+**Metamorphosis**: A dramatic physical transformation from one body form to a completely different one. Complete metamorphosis (egg → larva → pupa → adult) happens in butterflies, beetles, and flies. The caterpillar essentially dissolves most of its body inside the chrysalis and reorganizes into a butterfly.
 
-**Develop**: To grow and change gradually over time through natural stages. A baby develops from a newborn into a walking, talking toddler. A seed develops into a plant through sun, water, and soil.
+**Germination**: The process by which a seed sprouts and begins to grow. Germination starts when the seed absorbs water and its embryo begins dividing. Seeds can lie dormant (inactive, waiting) for years until conditions are right.
 
-**Growth**: The natural process of becoming bigger, stronger, or more skilled. Your body shows growth when your clothes become too small. A puppy shows growth when it becomes a dog.
+**Phototropism**: Plants growing toward light. "Photo" = light, "tropism" = turning. Plants produce more auxin (a growth hormone) on the shaded side, making that side grow faster and bending the plant toward the light source.
+
+**Adaptation** (biological): A trait — physical or behavioral — that increases an organism's survival or reproduction in its environment. Adaptations evolve through natural selection. A duck's webbed feet are an adaptation for swimming. This is different from *behavioral* adaptation (like putting on a coat), which happens within one lifetime.
 
 ## Learning Song
 
@@ -57,11 +59,23 @@ We transform just like the seeds, watch us change
 - "From seed to flower time-lapse for kids"
 - "How do caterpillars change into butterflies" (Crash Course Kids style)
 
+## Key Concepts
+
+**Two kinds of adaptation.** There's an important distinction children can grasp: *behavioral adaptation* (putting on a coat when cold, a squirrel caching nuts for winter) happens within an individual's lifetime and is a conscious or instinctive response. *Biological adaptation* (a polar bear's white fur, a cactus's waxy skin) evolved through natural selection over thousands of generations. Both are fascinating, and both are real.
+
+**Evolution is change over generations.** Charles Darwin sailed on the HMS Beagle (1831–1836) and observed animals on the Galápagos Islands that were slightly different on each island — finches with different beak shapes suited to different food sources. He realized that over generations, individuals with better-suited traits survived and reproduced more, gradually shifting the population. This process, natural selection, is the engine of evolution.
+
+**Metamorphosis is remarkable biology.** Inside a butterfly chrysalis, the caterpillar doesn't just rearrange its parts — it secretes enzymes that dissolve most of its own tissues into cellular soup, retaining only certain "imaginal discs" (groups of cells that survived and contain blueprints for adult structures). The adult butterfly reorganizes from this soup. This is one of the most dramatic transformations in nature.
+
+**Seeds wait for their moment.** Seeds are living embryos in a dormant state. They can wait years — sometimes centuries — for the right conditions. A seed planted in dry ground won't germinate; it waits. When water enters, it triggers hormones that activate the embryo. The seed's first root (called a radicle) pushes downward, and the shoot pushes upward — guided by gravity and light even underground.
+
+**Human development follows predictable stages.** Developmental biology shows that children proceed through predictable milestones not because they're taught to, but because their nervous systems and bodies are genetically programmed to mature in sequence. A baby cannot walk before its brain has myelinated (coated in insulating myelin) the neural pathways for motor control — this process happens on a biological schedule.
+
 ## Activity
 
 ### Activity Overview
 
-Children will observe and document visible growth and change in real-time or over time using simple materials. They'll plant seeds, observe baby animals (photos/videos), or watch natural transformations unfold, developing concrete understanding that change is visible, measurable, and exciting. This hands-on exploration transforms the abstract concept of adaptation and growth into tangible, observable phenomena.
+Children observe and document real biological change — planting seeds and tracking germination, and viewing images of metamorphosis and evolutionary adaptations. Caregivers name the real biological mechanisms (germination, phototropism, metamorphosis, natural selection) rather than treating growth as magical. The goal is wonder grounded in real science.
 
 **Activity Type**: Sensory exploration and observation discovery
 
@@ -100,8 +114,8 @@ Children will observe and document visible growth and change in real-time or ove
 
 1. **Introduction** (2-3 min):
    - Show the child a seed and ask: "What is this tiny thing?" Discuss what they think will happen.
-   - Use vocabulary: "This seed will *develop* into a plant. It will *grow* taller. It will *transform* from a tiny seed into something beautiful."
-   - Let the child hold the seed and feel how small it is.
+   - Explain the biology: "Inside this seed is a tiny embryo — a baby plant, asleep. It's been waiting for water and warmth. When it gets those things, it *germinates* — wakes up and starts to grow. The first root pushes down (guided by gravity), and the first shoot pushes up toward light — that's called *phototropism*."
+   - Let the child hold the seed and feel how small it is: "All the information to make a whole plant is inside this tiny thing."
 
 2. **Exploration** (5-10 min):
    - Guide the child to plant the seed by:
@@ -109,7 +123,7 @@ Children will observe and document visible growth and change in real-time or ove
      - Placing the seed gently in the hole
      - Covering it with soil
      - Sprinkling water until moist (not soggy)
-   - Talk about what the seed needs: "Seeds *adapt* to their environment by using sunlight, water, and soil to grow strong."
+   - Talk about what the seed needs: "Plants adapted over millions of years to use sunlight, water, and soil. Each of those traits — like growing toward light — evolved because plants that did it survived better."
    - Place the container in a sunny spot together.
 
 3. **Discovery** (3-5 min):
@@ -145,7 +159,7 @@ Children will observe and document visible growth and change in real-time or ove
 
 **Variation 1 - Growth Tracking Over Time**: Take photos of the plant daily or weekly and create a photo timeline showing transformation. Use a ruler in photos to show measurable growth.
 
-**Variation 2 - Butterfly Life Cycle**: Watch a video or view pictures of caterpillar-to-butterfly transformation. Discuss the stages: egg, caterpillar (larva), chrysalis (pupa), butterfly (adult). Create a circular diagram showing the cycle.
+**Variation 2 - Butterfly Metamorphosis**: Watch a video or view pictures of caterpillar-to-butterfly transformation. Discuss the stages using their real names: egg, larva (caterpillar), pupa (chrysalis), imago (adult butterfly). Explain: "Inside the chrysalis, the caterpillar's body actually *dissolves* into a soup of cells, and then reorganizes into a completely different body. That's called *metamorphosis* — one of the most amazing things in nature." Create a circular diagram showing the life cycle.
 
 **Variation 3 - Human Development**: Use family photos showing the child at different ages (baby, 1 year, 2 years, now). Discuss changes: "Your hair was shorter. You were smaller. You learned to walk and talk." This makes the concept personal and relatable.
 
