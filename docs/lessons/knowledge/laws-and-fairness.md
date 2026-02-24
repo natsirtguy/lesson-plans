@@ -6,13 +6,19 @@ Children explore the concept of fairness through everyday rules and sharing, dis
 
 ## Vocabulary
 
-**Fair**: When everyone gets what they need or is treated the same way. When you share toys with your friend so you both get a turn, that's fair. When grown-ups let all the children in line have the same amount of snack time, that shows fairness.
+**Law**: A formal rule made by a community or government that applies to everyone and has consequences for breaking it. Traffic lights are laws — everyone must stop at red. Laws are different from personal preferences: you can prefer to eat broccoli or not, but you can't choose whether to stop at a red light.
 
-**Rule**: Something we agree to do (or not do) to keep people safe and happy. A rule at home might be "we sit in our car seat" or "we use gentle hands." A rule at school might be "we wait our turn to speak."
+**Social Contract**: The idea that people agree to follow rules together because everyone benefits. We give up some freedoms (like taking whatever we want) in exchange for safety and fairness for everyone. Even a family has a social contract: "In our house, we share and take turns."
 
-**Justice**: Making things right when someone is hurt or treated unfairly, and helping people understand why what happened wasn't okay. If one child takes a toy and makes another child sad, justice means helping them fix it and learn to take turns next time.
+**Procedural Justice**: Fairness in HOW a decision is made — the process matters, not just the outcome. If a game has clear rules that everyone agreed to and played by, the process was procedurally just even if you didn't win.
 
-**Respect**: Treating people and things with care because they matter. You show respect when you listen to your friend's ideas, when you ask before using someone's toy, or when you follow grown-up instructions.
+**Distributive Justice**: Fairness in HOW things are shared or given out. This leads to an important distinction:
+- **Equal**: Everyone gets the same amount. Three crackers each.
+- **Equitable**: Everyone gets what they need. A child who is hungrier might need more crackers than one who just ate. Equitable isn't always equal.
+
+**Fair**: Treating people according to agreed-upon rules and their needs. Fairness is more complex than "equal shares" — sometimes fair means adjusting for different circumstances.
+
+**Rule**: Something we agree to do (or not do) to keep people safe and happy. A rule at home might be "we sit in our car seat." Rules can become laws when a whole community agrees to them.
 
 ## Learning Song
 
@@ -93,54 +99,41 @@ Children engage in turn-taking games and fair sharing scenarios, discovering thr
 
 **Activity Flow**:
 
-1. **Introduction** (2-3 min):
-   Sit together and say: "Today we're learning about fairness. Fairness means everyone gets to have a turn and gets treated the same way. It makes people happy!"
-   Show a toy and say: "Let's play a fairness game together."
+1. **Introduction — Why Do Laws Exist?** (2-3 min):
+   Sit together and ask: "What would happen if there were NO rules — no stop signs, no bedtimes, no 'take turns'? What do you think would happen?" Let the child imagine (they often come up with chaos). Say: "A long time ago, people figured out that when everyone does whatever they want, people get hurt and sad. So communities made agreements — rules everyone would follow. Those agreements became **laws**. Laws help us live together safely. Even our family has a kind of social contract — things we all agree to do so our home works for everyone."
 
-2. **Exploration** (8-10 min):
+2. **Exploration — The Equal vs. Equitable Problem** (8-10 min):
 
-   **Part A - Turn-Taking Play (5 min)**:
-   - Take a favorite toy and give it to the child first
-   - Let them play with it for a short time (count to 10 or sing a verse of a song)
-   - Say: "Now it's my turn!" and take a turn with the toy
-   - Repeat 3-4 times, praising turns: "You're taking fair turns!"
-   - Switch toys and do this again so the child gets many experiences
+   **Part A - Equal Sharing (3 min)**:
+   - Put 6 crackers on the table. Say: "Let's share equally — 3 for you, 3 for me."
+   - Count them out. "Is that fair? We each got the same amount — that's equal."
 
-   **Part B - Fair Sharing (3-5 min)**:
-   - Put the snack between you and the child
-   - Say: "Let's share this snack fairly. Fair means we each get the same amount."
-   - Count out equal portions: "One for you, one for me, one for you, one for me"
-   - Place their portion in front of them and yours in front of you
-   - Eat together and talk about how fair sharing tastes good!
+   **Part B - The Challenge** (3-5 min):
+   - Now say: "But wait — what if you're very hungry and I just ate a big lunch? Is 3 crackers each still fair?" Discuss.
+   - Introduce equitable: "Sometimes **equitable** — giving people what they NEED — is fairer than giving everyone exactly the same. A tall person and a short person trying to see over a fence: if they each stand on the same-size box, the tall one can see but the short one still can't. That's equal but not equitable. If the short person gets a bigger box so they can ALSO see, that's equitable."
+   - Ask: "Can you think of other times when what someone NEEDS might be different from what everyone else gets?"
+
+   **Part C - Procedural Justice** (2 min):
+   - Play a quick 3-round game (any simple game with a clear rule, like "who can stack 3 blocks fastest").
+   - Before starting: agree on the rules together. Play by them. Then ask: "Even if you don't win, was the game fair?" Explain: "If everyone agreed to the rules and followed them, the process was fair — that's called **procedural justice**. Fair rules, followed by everyone."
 
 3. **Discovery** (3-5 min):
    Ask guiding questions:
-   - "How did it feel when you got your turn?" (Wait for response)
-   - "What would happen if I kept the toy and you didn't get a turn?" (Listen to their thoughts)
-   - "Was sharing the snack fair? Why?" (Reinforce equal amounts)
-   - "How does fairness make us feel happy?"
-   Point out: "When we're fair, everyone smiles and feels good!"
+   - "Why do we have to stop at red lights even when no cars are coming?" (Laws apply to everyone, even when inconvenient)
+   - "If YOU made a rule for our family, what would it be? Why?" (Social contract thinking)
+   - "Is it fair for a baby to get carried and you have to walk?" (Equitable vs. equal)
+   - "Who makes laws? How do people change a law they think is unfair?" (Communities decide together)
 
 4. **Wrap-up** (2-3 min):
-   Role-play a quick scenario: "Watch - I'm going to pretend I'm not being fair. I'm taking all the toys!" (Exaggerate playfully)
-   Then correct it: "Oh wait, that's not fair! Now let's both play. That's better!"
-   Say: "You learned about fairness today. That makes you a fair and kind person!"
+   Review: "We learned that **laws** are rules communities agree on. We have a **social contract** — we all follow rules together so everyone is safer. Fairness can mean **equal** (same for everyone) OR **equitable** (what each person needs). And a process can be fair even if you don't win — that's **procedural justice**."
 
 ### Age Adaptations
 
 **2-3 years**:
-- Use very simple, concrete language ("Your turn, my turn")
-- Keep turn-taking to 3-4 rounds total (shorter attention span)
-- Focus mainly on the turn-taking activity; simplify sharing discussion
-- Use toys the child is very attached to (more meaningful learning)
-- Skip the "unfair scenario" - keep it all positive and real experiences
+Focus on the concrete equal vs. equitable problem with snacks — this is the most tangible concept. Use very simple language: "You're hungry so you get more crackers. That's equitable — you get what you need." Introduce "law" with one real example they already know: "The car seat is a law — everyone must use it to stay safe. That's a law." Skip procedural justice and social contract; keep it to one or two new words maximum.
 
 **3-4+ years**:
-- Introduce the word "rule" and discuss why rules help: "Rules keep us safe and help us be fair"
-- Ask deeper questions: "Why do you think it's fair to take turns? What would happen if..."
-- Add a rule-making activity: "What fair rules should we have when we play together?"
-- Role-play more complex scenarios: "If your friend wanted to play but didn't take a turn, how would that feel?"
-- Connect to real life: "Do you see fairness at daycare/school? When do we take turns there?"
+Extend the social contract discussion: "Let's make a family rule together right now — something everyone agrees to." Write or draw it. Discuss what happens when rules are broken: consequences and repair. Introduce the idea of unfair laws: "Sometimes laws aren't fair and people work to change them. That's how society gets better over time." Ask: "If you were in charge of making laws for our neighborhood, what would they be? Who would they help?"
 
 ### Extension Ideas
 

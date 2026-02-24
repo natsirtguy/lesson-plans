@@ -8,6 +8,16 @@ Synchronized swimming and water dance introduce young children to rhythmic, arti
 
 **Duration**: 15-25 minutes (including water entry, warm-up, and rest breaks)
 
+## Key Concepts
+
+**Buoyancy**: The upward force water exerts on objects — this is what makes synchronized swimming possible. Water pushes up on your body, partly supporting your weight (Archimedes' principle: an object in water is pushed up by a force equal to the weight of water it displaces). This is why you can do graceful, slow movements in water that would require much more effort on land. Buoyancy is the invisible force that lets water dancers float and glide.
+
+**Tempo**: The speed of music, measured in beats per minute (BPM). Fast tempo = fast beats = fast movements. Slow tempo = slow beats = slow, flowing movements. Synchronized swimmers match their movements to the tempo of the music — when the tempo changes, they change too.
+
+**Beat and Rhythm**: The *beat* is the steady, regular pulse of music (like a heartbeat). *Rhythm* is the pattern of long and short sounds that dance on top of the beat. Water dancers use the beat to coordinate their movements — if you feel the beat in your body, you can move in time with music.
+
+**Synchronization**: Moving in the same time and way as someone else, or as the music. "Synchronized" comes from Greek: *syn* (together) + *chronos* (time) = same time. Two swimmers are synchronized when their movements match exactly. Synchronization requires listening carefully and adjusting your timing to match a partner or a beat.
+
 **Energy Level**: Moderate to High
 
 **Best Environment**: Swimming pool or calm, clear water area with appropriate depth
@@ -100,8 +110,8 @@ Synchronized swimming and water dance introduce young children to rhythmic, arti
 ### Main Activity (9-16 minutes)
 
 #### Introduction & Demonstration (2 minutes)
-- Introduce concept: "Water dancers listen to music and move their bodies in beautiful ways"
-- Show how music affects movement: "Fast music means quick movements; slow music means flowing movements"
+- Introduce concept: "Water dancers listen to music and move their bodies in beautiful ways — and water helps them! Water pushes up on your body (that's called **buoyancy**) so you can float and glide more easily than on land."
+- Show how music affects movement: "The music has a **tempo** — that means its speed. Fast tempo, quick movements; slow tempo, flowing movements. Feel the **beat** — that steady pulse, like a heartbeat. If we move together on the same beat, that's **synchronization** — moving at the same time."
 - Demonstrate a simple water dance sequence: walk to music, wave arms, turn gently
 - Explain that everyone's water dance is unique: "Your dance is special and yours alone"
 
@@ -117,9 +127,10 @@ Synchronized swimming and water dance introduce young children to rhythmic, arti
 
 **Coaching cues**:
 - "Listen to the music; let it tell your body what to do"
-- "When the music is fast, move fast; when it's slow, move slowly"
-- "Let your arms flow like water; smooth and beautiful"
-- "Feel the beat in your body; move with the rhythm"
+- "Feel the **beat** — that's the steady pulse. Can you clap on every beat?"
+- "The **tempo** is getting faster — speed up your movements to match!"
+- "Let your arms flow like water; smooth and beautiful — **buoyancy** is helping you!"
+- "We're **synchronized** right now — our arms are moving together at the same time!"
 - "Your face can dance too; show me how the music makes you feel"
 
 #### Guided Play/Game (5-10 minutes)

@@ -809,6 +809,11 @@
     "issues": "Vocabulary was entirely generic (interview, interviewer, communication, listen) — no real content about what makes interviews effective. Activity was just asking \"what's your favorite food?\" with no teaching of actual interview technique. No mention of open vs. closed questions, active listening, follow-up questions, or real-world interview contexts.",
     "fixed": "Replaced vocabulary with open-ended question, closed question, follow-up question, active listening — the actual concepts of effective interviewing. Updated activity to explicitly contrast open vs. closed questions and show why open-ended questions get richer answers. Added follow-up question practice and real-world context (journalism, science, medicine)."
   },
+  "knowledge/investment-and-savings-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Growth mechanic demonstrated without naming 'interest'; opportunity cost concept present but unnamed",
+    "fixed": "Added interest and opportunity cost to vocabulary; named interest explicitly in discovery phase; added opportunity cost prompts in activity flow"
+  },
   "knowledge/job-role-play-and-career-exploration.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "No economic concepts: missing division of labor, specialization, economic interdependence, goods vs services — just themed play with thin vocabulary",
@@ -824,6 +829,11 @@
     "issues": "Vocabulary is excellent: phoneme (44 English phonemes, Mandarin tones, Xhosa clicks, infant brain specialization by 12 months), language family (Indo-European family, 3 billion speakers, cognates across 5,000 years), bilingualism (prefrontal cortex strengthening, executive function, >50% of world bilingual, 7,000 languages with one going extinct every two weeks), writing system (alphabets vs. logographic vs. three simultaneous Japanese systems, Sumerian cuneiform 5,400 years ago). Activity references sitar strings, pentatonic scales, Diwali's 2,500-year history, and encourages cognate hunting and endangered language discussion.",
     "fixed": "N/A"
   },
+  "knowledge/language-and-thought.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Only everyday vocabulary (communicate, express, imagine); activity was pure naming games with no intellectual content about language-thought relationship; missed cognition, inner speech, symbols, linguistic relativity entirely",
+    "fixed": "Added cognition, symbol, inner speech, linguistic relativity to vocabulary; rewrote activity to teach symbols, inner speech practice, and new-word/new-world linguistic relativity game; updated age adaptations and extensions with real content"
+  },
   "knowledge/language-learning-and-practice.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Details not recorded.",
@@ -833,6 +843,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary surface-level (absorbent, moisture, texture, garment). No chemistry of cleaning (how soap works), no textile science (fiber types), no physics of drying (evaporation). Purely procedural washing activity.",
     "fixed": "Replaced vocabulary with surfactant (hydrophilic/hydrophobic molecular structure), fiber (cotton cellulose vs. wool protein vs. polyester polymer — different water absorption), evaporation (kinetic energy, water vapor, temperature effects), capillary action (adhesion/cohesion through fiber gaps). Rewrote activity to include surfactant mechanism explanation, fiber absorption comparison, and evaporation science."
+  },
+  "knowledge/laws-and-fairness.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Word 'law' never appeared; no social contract, no procedural/distributive justice, no equal vs. equitable distinction; activity was pure turn-taking play with no intellectual content about laws",
+    "fixed": "Added law, social contract, procedural justice, distributive justice, equal vs. equitable to vocabulary; rewrote activity to explore why laws exist, equal vs. equitable with boxes/crackers demo, procedural justice game; updated age adaptations"
   },
   "knowledge/leadership-and-team-activities.md": {
     "verdict": "FAIL -> FIXED",
@@ -859,10 +874,20 @@
     "issues": "Missing writing system history, no neuroscience of fine motor control, no ink science. Vocabulary was basic art terms (calligraphy, letterform, stroke, mark-making). Activity was painting marks with no knowledge content.",
     "fixed": "Replaced vocabulary with grapheme (written symbol for sound, 'A' from Phoenician ox head ~1050 BCE), motor cortex (34 hand muscles, myelination timeline), cuneiform (oldest writing, Mesopotamia 3400 BCE), serif (Roman stonemason chisel marks, serif vs. sans-serif). Rewrote activity to include writing system history, brain science of motor control, and cross-cultural script comparison."
   },
+  "knowledge/letter-writing-and-correspondence.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing letter anatomy vocabulary (salutation, postage, postmark), no history of written communication, no postal system explanation; activity was pure free mark-making with no engagement with symbolic or historical content",
+    "fixed": "Added salutation, postage, postal system, pictograph history to vocabulary; rewrote activity to cover pictograph-to-alphabet history, letter anatomy, postage invention (1840); updated age adaptations to include pictograph comparison and address structure"
+  },
   "knowledge/library-and-book-exploration.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was almost entirely generic everyday words: \"Explore\" and \"Imagination\" are not literacy concepts at all. \"Library\" defined as just \"a collection of books.\" No mention of fiction vs. non-fiction, genre, narrative structure, author/illustrator distinction, or how to use reference tools (table of contents, index). Activity was just \"browse books and read together\" with no intellectual framework.",
     "fixed": "Replaced vocabulary with fiction, non-fiction, genre, author, illustrator, narrative — real literacy concepts. Updated activity to include sorting books by fiction/non-fiction, demonstrating table of contents vs. absence of one, tracking narrative structure aloud, and using non-fiction as reference."
+  },
+  "knowledge/life-cycles-and-development.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Key scientific terms 'metamorphosis' and 'germination' absent despite being the central concepts; 'larva' and 'pupa' used without definition",
+    "fixed": "Added metamorphosis (complete vs incomplete) and germination to vocabulary with real mechanisms; incorporated both terms throughout activity flow and age adaptations"
   },
   "knowledge/light-and-sound.md": {
     "verdict": "FAIL -> FIXED",
@@ -1978,6 +2003,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section. Mentioned \"mirror neuron development\" in summary but never explained the concept in the activity. No neuroscience of synchronization (oxytocin release, entrainment), no anatomy.",
     "fixed": "Added full vocabulary section: mirror neurons (Rizzolatti discovery, premotor cortex, observation-action coupling), entrainment (automatic rhythm synchronization, nearly unique to humans), oxytocin (bonding hormone released during synchronized movement, measurable cooperation increase), temporal cortex (timing and rhythm processing). Rewrote coaching cues with muscle names and neuroscience explanations."
+  },
+  "physical/synchronized-swimming-and-water-dance.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No mention of buoyancy (the physics enabling water movement), no musical vocabulary (tempo, beat, rhythm), no explanation of what 'synchronized' means",
+    "fixed": "Added Key Concepts section with buoyancy/Archimedes, tempo, beat/rhythm, synchronization (etymology); wove these terms into introduction and coaching cues"
+  },
+  "physical/table-tennis-and-paddle-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No physics vocabulary (force, gravity, trajectory, reaction time); 'trajectory' mentioned in passing without explanation; no real science of how/why a struck ball moves",
+    "fixed": "Added Key Concepts section with force, trajectory, gravity, reaction time, hand-eye coordination; integrated these terms into demonstration and coaching cues"
   },
   "physical/taekwondo-and-kicking-arts.md": {
     "verdict": "FAIL -> FIXED",

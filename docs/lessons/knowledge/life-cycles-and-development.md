@@ -6,13 +6,15 @@ Children explore how living things grow and change over time, from seeds to plan
 
 ## Vocabulary
 
-**Cycle**: A series of events that happen in the same order again and again. Just like a bicycle wheel goes round and round, a butterfly's life goes through stages that repeat—egg, caterpillar, chrysalis, butterfly. The seasons also form a cycle: spring, summer, fall, winter, then spring again.
+**Cycle**: A series of events that happen in the same order again and again. A butterfly's life goes through stages that repeat — egg, caterpillar, chrysalis, butterfly — and when it lays new eggs, the cycle starts over.
 
-**Transform**: To change from one form or shape into something completely different. A caterpillar transforms into a butterfly. A tadpole transforms into a frog. A baby transforms into a grown-up over many years.
+**Metamorphosis**: A dramatic biological transformation where an animal's body structure changes completely as it develops. Butterflies and frogs undergo metamorphosis. There are two types: *complete metamorphosis* (egg → larva → pupa → adult, like butterflies) where each stage looks entirely different, and *incomplete metamorphosis* (egg → nymph → adult, like grasshoppers) where the young looks like a tiny version of the adult from the start.
 
-**Develop**: To grow and get bigger, stronger, and more able to do things. A baby develops into a toddler, then a child. A seed develops roots and a stem. Your muscles develop when you play and run.
+**Germination**: The process by which a seed sprouts and begins to grow into a plant. A seed germinates when it gets the right amount of water, warmth, and oxygen. The seed coat cracks open, a root (called a radicle) pushes downward, and a shoot pushes upward toward light.
 
-**Stage**: A distinct phase or period in a process of growth or change. A butterfly has four stages: egg, larva, pupa, and adult. A frog has three main stages: egg, tadpole, and froglet. Every living thing goes through different stages.
+**Develop**: To grow and change in organized, predictable ways. A seed develops roots and a stem through germination. Your brain and body develop more connections and capabilities every day.
+
+**Stage**: A distinct phase in a life cycle. A butterfly's four stages are: *egg*, *larva* (the caterpillar — eating and growing stage), *pupa* (the chrysalis — transformation stage inside a protective case), and *adult* (the butterfly). A frog's stages are: egg, *tadpole* (aquatic, has gills and a tail), *froglet* (growing legs, still has tail), and adult *frog* (breathes air, lives on land and water).
 
 ## Learning Song
 
@@ -97,15 +99,15 @@ Children will plant a seed and observe its growth over several weeks, documentin
 
 1. **Introduction** (3-5 min):
    - Show the dry seed and ask: "What will this tiny seed become?"
-   - Explain that seeds need soil, water, and sunshine to grow
-   - Tell a simple story: "Seed sleeps in the dark soil. Water wakes it up. Sun helps it grow big and strong."
-   - Show a simple picture of the complete life cycle (seed → sprout → plant → flower)
+   - Explain seeds need soil, water, warmth, and oxygen to begin growing. "When a seed starts to grow, we call that **germination**. The seed coat cracks open and a tiny root pushes down while a tiny shoot pushes up toward the light."
+   - Show a simple picture of the complete life cycle (seed → sprout → plant → flower → new seeds)
+   - If you have a life cycle chart for a butterfly: "When a caterpillar turns into a butterfly, that's called **metamorphosis** — a dramatic transformation where the body changes completely. Butterflies go through *complete metamorphosis*: egg, larva, pupa, adult."
 
 2. **Exploration** (10-12 min):
    - Let the child feel the seed in their hand: "It's small and hard now, but inside is a tiny plant waiting to grow"
    - Demonstrate planting: Create a small hole with your finger, place the seed inside, gently cover with soil
    - Have the child plant their own seed, providing hand-over-hand guidance if needed
-   - Water together gently, explaining: "The water helps the seed wake up and start growing"
+   - Water together gently, explaining: "The water and warmth of the soil will trigger **germination** — the seed will begin to grow."
    - Place in a sunny location together
 
 3. **Discovery** (3-5 min):
@@ -132,7 +134,7 @@ Children will plant a seed and observe its growth over several weeks, documentin
 - Use larger seeds (bean or sunflower) that are easier to handle
 - Focus on simple sensory exploration: feeling the seed, touching the soil, gentle watering
 - Keep observations very short and concrete: "Look, water! Plant drinks!"
-- Use only 1-2 vocabulary words (seed, grow)
+- Use 2-3 key vocabulary words: "germination" (the seed starts growing), "metamorphosis" (big change), "cycle"
 - Provide significant hand-over-hand assistance with planting
 - Use picture cards with just 2-3 stages (seed, sprout, plant)
 
@@ -141,7 +143,7 @@ Children will plant a seed and observe its growth over several weeks, documentin
 - Introduce all 4 vocabulary words and discuss cycles more in depth
 - Create a documented growth chart: draw each week or take weekly photos in the same spot
 - Predict what comes next: "What stage comes after the sprout?"
-- Discuss other life cycles using picture cards: butterfly (egg → caterpillar → chrysalis → butterfly), frog (egg → tadpole → froglet → frog)
+- Discuss metamorphosis using picture cards: butterfly complete metamorphosis (egg → larva/caterpillar → pupa/chrysalis → adult butterfly), frog (egg → tadpole with gills → froglet growing legs → adult frog). Ask: "Why does the caterpillar go inside a chrysalis? Its whole body is reorganizing — that's metamorphosis."
 - Connect to personal development: "Remember when you were a baby? You grew like this plant is growing!"
 
 ### Extension Ideas

@@ -8,6 +8,18 @@ Table Tennis and Paddle Sports introduces young children to basic racquet/paddle
 
 **Duration**: 10-20 minutes (with natural breaks)
 
+## Key Concepts
+
+**Force**: A push or pull that causes an object to move, speed up, slow down, or change direction. When you hit a balloon with a paddle, you're applying force to it. More force = balloon moves faster and farther. Gentle force = slow, soft movement. Paddle sports are all about controlling how much force you apply.
+
+**Trajectory**: The curved path a moving object follows through the air. When you hit a balloon, it follows a trajectory — it goes up, curves through the air, then comes back down. The angle and force of your hit affects the trajectory. Predicting where the balloon will land is a key skill in any paddle sport.
+
+**Gravity**: The invisible force pulling everything toward the ground. Gravity is why the balloon eventually falls — it's always pulling it down, no matter how hard you hit. Players have to keep hitting to fight gravity and keep the balloon airborne.
+
+**Reaction Time**: The amount of time between seeing something happen and responding to it. When the balloon comes toward you, your eyes send a signal to your brain, your brain decides what to do, and your arm moves to hit. Practicing paddle sports trains faster reaction time — the signal path gets quicker with practice.
+
+**Hand-Eye Coordination**: The ability to use what your eyes see to guide what your hands do. Your visual system tracks the balloon's trajectory, and your brain coordinates your arm to intercept it. This visual-motor integration improves with practice and is used in almost every sport.
+
 **Energy Level**: Moderate to High
 
 **Best Environment**: Indoor gymnasium / Living room / Outdoor flat space
@@ -91,6 +103,8 @@ Table Tennis and Paddle Sports introduces young children to basic racquet/paddle
 - Show child how the paddle is used to tap/hit the balloon, keeping it in the air
 - Demonstrate slow, controlled movement rather than swinging hard
 - Say: "We're going to use this paddle to tap the balloon and keep it flying! Watch how I do it gently..."
+- Introduce the physics: "When I tap it hard, I apply a lot of **force** — it goes fast and far. When I tap it softly, gentle force — it floats slowly. **Gravity** keeps pulling it down, so we have to keep hitting to fight gravity!"
+- Point out trajectory: "Watch the **trajectory** — the path it takes through the air. It curves up, then down. We have to predict where it's going to land to hit it."
 - Let child hold and feel the paddle before starting
 
 #### Skill Practice (3-6 minutes)
@@ -101,10 +115,11 @@ Table Tennis and Paddle Sports introduces young children to basic racquet/paddle
 
 **Coaching cues**:
 - "Hold the paddle like you're shaking a friend's hand"
-- "Tap the balloon gently - we're not swatting flies!"
-- "Watch the balloon and tap it with the middle of your paddle"
-- "Great hit! Keep going - tap it again before it falls!"
-- "Your arm is doing such strong work!"
+- "Tap the balloon gently - control your **force**!"
+- "Watch the balloon and predict its **trajectory** — where will it land?"
+- "**Gravity** is pulling it down — hit it again before it falls!"
+- "Your **reaction time** is getting faster — you're seeing it and responding quicker!"
+- "Your arm is doing such strong work — great **hand-eye coordination**!"
 
 #### Guided Play/Game (3-7 minutes)
 **Game structure: Balloon Keep-Up**
@@ -129,7 +144,7 @@ Table Tennis and Paddle Sports introduces young children to basic racquet/paddle
 - Let child experiment with hitting balloon in own way
 - Encourage discovering how hard/soft to hit for different effects
 - Allow hand-paddling (using hand as paddle) if paddle becomes frustrating
-- Observe what the child is learning: control, predicting balloon trajectory, adjusting effort
+- Observe what the child is learning: force control, predicting balloon trajectory, adjusting effort, reaction time
 
 ### Cool-Down (2-3 minutes)
 
