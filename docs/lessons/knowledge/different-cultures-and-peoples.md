@@ -14,6 +14,12 @@ Children explore how people around the world live differently, celebrate uniquel
 
 **Diversity**: Having lots of different kinds of things—in this case, many different ways of living, dressing, eating, and celebrating. It's like having a rainbow instead of just one color; diversity makes things more beautiful and interesting.
 
+**Anthropology**: The scientific study of humans—how people live, what they believe, the tools they make, and the societies they build. Anthropologists travel the world to learn about different cultures by living among them, asking questions, and recording what they observe.
+
+**Oral tradition**: Knowledge, stories, and history that are passed down by telling them out loud, from parent to child to grandchild, across many generations—before writing was invented or when writing was not available. Many cultures have preserved thousands of years of wisdom through oral tradition: myths, recipes, songs, and histories all told and retold.
+
+**Cultural diffusion**: The process by which ideas, foods, words, tools, and practices spread from one culture to another through trade, travel, or contact. Many foods we think of as belonging to one country traveled from somewhere else — tomatoes came from the Americas to Italy; noodles may have traveled from China to Europe. Cultures have always shared and borrowed from each other.
+
 ## Learning Song
 
 **Tune**: London Bridge Is Falling Down
@@ -75,7 +81,7 @@ Celebrating all
 
 ### Activity Overview
 
-Children explore artifacts, images, and sensory items from different cultures around the world through a discovery-based exploration. They'll touch fabrics, see pictures of homes and celebrations, taste foods from different cultures (if appropriate), and create a simple representation of cultural diversity. This concrete experience helps young children understand that people are different AND that all people have families, eat, celebrate, and show love.
+Children explore artifacts, images, and sensory items from different cultures around the world through a discovery-based exploration. They'll touch fabrics, see pictures of homes and celebrations, taste foods from different cultures (if appropriate), and create a simple representation of cultural diversity. This concrete experience helps young children understand that people are different AND that all people have families, eat, celebrate, and show love. There are approximately 7,000 distinct cultures in the world today. Every one of them developed ways to answer the same basic human challenges: how to find food, how to stay warm, how to raise children, how to mark important moments, and how to pass knowledge on to the next generation through **oral tradition**. The fact that people answer these challenges so differently — with different foods, different music, different houses — is what **anthropologists** study.
 
 **Activity Type**: Sensory exploration and discovery play
 
@@ -120,7 +126,7 @@ Children explore artifacts, images, and sensory items from different cultures ar
    - Play soft background music or use cultural instruments gently
    - Rotate through different cultural items: "This is silk from Asia. How does it feel? Smooth, right? This is wool—it's warm and fluffy!"
    - Point to homes: "Some people live in houses like this with a roof. Some live in round homes. Some live in buildings that are very tall. All homes keep families safe and warm."
-   - If tasting foods: "People in different places eat different foods, but everyone eats to stay healthy and strong, just like you!"
+   - If tasting foods: "People in different places eat different foods, but everyone eats to stay healthy and strong, just like you!" Point out examples of **cultural diffusion**: "Did you know that pizza is Italian, but tomatoes — the main ingredient — originally came from the Americas? Cultures are always sharing and borrowing ideas from each other!"
 
 3. **Discovery** (3-5 min):
    - Ask open-ended questions:

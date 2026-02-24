@@ -14,6 +14,12 @@ Children discover that people around the world speak many different languages an
 
 **Words**: The sounds we put together to name things and tell other people what we mean. "Apple," "manzana," and "pomme" are all different words for the same fruit in different languages.
 
+**Phoneme**: The smallest unit of sound in a language. English has about 44 phonemes — individual sounds like the "b" in "bat" or the "sh" in "ship." Different languages use different sets of phonemes, which is why some foreign words sound so unusual to our ears: they contain sounds our mouths rarely make. Babies are born able to distinguish all the world's phonemes; by age 1 they begin to specialize in the sounds of the language(s) around them.
+
+**Tonal language**: A language where the pitch (high or low tone) of your voice when saying a word changes its meaning. Mandarin Chinese has four tones: the word "ma" can mean "mother," "hemp," "horse," or "scold" depending on whether your voice rises, falls, stays flat, or dips and rises. Over a billion people speak tonal languages, including Mandarin, Cantonese, Vietnamese, and many African languages.
+
+**Language family**: A group of languages that evolved from a common ancient ancestor. Spanish, French, Italian, Portuguese, and Romanian are all "Romance languages" — they all descended from Latin, the language of ancient Rome. English, German, and Dutch belong to the "Germanic" family. Scientists group the world's roughly 7,000 languages into about 140 language families this way.
+
 ## Learning Song
 
 **Tune**: London Bridge Is Falling Down
@@ -70,7 +76,7 @@ All around the earth
 
 ### Activity Overview
 
-Children explore actual sounds from different languages by listening to and attempting to repeat greetings and simple words. They will discover how languages sound different while finding similarities and enjoying the fun of trying new sounds. This hands-on exploration builds phonological awareness while fostering curiosity about global diversity.
+Children explore actual sounds from different languages by listening to and attempting to repeat greetings and simple words. They will discover how languages sound different while finding similarities and enjoying the fun of trying new sounds. There are approximately **7,000 languages** spoken in the world today, grouped into roughly 140 **language families** that share common ancient ancestors. Languages differ not just in vocabulary but in their entire sound system (**phonemes**), grammar rules, and even their writing systems — some written left to right, some right to left, some top to bottom. Some languages like Mandarin are **tonal**, where the pitch of a word changes its meaning entirely. These are not just cultural curiosities — they are evidence of how humans across thousands of years and thousands of miles independently solved the same challenge: how to communicate. This hands-on exploration builds phonological awareness while fostering curiosity about global linguistic diversity.
 
 **Activity Type**: Sensory exploration and interactive listening
 
@@ -118,7 +124,7 @@ Children explore actual sounds from different languages by listening to and atte
 3. **Discovery** (3-5 min):
    Ask guiding questions:
    - "Which word sounded the silliest to your ears?"
-   - "Did any of the words sound a little bit like English?"
+   - "Did any of the words sound a little bit like English?" (Spanish and French share many word roots with English because they're related **language families** — they have a common ancestor. Mandarin, on the other hand, comes from a completely different language family, which is why it sounds so different.)
    - "Can you pick your favorite language sound?"
    - "Do you think people who speak Spanish understand English?" (Help child understand different languages are different codes for talking)
    Play a favorite sample again and let the child repeat multiple times. Celebrate each attempt with enthusiasm.

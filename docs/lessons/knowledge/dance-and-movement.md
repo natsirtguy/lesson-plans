@@ -14,6 +14,12 @@ Children explore the joy and freedom of movement through music and rhythm, disco
 
 **Improvisation**: Making up movements and ideas in the moment without planning ahead—like dancing however you want to the music instead of following specific steps
 
+**Proprioception**: Your body's hidden sense of where your limbs are in space, even with your eyes closed. Special receptors in your muscles and joints send constant signals to your brain so you know where your arm is when you swing it, or whether your leg is bent or straight. Dancing trains proprioception.
+
+**Vestibular system**: The balance system located in the inner ear—tiny fluid-filled canals that detect rotation, tilting, and acceleration. When you spin in a circle and feel dizzy, that's your vestibular system working overtime. Spinning, rolling, and swaying during dance directly stimulate and develop this system.
+
+**Tempo**: How fast or slow music moves, measured in beats per minute (BPM). A slow waltz might be 90 BPM; a fast march might be 160 BPM. When dancers speed up or slow down to match the music, they are matching their movements to the tempo.
+
 ## Learning Song
 
 **Tune**: "If You're Happy and You Know It"
@@ -61,7 +67,7 @@ When you're sleepy and you feel it, move so slow (8 syllables)
 
 ### Activity Overview
 
-Children experience the joy of moving their bodies freely while learning that movement can match different moods, tempos, and music styles. Through guided dance exploration, children discover their own unique way of moving while building body confidence and motor skills in a playful, non-judgmental environment.
+Children experience the joy of moving their bodies freely while learning that movement can match different moods, tempos, and music styles. Through guided dance exploration, children discover their own unique way of moving while building body confidence and motor skills in a playful, non-judgmental environment. Every time a child spins, jumps, or freezes in a new shape, their **cerebellum** (the part of the brain that coordinates movement and balance) is actively forming new neural connections. Dance is not just exercise — it is direct training of the brain systems responsible for coordination, timing, and spatial awareness.
 
 **Activity Type**: Sensory exploration / Creative movement / Dance play
 
@@ -105,7 +111,7 @@ Children experience the joy of moving their bodies freely while learning that mo
 
    **Phase 2 - Guided Movement (3-4 min)**: Introduce simple movement prompts while music continues: "Can you make your arms dance? How would your feet like to move? Show me a big jump! Show me tippy-toe walking! Can you move like a butterfly? Like a dinosaur?"
 
-   **Phase 3 - Mood/Tempo Changes (2-3 min)**: Play contrasting music (calmer, slower). Talk about how bodies move differently: "This music is peaceful. Let's move slowly. Let your arms float. Can you move like a gentle breeze?" Then switch back to upbeat music: "Now we're dancing fast again! Bounce! Jump! Spin!"
+   **Phase 3 - Mood/Tempo Changes (2-3 min)**: Play contrasting music (calmer, slower). Talk about how bodies move differently: "This music is peaceful. Let's move slowly. Let your arms float. Can you move like a gentle breeze?" Name what's happening: "This music has a slow **tempo** — the beats are far apart. Our bodies are slowing down to match." Then switch back to upbeat music: "Now the **tempo** is fast again — lots of beats close together! Now we're dancing fast! Bounce! Jump! Spin!" Connecting body experience to musical concepts (fast/slow tempo, loud/soft dynamics) is real music literacy even for toddlers.
 
 3. **Discovery** (2-3 min):
    Pause and sit together. Ask observational questions:
