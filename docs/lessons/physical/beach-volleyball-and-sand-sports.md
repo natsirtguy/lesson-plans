@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Beach volleyball and sand sports introduce young children to net-based games and cooperative play in a soft, forgiving environment. This activity combines gross motor skill development with strategic thinking, teamwork, and outdoor adventure. Sand play builds leg strength, balance, and proprioception while the softer surface reduces impact injuries. Volleyball games teach children hand-eye coordination, turn-taking, and the joy of group play.
+Beach volleyball and sand sports introduce young children to net-based games and cooperative play in a soft, forgiving environment. This activity combines gross motor skill development with strategic thinking, teamwork, and outdoor adventure. Sand play builds leg strength, balance, and proprioception — your body's internal sense of position and movement, the system that lets you know where your limbs are without looking — while the softer surface reduces impact injuries. Sand is unstable and energy-absorbing, which means muscles work harder with every step (burning roughly 2x the energy of moving on firm ground) and the ankles and feet constantly make micro-adjustments to stay balanced, directly training the proprioceptive system. Volleyball games teach children hand-eye coordination, turn-taking, and the joy of group play.
 
 **Activity Type**: Team sport / Outdoor adventure / Gross motor development
 
@@ -96,13 +96,15 @@ Beach volleyball and sand sports introduce young children to net-based games and
 4. High knees in sand - running motion lifting knees high (harder in sand, great workout)
 5. Gentle arm stretches - reach overhead, cross body stretch
 
-**Warm-up cues**: "Let's get our arms ready for volleyball! Swing your arms like you're hitting a big ball. Feel your shoulders getting loose and strong. We're going to have so much fun playing with the ball!"
+**Sand warm-up note for caregivers**: Notice how much harder simple movements feel in sand. That's because sand grains shift and sink underfoot, absorbing energy rather than returning it (like a hard surface would). This instability activates small stabilizing muscles in the feet, ankles, and calves that rarely get challenged on pavement — which is what makes beach sports such effective training even at a low intensity.
+
+**Warm-up cues**: "Let's get our arms ready for volleyball! Swing your arms like you're hitting a big ball. Feel your shoulders getting loose and strong. Notice how your feet are sinking a little — your legs are already working harder than they would at home!"
 
 ### Main Activity (12-20 minutes)
 
 #### Introduction & Demonstration (2 minutes)
 - Show the volleyball or beach ball and explain the game
-- Demonstrate the "bump" technique - forearm pass by joining hands and swinging upward
+- Demonstrate the "bump" technique — the forearm pass where you join hands and present a flat surface of your forearms to the ball. The flat forearm platform distributes the ball's force across a wider area, giving more control than hitting with a fist or single hand
 - Show basic serving motion - toss ball in air, hit underhand or with open hand
 - Explain game concept: "We try to hit the ball over the net, and they hit it back to us"
 - Reassure: "The ball is soft and light, so it won't hurt when you hit it!"

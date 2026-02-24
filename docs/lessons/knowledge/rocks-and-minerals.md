@@ -14,6 +14,14 @@ Children will explore the fascinating world of rocks and minerals through sensor
 
 **Density**: How heavy or light something feels compared to its size. A rock the same size as a handful of popcorn will feel much heavier because it's denser—the material inside is packed more tightly together.
 
+**Igneous rock**: Rock that formed from melted rock called magma or lava that cooled and hardened. Granite is igneous — it formed deep underground as magma cooled slowly, which is why you can see the individual crystal grains. Obsidian is igneous too, but cooled so fast (from a lava flow) that it became smooth like glass, with no visible crystals.
+
+**Sedimentary rock**: Rock that formed when layers of sand, mud, shells, or other materials piled up over thousands of years and got pressed and cemented together. Sandstone is sedimentary — you can often see the layers. Fossils are almost always found in sedimentary rock, because the layers preserve things that got buried in them.
+
+**Metamorphic rock**: Rock that started as igneous or sedimentary rock but was transformed by intense heat and pressure deep underground — "metamorphosed" means changed. Marble is metamorphic — it used to be limestone (sedimentary) before it was squeezed and heated. Slate is metamorphic shale.
+
+**Crystal**: A mineral whose atoms are arranged in a perfectly repeating geometric pattern, giving it flat faces and sharp edges. Quartz crystals grow in this pattern, which is why they can look like clear or purple six-sided columns. Salt and sugar are also crystals — you can see this with a magnifying glass.
+
 ## Learning Song
 
 **Tune**: London Bridge Is Falling Down
@@ -108,6 +116,8 @@ Children will examine a collection of real rocks using multiple senses, discover
 1. **Introduction** (2-3 min):
    Begin by showing the basket of rocks with excitement. Ask: "What do you see?" Allow the child to look at the rocks from above. Hold up one smooth rock and one rough rock. Say: "This rock feels smooth" (demonstrate by running your finger across it) "and this rock feels rough" (show the bumpy texture). Let the child touch both rocks and repeat the words "smooth" and "rough."
 
+   Share the big idea: "There are three main kinds of rocks. **Igneous rocks** formed from melted rock — imagine lava from a volcano cooling down and turning solid! **Sedimentary rocks** formed from layers of sand and mud piling up for millions of years — sometimes they have fossils inside! **Metamorphic rocks** started as another rock but got changed deep underground by incredible heat and pressure." If you have examples of each type, hold them up one at a time.
+
 2. **Exploration** (7-10 min):
    Invite the child to pick up rocks one at a time and examine them. Ask guiding questions:
    - "How does this rock feel? Smooth or rough?"
@@ -115,7 +125,7 @@ Children will examine a collection of real rocks using multiple senses, discover
    - "Is it light or heavy?"
    - "Do you see any sparkles?"
 
-   Give each child a magnifying glass and show them how to hold it close to a rock. Say: "Look through the glass! What do you see? Are there tiny grains? Sparkles? Stripes?" Point out interesting features like quartz crystals, mica flakes, or color patterns. Let them explore for several minutes without pressure—this is about discovery.
+   Give each child a magnifying glass and show them how to hold it close to a rock. Say: "Look through the glass! What do you see? Are there tiny grains? Sparkles? Stripes?" Point out interesting features: quartz crystals (clear or glassy, found in granite), mica flakes (the shiny silver flakes that make rocks sparkle), or color layers (often in sedimentary rocks). If you see distinct grains or crystals, say: "Those grains are individual minerals — the rock is made of lots of minerals packed together!" Let them explore for several minutes without pressure—this is about discovery.
 
 3. **Discovery** (3-5 min):
    Once the child has examined several rocks, introduce sorting. Place three bowls in front of them and suggest sorting by:

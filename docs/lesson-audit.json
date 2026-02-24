@@ -509,6 +509,11 @@
     "issues": "Reasonable social/creative focus but missed opportunities to connect to formal concepts. Rules were treated as informal, not as logical structures.",
     "fixed": "Added conditional logic framing (if-then rules) and fairness/game theory to vocabulary. Updated rule-making phase to explicitly teach if-then structure and rule conflicts. Connected to computer programming and law as parallel systems. Added game theory framing to social negotiation."
   },
+  "knowledge/government-and-leadership.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Title says government but lesson had zero civics content — generic taking-turns leadership activity with no democracy, voting, laws, or government structures.",
+    "fixed": "Added government, democracy, law, vote, citizen vocabulary with real definitions; restructured activity to practice actual democratic voting and elected leadership; added monarchy vs democracy comparison extension; integrated political science framing throughout"
+  },
   "knowledge/group-meetings-and-discussions.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Democracy never mentioned despite being a lesson in democratic deliberation. Vocabulary was basic (participate, facilitate, contribute, perspective) with no political philosophy, decision science, or cognitive diversity research. Activities were entirely socio-emotional (feelings, kindness) with no intellectual content about HOW and WHY group decisions work.",
@@ -589,6 +594,11 @@
     "issues": "Vocabulary was decent (observe, investigate, clue, pattern) but no scientific method framework. No distinction between observation and inference. No hypothesis testing. Activity taught \"finding things\" without the intellectual structure of information gathering.",
     "fixed": "Replaced vocabulary with hypothesis (testable guess, scientific method), observation (direct sensory facts), inference (conclusion from evidence), evidence (multiple clues build case), systematic (organized search strategy, scientific experiment design). Rewrote introduction to frame searching with hypothesis → test → evidence framework. Updated discovery section to distinguish observation from inference and name the detective process explicitly."
   },
+  "knowledge/innovation-and-invention.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Referenced simple machines without defining them; no historical inventors mentioned; design process unnamed and implicit; Ramp extension had no physics content.",
+    "fixed": "Added simple machines (lever, wheel, inclined plane, pulley, wedge, screw) and design process to vocabulary; added Edison/Wright Brothers historical context to introduction; added inclined plane physics and gravity/force content to ramp extension"
+  },
   "knowledge/instructional-games-and-teaching-play.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was all everyday words (turn-taking, rules, engagement, strategy). No cognitive science, no probability, no executive function, no learning science.",
@@ -659,10 +669,20 @@
     "issues": "Vocabulary was almost entirely generic everyday words: \"Explore\" and \"Imagination\" are not literacy concepts at all. \"Library\" defined as just \"a collection of books.\" No mention of fiction vs. non-fiction, genre, narrative structure, author/illustrator distinction, or how to use reference tools (table of contents, index). Activity was just \"browse books and read together\" with no intellectual framework.",
     "fixed": "Replaced vocabulary with fiction, non-fiction, genre, author, illustrator, narrative — real literacy concepts. Updated activity to include sorting books by fiction/non-fiction, demonstrating table of contents vs. absence of one, tracking narrative structure aloud, and using non-fiction as reference."
   },
+  "knowledge/light-and-sound.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Missing opaque/transparent/translucent vocabulary (why objects make shadows); missing frequency/pitch (why different surfaces sound different); incorrect/incomplete claim that both light and sound travel through air — light travels through vacuum, sound does not.",
+    "fixed": "Added opaque, transparent, translucent, frequency/pitch, and spectrum vocabulary with real definitions; integrated material classification into shadow activity; added pitch/frequency explanation to sound exploration; corrected light vs sound medium distinction with space example; fixed wrap-up to accurately distinguish how light and sound travel"
+  },
   "knowledge/logic-and-reasoning-puzzles.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Emojis in section headings (removed). Vocabulary included \"perseverance\" (character trait, not logic content) instead of logic concepts. No explanation of what logic IS — no deductive/inductive reasoning, no hypothesis, no distinction between logic and guessing. Activity was puzzle play with no logical framework.",
     "fixed": "Removed emojis from all section headings. Replaced vocabulary with logic (rule-following reasoning, computers run on logic), deductive reasoning (general rule → specific conclusion, always true), inductive reasoning (observations → general rule, can be wrong), hypothesis (testable prediction, how science works), pattern (with mathematical examples: doubling sequence, Fibonacci in nature). Rewrote introduction to frame puzzles as logic — the tool used by detectives, scientists, and lawyers. Rewrote discovery section to name logical processes as they happen (deductive reasoning during edge-piece sorting, hypothesis testing during placement). Updated 2-3 age adaptation to use real vocabulary with simple explanations. Extended Variation 4 to include formal deductive games (process-of-elimination 20-questions style)."
+  },
+  "knowledge/logic-games-and-brain-teasers.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Title promises logic but lesson never defines logic, deductive reasoning, or process of elimination. Vocabulary (analyze, pattern, persist, strategy) could apply to any lesson — no actual logic content.",
+    "fixed": "Added logic, deductive reasoning, process of elimination, and if-then thinking to vocabulary with real definitions; rewrote Discovery step to name logical strategies during play; added 20 Questions extension as explicit deductive reasoning practice; added Fibonacci sequence to pattern vocabulary"
   },
   "knowledge/making-and-keeping-friends.md": {
     "verdict": "PASS",
@@ -893,6 +913,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Lesson was fundamentally about sharing/fairness (a social-emotional skill) rather than resource management economics. Missing the core concept that drives resource management: scarcity. No mention of trade-offs or opportunity cost. Activity was just counting and equal division with no constraint-based thinking.",
     "fixed": "Added scarcity, trade-off, and budget to vocabulary alongside allocate/prioritize/conserve. Rewrote activity to explicitly introduce scarcity as the reason resources need managing; added constraint-based scenarios requiring trade-off decisions; reframed discovery questions around why resources need managing and what trade-offs were made."
+  },
+  "knowledge/rhythm-and-timing-physical-coordination-creative-music-social-synchronization-learning-sequences.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Had rhythm/tempo/synchronize vocabulary but missing key scientific concepts: entrainment, meter, neuroscience of rhythm. Activities were mostly procedural with thin intellectual content.",
+    "fixed": "Added entrainment and meter to vocabulary with real definitions; added caregiver background on neural circuits (auditory cortex, cerebellum), universal human rhythm, 40,000-year-old instruments; integrated entrainment language into activity introduction"
+  },
+  "knowledge/rocks-and-minerals.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Good observation vocabulary (mineral, density, texture) but missing the three fundamental rock types (igneous, sedimentary, metamorphic) and how they form — core geology content entirely absent. Also missing crystal structure.",
+    "fixed": "Added igneous/sedimentary/metamorphic definitions with real formation explanations (lava cooling, sediment compression, heat/pressure metamorphosis); added crystal vocabulary; wove rock type classification into introduction; added mineral identification context to magnifying glass exploration"
   },
   "knowledge/role-playing-and-simulation-physical-activities-creative-performance-social-situations-learning-scenarios.md": {
     "verdict": "FAIL -> FIXED",
@@ -1233,6 +1263,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No vocabulary section at all. No parabolic arc, launch angle, or kinetic chain physics. No muscle anatomy. Coaching cues were generic.",
     "fixed": "Added full vocabulary section: parabolic arc (gravity + launch force), launch angle (optimal 45-55°), deltoid (three sections), quadriceps (four muscles, power generation), proprioception (muscle spindles, Golgi tendon organs). Rewrote coaching with shot physics and biomechanics."
+  },
+  "physical/beach-volleyball-and-sand-sports.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Proprioception mentioned in summary but never defined or explained; missing physics of why sand is harder to move on; forearm pass technique not explained mechanically.",
+    "fixed": "Added full definition of proprioception with explanation of sand's unstable, energy-absorbing properties and their training benefit; added sand resistance physics in warm-up notes; explained forearm pass surface area mechanics"
   },
   "physical/body-awareness-and-proprioception.md": {
     "verdict": "FAIL -> FIXED",

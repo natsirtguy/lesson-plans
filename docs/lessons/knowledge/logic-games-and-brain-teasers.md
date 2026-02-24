@@ -6,13 +6,17 @@ Logic games and brain teasers are playful mental challenges that help young chil
 
 ## Vocabulary
 
+**Logic**: A system of reasoning where you use what you already know to figure out what must be true. Logic means following rules of thinking carefully — if the clue is "it's red and round," logic tells you it's probably not a banana. Computers, mathematicians, and detectives all rely on logic.
+
+**Deductive reasoning**: Starting from a general rule and using it to reach a specific conclusion. "All puzzle pieces must fit together. This piece has a bumpy edge. Therefore it connects to a piece with a matching hole." You're deducing — following the rules to a guaranteed answer.
+
+**Process of elimination**: A logical strategy for solving problems by ruling out what can't be right until only one possibility remains. When you try a puzzle piece that doesn't fit, you've eliminated it — you've used logic to cross off one option and narrow down the answer.
+
+**If-then thinking**: A fundamental structure of logic: "IF this is true, THEN that must follow." "IF the edge piece goes in the corner, THEN the piece with a curved side connects beside it." This "if-then" structure is also how computers are programmed.
+
 **Analyze**: To look carefully at something and think about how its parts work together. When you analyze a puzzle, you notice the shapes and colors of the pieces to figure out where they belong.
 
-**Pattern**: A repeated arrangement of objects, colors, or sounds that follows a rule. For example, red-blue-red-blue is a pattern you can continue by placing another red next.
-
-**Persist**: To keep trying even when something is hard or doesn't work the first time. When you persist with a puzzle, you try different ways until you figure it out.
-
-**Strategy**: A smart plan or way of approaching a problem. Using a strategy means thinking about the best way to solve something before you start.
+**Pattern**: A repeated arrangement of objects, colors, or sounds that follows a rule. For example, red-blue-red-blue is a pattern you can continue by placing another red next. Patterns in math (called sequences) follow rules too — the Fibonacci sequence (1, 1, 2, 3, 5, 8...) appears in flower petals and seashell spirals.
 
 ## 🎵 Learning Song
 
@@ -101,7 +105,7 @@ Children engage with simple puzzles, sorting games, and pattern activities that 
    Allow child to freely explore puzzle pieces or sorting objects. They'll pick up pieces, turn them different ways, notice colors and shapes, and attempt to fit pieces together. Observe and narrate: "You're trying different ways to see how they fit" or "I see you're looking at the colors." Introduce guiding questions like "Which piece looks like it connects to that one?" or "What do you notice about this shape?" Offer gentle hints without taking over: "You might look for the edge pieces first."
 
 3. **Discovery** (3-5 min):
-   Step back and let the child work through challenges with increased independence. Point out specific problem-solving strategies they're using: "Remember when you turned that piece? That was smart thinking." Ask open-ended questions to encourage deeper thinking. Celebrate attempts and progress, not just completion. If interest wanes, introduce a new challenge such as a different puzzle or sorting game.
+   Step back and let the child work through challenges with increased independence. Point out specific logical strategies they're using by naming them: "You just used process of elimination — you tried that piece, it didn't fit, so you know it goes somewhere else!" or "That's if-then thinking: IF that piece has a flat edge, THEN it must be on the outside border!" Ask open-ended questions: "What do you know for sure? What can you rule out?" Celebrate the reasoning, not just the solution.
 
 4. **Wrap-up** (2-3 min):
    Point out what was figured out: "Look at what you've solved! You discovered how these pieces connect by trying different ways." If the puzzle isn't complete, that's fine—acknowledge the progress made. Help place pieces back in their container and make cleanup part of the problem-solving game: "Where do the blue buttons belong?"
@@ -120,7 +124,10 @@ Progress to 8-12 piece puzzles with varied image complexity. Introduce sequence 
 Introduce patterns using objects or shape blocks. Start with simple AB patterns (red-blue-red-blue) and progress to ABC patterns. Ask the child to continue the pattern or create their own.
 
 **Variation 2**: Matching Memory Games
-Create pairs of identical images on cards. Lay cards face down and take turns flipping to find matches. Start with 4-6 pairs for younger children, progress to 8-12 pairs for older children.
+Create pairs of identical images on cards. Lay cards face down and take turns flipping to find matches. Start with 4-6 pairs for younger children, progress to 8-12 pairs for older children. Point out the logic: "You remembered that the cat was in that corner — you're using deductive reasoning, just like detectives do!"
+
+**Variation 3**: 20 Questions (simplified)
+Think of a simple object and let the child ask yes/no questions to figure out what it is. This is pure deductive logic — every answer rules out categories and narrows possibilities. Even a 3-year-old can try: "Is it food? Is it red? Can you eat it?" Model if-then thinking: "You know it's NOT food — so what can we cross off?"
 
 **Repeat play**: Rotate puzzles and games regularly to maintain interest and novelty. Let the child revisit favorite puzzles as mastery and confidence grow. Mix completed puzzle pieces with new ones for surprise combinations.
 

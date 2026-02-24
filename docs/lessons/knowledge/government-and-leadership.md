@@ -6,13 +6,17 @@ In this lesson, children explore basic concepts of leadership, decision-making, 
 
 ## Vocabulary
 
-**Leader**: A person who helps guide a group and make decisions for everyone. When you're playing a game and someone decides the rules, they're being a leader—like a captain of a team.
+**Government**: The system of rules and leaders that a group — a family, a town, or a whole country — uses to make decisions and live together fairly. Every group that lives together needs some way to decide things: that's what government is.
 
-**Responsibility**: Something important that you're in charge of taking care of. When you're responsible for feeding the class fish, you have to remember to do it every day because others depend on you.
+**Democracy**: A way of governing where everyone gets a say by voting. "Democracy" comes from Greek words meaning "people power." In a democracy, the group's choice wins—even if not everyone agrees. Many countries, including the United States, use democracy.
 
-**Community**: A group of people who live together and help each other. Your family is a community, and so is your classroom—everyone works together to make it a safe and fun place.
+**Law**: A rule that the whole community agrees to follow. Laws are different from suggestions — they apply to everyone equally. We have laws about traffic, safety, and fairness. Families have household rules that work the same way.
 
-**Cooperation**: Working together with others toward the same goal. When the whole class cleans up toys together, you're cooperating—everyone does their part to finish faster and better.
+**Leader**: A person chosen or elected to help guide a group and carry out its decisions. In a democracy, leaders are elected by votes. In a monarchy, a king or queen inherits leadership. A leader's job is to serve their community, not just to be in charge.
+
+**Vote**: A way of making a group decision where each person picks their choice, and the most popular choice wins. Voting is how democracies make decisions fairly — one person, one vote.
+
+**Citizen**: A member of a community or country who has both rights (things the government protects for you) and responsibilities (things you do to help your community).
 
 ## Learning Song
 
@@ -96,24 +100,27 @@ Children participate in a "Class Leader" game where they take turns leading simp
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Gather children in a circle. Say: "Today we're going to learn about leaders! A leader is someone who helps a group make decisions. Leaders help everyone work together. Everyone in this room can be a leader. Would you like to try?" Ask one child to be the first leader.
+   Gather children in a circle. Say: "Today we're going to learn about government! Every group of people — families, classrooms, towns, and whole countries — needs a way to make decisions together. That system of rules and leaders is called government." Ask: "How does OUR family decide things? How do we pick what to have for dinner?" Introduce the idea that one very important way groups make decisions is called democracy — everyone votes and the most popular answer wins. Tell children that in the United States, people vote to choose their leaders. Explain that today they'll practice democracy by voting and taking turns leading.
 
-2. **Exploration** (10-12 min):
-   - **First Leader Round**: Explain that the leader gets to pick ONE activity for the group to do together (show 2-3 simple options: "We can dance with scarves, OR build towers, OR play follow-the-leader"). The leader chooses.
-   - **Group Activity**: Everyone does the activity the leader chose for 2-3 minutes.
-   - **Change Leaders**: Switch to a new leader. Ask the new leader: "What should we do? What sounds fun?" Let them choose from the same options.
-   - **Repeat**: Continue with 3-4 different leaders so multiple children get turns.
-   - **Observation point**: Notice and mention: "Did everyone listen to [leader's name]? That's what good leaders do—people listen and cooperate!"
+2. **Exploration — Democratic Vote** (5-6 min):
+   - Present 3 activity options (dance, build with blocks, follow-the-leader). Say: "Let's vote! This is how democracy works." Have each child raise their hand for their choice — one vote per person. Count the votes aloud and announce the winner: "The most votes won — that's democracy!" Do the winning activity for 2-3 minutes.
+   - Discuss: "Even if your choice didn't win, we all follow the group's decision — that's how laws and democracy work."
 
-3. **Discovery** (3-4 min):
+3. **Exploration — Elected Leader Round** (5-6 min):
+   - Now have children vote to elect a leader. The elected leader picks the next activity (within the options). Say: "In a democracy, we vote for our leaders too — like when people vote for the President."
+   - Switch to a new elected leader after each round so multiple children experience the role.
+   - **Observation point**: "Did everyone follow [leader's name]'s decision? Good citizens cooperate with leaders they elected, even when they'd choose differently themselves."
+
+4. **Discovery** (3-4 min):
    Sit back in circle. Ask reflection questions:
-   - "What did our leaders do?" (Made choices, helped us have fun)
-   - "How did everyone help? Did you cooperate?" (Yes—everyone did what the leader suggested)
-   - "Could you be a leader?" (Yes! Everyone can be a leader in a community)
-   - "What made the leaders do a good job?" (Being kind, picking something fun, making sure everyone could join)
+   - "What is democracy?" (Everyone gets a vote, the most votes win)
+   - "Why do groups need government?" (To make decisions fairly, so not just the loudest or strongest person decides)
+   - "What's a law?" (A rule the whole community agrees to follow)
+   - "What's the difference between a family's rules and a country's laws?" (Same idea, bigger scale — both are about living together fairly)
+   - "What made our leaders do a good job?" (They listened, they followed the vote's result, they helped everyone participate)
 
-4. **Wrap-up** (1-2 min):
-   "You all did such a wonderful job being leaders and team members. In our classroom, we're a community. Everyone helps. Everyone listens. And everyone can be a leader!"
+5. **Wrap-up** (1-2 min):
+   "You just practiced democracy! In our classroom, we're a community with government — rules and leaders we choose together. Countries work the same way, just much bigger. Every citizen's vote counts — yours will too someday!"
 
 ### Age Adaptations
 
@@ -127,9 +134,11 @@ Expand to 3-4 activity choices, ask leaders to give specific instructions ("Ever
 
 **Variation 1 - Community Roles**: Instead of generic activities, assign roles: "You're the teacher leading circle time," "You're the parent organizing snack time." Children demonstrate how people in different roles lead.
 
-**Variation 2 - Problem Solving Leader**: Give the group a simple "problem" and let the leader suggest a solution: "The toys are all mixed up. What should we do first?" Children discover that good leaders solve problems.
+**Variation 2 - Different Types of Government**: Explore the contrast between democracy and monarchy. In one round, let the child be a "king or queen" who decides alone (no vote). In the next, use democracy (everyone votes). Ask: "Which felt fairer? Which do you like better?" This introduces real political science concepts at a concrete, experiential level.
 
-**Repeat play**: Rotate who gets to be leader in different settings—at snack time, cleanup time, etc. Practice leadership in natural moments throughout the day. Read books about leaders and discuss.
+**Variation 3 - Making a Class Law**: Have the group create one simple rule for their play session together (e.g., "No throwing blocks"). Write it down on paper as the "law." Discuss: "Why did we make this law? Who does it protect?" This mirrors how real legislation works.
+
+**Repeat play**: Rotate who gets to be leader in different settings—at snack time, cleanup time, etc. Point out real-world government as you encounter it: "That stop sign is a law — it keeps everyone safe." "The mayor is our city's leader — people voted for them."
 
 ## Parent/Caregiver Notes
 
