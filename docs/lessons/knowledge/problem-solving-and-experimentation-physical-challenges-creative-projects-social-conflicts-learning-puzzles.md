@@ -6,13 +6,17 @@ Children explore the joy of trying new ideas, learning from mistakes, and workin
 
 ## Vocabulary
 
-**Experiment**: To try something new to see what happens; testing your ideas to discover results. When you try stacking blocks different ways to see which arrangement is strongest, you're experimenting.
+**Hypothesis**: A guess you make BEFORE trying something — your prediction about what will happen. "I think the wider base will make a taller tower." Scientists always form a hypothesis before they experiment.
 
-**Problem-Solve**: To work through a challenge by thinking of different ways to fix it or make it work. When a puzzle piece won't fit and you try turning it different directions, you're problem-solving.
+**Variable**: The one thing you change in an experiment to see if it makes a difference. If you want to know whether block shape matters for tower height, you change ONLY the block shape — everything else stays the same. Changing one variable at a time helps you figure out what actually caused the result.
 
-**Persist**: To keep trying even when something is hard at first; not giving up. When building a tower falls down and you build it again, you're persisting.
+**Observation**: Carefully noticing and describing exactly what happens during or after your experiment — not what you expected, but what actually occurred. Accurate observation is the most important skill in science.
 
-**Challenge**: Something that takes effort and thinking to accomplish; a puzzle to figure out. Building something higher than yesterday or creating something you've never made before is a challenge.
+**Inference**: A conclusion you draw from your observations — reasoning about WHY something happened. "The tower fell because the base was too narrow" is an inference based on observing the fall.
+
+**Iteration**: Repeating an experiment with one change to improve the result. Engineers and scientists rarely solve problems on the first try — they iterate, refining their approach each time based on what they learned.
+
+**Trial and error**: A structured problem-solving strategy where you systematically try different solutions, learn from each attempt, and use that information to guide the next try.
 
 ## Learning Song
 
@@ -100,19 +104,23 @@ Children engage in a "Challenge Station" experience where they encounter differe
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   "Today we're going to be experimenters and problem-solvers! We have some challenges set up, and there's no one right way to solve them. The best part? If something doesn't work, you just tried to figure something out—that's how we learn! Let's explore and try different ways."
+   "Today we're going to think like scientists and engineers! Scientists have a special process for solving problems: first they make a **hypothesis**—a guess about what will happen. Then they **experiment**—they try it. Then they **observe**—they notice exactly what happened. Then they **infer**—they figure out why. Let's practice this process!"
+
+   Demonstrate with one block challenge: "My hypothesis is: a wide base makes a taller tower. Watch—I'll try a narrow base first. [Try it, note result.] I'll observe: it fell after three blocks. Now let's change ONE variable—the base width—and try again with a wider base. [Try it.] My observation: it stayed up for five blocks! My inference: a wider base distributes the weight and makes a more stable structure."
+
+   Say: "Scientists never give up when something doesn't work—they iterate, which means they try again with a small change based on what they just learned."
 
 2. **Exploration** (10-15 min):
    - Let children move freely between stations or guide them through each one
-   - At **Build & Balance Station**: Introduce a specific challenge but let them try different ways. "Can you make this tower stay up?" If it falls, celebrate: "Great trying! What could you do differently?" (Try a wider base? Use fewer blocks? Try different shapes?)
+   - At **Build & Balance Station**: Introduce a specific challenge with the scientific method. "What's your hypothesis—what do you think will happen if we put the big blocks on top?" After it falls: "What did you observe? What's your inference about why it fell? What will you change in your next iteration?" Prompt changing ONE variable at a time: base width, block type, or stacking order — not all at once.
    - At **Puzzle Station**: Offer support without solving it. "Which pieces fit together? Can you turn that one?" Model trying a piece multiple ways.
    - At **Creative Invention Station**: Ask open-ended questions. "What do you want to build?" "How could you make it taller/stronger/bigger?" Let them experiment with no judgment.
    - At **Collaboration Station**: Encourage children to work together on a shared challenge. If there's disagreement or conflict, guide them to find solutions: "You both want to use the red block. What could we do?"
 
 3. **Discovery** (2-3 min):
-   - Gather to share discoveries: "What did you try at the blocks station?" "Did anything surprise you?" "When something didn't work, what did you try next?"
-   - Point out persistence: "You kept trying that puzzle three different ways—that's problem-solving!"
-   - Celebrate creative solutions: "I've never seen blocks stacked that way! How did you figure that out?"
+   - Gather to share discoveries using scientific language: "What was your hypothesis at the blocks station? What did you observe? What was your inference about why it worked or didn't?"
+   - Point out iteration: "You tried that puzzle three different ways — that's called iteration. Each attempt gave you information. What did you learn from the first try that helped the second?"
+   - Introduce logical reasoning: "Scientists use 'if-then' thinking: IF I make the base wider, THEN the tower should be more stable. Did your 'if-then' prediction turn out to be right or did you need to revise it?"
 
 4. **Wrap-up** (2 min):
    "You all did amazing problem-solving today! You tried new things, you kept going when it was hard, and you learned what works. Tomorrow we can try new challenges!"

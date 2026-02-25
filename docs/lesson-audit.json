@@ -1124,6 +1124,11 @@
     "issues": "Excellent: uses photosynthesis, chlorophyll, carbon dioxide, oxygen, stomata, carotenoids throughout; genuine experiments (oxygen bubble observation, chlorophyll extraction, chromatography); correct mechanistic explanation; outstanding age adaptations that use real vocabulary for toddlers",
     "fixed": "N/A"
   },
+  "knowledge/physical-fitness-and-strength.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Activity-heavy with no physiology — no cardiac muscle, no oxygen/blood delivery, no explanation of how muscles grow stronger, no tendons",
+    "fixed": "Added cardiac muscle, 600+ muscle fibers vocabulary, micro-tears/repair mechanism for muscle growth, oxygen/cardiovascular system, tendons; rewrote intro and discovery scripts to teach actual physiology"
+  },
   "knowledge/planets-and-stars.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Had real terms (luminous, celestial, orbit, constellation) but content was mostly craft-based (placing glow stars on paper). Never explained nuclear fusion, gravity, star vs. planet distinction, or solar system scale.",
@@ -1148,6 +1153,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "No printmaking history, no physics, no ink chemistry. Vocabulary was basic (pattern, imprint, texture, transfer). Activity was stamping with paint and no explanation of how printing works.",
     "fixed": "Replaced vocabulary with relief printing (oldest method, Chinese woodblock 200 CE), pressure (force per area in pascals), mirror image (reversal principle, Gutenberg 1440 movable type), pigment (light wavelength absorption/reflection, historical sources). Rewrote activity to explain relief printing mechanics, pressure physics, mirror image principle, and pigment science. Added Gutenberg's revolution for 3-4+."
+  },
+  "knowledge/problem-solving-and-experimentation-physical-challenges-creative-projects-social-conflicts-learning-puzzles.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Process-only lesson — teaches persistence/feelings with no actual intellectual content; vocabulary is circular and non-technical; no scientific method, hypothesis, variables, or logical inference",
+    "fixed": "Added hypothesis, variable, observation, inference, iteration, trial-and-error vocabulary; rewrote intro to demonstrate scientific method step-by-step; added if-then reasoning; restructured discovery section to use scientific language throughout"
+  },
+  "knowledge/project-management-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Generic teamwork lesson with no actual PM content; vocabulary was all social emotions (collaborate, cooperate) with no scope, milestone, dependency, resource, or deliverable concepts",
+    "fixed": "Added scope, milestone, dependency, resources, role, deliverable, and scope creep vocabulary; rewrote intro to define deliverable and identify dependencies before touching materials; restructured activity to plan milestones, assign roles, and check scope creep; added retrospective wrap-up"
   },
   "knowledge/public-speaking-and-presentation.md": {
     "verdict": "FAIL -> FIXED",
@@ -1174,6 +1189,11 @@
     "issues": "Vocabulary was \"narrative, illustration, anticipate, literature\" — real but basic literacy terms. No neuroscience of reading, no phonological awareness, no explanation of how the brain processes written symbols. Activity was looking at picture books with no science content.",
     "fixed": "Replaced vocabulary with phoneme (44 English phonemes, infant phoneme pruning), Broca's area (speech production, Paul Broca 1861), Wernicke's area (language comprehension, Carl Wernicke 1874, arcuate fasciculus connection), decoding (visual cortex repurposing, reading invented only 5,000 years ago). Rewrote activity to include phoneme awareness, brain region identification, and CMYK printing science. Added writing system comparison, narrative structure, and phonological awareness exercises for 3-4+."
   },
+  "knowledge/real-estate-and-house-buying-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Decent vocabulary but activity is pure role-play with no real economics content; no mortgages, interest rates, equity, supply/demand, or explanation of why house prices vary",
+    "fixed": "Added mortgage, equity, interest rate, supply and demand, market value vocabulary; rewrote intro to explain mortgages and supply/demand; strengthened guided role-play to include appraisal, negotiation modeling, and real economic reasoning about what affects property value"
+  },
   "knowledge/religious-and-spiritual-practices.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Lesson titled 'Religious and Spiritual Practices' but contains only a secular mindfulness exercise—no actual content about religion, traditions, or beliefs",
@@ -1194,6 +1214,11 @@
     "issues": "Lesson was fundamentally about sharing/fairness (a social-emotional skill) rather than resource management economics. Missing the core concept that drives resource management: scarcity. No mention of trade-offs or opportunity cost. Activity was just counting and equal division with no constraint-based thinking.",
     "fixed": "Added scarcity, trade-off, and budget to vocabulary alongside allocate/prioritize/conserve. Rewrote activity to explicitly introduce scarcity as the reason resources need managing; added constraint-based scenarios requiring trade-off decisions; reframed discovery questions around why resources need managing and what trade-offs were made."
   },
+  "knowledge/restoration-and-refinishing-projects.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Craft activity with no technical content; intro simplified to 'giving it a new outfit'; no paint chemistry, no adhesion science, no wood properties, no real restoration vocabulary",
+    "fixed": "Added patina, adhesion, pigment, binder, porosity, oxidation, upcycling vocabulary; rewrote intro to explain why cleaning matters (adhesion) and what paint actually is (pigment + binder + polymer); added wood grain/porosity examination to cleaning step; connected wrap-up to real restoration chemistry"
+  },
   "knowledge/rhythm-and-timing-physical-coordination-creative-music-social-synchronization-learning-sequences.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Had rhythm/tempo/synchronize vocabulary but missing key scientific concepts: entrainment, meter, neuroscience of rhythm. Activities were mostly procedural with thin intellectual content.",
@@ -1208,6 +1233,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "All four vocabulary words were everyday (\"simulate,\" \"character,\" \"scenario,\" \"improvise\"). No Theory of Mind, no symbolic thinking (cognitive milestone), no executive function, no connection to real-world simulation. Activity told caregivers to \"let child pick a role\" with no intellectual content.",
     "fixed": "Replaced vocabulary with Theory of Mind, symbolic thinking, simulate, empathy, executive function. Rewrote activity to explicitly teach Theory of Mind via false belief scenario, introduce symbolic thinking via banana-as-phone, and connect to real simulation (flight simulators, surgical training). Updated age adaptations with the Sally-Anne test."
+  },
+  "knowledge/role-playing-games-and-storytelling.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Process-only lesson facilitating pretend play with no actual storytelling content; no narrative structure, no literary vocabulary, no conflict/resolution, no character motivation or archetypes",
+    "fixed": "Added narrative structure (inciting incident, climax, resolution), protagonist, conflict, motivation, dialogue, improvise vocabulary with proper definitions; rewrote intro to frame storytelling historically and teach three story requirements; added conflict-first planning step; restructured activity to explicitly name narrative structure as it unfolds"
   },
   "knowledge/rules-and-cooperation.md": {
     "verdict": "FAIL -> FIXED",
