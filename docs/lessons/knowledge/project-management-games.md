@@ -6,13 +6,19 @@ Project management games are collaborative activities where children plan, organ
 
 ## Vocabulary
 
-**Collaborate**: Working together with others toward a shared goal, where each person adds their own ideas and effort. When you and your friends build a tower together, each person placing blocks, you are collaborating.
+**Scope**: The boundaries of a project — what you will and won't build. "We're building a tower, not a whole city" defines your scope. Knowing your scope keeps everyone working toward the same goal.
 
-**Organize**: To arrange things in a planned, orderly way so work can happen smoothly. When you decide who will use the blocks and who will use markers, and everyone knows their job, you are organizing.
+**Milestone**: An important checkpoint in a project — a step you finish before moving to the next one. Building a tower might have milestones: first lay the base, then build the middle, then add the top. Milestones help you know you're making progress.
 
-**Plan**: To think ahead about what needs to happen and in what order, so the work goes smoothly. When you and your friends talk about whether to build a tall tower or a wide tower before you start, you are planning.
+**Dependency**: When one task must be finished before another can start. You can't add the top floor until the base is stable — the top floor *depends* on the base. Understanding dependencies helps you do things in the right order.
 
-**Cooperate**: To work together with others, taking turns and helping each other succeed. When you hand the marker to your friend so they can add to the picture, you are cooperating.
+**Resources**: The materials, time, and people available for a project. "We have 10 blocks, 2 builders, and 15 minutes" — those are your resources. Good project management means using resources wisely.
+
+**Role**: A specific job assigned to each person on a team. In real construction, one person is the architect (designs), one is the foreman (coordinates), others are builders (construct). Assigning roles helps everyone know what they're responsible for.
+
+**Deliverable**: The finished product or result a project produces. "A bridge that the toy car can roll across" is your deliverable — the specific thing you're making.
+
+**Scope creep**: When a project keeps growing beyond the original plan — "let's also add a garage... and a road... and a city!" Recognizing scope creep helps teams finish projects instead of endlessly expanding them.
 
 ## 🎵 Learning Song
 
@@ -95,16 +101,30 @@ In this activity, children plan and create a group project together, taking turn
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Gather children in a circle and show them the materials. Describe the group goal in simple, exciting language: "We are going to build a SUPER TALL tower together!" or "We're going to make a home for this toy animal!" Show a picture or point to where the project will happen so everyone understands. Use enthusiasm to spark interest. Explain that everyone gets to help and everyone's ideas are good.
+   Gather children and introduce the concept: "Real projects — buildings, movies, even birthday parties — all use project management. That means planning BEFORE you start so you know what you're making, who does what, and in what order."
+
+   Define the **scope** together: "Our deliverable — the thing we're making — is a bridge that this toy car can roll across. That's it. If someone says 'let's also build a garage,' that's scope creep — we can do that in a different project."
+
+   Identify **resources**: "We have these 20 blocks, 2 people, and 15 minutes. Now let's think about our milestones — the steps we'll finish in order."
+
+   Establish **dependencies**: "Can we put the middle section on before we finish the base? No — that's a dependency. The middle section depends on the base being stable. So what do we do first?"
 
 2. **Exploration** (10-15 minutes):
-   Sit together and ask: "What should we build?" or "How should we make this?" Encourage each child to share one idea (even just pointing or saying "big"). You can offer 2-3 ideas and let them choose. Invite children to take turns adding to the project. Offer choice: "Do you want to add blocks, or use the marker?" Keep the rotation steady so everyone gets multiple turns. Celebrate progress: "Look how tall we made it!" Be a facilitator, not the builder—let children do the work.
+   Before touching materials, do a quick planning phase (2 min): Assign **roles** — "You're the architect: you decide where each block goes. I'm the builder: I place them where you direct." Identify 2-3 **milestones**: "First milestone: stable base. Second milestone: two side walls. Third milestone: the road surface on top."
+
+   Then build, checking milestones as you go: "Did we reach our first milestone? Is the base stable? Good — now we can start the walls because that dependency is satisfied."
+
+   If the child wants to add more features: "That's scope creep! We can write that idea down for our next project — but right now let's stay focused on our deliverable." Use a piece of paper to actually write down "next project" ideas.
 
 3. **Discovery** (3-5 minutes):
    Ask questions: "What should we do next?" "Where should this go?" Offer encouragement: "You're doing a great job adding to our project." Help resolve sharing conflicts calmly. Watch for tired children and offer breaks without judgment. Keep children focused on the group goal, not individual competition.
 
 4. **Wrap-up** (2-3 minutes):
-   When finished (or time is up), gather children to view the completed project. Ask: "What part are you most proud of?" or "What did YOU add?" Take a photo for documentation. Acknowledge effort and teamwork: "I loved how you all listened to each other." Make cleanup part of the learning: "Now we need to work together to clean up, just like we worked together to build." Assign simple roles and praise their teamwork during cleanup.
+   When finished (or time is up), review against the original deliverable: "Did we deliver what we planned? Can the toy car actually roll across?"
+
+   Debrief like a real project retrospective: "What went well? What was hard? Did our dependencies happen in the right order?" Take a photo for documentation.
+
+   Point out any scope creep that was avoided: "Remember when you wanted to add the garage? Good thing we wrote that down — now it can be our NEXT project's scope!" Saving ideas for "next time" teaches that discipline and focus — not just enthusiasm — are what get projects finished.
 
 ### Age Adaptations
 

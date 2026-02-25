@@ -6,13 +6,17 @@ Children engage in imaginative play by creating stories together and taking on d
 
 ## Vocabulary
 
-**Improvise**: To create and perform something without planning it ahead of time. When you improvise, you make up stories, dialogue, or actions right in the moment—just like when you pretend to be a chef and make up what foods your restaurant serves.
+**Narrative structure**: The shape of a story — stories almost universally follow a pattern: something happens to upset normal life (the **inciting incident**), the main character faces challenges (rising action), reaches a peak moment of difficulty (the **climax**), and then things resolve (the resolution). Even a 2-year-old's pretend play has this structure: "Dragon came! [inciting incident] What do we do? [rising action] We fed it cookies! [climax] Now it's friendly. [resolution]."
 
-**Character**: A person or creature that you pretend to be during a story or game. When you play pretend, you choose a character (like a doctor, a pirate, or a dinosaur) and act out what that character would do and say.
+**Protagonist**: The main character whose journey we follow — the "hero" in the broadest sense. Even if they're not heroic, the protagonist is the one whose choices drive the story forward.
 
-**Narrative**: The sequence of events that make up a story, including what happens first, next, and last. Every pretend game has a narrative—it's the adventure or journey that unfolds as you play.
+**Conflict**: The problem or obstacle at the heart of a story. Without conflict, there is no story — just a sequence of pleasant events. The conflict doesn't need to be a battle; it can be a character wanting something they can't easily have, a decision they must make, or a challenge they must overcome. Conflict is what gives the audience something to care about.
 
-**Props**: Real objects that you use in pretend play to make your story feel more real and exciting. A blanket becomes a cape, a wooden spoon becomes a microphone, and a cardboard box becomes a treasure chest—these are all props.
+**Motivation**: WHY a character does what they do — their internal desire or need. "The dragon is attacking" is an event; "the dragon is attacking because it's hungry and afraid" is motivation. Understanding motivation makes characters feel real rather than like puppets.
+
+**Dialogue**: The words characters say to each other. Good dialogue reveals character, advances the plot, and creates conflict — it does more than just describe what's happening.
+
+**Improvise**: To create in the moment without a pre-written script. Improvisational storytelling uses the principle of "yes, and" — you accept what your partner introduces and add to it rather than blocking or changing it. This keeps collaborative stories alive.
 
 ## Learning Song
 
@@ -94,16 +98,24 @@ Children create their own role-play scenario and engage in collaborative storyte
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit with the child and introduce the concept: "Today we're going to make up a story together and pretend to be different people. We'll use these things as props to help our story feel real." Show one prop and ask: "What could this wooden spoon be?" Accept all answers (wand, microphone, cooking spoon, lightsaber). This validates imagination.
+   Sit with the child and introduce the concept: "Humans have been telling stories for at least 100,000 years — long before writing was invented. Stories were how people taught their children what was dangerous, what was important, and who their people were. Every culture in history has stories. Today we're going to make one."
+
+   Introduce narrative structure: "Every story needs three things: a character (who it's about), a conflict (a problem or challenge), and a resolution (what happens in the end). Without a conflict, there's no story — just a list of pleasant things. Let's start our story by figuring out those three pieces BEFORE we play."
+
+   Show one prop: "What could this wooden spoon be?" Accept all answers. "Good! Now — if this is a magic wand, what's our character? And what's the conflict they face?"
 
 2. **Scenario Offer** (1-2 min):
    Suggest a simple starting scenario: "What if we pretend we have a restaurant? You could be the chef and I could be a customer. We can use this spoon to cook and these containers to hold our pretend food." Keep it open and collaborative—ask "Does that sound fun? What else should we add?"
 
 3. **Character Development** (2-3 min):
-   Help the child choose their character: "You're the chef. What's your chef's name? What's your favorite food to cook?" Ask simple questions to deepen their character. Then take your own role: "I'm going to be a hungry customer. What should I order?"
+   Help the child choose their character: "You're the chef — our protagonist. What's your chef's motivation? What do they want most?" (Simple answers are fine: "to make the best soup!") Then take your own role: "I'll be a customer. Now we need a conflict — remember, without conflict there's no story. What if... I'm allergic to the one ingredient the chef uses in everything? Or the oven just broke? You decide the conflict."
+
+   Naming the conflict before starting teaches children to think structurally about story rather than just reacting moment to moment.
 
 4. **Story Unfolds** (8-10 min):
-   Begin the role-play. Use simple dialogue and actions. As the customer, you might say: "Hello chef! Can I have some soup, please?" The child responds in character. When the energy shifts or a natural transition happens, introduce something new: "Oh no! The power went out in the restaurant. What should we do?" This keeps the narrative moving without controlling it. Follow the child's lead and celebrate their ideas.
+   Begin the role-play using "yes, and" improv: whatever your partner introduces, accept it and add to it. As the customer: "Hello chef! Can I have some soup?" The child responds. Use the pre-established conflict to drive the rising action: "Oh no — the oven broke! That's our climax moment. What does the chef do NOW?"
+
+   After the conflict is resolved, narrate the resolution: "And that's how Chef [name] saved dinner by cooking on the stove instead. Resolution!" Point out the narrative structure you just enacted: "See? We had a character, a conflict, and a resolution. That's a complete story."
 
 5. **Wrap-up** (2-3 min):
    Bring closure naturally: "That was such a wonderful story. Thank you, Chef! Our restaurant adventure was amazing." Ask reflection questions: "What was your favorite part? What did you like about being a chef?" Put props away together, talking about what you created.

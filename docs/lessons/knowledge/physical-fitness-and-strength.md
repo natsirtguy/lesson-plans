@@ -6,13 +6,17 @@ Children will discover how their bodies grow stronger through movement and activ
 
 ## Vocabulary
 
-**Strength**: The power in your muscles that helps you lift, push, and carry things. When you hold your baby sibling or help carry groceries, you're using your strength.
+**Muscle**: Bundles of special fibers inside your body that contract (squeeze and shorten) to create movement. Your bicep in your upper arm pulls your forearm up when you lift things. You have over 600 muscles in your body!
 
-**Muscle**: The stretchy tissue under your skin that helps your body move. When you bend your arm, you can feel your muscle get bigger and smaller—that's your bicep working!
+**Cardiac muscle**: The special muscle that makes up your heart. Unlike other muscles you can control, your cardiac muscle beats automatically—about 60-100 times per minute—pumping blood to all your other muscles.
 
-**Endurance**: The ability to keep going and moving for a long time without getting too tired. When you play tag for many minutes without stopping, you're building your endurance.
+**Tendons**: Strong cords that attach muscles to bones. When your muscles contract, they pull on tendons, which pull on bones to create movement. Feel the cord behind your knee—that's the Achilles tendon!
 
-**Resilience**: The strength to bounce back and try again when something is hard. When you fall down and get back up to keep playing, you're showing resilience.
+**Oxygen**: A gas in the air that your muscles need to work. When you exercise harder, your muscles need more oxygen, so your lungs breathe faster and your heart beats faster to deliver more oxygen-rich blood.
+
+**Cardiovascular fitness**: The ability of your heart and blood vessels to efficiently deliver oxygen to working muscles. Running, jumping, and dancing all build cardiovascular fitness.
+
+**Endurance**: The ability to keep moving for a long time. Endurance improves as your heart muscle gets stronger and your muscles get better at using oxygen efficiently.
 
 ## Learning Song
 
@@ -95,9 +99,11 @@ Children will engage in a progressive "Strength Exploration Station" where they 
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Say: "Our bodies are amazing! Inside our skin, we have muscles that help us move and do things. Today, we're going to explore how strong YOUR body is. Are you ready to discover your strength?"
+   Say: "Our bodies are amazing! Inside our skin, we have over 600 muscles made of tiny fibers that squeeze together—that squeezing is called a contraction. Today, we're going to explore how YOUR muscles work and how they get stronger."
 
-   Show the child your arm and flex it: "See these muscles? They help me carry things, push things, and do lots of activities. Let's see what your muscles can do!"
+   Show the child your arm and flex it: "See this bump? That's my bicep muscle contracting—the fibers are squeezing and getting shorter, pulling my forearm up. Now touch your own arm and feel your muscles!" Let the child feel the difference between a relaxed and flexed bicep.
+
+   Say: "Put your hand on your chest. Feel that? Your heart is also a muscle—it beats automatically to pump blood carrying oxygen to ALL your other muscles. When we exercise, our muscles need more oxygen, so your heart beats faster. Let's pay attention to how fast our hearts beat today!"
 
 2. **Exploration** (8-10 min):
 
@@ -118,18 +124,19 @@ Children will engage in a progressive "Strength Exploration Station" where they 
    Guide gentle stretching: "Let's reach way up high to the sky—can you feel your arm muscles working? Now touch your toes gently. Feel the stretch in the back of your legs?"
 
 3. **Discovery** (3-5 min):
-   Gather together and ask questions:
-   - "What was your favorite thing to lift, push, or pull?"
-   - "Did you notice how some things were heavier than others?"
-   - "How does your body feel right now? Did you feel your muscles working?"
-   - "What parts of your body do you use when you run/jump/climb?"
+   Gather together and check in: "Put your hand on your heart. Is it beating faster than before we started? That's your cardiac muscle working hard to deliver oxygen to all your other muscles!"
 
-   Introduce the concept: "Your body is strong! Every time you move and play, your muscles get a little bit stronger. That's called building strength!"
+   Ask questions:
+   - "Did you notice you were breathing faster during hard activities? Your lungs were pulling in more oxygen for your muscles."
+   - "How does your arm feel after all that lifting? If it feels tired, that's your muscle fibers having worked hard."
+   - "What body parts—bones, muscles, tendons—do you think helped you push that cushion?"
+
+   Introduce the concept: "Here's an amazing thing: when you exercise hard enough that your muscles feel tired, tiny micro-tears form in the muscle fibers. While you sleep and rest, your body repairs them and they rebuild slightly larger and stronger. That's literally how muscles grow—your body fixes the tiny tears with extra material!"
 
 4. **Wrap-up** (2-3 min):
-   Say: "You worked really hard exploring your strength today. Your muscles helped you lift, push, pull, and stretch. Strong bodies help us do all the things we love—play, climb, run, and help others. Rest time helps your body recover so it can be strong again tomorrow!"
+   Say: "You worked really hard today. Your muscles contracted hundreds of times—your biceps, leg muscles, and most importantly your cardiac muscle, your heart! Now your body needs oxygen and rest to repair those muscle fibers so they come back stronger."
 
-   Transition to a calming activity: "Now let's take some deep breaths and rest our bodies." Practice slow, deep breathing together.
+   Transition to a calming activity: "Let's take some deep slow breaths—breathe in oxygen for your muscles, breathe out carbon dioxide waste. Feel your heart rate slowing down." Practice slow, deep breathing together.
 
 ### Age Adaptations
 
