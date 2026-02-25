@@ -1239,6 +1239,11 @@
     "issues": "Process-only lesson facilitating pretend play with no actual storytelling content; no narrative structure, no literary vocabulary, no conflict/resolution, no character motivation or archetypes",
     "fixed": "Added narrative structure (inciting incident, climax, resolution), protagonist, conflict, motivation, dialogue, improvise vocabulary with proper definitions; rewrote intro to frame storytelling historically and teach three story requirements; added conflict-first planning step; restructured activity to explicitly name narrative structure as it unfolds"
   },
+  "knowledge/route-planning-and-navigation.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary surface-level (landmark, route, journey); no cardinal directions, no compass/magnetic field, no map concepts (scale, legend, symbols), no animal navigation; activity was pure themed play",
+    "fixed": "Added cardinal directions (N/S/E/W), compass and Earth's magnetic field, map-making with legend and North arrow, animal navigation section (migratory birds with magnetic sense, honeybee waggle dance, sea turtles, salmon), spatial memory concept; extended activity to include sun compass and bee dance role-play"
+  },
   "knowledge/rules-and-cooperation.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "All four vocabulary words (cooperate, rules, respect, turn-taking) were everyday words. No social science, no game theory, no explanation of WHY rules exist or how cooperation works mathematically. Activity was building blocks and rolling dice with behavioral prompts.",
@@ -1263,6 +1268,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "A lesson titled \"Science Experiments and Discovery\" containing zero science content. Vocabulary had only process words (observe, experiment, discover, transform). No explanation of diffusion, acid-base reactions, polarity, or subtractive color mixing. Activities were structured play with science props. Scientific method mentioned only as praise, not taught.",
     "fixed": "Replaced vocabulary with diffusion (molecule movement), molecule (H₂O example), chemical reaction (acid-base CO₂ production), acid and base (with neutralization), polarity (polar water vs nonpolar oil), subtractive color mixing (pigment light absorption), hypothesis, and scientific method (5-step process). Rewrote all activity steps to follow the scientific method and teach the mechanism behind each phenomenon."
+  },
+  "knowledge/script-creation-for-plays.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Only 4 basic vocabulary words; no script format, narrative arc, playwright concept, theater history, or real structural content; activity was themed play without intellectual substance",
+    "fixed": "Added playwright concept (Shakespeare reference), real script format (name: dialogue + stage directions), narrative arc (exposition/rising action/climax/resolution), protagonist/antagonist, theater history (ancient Greeks invented theater 2500 years ago, amphitheaters, masks); integrated script format teaching into activity"
   },
   "knowledge/sculpture-and-3d-art-with-clay-playdough.md": {
     "verdict": "FAIL -> FIXED",
@@ -1293,6 +1303,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was decent (textile, stitch, tension, embellish) but lacked fiber science and structural explanation. No explanation of WHY stitches hold or how fabric is constructed. Activity was pushing needle through fabric with no knowledge content.",
     "fixed": "Replaced vocabulary with fiber (natural vs. synthetic — cotton, wool, silk, polyester; 30,000+ years of spinning), running stitch (friction-based holding mechanism, oldest stitch), warp and weft (loom structure, plain weave vs. twill vs. satin), tension (pulling force physics). Rewrote activity to explain fiber structure, friction as holding mechanism, and front/back stitch visibility. Added stitch types (running/whip/cross), fiber comparison, magnified warp-and-weft examination, and bone needle history (40,000 years) for 3-4+."
+  },
+  "knowledge/shapes-and-geometry.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Defined 4 shapes with everyday descriptions only; no polygon, vertex, right angle, symmetry, 2D vs 3D; activity was pure sorting with no geometric concepts",
+    "fixed": "Added geometry definition (Greek etymology), polygon, vertex/vertices, right angle, symmetry, 2D vs 3D shapes (sphere/cube/cylinder/pyramid); added geometry in nature section (honeycombs as hexagons, snowflake symmetry, soap bubble spheres, crystals); integrated geometric vocabulary into activity (counting vertices, finding right angles, testing symmetry)"
   },
   "knowledge/shopping-and-store-play.md": {
     "verdict": "FAIL -> FIXED",
@@ -1334,10 +1349,20 @@
     "issues": "Vocabulary was \"tool,\" \"purpose,\" \"handle,\" \"function\" — entirely everyday words. No physics whatsoever. No mention of simple machines, levers, fulcrums, inclined planes, wedges, or mechanical advantage. \"Tools have different shapes because they do different jobs!\" with no explanation of how shapes make work easier.",
     "fixed": "Replaced vocabulary with simple machine, lever, mechanical advantage, inclined plane (with wedge). Rewrote each tool exploration to identify the simple machine inside it: spoon as lever, scissors as two levers + wedge, broom as lever with mechanical advantage, screw as inclined plane wrapped around a cylinder. Added all six simple machines to 3-4+ adaptations."
   },
+  "knowledge/simple-video-creation-and-recording.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary was purely procedural (record=press button); no explanation of how video works, no frames/fps, no persistence of vision, no sensor/pixel concepts, no film history; activity was press-and-watch with zero intellectual content",
+    "fixed": "Added frames per second, persistence of vision, camera sensor (CCD/CMOS converts light to digital data), pixels and resolution; added history section (Muybridge 1878 horse experiment, Lumière brothers 1895 first movie); integrated how-video-works explanation into activity introduction; added persistence of vision experiment (thaumatrope) for 3-4+ years"
+  },
   "knowledge/singing-and-vocal-play.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was basic music terms (pitch, vocal, melody, rhythm) with no anatomy or physics. No explanation of how the voice works or what pitch IS physically. Activity was \"sing songs together\" with no science.",
     "fixed": "Replaced vocabulary with vocal cords (vibrating tissue in larynx, 6-8mm in children), frequency (vibrations per second in hertz, middle C = 261.6 Hz), diaphragm (dome-shaped breathing muscle, controls airflow), resonance (body cavities as amplifying chambers, why each voice is unique). Rewrote activity to explore vocal anatomy through touch, frequency through pitch experiments, and resonance through mouth-shape changes. Added syrinx (bird vocal organ), octave, and tonal languages for 3-4+."
+  },
+  "knowledge/sink-or-float-experiments.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Density definition oversimplified; activity teaches misconception 'light things float, heavy things sink' (steel ship is heavy but floats); missing Archimedes' principle, water density (1 g/cm3), shape-changes-buoyancy insight, surface tension",
+    "fixed": "Fixed density definition (mass/volume, compared to water's 1 g/cm3); added Archimedes' principle and Eureka story; added foil ball-vs-bowl experiment showing shape changes buoyancy; added surface tension; corrected misconception in activity — now explains it's density not weight, with cruise ship example"
   },
   "knowledge/size-and-measurement.md": {
     "verdict": "FAIL -> FIXED",
@@ -1388,6 +1413,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Defined \"twinkle\" but never explained what a star actually IS (a massive sphere of plasma undergoing nuclear fusion). No planets named, no solar system, no light-years. Video guidance explicitly said to \"focus on wonder and observation rather than complex astronomy facts.\"",
     "fixed": "Replaced vocabulary with: star (nuclear fusion, hydrogen→helium, the Sun is a star), planet (orbits a star; 8 named), orbit (gravity-driven path, 365 days = 1 year), light-year (distance, not time — 9.5 trillion km, Proxima Centauri 4.2 ly away), constellation (patterns that may be far apart in space), galaxy (200-400B stars in Milky Way), atmospheric refraction (why stars twinkle but planets don't). Removed anti-rigor video guidance. Rewrote introduction with nuclear fusion and solar system framing. Updated 3-4+ adaptations with all 8 planet names and a solar system map activity."
+  },
+  "knowledge/spatial-awareness-and-navigation.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Had unfilled template instructions in vocabulary section; no neuroscience content; no place cells/grid cells/hippocampus; no mental rotation; no cognitive map concept; no spatial-math connection; activity was pure positional-words obstacle course",
+    "fixed": "Removed template instructions; added cognitive map, hippocampus, place cells and grid cells (Nobel Prize 2014), egocentric vs allocentric reference frames, mental rotation; added neuroscience section (neural GPS system); integrated place cells intro, cognitive map testing, and mental rotation into activity; added spatial-math ability research connection"
   },
   "knowledge/spatial-reasoning-activities.md": {
     "verdict": "FAIL -> FIXED",
