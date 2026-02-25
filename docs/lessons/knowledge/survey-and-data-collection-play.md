@@ -6,13 +6,17 @@ In this lesson, children learn the basics of gathering information by asking sim
 
 ## Vocabulary
 
-**Survey**: A set of questions you ask people to find out what they like, think, or prefer. For example, asking your friends "Do you like apples or bananas?" is a simple survey.
+**Survey**: A set of questions you ask a *sample* of people to learn about what a larger group thinks. Scientists, businesses, and governments all use surveys to make decisions. A doctor might survey 1,000 patients before recommending a new medicine.
 
-**Data**: Information and facts that we collect and gather. When you ask five friends their favorite color and write down the answers, that collection of colors is your data.
+**Data**: The information collected from a survey or experiment. Data can be counted, sorted, and visualized. When you ask five friends their favorite color and write down the answers, those answers are your data — and you can now do math on them.
 
-**Collect**: To gather things together in one place. When you pick up different toys and put them in a basket, you are collecting them. We collect data by gathering answers and information.
+**Tally**: A counting method using marks — each answer gets a mark (|), and every fifth mark crosses the others (||||). Tallying is a real mathematical tool used to keep track of counts quickly without losing your place.
 
-**Observe**: To watch carefully and notice things. When you look closely at flowers to see which ones are red, purple, or yellow, you are observing the flowers.
+**Sample**: The group of people you actually survey. If you ask 3 family members, your sample is 3. Scientists want large, *representative* samples — asking only toddlers gives different results than asking people of all ages. This is called *sample bias*.
+
+**Frequency**: How often each answer appears in your data. If 4 people choose apples and 1 chooses oranges, apples have a *higher frequency*. A *frequency distribution* shows all the frequencies at once — that's what a bar chart displays.
+
+**Prediction**: Using data to make an educated guess about the future. If 8 out of 10 people in your survey prefer dogs, you can *predict* that the next person you survey is more likely to prefer dogs too.
 
 ## Learning Song
 
@@ -96,13 +100,13 @@ Children will create and conduct a simple survey about their favorite things (co
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Sit with the child and explain: "We're going to ask people a question and write down what they say. This is called a survey." Show them the chart and explain each answer choice with a picture or word. Let them practice placing a sticker or mark on the chart as an example.
+   "Did you know scientists, doctors, and businesses all collect data to make decisions? When companies want to know which cereal kids like best, they survey hundreds of children. When scientists study how much sleep people need, they survey thousands of people. Today we're going to be data scientists! We're going to create a survey, collect data, and then analyze what the data tells us." Show the chart. Explain that each answer they record is a *data point*, and when tallied up, the data shows a *frequency distribution* — which answer is most common. Let them practice placing a tally mark.
 
 2. **Exploration** (8-10 min):
    Have the child ask the survey question to 3-6 family members, friends, or their stuffed animals. For each answer, guide them to place a sticker, mark a tally, or color a square on the chart. Encourage them to say the answer out loud as they record it: "Grandma likes apples, so we put a sticker here!"
 
 3. **Discovery** (3-5 min):
-   Once several answers are collected, look at the chart together. Ask questions: "Which answer has the most stickers? Which has the least? Do you like that answer too? How many people said apples? How many said oranges?" Point out the patterns and what the data shows.
+   Once several answers are collected, analyze the data together: "Which answer has the most tally marks? That one has the *highest frequency* — it appeared most often in our data." Count each group: "Apples: 3. Oranges: 1. Bananas: 2." Now predict: "If we asked one MORE person, which answer do you think they'd give? Why? We can't know for sure, but the data gives us a clue!" Introduce sample bias: "What if we only asked children? Do you think adults would answer the same way? That's called *sample bias* — who you ask changes what your data shows."
 
 4. **Wrap-up** (2-3 min):
    Celebrate completing the survey together. Display the chart so people can see the results. Talk about what you learned: "Most people like red!" or "Everyone has a pet!" This reinforces that surveys help us learn about what people think.
