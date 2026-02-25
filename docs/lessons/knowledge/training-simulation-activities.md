@@ -2,17 +2,21 @@
 
 ## 🎯 Activity Summary
 
-Children learn real-world skills through playful, safe practice using the training simulation method. By role-playing everyday tasks like tying shoes, washing hands, or preparing food, young learners build confidence and independence while developing the motor skills and sequences they need for daily life. This hands-on approach transforms routine tasks into engaging practice opportunities.
+Children learn real-world skills through playful, safe practice using the training simulation method — and in doing so, they experience how the brain physically changes through repetition. Each time a skill is practiced, the brain builds stronger neural pathways in the motor cortex, which is why practice makes things feel easier and more automatic over time. This lesson introduces procedural memory, motor learning, and neuroplasticity through hands-on skill practice.
 
 ## Vocabulary
 
-**Simulate**: To imitate or act out a real situation in a safe, practice setting. For example, pretending to tie shoelaces on a practice board before tying real shoes.
+**Simulate**: To imitate or act out a real situation in a safe, practice setting. For example, pretending to tie shoelaces on a practice board before tying real shoes — the brain still builds the same neural pathways as real practice.
 
-**Sequence**: A series of steps that must happen in a specific order to complete a task. For example, the sequence for washing hands is: wet hands, apply soap, rub hands, rinse, dry.
+**Procedural memory**: The type of memory that stores sequences of physical movements. When you learn to ride a bike or tie shoes, you're building procedural memory — stored in a brain region called the basal ganglia and cerebellum, not in the thinking part of the brain. That's why skills can become "automatic."
 
-**Demonstrate**: To show someone how to do something by performing it yourself, slowly and clearly. When you demonstrate hand-washing, the child watches and learns.
+**Motor cortex**: The part of the brain that controls and coordinates body movements. Each time you practice a skill, the motor cortex sends signals through nerves to muscles, and the pathway grows stronger with each repetition.
 
-**Persistence**: The ability to keep trying even when something is difficult. When practicing a skill multiple times, persistence helps children improve and feel proud.
+**Neuroplasticity**: The brain's ability to change and grow through experience. Every time we practice a skill, the brain physically changes — neurons build stronger connections. This is why children's brains are so powerful for learning: they're especially plastic and adaptable.
+
+**Sequence**: A series of steps that must happen in a specific order to complete a task. The motor cortex learns sequences as single "chunks" over time — that's why experts make complex tasks look effortless.
+
+**Persistence**: The ability to keep trying even when something is difficult. Persistence is how we give the motor cortex enough repetitions to build strong, reliable neural pathways.
 
 ## 🎵 Learning Song
 
@@ -102,7 +106,7 @@ In this activity, children practice a specific real-world skill (such as hand-wa
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Introduce the skill with enthusiasm: "Today we're going to practice tying shoes, just like big kids do!" Frame it as a fun game, not a test. Show the materials and explain why the skill is important: "When you tie your shoes, your feet stay safe and comfy." Point out the step-by-step pictures and explain you'll practice together.
+   Introduce the skill with enthusiasm, and introduce the brain science: "Today we're going to practice tying shoes — and every time we practice, our brain is actually building something! Your motor cortex is sending signals to your fingers, and every try makes that pathway a little stronger. That's called neuroplasticity — your brain is growing!" Frame it as a fun game, not a test. Show the materials and explain why the skill matters.
 
 2. **Demonstration** (2-3 minutes):
    Show the skill slowly and clearly, narrating each step: "First, I cross the right string over the left string. Now I make a loop. See? Now I pull it tight." Point to the visual steps as you go. Show it twice—the second time, ask the child what they notice. Be intentionally imperfect and fix a mistake to show that mistakes are part of learning.
@@ -114,7 +118,7 @@ In this activity, children practice a specific real-world skill (such as hand-wa
    Let the child attempt the skill with you watching and encouraging. Give minimal guidance—just point to the next step or remind them of the sequence. Celebrate specific progress: "You got further this time!" or "You remembered step one!" Allow 3-4 practice attempts. If successful, let them try the real skill now (tie actual shoes, wash hands at the real sink, etc.). Praise their persistence.
 
 5. **Wrap-up** (2-3 minutes):
-   Celebrate their effort: "You practiced tying shoes 4 times today! You kept trying even when it was tricky." Discuss what they learned: "What was the hardest part? What was easiest?" Normalize ongoing practice: "We'll practice again another day and you'll get even better." Store the materials together with the visual cards for the next session.
+   Celebrate their effort with the science behind it: "You practiced tying shoes 4 times today! Every single try made your motor cortex stronger — your brain actually grew a little today! That's what practice does." Discuss what they noticed: "Did the last try feel any different from the first?" Normalize ongoing practice: "Procedural memory builds slowly — we'll practice again another day and the pathway will get even stronger." Store the materials together with the visual cards for the next session.
 
 ### Age Adaptations
 

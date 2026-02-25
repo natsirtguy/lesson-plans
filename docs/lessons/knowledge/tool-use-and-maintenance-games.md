@@ -2,17 +2,21 @@
 
 ## Activity Summary
 
-Children explore common household and workshop tools through safe, supervised play, learning their functions and how to care for them properly. This lesson teaches respect for tools, basic maintenance practices, and problem-solving through hands-on discovery and pretend play scenarios.
+Children explore common household and workshop tools through safe, supervised play, discovering that tools are simple machines that multiply force and make work easier. This lesson introduces lever mechanics, torque, and mechanical advantage alongside practical maintenance and care — turning hands-on play into genuine physics exploration.
 
 ## Vocabulary
 
+**Simple machine**: A basic mechanical device that changes the direction or magnitude of a force. Tools are simple machines — a hammer is a type of lever, a screw is an inclined plane wrapped in a spiral, and a wrench helps apply rotational force called torque.
+
+**Lever**: A simple machine made of a rigid bar that pivots on a fixed point called a fulcrum. When you use a hammer, the handle acts as a lever — your hand moves a long distance, but the hammer head delivers a powerful, concentrated force to the nail.
+
+**Mechanical advantage**: The way a tool multiplies your force. A long screwdriver handle gives you more mechanical advantage than a short one — the same hand effort produces more turning force at the tip.
+
 **Maintenance**: The care and attention you give to something to keep it working properly. When you wipe your tools clean and store them safely, you are doing maintenance—just like brushing your teeth keeps them healthy.
 
-**Function**: The special job or purpose that something is designed to do. A hammer's function is to drive nails, and a screwdriver's function is to turn screws.
+**Torque**: The twisting or turning force that a screwdriver or wrench applies. Torque is what drives a screw into wood — the tool converts your rotational push into gripping force that holds materials together.
 
-**Preserve**: To keep something in good condition so it lasts a long time. When you preserve your tools by storing them carefully and not dropping them, they can help you for many years.
-
-**Craftsmanship**: The skill and care someone uses when making or using tools to create something. A person with good craftsmanship takes their time, uses the right tool for each job, and takes care of their tools afterward.
+**Craftsmanship**: The skill and care someone uses when making or using tools to create something. A person with good craftsmanship selects the right tool, understands how it works, and maintains it afterward.
 
 ## Learning Song
 
@@ -59,7 +63,7 @@ Tools will help another day
 
 ### Activity Overview
 
-Children become "tool care specialists" by sorting, cleaning, and organizing a collection of safe, child-friendly tools while learning what each one does. Through sensory exploration and pretend play, they discover how tools work and why proper maintenance matters—turning practical learning into engaging play.
+Children become "tool scientists" by exploring, cleaning, and organizing a collection of safe, child-friendly tools while discovering the physics behind how each one works. A hammer is a lever that multiplies force; a screw is a spiral inclined plane; a wrench applies torque. Through sensory exploration and pretend play, they discover the mechanics of simple machines and why maintenance keeps those mechanics working reliably.
 
 **Activity Type**: Hands-on sensory exploration, sorting activity, and dramatic play
 
@@ -98,16 +102,16 @@ Children become "tool care specialists" by sorting, cleaning, and organizing a c
 **Activity Flow**:
 
 1. **Introduction** (3 minutes):
-   Gather children in a circle and show them the collection of tools one at a time. As you hold each tool, name it, demonstrate its basic function with exaggerated movements (gently tapping with the hammer, slowly turning the screwdriver), and explain why it's important to care for it. "This hammer helps us build things. We tap gently, and after we use it, we need to clean it and put it away so it stays in good shape."
+   Gather children in a circle and show them the collection of tools one at a time. Introduce the big idea: "Tools are simple machines — they help us do work by multiplying our force." Hold up a hammer: "This is a lever. The handle is long so that your arm movement gets turned into a powerful push at the head. The longer the handle, the more mechanical advantage." Demonstrate gently tapping. Hold up a screwdriver: "This is a spiral inclined plane — it applies torque, which is twisting force, to grip things together."
 
 2. **Exploration** (8-12 minutes):
    Allow children to handle, examine, and explore each tool safely. Encourage them to:
-   - Feel the weight and texture of each tool
+   - Feel the weight and texture of each tool — heavier metal provides more force
    - Practice the motion of using it (tapping, turning, pretend-sawing) in slow motion
-   - Match tools to simple tasks ("Which tool would help us hang a picture?")
-   - Make observations: "Is this tool heavy or light? Smooth or bumpy?"
+   - Compare handle lengths: "Does the longer handle feel easier or harder to control?"
+   - Make observations: "Is this tool heavy or light? Why do you think it's made of metal?"
 
-   Provide running commentary: "You're gripping the hammer just right. See how you're holding it steady? That's good craftsmanship."
+   Provide running commentary: "You're applying torque with that screwdriver — your hand is rotating and the tip is gripping. That's exactly how a screw works. Good craftsmanship means understanding your tool."
 
 3. **Discovery and Maintenance** (5-7 minutes):
    Guide children through a "tool care" game:

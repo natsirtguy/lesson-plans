@@ -6,13 +6,17 @@ Children develop critical thinking and creative problem-solving skills through h
 
 ## Vocabulary
 
-**Troubleshoot**: To find and fix something that isn't working properly—like when a puzzle piece doesn't fit, you troubleshoot by trying different ways until it works.
+**Troubleshoot**: To systematically find and fix something that isn't working by testing ideas one at a time. Engineers, doctors, and scientists troubleshoot constantly — they observe a problem, form a hypothesis about the cause, test it, and revise their thinking based on what they find.
 
-**Strategy**: A plan for how to do something or solve a problem—when your block tower falls down, your strategy might be to put the biggest block at the bottom first.
+**Hypothesis**: An educated guess about why something is happening or how to fix it. Before you try anything, a good troubleshooter makes a hypothesis: "I think the tower falls because the base is too small." Then you test it.
 
-**Persist**: To keep trying even when something is hard or doesn't work the first time—when you persist, you show that you're brave and don't give up.
+**Variable**: One specific thing you change in an experiment or test. Good troubleshooters change only ONE variable at a time — that way, if something works (or doesn't), you know exactly why. If you change the base AND the height at the same time, you can't tell which one made the difference.
 
-**Adapt**: To change your approach or way of doing something when your first try doesn't work—you adapt by trying a different way when the first way didn't succeed.
+**Cause and effect**: Every problem has a cause — a specific reason it's happening. Troubleshooting means finding the cause, not just fixing the symptom. If a tower falls, the cause might be an unbalanced base, too much weight on top, or a piece that doesn't connect properly.
+
+**Strategy**: A systematic plan for how to solve a problem. Good strategies break a problem into smaller parts, test one thing at a time, and use what you learned from each attempt to guide the next one.
+
+**Adapt**: To revise your approach based on evidence. When your first hypothesis doesn't work, the data from that failure tells you something — a good problem-solver uses failure as information to refine their next strategy.
 
 ## 🎵 Learning Song
 
@@ -98,13 +102,13 @@ Children freely explore building materials and puzzles, encountering naturally o
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Show a simple, partially broken structure and ask "What happened here? How can we fix it?" Demonstrate a puzzle with one piece missing or a tower that topples easily. Use playful language: "We're going to be builders and puzzle detectives today!" Emphasize that problems are part of the fun: "When something doesn't work, that's not a mistake—that's information!"
+   Show a simple, partially broken structure and ask "What happened here? How can we fix it?" Demonstrate a tower that topples. Introduce the troubleshooter's method: "Before we try to fix it, let's make a hypothesis — a guess about WHY it fell. Was the base too small? Was the top too heavy? Was a piece not balanced? Let's pick one idea and test it!" Emphasize the scientific approach: "When something doesn't work, that's not a mistake — that's data! Every failed attempt tells us something about the cause."
 
 2. **Exploration** (5-10 min):
    Children freely explore blocks, puzzles, and building materials with minimal instruction. They naturally encounter challenges—pieces that don't fit, structures that topple, puzzles that seem incomplete. Observe what the child does when frustrated or confused. Comment on what you notice: "You're trying different ways to make that fit!"
 
 3. **Guided Problem-Solving** (5-10 min):
-   Introduce simple challenges like "Can you make this tower taller without it falling?" Model thinking out loud: "Hmm, when I put the big block on top, it tips. What if I put the wide block on the bottom?" Ask guiding questions instead of providing answers: "What could we try next?" Celebrate attempts and exploration equally with success.
+   Introduce simple challenges like "Can you make this tower taller without it falling?" Model the troubleshooter's mindset out loud: "Hmm, when I put the big block on top, it tips. My hypothesis is that the problem is top-heaviness. I'll change just ONE variable — I'll move the big block to the bottom — and see if that fixes it." Ask guiding questions: "What's your hypothesis? What one thing could we change?" Celebrate scientific thinking as much as successful solutions: "Your hypothesis didn't work, but now we know the cause isn't the block size — that tells us something important!"
 
 4. **Creative Application** (remaining time):
    Child applies strategies to self-chosen challenges: "Build something that stands tall and doesn't fall," "Complete this puzzle with missing pieces," or "Fix this building." Step back and let the child drive the exploration. Offer assistance only when asked or if frustration mounts.

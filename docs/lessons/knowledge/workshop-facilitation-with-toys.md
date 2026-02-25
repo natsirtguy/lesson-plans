@@ -2,17 +2,17 @@
 
 ## 🎯 Activity Summary
 
-In this activity, a child takes on the role of a workshop leader, guiding a small group of peers through structured play and exploration with toys and building materials. The child facilitator learns to demonstrate ideas, ask questions, encourage participation, and support others' learning—all while developing leadership, communication, and confidence. Through peer teaching, children discover that they have valuable knowledge and skills to share.
+In this activity, a child takes on the role of a workshop leader — and in doing so, experiences one of the most powerful phenomena in learning science: the protégé effect. When you teach something to someone else, your own understanding deepens. You have to organize your knowledge, identify what you actually understand vs. what you only thought you understood, and find new ways to explain it. Research consistently shows that children who teach their peers learn the material more thoroughly than those who simply study it. This lesson builds leadership while harnessing the cognitive power of peer teaching.
 
-## Vocabulary
+**Protégé effect**: The phenomenon where teaching something to someone else causes you to understand it more deeply yourself. When you prepare to explain something, your brain works to organize and clarify your own understanding — finding gaps and fixing them. This is why explaining your thinking out loud (to a person, a toy, or even yourself) is one of the most effective study strategies known to learning scientists.
 
-**Facilitate**: To guide or lead a group through an activity by showing ideas, asking helpful questions, and supporting others' learning. When you facilitate a workshop, you help your friends discover and create together.
+**Scaffolding**: The educational technique of providing just enough support to help a learner do something they couldn't quite do alone — and then gradually removing that support as they grow more capable. Like construction scaffolding that holds up a building while it's being built, then is removed when the building is strong enough. A good workshop facilitator scaffolds: "Can you try this part? I'll help if you get stuck."
 
-**Demonstrate**: To show someone how to do something by doing it yourself. When you demonstrate, you use your hands and body to show the steps clearly so others can understand.
+**Socratic method**: A teaching approach, invented by the ancient Greek philosopher Socrates, where the teacher asks questions rather than giving answers — guiding the learner to discover the answer themselves. "What do you think would happen if...?" is more powerful than "I'll tell you what happens." Socratic questioning leads to deeper understanding.
 
-**Mentor**: A person who teaches and guides someone they care about. A mentor helps by showing skills, asking questions, and believing in someone's abilities.
+**Facilitate**: To guide a group through an activity by creating conditions for learning rather than delivering information directly. A facilitator asks questions, notices what learners are curious about, and helps connect people to ideas — they don't lecture, they guide discovery.
 
-**Collaboration**: Working together with others toward a shared goal, where everyone's ideas matter and contributions are valued. Collaboration makes things more fun and creative.
+**Mentor**: A person who supports someone else's growth by sharing knowledge, modeling skills, and believing in their potential. Unlike a teacher delivering information, a mentor walks alongside the learner, sharing their own experience and questions too.
 
 ## 🎵 Learning Song
 
@@ -96,7 +96,7 @@ A child takes the lead as a workshop facilitator, guiding a small group (2-4 pee
 **Activity Flow**:
 
 1. **Introduction** (3-4 min):
-   Greet the group and introduce the child facilitator: "Today, [Child's name] is going to lead our workshop! Let's see what they've planned." Have the facilitator show the toys and build excitement: "What do you see here? What looks interesting?" Set expectations: everyone listens to the facilitator, tries suggested ideas before adding their own, and helps with cleanup.
+   Greet the group and introduce the child facilitator: "Today, [Child's name] is going to lead our workshop! And here's a secret about teaching: when you teach something to someone else, your own brain actually understands it BETTER afterward. Scientists call this the protégé effect — teachers learn more than students do!" Set expectations: everyone listens to the facilitator and tries their ideas. Coach the facilitator: "Remember, ask questions instead of just telling — that's how the best teachers do it."
 
 2. **Exploration** (15-20 min):
    - **Phase 1—Demonstration** (4-5 min): The facilitator holds up a toy, describes it, demonstrates one simple action, and asks the group "What else could we do with this?"
@@ -141,7 +141,7 @@ Increase complexity of toys and activities. Have the facilitator plan a simple 2
 **Solution**: Establish the role clearly by saying "Let's listen to [child's] ideas." Model paying attention and responding positively to their suggestions. Gently redirect peers who interrupt. Have the facilitator lead activities the peers actually want to do.
 
 **Challenge**: Facilitator is bossy instead of collaborative
-**Solution**: Coach beforehand: "Your job is to show ideas and ask questions, not tell everyone what to do." Model asking instead of telling: "What would happen if...?" Praise collaborative behavior: "I noticed you asked what they thought—that's great leadership!"
+**Solution**: Introduce the Socratic method beforehand: "The best teachers ask questions rather than give orders. Instead of 'put it here,' try 'where do you think it should go?' Instead of 'do it this way,' try 'what would happen if we tried this?'" Model asking instead of telling. Praise Socratic facilitation: "I noticed you asked a question instead of just telling them — that's exactly what great teachers do!"
 
 ### Follow-Up Activities
 

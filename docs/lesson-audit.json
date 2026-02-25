@@ -1489,6 +1489,11 @@
     "issues": "Already rigorous — vocabulary includes oscillation (with atomic clock specification: 9,192,631,770 cesium vibrations = 1 second), circadian rhythm, entropy (as physics of time's arrow), interval. Parent notes include excellent response to \"where does time go?\" covering entropy and Einstein's relativity. Activity connects sand timers to atomic clock oscillations. One gap: no explanation of why minutes have 60 seconds",
     "fixed": "Added sexagesimal vocabulary entry (Babylonian base-60 counting system, why 60 divides so evenly, counting to 12 on finger joints); added brief mention in activity flow connecting the Babylonian system to modern clock reading"
   },
+  "knowledge/tool-use-and-maintenance-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No mechanics or physics content — focused only on behavioral aspects (care, respect) with no mention of simple machines, levers, torque, or mechanical advantage",
+    "fixed": "Added simple machines vocabulary (lever, torque, mechanical advantage), explained hammer as lever and screw as inclined plane, rewrote intro and exploration to include physics reasoning"
+  },
   "knowledge/tool-use-and-maintenance.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Template instruction still visible in vocabulary section (lines 9-13). Vocabulary was practical/social terms only (purpose, maintain, responsibility, durable). No mechanics — no simple machines, no levers, no wedges, no mechanical advantage. Activity taught tool handling without any physics of how tools work.",
@@ -1504,6 +1509,11 @@
     "issues": "Vocabulary all everyday words (tradition, celebrate, ritual, gather). No anthropology, no evolutionary function of ritual, no cross-cultural comparison, no neuroscience of communal bonding.",
     "fixed": "Replaced vocabulary with ritual (universal in all human cultures, oxytocin/endorphin release during performance), cultural transmission (cumulative knowledge transfer across generations), solstice (23.5° axial tilt, astronomical basis of winter celebrations worldwide), oxytocin (bonding hormone, increased trust/generosity during group activities). Rewrote activity to explain oxytocin science, compare celebrations across cultures, and trace solstice origins. Added Kinderfest history and ritual psychology research for 3-4+."
   },
+  "knowledge/training-simulation-activities.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure process lesson with no intellectual content — teaches HOW to practice skills but provides zero neuroscience about WHY repetition works",
+    "fixed": "Added procedural memory, motor cortex, neuroplasticity, basal ganglia/cerebellum vocabulary; rewrote intro and wrap-up to include brain science explanations"
+  },
   "knowledge/transportation-methods.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary only covered transport/vehicle/propel/route with no science. Activity was pure themed play (sort by wheels/wings, make vroom sounds). No mention of buoyancy (why boats float), lift/aerodynamics (why planes fly), combustion or electric motors (how cars are propelled), or friction (why wheels work). 2-3 year adaptation explicitly said \"keep language simple: Car goes zoom! Zoom, zoom!\"",
@@ -1518,6 +1528,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Purely procedural role-play (pack a suitcase, make fake tickets) with no geographic, economic, or logistical content",
     "fixed": "Added time zones, GPS navigation, transportation infrastructure, and logistics vocabulary; discovery questions now include real distance/time concepts, climate-latitude connections, and basic economics of air travel"
+  },
+  "knowledge/trivia-and-knowledge-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Extremely dumbed-down — sample questions were basic identification (What sound does a dog make? Who is your mommy?), vocabulary was everyday words with no substance, zero cognitive science content about how memory actually works",
+    "fixed": "Added retrieval practice effect, working memory, long-term memory, semantic memory vocabulary; rewrote activity to use genuine interesting facts (butterfly taste receptors, whale breathing, plant photosynthesis); added retrieval round step and brain science framing throughout"
+  },
+  "knowledge/troubleshooting-and-problem-solving.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary too shallow — missing hypothesis, variables, cause/effect; activity didn't frame troubleshooting in terms of the scientific method despite being the core concept",
+    "fixed": "Added hypothesis, variable, cause and effect vocabulary; rewrote introduction and guided problem-solving to explicitly teach one-variable-at-a-time testing and hypothesis formation; added data/evidence framing"
   },
   "knowledge/tutoring-and-coaching-activities.md": {
     "verdict": "PASS",
@@ -1549,6 +1569,11 @@
     "issues": "Already had strong vocabulary with genuine science: pigment (light wavelength absorption/reflection, historical pigments — ochre, lapis lazuli, cochineal), subtractive color mixing (accurate wavelength explanation), negative space (Rubin's vase, rod cells). Activity integrated color science throughout. Minor improvements made: added composition and complementary colors to vocabulary, removed meta-instruction from video section, strengthened wrap-up with concept review.",
     "fixed": "Minor improvements only — added composition (rule of thirds, visual path) and complementary colors (opposing cone cell stimulation) to vocabulary. Removed \"Try to find an actual video\" meta-instruction. Added concept-review wrap-up."
   },
+  "knowledge/water-safety-instruction.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Had buoyant/submerged vocabulary but no explanation of WHY things float or sink — density and Archimedes principle completely absent; exploration asked sink-or-float without teaching the concept",
+    "fixed": "Added density, surface tension, Archimedes principle vocabulary with real explanations; rewrote exploration narration to include physics framing of buoyancy and density"
+  },
   "knowledge/weather-and-seasons.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Had real meteorological terms (temperature, precipitation, atmosphere) but never explained the mechanisms behind weather phenomena. No water cycle, no axial tilt, no cloud formation science.",
@@ -1568,6 +1593,16 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary missed core economic concepts (\"occupation,\" \"tool,\" \"uniform,\" \"responsibility\"). No division of labor, no specialization, no economic interdependence. Activity was tool-matching with no intellectual content. Song section had generator's revision notes visibly embedded in the markdown.",
     "fixed": "Replaced vocabulary with occupation, specialization, division of labor (with pencil example — dozens of workers), economy. Cleaned up garbled song section. Rewrote introduction with the \"how many people does a pencil take?\" hook. Updated discovery section with why specialization leads to better outcomes."
+  },
+  "knowledge/workshop-and-lesson-participation.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure behavioral training with no intellectual content — no explanation of why group learning is powerful, trivial discussion questions (favorite animal, shirt color), no social learning theory",
+    "fixed": "Added social learning, collective intelligence, zone of proximal development vocabulary; rewrote introduction to explain humans as uniquely powerful social learners; replaced trivial discussion questions with genuinely curious questions about nature and the world"
+  },
+  "knowledge/workshop-facilitation-with-toys.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure social skills training — no intellectual content about why peer teaching works, no learning science, vocabulary all social words without cognitive science grounding",
+    "fixed": "Added protégé effect, scaffolding, Socratic method vocabulary; rewrote activity summary and introduction to explain why teaching deepens understanding; rewrote bossy-facilitator challenge response to introduce Socratic questioning by name"
   },
   "knowledge/writing-and-mark-making.md": {
     "verdict": "FAIL -> FIXED",
