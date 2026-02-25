@@ -6,13 +6,15 @@ Children learn to take on the role of teacher or tutor, practicing communication
 
 ## Vocabulary
 
-**Demonstrate**: To show someone how to do something by doing it yourself. When you tie your shoes and let your child watch you carefully, you are demonstrating. This helps others learn by seeing the steps in action.
+**Metacognition**: Thinking about your own thinking — knowing what you know, recognizing what's confusing, and understanding *how* you learn. When you teach something, you use metacognition: you have to think "Do I actually understand this well enough to explain it?" That's why teaching is one of the best ways to learn.
 
-**Instruct**: To give clear directions or lessons to help someone learn something new. A teacher instructs students; you instruct your child when you explain how to wash hands step-by-step.
+**Protégé effect**: A research finding in learning science — people learn material *better* when they expect to teach it to someone else than when they just study it for themselves. Teaching forces your brain to organize, connect, and check its own understanding. When you explain something to a "student," you fill in your own gaps.
 
-**Guide**: To help someone by showing them the way, explaining steps, or offering gentle support as they try something new. A guide doesn't just tell—they walk alongside, helping with patience and encouragement.
+**Elaborative encoding**: A memory technique where you connect new information to what you already know, or explain it in your own words. Simply repeating a word doesn't build strong memory. But if you explain it — "Red is like a tomato, like a fire truck, like a strawberry" — your brain builds multiple connections, making the memory stronger.
 
-**Communicate**: To share information, ideas, and feelings with others through words, actions, facial expressions, and tone of voice. Good teachers communicate clearly so their students understand.
+**Scaffolding**: In education, temporary support that helps a learner do something they can't do alone yet. Like scaffolding on a building, it holds things up while the structure is built, then gets removed when no longer needed. A teacher scaffolds by giving hints, examples, and encouragement — not by doing it for the student.
+
+**Intentional teaching**: Humans are the only animals known to teach deliberately — to simplify, demonstrate, and check understanding. Ants and meerkats sometimes show young ones where food is, but only humans explain *why*, repeat, adjust when confused, and design lessons. This is one of the things that makes human civilization possible.
 
 ## Learning Song
 
@@ -103,9 +105,8 @@ Children set up a simple "classroom" or "tutoring space" and teach stuffed anima
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   - Help your child introduce their "class" of stuffed animals: "This is Teddy, this is Bunny, this is Dolly. Today we're going to teach them about colors!"
-   - Ask your child: "What do you want to teach your students today? What do you already know really well?"
-   - Affirm their choice and express enthusiasm about their teaching role
+   - "Did you know that one of the BEST ways to really learn something is to teach it? Scientists call it the *protégé effect* — when you have to explain something to someone else, your brain works harder and understands it better. Teachers often say they learned more from teaching than from school!" Help your child introduce their "class" of stuffed animals: "This is Teddy, this is Bunny, this is Dolly. Today we're going to use the protégé effect — teaching them will help YOU understand even better too!"
+   - Ask: "What do you want to teach your students? Pick something you feel you know pretty well — because you'll have to explain it!"
 
 2. **Demonstration and Teaching** (8-10 minutes):
    - Encourage your child to demonstrate the concept to their class. For example:
@@ -117,13 +118,10 @@ Children set up a simple "classroom" or "tutoring space" and teach stuffed anima
    - Allow your child to repeat the lesson as many times as desired—this reinforces their own understanding
 
 3. **Discovery and Observation** (3-5 minutes):
-   - Ask your child questions to deepen their thinking:
-     - "How did you explain that so your students understood?"
-     - "Which toy learned the fastest? Why do you think so?"
-     - "What's hard about teaching? What's fun about it?"
-     - "Do you think your students are good learners? Why?"
-   - Point out their teaching skills: "I noticed you showed Teddy how to do it before asking him to try. Great teaching!"
-   - If desired, celebrate with toys: "Yay! Class learned so much today!"
+   - Ask metacognitive questions: "Did teaching it make you understand it better? Were there any parts that were harder to explain than you expected? That's *metacognition* — noticing what you know and what's tricky."
+   - "When you explained red to Teddy, you said 'like a tomato' — did you know that's called *elaborative encoding*? Making comparisons is one of the best ways brains build strong memories."
+   - "What did you do when your student seemed confused? Did you try saying it differently? That's *scaffolding* — adjusting your support to what the learner needs."
+   - Point out their teaching skills: "I noticed you showed Teddy how before asking him to try — that's great scaffolding!"
 
 4. **Wrap-up** (2-3 minutes):
    - Ask: "What did your class learn today? Are your students proud?"

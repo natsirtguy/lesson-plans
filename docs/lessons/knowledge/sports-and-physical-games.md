@@ -6,13 +6,17 @@ Children discover the joy of organized movement through simple sports and games,
 
 ## Vocabulary
 
-**Teamwork**: Working together with others toward a shared goal, just like when teammates pass a ball back and forth or help each other during a game.
+**Biomechanics**: The science of how bodies move — how muscles pull on bones, how joints bend, and how we balance. When you kick a ball, biomechanics explains exactly which muscles fire in which order to make the kick happen.
 
-**Sportsmanship**: The respectful and fair way we play games, including cheering for others, following rules, and being kind whether we win or lose.
+**Force**: A push or pull that makes something move, speed up, slow down, or change direction. When you kick a ball, your foot applies *force* to it — more force means the ball travels farther and faster.
 
-**Coordination**: Using different body parts together smoothly, like when you swing your arm and step forward at the same time to kick a ball.
+**Trajectory**: The curved path a ball takes through the air. When you throw a ball up, gravity (Earth's pulling force) curves it back down in an arc. Skilled athletes learn to predict trajectories to catch balls before they land.
 
-**Endurance**: The ability to keep moving and playing for longer periods without getting too tired, like running back and forth during a game.
+**Aerobic exercise**: Physical activity that makes your heart beat faster and your breathing deepen to deliver oxygen to working muscles. Your muscles burn oxygen (and glucose) to produce energy — which is why you get warm and breathe hard during sports.
+
+**Coordination**: The ability to use different body parts together smoothly in the right sequence. When you kick a ball, your brain sends precise signals to dozens of muscles in exactly the right order — this coordination is learned by the cerebellum, a part of the brain at the back of your head.
+
+**Sportsmanship**: The cultural agreement about how to compete fairly and respect others — a practice humans developed because games require shared rules to work.
 
 ## Learning Song
 
@@ -103,16 +107,16 @@ Children engage in a series of simple, progressive sports movements and mini-gam
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start by gathering children in a circle. Ask simple questions: "Have you seen people playing sports on TV or outside? What do they do?" Show pictures of different sports if available. Explain: "Today we're going to try some of the movements athletes do in sports, like throwing, kicking, and playing together as a team!"
+   "Did you know humans have been playing games for thousands of years? Ancient Egyptians played ball games. The ancient Greeks invented the Olympics! Every culture in the world has sports — because playing together and competing is something humans have always loved to do." Show pictures of different sports if available. "Today we're going to try some of the movements athletes do — and while we play, we'll discover the *science* of how our bodies move. Every time you throw or kick a ball, you're doing physics AND biomechanics!"
 
 2. **Exploration Station 1: Throwing and Rolling** (4-5 min):
-   Give each child a soft ball. Demonstrate an underhand throw toward a bucket or target. Have children practice throwing gently into the bucket or toward a wall. Then show rolling: demonstrate rolling a ball to a partner while sitting on the floor. Children practice rolling back and forth with you or a partner. Observe and praise effort: "Great rolling! You're controlling the ball!"
+   Give each child a soft ball. "When you throw, you apply *force* to the ball — your arm pushes it, and then gravity pulls it back down in a curve called a *trajectory*. Let's experiment!" Demonstrate an underhand throw toward a bucket or target. Have children practice throwing gently. Try varying force: throw gently (low force = short distance) vs. throw harder (more force = farther). Then show rolling: "When we roll, friction — the ground rubbing against the ball — slows it down. On a smooth floor it rolls far; on carpet it stops faster." Children practice rolling back and forth. "You're doing physics!"
 
 3. **Exploration Station 2: Kicking and Chasing** (4-5 min):
-   Show how to gently kick a larger soft ball across the floor. Have children practice kicking balls across the space. Create a simple "goal" with cones or cushions and have them kick toward it. Keep it celebratory: "You kicked it so far!" Avoid making it about accuracy or winning.
+   "Kicking is biomechanics in action — your hip swings forward, your knee extends, and your foot contacts the ball all in a fraction of a second. Your cerebellum (at the back of your brain) learned to coordinate that sequence!" Show how to gently kick a larger soft ball. Have children practice. "Notice how your whole body leans — that's your body keeping its *center of gravity* balanced so you don't fall over." Create a simple "goal" with cones: aim practice connects force, trajectory, and coordination. "Athletes practice thousands of kicks because the cerebellum gets better with repetition — it physically rewires itself!"
 
 4. **Discovery: Cooperative Game Play** (3-5 min):
-   Introduce a simple cooperative game. Option A: "Circle Kick" - stand in a circle and gently kick a ball to each other, challenging everyone to keep it moving without it leaving the circle. Option B: "Ball Pass" - sit or stand in a line and pass a ball to each other, experimenting with different ways (roll, toss, bounce). Ask observation questions: "How does your body feel after all this movement? What was fun? How did teamwork help us?"
+   Introduce a simple cooperative game. Option A: "Circle Kick" - stand in a circle and gently kick a ball to each other. Option B: "Ball Pass" - pass a ball experimenting with rolling, tossing, and bouncing. Pause to check in on bodies: "Put your hand on your chest — can you feel your heart beating faster? That's *aerobic exercise* — your heart is pumping more blood to your muscles because they need more oxygen to keep working. Your breathing is deeper too, bringing in more oxygen. This is why sports are healthy for your heart and lungs!" Ask: "How did teamwork change the game? Why do you think all sports have rules?"
 
 5. **Wrap-up** (2-3 min):
    Gather in a circle for a cool-down. Praise specific efforts: "I saw such great teamwork when you passed the ball to everyone!" Explain that athletes practice just like they did today. Ask: "Which movement was your favorite? Would you like to play again tomorrow?" Store equipment together and discuss how sports and games help us stay healthy and have fun with friends.

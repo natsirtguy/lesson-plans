@@ -14,69 +14,31 @@ Children explore how things are built and discover the relationship between how 
 
 **Design**: The plan or way that something is created to look and work. Engineers design buildings by drawing plans so that the building will be safe and the rooms will work well.
 
+**Adaptation**: In living things, a structure that evolved because it helps the organism survive and function. A duck's webbed feet are an adaptation — the webbing between the toes creates a paddle shape, perfect for pushing through water. Natural selection, over millions of years, kept the ducks with better-webbed feet because they survived better.
+
+**Form follows function**: A principle in both engineering and biology — the shape (form) of something is usually the direct result of what it needs to do (function). Why are bird beaks different shapes? Because different beak shapes are efficient for different foods: a pelican's pouch-beak scoops fish, a hummingbird's needle-beak reaches into flowers for nectar.
+
 ## Learning Song
 
 **Tune**: Wheels on the Bus
 
 **Tempo**: Upbeat and playful
 
-**Lyrics** (2 verses, 8-8-12 syllables):
+**Lyrics**:
 
 *Verse 1*
 
-The struc-ture of my bod-y helps me move a-round (8)
-Helps me move a-round, helps me move a-round (8)
-The struc-ture of my bod-y helps me move a-round (8)
-With my legs and arms and bones! (8)
-
-Wait—let me recount this for the Wheels on the Bus pattern (8-8-12):
-
-*Verse 1*
-
-The struc-ture of a build-ing has walls and doors and floors (8)
-Doors and floors, doors and floors (8)
-The struc-ture of a build-ing has walls and doors and floors (8)
-So we can live in-side, in-side! (8)
-
-Actually, let me follow Wheels on the Bus correctly with the pattern 8-8-12:
-
-*Verse 1*
-
-A spoon's shape helps it scoop the food up from a plate (8)
-From a plate, from a plate (8)
-A spoon's shape helps it scoop the food up from a plate (8)
-That's its func-tion, that's what it does! (8)
-
-Let me recalculate for proper Wheels on the Bus (8-8-12):
-
-*Verse 1*
-
-The struc-ture of a door-way has a frame and han-dle too (9) — fixing: The struc-ture of a door has a frame and han-dle (8)
-Frame and han-dle, frame and han-dle (8)
-The struc-ture of a door has a frame and han-dle (8)
-So we can o-pen it and walk right through! (10) — fixing to: So we can o-pen it and walk right by (9) — fixing: So you can o-pen it and walk right through (8)
-
-Let me be more careful:
-
-*Verse 1*
-
-A chair's struc-ture has four legs and a seat so we can sit (10) — recounting: A-chair's-struc-ture-has-four-legs-and-a-seat-so-we-can-sit = too long
-
-Starting over with careful syllable counting:
-
-*Verse 1*
-
-Our bod-ies have bones and mus-cles that help us move a-round (8: Our-bod-ies-have-bones-and-mus-cles-that-help-us-move-a-round)
-Move a-round, move a-round (5: Move-a-round-move-a-round) — needs 8, so: Help us move, help us move, help us move a-round (8: Help-us-move-help-us-move-help-us-move-a-round)
-Our bod-ies have bones and mus-cles that help us move a-round (8)
-Struc-ture and func-tion work to-geth-er! (8: Struc-ture-and-func-tion-work-to-geth-er)
+The spoon is curved so it can scoop,
+It can scoop, it can scoop,
+The spoon is curved so it can scoop,
+That's its structure doing its job!
 
 *Verse 2*
 
-A build-ing needs walls and a roof to keep the rain out-side (8: A-build-ing-needs-walls-and-a-roof-to-keep-the-rain-out-side)
-Keep it dry, keep it dry (5: Keep-it-dry-keep-it-dry) — fixing: Roof keeps dry, roof keeps dry, keeps us all dry (8: Roof-keeps-dry-roof-keeps-dry-keeps-us-all-dry)
-A build-ing needs walls and a roof to keep the rain out-side (8)
-Struc-ture and func-tion work to-geth-er! (8)
+Our bones and muscles help us move,
+Help us move, help us move,
+Our bones and muscles help us move,
+Structure and function work together!
 
 **Actions/Gestures**:
 
@@ -143,9 +105,7 @@ Children investigate everyday objects and structures to discover how their form 
 
 1. **Introduction** (2-3 min):
 
-   Say: "We're going to look at some things and figure out how they're built and what they do. Let's start with this spoon. Can you pick it up? What's it made for? What can a spoon do?"
-
-   Let the child handle the spoon and demonstrate scooping. Point out: "The spoon is curved like a little bowl. That curve is perfect for scooping food. That's its structure—how it's built. And its function is to help us eat. The shape helps it do its job!"
+   Say: "We're going to explore one of the most important ideas in all of science and engineering: *form follows function*. That means the SHAPE of something tells you what it's FOR. Engineers design things this way on purpose. And here's the amazing part — living things evolved this way too! A bird's beak shape matches what it eats. Duck feet are webbed to paddle through water. Evolution 'designed' these structures because they worked best." Hold up the spoon: "Let's start here. What shape is this? Why is it curved like a little bowl?" Let the child handle it and demonstrate scooping. "The spoon's structure — that curve — IS its function. The shape IS the tool."
 
 2. **Exploration** (7-10 min):
 

@@ -6,13 +6,17 @@ Speed activities and quick-thinking games build cognitive flexibility, reaction 
 
 ## Vocabulary
 
-**Reaction time**: How quickly a person responds or reacts to something they see, hear, or experience. When you play a game where someone says "Go!" and you run as fast as you can, your reaction time is how quickly you start running.
+**Neuron**: A nerve cell in your brain and body that sends tiny electrical signals — like a message zipping along a wire. Your brain has billions of neurons all sending signals to each other incredibly fast.
 
-**Processing speed**: How quickly your brain takes in information and decides what to do with it. When you see a picture and quickly say what it is, your brain is processing the information fast.
+**Reaction time**: How quickly a person responds or reacts to something they see, hear, or experience. When you play a game where someone says "Go!" and you run as fast as you can, your reaction time is how quickly neurons send the "run!" signal from your brain to your legs.
 
-**Cognitive flexibility**: The ability to switch quickly between different thoughts, ideas, or tasks. When you play a game that changes rules suddenly and you adapt right away, you are using cognitive flexibility.
+**Processing speed**: How quickly your brain takes in information and decides what to do with it. When you see a picture and quickly say what it is, billions of neurons are firing signals to each other — the faster and more practiced those pathways are, the faster you process.
 
-**Decision-making**: Choosing what to do based on thinking about options and picking one. When you decide whether to run fast or hop slowly in a speed game, you are making a decision.
+**Myelin**: A coating that wraps around neurons, like the plastic coating on a wire. Myelin makes electrical signals travel much faster — up to 100 times faster! Every time you practice something, your brain adds more myelin to those pathways, making you faster.
+
+**Cognitive flexibility**: The ability to switch quickly between different thoughts, ideas, or tasks. When a game changes rules suddenly and you adapt right away, your prefrontal cortex (the front part of your brain that controls thinking) is working hard to shift gears.
+
+**Inhibitory control**: The brain's ability to stop itself from doing something automatic. In Simon Says, when you *don't* clap even though you want to, that's your prefrontal cortex using inhibitory control — telling your body to hold back. This is one of the hardest things the brain learns to do quickly.
 
 ## 🎵 Learning Song
 
@@ -96,7 +100,7 @@ Children engage in fast-paced games and challenges that require them to think an
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Start with excitement and engagement: "We're going to play some super fast games today!" Explain that you will see how quickly they can figure things out and respond. Do a quick practice round together (like a fast clap) to show what "quick response" means. Emphasize fun over performance: "It's not about being the best, it's about being quick and having fun!"
+   Start with excitement: "We're going to play some super fast games today! Did you know your brain sends signals like tiny lightning bolts? Those signals travel from your eyes to your brain to your hands — super fast! Every time we play these games, we make those lightning bolt pathways stronger and faster. It's called *myelination* — your brain wraps more coating around the pathways so signals zoom even faster." Touch their head: "Let's wake up those neurons!" Do a quick practice clap to show what "quick response" means.
 
 2. **Exploration** (10-15 min):
 
@@ -115,12 +119,12 @@ Children engage in fast-paced games and challenges that require them to think an
    - Keep the energy high but manageable
 
    **Cool-Down Phase** (remaining time):
-   - Transition to a slightly slower-paced game as energy naturally winds down
-   - Try "Freeze Dance" (move when music plays, freeze when it stops) or "Red Light, Green Light"
-   - Let them initiate: "You call out the colors and I'll go fast!"
+   - Transition to a slightly slower-paced game. Try "Freeze Dance" (move when music plays, freeze when it stops) or "Red Light, Green Light"
+   - During Simon Says, pause to explain: "Did you notice how hard it was NOT to clap? That's your prefrontal cortex doing *inhibitory control* — stopping the signal before it reaches your hands. That's really hard for brains to do, even grown-up brains!"
+   - Let them initiate: "You call out the commands and I'll see if MY inhibitory control is fast enough!"
 
 3. **Discovery** (2-3 min):
-   Pause and ask questions that help them notice what happened: "Wow, you were so fast! What did you like best?" "Did your brain have to think really quickly?" "When do you have to be fast in real life?" Point out what you observed: "I noticed you made that decision super quickly!"
+   Pause and ask questions: "Wow, you were so fast! Do you know what was happening inside your brain?" "Your neurons were sending signals like lightning — and because we practiced, they got even faster! That's myelination happening in real time!" "When do you have to be fast in real life — like when crossing a street?" "Which was harder: moving fast, or stopping yourself in Simon Says?" (The stopping — inhibitory control — is genuinely harder neurologically.)
 
 4. **Wrap-up** (2-3 min):
    Signal the end with excitement: "One more time — this is our last fast round!" Wind down gradually: "We're going to slow down now. Let's take some deep breaths." Celebrate what they accomplished: "You were so fast! Your brain was working quickly!" Transition to a calmer activity next to help them settle after the excitement.

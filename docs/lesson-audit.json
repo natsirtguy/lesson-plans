@@ -1364,6 +1364,16 @@
     "issues": "Emojis in section headings (removed). Age adaptation said \"Keep spatial vocabulary minimal and concrete\" — directly against the philosophy. No neuroscience of spatial reasoning (parietal lobe, hippocampus, trainability). No mention of mental rotation as a distinct cognitive skill, or its relationship to STEM success.",
     "fixed": "Removed emojis from all section headings. Replaced vocabulary with spatial reasoning (cognitive skill, parietal lobe, trainable, STEM predictor), mental rotation (3D object manipulation in the mind, parietal lobe), perspective (viewpoint-dependence, architect/pilot/surgeon reliance), hippocampus (spatial maps, taxi driver research), architecture (requires 3D mental models). Rewrote introduction to explain spatial reasoning as a distinct brain skill. Updated discovery section to include plan view, mental rotation challenge, and stability narration. Updated 2-3 age adaptation to remove \"minimal vocabulary\" instruction."
   },
+  "knowledge/speed-activities-and-quick-thinking.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "No actual neuroscience content despite vocabulary labels; activities were pure themed play; 'neural pathways' mentioned but never explained",
+    "fixed": "Added neuron/myelin/myelination concepts with real explanations; added inhibitory control (prefrontal cortex) as key mechanism behind Simon Says; intro now teaches how signals travel and how practice speeds them up"
+  },
+  "knowledge/sports-and-physical-games.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Pure physical activity with no domain knowledge; vocabulary only everyday words; no physics, biomechanics, physiology, or cultural history despite being in knowledge queue",
+    "fixed": "Added biomechanics (cerebellum, muscle coordination), physics (force, trajectory, friction, gravity), physiology (aerobic exercise, heart rate, oxygen delivery), cultural history (ancient games, Olympics); activities now explicitly teach the science behind each movement"
+  },
   "knowledge/states-of-matter-water-ice-steam.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Had basic terms (solid, liquid, evaporate, freeze) but never explained WHY — no molecules, no kinetic energy, no specific phase transition temperatures (0°C/100°C), no crystal lattice, no condensation. \"It got cold and became solid\" with no molecular explanation.",
@@ -1384,6 +1394,11 @@
     "issues": "No cognitive science behind planning — no executive function, working memory, mental simulation, decomposition, or obstacle anticipation. Vocabulary was basic motivational words (strategy, intention, progress, persist). Activity was drawing pictures of goals with no planning framework or real intellectual content.",
     "fixed": "Replaced vocabulary with executive function, mental simulation, decomposition, obstacle anticipation, strategy, persist/iterate. Rewrote activity introduction to connect planning to real-world applications (architects, surgeons, engineers). Added decomposition exercise, obstacle anticipation as \"pre-mortem\" concept, and the plan→act→observe→revise cycle. Updated age adaptations with \"hypothesis\" and \"prediction\" language."
   },
+  "knowledge/structure-and-function-how-things-are-built-and-what-they-do-bodies-societies-tools-buildings.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Song section had multiple broken draft attempts with meta-commentary left in file; missing biological depth (natural selection, adaptation, form-follows-function principle)",
+    "fixed": "Cleaned up broken song section; added adaptation and form-follows-function vocabulary; intro now frames structure-function as a principle of both engineering and evolution with bird beak/duck foot examples"
+  },
   "knowledge/study-and-homework-play.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Entirely process-focused with no intellectual content. Vocabulary was motivational words (practice, persistence, focus, effort) with no substance. The lesson taught children to playact studying without studying anything real.",
@@ -1394,6 +1409,16 @@
     "issues": "Vocabulary was all everyday words (organization, deliver, responsibility, route). No logistics, no supply chain, no inventory management, no distribution network concepts. Activity was pure roleplay — \"deliver items to zones\" with no explanation of how supply chains actually work.",
     "fixed": "Replaced vocabulary with logistics (sequencing, routing, resource management), supply chain (full journey from raw materials to consumer, banana example), inventory (counting stock, restocking, optimization), distribution network (hub-and-spoke vs. point-to-point, USPS 31,000+ offices). Rewrote activity to include inventory-taking, shipping manifests, route optimization, last-mile delivery concept, shortage/change-order problem-solving, and restocking. Added hub-and-spoke model and transportation costs for 3-4+."
   },
+  "knowledge/survey-and-data-collection-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Activities taught survey mechanics without statistical concepts; missing tally notation, frequency distributions, sample size, sample bias, and prediction from data",
+    "fixed": "Added tally, frequency, sample, sample bias, and prediction vocabulary; intro reframes as data science; discovery phase now teaches frequency analysis, prediction, and sample bias"
+  },
+  "knowledge/sustainability-basics.md": {
+    "verdict": "PASS",
+    "issues": "Exemplary vocabulary: polymer chemistry (why bacteria can't decompose plastic), carbon cycle with real CO2 ppm data (280→420 ppm), greenhouse effect physics; activity intro uses molecules/enzymes/polymer chains; age adaptations include petroleum origins and full carbon cycle explanation",
+    "fixed": "N/A"
+  },
   "knowledge/taste-testing-and-flavor-exploration.md": {
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary all everyday words (palate, sensory, savor, texture). Zero taste science — no taste buds, no five basic tastes, no umami, no olfactory connection, no explanation of how taste receptors work.",
@@ -1403,6 +1428,11 @@
     "verdict": "FAIL -> FIXED",
     "issues": "Vocabulary was generic (demonstrate, model, technique, instruct). No cognitive science of teaching — no protégé effect, no metacognition, no explanation of WHY teaching strengthens learning. Activity was pure role-play as \"teacher\" with zero intellectual content about how learning works.",
     "fixed": "Replaced vocabulary with protégé effect (scientific observation that teaching makes you learn better), metacognition (thinking about your own thinking), scaffold (support that can be gradually removed), and technique (refined definition). Rewrote summary with learning science. Updated introduction to name the protégé effect explicitly. Rewrote activity flow to name metacognition during explanation and scaffolding during the learning phase. Updated age adaptations to use all new vocabulary in context."
+  },
+  "knowledge/teaching-and-tutoring-play.md": {
+    "verdict": "FAIL -> FIXED",
+    "issues": "Vocabulary only everyday social words; metacognition mentioned in intro but never defined or taught; no content about the science of learning and teaching (protege effect, elaborative encoding, scaffolding); activity was role-play without intellectual substance",
+    "fixed": "Added metacognition, protege effect, elaborative encoding, scaffolding, and intentional teaching vocabulary; intro frames activity around the research-backed protege effect; discovery phase names metacognition, elaborative encoding, and scaffolding as they occur in the activity"
   },
   "knowledge/team-activities-and-sports.md": {
     "verdict": "FAIL -> FIXED",
