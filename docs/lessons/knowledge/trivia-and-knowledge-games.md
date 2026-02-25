@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-Children explore fun knowledge games and simple trivia questions, learning to think about facts they already know and enjoying the excitement of discovery through playful questioning and recall activities. This develops memory, thinking skills, and confidence in sharing knowledge.
+Children explore the science of memory by playing knowledge games and trivia — and in doing so, they experience a powerful cognitive phenomenon: the retrieval practice effect. Every time we try to recall a fact, we strengthen the neural pathway to that memory, making it easier to access next time. This lesson introduces working memory, long-term memory, retrieval, and why asking questions is one of the most effective ways to build lasting knowledge.
 
 ## Vocabulary
 
-**Trivia**: Fun facts and interesting questions about things you know - like "What animal says 'moo'?" is a trivia question about animals.
+**Retrieval**: The process of pulling a stored memory back into your conscious mind. When you try to remember a fact, your brain is performing retrieval — searching through long-term memory for the right information. Trying to retrieve something, even when it's hard, actually strengthens the memory.
 
-**Challenge**: Something fun you try to figure out or do that makes you think and use your brain a little bit harder, like a puzzle or a tricky question.
+**Retrieval practice effect**: The scientific finding that being tested on information — having to retrieve it — makes you remember it better than simply re-reading or re-hearing it. Every quiz question is a brain workout that builds stronger memory pathways.
 
-**Memory**: The part of your brain that remembers things you've learned before - when you remember what color the ball was or what sound a dog makes, you're using your memory.
+**Working memory**: The brain's short-term "scratchpad" — a limited mental space where you hold information you're currently using. When figuring out a trivia question, you hold the question in working memory while searching long-term memory for the answer.
 
-**Question**: Words you say when you want to know something - like "What is this?" or "Who made that?" - questions help us learn new things.
+**Long-term memory**: The brain's vast storage system for facts, skills, and experiences. Unlike working memory (which fades in seconds), long-term memories can last a lifetime if they're retrieved and reinforced regularly.
+
+**Semantic memory**: A type of long-term memory for general facts and concepts — things like "spiders have eight legs" or "the sun is a star." This is the main type of memory used in trivia and knowledge games.
 
 ## Learning Song
 
@@ -66,7 +68,7 @@ Every answer helps us learn and grow
 
 ### Activity Overview
 
-In this activity, children will hear simple trivia questions about things in their world and practice answering them. Through playful questioning about animals, colors, everyday objects, and family members, children develop memory skills, learn to recognize facts they already know, and gain confidence in sharing their knowledge.
+In this activity, children play knowledge games with genuine trivia — interesting facts about animals, nature, the human body, and the world — while experiencing the retrieval practice effect firsthand. Each attempt to recall a fact, successful or not, strengthens neural pathways in the brain. This isn't just a memory game; it's an introduction to how learning actually works at a biological level.
 
 **Activity Type**: Interactive questioning game / Recall and memory practice
 
@@ -99,51 +101,50 @@ In this activity, children will hear simple trivia questions about things in the
 
 1. **Introduction** (2-3 min):
    - Gather your child in a cozy spot
-   - Say: "Today we're going to play a fun thinking game! I'm going to ask you questions about things you know, and you can try to answer them. It's fun to think hard!"
-   - Model enthusiasm and playfulness - this is not a test, it's a game
-   - Reassure them there's no wrong answers in playing
+   - Introduce the brain science: "Today we're playing a memory game — and every time you try to remember something, your brain gets a little stronger at holding onto it. Scientists call this the retrieval practice effect! Even if you can't remember right away, trying is what makes your brain grow."
+   - Model enthusiasm and playfulness — this is not a test, it's a brain workout game
+   - Reassure them: "If you don't know, I'll tell you the answer — and then your brain will store it for next time!"
 
 2. **Exploration** (5-8 min):
-   - Ask simple trivia questions one at a time
+   - Ask genuine trivia questions — real facts worth knowing — one at a time
    - Give your child time to think (5-10 seconds is plenty)
-   - Examples of age-appropriate questions:
-     * "What sound does a dog make?"
-     * "What color is this apple?"
-     * "What do you wear on your feet?"
-     * "Who is your mommy/daddy?"
-     * "Where do we sleep?"
-     * "What animal says 'moo'?"
-   - When they answer: celebrate enthusiastically ("Yes! That's right!" or "You know that!" even if not perfectly correct)
-   - If they can't answer or are unsure, tell them the answer and move on - never pressure
+   - Examples of intellectually rich, age-appropriate trivia:
+     * "Spiders have eight legs. How many do you have? What's the difference between us and spiders?"
+     * "Plants make their own food using sunlight. What do you need to eat? What do plants use instead?"
+     * "Butterflies can taste with their feet! What do you taste with?"
+     * "The moon goes around the Earth. Does the Earth go around anything?"
+     * "Whales are mammals, not fish — they breathe air just like us. Can you hold your breath?"
+     * "Your heart pumps blood all around your body, every second, your whole life. Can you feel it beating?"
+   - When they answer: celebrate enthusiastically, and always share the real information: "Yes! And did you know..."
+   - If they can't answer, tell them the fact and add: "Now your brain has stored that — let's ask again in a minute and see if you can retrieve it!"
 
-3. **Discovery** (2-3 min):
-   - Notice and comment on what they know: "You know so many things!"
-   - Ask follow-up questions: "Tell me more about that" or "Have you ever seen one?"
-   - Let them ask you trivia questions too - this is very empowering for young learners
-   - Celebrate their thinking effort, not just correct answers
+3. **Discovery — Retrieval Round** (2-3 min):
+   - Revisit 2-3 of the earlier questions: "Let's try to retrieve something we learned a few minutes ago."
+   - Notice improvement: "You remembered! Your brain retrieved it — that's the retrieval practice effect happening right now!"
+   - Let them ask you trivia questions — this is very empowering and also demonstrates that asking is a form of learning
+   - Celebrate the thinking effort, not just correct answers
 
 4. **Wrap-up** (1-2 min):
-   - Say: "You're so smart! You answered so many questions!"
-   - Option: "Would you like to play again tomorrow?" to build anticipation
+   - Connect the experience to memory science: "Your brain is like a library. Every time you try to find something — even if you can't — you're helping your brain organize its shelves better."
+   - "Would you like to play again tomorrow? Asking those same questions again will make them stick even stronger."
    - Transition smoothly to next activity
 
 ### Age Adaptations
 
 **2-3 years**:
-- Keep questions extremely simple and concrete (one-word answers preferred)
-- Focus on: body parts, family members, common animals, basic colors
-- Ask only 4-5 questions total
-- Use real objects or pictures as visual aids - don't rely on memory alone
-- Accept any approximation of the correct answer (e.g., "woof" counts as knowing what dogs say)
-- Let them point instead of always speaking
+- Use 4-5 rich facts with a clear sensory hook: "Elephants drink water with their nose — their nose is called a trunk!" then ask "What does an elephant use its trunk for?"
+- Accept any approximation of the correct answer; what matters is the attempt at retrieval
+- Use real objects or pictures as visual aids alongside the fact
+- Always tell them the answer if they can't retrieve it — then circle back to it at the end
+- Keep the "retrieval round" brief: just 1-2 revisits
 
 **3-4+ years**:
-- Increase difficulty gradually: use categories like "Tell me about animals," "What's this used for?", "Who lives in our house?"
-- Ask 8-10 questions
-- Include some questions with multiple details: "What color is your shirt? What does it have on it?"
-- Encourage them to explain their answers: "How do you know that?"
-- Play reverse games: they ask you questions or give you clues to guess
-- Keep score playfully with tally marks or stickers (not competitive, just celebratory)
+- Use more complex facts across multiple topics (animal biology, astronomy, the human body, chemistry, geography)
+- Ask 8-10 questions and do a retrieval round on 3-4 of them
+- Ask "How do you think that works?" or "Why do you think that is?" to build reasoning alongside memory
+- Encourage them to make up their own trivia questions about topics they've learned
+- Introduce the vocabulary: "That's called retrieval — your brain just retrieved that fact!"
+- Keep score as a "facts we learned today" tally (not competitive, just celebratory)
 
 ### Extension Ideas
 

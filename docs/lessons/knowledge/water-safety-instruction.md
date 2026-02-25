@@ -10,9 +10,13 @@ Water safety instruction teaches young children essential awareness and protecti
 
 **Immerse**: To put something or someone completely into liquid. We don't immerse your whole face in water when you're learning water safety—we go slowly and keep water away from your nose and mouth.
 
-**Buoyant**: Able to float or stay on top of water without sinking. Some toys are buoyant, which means they float! Observing which objects are buoyant helps us understand how water works.
+**Density**: How much "stuff" (mass) is packed into a space. Objects that are less dense than water float; objects that are more dense than water sink. A rubber duck floats because rubber and the trapped air inside are together less dense than water. A stone sinks because it's much more dense. This is why a hollow metal boat floats — its overall density (metal plus all the air inside) is less than water.
 
-**Submerged**: Covered completely by water or liquid. Objects that become submerged disappear under the water, and we learn to be careful about what happens beneath the surface.
+**Buoyant**: Able to float because of being less dense than water. When an object is buoyant, the water pushes up on it with a force strong enough to hold it up. A scientist named Archimedes discovered that the upward force from water equals the weight of the water the object pushes aside — so a big floating object pushes aside a lot of water, and that water pushes back just as hard.
+
+**Surface tension**: A property of water where the surface acts like a thin, stretchy film. Surface tension exists because water molecules are attracted to each other — they pull together at the surface, creating a kind of skin. This is why water bugs can walk on water and why a careful drop of water holds its round shape.
+
+**Submerged**: Covered completely by water or liquid. When something is fully submerged, water pressure pushes on it from all sides — and objects that can't breathe air (like people and animals) are in danger when submerged because our lungs need air, not water, to get oxygen into our blood.
 
 ## 🎵 Learning Song
 
@@ -111,7 +115,7 @@ In this guided experience, children explore water safely while learning key wate
    - Making gentle splashes (not on faces)
    - Observing how water moves and flows
 
-   Narrate everything: "Your toy floats on top! The water is moving slowly. You're being so gentle!" Ask discovery questions: "What does the water feel like?" "Does your toy sink or float?" "Where does the water go when you pour?"
+   Narrate with the physics: "Your toy floats on top! That means it's less dense than water — there's a lot of air trapped inside. Let's try this stone — it's very dense, much heavier than the same amount of water, so it sinks right away." Test multiple objects: a cork, a spoon, a sponge, a small rock. Ask: "Why does this one float and that one sink?" Introduce the idea: "Archimedes figured out that the water is actually pushing UP on things — that pushing force is called buoyancy!"
 
 3. **Safety Practice** (5-8 minutes):
    Practice safe behaviors through play:

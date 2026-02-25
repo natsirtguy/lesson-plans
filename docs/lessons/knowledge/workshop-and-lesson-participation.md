@@ -2,17 +2,19 @@
 
 ## Activity Summary
 
-This lesson teaches children how to engage respectfully in structured group learning experiences, follow directions from teachers or facilitators, and participate collaboratively with peers. Through guided practice in a supportive environment, children develop essential skills for thriving in educational settings and learning alongside others.
+This lesson teaches children how to engage in structured group learning — and introduces a fascinating idea: humans are uniquely powerful learners precisely because we learn from each other. Psychologists call this social learning, and it's one of the defining features of our species. When children participate in a workshop or lesson circle, they're not just following rules — they're practicing the fundamental human skill of collective knowledge transmission. This lesson builds participation skills while explaining why group learning is so much more powerful than learning alone.
 
-## Vocabulary
+**Social learning**: Learning by watching, listening to, and imitating others. Humans are extraordinary social learners — we can acquire complex skills and knowledge just by observing someone demonstrate them, without having to discover everything through trial and error. This is why group learning is so efficient: knowledge spreads rapidly from person to person.
 
-**Participate**: To take an active part in an activity or group experience—like raising your hand to share an idea during circle time or working with a friend on a project together.
+**Collective intelligence**: The combined knowledge and problem-solving ability of a group. A group working together can solve problems that none of the individuals could solve alone — they share different information, catch each other's errors, and build on each other's ideas. This is what workshops and learning circles are designed to harness.
 
-**Instruction**: A direction or explanation that tells us how to do something or what to do next—like when a teacher shows us how to hold a paintbrush or explains the rules of a game.
+**Zone of proximal development**: The range of tasks a learner can do with guidance from someone more skilled, but couldn't do alone yet. A workshop or lesson creates this zone — the teacher or peers know things you don't yet know, and working alongside them pulls your learning forward faster than you could advance alone.
 
-**Collaborate**: To work or create together with other people, combining your ideas and efforts to accomplish something as a team—like building a tower with blocks with a friend or singing a song together.
+**Participate**: To take an active part in a group experience. Active participation isn't just about speaking — it includes listening carefully, processing what others say, and responding. In social learning, every participant both teaches and learns.
 
-**Attention**: The act of focusing your mind and eyes on one thing, listening carefully and watching closely to understand what's happening—like looking at the teacher and listening when she's reading a story to the group.
+**Collaborate**: To combine your knowledge and efforts with others toward a shared goal. Collaboration is the social behavior that makes collective intelligence possible — it requires sharing what you know and building on what others contribute.
+
+**Attention**: Selective focus — the brain's ability to amplify one signal while filtering out others. Sustained attention during group learning is a trainable skill; it allows social learning to happen efficiently.
 
 ## Learning Song
 
@@ -105,9 +107,9 @@ Children will participate in a structured "Learning Circle" where they practice 
 
 1. **Introduction** (2-3 min):
 
-   Say: "Today, we're going to have a special learning circle. When we sit together like this, we're learning as a group. Let me show you what good learning looks like."
+   Say: "Today, we're going to have a special learning circle. Did you know that humans are amazing at learning from each other? When animals want to know how to do something, most of them have to figure it out alone. But humans can TELL each other and SHOW each other — and then the person who learned can teach the NEXT person! That's how all knowledge spreads. Today we're going to practice that."
 
-   Demonstrate: Sit up straight, fold your hands, look at the person speaking, smile. Ask: "Can you sit like me? Great job!"
+   Demonstrate what social learning looks like: "When someone is talking, we look at them and listen — that's how we get information into our brain."
 
 2. **Modeling Turn-Taking** (3-4 min):
 
@@ -119,11 +121,13 @@ Children will participate in a structured "Learning Circle" where they practice 
 
 3. **Guided Practice** (7-10 min):
 
-   Ask simple, engaging questions:
-   - "What's your favorite animal?"
-   - "Can you show us a silly dance move?"
-   - "Tell us something you did today"
-   - "What color do you see on your shirt?"
+   Ask genuinely interesting questions that make children think and teach each other:
+   - "Does anyone know why leaves change color in autumn?" (share the answer if no one knows: "they stop making green chlorophyll!")
+   - "How do birds know where to fly in winter? What do you think?"
+   - "What is the biggest animal you can think of? Why do you think some animals get so big?"
+   - "How do we know what's happening on the other side of the world right now?"
+
+   These questions model what a real workshop does: brings curious minds together around genuine questions.
 
    If a child is shy or doesn't speak: "That's okay. You're still part of our circle. Thank you for listening!"
 
