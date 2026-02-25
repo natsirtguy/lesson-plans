@@ -6,13 +6,15 @@ Children explore the concept of buoyancy by discovering which objects float and 
 
 ## Vocabulary
 
-**Buoyant**: Something that is able to float on or stay on top of water. A cork is buoyant, which is why it floats on a bathtub rather than sinking to the bottom.
+**Density**: The amount of mass packed into a given volume — how much "stuff" is crammed into a space. Water has a density of 1 gram per cubic centimeter (1 g/cm³). Objects denser than 1 g/cm³ sink; objects less dense than 1 g/cm³ float. A piece of wood is less dense than water (about 0.5-0.9 g/cm³) — that's why it floats. A rock is denser (about 2.5 g/cm³) — that's why it sinks. Density is mass ÷ volume.
 
-**Submerge**: To push something completely under water or allow it to go underwater. When you submerge a toy boat, you're dunking it beneath the water's surface.
+**Buoyancy**: The upward force that water pushes on any object placed in it. Water pushes *up* on every object — the question is whether that upward push (the buoyant force) is strong enough to support the object's weight. If yes, the object floats. If no, it sinks.
 
-**Density**: How heavy or light something is for its size. A rock has more density than a cork, which is why the rock sinks while the cork floats.
+**Archimedes' principle**: The rule discovered by the ancient Greek mathematician Archimedes: when an object is placed in water, it displaces (pushes aside) a volume of water equal to the volume of the object submerged. The buoyant force equals the weight of water displaced. This is why a hollow boat floats — even though the metal is dense, the boat's shape captures air and makes its *average* density (metal + air) less than water.
 
-**Observe**: To watch carefully and notice what is happening. When you observe objects in water, you notice which ones float and which ones sink.
+**Submerge**: To push something completely below the surface of water. When you submerge an object, it displaces water — you can see the water level rise.
+
+**Surface tension**: A thin, elastic-like "skin" on the surface of water, created by water molecules pulling on each other. Very light objects (a needle, a water strider insect) can rest on this surface without sinking, even though they're denser than water.
 
 ## Learning Song
 
@@ -48,6 +50,20 @@ Submerging in the water
 1. Point upward with both hands when singing about floating and buoyant objects
 2. Point downward when singing about sinking and submerging
 3. Put hand to eyes like binoculars when singing "observe"
+
+## Archimedes and the "Eureka!" Moment
+
+About 2,250 years ago, a Greek mathematician named Archimedes was given a puzzle by the king: Was the king's crown made of pure gold, or had the goldsmith secretly mixed in cheaper silver? Archimedes needed to figure out the crown's density without melting it down.
+
+One day, he stepped into his bath and noticed the water level rise. He realized: the volume of water displaced equals the volume of the object submerged. By measuring how much water the crown displaced, he could calculate its volume — and then divide its weight by its volume to get its density. If the density matched pure gold (19.3 g/cm³), it was real. If it was lower, silver had been mixed in.
+
+The story says Archimedes was so excited he jumped out of his bath and ran through the streets shouting "**Eureka!**" — Greek for "I found it!" It's one of the most famous moments in the history of science.
+
+**The shape trick — the most important lesson:**
+
+Here's the crucial thing most people get wrong: **floating is about density, not weight.** A massive steel cruise ship weighs hundreds of thousands of tonnes but floats — because its hollow shape means its *average* density (steel walls + all the air inside) is less than water. A tiny steel ball bearing sinks — because it's solid steel with no air, so its density is much higher than water.
+
+You can prove this at home: crumple a piece of aluminum foil into a ball — it sinks. But flatten the same piece into a bowl shape — it floats! Same material, same weight, but different shape (and therefore different average density).
 
 ## Intro Video Recommendation
 
@@ -125,8 +141,9 @@ Children fill a container with water and systematically test a variety of safe h
    - After testing several items, gather all the floating objects together: "Look at all the things that float!"
    - Then gather the sinking objects: "And look at these—they all went down!"
    - Ask observational questions: "Which ones stayed on top?" "Which ones went to the bottom?" "What do you notice?"
-   - Point out: "Light things like this sponge float. Heavy things like this rock sink."
-   - If your child is ready, introduce the word "buoyant": "This cork is buoyant—that means it floats!"
+   - Explain the real reason: "Things float or sink based on their density — how much stuff is packed inside them compared to water. Wood is less packed than water, so it floats. Rock is more packed, so it sinks." (Avoid saying "light things float" — a cruise ship is very heavy and it floats!)
+   - **Do the foil experiment**: Crumple a small piece of foil into a ball and drop it — it sinks. Then unfold it into a bowl shape and float it. "Same foil, same weight — but when it traps air, it floats! That's why boats float even though they're made of metal."
+   - If your child is ready: "Archimedes discovered this rule in his bathtub 2,000 years ago. He was so excited he shouted Eureka — that means 'I found it!'"
 
 4. **Wrap-up** (2-3 min):
    - Help your child remove items from water and place them on towels to dry
@@ -146,12 +163,12 @@ Children fill a container with water and systematically test a variety of safe h
 
 **3-4+ years**:
 - Use 8-10 different items for more comparison
-- Ask predictions before each test: "Will it float or sink?"
-- Introduce density concept: "The rock is heavy, so it sinks. The sponge is light, so it floats."
-- Sort items into two groups at the end (floaters and sinkers)
-- Record observations with simple drawings or by placing items in "float" and "sink" baskets
-- Ask: "Why do you think the cork floats but the rock doesn't?"
-- Introduce the word "buoyant" and use it consistently
+- Ask predictions before each test and then discuss why the result happened
+- Explicitly introduce density: "The rock is denser than water — it has more stuff packed in, so water can't hold it up."
+- Do the foil ball-vs-bowl experiment and explain average density and trapped air
+- Ask: "Why does a boat float even though it's made of heavy metal?" (Hollow shape + air = average density less than water)
+- Introduce "buoyancy" and "Archimedes' principle" with the Eureka story
+- Record observations with drawings or a "float" / "sink" T-chart
 
 ### Extension Ideas
 

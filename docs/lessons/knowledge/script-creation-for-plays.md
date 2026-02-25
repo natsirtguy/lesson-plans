@@ -6,13 +6,21 @@ Children create simple scripts by writing dialogue for characters, combining lan
 
 ## Vocabulary
 
-**Script**: A written text that shows what characters say and do in a play or performance. When you create a script, you're writing the exact words your characters will speak.
+**Script**: A written document that tells actors exactly what to say and do during a performance. Scripts have a special format: the character's name comes first, then a colon, then what they say — and stage directions in parentheses tell the actor how to move or feel. Example: `Bear: (yawning) I'm so sleepy. Has anyone seen my blanket?`
 
-**Character**: A person, animal, or creature in a story or play with their own personality, voice, and actions. Each character has different things they might say and do.
+**Playwright**: The person who writes a play — the author of a script. William Shakespeare was one of the most famous playwrights in history, writing 37 plays over 400 years ago. Children who create their own scripts are playwrights!
 
-**Dialogue**: The words that characters speak to each other in a conversation. Dialogue is what makes characters come alive and tells the story through their voices.
+**Dialogue**: The words characters speak to each other in a script. Dialogue reveals each character's personality — whether they're brave, funny, timid, or kind — through the specific words and tone they use.
 
-**Improvise**: To create something new and perform it without planning it ahead of time. When you improvise, you use your imagination to make up ideas as you go.
+**Stage directions**: Instructions written in a script (usually in parentheses or italics) that tell actors how to move, speak, or feel. Stage directions describe the *action*, not just the words. Example: `(whispers)`, `(runs to the door)`, `(looks surprised)`.
+
+**Protagonist**: The main character of a story — the one the story follows most closely. The protagonist usually faces a problem that needs solving.
+
+**Antagonist**: A character who opposes the protagonist or creates the main conflict or challenge. (The antagonist doesn't have to be a villain — it could just be an obstacle.)
+
+**Scene**: A section of a play that happens in one location at one time. Long plays are divided into acts (big sections), which are divided into scenes.
+
+**Narrative arc**: The shape of a story: *exposition* (introducing the characters and setting), *rising action* (the problem builds), *climax* (the most exciting or critical moment), and *resolution* (how things turn out at the end).
 
 ## 🎵 Learning Song
 
@@ -41,6 +49,17 @@ Every voice in our script shines, joy we bring!
 1. Pretend to write on paper or in the air with your hand
 2. Point to an imaginary character and move your mouth to show them speaking
 3. Clap your hands together when characters say their lines in the script
+
+## Theater: A Very Old Art Form
+
+Theater — live performance in front of an audience — is one of the oldest art forms in human history. The ancient Greeks invented theater over 2,500 years ago. They built enormous outdoor theaters carved into hillsides (called amphitheaters) that could seat 15,000 people. Actors wore large masks to show emotions — because the audience was far away, they couldn't see facial expressions without them.
+
+Every play needs a **script** — a written plan that every actor follows. Scripts are different from stories or novels in important ways:
+- Stories are written in the **past tense** and describe events: *"The bear walked slowly through the forest."*
+- Scripts are written in **present action**: `Bear: (walks slowly) Where is the honey?`
+- Scripts use **stage directions** to tell actors how to perform — not just what to say.
+
+When children create scripts, they are doing exactly what professional playwrights do: deciding who the characters are, what problem they face, how they speak to each other, and how the story resolves.
 
 ## 📺 Intro Video Recommendation
 
@@ -104,7 +123,12 @@ Children explore creating simple narratives through dialogue, combining writing 
    Invite children to pick up props and explore them freely. Ask open-ended questions: "What does this character look like? What is their name? Are they friendly or silly?" Narrate what you observe: "Oh! The bear is looking tired. Maybe he needs a nap story!" Let children handle, move, and play with props to spark imagination.
 
 3. **Guided Creation** (6-10 minutes):
-   Start with a simple scenario: "Let's say we have a [character 1] and a [character 2]. They meet each other." Use a two-character format, asking children what each character would say. Act as scribe, writing down their exact words or simplified versions. Model enthusiasm: "So your bear says, 'Hello! Want to play?' Let me write that down." After 2-3 exchanges, ask: "Now what happens? Do they go somewhere? Do they find something?" Keep momentum by reading lines back with expression.
+   Introduce the narrative arc first: "Every play has a shape: a beginning where we meet the characters, a middle where a problem happens, and an end where we find out how it turns out. Let's plan ours."
+   - Who is our protagonist? (main character)
+   - What problem do they face?
+   - How does it resolve?
+
+   Now write the script using real script format. Model it as you scribe: "In a real script, we write the character's name, then a colon, then what they say. And if they do something special, we put that in parentheses. Watch: `Bear: (yawning) Hello! Has anyone seen my blanket?` You're the playwright — what does Bear say?" Write their words in the correct format. After 2-3 exchanges, ask: "Now what happens? This is the climax — the most exciting part!" Keep momentum by reading lines back with expression.
 
 4. **Performance** (remaining time):
    Once the basic script is created (3-5 lines), offer props for acting it out. Say: "Now let's see what your story looks like when we act it out!" Children perform using voice, movement, and optional props. Ask: "What was your favorite part? What would you change?" Encourage creating another short script if children show interest.
@@ -120,7 +144,7 @@ Focus on very simple dialogue (1-2 words per line) and rely heavily on adult scr
 
 **3-4+ years**:
 
-Children can handle more complex narratives with 2-4 characters and longer dialogue. Include simple problem-solving story arcs with structure: "First, then, finally." Encourage children to suggest stage directions like "Maybe she jumps!" Ask about emotions: "Why does she feel happy?" Invite children to illustrate their script or add simple written labels. They may engage for 25-30 minutes with interest in revision and re-performance.
+Children can handle more complex narratives with 2-4 characters and longer dialogue. Explicitly teach the script format: character name, colon, dialogue, (stage directions). Introduce the narrative arc by name: "This is our exposition — where we meet everyone. Now this is the rising action — the problem builds! Here's the climax!" Encourage children to name who is the protagonist and what challenge they face. Ask about emotions: "What stage direction would show that Bear is scared?" Invite children to illustrate their script. They may engage for 25-30 minutes with interest in revision and re-performance.
 
 ### Extension Ideas
 

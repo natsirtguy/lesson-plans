@@ -6,13 +6,17 @@ Children will explore basic geometric shapes through sensory investigation, patt
 
 ## Vocabulary
 
-**Circle**: A perfectly round shape with no corners or straight sides, like a pizza, a wheel, or the moon in the sky.
+**Geometry**: The branch of mathematics that studies shapes, space, and how things fit together. The word comes from Greek: *geo* (earth) + *metria* (measurement) — ancient Greeks used geometry to measure land and build temples.
 
-**Square**: A shape with four equal sides and four corners (right angles), like a window pane, a tile on the floor, or a block.
+**Polygon**: Any flat, closed shape made entirely of straight sides. Triangles (3 sides), squares (4 sides), rectangles (4 sides), hexagons (6 sides) are all polygons. A circle is *not* a polygon — it has no straight sides.
 
-**Triangle**: A shape with three straight sides and three corners, like a slice of pizza, a party hat, or the roof of a house.
+**Vertex** (plural: **vertices**): The mathematical term for a corner — the point where two sides of a shape meet. A triangle has 3 vertices, a square has 4, a hexagon has 6.
 
-**Rectangle**: A shape with four sides and four corners where the long sides are longer than the short sides, like a door, a picture frame, or a book.
+**Right angle**: A perfectly square corner — exactly 90 degrees. Squares and rectangles have four right angles. You can find right angles everywhere: the corner of a book, a windowpane, a piece of paper. Architects and builders use right angles constantly when designing buildings.
+
+**Symmetry**: When a shape can be divided into two identical halves that mirror each other. A circle has infinite lines of symmetry. A square has 4. A triangle can have 1 or 3. Symmetry is one of the most common patterns in nature.
+
+**2D vs. 3D**: Flat shapes (circle, square, triangle) are two-dimensional — they have length and width but no depth. Real objects in the world are three-dimensional — they have length, width, *and* depth. A circle becomes a **sphere** in 3D (like a ball). A square becomes a **cube** (like a wooden block). A triangle becomes a **pyramid** or a **cone**.
 
 ## Learning Song
 
@@ -38,6 +42,18 @@ Shapes we all adore
 1. Trace a large circle in the air with both hands for "circle"
 2. Make four corners with fingers to show "square" and "rectangle"
 3. Touch three points in the air to form a "triangle" shape
+
+## Geometry in Nature and the Real World
+
+Geometry isn't invented — it's discovered. Geometric shapes appear constantly in nature because they solve real physical and mathematical problems:
+
+- **Honeycombs are hexagons**: Bees build their hives using perfect hexagonal cells. Mathematicians proved that hexagons pack together more efficiently than any other shape — they use the least amount of wax to create the most storage space. Bees "figured this out" through evolution.
+- **Snowflakes have 6-fold symmetry**: Every snowflake has exactly 6 arms arranged with perfect symmetry, because of how water molecules bond when they freeze into ice crystals.
+- **Crystals are geometric**: Salt crystals are perfect tiny cubes. Diamonds are octahedrons (8 triangular faces). The arrangement of atoms in a mineral determines its crystal shape.
+- **Spider webs are spirals and polygons**: The spokes of a web radiate outward like the spokes of a wheel (with rotational symmetry), while the threads between them form approximate polygons.
+- **Bubbles are spheres**: A soap bubble takes the shape of a sphere because a sphere has the smallest possible surface area for a given volume — nature always finds the most efficient shape.
+
+Humans use geometry to design every building, bridge, road, and machine. Ancient Egyptians used geometry to build the pyramids with remarkable precision — the Great Pyramid's base is nearly a perfect square.
 
 ## Intro Video Recommendation
 
@@ -95,7 +111,7 @@ Children will engage in a multi-sensory shape discovery activity using various h
 **Activity Flow**:
 
 1. **Introduction** (2-3 min):
-   Begin by showing one shape at a time. Say: "Look at this circle! It's round and smooth. Can you trace around it with your finger?" Let the child handle the shape, feel it, and roll it if it's a real circle or wheel. Use simple, clear language and allow time for exploration before moving to the next shape.
+   Begin by showing one shape at a time. Use the real vocabulary: "Look at this circle! In geometry — the math of shapes — a circle has no corners and no straight sides. That's why it rolls so easily." Then show a square: "This is a square — a polygon with four equal sides and four right angles. A right angle is a perfect square corner. You can feel it!" Let the child touch and trace each shape. Then introduce 3D: "This circle is flat — it's 2D. But this ball is a sphere — it's the 3D version of a circle. The cube is the 3D version of the square."
 
 2. **Exploration** (5-10 min):
    Provide all the shapes in a basket and invite the child to explore them freely. Encourage them to:
@@ -105,17 +121,17 @@ Children will engage in a multi-sensory shape discovery activity using various h
    - Sort shapes by type into piles
    - Match shapes to real objects in the room (point to a round clock, rectangular window, etc.)
 
-   As they explore, narrate what you observe: "You found the triangle! It has three corners. Poke them gently—they're pointy!"
+   As they explore, narrate and teach: "You found the triangle! It has three sides and three vertices — the mathematical word for corners. Count them: one, two, three." Point out right angles on the square: "Feel this corner — it's a right angle. Perfectly square."
 
 3. **Discovery** (3-5 min):
-   Ask open-ended questions:
-   - "Which shape is the roundest?"
-   - "Can you find two circles that are the same size?"
-   - "Which shape has corners like this?" (show your fingers in a corner)
-   - "Can you make a circle shape with your body?"
-   - "Where do you see rectangles in our room?"
+   Ask geometric questions:
+   - "Is this shape a polygon? Does it have straight sides?"
+   - "Can you count the vertices on this shape?"
+   - "Which shapes have right angles? Feel the corners and check."
+   - "Can you fold this square in half so both halves match? That's symmetry!"
+   - "Where do we see rectangles in our room? Can you find a right angle in this room?"
 
-   Point out patterns and connections: "The plate is a circle, and so is your wheel toy! Both are circles!"
+   Point out nature connections: "Honeycombs are made of hexagons — 6-sided polygons! Bees build those because hexagons fit together perfectly without gaps. Let me show you a picture."
 
 4. **Wrap-up** (2-3 min):
    Place shapes back in the basket while naming each one: "Circle goes in... square goes in... triangle goes in..." Sing a quick verse of your shape song, or make the shape gestures together as a closing celebration of learning.
@@ -126,7 +142,7 @@ Children will engage in a multi-sensory shape discovery activity using various h
 Keep activities simple and tactile. Focus on just 2-3 shapes (circle and square) rather than all four. Use larger cutouts that are easier to grasp. Allow more free exploration and less structured sorting. Use simple one-word labels: "Circle! Square!" Repeat the same shapes multiple times across different sessions before introducing new ones. Expect some mouth exploration—use washable, non-toxic materials.
 
 **3-4+ years**:
-Introduce all four basic shapes and challenge with shape recognition games. Ask them to sort shapes by size, color, or type. Have them create patterns (circle-square-circle-square). Introduce "sides" and "corners" vocabulary and count them together. Play "I Spy" games: "I spy with my little eye something that's a rectangle!" Create shape art by gluing shapes onto paper to make pictures. Use shapes to make patterns with tape on the floor.
+Introduce all four basic shapes plus hexagon and introduce the word "polygon." Use "vertex/vertices" explicitly and count them for each shape. Identify right angles on squares and rectangles. Discuss symmetry: fold paper shapes and see if both halves match. Introduce 3D counterparts: sphere (ball), cube (block), cylinder (can), pyramid. Ask: "Why do you think bees build their honeycomb with hexagons instead of squares?" Have them create patterns, design a structure from shapes, and explain their geometric choices.
 
 ### Extension Ideas
 

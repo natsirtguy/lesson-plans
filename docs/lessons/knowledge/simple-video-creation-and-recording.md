@@ -6,13 +6,15 @@ Children will explore the basics of creating and recording videos using simple d
 
 ## Vocabulary
 
-**Record**: To capture an action or moment by pressing a button on a camera or video device so you can watch it again later. When you record your friends dancing, you can press play and see them dance again.
+**Frame**: A single still photograph. Video is made of thousands of individual frames — still pictures — played one after another extremely fast. A typical video plays 24 to 60 frames every single second. Your eyes and brain blend these still images together into smooth, continuous motion.
 
-**Playback**: Playing back means watching or listening to something you recorded. After you press stop on the camera, you can press play to watch your video right away.
+**Persistence of vision**: The phenomenon that makes video work. After you see an image, your brain holds onto it for a fraction of a second. When the next image appears quickly enough, your brain blends them together so they look like fluid motion rather than a flickering series of still pictures. This is why movies and videos look like real movement even though they're actually thousands of photographs.
 
-**Frame**: The area you see through the camera or video screen. A frame is everything the camera can see—the people, toys, and things in front of it. When you point the camera at your friend's face, their face fills the frame.
+**Sensor**: Inside every phone or camera is a tiny electronic chip called an image sensor. When you point the camera at something, light bounces off objects and enters through the lens. The sensor converts that light into electrical signals, which are then stored as digital data (binary code — 1s and 0s). Modern phone cameras have sensors with millions of tiny light-capturing spots called **pixels**.
 
-**Capture**: To catch or save a moment or movement by recording it with a camera. When you capture someone jumping, you save that jump forever on the video so you can watch it again and again.
+**Pixel**: Short for "picture element" — one of millions of tiny colored dots that make up a digital image or video frame. A 12-megapixel camera captures 12 million pixels per photo. Pixels are so tiny that from normal viewing distance they blur together into a smooth image.
+
+**Resolution**: How many pixels are in a video or image. Higher resolution = more detail = a sharper, clearer picture. When you watch a "4K" video, it has about 8 million pixels per frame — four times more than standard HD video.
 
 ## Learning Song
 
@@ -46,6 +48,24 @@ We record and play
 1. Hold hands up like holding a camera for "record" and "frame"
 2. Press thumb down for pressing the record button to "capture"
 3. Make a rectangle with fingers for "playback" and pretend to watch the screen
+
+## How Video Actually Works
+
+A video is not a moving image — it's an illusion. It's actually thousands of still photographs (frames) shown so rapidly that your brain is tricked into seeing movement.
+
+**The history of this discovery:**
+- In 1878, photographer Eadweard Muybridge set up 24 cameras along a racetrack to photograph a galloping horse. He wanted to answer a question: Do horses ever lift all four hooves off the ground at once? (Yes — they do.) When he flipped through the photographs quickly, he created one of the first moving images ever made. His experiment proved that motion could be captured as a series of stills.
+- In the 1890s, the Lumière brothers in France invented the first movie camera and projector. They showed the first public movie screening in 1895 — the audience reportedly ran away from a film of a train approaching the camera, because they thought it was real.
+- Early films were recorded on physical film strips — a long strip of transparent plastic coated with light-sensitive chemicals. When light hit the chemicals, they changed to record the image. Modern digital cameras replaced film with electronic sensors.
+
+**What happens when you press record:**
+1. Light bounces off everything in front of the camera.
+2. That light passes through the lens, which focuses it.
+3. The sensor captures the pattern of light and converts it to digital data.
+4. This process happens 24–60 times every second.
+5. All those images are stored on the device's memory as a video file.
+
+When you press play, the device displays all those images rapidly — and your brain perceives motion.
 
 ## Intro Video Recommendation
 
@@ -101,7 +121,9 @@ Children will use a smartphone or tablet to record short videos of themselves, f
 **Activity Flow**:
 
 1. **Introduction** (2-3 minutes):
-   Gather the child and explain what you're going to do: "We're going to be video makers today! We're going to press this button to record, and then we can watch ourselves doing silly things." Show them the phone or tablet and point to the record button. Let them hold it and feel comfortable with it. You might demonstrate by recording a quick video of yourself making a funny face, then play it back and say, "Look! There I am!"
+   Explain the "secret" of how video works: "Did you know a video is actually thousands of photographs played really fast? Your eyes and brain blend them together so it looks like things are really moving — that's called persistence of vision. Watch this!" Flip through a physical flipbook if you have one to demonstrate the illusion. Or scroll through photos on the phone very quickly.
+
+   Then explain the camera: "Inside this phone there's a tiny sensor — a chip — that captures light. Every second we're recording, it takes 30 little snapshots of you! When we play it back, they go by so fast it looks smooth." Show the child the lens. "Light bounces off you, goes through this lens, hits the sensor inside, and gets saved as data."
 
 2. **Exploration** (8-12 minutes):
    Start by recording something simple: the child waving at the camera, jumping, dancing, or playing with a toy. Keep recordings short (10-30 seconds). After each recording, immediately play it back so they see themselves. Say things like, "Look! There you are waving! You did that!" This connection between action and playback is crucial for understanding what recording means. Record multiple short clips: jumping, making funny faces, moving a toy, spinning around, playing peek-a-boo. Celebrate each recording enthusiastically. If the child is interested, let them try to hold and point the camera at you, a sibling, or a toy, with your gentle guidance.
@@ -118,7 +140,7 @@ Children will use a smartphone or tablet to record short videos of themselves, f
 Keep it very simple and concrete. Use one device (yours) and do all the recording yourself. Focus on helping them see themselves in playback—this is new and exciting for this age. Make recordings very short (under 15 seconds). Use very simple language: "Record!" and "Watch!" Let them tap or press the button with your hand over theirs. Accept very short clips and messy, unfocused recordings as completely normal and wonderful.
 
 **3-4+ years**:
-Give more independence. Let them try holding the device with supervision. Ask them to decide what to record: "What should we film next?" Encourage them to pose or perform for the camera. Make slightly longer recordings (up to 30 seconds). Ask more reflective questions during playback: "What were you doing? What happens next in the video?" They may be interested in creating simple narratives or stories with their recordings.
+Give more independence. Let them try holding the device with supervision. Ask them to decide what to record. Introduce the concept of frames: "When we're watching this back, it's actually 30 photos every second — can you imagine how many photos we took in this video?" Try the persistence of vision experiment: draw a bird on one side of a card and a birdcage on the other; spin the card fast on a pencil — the bird appears inside the cage because your brain blends the two images. Ask: "Why do you think people use slow-motion video?" (More frames per second, so when you slow it down, you can see details your eyes normally miss.)
 
 ### Extension Ideas
 
