@@ -49,11 +49,6 @@ Topics preserve their original source categories as metadata:
 
 ## Lesson Plan Backfill
 
-### Current Status
-- **Total topics**: 433
-- **Lesson plans completed**: ~8 (as of Nov 2025)
-- **Remaining**: ~425 lesson plans to generate
-
 ### Custom Subagents for Generation
 Two specialized Claude Code subagents are available for lesson plan generation:
 
@@ -92,70 +87,6 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 - Trust that partial understanding has value. A 2-year-old who hears "carbon dioxide" during a plant lesson won't memorize the carbon cycle, but they're building neural pathways and comfort with scientific language.
 - Activities should be genuinely engaging, not condescending. The goal is wonder and discovery, not simplified busywork dressed up in a topic's theme.
 - Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
-
-### Intellectual Rigor Audit
-Existing lesson plans are being audited against the above philosophy. Audit results are tracked in **`docs/lesson-audit.json`** — a flat JSON object keyed by relative file path (e.g. `knowledge/topic-name.md`). Do **not** read this file to check audit status; use the scripts below.
-
-**Pre-selected audit batches**: 14 batches are pre-defined in `docs/audit-batches/`. These cover all 95 remaining unaudited lessons (as of 2026-02-24). Batches 01–10 mix knowledge and physical topics (7 lessons each); batches 11–14 are all knowledge topics (covering the final 25 lessons):
-
-| File | Lessons |
-|------|---------|
-| `docs/audit-batches/batch-01.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-02.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-03.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-04.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-05.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-06.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-07.md` | 4 knowledge, 3 physical |
-| `docs/audit-batches/batch-08.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-09.md` | 4 knowledge, 3 physical |
-| `docs/audit-batches/batch-10.md` | 5 knowledge, 2 physical |
-| `docs/audit-batches/batch-11.md` | 6 knowledge, 0 physical |
-| `docs/audit-batches/batch-12.md` | 6 knowledge, 0 physical |
-| `docs/audit-batches/batch-13.md` | 6 knowledge, 0 physical |
-| `docs/audit-batches/batch-14.md` | 7 knowledge, 0 physical |
-
-To work through a batch, open the relevant file and audit the listed lessons one at a time. Mark `[x]` in the file as you go (optional), and always record each result with `record-audit-results.py` before moving on.
-
-**Step 1 — Select lessons to audit**:
-```bash
-python select-audit-batch.py          # 25 random unaudited lessons (default)
-python select-audit-batch.py 10       # custom batch size
-python select-audit-batch.py --all    # list all remaining unaudited lessons
-```
-The script reads `docs/lesson-audit.json` and compares against lesson files on disk. It outputs file paths for unaudited lessons.
-
-**Step 2 — Audit lessons one at a time**: Read a lesson, assess it against the rigor criteria, fix it if needed, then record the result before moving to the next lesson. Do not read all lessons in a batch upfront — that wastes context.
-
-**Step 3 — Record each result immediately after auditing**:
-```bash
-# Lesson passes (already rigorous):
-python record-audit-results.py docs/lessons/knowledge/topic.md PASS \
-    "Uses real terminology: circadian rhythm, melatonin, REM sleep"
-
-# Lesson fixed:
-python record-audit-results.py docs/lessons/knowledge/topic.md "FAIL -> FIXED" \
-    "No food chemistry, purely procedural" \
-    "Added chemical reaction, emulsification, dissolve vocabulary"
-
-# Lesson needs work but can't fix now:
-python record-audit-results.py docs/lessons/physical/topic.md FAIL \
-    "No anatomy or physiology content"
-```
-
-**Check status anytime**:
-```bash
-python record-audit-results.py --status              # summary stats
-python record-audit-results.py --check <path>         # check specific lesson
-```
-
-**Verdict values**: `PASS` (already rigorous), `FAIL -> FIXED` (had issues, now fixed), `FAIL` (issues found but not fixable in this session)
-
-Common patterns found in dumbed-down lessons:
-- Vocabulary that uses only everyday words (e.g., "technology," "device") instead of real technical terms (e.g., "circuit," "sensor," "processor")
-- Activities described as educational but containing no actual intellectual content — just themed play
-- Missing key concepts that are central to the topic (e.g., a food chains lesson with no mention of energy transfer or decomposers)
-- Process-only lessons that teach the feeling of learning without any real subject matter
 
 ### Lesson Plan Structure
 All lesson plans follow age-appropriate educational design (ages 2-4+):
