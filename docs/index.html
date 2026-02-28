@@ -565,18 +565,21 @@
                     const cards = [];
                     let currentTitle = 'Overview';
                     let currentLines = [];
-                    let preambleLines = []; // Lines before first ## heading
+                    let preambleLines = [];
+                    let seenFirstH2 = false;
 
                     for (const line of lines) {
                         if (line.startsWith('## ')) {
-                            // Save previous card (unless it's the preamble)
-                            if (currentLines.length > 0 && cards.length > 0) {
-                                const md = currentLines.join('\n').trim();
-                                if (md) cards.push({ title: currentTitle, html: marked.parse(md) });
-                            } else if (currentLines.length > 0) {
-                                // This is content before the first ## — save as preamble
-                                preambleLines = currentLines;
+                            if (currentLines.length > 0) {
+                                if (!seenFirstH2) {
+                                    // Content before the first ## — save as preamble
+                                    preambleLines = currentLines;
+                                } else {
+                                    const md = currentLines.join('\n').trim();
+                                    if (md) cards.push({ title: currentTitle, html: marked.parse(md) });
+                                }
                             }
+                            seenFirstH2 = true;
                             // Start new card - strip emoji for tab label
                             currentTitle = line.replace(/^##\s+/, '')
                                 .replace(/[\u{1F300}-\u{1F9FF}]\uFE0F?\s*/gu, '')
