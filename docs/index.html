@@ -46,6 +46,11 @@
             transition: background-color 0.15s ease;
         }
 
+        /* Card swipe styles */
+        .card-container {
+            -webkit-overflow-scrolling: touch;
+        }
+
         /* Lesson plan content styling */
         .lesson-content {
             line-height: 1.7;
@@ -282,7 +287,9 @@
     <main class="max-w-4xl mx-auto px-4 py-6 pb-20">
 
         <!-- Lesson Plan View -->
-        <div x-show="currentView === 'lesson'" x-transition style="display: none;">
+        <div x-show="currentView === 'lesson'" x-transition style="display: none;"
+             @keydown.left.window="if(currentView === 'lesson') prevCard()"
+             @keydown.right.window="if(currentView === 'lesson') nextCard()">
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-6">
                 <!-- Back Button -->
                 <button @click="closeLessonPlan()"
@@ -313,8 +320,52 @@
                     <p class="text-red-800 dark:text-red-300" x-text="lessonError"></p>
                 </div>
 
-                <!-- Lesson Content -->
-                <div x-show="!lessonLoading && !lessonError" class="lesson-content" x-html="lessonContent"></div>
+                <!-- Card Navigation & Content -->
+                <div x-show="!lessonLoading && !lessonError && lessonCards.length > 0">
+                    <!-- Card Navigation (hidden if single card) -->
+                    <div x-show="lessonCards.length > 1" class="flex items-center justify-between mb-3 select-none">
+                        <button @click="prevCard()"
+                                class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 btn-touch flex-shrink-0"
+                                :class="currentCardIndex === 0 ? 'opacity-30 pointer-events-none' : ''">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                            </svg>
+                        </button>
+                        <div class="text-center flex-1 min-w-0 px-2">
+                            <p class="text-sm font-semibold text-gray-700 dark:text-gray-300 truncate"
+                               x-text="lessonCards[currentCardIndex]?.title"></p>
+                            <div class="flex justify-center mt-1.5 gap-1 flex-wrap">
+                                <template x-for="(card, i) in lessonCards" :key="i">
+                                    <button @click="currentCardIndex = i"
+                                            :class="i === currentCardIndex ? 'bg-indigo-600 dark:bg-indigo-400 w-3 h-3' : 'bg-gray-300 dark:bg-gray-600 w-2 h-2'"
+                                            class="rounded-full transition-all"
+                                            :title="card.title"></button>
+                                </template>
+                            </div>
+                        </div>
+                        <button @click="nextCard()"
+                                class="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 btn-touch flex-shrink-0"
+                                :class="currentCardIndex === lessonCards.length - 1 ? 'opacity-30 pointer-events-none' : ''">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <!-- Swipeable Card Content -->
+                    <div x-ref="cardContainer"
+                         class="card-container"
+                         @touchstart="handleTouchStart($event)"
+                         @touchmove="handleTouchMove($event)"
+                         @touchend="handleTouchEnd($event)">
+                        <div class="lesson-content" x-html="lessonCards[currentCardIndex]?.html"></div>
+                    </div>
+
+                    <!-- Card Counter -->
+                    <p x-show="lessonCards.length > 1"
+                       class="text-center text-xs text-gray-400 dark:text-gray-500 mt-2"
+                       x-text="`${currentCardIndex + 1} / ${lessonCards.length}`"></p>
+                </div>
 
                 <!-- Action Buttons -->
                 <div x-show="!lessonLoading" class="mt-6 space-y-3">
@@ -469,10 +520,14 @@
                 showMenu: false,
                 completedToday: [],
                 currentView: 'queues',
-                lessonContent: '',
+                lessonCards: [],
+                currentCardIndex: 0,
                 lessonLoading: false,
                 lessonError: '',
                 currentLessonTopic: null,
+                touchStartX: 0,
+                touchStartY: 0,
+                isSwiping: false,
                 isPlaying: false,
                 darkMode: document.documentElement.classList.contains('dark'),
                 showSearch: false,
@@ -508,6 +563,38 @@
                     await this.showLessonPlan(result.topic.name, result.queue);
                 },
 
+                parseLessonIntoCards(markdown) {
+                    const lines = markdown.split('\n');
+                    const cards = [];
+                    let currentTitle = 'Overview';
+                    let currentLines = [];
+
+                    for (const line of lines) {
+                        if (line.startsWith('## ')) {
+                            // Save previous card
+                            if (currentLines.length > 0) {
+                                const md = currentLines.join('\n').trim();
+                                if (md) cards.push({ title: currentTitle, html: marked.parse(md) });
+                            }
+                            // Start new card - strip emoji for tab label
+                            currentTitle = line.replace(/^##\s+/, '')
+                                .replace(/[\u{1F300}-\u{1F9FF}]\uFE0F?\s*/gu, '')
+                                .replace(/[\u{2600}-\u{27BF}]\uFE0F?\s*/gu, '')
+                                .trim();
+                            currentLines = [line];
+                        } else {
+                            currentLines.push(line);
+                        }
+                    }
+                    // Last card
+                    if (currentLines.length > 0) {
+                        const md = currentLines.join('\n').trim();
+                        if (md) cards.push({ title: currentTitle, html: marked.parse(md) });
+                    }
+
+                    return cards;
+                },
+
                 toggleDarkMode() {
                     this.darkMode = !this.darkMode;
                     document.documentElement.classList.toggle('dark', this.darkMode);
@@ -537,6 +624,13 @@
                     // Calculate completed today
                     const today = new Date().toISOString().split('T')[0];
                     this.completedToday = this.data.completed.filter(c => c.date === today);
+
+                    // Scroll to top when card changes
+                    this.$watch('currentCardIndex', () => {
+                        this.$nextTick(() => {
+                            window.scrollTo(0, 0);
+                        });
+                    });
                 },
 
                 saveData() {
@@ -623,7 +717,8 @@
                     this.currentView = 'lesson';
                     this.lessonLoading = true;
                     this.lessonError = '';
-                    this.lessonContent = '';
+                    this.lessonCards = [];
+                    this.currentCardIndex = 0;
 
                     // Convert topic name to filename format
                     const filename = topicName
@@ -645,8 +740,9 @@
 
                         const markdown = await response.text();
 
-                        // Convert markdown to HTML using marked.js
-                        this.lessonContent = marked.parse(markdown);
+                        // Parse markdown into swipeable cards
+                        this.lessonCards = this.parseLessonIntoCards(markdown);
+                        this.currentCardIndex = 0;
                         this.lessonLoading = false;
 
                     } catch (error) {
@@ -658,9 +754,45 @@
 
                 closeLessonPlan() {
                     this.currentView = 'queues';
-                    this.lessonContent = '';
+                    this.lessonCards = [];
+                    this.currentCardIndex = 0;
                     this.lessonError = '';
                     this.currentLessonTopic = null;
+                },
+
+                handleTouchStart(e) {
+                    this.touchStartX = e.touches[0].clientX;
+                    this.touchStartY = e.touches[0].clientY;
+                    this.isSwiping = false;
+                },
+
+                handleTouchMove(e) {
+                    if (!this.touchStartX) return;
+                    const diffX = e.touches[0].clientX - this.touchStartX;
+                    const diffY = Math.abs(e.touches[0].clientY - this.touchStartY);
+                    if (Math.abs(diffX) > diffY && Math.abs(diffX) > 10) {
+                        this.isSwiping = true;
+                    }
+                },
+
+                handleTouchEnd(e) {
+                    if (!this.isSwiping) { this.touchStartX = 0; return; }
+                    const diffX = e.changedTouches[0].clientX - this.touchStartX;
+                    if (diffX < -50 && this.currentCardIndex < this.lessonCards.length - 1) {
+                        this.currentCardIndex++;
+                    } else if (diffX > 50 && this.currentCardIndex > 0) {
+                        this.currentCardIndex--;
+                    }
+                    this.touchStartX = 0;
+                    this.isSwiping = false;
+                },
+
+                nextCard() {
+                    if (this.currentCardIndex < this.lessonCards.length - 1) this.currentCardIndex++;
+                },
+
+                prevCard() {
+                    if (this.currentCardIndex > 0) this.currentCardIndex--;
                 },
 
                 skipTopic(queueName) {
