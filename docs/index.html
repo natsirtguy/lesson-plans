@@ -405,14 +405,13 @@
 
                 <template x-if="getCurrentTopic('knowledge')">
                     <div>
-                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('knowledge').name"></p>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mb-4" x-text="getCurrentTopic('knowledge').category"></p>
+                        <div @click="selectTopic('knowledge')"
+                             class="cursor-pointer rounded-lg p-3 -mx-1 mb-3 hover:bg-blue-50 dark:hover:bg-blue-900/20 active:bg-blue-100 dark:active:bg-blue-900/40 transition-colors">
+                            <p class="text-lg font-medium mb-1" x-text="getCurrentTopic('knowledge').name"></p>
+                            <p class="text-sm text-gray-600 dark:text-gray-400" x-text="getCurrentTopic('knowledge').category"></p>
+                        </div>
 
-                        <div class="grid grid-cols-3 gap-2">
-                            <button @click="selectTopic('knowledge')"
-                                    class="py-3 px-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 active:bg-blue-700 btn-touch text-sm font-medium">
-                                ✓ Select
-                            </button>
+                        <div class="grid grid-cols-2 gap-2">
                             <button @click="skipTopic('knowledge')"
                                     class="py-3 px-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch text-sm">
                                 ⏭️ Skip
@@ -439,14 +438,13 @@
 
                 <template x-if="getCurrentTopic('physical')">
                     <div>
-                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('physical').name"></p>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mb-4" x-text="getCurrentTopic('physical').category"></p>
+                        <div @click="selectTopic('physical')"
+                             class="cursor-pointer rounded-lg p-3 -mx-1 mb-3 hover:bg-green-50 dark:hover:bg-green-900/20 active:bg-green-100 dark:active:bg-green-900/40 transition-colors">
+                            <p class="text-lg font-medium mb-1" x-text="getCurrentTopic('physical').name"></p>
+                            <p class="text-sm text-gray-600 dark:text-gray-400" x-text="getCurrentTopic('physical').category"></p>
+                        </div>
 
-                        <div class="grid grid-cols-3 gap-2">
-                            <button @click="selectTopic('physical')"
-                                    class="py-3 px-2 bg-green-500 text-white rounded-lg hover:bg-green-600 active:bg-green-700 btn-touch text-sm font-medium">
-                                ✓ Select
-                            </button>
+                        <div class="grid grid-cols-2 gap-2">
                             <button @click="skipTopic('physical')"
                                     class="py-3 px-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch text-sm">
                                 ⏭️ Skip
@@ -473,14 +471,13 @@
 
                 <template x-if="getCurrentTopic('songs')">
                     <div>
-                        <p class="text-lg font-medium mb-2" x-text="getCurrentTopic('songs').name"></p>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mb-4" x-text="getCurrentTopic('songs').category"></p>
+                        <div @click="selectTopic('songs')"
+                             class="cursor-pointer rounded-lg p-3 -mx-1 mb-3 hover:bg-orange-50 dark:hover:bg-orange-900/20 active:bg-orange-100 dark:active:bg-orange-900/40 transition-colors">
+                            <p class="text-lg font-medium mb-1" x-text="getCurrentTopic('songs').name"></p>
+                            <p class="text-sm text-gray-600 dark:text-gray-400" x-text="getCurrentTopic('songs').category"></p>
+                        </div>
 
-                        <div class="grid grid-cols-3 gap-2">
-                            <button @click="selectTopic('songs')"
-                                    class="py-3 px-2 bg-orange-500 text-white rounded-lg hover:bg-orange-600 active:bg-orange-700 btn-touch text-sm font-medium">
-                                ✓ Select
-                            </button>
+                        <div class="grid grid-cols-2 gap-2">
                             <button @click="skipTopic('songs')"
                                     class="py-3 px-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch text-sm">
                                 ⏭️ Skip
@@ -568,20 +565,30 @@
                     const cards = [];
                     let currentTitle = 'Overview';
                     let currentLines = [];
+                    let preambleLines = []; // Lines before first ## heading
 
                     for (const line of lines) {
                         if (line.startsWith('## ')) {
-                            // Save previous card
-                            if (currentLines.length > 0) {
+                            // Save previous card (unless it's the preamble)
+                            if (currentLines.length > 0 && cards.length > 0) {
                                 const md = currentLines.join('\n').trim();
                                 if (md) cards.push({ title: currentTitle, html: marked.parse(md) });
+                            } else if (currentLines.length > 0) {
+                                // This is content before the first ## — save as preamble
+                                preambleLines = currentLines;
                             }
                             // Start new card - strip emoji for tab label
                             currentTitle = line.replace(/^##\s+/, '')
                                 .replace(/[\u{1F300}-\u{1F9FF}]\uFE0F?\s*/gu, '')
                                 .replace(/[\u{2600}-\u{27BF}]\uFE0F?\s*/gu, '')
                                 .trim();
-                            currentLines = [line];
+                            // Prepend preamble to the first ## section
+                            if (preambleLines.length > 0) {
+                                currentLines = [...preambleLines, '', line];
+                                preambleLines = [];
+                            } else {
+                                currentLines = [line];
+                            }
                         } else {
                             currentLines.push(line);
                         }
