@@ -398,8 +398,8 @@
 
             <!-- Knowledge, Skills & Culture Queue (Combined) -->
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
-                <div class="flex justify-between items-center mb-4">
-                    <h2 class="text-xl font-bold text-blue-600">🧠 Knowledge, Skills & Culture</h2>
+                <div @click="selectTopic('knowledge')" class="flex justify-between items-center mb-4 cursor-pointer">
+                    <h2 class="text-xl font-bold text-blue-600">🧠 Knowledge</h2>
                     <span class="text-sm text-gray-500 dark:text-gray-400" x-text="getQueuePosition('knowledge')"></span>
                 </div>
 
@@ -431,7 +431,7 @@
 
             <!-- Physical Activities Queue -->
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
-                <div class="flex justify-between items-center mb-4">
+                <div @click="selectTopic('physical')" class="flex justify-between items-center mb-4 cursor-pointer">
                     <h2 class="text-xl font-bold text-green-600">⚽ Physical Activities</h2>
                     <span class="text-sm text-gray-500 dark:text-gray-400" x-text="getQueuePosition('physical')"></span>
                 </div>
@@ -464,7 +464,7 @@
 
             <!-- Songs Queue -->
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6">
-                <div class="flex justify-between items-center mb-4">
+                <div @click="selectTopic('songs')" class="flex justify-between items-center mb-4 cursor-pointer">
                     <h2 class="text-xl font-bold text-orange-600">🎵 Songs</h2>
                     <span class="text-sm text-gray-500 dark:text-gray-400" x-text="getQueuePosition('songs')"></span>
                 </div>
