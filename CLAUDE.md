@@ -47,36 +47,15 @@ Topics preserve their original source categories as metadata:
 - Knowledge & Culture (Combined): Cross-Domain Foundational Concepts and Activities, Life Sciences, Physical Sciences, Earth & Space, Geography, Environmental Science, Individual/Social/Cultural/Economic/Linguistic Human Experience, Mathematical/Technological/Recreational/Creative Systems, Cognitive/Physical/Practical/Social-Emotional Skills, Visual/Performing/Literary Arts, Crafts, Digital Creation, Culinary Arts, Interpersonal/Group/Cultural Practices, Community Service, Communication, Teaching, Formal Learning, Games/Puzzles, Exploration, Cognitive Challenges, Research, Collecting, Household/Economic/Work/Maintenance/Planning/Safety/Transportation activities
 - Physical: Individual/Team Sports, Individual Physical, Outdoor Adventure, Aquatic/Winter/Combat Sports, Mind-Body Activities, Performance Arts, Motor Skills
 
-## Lesson Plan Backfill
+## Lesson Plans
 
-### Custom Subagents for Generation
-Two specialized Claude Code subagents are available for lesson plan generation:
+### Templates
+Lesson plan templates define the structure for each type of content:
+- **Knowledge, Skills & Culture**: `docs/templates/knowledge-lesson-template.md`
+- **Physical Activities**: `docs/templates/physical-lesson-template.md`
+- **Songs**: `docs/templates/song-lesson-template.md`
 
-1. **knowledge-lesson-generator** (`.claude/agents/knowledge-lesson-generator.md`)
-   - Generates Knowledge, Skills & Culture lesson plans (for the combined queue)
-   - Output: `docs/lessons/knowledge/[topic-name].md`
-   - Includes: vocabulary focus, learning activities, hands-on projects, age adaptations
-   - Handles both knowledge topics and cultural/creative activities
-
-2. **physical-lesson-generator** (`.claude/agents/physical-lesson-generator.md`)
-   - Generates Physical Activities lesson plans
-   - Output: `docs/lessons/physical/[activity-name].md`
-   - Includes: equipment, space setup, warm-up/cool-down, safety considerations
-
-Note: The former `arts-culture-lesson-generator` has been merged into `knowledge-lesson-generator` to reflect the combined queue structure.
-
-### Usage Approach
-**Model**: All subagents configured to use Haiku for cost-efficiency
-**Token usage**: ~3,500-4,000 tokens per lesson plan (tested)
-**Total estimated cost**: ~1.5M tokens for 425 lessons (within Claude Pro limits)
-
-**Bulk generation process**:
-1. Use Task tool with appropriate subagent type
-2. Pass topic/activity name in prompt
-3. Subagent generates comprehensive lesson plan following template
-4. Review output quality periodically
-
-**Note on Write operations**: Subagents may require approval for Write tool use depending on Claude Code settings. If auto-approval is not enabled, lesson plan content will need to be extracted from subagent output and saved manually.
+When creating or editing lesson plans, follow the corresponding template for structure and section ordering.
 
 ### Educational Philosophy: Intellectual Rigor for Young Children
 Lesson plans should be fun and hands-on, but **never dumbed down**. Young children — even toddlers — are capable of engaging with genuinely complex ideas. They won't understand everything, and that's fine. Early exposure to real concepts (real vocabulary, real mechanisms, real phenomena) primes children to see the world differently and builds a foundation for deeper understanding later.
@@ -87,14 +66,6 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 - Trust that partial understanding has value. A 2-year-old who hears "carbon dioxide" during a plant lesson won't memorize the carbon cycle, but they're building neural pathways and comfort with scientific language.
 - Activities should be genuinely engaging, not condescending. The goal is wonder and discovery, not simplified busywork dressed up in a topic's theme.
 - Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
-
-### Lesson Plan Structure
-All lesson plans follow age-appropriate educational design (ages 2-4+):
-- Activity summaries with duration and materials
-- Age-specific adaptations (2-3 years vs 3-4+ years)
-- Common challenges with developmental explanations and solutions
-- Safety considerations and parent/caregiver guidance
-- Extension ideas for repeat engagement
 
 ## Implementation Considerations
 
@@ -110,7 +81,7 @@ All lesson plans follow age-appropriate educational design (ages 2-4+):
 The site is a single-page app at `docs/index.html`. There is no build step or static site generator — files in `/docs` are served directly by GitHub Pages.
 
 **Critical: Two data sources must be kept in sync when modifying topics:**
-- **`topics.py`**: Source of truth for topic definitions (used by verification scripts and lesson plan generation)
+- **`topics.py`**: Source of truth for topic definitions (used by verification scripts)
 - **`docs/initial-data.json`**: The JSON file the website actually loads at runtime. Contains topic IDs, names, categories, and initial queue order. **If you only update `topics.py`, the website will not reflect the changes.**
 
 **When adding a new topic (including when adding a new lesson plan for a topic that doesn't yet exist), you MUST update all three things:**

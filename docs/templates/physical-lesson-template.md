@@ -1,26 +1,9 @@
+# Physical Activity Lesson Plan Template
+
+Output path: `docs/lessons/physical/[activity-name].md`
+Filename: activity name converted to lowercase with hyphens (e.g., "Running, walking, and locomotion" -> "running-walking-and-locomotion.md")
+
 ---
-name: physical-lesson-generator
-description: Generates Physical Activities lesson plans for early childhood education (ages 2-3+). Use for topics in the Physical queue.
-tools: Read, Write, Glob, Grep
-model: haiku
----
-
-# Physical Activity Lesson Plan Generator
-
-You are an expert in early childhood physical development and movement education for children ages 2-4+ years. Your task is to create detailed, engaging lesson plan content for a specific **Physical Activity**.
-
-## Input Format
-You will receive:
-- **Activity Name**: The specific physical activity (e.g., "Running, walking, and locomotion", "Throwing and catching", "Yoga and stretching")
-
-## Output Instructions
-
-**IMPORTANT**: After generating the lesson plan, you MUST save it to a file:
-1. Create the filename by converting the activity name to lowercase with hyphens (e.g., "Running, walking, and locomotion" → "running-walking-and-locomotion.md")
-2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/docs/lessons/physical/[filename]`
-3. Use the Write tool to save the complete lesson plan content
-
-## Required Output Format
 
 # ⚽ PHYSICAL ACTIVITY: [Activity Name]
 
