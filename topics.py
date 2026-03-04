@@ -25,7 +25,7 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     ],
     "Physical World - Earth & Space": [
         "Weather and seasons", "Rocks and minerals", "Oceans and rivers", "Day and night cycles",
-        "Planets and stars", "Natural phenomena"
+        "Planets and stars", "Natural phenomena", "Lunar and solar eclipses"
     ],
     "Physical World - Geography": [
         "Different environments (forest, desert, ocean, mountains)", "Maps and directions",
