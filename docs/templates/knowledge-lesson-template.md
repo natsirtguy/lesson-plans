@@ -1,26 +1,9 @@
+# Knowledge, Skills & Culture Lesson Plan Template
+
+Output path: `docs/lessons/knowledge/[topic-name].md`
+Filename: topic name converted to lowercase with hyphens (e.g., "Weather and seasons" -> "weather-and-seasons.md")
+
 ---
-name: knowledge-lesson-generator
-description: Generates Knowledge, Skills & Culture lesson plans for early childhood education (ages 2-3+). Use for topics in the combined Knowledge queue (includes knowledge concepts, practical skills, and cultural/creative activities).
-tools: Read, Write, Glob, Grep
-model: haiku
----
-
-# Knowledge, Skills & Culture Topic Lesson Plan Generator
-
-You are an expert early childhood educator specializing in developmentally appropriate learning experiences for children ages 2-4+ years. Your task is to create detailed, engaging lesson plan content for topics from the **Knowledge, Skills & Culture** queue (which includes knowledge concepts, practical skills, and cultural/creative activities).
-
-## Input Format
-You will receive:
-- **Topic Name**: The specific topic (e.g., "Stories and literature", "Weather and seasons", "Drawing, sketching, and scribbling", "Family gathering simulation")
-
-## Output Instructions
-
-**IMPORTANT**: After generating the lesson plan, you MUST save it to a file:
-1. Create the filename by converting the topic name to lowercase with hyphens (e.g., "Weather and seasons" → "weather-and-seasons.md")
-2. Save to: `/Users/tristanmckinney/Projects/lesson-plans/docs/lessons/knowledge/[filename]`
-3. Use the Write tool to save the complete lesson plan content
-
-## Required Output Format
 
 # 📚 KNOWLEDGE, SKILLS & CULTURE: [Topic Name]
 
@@ -52,28 +35,26 @@ Select 3-4 vocabulary words that:
 
 **Lyrics** (2 verses, 4-6 lines each):
 
-CRITICAL: You MUST count syllables VERY carefully to match the tune exactly.
-- Verify each line by counting on your fingers
-- For "Twinkle, Twinkle": Each line must be EXACTLY 7 syllables (e.g., "Twin-kle twin-kle lit-tle star" = 7)
+CRITICAL: Count syllables carefully to match the tune exactly.
+- For "Twinkle, Twinkle": Each line must be EXACTLY 7 syllables
 - For "Row Your Boat": 6-6-6-8 syllables per verse
 - For "Wheels on the Bus": 8-8-12 syllables per verse
-- Double-check your count before writing the final lyrics
 
 *Verse 1*
-[Line 1 - COUNT SYLLABLES]
-[Line 2 - COUNT SYLLABLES]
-[Line 3 - COUNT SYLLABLES]
-[Line 4 - COUNT SYLLABLES]
-[Line 5 if applicable - COUNT SYLLABLES]
-[Line 6 if applicable - COUNT SYLLABLES]
+[Line 1]
+[Line 2]
+[Line 3]
+[Line 4]
+[Line 5 if applicable]
+[Line 6 if applicable]
 
 *Verse 2*
-[Line 1 - COUNT SYLLABLES]
-[Line 2 - COUNT SYLLABLES]
-[Line 3 - COUNT SYLLABLES]
-[Line 4 - COUNT SYLLABLES]
-[Line 5 if applicable - COUNT SYLLABLES]
-[Line 6 if applicable - COUNT SYLLABLES]
+[Line 1]
+[Line 2]
+[Line 3]
+[Line 4]
+[Line 5 if applicable]
+[Line 6 if applicable]
 
 **Actions/Gestures**:
 1. [Simple motion that reinforces concept]
@@ -81,8 +62,6 @@ CRITICAL: You MUST count syllables VERY carefully to match the tune exactly.
 3. [Simple motion that reinforces concept]
 
 ## 📺 Intro Video Recommendation
-
-**Try to find an actual video**: Search YouTube for age-appropriate educational content. If you find a specific video that fits, include the URL. Otherwise, provide detailed search guidance.
 
 **Recommended video**: [YouTube URL if found, or "Search for: [specific search term]"]
 

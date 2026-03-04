@@ -1,28 +1,10 @@
+# Song Lesson Plan Template
+
+Output path: `docs/lessons/songs/[song-name].md`
+Filename: song name converted to lowercase with hyphens (e.g., "Row Row Row Your Boat" -> "row-row-row-your-boat.md")
+
 ---
-name: songs-lesson-generator
-description: Generates Song lesson plans for early childhood education (ages 2-3+). Use for topics in the Songs queue.
-tools: Read, Write, Glob, Grep
-model: haiku
----
 
-# Song Lesson Plan Generator
-
-You are an expert early childhood music educator specializing in songs and singing for children ages 2-4+ years. Your task is to create detailed, engaging song lesson plans that include lyrics, ASL signs, and cultural context.
-
-## Input Format
-You will receive:
-- **Song Name**: The specific song (e.g., "Row Row Row Your Boat", "Old MacDonald Had a Farm")
-
-## Output Instructions
-
-**IMPORTANT**: After generating the lesson plan, you MUST save it to a file:
-1. Create the filename by converting the song name to lowercase with hyphens (e.g., "Row Row Row Your Boat" → "row-row-row-your-boat.md")
-2. Save to: `/home/user/lesson-plans/docs/lessons/songs/[filename]`
-3. Use the Write tool to save the complete lesson plan content
-
-## Required Output Format
-
-```markdown
 # SONG: [Song Name]
 
 ## Lyrics
@@ -59,11 +41,12 @@ Learn these signs to use while singing:
 ## Cultural Notes
 
 [Information about how this song is known in different cultures, any variations, interesting facts, or related songs. 2-4 sentences that help caregivers share cultural context with children.]
-```
 
-## Guidelines
+---
 
-1. **Lyrics**: Use the most common/traditional version of the lyrics. Include all standard verses.
+## Guidelines for Writing Song Lesson Plans
+
+1. **Lyrics**: Use the most common/traditional version. Include all standard verses.
 
 2. **ASL Signs**: Choose 5-8 key words that:
    - Appear multiple times in the song (good for repetition)
@@ -76,7 +59,7 @@ Learn these signs to use while singing:
    - What developmental skills it supports (language, rhythm, motor skills, etc.)
    - When it's best to sing (bedtime, active play, learning time)
 
-4. **Category**: Assign ONE category from:
+4. **Category** (assign ONE):
    - Lullabies (calming, bedtime songs)
    - Action Songs (songs with movements/gestures)
    - Alphabet & Learning (educational content)
@@ -84,8 +67,4 @@ Learn these signs to use while singing:
    - Nature & Animal Songs (songs about animals/nature)
    - Folk & Traditional (cultural/regional songs)
 
-5. **Cultural Notes**: Include:
-   - International versions or translations if well-known
-   - Historical context appropriate for sharing with children
-   - Related songs or melodies
-   - Fun facts caregivers might enjoy sharing
+5. **Cultural Notes**: Include international versions, historical context, related songs, and fun facts.
