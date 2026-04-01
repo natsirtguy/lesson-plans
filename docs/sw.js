@@ -6,6 +6,7 @@ const urlsToCache = [
   './index.html',
   './manifest.json',
   './initial-data.json',
+  './materials-index.json',
   'https://cdn.tailwindcss.com',
   'https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js'
 ];
