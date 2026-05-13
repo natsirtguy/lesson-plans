@@ -21,7 +21,8 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     ],
     "Physical World - Physical Sciences": [
         "Chemical elements and reactions", "Forces and motion", "Light and sound", "Heat and cold",
-        "States of matter (water, ice, steam)", "Simple machines", "Fire and combustion"
+        "States of matter (water, ice, steam)", "Simple machines", "Fire and combustion",
+        "How speakers work"
     ],
     "Physical World - Earth & Space": [
         "Weather and seasons", "Rocks and minerals", "Oceans and rivers", "Day and night cycles",
@@ -208,7 +209,8 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     ],
     "Practical and Productive - Work and Career": [
         "Job role-play and career exploration", "Interview practice and preparation", "Office and workplace simulation",
-        "Project management games", "Leadership and team activities", "Customer service role-play"
+        "Project management games", "Leadership and team activities", "Customer service role-play",
+        "Hotel management"
     ],
     "Practical and Productive - Maintenance and Repair": [
         "Fix-it activities and repair play", "Tool use and maintenance games", "Restoration and refinishing projects",

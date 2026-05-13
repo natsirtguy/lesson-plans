@@ -867,6 +867,11 @@
         "category": "Practical and Productive - Work and Career"
       },
       {
+        "id": 1075,
+        "name": "Hotel management",
+        "category": "Practical and Productive - Work and Career"
+      },
+      {
         "id": 292,
         "name": "Fix-it activities and repair play",
         "category": "Practical and Productive - Maintenance and Repair"
@@ -1119,6 +1124,11 @@
       {
         "id": 24,
         "name": "Fire and combustion",
+        "category": "Physical World - Physical Sciences"
+      },
+      {
+        "id": 1074,
+        "name": "How speakers work",
         "category": "Physical World - Physical Sciences"
       },
       {
