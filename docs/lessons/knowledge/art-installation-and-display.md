@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-In this lesson, children explore how artwork can be displayed and arranged in creative ways throughout a space—not just on paper, but as 3D installations. Children will create their own artwork and arrange it in purposeful, visually interesting displays, learning about composition, spatial thinking, and how to share their creative work with others.
+Some art isn't a picture you look *at* — it's a space you're *inside*. **Installation art** turns arrangement itself into the artwork: where each piece sits, what surrounds it, and how a viewer moves through it all carry meaning. This lesson teaches the two ideas installers use to steer your eye — **composition** (the deliberate arrangement of elements into a whole) and **visual weight** (big, dark, or colorful things pull attention; small, pale things recede) — and then children build their own installation from their artwork and objects, discovering that *where* you put things changes what they say.
 
 ## Vocabulary
 

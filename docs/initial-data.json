@@ -100,6 +100,41 @@
         "id": 1084,
         "name": "Rhythm and entrainment",
         "category": "Creative and Expressive - Performing Arts"
+      },
+      {
+        "id": 134,
+        "name": "Drawing, sketching, and scribbling",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 135,
+        "name": "Painting with various materials",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 136,
+        "name": "Sculpture and 3D art with clay/playdough",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 137,
+        "name": "Photography and picture-taking",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 138,
+        "name": "Printmaking and stamping",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 139,
+        "name": "Pottery and clay work",
+        "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 141,
+        "name": "Art installation and display",
+        "category": "Creative and Expressive - Visual Arts"
       }
     ],
     "physical": [
@@ -3164,7 +3199,14 @@
       1081,
       1082,
       1083,
-      1084
+      1084,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      141
     ],
     "songs": [
       1001,

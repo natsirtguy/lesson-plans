@@ -63,12 +63,12 @@ Work batch by batch, usually one category at a time (see `quarantine/quarantine.
 5. Remove it from `quarantine/quarantine.json`.
 6. Run `python3 verify-lessons.py`; commit the batch.
 
-## Status (2026-07-14, batch 2)
+## Status (2026-07-14, batch 3)
 
 **Scope:** the knowledge queue only. Physical activities and songs are untouched (their
 content is inherently activity/performance and outside this quality bar for now).
 
-**Live knowledge lessons: 20** — the authoritative list is `topics.py` /
+**Live knowledge lessons: 27** — the authoritative list is `topics.py` /
 `docs/initial-data.json` (masterLists.knowledge). Highlights of how they got there:
 - Original 6: sensory-system idiosyncrasies (247), seeds/germination + decomposition
   (1076/1077, split from "Community garden"), counting/cardinality/infinity (1078),
@@ -81,8 +81,16 @@ content is inherently activity/performance and outside this quality bar for now)
   by concept-named ones: mirror neurons (1081←119), attachment biology (1082←126),
   symbolic thinking (1083←128), entrainment (1084←131). 1 stayed retired as duplicative:
   "Construction and deconstruction" (125, merged into blanket fort 133).
+- Batch 3 (Creative and Expressive - Visual Arts, 8 reviewed): 7 promoted in place with
+  concept-first summaries, each owning a distinct concept — the neurophysiology of the
+  mark (134), pigment + binder / what paint is (135), 3D form and plasticity (136), the
+  camera as light-catcher (137), relief printing and mirror reversal (138), the
+  clay→ceramic transformation (139), installation/composition/visual weight (141).
+  1 stayed retired as duplicative: "Simple jewelry making" (140, merged into bead
+  patterns 124; adornment-archaeology and bilateral-symmetry angles noted for future
+  lessons).
 
-**Quarantined:** 302 knowledge topics await review (`quarantine/quarantine.json`;
+**Quarantined:** 294 knowledge topics await review (`quarantine/quarantine.json`;
 `resolved: true` entries are review decisions already made — replaced or merged).
 
 ### Pending follow-ups

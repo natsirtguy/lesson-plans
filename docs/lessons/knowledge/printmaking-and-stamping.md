@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Children explore creative mark-making by pressing stamps into paint and transferring colorful patterns onto paper. Through repeated stamping and experimentation with different tools, they discover how to create patterns, learn about texture and imprints, and develop fine motor control while producing beautiful, personalized artwork.
+A print is not a drawing — it's a *transfer*: paint clings to the raised surface of a stamp (**relief printing**) and pressure moves it onto the paper. And every transfer hides a surprise: the printed image comes out as a **mirror image**, left becomes right — which is why printmakers through history had to carve their letters *backward* so they would read correctly when printed. Children press stamps, potatoes, and found objects into paint to discover reversal for themselves, and learn that this simple trick — carve once, print many — is how books and pictures were copied for centuries before photocopiers.
 
 ## Vocabulary
 

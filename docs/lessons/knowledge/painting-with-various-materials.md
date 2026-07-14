@@ -2,7 +2,7 @@
 
 ## 🎯 Activity Summary
 
-Children explore creative expression by painting with unconventional tools beyond traditional brushes—sponges, cotton swabs, string, leaves, and household items. Through hands-on experimentation with different materials and textures, children discover how various tools create unique visual effects while building fine motor control and understanding that art-making opens endless possibilities for creative exploration.
+What *is* paint? Every paint in history is the same two-part recipe: **pigment** (the colored particles) plus a **binder** (the sticky liquid that carries the pigment and glues it to a surface) — egg yolk in tempera, oil in oil paint, plastic polymer in acrylics. This lesson teaches paint as an engineered material, then puts the idea in children's hands: painting with sponges, string, leaves, and cotton swabs, where **capillary action** — liquid climbing through narrow spaces on its own — is what pulls paint up into each tool and makes every one behave differently.
 
 ## Vocabulary
 

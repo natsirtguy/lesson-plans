@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Photography and picture-taking is a creative visual activity where children explore how to capture images of their world using cameras or phones. Children learn to observe their environment closely, make intentional creative choices about what to photograph, and develop visual literacy and storytelling skills. This activity expands observational awareness, encourages intentional creative expression, and helps children preserve meaningful moments and memories.
+A camera is a machine that catches light. Its **lens** is curved glass that bends (refracts) light rays to focus them into a sharp image, and its **sensor** is a grid of millions of tiny light-detecting cells (photosites) that each measure how much light lands on them — together they turn light into a picture. This lesson teaches how that machine works, then hands it to the child: taking real photographs means choosing where to point the light-catcher and what to include in the frame (**composition**), turning close observation of their world into deliberate images.
 
 ## Vocabulary
 

@@ -2,7 +2,7 @@
 
 ## 🎯 Activity Summary
 
-Children explore three-dimensional art creation by sculpting with clay or playdough, building foundational understanding that art exists in space and can be shaped and reshaped. Through squeezing, rolling, pinching, and stacking, children develop fine motor control, spatial awareness, and discover cause-and-effect while expressing creativity freely. This activity allows children to build hand strength essential for later writing skills while enjoying the sensory satisfaction of transforming materials.
+Unlike a painting, a **sculpture** occupies real space — you can walk around it, and it looks different from every angle. This lesson teaches how sculptors create three-dimensional form: **additive** sculpture (building up, as clay modelers do), **subtractive** sculpture (carving away, as Michelangelo did — he said the statue was already inside the marble), and **relief** (form raised from a flat surface, like the designs on coins). Clay makes all three approaches possible for small hands because of its **plasticity** — its mineral platelets slide past each other and hold whatever shape you leave them in.
 
 ## Vocabulary
 

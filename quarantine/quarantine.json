@@ -3,9 +3,9 @@
   "standard": "planning/lesson-standard.md",
   "policy": "Default state is quarantined. A topic goes live (added to topics.py + docs/initial-data.json, lesson moved back to docs/lessons/knowledge/) only after its lesson is reviewed and meets the standard. Review batch by batch, typically by category.",
   "counts": {
-    "quarantined_knowledge": 302,
-    "resolved_knowledge": 8,
-    "live_knowledge": 20
+    "quarantined_knowledge": 294,
+    "resolved_knowledge": 9,
+    "live_knowledge": 27
   },
   "knowledge": [
     {
@@ -49,52 +49,12 @@
       "reason": "REPLACED (live) by Rhythm and entrainment (1084). Grab-bag title; content refocused on the beat, meter, and neural entrainment."
     },
     {
-      "id": 134,
-      "name": "Drawing, sketching, and scribbling",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
-      "id": 135,
-      "name": "Painting with various materials",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
-      "id": 136,
-      "name": "Sculpture and 3D art with clay/playdough",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
-      "id": 137,
-      "name": "Photography and picture-taking",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
-      "id": 138,
-      "name": "Printmaking and stamping",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
-      "id": 139,
-      "name": "Pottery and clay work",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
       "id": 140,
       "name": "Simple jewelry making",
       "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
-    },
-    {
-      "id": 141,
-      "name": "Art installation and display",
-      "category": "Creative and Expressive - Visual Arts",
-      "status": "quarantined"
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "MERGED into Making bead and pasta necklace patterns (124) — same stringing activity and the sequence/pattern concept is 124's. Two distinct angles worth their own future lessons: adornment as one of the oldest human symbolic behaviors (100,000-year-old shell beads), and bilateral symmetry."
     },
     {
       "id": 142,

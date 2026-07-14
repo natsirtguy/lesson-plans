@@ -25,6 +25,15 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     "Creative and Expressive - Performing Arts": [
         "Rhythm and entrainment"
     ],
+    "Creative and Expressive - Visual Arts": [
+        "Drawing, sketching, and scribbling",
+        "Painting with various materials",
+        "Sculpture and 3D art with clay/playdough",
+        "Photography and picture-taking",
+        "Printmaking and stamping",
+        "Pottery and clay work",
+        "Art installation and display"
+    ],
     "Physical World - Life Sciences": [
         "Seeds and germination",
         "Decomposition and compost"

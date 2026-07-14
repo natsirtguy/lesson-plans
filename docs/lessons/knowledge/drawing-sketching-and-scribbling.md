@@ -2,7 +2,7 @@
 
 ## 🎯 Activity Summary
 
-Drawing, sketching, and scribbling are foundational visual arts experiences that invite young children to make marks on paper, expressing their ideas and feelings through lines, shapes, and colors. Through this activity, children develop fine motor skills, hand-eye coordination, and the freedom to create without pressure for representation or perfection. This is one of the earliest forms of self-expression and communication, building confidence and fostering a lifelong love of creative exploration.
+What actually happens when you draw? Your brain's **motor cortex** sends electrical signals down your arm to the 34 muscles of your hand, and the tool transfers **pigment** to the paper — press hard and more pigment transfers (a thick, dark line), press lightly and less does (**line weight**). This lesson teaches the physical and neurological machinery behind the mark: every scribble is the motor cortex building neural pathways, which is why scribbles become controlled shapes over months of practice. Children experiment with pressure, layering, and different tools while learning the real mechanics of what their hands and brains are doing.
 
 ## Vocabulary
 

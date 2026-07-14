@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Children explore clay as a transformable, tactile material by squeezing, rolling, shaping, and sculpting. This hands-on experience develops fine motor skills while introducing the concept of how materials respond to touch and pressure, connecting them to pottery traditions from around the world while celebrating the artistic process over product.
+Clay is rock at the end of a very long journey — mountains weathered over millions of years into mineral particles so tiny that water lets them slide past each other, giving clay its **plasticity**. And clay can finish the journey back to stone: fired in a **kiln** at over 1,000°C, its minerals fuse permanently into **ceramic** — the transformation behind every pot, brick, tile, and even spacecraft heat shields, and one humans discovered over 20,000 years ago. Children squeeze, roll, and shape real clay while learning this double transformation: rock became clay, and fire turns clay back into stone.
 
 ## Vocabulary
 
