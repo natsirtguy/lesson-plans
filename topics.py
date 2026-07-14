@@ -97,7 +97,6 @@ PHYSICAL_ACTIVITIES = {
         "Stretching and flexibility exercises",
         "Strength activities and resistance play",
         "Endurance and cardiovascular games",
-        "Fine motor skill development",
         "Coordination and agility training",
         "Dance and rhythmic movement",
         "Yoga and mindful movement",

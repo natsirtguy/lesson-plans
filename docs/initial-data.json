@@ -334,11 +334,6 @@
         "category": "Physical and Movement - Individual Physical"
       },
       {
-        "id": 356,
-        "name": "Fine motor skill development",
-        "category": "Physical and Movement - Individual Physical"
-      },
-      {
         "id": 357,
         "name": "Coordination and agility training",
         "category": "Physical and Movement - Individual Physical"
@@ -541,11 +536,6 @@
       {
         "id": 397,
         "name": "Brazilian Jiu-Jitsu and ground fighting",
-        "category": "Physical and Movement - Combat Sports"
-      },
-      {
-        "id": 398,
-        "name": "Boxing and punching sports",
         "category": "Physical and Movement - Combat Sports"
       },
       {
@@ -3302,7 +3292,6 @@
       421,
       345,
       333,
-      356,
       334,
       416,
       354,
@@ -3356,7 +3345,6 @@
       394,
       376,
       415,
-      398,
       364,
       397,
       335,
