@@ -4,7 +4,7 @@
   "policy": "Default state is quarantined. A topic goes live (added to topics.py + docs/initial-data.json, lesson moved back to docs/lessons/knowledge/) only after its lesson is reviewed and meets the standard. Review batch by batch, typically by category.",
   "counts": {
     "quarantined_knowledge": 320,
-    "live_knowledge": 4
+    "live_knowledge": 6
   },
   "knowledge": [
     {
@@ -211,8 +211,9 @@
       "category": "Creative and Expressive - Literary Arts",
       "status": "quarantined",
       "flagged": "2026-07-14",
-      "reason": "unfocused. Re-add as a linguistics lesson on the phoneme and how sound inventories differ across languages.",
-      "user_flagged": true
+      "reason": "REPLACED (live) by Phonemes and the sounds of language (1079). unfocused. Re-add as a linguistics lesson on the phoneme and how sound inventories differ across languages.",
+      "user_flagged": true,
+      "resolved": true
     },
     {
       "id": 153,
@@ -400,8 +401,9 @@
       "category": "Social and Cultural - Interpersonal",
       "status": "quarantined",
       "flagged": "2026-07-14",
-      "reason": "not a concept; learned automatically. Re-add as an anthropology/pragmatics lesson on how conversation norms differ across cultures.",
-      "user_flagged": true
+      "reason": "REPLACED (live) by How conversation differs across cultures (1080). not a concept; learned automatically. Re-add as an anthropology/pragmatics lesson on how conversation norms differ across cultures.",
+      "user_flagged": true,
+      "resolved": true
     },
     {
       "id": 184,

@@ -12,6 +12,12 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     ],
     "Learning and Growth - Exploration": [
         "Sensory exploration activities"
+    ],
+    "Human Experience - Linguistic": [
+        "Phonemes and the sounds of language"
+    ],
+    "Human Experience - Cultural": [
+        "How conversation differs across cultures"
     ]
 }
 

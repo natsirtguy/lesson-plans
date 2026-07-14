@@ -20,6 +20,16 @@
         "id": 1078,
         "name": "Counting, cardinality, and infinity",
         "category": "Systems and Activities - Mathematical"
+      },
+      {
+        "id": 1079,
+        "name": "Phonemes and the sounds of language",
+        "category": "Human Experience - Linguistic"
+      },
+      {
+        "id": 1080,
+        "name": "How conversation differs across cultures",
+        "category": "Human Experience - Cultural"
       }
     ],
     "physical": [
@@ -3065,6 +3075,8 @@
   },
   "queues": {
     "knowledge": [
+      1079,
+      1080,
       1076,
       1077,
       1078,
