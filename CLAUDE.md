@@ -67,6 +67,25 @@ Lesson plans should be fun and hands-on, but **never dumbed down**. Young childr
 - Activities should be genuinely engaging, not condescending. The goal is wonder and discovery, not simplified busywork dressed up in a topic's theme.
 - Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
 
+### Lesson quality & the quarantine-first policy
+
+**The default state for every knowledge topic is *quarantined*.** A topic is live only
+after its lesson has been reviewed against `planning/lesson-standard.md` and improved if
+needed — presence on the site is a stamp of approval, not the default. Do **not** re-add
+quarantined topics wholesale or "restore" them to make counts match; promote them one
+reviewed batch at a time.
+
+- **Live/approved** knowledge topics: in `topics.py` + `docs/initial-data.json` with the
+  lesson in `docs/lessons/knowledge/`.
+- **Quarantined** topics: listed in `quarantine/quarantine.json` (the review backlog), with
+  their lesson files preserved under `quarantine/lessons/knowledge/` (not served).
+- Full pre-quarantine snapshot: `backups/initial-data.2026-07-14.json`.
+
+The bar and the batch-promotion loop are in `planning/lesson-standard.md`. In short: one
+focused concept per lesson; real knowledge over auto-acquired "activities"; genuine depth
+(name the real idea); and the hands-on activity must directly embody the concept. Scope is
+the knowledge queue only — physical activities and songs are untouched.
+
 ## Implementation Considerations
 
 ### Technology Stack
