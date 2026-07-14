@@ -690,6 +690,7 @@
                     if (savedData) {
                         this.data = JSON.parse(savedData);
                         console.log('✅ Loaded data from localStorage');
+                        await this.syncMasterLists();
                     } else {
                         // Load initial data from JSON file
                         try {
@@ -717,6 +718,50 @@
 
                 saveData() {
                     localStorage.setItem('lessonPlanData', JSON.stringify(this.data));
+                },
+
+                async syncMasterLists() {
+                    // Reconcile saved state with initial-data.json so topic changes
+                    // (promotions from quarantine, removals, renames) reach devices
+                    // that already have localStorage state. The file's masterLists
+                    // are the source of truth; queue order and history are preserved.
+                    try {
+                        const response = await fetch('initial-data.json?sync=' + Date.now());
+                        if (!response.ok) return;
+                        const fresh = await response.json();
+                        let changed = false;
+
+                        for (const queueName of Object.keys(fresh.masterLists)) {
+                            const freshList = fresh.masterLists[queueName];
+                            const freshIds = new Set(freshList.map(t => t.id));
+                            const savedList = this.data.masterLists[queueName] || [];
+                            const savedIds = new Set(savedList.map(t => t.id));
+
+                            if (JSON.stringify(savedList) !== JSON.stringify(freshList)) {
+                                this.data.masterLists[queueName] = freshList;
+                                changed = true;
+                            }
+
+                            // Drop removed topics from the queue; append topics this
+                            // device has never seen. Topics already known but not
+                            // queued (completed/skipped) return on the next refill.
+                            const queue = this.data.queues[queueName] || [];
+                            const kept = queue.filter(id => freshIds.has(id));
+                            const added = freshList.map(t => t.id)
+                                .filter(id => !savedIds.has(id) && !kept.includes(id));
+                            if (kept.length !== queue.length || added.length > 0) {
+                                this.data.queues[queueName] = kept.concat(added);
+                                changed = true;
+                            }
+                        }
+
+                        if (changed) {
+                            this.saveData();
+                            console.log('✅ Synced topic lists with initial-data.json');
+                        }
+                    } catch (error) {
+                        console.warn('⚠️ Topic list sync skipped (offline?):', error);
+                    }
                 },
 
                 getCurrentTopic(queueName) {
