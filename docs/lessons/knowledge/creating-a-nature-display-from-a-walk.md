@@ -2,7 +2,7 @@
 
 ## 🎯 Activity Summary
 
-Children collect natural items during an outdoor walk and arrange them into a creative display, developing observation skills and fine motor control. This activity deepens appreciation for nature's textures, colors, and diversity while encouraging children to notice and organize details from their environment.
+Every object you find on a walk has its history written into its physical form — a smooth stone was tumbled by water for centuries (erosion), a fallen leaf was deliberately cut off by its tree (abscission), a leaf's veins are its plumbing. This lesson teaches children to read those stories the way a field naturalist does: collect **specimens**, observe each one closely, and arrange them into a labeled display — the exact practice (collect, label, compare) that Darwin's generation used to turn nature into the sciences of biology and geology.
 
 ## Vocabulary
 

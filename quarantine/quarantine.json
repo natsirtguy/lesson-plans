@@ -3,99 +3,50 @@
   "standard": "planning/lesson-standard.md",
   "policy": "Default state is quarantined. A topic goes live (added to topics.py + docs/initial-data.json, lesson moved back to docs/lessons/knowledge/) only after its lesson is reviewed and meets the standard. Review batch by batch, typically by category.",
   "counts": {
-    "quarantined_knowledge": 320,
-    "live_knowledge": 6
+    "quarantined_knowledge": 302,
+    "resolved_knowledge": 8,
+    "live_knowledge": 20
   },
   "knowledge": [
     {
       "id": 119,
       "name": "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)",
       "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 120,
-      "name": "Bug hunting and magnifying glass observation",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 121,
-      "name": "Learning to tie knots and bows",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 122,
-      "name": "Making a picture diary or journal",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 123,
-      "name": "Sink or float experiments",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 124,
-      "name": "Making bead and pasta necklace patterns",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Mirror neurons and learning by watching (1081). Grab-bag title; the lesson content was already a focused mirror-neurons/observational-learning lesson, promoted under the concept name."
     },
     {
       "id": 125,
       "name": "Construction and deconstruction (physical building, creative making, social structures, learning concepts)",
       "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "MERGED into Building a blanket fort (133), which teaches the same structural-forces concept (load-bearing, tension, compression, center of gravity) with a stronger activity. Stays retired as duplicative."
     },
     {
       "id": 126,
       "name": "Caregiving and nurturing (physical care, creative projects, social relationships, learning mentorship)",
       "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 127,
-      "name": "Sorting a treasure box of buttons, shells, and stones",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Attachment and the biology of caregiving (1082). Grab-bag title; content refocused on attachment theory, oxytocin, and responsive caregiving."
     },
     {
       "id": 128,
       "name": "Role-playing and simulation (physical activities, creative performance, social situations, learning scenarios)",
       "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 129,
-      "name": "Show and tell presentations",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 130,
-      "name": "Creating a nature display from a walk",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Pretend play and symbolic thinking (1083). Grab-bag title; content refocused on symbolic thinking, simulation, and theory of mind."
     },
     {
       "id": 131,
       "name": "Rhythm and timing (physical coordination, creative music, social synchronization, learning sequences)",
       "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 132,
-      "name": "Painting a group mural together",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
-    },
-    {
-      "id": 133,
-      "name": "Building a blanket fort",
-      "category": "Cross-Domain Foundational Activities",
-      "status": "quarantined"
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Rhythm and entrainment (1084). Grab-bag title; content refocused on the beat, meter, and neural entrainment."
     },
     {
       "id": 134,

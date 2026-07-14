@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Children will explore the outdoor world as nature detectives, discovering insects and small creatures while developing observational skills and scientific curiosity. Using magnifying glasses, they'll examine bugs up close, learning to move slowly and quietly through nature while practicing focus, patience, and wonder-filled discovery.
+The animals children call "bugs" are **arthropods** — the most successful body plan on Earth, with more species than all other animals combined. Instead of bones inside, they wear their skeleton on the *outside* (an exoskeleton of chitin, like armor), and many see the world through compound eyes built from thousands of tiny lenses. With a magnifying glass, children hunt for real arthropods and look for the body plan directly: the armor plates, the jointed legs ("arthropod" means *jointed foot*), the segmented body — turning a backyard bug hunt into a first lesson in comparative anatomy.
 
 ## Vocabulary
 

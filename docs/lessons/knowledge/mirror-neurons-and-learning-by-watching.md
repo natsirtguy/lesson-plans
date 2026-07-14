@@ -1,8 +1,8 @@
-# KNOWLEDGE, SKILLS & CULTURE: Imitation and Modeling
+# KNOWLEDGE, SKILLS & CULTURE: Mirror Neurons and Learning by Watching
 
 ## Activity Summary
 
-Children learn fundamental skills through watching and copying the actions, expressions, and behaviors of others. Imitation isn't just fun — it's the primary mechanism by which humans transmit culture, skills, and knowledge across generations. The brain contains specialized **mirror neurons** that fire both when you perform an action *and* when you simply watch someone else perform it, making observation itself a form of practice. This lesson explores imitation as a powerful cognitive and neurological learning tool, encouraging children to mirror movements, facial expressions, sounds, and practical skills while building motor memory, social cognition, and cultural learning.
+Your brain contains specialized **mirror neurons** that fire both when you perform an action *and* when you simply watch someone else perform it — watching is itself a form of practice. This is the counterintuitive concept at the heart of this lesson: imitation isn't just fun, it's the primary mechanism by which humans transmit culture, skills, and knowledge across generations, and it works because the watching brain rehearses what it sees. Through mirroring games — copying movements, facial expressions, sounds, and practical skills — children experience their own mirror-neuron system in action while building motor memory and social cognition.
 
 ## Vocabulary
 

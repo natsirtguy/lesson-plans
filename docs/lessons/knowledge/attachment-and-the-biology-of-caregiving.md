@@ -1,8 +1,8 @@
-# 📚 KNOWLEDGE, SKILLS & CULTURE: Caregiving and Nurturing
+# 📚 KNOWLEDGE, SKILLS & CULTURE: Attachment and the Biology of Caregiving
 
 ## 🎯 Activity Summary
 
-Caregiving and nurturing is a foundational experience where children learn to express care, empathy, and responsibility through caring for others—whether people, animals, plants, or objects. Children engage in physical care routines (feeding, comforting, bathing), creative projects for loved ones (art gifts, memory books), building social relationships through helping, and mentoring younger children or peers. This activity develops emotional intelligence, teaches prosocial behaviors, builds confidence in independence, and fosters a sense of purpose and contribution to their community.
+Caring for someone isn't just a nice feeling — it's biology. This lesson teaches the real science of the caregiving bond: **attachment**, the deep bond John Bowlby showed is as fundamental a need as food and water, and **oxytocin**, the hormone both giver and receiver release during caring touch, eye contact, and comforting. By practicing responsive caregiving on dolls, plants, or a younger sibling — noticing what the other needs and responding to their specific signals — children enact the exact behaviors that build attachment, and learn that empathy has a mechanism in the brain.
 
 ## Vocabulary
 

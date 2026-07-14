@@ -2,7 +2,7 @@
 
 ## Activity Summary
 
-Children work collaboratively with peers to create a large-scale painting on a shared surface, learning about teamwork, color mixing, and creative expression. This activity teaches social-emotional skills like sharing, taking turns, and celebrating group accomplishments while developing fine motor control and artistic confidence.
+Why does mixing all your paints make black, when mixing all colors of *light* makes white? This lesson teaches the real science of **pigment** and **subtractive color mixing**: every pigment works by absorbing some wavelengths of light and reflecting the rest, so each color you add to a mixture subtracts more light. A big collaborative mural is the perfect laboratory — as children's colors meet and blend on a shared surface, every accidental overlap becomes a mixing experiment, connecting their paint to 17,000 years of humans making pigments from rocks, plants, and insects.
 
 ## Vocabulary
 
@@ -59,7 +59,7 @@ Big mural made together, filled with joy and pride
 
 ### Activity Overview
 
-Children will work together on a large mural painting, taking turns adding colors and brushstrokes to a shared canvas or paper. They'll experience the joy of creating something bigger than themselves, learn to negotiate space and materials with peers, and discover how colors blend together when working collaboratively. This is an excellent opportunity for social-emotional development through creative expression.
+Children will work together on a large mural painting, taking turns adding colors and brushstrokes to a shared canvas or paper. The shared surface guarantees colors will meet and blend — and each blend is a live demonstration of subtractive color mixing, narrated as it happens ("your yellow and Noah's blue just made green!"). Along the way children experience creating something bigger than themselves and learn to negotiate space and materials with peers.
 
 **Activity Type**: Collaborative creative exploration with sensory paint play
 

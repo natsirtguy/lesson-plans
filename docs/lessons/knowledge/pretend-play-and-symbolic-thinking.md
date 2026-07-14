@@ -1,8 +1,8 @@
-# KNOWLEDGE, SKILLS & CULTURE: Role-Playing and Simulation
+# KNOWLEDGE, SKILLS & CULTURE: Pretend Play and Symbolic Thinking
 
 ## Activity Summary
 
-Children engage in imaginative pretend play, taking on different roles and acting out scenarios that help them understand the world around them. Through role-playing, children develop social skills, practice new behaviors, explore different perspectives, and learn how to navigate real-world situations in a safe, playful environment.
+When a child holds a banana to their ear and "calls Grandma," their brain is doing something remarkable: holding two ideas at once — this is a banana AND it is a phone. That is **symbolic thinking**, the cognitive leap underneath all language, math, and art, and pretend play is where young brains build it. This lesson makes the concept explicit: children take on roles and act out scenarios (a **simulation** — the same strategy pilots and surgeons use to practice without risk), exercising theory of mind by imagining how their character thinks and feels.
 
 ## Vocabulary
 

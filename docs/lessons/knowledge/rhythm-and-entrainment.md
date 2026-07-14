@@ -1,8 +1,8 @@
-# KNOWLEDGE, SKILLS & CULTURE: Rhythm and Timing
+# KNOWLEDGE, SKILLS & CULTURE: Rhythm and Entrainment
 
 ## Activity Summary
 
-Children explore the foundational concept of rhythm—the organized pattern of beats—through movement, music, and synchronized play. This lesson develops physical coordination, creative expression, and the ability to anticipate and match patterns with others, building essential skills for music, dance, and social interaction.
+Why does your foot start tapping to music without you deciding to tap it? That's **entrainment** — the brain has circuits that detect a steady beat and lock the body's movements to it automatically, a phenomenon humans share with surprisingly few other animals (parrots can do it; dogs can't). This lesson explores rhythm — the organized pattern of beats — through clapping, drumming, and synchronized movement games, letting children catch their own brains entraining while learning real music vocabulary: tempo, meter, synchronization.
 
 ## Vocabulary
 

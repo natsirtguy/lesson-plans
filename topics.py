@@ -3,6 +3,28 @@
 # a topic appears here only after its lesson has been reviewed and meets planning/lesson-standard.md.
 # Re-add topics batch by batch as they are improved.
 KNOWLEDGE_AND_CULTURE_CATEGORIES = {
+    "Cross-Domain Foundational Activities": [
+        "Bug hunting and magnifying glass observation",
+        "Learning to tie knots and bows",
+        "Making a picture diary or journal",
+        "Sink or float experiments",
+        "Making bead and pasta necklace patterns",
+        "Sorting a treasure box of buttons, shells, and stones",
+        "Show and tell presentations",
+        "Creating a nature display from a walk",
+        "Painting a group mural together",
+        "Building a blanket fort"
+    ],
+    "Cross-Domain Foundational Concepts": [
+        "Mirror neurons and learning by watching",
+        "Pretend play and symbolic thinking"
+    ],
+    "Human Experience - Social": [
+        "Attachment and the biology of caregiving"
+    ],
+    "Creative and Expressive - Performing Arts": [
+        "Rhythm and entrainment"
+    ],
     "Physical World - Life Sciences": [
         "Seeds and germination",
         "Decomposition and compost"

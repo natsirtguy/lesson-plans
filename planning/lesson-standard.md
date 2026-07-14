@@ -63,28 +63,32 @@ Work batch by batch, usually one category at a time (see `quarantine/quarantine.
 5. Remove it from `quarantine/quarantine.json`.
 6. Run `python3 verify-lessons.py`; commit the batch.
 
-## Status (2026-07-14)
+## Status (2026-07-14, batch 2)
 
 **Scope:** the knowledge queue only. Physical activities and songs are untouched (their
 content is inherently activity/performance and outside this quality bar for now).
 
-**Live knowledge lessons (4):**
-- Sensory exploration activities (247) — refocused onto sensory-system idiosyncrasies
-  (adaptation, two-point discrimination, the three-bowls illusion).
-- Seeds and germination (1076) — split from "Community garden"; open-a-seed activity.
-- Decomposition and compost (1077) — split from "Community garden"; rot-jar activity.
-- Counting, cardinality, and infinity (1078) — replaces the first slice of "Math games";
-  one-to-one correspondence → a taste of Cantor's infinities.
+**Live knowledge lessons: 20** — the authoritative list is `topics.py` /
+`docs/initial-data.json` (masterLists.knowledge). Highlights of how they got there:
+- Original 6: sensory-system idiosyncrasies (247), seeds/germination + decomposition
+  (1076/1077, split from "Community garden"), counting/cardinality/infinity (1078),
+  phonemes (1079, replaced 152), conversation across cultures (1080, replaced 183).
+- Batch 2 (Cross-Domain Foundational Activities, 15 reviewed): 10 promoted in place —
+  most had already been refocused on a real concept during the rigor audit (arthropod
+  body plan, knot friction/topology, autobiographical memory, buoyancy, patterns as
+  proto-algebra, taxonomy, perspective-taking, the naturalist's specimen practice,
+  subtractive color mixing, structural forces). 4 grab-bag-titled topics were replaced
+  by concept-named ones: mirror neurons (1081←119), attachment biology (1082←126),
+  symbolic thinking (1083←128), entrainment (1084←131). 1 stayed retired as duplicative:
+  "Construction and deconstruction" (125, merged into blanket fort 133).
 
-**Quarantined:** 320 knowledge topics await review (`quarantine/quarantine.json`).
+**Quarantined:** 302 knowledge topics await review (`quarantine/quarantine.json`;
+`resolved: true` entries are review decisions already made — replaced or merged).
 
-### Pending replacements for the originally-flagged topics
-- **152 Reading and book exploration** → write a Linguistics lesson on *the phoneme* and
-  how sound inventories differ across languages (minimal pairs; sounds English lacks).
-- **183 Conversation and dialogue practice** → write an Anthropology/pragmatics lesson on
-  *how conversation norms differ across cultures* (turn-taking gaps, greetings, personal
-  space, high/low-context).
+### Pending follow-ups
 - **228 Workshop and lesson participation** → optional: reframe the good *social-learning /
   collective intelligence* content as a pure knowledge topic.
-- **239 Math games** → further math splits beyond 1078 (e.g. shapes/symmetry, measurement,
-  patterns as proto-algebra).
+- **239 Math games** → further math splits beyond 1078 and 124 (patterns as proto-algebra
+  is now live via the bead-necklace lesson; still open: shapes/symmetry, measurement).
+- **Abscission / why leaves change color** → currently a supporting idea inside 130
+  (nature display); wonderful enough to deserve its own focused lesson someday.

@@ -30,6 +30,76 @@
         "id": 1080,
         "name": "How conversation differs across cultures",
         "category": "Human Experience - Cultural"
+      },
+      {
+        "id": 120,
+        "name": "Bug hunting and magnifying glass observation",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 121,
+        "name": "Learning to tie knots and bows",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 122,
+        "name": "Making a picture diary or journal",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 123,
+        "name": "Sink or float experiments",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 124,
+        "name": "Making bead and pasta necklace patterns",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 127,
+        "name": "Sorting a treasure box of buttons, shells, and stones",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 129,
+        "name": "Show and tell presentations",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 130,
+        "name": "Creating a nature display from a walk",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 132,
+        "name": "Painting a group mural together",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 133,
+        "name": "Building a blanket fort",
+        "category": "Cross-Domain Foundational Activities"
+      },
+      {
+        "id": 1081,
+        "name": "Mirror neurons and learning by watching",
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 1082,
+        "name": "Attachment and the biology of caregiving",
+        "category": "Human Experience - Social"
+      },
+      {
+        "id": 1083,
+        "name": "Pretend play and symbolic thinking",
+        "category": "Cross-Domain Foundational Concepts"
+      },
+      {
+        "id": 1084,
+        "name": "Rhythm and entrainment",
+        "category": "Creative and Expressive - Performing Arts"
       }
     ],
     "physical": [
@@ -3080,7 +3150,21 @@
       1076,
       1077,
       1078,
-      247
+      247,
+      120,
+      121,
+      122,
+      123,
+      124,
+      127,
+      129,
+      130,
+      132,
+      133,
+      1081,
+      1082,
+      1083,
+      1084
     ],
     "songs": [
       1001,
