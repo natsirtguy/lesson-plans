@@ -299,6 +299,22 @@
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto px-4 py-6 pb-20">
 
+        <!-- Tab Navigation -->
+        <div x-show="currentView !== 'lesson'" class="mb-6">
+            <div class="flex bg-gray-100 dark:bg-gray-800 rounded-xl p-1 gap-1">
+                <button @click="switchTab('queues')"
+                        :class="currentView === 'queues' ? 'bg-white dark:bg-gray-700 shadow text-indigo-600 dark:text-indigo-300' : 'text-gray-500 dark:text-gray-400'"
+                        class="flex-1 py-2.5 px-3 rounded-lg font-medium text-sm btn-touch transition-colors">
+                    🎯 Daily
+                </button>
+                <button @click="switchTab('weekly')"
+                        :class="currentView === 'weekly' ? 'bg-white dark:bg-gray-700 shadow text-indigo-600 dark:text-indigo-300' : 'text-gray-500 dark:text-gray-400'"
+                        class="flex-1 py-2.5 px-3 rounded-lg font-medium text-sm btn-touch transition-colors">
+                    🗓️ Weekly Plan
+                </button>
+            </div>
+        </div>
+
         <!-- Lesson Plan View -->
         <div x-show="currentView === 'lesson'" x-transition style="display: none;"
              @keydown.left.window="if(currentView === 'lesson') prevCard()"
@@ -382,22 +398,28 @@
 
                 <!-- Action Buttons -->
                 <div x-show="!lessonLoading" class="mt-6 space-y-3">
-                    <!-- Mark Complete Button -->
-                    <button @click="markTopicComplete()"
-                            class="w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 active:bg-green-800 btn-touch font-medium">
-                        ✓ Mark Complete & Return
-                    </button>
+                    <!-- Queue actions (only when opened from the Daily queue) -->
+                    <template x-if="lessonReturnView === 'queues'">
+                        <div class="space-y-3">
+                            <!-- Mark Complete Button -->
+                            <button @click="markTopicComplete()"
+                                    class="w-full px-4 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 active:bg-green-800 btn-touch font-medium">
+                                ✓ Mark Complete & Return
+                            </button>
 
-                    <!-- Skip to End Button -->
-                    <button @click="skipTopicFromLesson()"
-                            class="w-full px-4 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 active:bg-yellow-700 btn-touch font-medium">
-                        ⏭️ Skip to End of Queue
-                    </button>
+                            <!-- Skip to End Button -->
+                            <button @click="skipTopicFromLesson()"
+                                    class="w-full px-4 py-3 bg-yellow-500 text-white rounded-lg hover:bg-yellow-600 active:bg-yellow-700 btn-touch font-medium">
+                                ⏭️ Skip to End of Queue
+                            </button>
+                        </div>
+                    </template>
 
                     <!-- Back Button (no queue modification) -->
                     <button @click="closeLessonPlan()"
                             class="w-full px-4 py-3 bg-gray-500 text-white rounded-lg hover:bg-gray-600 active:bg-gray-700 btn-touch font-medium">
-                        ← Back to Queues (Don't Change Queue)
+                        <span x-show="lessonReturnView === 'weekly'">← Back to Weekly Plan</span>
+                        <span x-show="lessonReturnView !== 'weekly'">← Back to Queues (Don't Change Queue)</span>
                     </button>
                 </div>
             </div>
@@ -510,6 +532,133 @@
         </div>
         <!-- End Queue Selection View -->
 
+        <!-- Weekly Plan View -->
+        <div x-show="currentView === 'weekly'" x-transition style="display: none;">
+
+            <!-- Empty state (no plan yet) -->
+            <template x-if="!data.weeklyPlan">
+                <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
+                    <div class="text-5xl mb-3">🗓️</div>
+                    <h2 class="text-xl font-bold mb-2">Plan your week</h2>
+                    <p class="text-gray-500 dark:text-gray-400 mb-6 max-w-md mx-auto">
+                        Autogenerate a full week — one knowledge lesson, one song, and one
+                        physical activity for each day — pulled from the front of your queues.
+                        Add prep notes and see everything you'll need to get ready ahead of time.
+                    </p>
+                    <button @click="generateWeek()"
+                            class="px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 active:bg-indigo-800 btn-touch font-medium">
+                        ✨ Generate Week
+                    </button>
+                </div>
+            </template>
+
+            <!-- Generated plan -->
+            <template x-if="data.weeklyPlan">
+                <div>
+                    <!-- Header / controls -->
+                    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-5 mb-5">
+                        <h2 class="text-xl font-bold">Week of <span x-text="formatDisplayDate(data.weeklyPlan.startDate)"></span></h2>
+                        <p class="text-sm text-gray-500 dark:text-gray-400 mt-1">
+                            <span x-text="weekDoneCount()"></span> of <span x-text="data.weeklyPlan.days.length"></span> days done
+                        </p>
+                        <div class="grid grid-cols-2 gap-2 mt-4">
+                            <button @click="regenerateWeek()"
+                                    class="py-2.5 px-3 bg-indigo-100 dark:bg-indigo-900/40 text-indigo-700 dark:text-indigo-300 rounded-lg hover:bg-indigo-200 dark:hover:bg-indigo-900 btn-touch text-sm font-medium">
+                                🔄 Re-generate
+                            </button>
+                            <button @click="clearWeek()"
+                                    class="py-2.5 px-3 bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-300 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 btn-touch text-sm font-medium">
+                                🗑️ Clear
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Get-ready list (aggregated materials for the week) -->
+                    <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-5 mb-5">
+                        <button @click="showPrepSummary = !showPrepSummary"
+                                class="w-full flex items-center justify-between btn-touch">
+                            <span class="font-bold">🛒 Get-ready list
+                                <span class="text-sm font-normal text-gray-400 dark:text-gray-500"
+                                      x-text="'(' + weekMaterials().length + ' items)'"></span>
+                            </span>
+                            <svg class="w-5 h-5 transition-transform" :class="showPrepSummary ? 'rotate-180' : ''"
+                                 fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </button>
+                        <div x-show="showPrepSummary" x-transition class="mt-3">
+                            <template x-if="materialsLoading">
+                                <p class="text-sm text-gray-400 dark:text-gray-500">Loading materials…</p>
+                            </template>
+                            <template x-if="!materialsLoading && weekMaterials().length === 0">
+                                <p class="text-sm text-gray-400 dark:text-gray-500">No materials listed for this week's topics.</p>
+                            </template>
+                            <ul class="space-y-1">
+                                <template x-for="(m, mi) in weekMaterials()" :key="mi">
+                                    <li class="text-sm text-gray-700 dark:text-gray-300 flex items-start gap-2">
+                                        <span class="text-indigo-400 dark:text-indigo-500 mt-0.5">•</span>
+                                        <span x-text="m"></span>
+                                    </li>
+                                </template>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Day cards -->
+                    <div class="space-y-4">
+                        <template x-for="(day, i) in data.weeklyPlan.days" :key="i">
+                            <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-5"
+                                 :class="day.done ? 'opacity-60' : ''">
+                                <div class="flex items-center justify-between mb-3">
+                                    <h3 class="font-bold text-lg" x-text="formatDisplayDate(day.date)"></h3>
+                                    <label class="flex items-center gap-2 cursor-pointer select-none">
+                                        <span class="text-sm text-gray-500 dark:text-gray-400"
+                                              x-text="day.done ? 'Done' : 'Mark done'"></span>
+                                        <input type="checkbox" :checked="day.done" @change="toggleDayDone(i)"
+                                               class="w-5 h-5 rounded accent-green-600">
+                                    </label>
+                                </div>
+
+                                <div class="space-y-2">
+                                    <!-- Knowledge -->
+                                    <button @click="openWeeklyLesson('knowledge', day.knowledgeId)"
+                                            :class="day.knowledgeId == null ? 'opacity-50 pointer-events-none' : ''"
+                                            class="w-full text-left flex items-center gap-3 p-3 rounded-lg bg-blue-50 dark:bg-blue-900/20 hover:bg-blue-100 dark:hover:bg-blue-900/40 active:bg-blue-200 btn-touch">
+                                        <span class="text-xl flex-shrink-0">🧠</span>
+                                        <span class="flex-1 min-w-0 font-medium truncate" x-text="topicName('knowledge', day.knowledgeId)"></span>
+                                    </button>
+                                    <!-- Song -->
+                                    <button @click="openWeeklyLesson('songs', day.songId)"
+                                            :class="day.songId == null ? 'opacity-50 pointer-events-none' : ''"
+                                            class="w-full text-left flex items-center gap-3 p-3 rounded-lg bg-orange-50 dark:bg-orange-900/20 hover:bg-orange-100 dark:hover:bg-orange-900/40 active:bg-orange-200 btn-touch">
+                                        <span class="text-xl flex-shrink-0">🎵</span>
+                                        <span class="flex-1 min-w-0 font-medium truncate" x-text="topicName('songs', day.songId)"></span>
+                                    </button>
+                                    <!-- Physical -->
+                                    <button @click="openWeeklyLesson('physical', day.physicalId)"
+                                            :class="day.physicalId == null ? 'opacity-50 pointer-events-none' : ''"
+                                            class="w-full text-left flex items-center gap-3 p-3 rounded-lg bg-green-50 dark:bg-green-900/20 hover:bg-green-100 dark:hover:bg-green-900/40 active:bg-green-200 btn-touch">
+                                        <span class="text-xl flex-shrink-0">⚽</span>
+                                        <span class="flex-1 min-w-0 font-medium truncate" x-text="topicName('physical', day.physicalId)"></span>
+                                    </button>
+                                </div>
+
+                                <!-- Prep notes -->
+                                <div class="mt-3">
+                                    <label class="block text-xs font-medium text-gray-500 dark:text-gray-400 mb-1">📝 Prep notes</label>
+                                    <textarea x-model="day.notes" @change="saveData()" rows="2"
+                                              placeholder="Things to get ready for this day…"
+                                              class="w-full px-3 py-2 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-indigo-500"></textarea>
+                                </div>
+                            </div>
+                        </template>
+                    </div>
+                </div>
+            </template>
+
+        </div>
+        <!-- End Weekly Plan View -->
+
     </main>
 
     <!-- Alpine.js App Logic -->
@@ -522,11 +671,14 @@
                     completed: [],
                     development: [],
                     cycles: { knowledge: 1, physical: 1, songs: 1 },
+                    weeklyPlan: null,
                     version: '1.0'
                 },
                 showMenu: false,
                 completedToday: [],
                 currentView: 'queues',
+                lessonReturnView: 'queues',
+                showPrepSummary: false,
                 lessonCards: [],
                 currentCardIndex: 0,
                 lessonLoading: false,
@@ -628,6 +780,7 @@
 
                 async openSearchResult(result) {
                     this.showSearch = false;
+                    this.lessonReturnView = this.currentView === 'weekly' ? 'weekly' : 'queues';
                     this.currentLessonTopic = { topic: result.topic, queueName: result.queue };
                     await this.showLessonPlan(result.topic.name, result.queue);
                 },
@@ -703,6 +856,9 @@
                             alert('Error loading data. Please refresh the page.');
                         }
                     }
+
+                    // Ensure weeklyPlan key exists for state saved before this feature
+                    if (this.data.weeklyPlan === undefined) this.data.weeklyPlan = null;
 
                     // Calculate completed today
                     const today = new Date().toISOString().split('T')[0];
@@ -786,6 +942,7 @@
                     if (!topic) return;
 
                     // Store topic info for lesson plan view
+                    this.lessonReturnView = 'queues';
                     this.currentLessonTopic = { topic, queueName };
 
                     // Show lesson plan WITHOUT modifying queue
@@ -880,11 +1037,233 @@
                 },
 
                 closeLessonPlan() {
-                    this.currentView = 'queues';
+                    this.currentView = this.lessonReturnView || 'queues';
+                    this.lessonReturnView = 'queues';
                     this.lessonCards = [];
                     this.currentCardIndex = 0;
                     this.lessonError = '';
                     this.currentLessonTopic = null;
+                },
+
+                // ===== Weekly Plan =====
+
+                switchTab(view) {
+                    if (view === 'weekly') this.loadMaterialsIndex();
+                    this.currentView = view;
+                    window.scrollTo(0, 0);
+                },
+
+                // Build a YYYY-MM-DD string from local date parts (avoids UTC shift)
+                localDateStr(d) {
+                    const y = d.getFullYear();
+                    const m = String(d.getMonth() + 1).padStart(2, '0');
+                    const day = String(d.getDate()).padStart(2, '0');
+                    return `${y}-${m}-${day}`;
+                },
+
+                // Monday of next week, relative to today
+                nextWeekMonday() {
+                    const d = new Date();
+                    d.setHours(0, 0, 0, 0);
+                    const daysSinceMonday = (d.getDay() + 6) % 7; // Mon->0 ... Sun->6
+                    const monday = new Date(d);
+                    monday.setDate(d.getDate() - daysSinceMonday + 7);
+                    return monday;
+                },
+
+                formatDisplayDate(isoStr) {
+                    if (!isoStr) return '';
+                    // Parse as local date to keep the weekday correct
+                    const [y, m, day] = isoStr.split('-').map(Number);
+                    const d = new Date(y, m - 1, day);
+                    return d.toLocaleDateString(undefined, { weekday: 'short', month: 'short', day: 'numeric' });
+                },
+
+                topicObj(queueName, id) {
+                    if (id == null) return null;
+                    return this.data.masterLists[queueName].find(t => t.id === id) || null;
+                },
+
+                topicName(queueName, id) {
+                    if (id == null) return '—';
+                    const t = this.topicObj(queueName, id);
+                    return t ? t.name : '(removed)';
+                },
+
+                // Take the next unused topic id off the front of a queue, refilling if
+                // it empties. Skips ids already reserved this generation to avoid
+                // repeating a topic within the same week.
+                reserveNext(queueName, reservedSet) {
+                    const list = this.data.masterLists[queueName];
+                    if (!list || list.length === 0) return null;
+                    let attempts = 0;
+                    const cap = list.length + 1;
+                    while (attempts < cap) {
+                        attempts++;
+                        const queue = this.data.queues[queueName];
+                        if (!queue || queue.length === 0) this.refillQueue(queueName);
+                        if (this.data.queues[queueName].length === 0) return null;
+                        const id = this.data.queues[queueName].shift();
+                        if (this.data.queues[queueName].length === 0) this.refillQueue(queueName);
+                        if (!reservedSet.has(id)) {
+                            reservedSet.add(id);
+                            return id;
+                        }
+                        // Already reserved (a refill re-added it) — drop and keep looking
+                    }
+                    return null;
+                },
+
+                // Return a plan's un-completed items to their queues. position:
+                // 'front' = put back untouched; 'back' = treat like a skip.
+                restorePlanToQueues(plan, position) {
+                    if (!plan) return;
+                    const buckets = { knowledge: [], songs: [], physical: [] };
+                    for (const day of plan.days) {
+                        if (day.done) continue;
+                        if (day.knowledgeId != null) buckets.knowledge.push(day.knowledgeId);
+                        if (day.songId != null) buckets.songs.push(day.songId);
+                        if (day.physicalId != null) buckets.physical.push(day.physicalId);
+                    }
+                    for (const q of ['knowledge', 'songs', 'physical']) {
+                        const valid = buckets[q].filter(id =>
+                            this.data.masterLists[q].some(t => t.id === id) &&
+                            !this.data.queues[q].includes(id));
+                        if (valid.length === 0) continue;
+                        this.data.queues[q] = position === 'back'
+                            ? this.data.queues[q].concat(valid)
+                            : valid.concat(this.data.queues[q]);
+                    }
+                },
+
+                generateWeek() {
+                    this.loadMaterialsIndex();
+
+                    // If a plan already exists, put its un-done items back before redrawing
+                    if (this.data.weeklyPlan) {
+                        this.restorePlanToQueues(this.data.weeklyPlan, 'front');
+                        this.data.weeklyPlan = null;
+                    }
+
+                    const monday = this.nextWeekMonday();
+                    const reserved = { knowledge: new Set(), songs: new Set(), physical: new Set() };
+                    const days = [];
+                    for (let i = 0; i < 7; i++) {
+                        const date = new Date(monday);
+                        date.setDate(monday.getDate() + i);
+                        days.push({
+                            date: this.localDateStr(date),
+                            knowledgeId: this.reserveNext('knowledge', reserved.knowledge),
+                            songId: this.reserveNext('songs', reserved.songs),
+                            physicalId: this.reserveNext('physical', reserved.physical),
+                            notes: '',
+                            done: false
+                        });
+                    }
+
+                    this.data.weeklyPlan = {
+                        generatedDate: this.localDateStr(new Date()),
+                        startDate: this.localDateStr(monday),
+                        days
+                    };
+                    this.saveData();
+                    this.showNotification('🗓️ Weekly plan generated', 'success');
+                },
+
+                regenerateWeek() {
+                    if (!this.data.weeklyPlan) { this.generateWeek(); return; }
+                    if (!confirm('Re-generate the week?\n\nThe current un-done items go back to the end of their queues and a fresh week is drawn. Completed days are kept.')) {
+                        return;
+                    }
+                    this.restorePlanToQueues(this.data.weeklyPlan, 'back');
+                    this.data.weeklyPlan = null;
+                    this.generateWeek();
+                },
+
+                clearWeek() {
+                    if (!this.data.weeklyPlan) return;
+                    if (!confirm('Clear the weekly plan?\n\nUn-completed items are returned to the front of their queues. Completed days stay in your history.')) {
+                        return;
+                    }
+                    this.restorePlanToQueues(this.data.weeklyPlan, 'front');
+                    this.data.weeklyPlan = null;
+                    this.saveData();
+                    this.showNotification('🗑️ Weekly plan cleared', 'info');
+                },
+
+                weekDoneCount() {
+                    if (!this.data.weeklyPlan) return 0;
+                    return this.data.weeklyPlan.days.filter(d => d.done).length;
+                },
+
+                toggleDayDone(i) {
+                    const plan = this.data.weeklyPlan;
+                    if (!plan) return;
+                    const day = plan.days[i];
+                    day.done = !day.done;
+
+                    const items = [
+                        { id: day.knowledgeId, queue: 'knowledge' },
+                        { id: day.songId, queue: 'songs' },
+                        { id: day.physicalId, queue: 'physical' }
+                    ];
+
+                    if (day.done) {
+                        // Log each item to completion history under the planned date
+                        for (const it of items) {
+                            if (it.id == null) continue;
+                            const topic = this.topicObj(it.queue, it.id);
+                            if (!topic) continue;
+                            const already = this.data.completed.some(c =>
+                                c._weekly && c.date === day.date && c.queue === it.queue && c.topicId === it.id);
+                            if (already) continue;
+                            this.data.completed.push({
+                                topicId: it.id,
+                                queue: it.queue,
+                                date: day.date,
+                                topicName: topic.name,
+                                _weekly: true
+                            });
+                        }
+                        this.showNotification('✓ Day marked done', 'success');
+                    } else {
+                        // Un-done: remove only the entries this weekly day added
+                        const ids = items.map(it => it.id);
+                        this.data.completed = this.data.completed.filter(c =>
+                            !(c._weekly && c.date === day.date && ids.includes(c.topicId)));
+                    }
+
+                    this.saveData();
+                    this.updateCompletedToday();
+                },
+
+                async openWeeklyLesson(queueName, id) {
+                    const topic = this.topicObj(queueName, id);
+                    if (!topic) return;
+                    this.lessonReturnView = 'weekly';
+                    this.currentLessonTopic = { topic, queueName };
+                    await this.showLessonPlan(topic.name, queueName);
+                },
+
+                dayMaterials(day) {
+                    if (!this.materialsIndex) return [];
+                    const ids = [day.knowledgeId, day.songId, day.physicalId].filter(x => x != null);
+                    const out = [];
+                    for (const id of ids) {
+                        const raw = this.materialsIndex[String(id)];
+                        if (!raw) continue;
+                        raw.split('|').map(s => s.trim()).filter(Boolean).forEach(m => out.push(m));
+                    }
+                    return out;
+                },
+
+                weekMaterials() {
+                    if (!this.data.weeklyPlan) return [];
+                    const set = new Set();
+                    for (const day of this.data.weeklyPlan.days) {
+                        this.dayMaterials(day).forEach(m => set.add(m));
+                    }
+                    return Array.from(set).sort((a, b) => a.localeCompare(b));
                 },
 
                 handleTouchStart(e) {
