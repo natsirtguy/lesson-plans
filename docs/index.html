@@ -132,6 +132,91 @@
             border-left-color: #4b5563;
             color: #9ca3af;
         }
+
+        /* ===== Print / PDF export ===== */
+        /* The print area is hidden on screen and only rendered when printing. */
+        .print-area {
+            display: none;
+        }
+
+        @media print {
+            /* Hide the whole app, show only the printable lesson */
+            body * {
+                visibility: hidden;
+            }
+            .print-area,
+            .print-area * {
+                visibility: visible;
+            }
+            .print-area {
+                display: block;
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                /* Always print on a clean white page, even in dark mode */
+                color: #111827 !important;
+                background: #ffffff !important;
+            }
+
+            /* Reset margins so the page uses printer margins */
+            @page {
+                margin: 1.5cm;
+            }
+
+            /* Print header */
+            .print-header {
+                border-bottom: 2px solid #4F46E5;
+                padding-bottom: 0.5rem;
+                margin-bottom: 1.25rem;
+            }
+            .print-header .print-title {
+                font-size: 1.6rem;
+                font-weight: 700;
+                color: #111827 !important;
+                margin: 0 0 0.25rem 0;
+            }
+            .print-header .print-meta {
+                font-size: 0.8rem;
+                color: #4b5563 !important;
+            }
+            .print-header .print-brand {
+                font-size: 0.75rem;
+                color: #6b7280 !important;
+                float: right;
+            }
+
+            /* Force lesson content to readable print colors */
+            .print-area .lesson-content,
+            .print-area .lesson-content h1,
+            .print-area .lesson-content h2,
+            .print-area .lesson-content h3,
+            .print-area .lesson-content p,
+            .print-area .lesson-content li,
+            .print-area .lesson-content strong {
+                color: #111827 !important;
+            }
+            .print-area .lesson-content blockquote {
+                color: #374151 !important;
+                border-left-color: #9ca3af !important;
+            }
+            .print-area .lesson-content code {
+                background-color: #f3f4f6 !important;
+                color: #111827 !important;
+            }
+            /* Avoid awkward breaks inside headings/list items */
+            .print-area .lesson-content h1,
+            .print-area .lesson-content h2,
+            .print-area .lesson-content h3 {
+                break-after: avoid;
+                page-break-after: avoid;
+            }
+            .print-area .lesson-content li,
+            .print-area .lesson-content blockquote {
+                break-inside: avoid;
+                page-break-inside: avoid;
+            }
+        }
     </style>
 </head>
 <body class="bg-gray-50 dark:bg-gray-900 dark:text-gray-100 min-h-screen" x-data="lessonPlanApp()" x-init="init()">
@@ -319,15 +404,43 @@
         <div x-show="currentView === 'lesson'" x-transition style="display: none;"
              @keydown.left.window="if(currentView === 'lesson') prevCard()"
              @keydown.right.window="if(currentView === 'lesson') nextCard()">
+            <!-- Printable version of the current lesson (screen-hidden, print-only) -->
+            <div class="print-area">
+                <div class="print-header">
+                    <span class="print-brand">🧒 Mentot</span>
+                    <p class="print-title" x-text="currentLessonTopic?.topic?.name || 'Lesson Plan'"></p>
+                    <p class="print-meta">
+                        <span x-text="printQueueLabel(currentLessonTopic?.queueName)"></span>
+                        <template x-if="currentLessonTopic?.topic?.category">
+                            <span> · <span x-text="currentLessonTopic.topic.category"></span></span>
+                        </template>
+                    </p>
+                </div>
+                <div class="lesson-content" x-html="lessonPrintHtml"></div>
+            </div>
+
             <div class="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 mb-6">
-                <!-- Back Button -->
-                <button @click="closeLessonPlan()"
-                        class="mb-4 px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch flex items-center">
-                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
-                    </svg>
-                    Back to Queues
-                </button>
+                <!-- Back / Print Buttons -->
+                <div class="mb-4 flex items-center justify-between gap-2">
+                    <button @click="closeLessonPlan()"
+                            class="px-4 py-2 bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 rounded-lg hover:bg-gray-300 dark:hover:bg-gray-600 active:bg-gray-400 btn-touch flex items-center">
+                        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                        </svg>
+                        Back to Queues
+                    </button>
+
+                    <!-- Print / Save PDF (hidden while loading or on error) -->
+                    <button x-show="!lessonLoading && !lessonError && lessonCards.length > 0"
+                            @click="printLesson()"
+                            title="Print or save this lesson as a PDF"
+                            class="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 active:bg-indigo-800 btn-touch flex items-center flex-shrink-0">
+                        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a1 1 0 001-1v-4a1 1 0 00-1-1H9a1 1 0 00-1 1v4a1 1 0 001 1zm8-12V5a2 2 0 00-2-2H7a2 2 0 00-2 2v4h14z"></path>
+                        </svg>
+                        Print / PDF
+                    </button>
+                </div>
 
                 <!-- Play Song Button (only for songs queue) - at top -->
                 <template x-if="currentLessonTopic && currentLessonTopic.queueName === 'songs' && !lessonLoading">
@@ -684,6 +797,7 @@
                 lessonLoading: false,
                 lessonError: '',
                 currentLessonTopic: null,
+                lessonPrintHtml: '',
                 touchStartX: 0,
                 touchStartY: 0,
                 isSwiping: false,
@@ -1026,6 +1140,8 @@
 
                         // Parse markdown into swipeable cards
                         this.lessonCards = this.parseLessonIntoCards(markdown);
+                        // Render the full lesson for the printable / PDF version
+                        this.lessonPrintHtml = marked.parse(markdown);
                         this.currentCardIndex = 0;
                         this.lessonLoading = false;
 
@@ -1040,9 +1156,24 @@
                     this.currentView = this.lessonReturnView || 'queues';
                     this.lessonReturnView = 'queues';
                     this.lessonCards = [];
+                    this.lessonPrintHtml = '';
                     this.currentCardIndex = 0;
                     this.lessonError = '';
                     this.currentLessonTopic = null;
+                },
+
+                printQueueLabel(queueName) {
+                    const labels = {
+                        knowledge: 'Knowledge, Skills & Culture',
+                        physical: 'Physical Activity',
+                        songs: 'Song'
+                    };
+                    return labels[queueName] || 'Lesson Plan';
+                },
+
+                printLesson() {
+                    if (this.lessonLoading || this.lessonError || !this.lessonPrintHtml) return;
+                    window.print();
                 },
 
                 // ===== Weekly Plan =====
