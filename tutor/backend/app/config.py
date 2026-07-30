@@ -49,16 +49,31 @@ class Settings(BaseSettings):
     llm_fallback_model: str = "claude-opus-4-8"
 
     # --- mastery model -------------------------------------------------------
+    # These defaults must stay equal to the ones in app.mastery.state.MasteryParams,
+    # which were swept against the synthetic learner. Services build their params
+    # through MasteryParams.from_settings, so a value that drifts here silently
+    # de-calibrates the running app while the pure unit tests keep passing.
+    # tests/test_mastery_synthetic.py asserts the two agree.
     #: Base Elo step size. Scaled up by item difficulty and down by confidence.
-    elo_base_step: float = 0.28
+    elo_base_step: float = 0.9
     #: Logistic scale for the expected-score curve; larger means sharper.
     elo_logistic_scale: float = 4.0
+    #: How much high confidence shrinks the step size.
+    confidence_damping: float = 0.9
     #: Fraction of remaining uncertainty removed by one on-node observation.
     confidence_gain: float = 0.34
     #: Per-hop attenuation when propagating evidence through prerequisite edges.
     propagation_decay: float = 0.5
     #: Hops beyond which propagation is not worth computing.
-    propagation_max_hops: int = 3
+    propagation_max_hops: int = 4
+    #: Per-hop loosening of the "no better known than its prerequisites" bound.
+    prereq_bound_slack: float = 0.06
+    #: Confidence at which a node's own estimate fully displaces its prior.
+    prior_trust_confidence: float = 0.25
+    #: Share of the prerequisite-implied gap that carries into a node's prior.
+    prior_retention: float = 0.95
+    #: Pseudo-count controlling how fast tier performance displaces that prior.
+    tier_prior_strength: float = 3.0
     #: Mastery assigned to a brand-new node before any evidence, if it has no prereqs.
     default_seed_mastery: float = 0.15
     #: Confidence assigned to a node seeded from its prerequisites.
@@ -76,6 +91,12 @@ class Settings(BaseSettings):
     diagnostic_max_items: int = 30
     diagnostic_min_items: int = 8
     diagnostic_confidence_target: float = 0.55
+
+    # --- lesson plans --------------------------------------------------------
+    #: Items a unit's exit check asks before the unit can be closed.
+    exit_check_items: int = 2
+    #: Minutes a unit is assumed to take before the model estimates it.
+    default_unit_minutes: int = 20
 
     # --- grading -------------------------------------------------------------
     #: Rubric score below which a retrieval counts as a lapse.

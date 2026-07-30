@@ -11,18 +11,14 @@ model.
 
 from __future__ import annotations
 
-from dataclasses import dataclass
-
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.config import Settings
 from app.db import new_id, utcnow
 from app.llm.base import LLMAdapter
-from app.mastery.elo import update_mastery
-from app.mastery.propagation import apply_propagation, propagate_evidence, refresh_priors
 from app.mastery.selection import select_difficulty, select_next_node, should_stop
-from app.mastery.state import MasteryParams, MasteryState
-from app.models.assessment import DiagnosticSession, ItemResponse, QuizItem
+from app.mastery.state import MasteryParams
+from app.models.assessment import DiagnosticSession, ItemResponse
 from app.models.enums import QueueKind, SessionStatus
 from app.models.graph import MasteryRecord
 from app.repositories.assessment import AssessmentRepository
@@ -31,12 +27,12 @@ from app.scheduling.grading import grade_for
 from app.schemas.diagnostic import (
     AnswerResult,
     ItemRead,
-    MasteryChange,
     NextItem,
     SessionRead,
 )
-from app.services.graph_loader import GraphLoader, GraphNotReadyError, LoadedSubject
+from app.services.graph_loader import GraphLoader, GraphNotReadyError
 from app.services.item_service import ItemService
+from app.services.mastery_service import MasteryUpdater
 
 
 class DiagnosticFinished(RuntimeError):
@@ -45,18 +41,6 @@ class DiagnosticFinished(RuntimeError):
 
 class ItemMismatch(ValueError):
     """Raised when an answer names an item that was not the one asked."""
-
-
-@dataclass(slots=True)
-class _Applied:
-    """The mastery movement caused by one answer.
-
-    :param changes: Per-concept before and after values.
-    :param direct_after: The answered concept's new state.
-    """
-
-    changes: list[MasteryChange]
-    direct_after: MasteryState
 
 
 class DiagnosticService:
@@ -75,6 +59,7 @@ class DiagnosticService:
         self._repo = AssessmentRepository(session)
         self._graph = GraphRepository(session)
         self._items = ItemService(session, adapter, settings)
+        self._mastery = MasteryUpdater(self._params)
 
     async def start(self, subject_id: str, *, max_items: int | None = None) -> DiagnosticSession:
         """Begin a diagnostic, or resume one already in progress.
@@ -193,7 +178,9 @@ class DiagnosticService:
 
         loaded = await self._loader.load(diagnostic.subject_id)
         result = await self._items.grade(loaded, item, answer)
-        applied = self._apply(loaded, item, result.score)
+        applied = self._mastery.apply(
+            loaded, node_id=item.node_id, difficulty=item.difficulty, score=result.score
+        )
 
         grade = grade_for(result.score, self._settings)
         self._repo.add_response(
@@ -209,10 +196,7 @@ class DiagnosticService:
                 grade=int(grade),
                 correct=result.correct,
                 feedback=result.feedback,
-                mastery_before=next(
-                    (c.mastery_before for c in applied.changes if c.node_id == item.node_id),
-                    None,
-                ),
+                mastery_before=applied.direct_before.mastery,
                 mastery_after=applied.direct_after.mastery,
                 propagation={
                     change.node_id: change.mastery_after
@@ -243,81 +227,6 @@ class DiagnosticService:
             changes=applied.changes,
             session=self._render(diagnostic, decision.mean_confidence),
         )
-
-    def _apply(self, loaded: LoadedSubject, item: QuizItem, score: float) -> _Applied:
-        """Update the answered concept and everything the answer informs.
-
-        :param loaded: The subject being assessed.
-        :param item: The item that was answered.
-        :param score: The rubric score.
-        """
-        node_id = item.node_id
-        before = loaded.states[node_id]
-        update = update_mastery(
-            before, difficulty=item.difficulty, score=score, params=self._params
-        )
-        loaded.states[node_id] = update.state
-
-        propagated = propagate_evidence(
-            loaded.graph,
-            node_id=node_id,
-            mastery_delta=update.mastery_delta,
-            observed_mastery=update.state.mastery,
-            params=self._params,
-        )
-        moved = apply_propagation(loaded.states, propagated)
-        loaded.states.update(moved)
-        # An answer changes what untested concepts should be expected to know, and
-        # the priors have to follow or the selector keeps re-asking settled ground.
-        reseeded = refresh_priors(loaded.graph, loaded.states, params=self._params)
-        loaded.states.update(reseeded)
-
-        changes = [
-            MasteryChange(
-                node_id=node_id,
-                node_name=loaded.graph.nodes[node_id].name,
-                mastery_before=before.mastery,
-                mastery_after=update.state.mastery,
-                confidence_after=update.state.confidence,
-                propagated=False,
-            )
-        ]
-        for other_id, state in moved.items():
-            changes.append(
-                MasteryChange(
-                    node_id=other_id,
-                    node_name=loaded.graph.nodes[other_id].name,
-                    mastery_before=state.mastery - propagated[other_id].mastery_delta,
-                    mastery_after=state.mastery,
-                    confidence_after=state.confidence,
-                    propagated=True,
-                )
-            )
-
-        self._persist(loaded, node_id, set(moved) | set(reseeded))
-        return _Applied(changes=changes, direct_after=update.state)
-
-    def _persist(self, loaded: LoadedSubject, direct_id: str, indirect_ids: set[str]) -> None:
-        """Write updated estimates back to their rows.
-
-        :param loaded: The subject being assessed.
-        :param direct_id: The concept that was answered.
-        :param indirect_ids: Concepts changed by propagation or prior refresh.
-        """
-        now = utcnow()
-        for node_id in {direct_id} | indirect_ids:
-            record = loaded.records.get(node_id)
-            state = loaded.states.get(node_id)
-            if record is None or state is None:
-                continue
-            record.mastery = state.mastery
-            record.confidence = state.confidence
-            record.last_seen_at = now
-            record.decayed_at = now
-            if node_id == direct_id:
-                record.direct_observations += 1
-            else:
-                record.indirect_observations += 1
 
     async def _asked_node_ids(self, session_id: str) -> set[str]:
         """Concepts already asked about in this session.

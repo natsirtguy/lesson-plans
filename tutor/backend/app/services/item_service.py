@@ -101,6 +101,7 @@ class ItemService:
         *,
         difficulty: int,
         observations: int = 0,
+        item_format: ItemFormat | None = None,
     ) -> QuizItem:
         """Return an item testing one concept, generating it only if needed.
 
@@ -108,10 +109,14 @@ class ItemService:
         :param node_id: The concept to test.
         :param difficulty: The item's difficulty, 1 through 5.
         :param observations: How many times this concept has been tested already.
+        :param item_format: Force a format instead of inferring one. An exit check
+            asks for two items about the same concept at the same difficulty, and
+            since the cache key includes the format, naming them explicitly is what
+            stops the second request returning the first item again.
         """
         state = loaded.states.get(node_id, MasteryState(0.15, 0.05))
         level = level_for(state.mastery)
-        item_format = choose_format(difficulty=difficulty, observations=observations)
+        item_format = item_format or choose_format(difficulty=difficulty, observations=observations)
         key = cache_key(node_id, difficulty, level, item_format)
 
         cached = await self._repo.item_by_cache_key(key)

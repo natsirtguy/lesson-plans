@@ -227,3 +227,17 @@ def test_replay_with_no_observations_returns_the_seeded_prior() -> None:
     result = replay(GRAPH, [], params=P)
     assert result.applied == 0
     assert result.states == initial_states(GRAPH, P)
+
+
+def test_configured_defaults_match_the_calibrated_ones() -> None:
+    """Shipping config must reproduce the parameters this file was swept against.
+
+    Every service builds its params through ``MasteryParams.from_settings``, so a
+    default that drifts in ``config.py`` de-calibrates the running app while every
+    assertion in this module keeps passing against ``DEFAULT_PARAMS``. This is the
+    only test that would notice.
+    """
+    from app.config import Settings
+    from app.mastery.state import MasteryParams
+
+    assert MasteryParams.from_settings(Settings(anthropic_api_key="", _env_file=None)) == P

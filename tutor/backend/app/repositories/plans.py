@@ -108,6 +108,24 @@ class PlanRepository:
             return []
         return await self.units_for_plan(plan.id)
 
+    async def taught_node_ids(self, subject_id: str) -> set[str]:
+        """Concepts the learner has already been through a unit for.
+
+        Spans every plan the subject has ever had, superseded ones included: being
+        taught a concept is a fact about the learner, not about the plan that
+        happened to be current at the time. A regenerated plan uses this to avoid
+        claiming a re-taught concept is a first acquisition.
+
+        :param subject_id: The subject to read.
+        """
+        result = await self._session.execute(
+            select(PlanUnit.node_id).where(
+                PlanUnit.subject_id == subject_id,
+                PlanUnit.status.in_([UnitStatus.COMPLETE, UnitStatus.SKIPPED]),
+            )
+        )
+        return set(result.scalars())
+
     async def next_unit(self, plan_id: str) -> PlanUnit | None:
         """Fetch the earliest unit not yet completed or skipped.
 

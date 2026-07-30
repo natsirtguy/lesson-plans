@@ -28,6 +28,17 @@ The spec's surface is kept verbatim. Additions, all additive:
   plain review touch.
 - `GET /subjects/{id}/calibration` — retrieval-success stats and the widen/tighten advice.
   Folded into the report response too, but useful alone.
+- `GET /subjects/{id}/plan` and `GET /plan/{id}` — read the current plan without regenerating it.
+  `POST /subjects/{id}/plan` supersedes the existing plan, so it can't double as a read.
+
+One rename from the spec's surface, not an addition:
+
+- `POST /lessons/{id}/complete` → **`POST /plan/units/{unit_id}/complete`**. The thing that
+  gets completed is a plan *unit*; a `Lesson` is cached prose keyed on
+  `(node, difficulty, level)` and is deliberately shareable — the same lesson row can back a
+  plan unit and an ask-anything answer. Keeping the spec's path would have meant a `{id}`
+  that is a unit id on an endpoint named for lessons. `GET /lessons/{id}` still fetches the
+  prose itself.
 
 ## Order of work
 

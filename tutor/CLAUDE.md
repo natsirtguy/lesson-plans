@@ -134,6 +134,35 @@ swept against the synthetic learner across four learner profiles, seven answer s
 and four graph shapes. Changing one means re-running
 `tests/test_mastery_synthetic.py` and expecting to be told if it made things worse.
 
+**The same defaults must appear in `config.py`.** Services build their params through
+`MasteryParams.from_settings`, so a value that drifts in config silently de-calibrates
+the running app while every assertion against `DEFAULT_PARAMS` keeps passing. That drift
+happened once already. `test_configured_defaults_match_the_calibrated_ones` is the guard;
+if you add a tunable to `Settings`, wire it through `from_settings` or the guard will
+not cover it.
+
+## Plan sequencing
+
+`graphs/sequencer.py` is pure and holds the ordering invariant: a unit is only ever
+emitted from the **ready set** — concepts whose every prerequisite is already mastered or
+already scheduled earlier in the same plan — and among those, the highest-priority one
+wins. Prerequisite-respecting order is therefore a loop invariant, not something checked
+afterwards. `tests/test_sequencer.py` asserts it over three graph shapes and
+`tests/test_plan.py` asserts it again over a plan built from a generated graph.
+
+Priority is `mastery.coverage.priority`, shared with the report on purpose: the concepts
+the report calls out as worth attacking are exactly the ones the plan front-loads.
+
+**Unit prose is written lazily.** A plan is created with a deterministic placeholder title
+and objective and costs zero model calls; the `UnitBrief` call, the exit-check items, and
+the lesson row all happen on first serve of that unit. Generating a hundred briefs up
+front would blow the "subject to plan in under five minutes" criterion for content the
+learner will not see for weeks, pitched against a mastery estimate that will have moved.
+
+Every graded answer — diagnostic, exit check, or review — goes through
+`services/mastery_service.MasteryUpdater`. Do not re-implement update-then-propagate-then-
+refresh anywhere else; one belief about the learner, one code path that writes it.
+
 ## Two scheduling layers — do not conflate them
 
 - **Layer 1, FSRS (`scheduling/fsrs.py`)** decides *when an item is due*. Grades come from

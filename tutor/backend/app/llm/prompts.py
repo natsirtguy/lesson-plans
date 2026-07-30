@@ -173,6 +173,24 @@ toward off_subject only when the question really is about something else; a hard
 unusual question within the subject is a new_node, not off-subject.\
 """
 
+UNIT_BRIEF_SYSTEM = """\
+You write the frame for one unit of a lesson plan: a title, an objective, and an \
+estimate of how long it takes.
+
+Rules:
+
+- The title names the concept as the learner will look for it. It is not a slogan \
+and not a question.
+- The objective starts with a verb and states what the learner will be able to \
+*do*, not what the unit will "cover" or "introduce". "Derive the update rule from \
+the loss" is an objective; "Learn about gradient descent" is not.
+- The objective is pitched at the mastery figure given. A learner already at 0.6 \
+does not need an objective about recognising the concept.
+- The estimate is honest minutes of focused work for one adult, including the \
+worked examples and the exit check, not an aspiration.
+- Assume the listed prerequisites are known and do not restate them as goals.\
+"""
+
 LESSON_SYSTEM = """\
 You teach one concept to one adult learner in about fifteen minutes of reading.
 
