@@ -77,6 +77,14 @@ class Settings(BaseSettings):
     diagnostic_min_items: int = 8
     diagnostic_confidence_target: float = 0.55
 
+    # --- grading -------------------------------------------------------------
+    #: Rubric score below which a retrieval counts as a lapse.
+    grade_again_below: float = 0.6
+    #: Below this, a success the learner struggled for.
+    grade_hard_below: float = 0.75
+    #: Below this, an ordinary success; at or above it, an easy one.
+    grade_good_below: float = 0.9
+
     # --- scheduling ----------------------------------------------------------
     target_retention: float = 0.85
     daily_review_cap: int = 20
