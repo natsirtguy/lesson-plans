@@ -22,10 +22,16 @@ from app.schemas.plan import (
     PlanRead,
     UnitComplete,
     UnitCompleteResult,
+    UnitInsert,
 )
 from app.schemas.report import CalibrationRead, ReportRead
 from app.services.graph_loader import GraphNotReadyError, SubjectNotFoundError
-from app.services.plan_service import PlanService, UnitAlreadyClosed, UnitItemMismatch
+from app.services.plan_service import (
+    PlanService,
+    UnitAlreadyClosed,
+    UnitAlreadyScheduled,
+    UnitItemMismatch,
+)
 from app.services.report_service import ReportService
 
 router = APIRouter(tags=["plans"])
@@ -123,6 +129,33 @@ async def get_plan(
         return await service.read(plan_id)
     except LookupError as exc:
         raise not_found("plan not found") from exc
+
+
+@router.post("/plan/{plan_id}/units", response_model=PlanRead, status_code=status.HTTP_201_CREATED)
+async def insert_unit(
+    plan_id: str,
+    payload: UnitInsert,
+    session: SessionDep,
+    adapter: AdapterDep,
+    settings: SettingsDep,
+) -> PlanRead:
+    """Add a unit for one concept, as early as its prerequisites allow.
+
+    This is what accepting an ask-anything plan offer does.
+
+    :param plan_id: The plan to insert into.
+    :param payload: The concept to schedule.
+    :param session: The request's database session.
+    :param adapter: The LLM boundary.
+    :param settings: Runtime configuration.
+    """
+    service = PlanService(session, adapter, settings)
+    try:
+        return await service.insert_unit(plan_id, payload.node_id)
+    except UnitAlreadyScheduled as exc:
+        raise conflict("this plan already has a pending unit for that concept") from exc
+    except LookupError as exc:
+        raise not_found("plan or concept not found") from exc
 
 
 @router.get("/plan/{plan_id}/next", response_model=NextUnit)

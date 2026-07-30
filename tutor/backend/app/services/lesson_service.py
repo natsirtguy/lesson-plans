@@ -15,14 +15,23 @@ and regenerating it would cost money for no gain.
 from __future__ import annotations
 
 import hashlib
+from collections.abc import AsyncIterator
 
-from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.ext.asyncio import AsyncSession, async_sessionmaker
 
+from app.config import Settings
 from app.db import new_id
+from app.llm.base import LLMAdapter
+from app.llm.prompts import LESSON_SYSTEM
+from app.mastery.state import MasteryParams
 from app.models.plan import Lesson, PlanUnit
 from app.repositories.plans import PlanRepository
-from app.services.graph_loader import LoadedSubject
+from app.services.graph_loader import GraphLoader, LoadedSubject
 from app.services.item_service import level_for
+from app.sse import sse
+
+#: Characters per replayed chunk when a lesson comes from cache.
+REPLAY_CHUNK = 256
 
 
 def lesson_cache_key(node_id: str, difficulty: int, level: str) -> str:
@@ -88,3 +97,126 @@ class LessonService:
         )
         await self._session.flush()
         return lesson
+
+
+class LessonStreamer:
+    """Streams a lesson's prose into its row and out to the client.
+
+    Like :class:`~app.services.ask_service.AskService`, this takes a session
+    factory: the body of a streaming response runs after the request's own
+    dependencies have been torn down, so it must own the session it writes through.
+    """
+
+    def __init__(
+        self,
+        factory: async_sessionmaker[AsyncSession],
+        adapter: LLMAdapter,
+        settings: Settings,
+    ) -> None:
+        """
+        :param factory: Session factory the stream opens its own session from.
+        :param adapter: The LLM boundary.
+        :param settings: Runtime configuration.
+        """
+        self._factory = factory
+        self._adapter = adapter
+        self._settings = settings
+        self._params = MasteryParams.from_settings(settings)
+
+    async def stream(self, lesson_id: str) -> AsyncIterator[str]:
+        """Emit a lesson as SSE frames, generating the prose if it is not written.
+
+        A lesson already marked complete is replayed from the row rather than
+        regenerated. That is the whole reason the row exists: a second read of a
+        lesson must not cost a second generation.
+
+        :param lesson_id: The lesson to stream.
+        """
+        async with self._factory() as session:
+            repo = PlanRepository(session)
+            lesson = await repo.get_lesson(lesson_id)
+            if lesson is None:
+                yield sse("error", {"detail": "lesson not found"})
+                return
+
+            loaded = await GraphLoader(session, self._params).load(lesson.subject_id)
+            yield sse(
+                "meta",
+                {
+                    "lesson_id": lesson.id,
+                    "title": lesson.title,
+                    "node_id": lesson.node_id,
+                    "unit_id": lesson.unit_id,
+                    "difficulty": lesson.difficulty,
+                    "level": lesson.level,
+                    "cached": lesson.complete,
+                },
+            )
+
+            if lesson.complete:
+                for start in range(0, len(lesson.markdown), REPLAY_CHUNK):
+                    yield sse("delta", lesson.markdown[start : start + REPLAY_CHUNK])
+                yield sse(
+                    "done",
+                    {"lesson_id": lesson.id, "complete": True, "characters": len(lesson.markdown)},
+                )
+                return
+
+            pieces: list[str] = []
+            async for delta in self._adapter.stream_text(
+                system=LESSON_SYSTEM,
+                prompt=self._prompt(loaded, lesson),
+                task="lesson",
+                context=loaded.context(),
+            ):
+                pieces.append(delta)
+                yield sse("delta", delta)
+
+            lesson.markdown = "".join(pieces)
+            lesson.complete = True
+            await session.commit()
+            yield sse(
+                "done",
+                {"lesson_id": lesson.id, "complete": True, "characters": len(lesson.markdown)},
+            )
+
+    def _prompt(self, loaded: LoadedSubject, lesson: Lesson) -> str:
+        """Build the teaching instruction for one lesson.
+
+        Prerequisites are split by how well the learner holds them, because the
+        system prompt treats the two differently: solid ones are referenced by name
+        and not re-taught, weak ones get a sentence of refresher inline.
+
+        :param loaded: The subject the lesson belongs to.
+        :param lesson: The lesson row being filled in.
+        """
+        node_id = lesson.node_id
+        if node_id is None or node_id not in loaded.graph:
+            return f"CONCEPT: {lesson.title}\n\nTeach this concept."
+
+        meta = loaded.graph.nodes[node_id]
+        state = loaded.states[node_id]
+        solid: list[str] = []
+        shaky: list[str] = []
+        for prereq in sorted(
+            loaded.graph.prereqs(node_id), key=lambda p: loaded.graph.nodes[p].name
+        ):
+            name = loaded.graph.nodes[prereq].name
+            target = (
+                solid if loaded.states[prereq].mastery >= self._params.mastery_threshold else shaky
+            )
+            target.append(name)
+
+        return "\n".join(
+            [
+                f"CONCEPT: {meta.name}",
+                f"DEFINITION: {loaded.nodes[node_id].definition}",
+                f"TIER: {meta.tier}",
+                f"DIFFICULTY: {lesson.difficulty}",
+                f"CURRENT MASTERY: {state.mastery:.2f}",
+                f"MASTERED PREREQUISITES: {', '.join(solid) if solid else '(none)'}",
+                f"WEAK PREREQUISITES: {', '.join(shaky) if shaky else '(none)'}",
+                "",
+                "Teach this concept.",
+            ]
+        )

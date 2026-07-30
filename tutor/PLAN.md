@@ -30,6 +30,15 @@ The spec's surface is kept verbatim. Additions, all additive:
   Folded into the report response too, but useful alone.
 - `GET /subjects/{id}/plan` and `GET /plan/{id}` — read the current plan without regenerating it.
   `POST /subjects/{id}/plan` supersedes the existing plan, so it can't double as a read.
+- `POST /lessons/{id}/stream` — SSE stream that fills a lesson row's prose. POST rather than
+  GET because it persists what it generates, which is what makes the subsequent
+  `GET /lessons/{id}` work offline.
+- `POST /plan/{id}/units` — accept an ask-anything plan offer by scheduling a concept.
+  Without it the offer is decoration.
+
+`POST /ask` is scoped under its subject as **`POST /subjects/{id}/ask`**: a question is
+classified against one subject's graph and its answer is stored against that subject, so
+the subject is not an optional detail of the body.
 
 One rename from the spec's surface, not an addition:
 

@@ -69,6 +69,15 @@ class UnitItemMismatch(ValueError):
     """Raised when an exit-check answer names an item from a different unit."""
 
 
+class UnitAlreadyScheduled(RuntimeError):
+    """Raised when a concept the plan is already going to teach is inserted again."""
+
+
+#: Offset used to move every unit out of the way before renumbering it. Larger than
+#: any plan will ever be, so the shifted range cannot overlap the final one.
+_SEQ_OFFSET = 1_000_000
+
+
 class PlanService:
     """Generates plans and runs the learner through their units."""
 
@@ -186,6 +195,138 @@ class PlanService:
         if plan is None:
             return None
         return await self.read(plan.id)
+
+    # --- insertion -----------------------------------------------------------
+
+    async def insert_unit(self, plan_id: str, node_id: str) -> PlanRead:
+        """Add a concept to a plan, as early as its prerequisites allow.
+
+        This is what accepting an ask-anything plan offer does, and it has to keep
+        the invariant the sequencer establishes rather than quietly breaking it for
+        the sake of responsiveness. Two things follow:
+
+        * **Any missing prerequisites come with it.** A concept whose prerequisite
+          is unmastered *and* absent from the plan -- the normal case when the plan
+          was generated with a limit -- cannot simply be dropped in; the unit would
+          depend on something the learner is never taught. The whole unscheduled
+          prerequisite chain is inserted ahead of it, in topological order.
+        * **Finished units are never displaced.** History does not move, so the
+          insertion point is never earlier than the last unit already started or
+          closed.
+
+        :param plan_id: The plan to insert into.
+        :param node_id: The concept to schedule.
+        :raises LookupError: If the plan or concept does not exist.
+        :raises UnitAlreadyScheduled: If the plan already has a pending unit for it.
+        """
+        plan = await self._require_plan(plan_id)
+        loaded = await self._loader.load(plan.subject_id)
+        if node_id not in loaded.graph:
+            raise LookupError(node_id)
+
+        units = await self._repo.units_for_plan(plan_id)
+        if any(
+            unit.node_id == node_id and unit.status in {UnitStatus.PENDING, UnitStatus.IN_PROGRESS}
+            for unit in units
+        ):
+            raise UnitAlreadyScheduled(node_id)
+
+        chain = self._missing_chain(loaded, units, node_id)
+        position = self._earliest_position(loaded, units, node_id)
+        taught = await self._repo.taught_node_ids(plan.subject_id)
+        await self._renumber(units, insert_at=position, count=len(chain))
+
+        asked_name = loaded.graph.nodes[node_id].name
+        for offset, needed_id in enumerate(chain):
+            name = loaded.graph.nodes[needed_id].name
+            reason = (
+                f"Added because you asked about {asked_name}. Placed as early as its "
+                "prerequisites allow."
+                if needed_id == node_id
+                else (
+                    f"Added because {asked_name} depends on it and your plan did not cover it yet."
+                )
+            )
+            self._repo.add_unit(
+                PlanUnit(
+                    id=new_id(),
+                    plan_id=plan.id,
+                    subject_id=plan.subject_id,
+                    node_id=needed_id,
+                    seq=position + offset,
+                    title=name,
+                    objective=f"Explain {name} and apply it to a case you have not seen.",
+                    estimated_minutes=self._settings.default_unit_minutes,
+                    status=UnitStatus.PENDING,
+                    interleaved_node_ids=[],
+                    first_acquisition=needed_id not in taught,
+                    placement_reason=reason,
+                    priority=0.0,
+                    exit_check_item_ids=[],
+                )
+            )
+        await self._session.commit()
+        return await self.read(plan_id)
+
+    def _missing_chain(
+        self, loaded: LoadedSubject, units: list[PlanUnit], node_id: str
+    ) -> tuple[str, ...]:
+        """The concepts that have to be inserted for one concept to be teachable.
+
+        Every unmastered prerequisite, transitively, that the plan does not already
+        contain -- plus the concept itself -- in topological order so each precedes
+        whatever depends on it.
+
+        :param loaded: The subject the plan belongs to.
+        :param units: The plan's existing units.
+        :param node_id: The concept being inserted.
+        """
+        present = {unit.node_id for unit in units}
+        needed = {node_id} | {
+            ancestor
+            for ancestor in loaded.graph.ancestors(node_id)
+            if ancestor not in present
+            and loaded.states[ancestor].mastery < self._params.mastery_threshold
+        }
+        return tuple(n for n in loaded.graph.topological_order() if n in needed)
+
+    async def _renumber(self, units: list[PlanUnit], *, insert_at: int, count: int) -> None:
+        """Open a gap of ``count`` positions at ``insert_at``.
+
+        Done in two passes through a large offset because ``(plan_id, seq)`` is
+        unique: shifting unit 3 to 4 in a single pass collides with the unit already
+        at 4, and SQLite checks the constraint per statement rather than at commit.
+
+        :param units: The plan's units, in sequence order.
+        :param insert_at: The position being freed.
+        :param count: How many positions to free.
+        """
+        originals = [(unit, unit.seq) for unit in units]
+        for unit, _ in originals:
+            unit.seq += _SEQ_OFFSET
+        await self._session.flush()
+        for unit, original in originals:
+            unit.seq = original if original < insert_at else original + count
+        await self._session.flush()
+
+    def _earliest_position(self, loaded: LoadedSubject, units: list[PlanUnit], node_id: str) -> int:
+        """Find the first sequence position a concept can legally occupy.
+
+        Two floors, taken at their maximum: past every unit already started or
+        closed, and past every prerequisite -- direct or transitive -- the plan
+        already schedules.
+
+        :param loaded: The subject the plan belongs to.
+        :param units: The plan's existing units, in sequence order.
+        :param node_id: The concept being inserted.
+        """
+        ancestors = set(loaded.graph.ancestors(node_id))
+        settled = {UnitStatus.COMPLETE, UnitStatus.SKIPPED, UnitStatus.IN_PROGRESS}
+        position = 0
+        for index, unit in enumerate(units):
+            if unit.status in settled or unit.node_id in ancestors:
+                position = index + 1
+        return min(position, len(units))
 
     # --- running -------------------------------------------------------------
 

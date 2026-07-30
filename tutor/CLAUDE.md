@@ -163,6 +163,42 @@ Every graded answer — diagnostic, exit check, or review — goes through
 `services/mastery_service.MasteryUpdater`. Do not re-implement update-then-propagate-then-
 refresh anywhere else; one belief about the learner, one code path that writes it.
 
+## Streaming
+
+`app/sse.py` owns the wire format. Every payload is JSON, **including text deltas** — an SSE
+frame is newline-delimited, so a raw markdown delta would silently split into two frames.
+`parse_events` lives beside `sse` rather than in the tests so the two cannot drift.
+
+**A streaming service takes a session factory, never a session.** A `StreamingResponse` body
+runs after FastAPI has torn down the request's `yield`-based dependencies, so writing through
+the request session writes through a closed one. `AskService` and `LessonStreamer` both open
+their own session from `SessionFactoryDep`, which tests already override. The router resolves
+the subject or lesson first, so a missing id is a real 404 rather than an `error` frame inside
+a 200.
+
+## Ask anything
+
+Three routes out of one question, and the graph-safety property is structural: **there is no
+code path from `ask_service.py` to a node or edge insert.** An in-subject gap becomes a
+`GraphSuggestion` that goes through the same per-operation review as any other change; an
+off-subject question touches nothing at all. `test_an_off_subject_question_does_not_touch_the_graph`
+snapshots every node (soft-deleted included), every edge, the graph version, and the open
+suggestion count, and asserts the snapshot is unchanged.
+
+**Reading is not evidence.** An ask does not move any mastery estimate — the learner read
+something, they did not retrieve it. The fold-back is the suggestion, the plan offer, and the
+cached lesson the plan reuses. Do not add a mastery bump here.
+
+Ask answers are cached on the **question**, in a namespace of their own
+(`ask|subject|node|question`). A unit lesson and an answer about the same concept are
+different documents from different system prompts; sharing a key would serve one as the other.
+
+Accepting a plan offer inserts the concept **and its unscheduled unmastered prerequisites**,
+as a contiguous block. A truncated plan genuinely lacks prerequisites, and inserting the
+dependent alone would produce exactly the unit the acceptance criterion forbids. Renumbering
+goes through `_SEQ_OFFSET` in two flushes because `(plan_id, seq)` is unique and SQLite checks
+that per statement.
+
 ## Two scheduling layers — do not conflate them
 
 - **Layer 1, FSRS (`scheduling/fsrs.py`)** decides *when an item is due*. Grades come from

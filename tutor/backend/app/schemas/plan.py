@@ -75,6 +75,12 @@ class LessonRead(ApiModel):
     created_at: datetime
 
 
+class UnitInsert(ApiModel):
+    """A concept to add to an existing plan."""
+
+    node_id: str
+
+
 class ExitCheckItemRead(ApiModel):
     """One exit-check question, as the learner sees it.
 
