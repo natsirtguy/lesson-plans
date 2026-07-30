@@ -7,7 +7,7 @@ from collections.abc import AsyncIterator
 from datetime import UTC, datetime
 from typing import Any, Protocol
 
-from sqlalchemy import DateTime, MetaData, String, event
+from sqlalchemy import DateTime, MetaData, String, TypeDecorator, event
 from sqlalchemy.ext.asyncio import (
     AsyncEngine,
     AsyncSession,
@@ -27,6 +27,41 @@ NAMING_CONVENTION = {
     "fk": "fk_%(table_name)s_%(column_0_name)s_%(referred_table_name)s",
     "pk": "pk_%(table_name)s",
 }
+
+
+class UTCDateTime(TypeDecorator[datetime]):
+    """A timezone-aware timestamp that survives a SQLite round trip.
+
+    SQLite has no timestamp type, so it hands back naive datetimes regardless of
+    ``timezone=True`` -- and comparing one of those to an aware value raises. Since
+    the whole app computes elapsed time between stored timestamps and "now", that
+    would turn every decay calculation into a crash on the dev database and pass
+    silently on Postgres. Coercing on the way in and out means the rest of the code
+    can assume UTC-aware everywhere.
+    """
+
+    impl = DateTime(timezone=True)
+    cache_ok = True
+
+    def process_bind_param(self, value: datetime | None, dialect: object) -> datetime | None:
+        """Normalize a value being written to UTC.
+
+        :param value: The timestamp to store.
+        :param dialect: The active SQLAlchemy dialect.
+        """
+        if value is None:
+            return None
+        return value.replace(tzinfo=UTC) if value.tzinfo is None else value.astimezone(UTC)
+
+    def process_result_value(self, value: datetime | None, dialect: object) -> datetime | None:
+        """Attach UTC to a value read back without a timezone.
+
+        :param value: The timestamp as the driver returned it.
+        :param dialect: The active SQLAlchemy dialect.
+        """
+        if value is None:
+            return None
+        return value.replace(tzinfo=UTC) if value.tzinfo is None else value.astimezone(UTC)
 
 
 class Base(DeclarativeBase):
@@ -54,11 +89,9 @@ class IdMixin:
 class TimestampMixin:
     """Creation and update timestamps, both timezone-aware."""
 
-    created_at: Mapped[datetime] = mapped_column(
-        DateTime(timezone=True), default=utcnow, nullable=False
-    )
+    created_at: Mapped[datetime] = mapped_column(UTCDateTime, default=utcnow, nullable=False)
     updated_at: Mapped[datetime] = mapped_column(
-        DateTime(timezone=True), default=utcnow, onupdate=utcnow, nullable=False
+        UTCDateTime, default=utcnow, onupdate=utcnow, nullable=False
     )
 
 

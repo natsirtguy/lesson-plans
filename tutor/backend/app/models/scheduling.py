@@ -13,7 +13,6 @@ from typing import Any
 from sqlalchemy import (
     JSON,
     Date,
-    DateTime,
     Float,
     ForeignKey,
     Integer,
@@ -23,7 +22,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column
 
-from app.db import Base, IdMixin, TimestampMixin
+from app.db import Base, IdMixin, TimestampMixin, UTCDateTime
 from app.models.enums import CardState, StudySessionStatus
 
 
@@ -49,10 +48,8 @@ class ReviewCard(Base, IdMixin, TimestampMixin):
     stability: Mapped[float] = mapped_column(Float, default=0.0, nullable=False)
     #: FSRS item difficulty, on FSRS's own 1-10 scale (not the 1-5 tier scale).
     difficulty: Mapped[float] = mapped_column(Float, default=5.0, nullable=False)
-    due_at: Mapped[datetime | None] = mapped_column(
-        DateTime(timezone=True), default=None, index=True
-    )
-    last_review_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    due_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None, index=True)
+    last_review_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
     reps: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
     lapses: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
     #: Index into the relearning step ladder while in the relearning state.
@@ -93,6 +90,6 @@ class StudySession(Base, IdMixin, TimestampMixin):
     notes: Mapped[str] = mapped_column(Text, default="", nullable=False)
     #: External calendar event id when the session was written to a calendar.
     calendar_event_id: Mapped[str | None] = mapped_column(String(200), default=None)
-    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    completed_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
     #: Free-form planner diagnostics, kept for debugging schedule shape.
     detail: Mapped[dict[str, Any]] = mapped_column(JSON, default=dict, nullable=False)

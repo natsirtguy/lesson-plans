@@ -8,7 +8,6 @@ from typing import Any
 from sqlalchemy import (
     JSON,
     Boolean,
-    DateTime,
     Float,
     ForeignKey,
     Integer,
@@ -18,7 +17,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column
 
-from app.db import Base, IdMixin, TimestampMixin
+from app.db import Base, IdMixin, TimestampMixin, UTCDateTime
 from app.models.enums import QueueKind, SessionStatus
 
 
@@ -42,7 +41,7 @@ class DiagnosticSession(Base, IdMixin, TimestampMixin):
     #: Mean confidence when the session ended, for after-the-fact tuning.
     final_mean_confidence: Mapped[float | None] = mapped_column(Float, default=None)
     stop_reason: Mapped[str | None] = mapped_column(String(32), default=None)
-    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    completed_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
 
 
 class QuizItem(Base, IdMixin, TimestampMixin):

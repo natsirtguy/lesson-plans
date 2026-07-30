@@ -10,7 +10,6 @@ from datetime import datetime
 
 from sqlalchemy import (
     Boolean,
-    DateTime,
     Float,
     ForeignKey,
     Index,
@@ -21,7 +20,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column
 
-from app.db import Base, IdMixin, TimestampMixin
+from app.db import Base, IdMixin, TimestampMixin, UTCDateTime
 from app.models.enums import NodeOrigin
 
 
@@ -55,7 +54,7 @@ class ConceptNode(Base, IdMixin, TimestampMixin):
     #: Graph version at which the node first appeared, and at which it was removed.
     introduced_in_version: Mapped[int] = mapped_column(Integer, default=1, nullable=False)
     removed_in_version: Mapped[int | None] = mapped_column(Integer, default=None)
-    deleted_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    deleted_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
 
     #: Set when this node was superseded by a merge or split, for lineage queries.
     superseded_by: Mapped[str | None] = mapped_column(String(36), default=None)
@@ -83,7 +82,7 @@ class ConceptEdge(Base, IdMixin, TimestampMixin):
     )
     introduced_in_version: Mapped[int] = mapped_column(Integer, default=1, nullable=False)
     removed_in_version: Mapped[int | None] = mapped_column(Integer, default=None)
-    deleted_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    deleted_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
 
 
 class MasteryRecord(Base, IdMixin, TimestampMixin):
@@ -110,6 +109,6 @@ class MasteryRecord(Base, IdMixin, TimestampMixin):
     direct_observations: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
     #: Count of observations that reached this node only by propagation.
     indirect_observations: Mapped[int] = mapped_column(Integer, default=0, nullable=False)
-    last_seen_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    last_seen_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
     #: Last time decay was applied, so elapsed time is never double-counted.
-    decayed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    decayed_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)

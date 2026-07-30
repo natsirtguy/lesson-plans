@@ -92,6 +92,18 @@ Seeding a new node at zero mastery is a bug, not a conservative default: it fabr
 weakness and burns diagnostic questions confirming the learner doesn't know something
 their prerequisites imply they probably do.
 
+Two consequences that are easy to undo by accident, both with a test guarding them:
+
+- **Reconciled nodes are exempt from `smooth_posterior`.** A split child inherits its
+  parent's estimate *by rule*; capping it against its (weak) prerequisites silently
+  undoes the rule and destroys exactly the history the split was meant to preserve.
+  `ChangesetService` passes `protected=` for this reason.
+- **An `add_node` that resolves to a soft-deleted row keeps the stored mastery, not the
+  seed.** Overwriting it with a fresh prerequisite-derived seed is the data loss that
+  re-adding is supposed to avoid. Reviving does *not* restore the concept's old edges —
+  the operation's `prereq_ids` are honoured as written, so re-adding a tier-3+ concept
+  with no prerequisites is correctly rejected as an orphan.
+
 ## Where the mastery model departs from the original spec
 
 Both of these were found by the synthetic-learner test, which failed loudly with the

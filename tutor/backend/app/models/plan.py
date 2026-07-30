@@ -8,7 +8,6 @@ from typing import Any
 from sqlalchemy import (
     JSON,
     Boolean,
-    DateTime,
     Float,
     ForeignKey,
     Integer,
@@ -18,7 +17,7 @@ from sqlalchemy import (
 )
 from sqlalchemy.orm import Mapped, mapped_column
 
-from app.db import Base, IdMixin, TimestampMixin
+from app.db import Base, IdMixin, TimestampMixin, UTCDateTime
 from app.models.enums import PlanStatus, UnitStatus
 
 
@@ -66,7 +65,7 @@ class PlanUnit(Base, IdMixin, TimestampMixin):
     placement_reason: Mapped[str] = mapped_column(Text, default="", nullable=False)
     #: Score the sequencer assigned: weakness x unblocking power.
     priority: Mapped[float] = mapped_column(Float, default=0.0, nullable=False)
-    completed_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    completed_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
     #: Ids of the exit-check items generated for this unit.
     exit_check_item_ids: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
 

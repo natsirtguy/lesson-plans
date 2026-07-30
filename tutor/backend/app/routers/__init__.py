@@ -9,9 +9,9 @@ from __future__ import annotations
 
 from fastapi import APIRouter
 
-from app.routers import subjects
+from app.routers import changesets, subjects
 
 #: Registered in this order by the application factory.
-ROUTERS: tuple[APIRouter, ...] = (subjects.router,)
+ROUTERS: tuple[APIRouter, ...] = (subjects.router, changesets.router)
 
 __all__ = ["ROUTERS"]

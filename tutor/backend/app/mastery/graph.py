@@ -216,6 +216,14 @@ class ConceptGraph:
             return True
         return False
 
+    def find_cycle(self) -> tuple[str, ...]:
+        """Return one cycle in prerequisite order, or empty if the graph is acyclic.
+
+        Used by the changeset validator, which has to tell the learner *which*
+        concepts would form the loop, not merely that one exists.
+        """
+        return self._find_cycle()
+
     def tier_violations(self) -> tuple[Edge, ...]:
         """Edges pointing from a higher tier to a lower one.
 

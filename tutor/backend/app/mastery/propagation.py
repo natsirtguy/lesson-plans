@@ -254,6 +254,7 @@ def smooth_posterior(
     *,
     affected: frozenset[str],
     params: MasteryParams,
+    protected: frozenset[str] = frozenset(),
 ) -> dict[str, MasteryState]:
     """Pull mastery back in line with prerequisites after the graph changes.
 
@@ -272,6 +273,11 @@ def smooth_posterior(
     :param states: Current states, keyed by node id.
     :param affected: Nodes whose incoming edges changed.
     :param params: Model constants.
+    :param protected: Nodes whose mastery was just set by a reconciliation rule.
+        These are exempt: a split child inherits its parent's estimate *by rule*,
+        and capping it against its prerequisites would quietly undo the rule and
+        destroy the history the split was supposed to preserve. Their dependents
+        are still smoothed.
     """
     if not affected:
         return {}
@@ -287,7 +293,7 @@ def smooth_posterior(
     working = dict(states)
     changed: dict[str, MasteryState] = {}
     for node_id in graph.topological_order():
-        if node_id not in scope:
+        if node_id not in scope or node_id in protected:
             continue
         current = working.get(node_id)
         prereqs = graph.prereqs(node_id)

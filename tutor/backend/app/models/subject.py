@@ -4,10 +4,10 @@ from __future__ import annotations
 
 from datetime import date, datetime
 
-from sqlalchemy import Boolean, Date, DateTime, Float, Integer, String, Text
+from sqlalchemy import Boolean, Date, Float, Integer, String, Text
 from sqlalchemy.orm import Mapped, mapped_column
 
-from app.db import Base, IdMixin, TimestampMixin
+from app.db import Base, IdMixin, TimestampMixin, UTCDateTime
 from app.models.enums import GraphGenerationStatus
 
 
@@ -41,4 +41,4 @@ class Subject(Base, IdMixin, TimestampMixin):
     recovery_aware: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
 
     #: Last time decay was applied, so it is applied once per read rather than compounded.
-    last_decay_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True), default=None)
+    last_decay_at: Mapped[datetime | None] = mapped_column(UTCDateTime, default=None)
