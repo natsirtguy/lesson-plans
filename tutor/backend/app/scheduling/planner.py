@@ -25,6 +25,7 @@ Pure: dates in, plan out. No database, no clock read that is not an argument.
 
 from __future__ import annotations
 
+from collections.abc import Sequence
 from dataclasses import dataclass, field
 from datetime import date, timedelta
 
@@ -71,11 +72,16 @@ class DueItem:
     :param node_id: The concept.
     :param due_on: The day it came due.
     :param priority: How much clearing it is worth, from the review queue.
+    :param group: Which part of the subject it belongs to, used to interleave.
+        Opaque to the planner -- the caller decides what a "part" is -- so the
+        planner stays free of graph traversal. An empty group means "ungrouped",
+        and ungrouped items are treated as one pile.
     """
 
     node_id: str
     due_on: date
     priority: float
+    group: str = ""
 
 
 @dataclass(frozen=True, slots=True)
@@ -150,6 +156,44 @@ class _Budget:
     reviews: list[str] = field(default_factory=list)
     new_nodes: list[str] = field(default_factory=list)
     units: list[str] = field(default_factory=list)
+
+
+def interleave(items: Sequence[DueItem]) -> tuple[str, ...]:
+    """Order a session's retrieval so consecutive items come from different places.
+
+    Blocked practice -- all the thermodynamics, then all the statistics -- makes
+    retrieval easy for the wrong reason: once you know which pile you are in, you
+    have already been told most of the answer. Interleaving forces the learner to
+    work out *which* idea applies before applying it, which is the discrimination
+    the retrieval is supposed to test.
+
+    Implemented as dealing from piles: group the due items, order each pile by
+    priority, order the piles by their best item, then take one from each in turn.
+    A single pile degenerates to plain priority order, which is correct -- there is
+    nothing to interleave against.
+
+    Only the *retrieval* is interleaved. New material keeps plan order, because
+    that order is what guarantees no unit precedes a concept it depends on;
+    shuffling it would trade a correctness property for a study-technique one.
+
+    :param items: Due concepts, already capped, in priority order.
+    """
+    piles: dict[str, list[DueItem]] = {}
+    for item in items:
+        piles.setdefault(item.group, []).append(item)
+    for pile in piles.values():
+        pile.sort(key=lambda entry: (-entry.priority, entry.node_id))
+
+    ordered = sorted(
+        piles.values(),
+        key=lambda pile: (-pile[0].priority, pile[0].group, pile[0].node_id),
+    )
+    woven: list[str] = []
+    for index in range(max((len(pile) for pile in ordered), default=0)):
+        for pile in ordered:
+            if index < len(pile):
+                woven.append(pile[index].node_id)
+    return tuple(woven)
 
 
 def session_days(start: date, count: int, cadence: Cadence) -> tuple[date, ...]:
@@ -235,11 +279,14 @@ def plan_schedule(
         budget = _Budget()
         cap = min(per_review, cadence.daily_review_cap)
         arrived = [item for item in pending_reviews if item.due_on <= day]
-        budget.reviews = [item.node_id for item in arrived[:cap]]
+        # Cap by priority first -- what gets dropped should be decided by value --
+        # then interleave only what survived. Interleaving before capping would let
+        # the weave decide what is dropped, which is the wrong order of concerns.
+        taken = arrived[:cap]
+        budget.reviews = list(interleave(taken))
         deferred = [item.node_id for item in arrived[cap:]]
-        pending_reviews = [
-            item for item in pending_reviews if item.node_id not in set(budget.reviews)
-        ]
+        chosen = {item.node_id for item in taken}
+        pending_reviews = [item for item in pending_reviews if item.node_id not in chosen]
 
         for unit_id, node_id in pending_units[:per_new]:
             budget.units.append(unit_id)

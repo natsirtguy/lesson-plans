@@ -7,7 +7,7 @@ says so if it cannot hit a deadline*. All three are asserted directly.
 
 from __future__ import annotations
 
-from datetime import date, timedelta
+from datetime import UTC, date, datetime, timedelta
 from itertools import pairwise
 
 import pytest
@@ -16,13 +16,23 @@ from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.config import Settings
+from app.integrations import (
+    NullCalendarSink,
+    NullRecoverySignal,
+    ScheduledEvent,
+    get_calendar_sink,
+    get_recovery_signal,
+)
 from app.llm.fake import FakeLLMAdapter
+from app.mastery.state import MasteryParams
 from app.models.enums import StudySessionStatus
 from app.models.scheduling import StudySession
+from app.scheduling.grading import Grade
 from app.scheduling.planner import (
     Cadence,
     DueItem,
     assess_deadline,
+    interleave,
     plan_schedule,
     session_capacity,
     session_days,
@@ -30,8 +40,10 @@ from app.scheduling.planner import (
 )
 from app.schemas.plan import PlanCreate
 from app.schemas.schedule import ScheduleRequest
+from app.services.graph_loader import GraphLoader
 from app.services.plan_service import PlanService
-from app.services.schedule_service import ScheduleService, SessionAlreadyClosed
+from app.services.review_service import ReviewService
+from app.services.schedule_service import ScheduleService, SessionAlreadyClosed, branch_of
 from tests.test_subjects import build_subject
 
 #: A Monday, so weekday arithmetic in the assertions is readable.
@@ -474,3 +486,205 @@ async def test_schedule_endpoints_404_on_an_unknown_subject(client: AsyncClient)
     assert (await client.get("/subjects/nope/schedule")).status_code == 404
     assert (await client.post("/subjects/nope/schedule", json={})).status_code == 404
     assert (await client.post("/sessions/nope/complete", json={})).status_code == 404
+
+
+# --- interleaving ---------------------------------------------------------------
+
+
+def test_interleaving_alternates_between_parts_of_the_subject() -> None:
+    """Blocked retrieval is easy for the wrong reason: the pile gives the answer away."""
+    items = [
+        DueItem(node_id="a1", due_on=MONDAY, priority=9.0, group="a"),
+        DueItem(node_id="a2", due_on=MONDAY, priority=8.0, group="a"),
+        DueItem(node_id="a3", due_on=MONDAY, priority=7.0, group="a"),
+        DueItem(node_id="b1", due_on=MONDAY, priority=6.0, group="b"),
+        DueItem(node_id="b2", due_on=MONDAY, priority=5.0, group="b"),
+    ]
+    assert interleave(items) == ("a1", "b1", "a2", "b2", "a3")
+
+
+def test_interleaving_keeps_every_item() -> None:
+    """Reordering is not filtering."""
+    items = [
+        DueItem(node_id=f"n{i}", due_on=MONDAY, priority=float(20 - i), group=f"g{i % 4}")
+        for i in range(20)
+    ]
+    woven = interleave(items)
+    assert sorted(woven) == sorted(item.node_id for item in items)
+
+
+def test_interleaving_leads_with_the_highest_priority_item() -> None:
+    """Weaving must not demote the thing most worth doing."""
+    items = [
+        DueItem(node_id="low", due_on=MONDAY, priority=1.0, group="a"),
+        DueItem(node_id="high", due_on=MONDAY, priority=99.0, group="b"),
+    ]
+    assert interleave(items)[0] == "high"
+
+
+def test_a_single_group_degenerates_to_priority_order() -> None:
+    """There is nothing to interleave against, so the weave is a no-op."""
+    items = [
+        DueItem(node_id="c", due_on=MONDAY, priority=1.0, group="a"),
+        DueItem(node_id="a", due_on=MONDAY, priority=3.0, group="a"),
+        DueItem(node_id="b", due_on=MONDAY, priority=2.0, group="a"),
+    ]
+    assert interleave(items) == ("a", "b", "c")
+
+
+def test_interleaving_an_empty_queue_is_empty() -> None:
+    """A degenerate input is answered, not crashed on."""
+    assert interleave([]) == ()
+
+
+def test_the_cap_is_applied_before_the_weave() -> None:
+    """What gets dropped is decided by value; the weave only reorders survivors."""
+    due = [
+        DueItem(node_id="keep", due_on=MONDAY, priority=99.0, group="a"),
+        *[DueItem(node_id=f"drop{i}", due_on=MONDAY, priority=1.0, group="b") for i in range(5)],
+    ]
+    schedule = plan_schedule(
+        start=MONDAY,
+        due=due,
+        unit_ids=[],
+        unit_node_ids=[],
+        cadence=Cadence(daily_review_cap=1),
+    )
+    assert schedule.sessions[0].review_node_ids == ("keep",)
+    assert len(schedule.sessions[0].deferred_node_ids) == 5
+
+
+def test_new_material_is_never_interleaved() -> None:
+    """Plan order is a correctness property; shuffling it for study technique is a trade
+    the planner is not allowed to make."""
+    unit_ids, node_ids = units(12)
+    schedule = plan_schedule(
+        start=MONDAY, due=[], unit_ids=unit_ids, unit_node_ids=node_ids, cadence=Cadence()
+    )
+    taught = [node_id for session in schedule.sessions for node_id in session.new_node_ids]
+    assert taught == node_ids[: len(taught)]
+
+
+async def test_the_service_groups_by_branch_of_the_subject(
+    session: AsyncSession, fake_llm: FakeLLMAdapter, app_settings: Settings
+) -> None:
+    """Two concepts sharing a root are one pile; different roots are different piles."""
+    subject_id = await build_subject(session, fake_llm, app_settings)
+    loaded = await GraphLoader(session, MasteryParams.from_settings(app_settings)).load(subject_id)
+
+    roots = loaded.graph.roots()
+    assert len(roots) > 1
+    for root in roots:
+        assert branch_of(loaded, root) == root
+
+    deep = max(loaded.graph.node_ids, key=lambda n: loaded.graph.tier(n))
+    assert branch_of(loaded, deep) in roots
+
+
+async def test_a_scheduled_session_interleaves_its_retrieval(
+    session: AsyncSession, fake_llm: FakeLLMAdapter, app_settings: Settings
+) -> None:
+    """End to end: the order that reaches the database is the woven one."""
+    subject_id = await build_subject(session, fake_llm, app_settings)
+    loaded = await GraphLoader(session, MasteryParams.from_settings(app_settings)).load(subject_id)
+    reviews = ReviewService(session, fake_llm, app_settings)
+
+    long_ago = datetime.now(UTC) - timedelta(days=30)
+    for node_id in loaded.graph.node_ids[:10]:
+        await reviews.record_retrieval(loaded, node_id, Grade.GOOD, now=long_ago)
+    await session.commit()
+
+    schedule = await ScheduleService(session, fake_llm, app_settings).build(
+        subject_id, ScheduleRequest(), today=MONDAY
+    )
+    first = schedule.sessions[0]
+    assert first.review_node_ids
+    groups = [branch_of(loaded, node_id) for node_id in first.review_node_ids]
+    if len(set(groups)) > 1:
+        # With more than one branch present, no two neighbours should share one
+        # until the shorter piles run out.
+        assert groups[0] != groups[1]
+
+
+# --- projected coverage ---------------------------------------------------------
+
+
+async def test_projected_coverage_rises_across_the_horizon(
+    session: AsyncSession, fake_llm: FakeLLMAdapter, app_settings: Settings
+) -> None:
+    """Each session teaches more, so the projection cannot go backwards."""
+    subject_id = await build_subject(session, fake_llm, app_settings)
+    await PlanService(session, fake_llm, app_settings).create(subject_id, PlanCreate())
+    schedule = await ScheduleService(session, fake_llm, app_settings).build(
+        subject_id, ScheduleRequest(), today=MONDAY
+    )
+
+    projections = [s.projected_coverage for s in schedule.sessions]
+    assert projections == sorted(projections)
+    assert projections[-1] > 0.0
+
+
+async def test_projected_coverage_never_exceeds_one(
+    session: AsyncSession, fake_llm: FakeLLMAdapter, app_settings: Settings
+) -> None:
+    """It is a coverage figure, so the same bound applies as anywhere else."""
+    subject_id = await build_subject(session, fake_llm, app_settings)
+    await PlanService(session, fake_llm, app_settings).create(subject_id, PlanCreate())
+    schedule = await ScheduleService(session, fake_llm, app_settings).build(
+        subject_id, ScheduleRequest(), today=MONDAY
+    )
+    assert all(0.0 <= s.projected_coverage <= 1.0 for s in schedule.sessions)
+
+
+# --- optional integrations ------------------------------------------------------
+
+
+async def test_the_null_integrations_leave_their_columns_empty(
+    session: AsyncSession, fake_llm: FakeLLMAdapter, app_settings: Settings
+) -> None:
+    """Off means off: no fabricated calendar id, no invented recovery score."""
+    subject_id = await build_subject(session, fake_llm, app_settings)
+    await PlanService(session, fake_llm, app_settings).create(subject_id, PlanCreate())
+    await ScheduleService(session, fake_llm, app_settings).build(
+        subject_id, ScheduleRequest(), today=MONDAY
+    )
+
+    rows = list(
+        (
+            await session.execute(select(StudySession).where(StudySession.subject_id == subject_id))
+        ).scalars()
+    )
+    assert rows
+    assert all(row.calendar_event_id is None for row in rows)
+    assert all(row.recovery_score is None for row in rows)
+
+
+async def test_a_null_recovery_signal_says_unknown_not_average() -> None:
+    """0.5 means "an average day"; None means "nobody measured". Conflating them
+    would let the scheduler bias a plan on a number that does not exist."""
+    signal = NullRecoverySignal()
+    assert signal.enabled is False
+    assert await signal.score_for(MONDAY) is None
+
+
+async def test_a_null_calendar_sink_reports_that_nothing_was_written() -> None:
+    """Returning a fabricated id would make downstream code believe an entry exists."""
+    sink = NullCalendarSink()
+    assert sink.enabled is False
+    written = await sink.publish(
+        ScheduledEvent(on=MONDAY, minutes=20, title="Study", description="x"),
+        existing_id=None,
+    )
+    assert written is None
+
+
+def test_the_resolvers_return_null_providers_even_when_the_flags_are_on(
+    app_settings: Settings,
+) -> None:
+    """No real provider ships. The flag selects between null and null, and the test
+    says so rather than implying a capability that is not there."""
+    enabled = app_settings.model_copy(
+        update={"enable_calendar": True, "enable_recovery_signal": True}
+    )
+    assert isinstance(get_calendar_sink(enabled), NullCalendarSink)
+    assert isinstance(get_recovery_signal(enabled), NullRecoverySignal)

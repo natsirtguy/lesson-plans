@@ -19,6 +19,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.config import Settings
 from app.db import new_id, utcnow
+from app.integrations import ScheduledEvent, get_calendar_sink, get_recovery_signal
 from app.llm.base import LLMAdapter
 from app.mastery.state import MasteryParams
 from app.models.enums import StudySessionStatus, UnitStatus
@@ -46,6 +47,32 @@ class SessionAlreadyClosed(RuntimeError):
     """Raised when a sitting that is already resolved is completed again."""
 
 
+def branch_of(loaded: LoadedSubject, node_id: str) -> str:
+    """Which part of the subject a concept belongs to, for interleaving.
+
+    Defined as the alphabetically-first foundational concept the node is built
+    on -- a stable, cheap stand-in for "which branch of the subject is this". Two
+    concepts sharing a root are related enough that retrieving them back to back
+    would let the learner coast on context; two with different roots are exactly
+    the pair worth alternating between.
+
+    A root concept is its own branch. Grouping by *tier* instead would be simpler
+    and wrong: tier is difficulty, and alternating difficulty is not the
+    discrimination interleaving is meant to train.
+
+    :param loaded: The subject the concept belongs to.
+    :param node_id: The concept to classify.
+    """
+    roots = [
+        ancestor
+        for ancestor in loaded.graph.ancestors(node_id)
+        if not loaded.graph.prereqs(ancestor)
+    ]
+    if not roots:
+        return node_id
+    return min(roots)
+
+
 class ScheduleService:
     """Builds, stores, and reports on the rolling schedule."""
 
@@ -61,6 +88,10 @@ class ScheduleService:
         self._loader = GraphLoader(session, self._params)
         self._plans = PlanRepository(session)
         self._reviews = ReviewService(session, adapter, settings)
+        # Null by default. Both are called unconditionally; "switched off" is an
+        # implementation of the capability, not a branch at every call site.
+        self._calendar = get_calendar_sink(settings)
+        self._recovery = get_recovery_signal(settings)
 
     async def build(
         self, subject_id: str, payload: ScheduleRequest, *, today: date | None = None
@@ -82,6 +113,7 @@ class ScheduleService:
                 node_id=card.node_id,
                 due_on=card.due_at.date() if card.due_at else start,
                 priority=1.0 + card.overdue_days,
+                group=branch_of(loaded, card.node_id),
             )
             for card in queue.due
         ]
@@ -97,7 +129,7 @@ class ScheduleService:
         )
 
         stored = (
-            await self._persist(subject_id, schedule, start=start)
+            await self._persist(subject_id, schedule, start=start, loaded=loaded)
             if payload.persist
             else [None] * len(schedule.sessions)
         )
@@ -181,7 +213,7 @@ class ScheduleService:
     # --- persistence ---------------------------------------------------------
 
     async def _persist(
-        self, subject_id: str, schedule: Schedule, *, start: date
+        self, subject_id: str, schedule: Schedule, *, start: date, loaded: LoadedSubject
     ) -> list[StudySession]:
         """Replace the future part of the stored schedule with a fresh one.
 
@@ -194,6 +226,7 @@ class ScheduleService:
         :param subject_id: The subject being scheduled.
         :param schedule: The freshly computed schedule.
         :param start: The day the schedule begins.
+        :param loaded: The subject, for projecting coverage.
         """
         existing = (
             (
@@ -214,7 +247,10 @@ class ScheduleService:
         await self._session.flush()
 
         rows: list[StudySession] = []
+        taught_so_far: set[str] = set()
         for planned in schedule.sessions:
+            taught_so_far.update(planned.new_node_ids)
+            summary = _describe(planned)
             row = StudySession(
                 id=new_id(),
                 subject_id=subject_id,
@@ -226,7 +262,19 @@ class ScheduleService:
                 new_node_ids=list(planned.new_node_ids),
                 unit_ids=list(planned.unit_ids),
                 deferred_node_ids=list(planned.deferred_node_ids),
-                projected_coverage=0.0,
+                projected_coverage=_project_coverage(
+                    loaded, taught_so_far, self._params.mastery_threshold
+                ),
+                recovery_score=await self._recovery.score_for(planned.on),
+                calendar_event_id=await self._calendar.publish(
+                    ScheduledEvent(
+                        on=planned.on,
+                        minutes=planned.planned_minutes,
+                        title=f"Study: {loaded.subject.name}",
+                        description=summary,
+                    ),
+                    existing_id=None,
+                ),
                 notes=" ".join(planned.notes),
                 detail={"reviews": len(planned.review_node_ids), "new": len(planned.new_node_ids)},
             )
@@ -312,6 +360,7 @@ class ScheduleService:
                 new_names=names(new_ids),
                 unit_ids=list(planned.unit_ids),
                 deferred_node_ids=list(planned.deferred_node_ids),
+                projected_coverage=row.projected_coverage if row else 0.0,
                 notes=" ".join(planned.notes),
                 completed_at=row.completed_at if row else None,
             )
@@ -329,9 +378,47 @@ class ScheduleService:
             new_names=names(new_ids),
             unit_ids=list(row.unit_ids),
             deferred_node_ids=list(row.deferred_node_ids),
+            projected_coverage=row.projected_coverage,
             notes=row.notes,
             completed_at=row.completed_at,
         )
+
+
+def _describe(planned: PlannedSession) -> str:
+    """One line summarising what a sitting contains, for a calendar entry.
+
+    :param planned: The sitting to describe.
+    """
+    parts = [
+        f"{len(planned.review_node_ids)} to retrieve",
+        f"{len(planned.new_node_ids)} new",
+        f"{planned.planned_minutes} min",
+    ]
+    return " · ".join(parts)
+
+
+def _project_coverage(loaded: LoadedSubject, taught: set[str], threshold: float) -> float:
+    """Coverage as it would stand once a set of concepts has been taught.
+
+    A deliberately conservative projection: a taught concept is assumed to reach
+    the mastery threshold and no more, and concepts not taught are assumed not to
+    move at all. Both assumptions understate the result -- teaching a concept also
+    raises what depends on it, and an exit check can land above the threshold --
+    which is the right direction for a number the learner uses to decide whether a
+    schedule is worth following.
+
+    :param loaded: The subject being scheduled.
+    :param taught: Concepts taught by the end of the session in question.
+    :param threshold: Mastery at or above which a concept counts as covered.
+    """
+    states = loaded.states
+    if not states:
+        return 0.0
+    total = sum(
+        max(state.mastery, threshold) if node_id in taught else state.mastery
+        for node_id, state in states.items()
+    )
+    return total / len(states)
 
 
 def _render_verdict(schedule: Schedule) -> DeadlineRead:

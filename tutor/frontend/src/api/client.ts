@@ -158,28 +158,43 @@ export interface StreamEvent {
 }
 
 /**
- * Consume an SSE response as an async iterable of parsed events.
+ * Build a stateful SSE parser.
+ *
+ * Separated from the fetch call because the interesting behaviour is the
+ * buffering, not the I/O: network chunks have nothing to do with frame
+ * boundaries, so a single event routinely arrives split across two reads and a
+ * single read routinely contains three events. Keeping this a pure
+ * chunks-in/events-out function is what makes that testable without a socket.
  *
  * Frames are separated by a blank line and every payload is a single JSON
- * `data:` line, which is what makes this parser five lines rather than fifty.
+ * `data:` line, which is what keeps the parser this small.
  */
+export function createEventParser(): (chunk: string) => StreamEvent[] {
+  let buffer = "";
+  return (chunk: string): StreamEvent[] => {
+    buffer += chunk;
+    const events: StreamEvent[] = [];
+    let split = buffer.indexOf("\n\n");
+    while (split !== -1) {
+      const event = parseFrame(buffer.slice(0, split));
+      buffer = buffer.slice(split + 2);
+      if (event) events.push(event);
+      split = buffer.indexOf("\n\n");
+    }
+    return events;
+  };
+}
+
+/** Consume an SSE response as an async iterable of parsed events. */
 async function* readEvents(response: Response): AsyncGenerator<StreamEvent> {
   const body = response.body;
   if (!body) return;
   const reader = body.pipeThrough(new TextDecoderStream()).getReader();
-  let buffer = "";
+  const parse = createEventParser();
   for (;;) {
     const { done, value } = await reader.read();
     if (done) break;
-    buffer += value;
-    let split = buffer.indexOf("\n\n");
-    while (split !== -1) {
-      const frame = buffer.slice(0, split);
-      buffer = buffer.slice(split + 2);
-      const event = parseFrame(frame);
-      if (event) yield event;
-      split = buffer.indexOf("\n\n");
-    }
+    for (const event of parse(value)) yield event;
   }
 }
 

@@ -9,7 +9,6 @@ from __future__ import annotations
 from datetime import datetime
 
 from sqlalchemy import (
-    Boolean,
     Float,
     ForeignKey,
     Index,
@@ -48,8 +47,6 @@ class ConceptNode(Base, IdMixin, TimestampMixin):
     #: Difficulty tier, 1 (foundational) through 5 (advanced).
     tier: Mapped[int] = mapped_column(Integer, nullable=False)
     origin: Mapped[str] = mapped_column(String(24), default=NodeOrigin.GENERATED, nullable=False)
-    #: True for concepts that are adjacent to but outside the subject proper.
-    is_satellite: Mapped[bool] = mapped_column(Boolean, default=False, nullable=False)
 
     #: Graph version at which the node first appeared, and at which it was removed.
     introduced_in_version: Mapped[int] = mapped_column(Integer, default=1, nullable=False)

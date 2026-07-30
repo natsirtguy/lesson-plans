@@ -111,12 +111,19 @@ class SuggestionStatus(StrEnum):
 
 
 class NodeOrigin(StrEnum):
-    """How a concept node came to exist."""
+    """How a concept node came to exist.
+
+    Only two values, and that is a design decision rather than an omission. An
+    earlier draft had ``ask`` and ``satellite`` for concepts created by the
+    ask-anything flow, but that flow was deliberately given no path to create a
+    node at all: a question that finds a gap raises a *suggestion*, and committing
+    it goes through the ordinary changeset review, which lands as ``refinement``.
+    Keeping the unreachable values would have implied a code path that does not
+    exist.
+    """
 
     GENERATED = "generated"
     REFINEMENT = "refinement"
-    ASK = "ask"
-    SATELLITE = "satellite"
 
 
 class StudySessionStatus(StrEnum):

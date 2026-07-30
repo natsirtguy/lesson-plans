@@ -31,7 +31,7 @@ const COL_GAP = 74;
 const ROW_GAP = 116;
 const PAD = 40;
 
-interface Placed {
+export interface Placed {
   node: GraphNode;
   x: number;
   y: number;
@@ -55,7 +55,7 @@ export function masteryColor(mastery: number): string {
 }
 
 /** Lay the graph out in tiers, ordering each tier to minimise edge crossings. */
-function layout(graph: Graph): { placed: Placed[]; width: number; height: number } {
+export function layout(graph: Graph): { placed: Placed[]; width: number; height: number } {
   const tiers = [...new Set(graph.nodes.map((n) => n.tier))].sort((a, b) => a - b);
   const byTier = new Map<number, GraphNode[]>();
   for (const tier of tiers) {
@@ -85,9 +85,13 @@ function layout(graph: Graph): { placed: Placed[]; width: number; height: number
     byTier.set(tier, ordered);
   });
 
+  // Both dimensions are floored at the padding. With no tiers at all the row term
+  // is negative, and an SVG with a negative height is invalid markup -- the
+  // component happens to return early on an empty graph, but the layout function
+  // must not depend on its caller doing that.
   const widest = Math.max(1, ...tiers.map((t) => (byTier.get(t) ?? []).length));
-  const width = PAD * 2 + (widest - 1) * COL_GAP;
-  const height = PAD * 2 + (tiers.length - 1) * ROW_GAP;
+  const width = Math.max(PAD * 2, PAD * 2 + (widest - 1) * COL_GAP);
+  const height = Math.max(PAD * 2, PAD * 2 + (tiers.length - 1) * ROW_GAP);
 
   const placed: Placed[] = [];
   tiers.forEach((tier, index) => {

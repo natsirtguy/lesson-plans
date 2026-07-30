@@ -19,7 +19,6 @@ class NodeRead(ApiModel):
     definition: str
     tier: int
     origin: str
-    is_satellite: bool
     mastery: float
     confidence: float
     direct_observations: int

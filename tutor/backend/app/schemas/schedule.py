@@ -24,6 +24,8 @@ class SessionRead(ApiModel):
     unit_ids: list[str]
     #: Reviews that were due but exceeded the daily cap.
     deferred_node_ids: list[str]
+    #: Coverage as it would stand once this session and every earlier one is done.
+    projected_coverage: float
     notes: str
     completed_at: datetime | None
 

@@ -102,7 +102,7 @@ async def graph_snapshot(session: AsyncSession, subject_id: str) -> Any:
     return {
         "version": subject.graph_version,
         "nodes": sorted(
-            (n.id, n.name, n.tier, n.definition, n.deleted_at, n.origin, n.is_satellite)
+            (n.id, n.name, n.tier, n.definition, n.deleted_at, n.origin)
             for n in await graph.all_nodes(subject_id)
         ),
         "edges": sorted((e.prereq_id, e.node_id) for e in await graph.live_edges(subject_id)),

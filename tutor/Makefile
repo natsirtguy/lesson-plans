@@ -64,9 +64,13 @@ test: $(VENV)/bin/python ## Run the backend test suite
 .PHONY: check
 check: lint types test ## Everything that must pass before a commit
 
+.PHONY: test-frontend
+test-frontend: ## Run the frontend test suite
+	cd $(FRONTEND) && npm test
+
 .PHONY: check-frontend
-check-frontend: ## Typecheck and build the frontend
-	cd $(FRONTEND) && npm run typecheck && npm run build
+check-frontend: ## Typecheck, test, and build the frontend
+	cd $(FRONTEND) && npm run typecheck && npm test && npm run build
 
 .PHONY: clean
 clean: ## Remove build artefacts and caches

@@ -40,7 +40,6 @@ def render_graph(loaded: LoadedSubject, params: MasteryParams) -> GraphRead:
                 definition=row.definition,
                 tier=meta.tier,
                 origin=row.origin,
-                is_satellite=row.is_satellite,
                 mastery=state.mastery,
                 confidence=state.confidence,
                 direct_observations=record.direct_observations if record else 0,

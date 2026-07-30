@@ -89,7 +89,11 @@ One rename from the spec's surface, not an addition:
     stale due queue is worse than an error, because the learner would act on it.
 
 Optional flags (calendar, recovery-aware scheduling) are wired as feature-flagged
-providers with a null default so the core build doesn't depend on them.
+providers with a null default so the core build doesn't depend on them. **No real
+provider ships** — `app/integrations/` defines a Protocol per capability and a null
+implementation of each, and the resolvers return the null one whatever the flag says.
+The seam is real and exercised on every schedule build; the capability is not. Adding a
+provider means implementing one Protocol and changing one resolver.
 
 ## Risk notes
 

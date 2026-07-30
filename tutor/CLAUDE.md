@@ -25,17 +25,18 @@ tutor/
       db.py              async engine/session, Base
       models/            SQLAlchemy 2.0 ORM (Mapped[...] style)
       schemas/           Pydantic v2 API schemas (never reused as ORM)
+      sse.py             server-sent event framing
       mastery/           PURE functions: elo, propagation, selection, decay, reconcile
-      graphs/            concept-graph ops: changeset validation + application
-      scheduling/        fsrs.py (item intervals), planner.py (session planning)
-      llm/               typed adapter boundary: base.py, anthropic.py, fake.py, prompts.py
+      graphs/            concept-graph ops: changeset validation, application, sequencing
+      scheduling/        fsrs.py (item intervals), planner.py (sessions), calibration.py
+      llm/               typed adapter boundary: base.py, anthropic_adapter.py, fake.py
+      integrations/      optional calendar / recovery-signal seams, null by default
       repositories/      persistence only; own the SQL
       services/          all business logic
       routers/           parse/validate/delegate; no logic
     alembic/             migrations
     tests/               pytest; zero network calls
-  frontend/              React + Vite + TS PWA
-  docs/                  design notes worth keeping
+  frontend/              React + Vite + TS PWA; vitest for the pure functions
 ```
 
 ## Hard rules
@@ -225,6 +226,14 @@ that per statement.
   Reviews past the cap are **deferred and reported**, never dropped — a planner that
   silently sheds work is worse than one that says it is behind.
 
+  **Interleaving is a real pass, not a hopeful docstring.** `interleave()` deals the
+  capped due set from piles grouped by `branch_of()` — the alphabetically-first root a
+  concept is built on — so consecutive retrievals come from different parts of the
+  subject. The cap is applied *before* the weave: what gets dropped is decided by value,
+  and the weave only reorders survivors. New material is never interleaved, because plan
+  order is the correctness property and shuffling it would trade that for a study
+  technique.
+
   Adherence is **counted, never scored**. Sessions planned/completed/missed, current and
   longest streak. No points, no badges, no penalty for breaking a streak — the spec
   forbids gamification and the numbers exist so the learner can judge whether their
@@ -284,3 +293,16 @@ the token rather than a literal.
   because the learner would act on it.
 - Touch targets are `var(--touch)` (44px) minimum; the graph's visible dots are smaller
   than that and carry an invisible 48px hit circle.
+
+## Optional integrations
+
+`app/integrations/` holds a Protocol and a null implementation for each of the two
+optional capabilities (calendar, recovery signal). Be accurate about what this is: **no
+real provider exists**, and `get_calendar_sink` / `get_recovery_signal` return the null
+one whatever the flag says. What the seam buys is that the call sites already exist and
+run on every schedule build, so adding a provider is implementing one Protocol rather
+than retrofitting conditionals into the scheduler.
+
+A null implementation returns `None`, never a neutral-looking value. `None` from the
+recovery signal means "nobody measured"; `0.5` would mean "an average day", and a
+scheduler that conflates them will bias a plan on a number that does not exist.

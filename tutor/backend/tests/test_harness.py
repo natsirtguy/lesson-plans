@@ -67,7 +67,6 @@ async def test_database_round_trip(session: AsyncSession) -> None:
     found = (await session.execute(select(ConceptNode))).scalar_one()
     assert found.tier == 2
     assert found.deleted_at is None
-    assert found.is_satellite is False
     assert subject.graph_version == 1
 
 
