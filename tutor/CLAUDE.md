@@ -92,6 +92,36 @@ Seeding a new node at zero mastery is a bug, not a conservative default: it fabr
 weakness and burns diagnostic questions confirming the learner doesn't know something
 their prerequisites imply they probably do.
 
+## Where the mastery model departs from the original spec
+
+Both of these were found by the synthetic-learner test, which failed loudly with the
+literal reading. Do not "fix" them back.
+
+1. **Propagation carries a bound, not only a decayed delta.** Nudging a neighbour by
+   a share of the delta is too weak to travel: a learner who demonstrates tier-4
+   competence still read as a beginner at tier 1, because 30 questions cannot touch
+   100 nodes. So success also imposes a *floor* on prerequisites and failure a
+   *ceiling* on dependents — the constraint that a concept cannot be much better
+   known than what it is built on, loosening by `prereq_bound_slack` per hop.
+2. **Item selection weights by expected reach, not by unblocking power.** Weighting
+   purely by "how many nodes does this unblock" sends the selector into the
+   foundations and keeps it there, because success at a root propagates nowhere —
+   a root has no prerequisites. The reach term is therefore
+   `P(correct) × weighted-prerequisites + P(wrong) × weighted-dependents`; unblocking
+   power is the failure half of that expectation rather than the whole of it. This is
+   what makes the search bisect the DAG instead of sweeping it.
+
+A third addition has no counterpart in the spec: `refresh_priors` re-derives the
+*prior* of weakly-evidenced nodes from their prerequisites and from how the learner
+has fared at that difficulty tier. It is not evidence propagation — confidence is
+never raised by it — but without it every untested concept sits at the seed it was
+given before anything was known about the learner.
+
+**Tunables are calibrated, not guessed.** The defaults in `mastery/state.py` were
+swept against the synthetic learner across four learner profiles, seven answer seeds,
+and four graph shapes. Changing one means re-running
+`tests/test_mastery_synthetic.py` and expecting to be told if it made things worse.
+
 ## Two scheduling layers — do not conflate them
 
 - **Layer 1, FSRS (`scheduling/fsrs.py`)** decides *when an item is due*. Grades come from
