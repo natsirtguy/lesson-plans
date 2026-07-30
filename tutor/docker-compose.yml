@@ -1,0 +1,57 @@
+# `docker compose up` runs the app on SQLite with no external services.
+# `docker compose --profile postgres up` swaps in Postgres to exercise the
+# production-shaped schema.
+
+services:
+  backend:
+    build:
+      context: ./backend
+    command: >
+      sh -c "alembic upgrade head &&
+             uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload"
+    environment:
+      TUTOR_DATABASE_URL: ${TUTOR_DATABASE_URL:-sqlite+aiosqlite:////data/tutor.db}
+      TUTOR_ANTHROPIC_API_KEY: ${TUTOR_ANTHROPIC_API_KEY:-}
+      # No key configured? Fall back to the offline adapter so the stack still boots.
+      TUTOR_LLM_PROVIDER: ${TUTOR_LLM_PROVIDER:-anthropic}
+      TUTOR_CORS_ORIGINS: '["http://localhost:5173"]'
+    volumes:
+      - ./backend/app:/srv/app
+      - ./backend/alembic:/srv/alembic
+      - tutor-data:/data
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+    environment:
+      VITE_API_BASE: http://localhost:8000
+    volumes:
+      - ./frontend/src:/srv/src
+      - ./frontend/index.html:/srv/index.html
+      - ./frontend/public:/srv/public
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend
+
+  postgres:
+    profiles: ["postgres"]
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: tutor
+      POSTGRES_PASSWORD: tutor
+      POSTGRES_DB: tutor
+    ports:
+      - "5432:5432"
+    volumes:
+      - tutor-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tutor"]
+      interval: 5s
+      retries: 10
+
+volumes:
+  tutor-data:
+  tutor-postgres:
