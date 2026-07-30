@@ -77,6 +77,9 @@ class FakeLLMAdapter:
     calls: list[FakeCall] = field(default_factory=list)
     #: Maps a prompt to a rubric score in [0, 1].
     grade_hook: Callable[[str], float] | None = None
+    #: Replaces the generated concept graph entirely, for tests that need a
+    #: deliberately malformed one.
+    graph_hook: Callable[[str], GeneratedGraph] | None = None
     #: Maps (prompt, parsed nodes) to a classification.
     classify_hook: Callable[[str, list[ParsedNode]], QueryClassification] | None = None
     #: Maps (prompt, parsed nodes) to a proposed changeset.
@@ -169,6 +172,8 @@ class FakeLLMAdapter:
 
         :param prompt: Used to recover the subject name.
         """
+        if self.graph_hook is not None:
+            return self.graph_hook(prompt)
         subject = _field(prompt, "SUBJECT") or "Subject"
         size = max(2, self.graph_size)
         tiers = [1 + (index * 5) // size for index in range(size)]

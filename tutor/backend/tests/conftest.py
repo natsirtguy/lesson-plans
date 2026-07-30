@@ -28,6 +28,7 @@ from sqlalchemy.ext.asyncio import (
 
 from app.config import Settings, get_settings
 from app.db import Base, get_session
+from app.deps import get_session_factory
 from app.llm import get_adapter
 from app.llm.fake import FakeLLMAdapter
 from app.main import create_app
@@ -108,6 +109,9 @@ def configured_app(
     application.dependency_overrides[get_session] = override_session
     application.dependency_overrides[get_adapter] = lambda: fake_llm
     application.dependency_overrides[get_settings] = lambda: app_settings
+    # Background tasks open their own session, so point them at the test database
+    # too -- otherwise a task would quietly write to the developer's real one.
+    application.dependency_overrides[get_session_factory] = lambda: sessionmaker_
     yield application
     application.dependency_overrides.clear()
 
