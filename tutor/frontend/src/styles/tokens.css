@@ -1,0 +1,122 @@
+/*
+ * Design tokens.
+ *
+ * A small, deliberate system rather than a utility framework. Three decisions
+ * carry most of the look:
+ *
+ * 1. **One accent, used sparingly.** Blue means "the app is telling you something
+ *    actionable". If everything is accented nothing is.
+ * 2. **Mastery has its own scale**, and it is the only place colour encodes a
+ *    quantity. It runs slate to blue to green rather than red to green, because
+ *    a subject you have not studied yet is *unknown*, not *wrong*, and colouring
+ *    it like a failure is a lie about the learner.
+ * 3. **Type scale is narrow and the line length is capped.** Long-form lessons are
+ *    the main reading surface; everything else defers to them.
+ */
+
+:root {
+  color-scheme: dark;
+
+  /* Surfaces, from furthest back to nearest. */
+  --bg: #101216;
+  --surface: #171a20;
+  --surface-raised: #1d2129;
+  --surface-sunken: #0c0e12;
+  --line: #262b34;
+  --line-strong: #333a46;
+
+  /* Text. */
+  --text: #e6e8ec;
+  --text-muted: #9aa2b1;
+  --text-faint: #6b7383;
+
+  /* One accent. */
+  --accent: #5b8def;
+  --accent-bright: #8ab4ff;
+  --accent-dim: #2c4270;
+  --accent-wash: rgba(91, 141, 239, 0.12);
+
+  /* Status, used only where status is the message. */
+  --warn: #d8a657;
+  --warn-wash: rgba(216, 166, 87, 0.12);
+  --danger: #e06c75;
+  --danger-wash: rgba(224, 108, 117, 0.12);
+  --good: #7cba8f;
+  --good-wash: rgba(124, 186, 143, 0.12);
+
+  /* Mastery scale: unknown -> partial -> held. */
+  --mastery-1: #414855;
+  --mastery-2: #3f5f8a;
+  --mastery-3: #4b83c9;
+  --mastery-4: #5aa88b;
+  --mastery-5: #7cba8f;
+
+  /* Type. */
+  --font-sans:
+    ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.8125rem;
+  --text-base: 0.9375rem;
+  --text-lg: 1.0625rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+
+  /* Space, on a 4px grid. */
+  --s1: 0.25rem;
+  --s2: 0.5rem;
+  --s3: 0.75rem;
+  --s4: 1rem;
+  --s5: 1.5rem;
+  --s6: 2rem;
+  --s7: 3rem;
+
+  --radius: 10px;
+  --radius-sm: 6px;
+  --radius-lg: 16px;
+
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 8px 24px rgba(0, 0, 0, 0.28);
+
+  /* Reading measure, and the minimum comfortable touch target. */
+  --measure: 68ch;
+  --touch: 44px;
+
+  --ease: cubic-bezier(0.2, 0, 0.15, 1);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+    --bg: #f7f8fa;
+    --surface: #ffffff;
+    --surface-raised: #ffffff;
+    --surface-sunken: #eef0f4;
+    --line: #e0e3e9;
+    --line-strong: #c9cdd6;
+    --text: #1b1f27;
+    --text-muted: #59616f;
+    --text-faint: #858c99;
+    --accent: #2f6fdd;
+    --accent-bright: #1d5cc9;
+    --accent-dim: #b9cdf3;
+    --accent-wash: rgba(47, 111, 221, 0.09);
+    --mastery-1: #d3d7de;
+    --mastery-2: #a9c1e2;
+    --mastery-3: #6d9fd8;
+    --mastery-4: #6bb394;
+    --mastery-5: #4f9d72;
+    --shadow: 0 1px 2px rgba(16, 20, 28, 0.06), 0 8px 24px rgba(16, 20, 28, 0.08);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

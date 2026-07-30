@@ -80,6 +80,14 @@ One rename from the spec's surface, not an addition:
 10. **Frontend.** Graph viewer, diagnostic runner, report, plan/lesson reader, changeset
     diff UI, schedule view, Cmd+K ask palette, service worker.
 
+    Two decisions taken while building it. The lesson renderer (marked + KaTeX +
+    highlight.js) is **dynamically imported**: it is 353 kB of the app and is needed by
+    two views, so the graph, report, plan and schedule now open on a 46 kB entry chunk
+    instead of a 562 kB one. And the service worker runs **two caches with opposite
+    rules** — cache-first for the content-hashed shell, network-first with a fallback for
+    `GET /lessons/{id}`. Nothing else from the API is cached: a stale concept graph or a
+    stale due queue is worse than an error, because the learner would act on it.
+
 Optional flags (calendar, recovery-aware scheduling) are wired as feature-flagged
 providers with a null default so the core build doesn't depend on them.
 

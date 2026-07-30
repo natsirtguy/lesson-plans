@@ -257,3 +257,30 @@ make test
 make migrate  # alembic upgrade head
 docker compose up
 ```
+
+## Frontend
+
+No Tailwind and no graph library, both deliberate (see `PLAN.md`). `styles/tokens.css` is
+the whole design system: if a component needs a colour or a space that is not a token, add
+the token rather than a literal.
+
+- **The graph is a layered DAG, not a force simulation.** The data has a canonical vertical
+  order — tier 1 at the bottom — and physics throws that away for a wobble. A barycentre
+  pass orders each tier by the mean column of its prerequisites so edges run mostly
+  straight up. Layout is deterministic: the graph must not rearrange itself between visits.
+  All four encodings from the spec are live — fill is mastery, opacity is confidence, a
+  ring means the estimate is earned, and a greyed dashed edge means the prerequisite is not
+  yet held.
+- **The lesson renderer is dynamically imported.** marked + KaTeX + highlight.js is 353 kB
+  and two views need it. Do not import `markdown-render` statically; go through
+  `Markdown.tsx`, which shows raw text until the module lands — prose streams, so a blank
+  panel would make a fast answer look hung.
+- **Maths is extracted before markdown runs**, not after. `marked` turns `$x_i$` into
+  emphasis and eats `\\`. Placeholders in, markdown over LaTeX-free text, KaTeX output
+  substituted back.
+- **The service worker caches two things under opposite rules**: the content-hashed shell
+  cache-first, and `GET /lessons/{id}` network-first with a cache fallback. Do not add
+  other API routes to it. A stale graph or a stale due queue is worse than an error,
+  because the learner would act on it.
+- Touch targets are `var(--touch)` (44px) minimum; the graph's visible dots are smaller
+  than that and carry an invisible 48px hit circle.
