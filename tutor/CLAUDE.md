@@ -219,6 +219,19 @@ that per statement.
   down and what happens in that sitting*. Session shape is fixed: due retrieval first,
   then new material, then an exit check. Retrieval before instruction, always.
 
+  Three properties the tests hold it to, all from the spec's acceptance criteria: the
+  schedule matches the cadence, the daily cap actually binds, and an unreachable deadline
+  is *named with its shortfall* rather than compressed into a plan that will not happen.
+  Reviews past the cap are **deferred and reported**, never dropped — a planner that
+  silently sheds work is worse than one that says it is behind.
+
+  Adherence is **counted, never scored**. Sessions planned/completed/missed, current and
+  longest streak. No points, no badges, no penalty for breaking a streak — the spec
+  forbids gamification and the numbers exist so the learner can judge whether their
+  cadence is realistic. Regenerating a schedule turns past *planned* sittings into
+  *missed* ones rather than deleting them; otherwise adherence would improve every time
+  the schedule was rebuilt.
+
 A card is keyed on **node**, not on a specific generated item: items are LLM-generated and
 disposable, so the scheduling state lives on the concept and each retrieval draws a fresh
 item for it. This is a deliberate deviation from card-per-item FSRS; it keeps intervals

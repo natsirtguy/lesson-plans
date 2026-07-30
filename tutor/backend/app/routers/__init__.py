@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from fastapi import APIRouter
 
-from app.routers import ask, changesets, diagnostic, plans, reviews, subjects
+from app.routers import ask, changesets, diagnostic, plans, reviews, schedule, subjects
 
 #: Registered in this order by the application factory.
 ROUTERS: tuple[APIRouter, ...] = (
@@ -18,6 +18,7 @@ ROUTERS: tuple[APIRouter, ...] = (
     diagnostic.router,
     plans.router,
     reviews.router,
+    schedule.router,
     ask.router,
 )
 
