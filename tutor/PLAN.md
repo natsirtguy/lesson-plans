@@ -23,9 +23,12 @@ The spec's surface is kept verbatim. Additions, all additive:
 - `GET /lessons/{id}` — fetch already-generated lesson markdown. `POST /ask` and plan units
   stream over SSE, and streamed responses can't be cached by a service worker; a plain GET of
   the persisted markdown is what makes offline review work.
-- `POST /reviews/answer` — grade a retrieval that came from the review queue rather than
-  from a diagnostic or an exit check. Without it, FSRS has no way to receive a grade for a
-  plain review touch.
+- `POST /subjects/{id}/reviews/answer` — grade a retrieval that came from the review queue
+  rather than from a diagnostic or an exit check. Without it, FSRS has no way to receive a
+  grade for a plain review touch. Scoped under the subject (the spec wrote `/reviews/answer`)
+  because the handler has to verify the item belongs to the subject being reviewed.
+- `GET /subjects/{id}/reviews` and `GET /subjects/{id}/reviews/next` — the due queue, and the
+  question drawn for the top of it.
 - `GET /subjects/{id}/calibration` — retrieval-success stats and the widen/tighten advice.
   Folded into the report response too, but useful alone.
 - `GET /subjects/{id}/plan` and `GET /plan/{id}` — read the current plan without regenerating it.

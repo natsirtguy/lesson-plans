@@ -109,6 +109,12 @@ class Settings(BaseSettings):
     # --- scheduling ----------------------------------------------------------
     target_retention: float = 0.85
     daily_review_cap: int = 20
+    #: Ceiling on a scheduled interval, in days.
+    fsrs_maximum_interval_days: float = 36500.0
+    #: Short delays a lapsed concept climbs before returning to review scheduling.
+    fsrs_relearning_minutes: list[float] = Field(default_factory=lambda: [10.0, 1440.0])
+    #: Whether a freshly taught concept follows the fixed 1/3/7/21-day ladder.
+    use_acquisition_ladder: bool = True
     default_days_per_week: int = 4
     default_minutes_per_session: int = 20
     #: Minutes budgeted for opening retrieval in a 20-minute session.

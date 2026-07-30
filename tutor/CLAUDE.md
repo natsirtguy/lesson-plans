@@ -203,7 +203,18 @@ that per statement.
 
 - **Layer 1, FSRS (`scheduling/fsrs.py`)** decides *when an item is due*. Grades come from
   the LLM rubric score via `grade_from_score`, never from self-report. A lapse enters
-  relearning steps; an interval is never reset to zero.
+  relearning steps; an interval is never reset to zero (`post_lapse_stability` keeps a
+  fraction, floored at `MIN_STABILITY`, and there is a test that a relapsed concept is
+  still scheduled further out than a brand-new one).
+
+  **The acquisition ladder deliberately overrides FSRS downward.** A freshly taught
+  concept follows 1/3/7/21 days, even though at 85% retention FSRS asks for roughly six
+  days after one "good". FSRS's initial weights are fitted on Anki cards that graduated
+  through same-session learning steps; our first grade is one exit check taken minutes
+  after first reading. Six days on that evidence is optimistic. While on the ladder the
+  interval is fixed but stability still moves with every grade, so the model keeps
+  learning — `test_grade_moves_stability_even_while_the_ladder_fixes_the_interval`.
+  A lapse abandons the ladder: a forgotten concept is no longer being acquired.
 - **Layer 2, the session planner (`scheduling/planner.py`)** decides *when the user sits
   down and what happens in that sitting*. Session shape is fixed: due retrieval first,
   then new material, then an exit check. Retrieval before instruction, always.

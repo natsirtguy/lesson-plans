@@ -51,6 +51,7 @@ from app.services.graph_loader import GraphLoader, LoadedSubject
 from app.services.item_service import ItemService
 from app.services.lesson_service import LessonService
 from app.services.mastery_service import MasteryUpdater
+from app.services.review_service import ReviewService
 
 #: Formats an exit check rotates through. Production before diagnosis: "explain
 #: it" tests whether the lesson landed, "say why this is wrong" tests whether it
@@ -97,6 +98,7 @@ class PlanService:
         self._items = ItemService(session, adapter, settings)
         self._lessons = LessonService(session)
         self._mastery = MasteryUpdater(self._params)
+        self._reviews = ReviewService(session, adapter, settings)
 
     # --- generation ----------------------------------------------------------
 
@@ -463,6 +465,16 @@ class PlanService:
                 )
                 scores.append(result.score)
                 feedback.append(result.feedback)
+
+        if scores:
+            # The exit check is this concept's first retrieval, which is exactly the
+            # observation the scheduler most needs. Without folding it in, a concept
+            # would sit unscheduled after being taught and never come back around.
+            await self._reviews.record_retrieval(
+                loaded,
+                unit.node_id,
+                grade_for(sum(scores) / len(scores), self._settings),
+            )
 
         unit.status = UnitStatus.SKIPPED if payload.skipped else UnitStatus.COMPLETE
         unit.completed_at = utcnow()
