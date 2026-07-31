@@ -41,11 +41,14 @@ export interface GraphNode {
 export interface GraphEdge {
   prereq_id: string;
   node_id: string;
+  /** True when the prerequisite is not yet mastered, so the edge is not crossable. */
+  locked: boolean;
 }
 
 export interface Graph {
   subject_id: string;
   graph_version: number;
+  graph_status: Subject["graph_status"];
   nodes: GraphNode[];
   edges: GraphEdge[];
   coverage: number;

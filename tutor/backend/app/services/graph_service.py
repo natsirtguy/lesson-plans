@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from app.mastery.coverage import ready_to_learn
+from app.mastery.coverage import coverage, ready_to_learn
 from app.mastery.state import MasteryParams
 from app.schemas.graph import EdgeRead, GraphRead, NodeRead
 from app.services.graph_loader import LoadedSubject
@@ -67,4 +67,5 @@ def render_graph(loaded: LoadedSubject, params: MasteryParams) -> GraphRead:
         graph_status=loaded.subject.graph_status,
         nodes=nodes,
         edges=edges,
+        coverage=coverage(states),
     )

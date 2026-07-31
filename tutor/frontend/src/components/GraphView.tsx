@@ -128,10 +128,6 @@ export function GraphView({ graph, selectedId, onSelect, highlightIds = [] }: Gr
     [placed],
   );
   const highlighted = useMemo(() => new Set(highlightIds), [highlightIds]);
-  const mastered = useMemo(
-    () => new Set(graph.nodes.filter((n) => n.mastery >= 0.7).map((n) => n.id)),
-    [graph.nodes],
-  );
 
   if (graph.nodes.length === 0) {
     return <p className="muted">This graph has no concepts yet.</p>;
@@ -151,9 +147,10 @@ export function GraphView({ graph, selectedId, onSelect, highlightIds = [] }: Gr
             const from = positions.get(edge.prereq_id);
             const to = positions.get(edge.node_id);
             if (!from || !to) return null;
-            // An edge is "locked" when its prerequisite is not yet mastered: the
-            // path through it is not open, and greying it says so at a glance.
-            const locked = !mastered.has(edge.prereq_id);
+            // The server decides what "locked" means -- one definition of "can the
+            // learner cross this yet", rather than a client-side copy of the
+            // threshold that drifts the first time the threshold is configured.
+            const locked = edge.locked;
             const touching =
               selectedId === edge.prereq_id || selectedId === edge.node_id;
             return (

@@ -23,11 +23,10 @@ from sqlalchemy.ext.asyncio import (
     AsyncEngine,
     AsyncSession,
     async_sessionmaker,
-    create_async_engine,
 )
 
 from app.config import Settings, get_settings
-from app.db import Base, get_session
+from app.db import Base, build_engine, get_session
 from app.deps import get_session_factory
 from app.llm import get_adapter
 from app.llm.fake import FakeLLMAdapter
@@ -54,7 +53,14 @@ async def engine(app_settings: Settings) -> AsyncIterator[AsyncEngine]:
 
     :param app_settings: Test settings supplying the database URL.
     """
-    eng = create_async_engine(app_settings.database_url, future=True)
+    # Built through the application's own factory, not create_async_engine, so the
+    # tests run under the same PRAGMA foreign_keys=ON that production does. An
+    # engine made directly here leaves foreign keys *unenforced* on SQLite, and a
+    # suite that cannot see a referential-integrity violation will happily certify
+    # one -- which is exactly what happened: the whole suite passed against a graph
+    # generation path that inserted prerequisite edges before the concepts they
+    # point at, and it only surfaced the first time the server actually ran.
+    eng = build_engine(app_settings)
     async with eng.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
     yield eng

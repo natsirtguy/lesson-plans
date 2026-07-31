@@ -49,3 +49,7 @@ class GraphRead(ApiModel):
     graph_status: str
     nodes: list[NodeRead]
     edges: list[EdgeRead]
+    #: Mean estimated mastery across every live concept, the same figure the report
+    #: leads with. Carried here so the graph view can show where the learner stands
+    #: without a second request for one number.
+    coverage: float

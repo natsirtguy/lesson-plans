@@ -141,7 +141,7 @@ class SubjectService:
                 task="graph_generation",
                 reasoning=True,
             )
-            self._persist(subject, generated)
+            await self._persist(subject, generated)
         except (LLMError, GraphGenerationError) as exc:
             await self._session.rollback()
             subject = await self._reload_for_failure(subject_id, exc)
@@ -182,7 +182,7 @@ class SubjectService:
         )
         return "\n".join(lines)
 
-    def _persist(self, subject: Subject, generated: GeneratedGraph) -> None:
+    async def _persist(self, subject: Subject, generated: GeneratedGraph) -> None:
         """Validate a generated graph and stage its rows.
 
         :param subject: The subject being populated.
@@ -212,6 +212,13 @@ class SubjectService:
                 introduced_in_version=subject.graph_version,
             )
             rows[row.name_key] = self._graph.add_node(row)
+        # The concepts have to be written before the edges and mastery rows that
+        # reference them. SQLAlchemy derives flush order from `relationship()`, and
+        # this schema uses plain id columns on purpose, so the unit of work does not
+        # know concept_edges depends on concept_nodes -- a table-level ForeignKey
+        # only orders DDL. Without this flush the order is arbitrary, and under
+        # PRAGMA foreign_keys=ON the edge insert fails.
+        await self._session.flush()
 
         edges = self._resolve_edges(nodes, by_key, rows)
         candidate = ConceptGraph(

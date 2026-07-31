@@ -31,7 +31,10 @@ function graphOf(nodes: GraphNode[], edges: [string, string][]): Graph {
     subject_id: "s",
     graph_version: 1,
     nodes,
-    edges: edges.map(([prereq_id, node_id]): GraphEdge => ({ prereq_id, node_id })),
+    edges: edges.map(
+      ([prereq_id, node_id]): GraphEdge => ({ prereq_id, node_id, locked: true }),
+    ),
+    graph_status: "ready",
     coverage: 0.2,
   };
 }

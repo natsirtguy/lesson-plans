@@ -534,6 +534,13 @@ class ChangesetService:
 
         for draft in plan.added:
             await self._create_node(loaded, draft, version)
+        # New concepts have to reach the database before the edges and mastery rows
+        # that point at them. SQLAlchemy orders a flush from `relationship()`
+        # declarations, and this schema deliberately uses plain id columns, so it
+        # has no idea concept_edges depends on concept_nodes -- the table-level
+        # ForeignKey only orders DDL. Without this the insert order is arbitrary and
+        # a foreign key fails under PRAGMA foreign_keys=ON.
+        await self._session.flush()
 
         for node_id, name in plan.renamed.items():
             node = loaded.nodes.get(node_id)
