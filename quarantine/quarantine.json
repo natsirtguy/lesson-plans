@@ -4,7 +4,7 @@
   "policy": "Default state is quarantined. A topic goes live (added to topics.py + docs/initial-data.json, lesson moved back to docs/lessons/knowledge/) only after its lesson is reviewed and meets the standard. Review batch by batch, typically by category.",
   "counts": {
     "quarantined_knowledge": 294,
-    "resolved_knowledge": 15,
+    "resolved_knowledge": 19,
     "live_knowledge": 27
   },
   "knowledge": [
@@ -803,6 +803,38 @@
       "status": "quarantined",
       "resolved": true,
       "reason": "REPLACED (live) by Pigments and where color comes from (1087). Retitled around the concept and rebuilt so the activity is making paint from real pigments and binders rather than generic painting."
+    },
+    {
+      "id": 136,
+      "name": "Sculpture and 3D art with clay/playdough",
+      "category": "Creative and Expressive - Visual Arts",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Molds and casting (1091). The title named a craft and a material and the activity was free playdough exploration; it also duplicated 139 on clay/plasticity. The real concept is the negative/positive relationship and one-to-many manufacturing \u2014 mold-making, casting, lost-wax, injection-molding seam lines."
+    },
+    {
+      "id": 137,
+      "name": "Photography and picture-taking",
+      "category": "Creative and Expressive - Visual Arts",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Camera obscura and how light draws pictures (1092). 'Take pictures with a phone' is a default activity; the phenomenon underneath is that light travels in straight lines, so a pinhole projects the inverted world onto a wall. The camera and the eye follow from it."
+    },
+    {
+      "id": 138,
+      "name": "Printmaking and stamping",
+      "category": "Creative and Expressive - Visual Arts",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Movable type and copying by machine (1093). Stamping is the vehicle; the knowledge is mirror reversal plus the economics of reusable type \u2014 set once, print many \u2014 and what that did to the world."
+    },
+    {
+      "id": 139,
+      "name": "Pottery and clay work",
+      "category": "Creative and Expressive - Visual Arts",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Why fire turns clay into stone (1094). Kept the clay-to-ceramic concept, dropped the sensory-play framing: the activity is now the irreversibility test (dried clay vs a fired sherd in water) and why archaeology is mostly pottery."
     },
     {
       "id": 140,

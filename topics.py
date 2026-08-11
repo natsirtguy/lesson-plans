@@ -26,18 +26,20 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     "Creative and Expressive - Visual Arts": [
         "Pigments and where color comes from",
         "Murals and painting on walls",
-        "Sculpture and 3D art with clay/playdough",
-        "Photography and picture-taking",
-        "Printmaking and stamping",
-        "Pottery and clay work",
         "Art installation and display"
+    ],
+    "Systems and Activities - Technological": [
+        "Molds and casting",
+        "Movable type and copying by machine"
     ],
     "Physical World - Life Sciences": [
         "Seeds and germination",
         "Decomposition and compost"
     ],
     "Physical World - Physical Sciences": [
-        "Buoyancy and why things float"
+        "Buoyancy and why things float",
+        "Camera obscura and how light draws pictures",
+        "Why fire turns clay into stone"
     ],
     "Systems and Activities - Mathematical": [
         "Counting, cardinality, and infinity"

@@ -89,9 +89,23 @@ examples from batch 4:
 | Building a blanket fort | Fortifications and choke points |
 | Painting a group mural | Murals — 40,000 years of public art, and how to copy a style |
 | Sink or float | Buoyancy (same lesson, honest name) |
+| Sculpture with clay/playdough | Molds and casting — negative/positive, and one-to-many |
+| Photography and picture-taking | The camera obscura — light travels in straight lines |
+| Printmaking and stamping | Movable type — mirror reversal, and set once print many |
+| Pottery and clay work | Why fire turns clay into stone — irreversibility |
 
 One activity often contains several good topics (drawing yields both pigments *and*
 pareidolia). Split them rather than cramming.
+
+Two warning signs that a topic is really an activity in disguise:
+- **The title contains a material or a tool** ("...with clay/playdough", "...and stamping").
+  A concept title names a phenomenon, not a supply cupboard.
+- **Two topics keep colliding.** 136 and 139 both drifted onto clay plasticity because
+  neither was anchored to a concept. Give each a distinct idea and the collision resolves.
+
+Expect the category to change when you do this properly. Four of the five "Visual Arts"
+lessons in batch 5 turned out to be physics, materials science, and manufacturing once
+they were named honestly. That is the direction rule working, not a filing error.
 
 ## Quarantine-first policy
 
@@ -126,7 +140,7 @@ name, and the caregiver's `reason`. Sort them before working: some reasons are a
 ("good", "pretty good actually") and need no change at all; the rest name the specific
 defect and usually the fix. Treat the reason as the spec.
 
-## Status (2026-08-11, batch 4)
+## Status (2026-08-11, batches 4-5)
 
 **Scope:** the knowledge queue only. Physical activities and songs are untouched (their
 content is inherently activity/performance and outside this quality bar for now).
@@ -148,6 +162,12 @@ content is inherently activity/performance and outside this quality bar for now)
   (1090←123). 1 kept but rebuilt: attachment (1082), whose framing was sound but whose
   activity was doll play; it now runs the secure-base radius, social-referencing, and
   co-regulation experiments on the child directly.
+- Batch 5 (the four batch-3 leftovers, re-reviewed against the direction rule): all four
+  failed it — concept-first *summaries* over craft-session activities, with 136 and 139
+  duplicating each other on clay. Replaced by molds and casting (1091←136), camera obscura
+  (1092←137), movable type (1093←138), and why fire turns clay into stone (1094←139).
+  Their categories moved with them, out of Visual Arts into physical sciences and
+  technology.
 
 **Quarantined:** 294 knowledge topics await review (`quarantine/quarantine.json`;
 `resolved: true` entries are review decisions already made — replaced or merged).
@@ -159,8 +179,12 @@ content is inherently activity/performance and outside this quality bar for now)
   is live via the bead-necklace lesson; still open: shapes/symmetry, measurement).
 - **Abscission / why leaves change color** → currently a supporting idea inside 130
   (nature display) and 1087 (pigments); wonderful enough to deserve its own lesson.
-- **Batch 3 leftovers to re-check against the direction rule**: 136 (sculpture), 137
-  (photography), 138 (printmaking), 139 (pottery) were promoted in place with concept-first
-  summaries, but their activities are still fairly close to "do the craft." The camera as
-  light-catcher and the clay→ceramic transformation are strong; the other two may want the
-  batch-4 treatment.
+- **Material dictates the pose** → dropped from the 136 rewrite to keep it focused, but
+  it is a strong topic on its own: marble is weak in tension so Roman marble copies of
+  Greek bronzes need tree-stump struts under the limbs, while bronze can rear a horse on
+  two legs. Structural forces (load-bearing, tension, compression) also lost their home
+  when the blanket-fort lesson became fortifications, so this would cover both.
+- **The remaining Cross-Domain Foundational Activities** (120, 121, 122, 124, 127, 130)
+  were promoted in batch 2 as already-refocused lessons. They have not been re-read since
+  the direction rule was written down; several of their titles still name procedures
+  ("Making a picture diary or journal", "Creating a nature display from a walk").
