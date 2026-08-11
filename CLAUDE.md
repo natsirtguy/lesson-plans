@@ -1,73 +1,88 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Guidance for Claude Code (claude.ai/code) when working in this repository.
 
 ## Project Overview
 
-This is a Daily Lesson Plan Queue System for early childhood education (ages 2-3+ years). The system manages two independent FIFO queues of educational topics:
+**Mentot** — a daily lesson plan queue for a young child (ages 2-4+). The app shows one
+topic from each queue (knowledge, physical, songs), and the caregiver selects it, skips it,
+or flags it as "needs work." Most of the value in this repo is the **lesson plans**
+themselves; the app is a thin static SPA for serving them.
 
-1. **Knowledge, Skills & Culture Queue** (316 topics - combined knowledge concepts, practical skills, and cultural/creative activities)
-2. **Physical Activities Queue** (117 topics)
+Full behavioural spec: `REQUIREMENTS.md`. Stack, layout, and local-dev instructions:
+`README.md`. Don't duplicate either of those here — this file is for the things you would
+otherwise get wrong.
 
-The system enables caregivers to select daily learning topics efficiently, ensuring balanced coverage across developmental domains while allowing flexibility to skip or flag topics for revision.
+## The two rules that break things
 
-## Core Concepts
+### 1. Three sources must be updated together
 
-### Queue System Architecture
-- Each queue operates as a circular buffer: when all items are completed, the queue automatically refills and begins a new cycle
-- Items can be **selected** (marked complete and logged), **skipped** (moved to end of queue), or **flagged for development** (moved to Development Queue for revision/removal)
-- The system is designed for collaborative use by multiple caregivers without requiring separate user identities
+Adding, renaming, or removing a topic touches **three** places. Miss one and the topic is
+invisible to search, unreachable from the queue, or a 404 when opened:
 
-### Key Data Entities
-- **Topic/Activity Item**: A single learning subject with name, description, category, queue assignment, and status
-- **Queue State**: Current order and position for each queue
-- **Completion Record**: Log of selected topics with date
-- **Development Queue**: Holding area for topics needing revision
-- **Master Lists**: Authoritative collections used to refill active queues when cycles complete
+1. `topics.py` — topic name in the right category list (used by `verify-lessons.py`)
+2. `docs/initial-data.json` — an entry in `masterLists.<queue>` (unique `id`, `name`,
+   `category`) **and** the id in `queues.<queue>`. This is the file the site actually
+   loads at runtime.
+3. `docs/lessons/<queue>/<filename>.md` — the lesson itself
 
-### Critical Requirements
-- Mobile-first design (primary use case is on smartphones/tablets)
-- Daily topic selection must take under 60 seconds
-- Must support 2-3 concurrent users without conflicts
-- Minimal/zero monthly cost ($0-10/month target)
-- No authentication required (single household use)
-- Real-time synchronization across devices (updates visible within 5 seconds)
+Then rerun both scripts:
 
-## Data Structure
+```bash
+python3 verify-lessons.py                  # topics.py <-> lesson files must match exactly
+python3 scripts/build-materials-index.py   # rebuilds docs/materials-index.json for search
+```
 
-The repository currently contains:
+### 2. Filenames are derived, and derived twice
 
-- **topics.py**: Python dictionary definitions for the 433 initial topics organized by category
-  - `KNOWLEDGE_AND_CULTURE_CATEGORIES`: 35 combined categories (19 knowledge + 16 activity/culture categories)
-  - `PHYSICAL_ACTIVITIES`: 10 physical activity categories with topics
-- **REQUIREMENTS.md**: Complete functional and non-functional requirements (Version 1.1)
+The app converts a topic name to a filename in JS at runtime; `verify-lessons.py` does the
+same in Python. The two implementations **disagree on punctuation** — Python hyphenates
+only `( ) , / whitespace`, while the JS strips all non-word characters first. They agree on
+plain words, commas, and hyphens, so keep topic names to those. A colon or apostrophe in a
+topic name will pass verification and 404 in the browser.
 
-### Topic Categories
-Topics preserve their original source categories as metadata:
-- Knowledge & Culture (Combined): Cross-Domain Foundational Concepts and Activities, Life Sciences, Physical Sciences, Earth & Space, Geography, Environmental Science, Individual/Social/Cultural/Economic/Linguistic Human Experience, Mathematical/Technological/Recreational/Creative Systems, Cognitive/Physical/Practical/Social-Emotional Skills, Visual/Performing/Literary Arts, Crafts, Digital Creation, Culinary Arts, Interpersonal/Group/Cultural Practices, Community Service, Communication, Teaching, Formal Learning, Games/Puzzles, Exploration, Cognitive Challenges, Research, Collecting, Household/Economic/Work/Maintenance/Planning/Safety/Transportation activities
-- Physical: Individual/Team Sports, Individual Physical, Outdoor Adventure, Aquatic/Winter/Combat Sports, Mind-Body Activities, Performance Arts, Motor Skills
-
-## Lesson Plans
+## Lesson plans
 
 ### Templates
-Lesson plan templates define the structure for each type of content:
-- **Knowledge, Skills & Culture**: `docs/templates/knowledge-lesson-template.md`
-- **Physical Activities**: `docs/templates/physical-lesson-template.md`
-- **Songs**: `docs/templates/song-lesson-template.md`
+- Knowledge: `docs/templates/knowledge-lesson-template.md`
+- Physical: `docs/templates/physical-lesson-template.md`
+- Songs: `docs/templates/song-lesson-template.md`
 
-When creating or editing lesson plans, follow the corresponding template for structure and section ordering.
+Follow the corresponding template's structure and section ordering.
 
-### Educational Philosophy: Intellectual Rigor for Young Children
-Lesson plans should be fun and hands-on, but **never dumbed down**. Young children — even toddlers — are capable of engaging with genuinely complex ideas. They won't understand everything, and that's fine. Early exposure to real concepts (real vocabulary, real mechanisms, real phenomena) primes children to see the world differently and builds a foundation for deeper understanding later.
+### Educational philosophy: intellectual rigor for young children
 
-**Guiding principles:**
-- Use real scientific/technical terms alongside simple explanations. Say "photosynthesis" and then explain it — don't replace it with "how plants eat."
-- Include actual content, not just themed play. A lesson on photosynthesis should teach that plants convert light into energy using chlorophyll, not just that "plants need sun."
-- Trust that partial understanding has value. A 2-year-old who hears "carbon dioxide" during a plant lesson won't memorize the carbon cycle, but they're building neural pathways and comfort with scientific language.
-- Activities should be genuinely engaging, not condescending. The goal is wonder and discovery, not simplified busywork dressed up in a topic's theme.
-- Let complexity be the backdrop to play. A child painting leaves green is more meaningful when the caregiver mentions chlorophyll than when the activity is just "coloring."
+Lesson plans should be fun and hands-on, but **never dumbed down**. Young children — even
+toddlers — are capable of engaging with genuinely complex ideas. They won't understand
+everything, and that's fine. Early exposure to real concepts (real vocabulary, real
+mechanisms, real phenomena) primes children to see the world differently and builds a
+foundation for deeper understanding later.
 
-### Lesson quality & the quarantine-first policy
+- Use real scientific and technical terms alongside simple explanations. Say
+  "photosynthesis" and then explain it — don't replace it with "how plants eat."
+- Include actual content, not just themed play.
+- Trust that partial understanding has value. A 2-year-old who hears "carbon dioxide"
+  during a plant lesson isn't memorizing the carbon cycle, but is building comfort with
+  scientific language.
+- Let complexity be the backdrop to play. A child painting leaves green is doing something
+  more interesting when the caregiver mentions chlorophyll.
+
+**The direction rule.** Topics come from the world, not from the activity shelf. Never
+start with something toddlers already do (drawing, painting, fort-building, show-and-tell,
+pretend play) and bolt a knowledge angle onto it — that produces a craft session in a lab
+coat, and it is how every rejected lesson so far went wrong. Start with a genuinely
+interesting phenomenon, then find the activity that *embodies* it. Test: strip the activity
+out; is there still a topic? "Painting with various materials" leaves nothing. "Pigments
+and where color comes from" survives on its own.
+
+Name lessons after the concept rather than the procedure, take the sharpest specific angle
+in a broad area, and link real references (Wikipedia inline; printed examples in the
+materials list) so activities can replicate real work instead of inventing filler.
+
+The full bar, the rewrite recipe for "default activity" topics, and worked examples are in
+**`planning/lesson-standard.md`** — read it before writing or reviewing any lesson.
+
+### Quarantine-first policy
 
 **The default state for every knowledge topic is *quarantined*.** A topic is live only
 after its lesson has been reviewed against `planning/lesson-standard.md` and improved if
@@ -75,115 +90,18 @@ needed — presence on the site is a stamp of approval, not the default. Do **no
 quarantined topics wholesale or "restore" them to make counts match; promote them one
 reviewed batch at a time.
 
-- **Live/approved** knowledge topics: in `topics.py` + `docs/initial-data.json` with the
-  lesson in `docs/lessons/knowledge/`.
-- **Quarantined** topics: listed in `quarantine/quarantine.json` (the review backlog), with
-  their lesson files preserved under `quarantine/lessons/knowledge/` (not served).
+- **Live/approved**: in `topics.py` + `docs/initial-data.json`, lesson in
+  `docs/lessons/knowledge/`.
+- **Quarantined**: listed in `quarantine/quarantine.json` (the review backlog), lessons
+  preserved under `quarantine/lessons/knowledge/` (not served).
 - Full pre-quarantine snapshot: `backups/initial-data.2026-07-14.json`.
 
-The bar and the batch-promotion loop are in `planning/lesson-standard.md`. In short: one
-focused concept per lesson; real knowledge over auto-acquired "activities"; genuine depth
-(name the real idea); and the hands-on activity must directly embody the concept. Scope is
-the knowledge queue only — physical activities and songs are untouched.
+Scope is the knowledge queue only — physical activities and songs are untouched.
 
-## Implementation Considerations
+### Reviewing flags from the app
 
-### Technology Stack
-- **Frontend**: Alpine.js 3.x SPA, Tailwind CSS, Marked.js (all via CDN)
-- **Audio**: TinyMusic.js for song melody playback
-- **Storage**: Browser localStorage for queue state persistence
-- **Offline**: Service Worker (PWA installable on iOS/Android)
-- **Hosting**: GitHub Pages serving static files from `/docs` folder (no build step)
-- **Cost**: $0/month
-
-### Website Architecture
-The site is a single-page app at `docs/index.html`. There is no build step or static site generator — files in `/docs` are served directly by GitHub Pages.
-
-**Critical: Two data sources must be kept in sync when modifying topics:**
-- **`topics.py`**: Source of truth for topic definitions (used by verification scripts)
-- **`docs/initial-data.json`**: The JSON file the website actually loads at runtime. Contains topic IDs, names, categories, and initial queue order. **If you only update `topics.py`, the website will not reflect the changes.**
-
-**When adding a new topic (including when adding a new lesson plan for a topic that doesn't yet exist), you MUST update all three things:**
-1. `topics.py` — add the topic name to the appropriate category list
-2. `docs/initial-data.json` — add a new entry with a unique `id`, `name`, and `category` to the appropriate queue in `masterLists`
-3. `docs/lessons/{queue}/{topic-name}.md` — the lesson plan file itself
-
-If you only create the lesson plan file without registering the topic in both data sources, it will be invisible to search and inaccessible from the queue UI.
-
-**How lesson plans are loaded at runtime:**
-1. App converts topic name to filename (lowercase, spaces→hyphens, strip special chars)
-2. Fetches `docs/lessons/{queue}/{filename}.md` via HTTP
-3. Marked.js renders markdown to HTML client-side
-
-### Data Migration
-The initial data in topics.py (433 items) has been:
-1. Parsed and transformed into `docs/initial-data.json`
-2. Assigned to appropriate queues (Knowledge/Physical)
-3. Loaded into master lists with randomized queue order
-
-### Queue Operations
-When implementing queue logic:
-- **Select**: Remove from active queue → Add to completion log → Advance queue → Check if empty and refill if needed
-- **Skip**: Remove from position → Append to end → Advance to next
-- **Flag for Development**: Remove from active queue → Add to Development Queue with reason → Don't include in future refills until restored
-- **Refill**: When last item selected → Restore all items from master list → Randomize order → Increment cycle counter
-
-### Ideas Workflow (Simplified in v1.1)
-When new ideas are submitted:
-1. Add directly to the master list for specified queue
-2. Add to beginning (next up position) of active queue by default
-3. No separate "pending review" state needed
-
-## User Workflows
-
-### Primary Workflow: Daily Topic Selection
-1. Open Daily Selection View (landing page)
-2. Review current topic from each queue
-3. For each queue: Select, Skip, or Flag as "Needs Work"
-4. Complete selection of 1-3 topics in under 60 seconds
-
-### Secondary Workflows
-- Add new topic ideas on-the-go (mobile quick-add)
-- Review and manage Development Queue (edit/delete/restore flagged topics)
-- View completion history and learning patterns
-- Manage master lists (bulk import/export, editing)
-- Manual queue reset when needed
-
-## Development Guidelines
-
-### Performance Targets
-- Queue displays load within 3 seconds on mobile connections
-- System responds to user actions within 2 seconds
-- Support up to 500 topics per queue
-- Support up to 1000 completion log entries
-
-### Data Integrity
-- Prevent duplicate topics within same master list (warn before adding)
-- Maintain referential integrity between completion records and topics
-- Handle deleted topics gracefully in historical records (soft delete)
-- Validate queue states contain only valid topic references
-
-### UI/UX Priorities
-1. Single-handed mobile operation
-2. Touch targets minimum 44x44 pixels
-3. Clear visual feedback for all actions
-4. Contextual help/tooltips for advanced features
-5. No training required for basic operations (select/skip)
-
-## Testing Approach
-
-When implementing features:
-- Test queue refill logic (edge case: last item selected)
-- Test concurrent access scenarios (multiple users selecting simultaneously)
-- Test offline functionality if implemented
-- Verify mobile responsiveness on various screen sizes
-- Test data persistence and recovery
-- Validate import/export functionality with actual topics.py data
-
-## MCP Servers Available
-
-This repository has two MCP servers configured:
-- **serena** (@oraios/serena): Available for use
-- **context7** (@upstash/context7): Available for use
-
-Refer to their documentation for specific capabilities.
+Caregiver feedback arrives as a JSON export whose `development` array holds the flagged
+topics with a free-text `reason`. Some reasons are approvals and need no change; the rest
+name the defect and usually the fix. Treat the reason as the spec, and record the outcome
+of every flag in `quarantine/quarantine.json` and the status section of
+`planning/lesson-standard.md`.
