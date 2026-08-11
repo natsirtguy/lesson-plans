@@ -1,13 +1,721 @@
 {
-  "generated": "2026-07-14",
+  "generated": "2026-08-11",
   "standard": "planning/lesson-standard.md",
   "policy": "Default state is quarantined. A topic goes live (added to topics.py + docs/initial-data.json, lesson moved back to docs/lessons/knowledge/) only after its lesson is reviewed and meets the standard. Review batch by batch, typically by category.",
   "counts": {
     "quarantined_knowledge": 294,
-    "resolved_knowledge": 9,
+    "resolved_knowledge": 15,
     "live_knowledge": 27
   },
   "knowledge": [
+    {
+      "id": 1,
+      "name": "Time and duration (physical cycles, human experience, sequences, measurement)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 2,
+      "name": "Patterns and systems (mathematical patterns, natural patterns, social patterns, thinking patterns)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 3,
+      "name": "Cause and effect (physical causation, social consequences, logical reasoning)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 4,
+      "name": "Change and adaptation (physical changes, human development, evolution, learning)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 5,
+      "name": "Energy and movement (physical energy, body movement, social dynamics)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 6,
+      "name": "Communication across forms (language, visual symbols, music, body language, information)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 7,
+      "name": "Structure and function (how things are built and what they do - bodies, societies, tools, buildings)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 8,
+      "name": "Interconnections (ecosystems, social networks, global connections, systems thinking)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 9,
+      "name": "Growth and development (biological growth, human development, skill development, societal progress)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 10,
+      "name": "Safety and protection (physical safety, emotional safety, environmental protection, social security)",
+      "category": "Cross-Domain Foundational Concepts",
+      "status": "quarantined"
+    },
+    {
+      "id": 11,
+      "name": "Cell (basic unit of life)",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 12,
+      "name": "Animal behaviors and types",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 13,
+      "name": "Plant growth and types",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 14,
+      "name": "Human body and functions",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 15,
+      "name": "Ecosystems and habitats",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 16,
+      "name": "Life cycles and development",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 17,
+      "name": "Food chains and relationships",
+      "category": "Physical World - Life Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 18,
+      "name": "Chemical elements and reactions",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 19,
+      "name": "Forces and motion",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 20,
+      "name": "Light and sound",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 21,
+      "name": "Heat and cold",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 22,
+      "name": "States of matter (water, ice, steam)",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 23,
+      "name": "Simple machines",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 24,
+      "name": "Fire and combustion",
+      "category": "Physical World - Physical Sciences",
+      "status": "quarantined"
+    },
+    {
+      "id": 25,
+      "name": "Weather and seasons",
+      "category": "Physical World - Earth & Space",
+      "status": "quarantined"
+    },
+    {
+      "id": 26,
+      "name": "Rocks and minerals",
+      "category": "Physical World - Earth & Space",
+      "status": "quarantined"
+    },
+    {
+      "id": 27,
+      "name": "Oceans and rivers",
+      "category": "Physical World - Earth & Space",
+      "status": "quarantined"
+    },
+    {
+      "id": 28,
+      "name": "Day and night cycles",
+      "category": "Physical World - Earth & Space",
+      "status": "quarantined"
+    },
+    {
+      "id": 29,
+      "name": "Planets and stars",
+      "category": "Physical World - Earth & Space",
+      "status": "quarantined"
+    },
+    {
+      "id": 30,
+      "name": "Natural phenomena",
+      "category": "Physical World - Earth & Space",
+      "status": "quarantined"
+    },
+    {
+      "id": 31,
+      "name": "Different environments (forest, desert, ocean, mountains)",
+      "category": "Physical World - Geography",
+      "status": "quarantined"
+    },
+    {
+      "id": 32,
+      "name": "Maps and directions",
+      "category": "Physical World - Geography",
+      "status": "quarantined"
+    },
+    {
+      "id": 33,
+      "name": "Countries and continents",
+      "category": "Physical World - Geography",
+      "status": "quarantined"
+    },
+    {
+      "id": 34,
+      "name": "Cities and rural areas",
+      "category": "Physical World - Geography",
+      "status": "quarantined"
+    },
+    {
+      "id": 35,
+      "name": "Climate zones",
+      "category": "Physical World - Geography",
+      "status": "quarantined"
+    },
+    {
+      "id": 36,
+      "name": "Natural landmarks",
+      "category": "Physical World - Geography",
+      "status": "quarantined"
+    },
+    {
+      "id": 37,
+      "name": "Human impact on nature",
+      "category": "Physical World - Environmental Science",
+      "status": "quarantined"
+    },
+    {
+      "id": 38,
+      "name": "Conservation and recycling",
+      "category": "Physical World - Environmental Science",
+      "status": "quarantined"
+    },
+    {
+      "id": 39,
+      "name": "Clean vs. polluted environments",
+      "category": "Physical World - Environmental Science",
+      "status": "quarantined"
+    },
+    {
+      "id": 40,
+      "name": "Sustainability basics",
+      "category": "Physical World - Environmental Science",
+      "status": "quarantined"
+    },
+    {
+      "id": 41,
+      "name": "Emotions and feelings",
+      "category": "Human Experience - Individual",
+      "status": "quarantined"
+    },
+    {
+      "id": 42,
+      "name": "Senses and perception",
+      "category": "Human Experience - Individual",
+      "status": "quarantined"
+    },
+    {
+      "id": 43,
+      "name": "Health and nutrition",
+      "category": "Human Experience - Individual",
+      "status": "quarantined"
+    },
+    {
+      "id": 44,
+      "name": "Sleep and rest",
+      "category": "Human Experience - Individual",
+      "status": "quarantined"
+    },
+    {
+      "id": 45,
+      "name": "Brain and nervous system",
+      "category": "Human Experience - Individual",
+      "status": "quarantined"
+    },
+    {
+      "id": 46,
+      "name": "Personal identity",
+      "category": "Human Experience - Individual",
+      "status": "quarantined"
+    },
+    {
+      "id": 47,
+      "name": "Family and relationships",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 48,
+      "name": "Community and helpers",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 49,
+      "name": "Rules and cooperation",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 50,
+      "name": "Different cultures and peoples",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 51,
+      "name": "Government and leadership",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 52,
+      "name": "Conflict and resolution",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 53,
+      "name": "Laws and fairness",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 54,
+      "name": "How societies develop",
+      "category": "Human Experience - Social",
+      "status": "quarantined"
+    },
+    {
+      "id": 55,
+      "name": "Stories and literature",
+      "category": "Human Experience - Cultural",
+      "status": "quarantined"
+    },
+    {
+      "id": 56,
+      "name": "Traditions and celebrations",
+      "category": "Human Experience - Cultural",
+      "status": "quarantined"
+    },
+    {
+      "id": 57,
+      "name": "Religious and spiritual practices",
+      "category": "Human Experience - Cultural",
+      "status": "quarantined"
+    },
+    {
+      "id": 58,
+      "name": "Folklore and myths",
+      "category": "Human Experience - Cultural",
+      "status": "quarantined"
+    },
+    {
+      "id": 59,
+      "name": "Cultural diversity and inclusion",
+      "category": "Human Experience - Cultural",
+      "status": "quarantined"
+    },
+    {
+      "id": 60,
+      "name": "Work and occupations",
+      "category": "Human Experience - Economic",
+      "status": "quarantined"
+    },
+    {
+      "id": 61,
+      "name": "Money and trade",
+      "category": "Human Experience - Economic",
+      "status": "quarantined"
+    },
+    {
+      "id": 62,
+      "name": "Buying and selling",
+      "category": "Human Experience - Economic",
+      "status": "quarantined"
+    },
+    {
+      "id": 63,
+      "name": "Farming and food production",
+      "category": "Human Experience - Economic",
+      "status": "quarantined"
+    },
+    {
+      "id": 64,
+      "name": "Manufacturing and making things",
+      "category": "Human Experience - Economic",
+      "status": "quarantined"
+    },
+    {
+      "id": 65,
+      "name": "Services and helping others",
+      "category": "Human Experience - Economic",
+      "status": "quarantined"
+    },
+    {
+      "id": 66,
+      "name": "How languages are structured",
+      "category": "Human Experience - Linguistic",
+      "status": "quarantined"
+    },
+    {
+      "id": 67,
+      "name": "Grammar and word patterns",
+      "category": "Human Experience - Linguistic",
+      "status": "quarantined"
+    },
+    {
+      "id": 68,
+      "name": "Different languages around the world",
+      "category": "Human Experience - Linguistic",
+      "status": "quarantined"
+    },
+    {
+      "id": 69,
+      "name": "How language develops",
+      "category": "Human Experience - Linguistic",
+      "status": "quarantined"
+    },
+    {
+      "id": 70,
+      "name": "Language and thought",
+      "category": "Human Experience - Linguistic",
+      "status": "quarantined"
+    },
+    {
+      "id": 71,
+      "name": "Counting and numbers",
+      "category": "Systems and Activities - Mathematical",
+      "status": "quarantined"
+    },
+    {
+      "id": 72,
+      "name": "Shapes and geometry",
+      "category": "Systems and Activities - Mathematical",
+      "status": "quarantined"
+    },
+    {
+      "id": 73,
+      "name": "Size and measurement",
+      "category": "Systems and Activities - Mathematical",
+      "status": "quarantined"
+    },
+    {
+      "id": 74,
+      "name": "Sorting and grouping",
+      "category": "Systems and Activities - Mathematical",
+      "status": "quarantined"
+    },
+    {
+      "id": 75,
+      "name": "Simple calculations",
+      "category": "Systems and Activities - Mathematical",
+      "status": "quarantined"
+    },
+    {
+      "id": 76,
+      "name": "Data and statistics",
+      "category": "Systems and Activities - Mathematical",
+      "status": "quarantined"
+    },
+    {
+      "id": 77,
+      "name": "Simple tools and their uses",
+      "category": "Systems and Activities - Technological",
+      "status": "quarantined"
+    },
+    {
+      "id": 78,
+      "name": "How things work",
+      "category": "Systems and Activities - Technological",
+      "status": "quarantined"
+    },
+    {
+      "id": 79,
+      "name": "Building and construction",
+      "category": "Systems and Activities - Technological",
+      "status": "quarantined"
+    },
+    {
+      "id": 80,
+      "name": "Transportation methods",
+      "category": "Systems and Activities - Technological",
+      "status": "quarantined"
+    },
+    {
+      "id": 81,
+      "name": "Basic engineering concepts",
+      "category": "Systems and Activities - Technological",
+      "status": "quarantined"
+    },
+    {
+      "id": 82,
+      "name": "Computers and machines",
+      "category": "Systems and Activities - Technological",
+      "status": "quarantined"
+    },
+    {
+      "id": 83,
+      "name": "Sports and physical games",
+      "category": "Systems and Activities - Recreational",
+      "status": "quarantined"
+    },
+    {
+      "id": 84,
+      "name": "Board games and puzzles",
+      "category": "Systems and Activities - Recreational",
+      "status": "quarantined"
+    },
+    {
+      "id": 85,
+      "name": "Hobbies and collections",
+      "category": "Systems and Activities - Recreational",
+      "status": "quarantined"
+    },
+    {
+      "id": 86,
+      "name": "Outdoor activities",
+      "category": "Systems and Activities - Recreational",
+      "status": "quarantined"
+    },
+    {
+      "id": 87,
+      "name": "Imaginative play",
+      "category": "Systems and Activities - Recreational",
+      "status": "quarantined"
+    },
+    {
+      "id": 88,
+      "name": "Visual arts and design",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 89,
+      "name": "Architecture and building design",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 90,
+      "name": "Fashion and clothing",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 91,
+      "name": "Theater and drama",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 92,
+      "name": "Dance and movement",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 93,
+      "name": "Innovation and invention",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 94,
+      "name": "Beauty and aesthetics",
+      "category": "Systems and Activities - Creative",
+      "status": "quarantined"
+    },
+    {
+      "id": 95,
+      "name": "Critical thinking and questioning",
+      "category": "Skills and Development - Cognitive",
+      "status": "quarantined"
+    },
+    {
+      "id": 96,
+      "name": "Learning how to learn",
+      "category": "Skills and Development - Cognitive",
+      "status": "quarantined"
+    },
+    {
+      "id": 97,
+      "name": "Memory strategies",
+      "category": "Skills and Development - Cognitive",
+      "status": "quarantined"
+    },
+    {
+      "id": 98,
+      "name": "Making good decisions",
+      "category": "Skills and Development - Cognitive",
+      "status": "quarantined"
+    },
+    {
+      "id": 99,
+      "name": "Evaluating information",
+      "category": "Skills and Development - Cognitive",
+      "status": "quarantined"
+    },
+    {
+      "id": 100,
+      "name": "Creative problem-solving",
+      "category": "Skills and Development - Cognitive",
+      "status": "quarantined"
+    },
+    {
+      "id": 101,
+      "name": "Body awareness and coordination",
+      "category": "Skills and Development - Physical",
+      "status": "quarantined"
+    },
+    {
+      "id": 102,
+      "name": "Fine and gross motor skills",
+      "category": "Skills and Development - Physical",
+      "status": "quarantined"
+    },
+    {
+      "id": 103,
+      "name": "Sensory exploration (taste, smell, touch, proprioception)",
+      "category": "Skills and Development - Physical",
+      "status": "quarantined"
+    },
+    {
+      "id": 104,
+      "name": "Spatial awareness and navigation",
+      "category": "Skills and Development - Physical",
+      "status": "quarantined"
+    },
+    {
+      "id": 105,
+      "name": "Physical fitness and strength",
+      "category": "Skills and Development - Physical",
+      "status": "quarantined"
+    },
+    {
+      "id": 106,
+      "name": "Balance and movement",
+      "category": "Skills and Development - Physical",
+      "status": "quarantined"
+    },
+    {
+      "id": 107,
+      "name": "Personal hygiene and self-care",
+      "category": "Skills and Development - Practical",
+      "status": "quarantined"
+    },
+    {
+      "id": 108,
+      "name": "Food preparation and cooking",
+      "category": "Skills and Development - Practical",
+      "status": "quarantined"
+    },
+    {
+      "id": 109,
+      "name": "Household tasks and organization",
+      "category": "Skills and Development - Practical",
+      "status": "quarantined"
+    },
+    {
+      "id": 110,
+      "name": "Tool use and maintenance",
+      "category": "Skills and Development - Practical",
+      "status": "quarantined"
+    },
+    {
+      "id": 111,
+      "name": "Finding your way around",
+      "category": "Skills and Development - Practical",
+      "status": "quarantined"
+    },
+    {
+      "id": 112,
+      "name": "Making and keeping friends",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
+    {
+      "id": 113,
+      "name": "Understanding others' feelings (empathy)",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
+    {
+      "id": 114,
+      "name": "Leading and following",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
+    {
+      "id": 115,
+      "name": "Social rules and manners",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
+    {
+      "id": 116,
+      "name": "Cooperating and sharing",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
+    {
+      "id": 117,
+      "name": "Managing emotions",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
+    {
+      "id": 118,
+      "name": "Perspective-taking",
+      "category": "Skills and Development - Social-Emotional",
+      "status": "quarantined"
+    },
     {
       "id": 119,
       "name": "Imitation and modeling (physical movements, creative expression, social behaviors, practical skills)",
@@ -15,6 +723,14 @@
       "status": "quarantined",
       "resolved": true,
       "reason": "REPLACED (live) by Mirror neurons and learning by watching (1081). Grab-bag title; the lesson content was already a focused mirror-neurons/observational-learning lesson, promoted under the concept name."
+    },
+    {
+      "id": 123,
+      "name": "Sink or float experiments",
+      "category": "Cross-Domain Foundational Activities",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Buoyancy and why things float (1090). Same content, named for the concept instead of the procedure, plus buoyancy in air (hot-air lantern, Cartesian diver)."
     },
     {
       "id": 125,
@@ -41,6 +757,14 @@
       "reason": "REPLACED (live) by Pretend play and symbolic thinking (1083). Grab-bag title; content refocused on symbolic thinking, simulation, and theory of mind."
     },
     {
+      "id": 129,
+      "name": "Show and tell presentations",
+      "category": "Cross-Domain Foundational Activities",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Theory of mind and knowing what others know (1085). Show-and-tell is an activity, not a topic; the real concept underneath is theory of mind, so the lesson now runs the false-belief and broccoli/crackers experiments and keeps show-and-tell as the applied exercise."
+    },
+    {
       "id": 131,
       "name": "Rhythm and timing (physical coordination, creative music, social synchronization, learning sequences)",
       "category": "Cross-Domain Foundational Activities",
@@ -49,12 +773,44 @@
       "reason": "REPLACED (live) by Rhythm and entrainment (1084). Grab-bag title; content refocused on the beat, meter, and neural entrainment."
     },
     {
+      "id": 132,
+      "name": "Painting a group mural together",
+      "category": "Cross-Domain Foundational Activities",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Murals and painting on walls (1089). Group painting is not a topic; the history of murals is, with printed reference works and style replication as the activity."
+    },
+    {
+      "id": 133,
+      "name": "Building a blanket fort",
+      "category": "Cross-Domain Foundational Activities",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Fortifications and choke points (1088). Fort-building is the activity; fortification design and the choke point are the knowledge, so the fort is now built to a defensive brief and tested."
+    },
+    {
+      "id": 134,
+      "name": "Drawing, sketching, and scribbling",
+      "category": "Creative and Expressive - Visual Arts",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Pareidolia and seeing faces in clouds (1086). Drawing is a default activity children do anyway; pareidolia is the real phenomenon worth teaching, and doodling/cloud-watching is its direct demonstration."
+    },
+    {
+      "id": 135,
+      "name": "Painting with various materials",
+      "category": "Creative and Expressive - Visual Arts",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Pigments and where color comes from (1087). Retitled around the concept and rebuilt so the activity is making paint from real pigments and binders rather than generic painting."
+    },
+    {
       "id": 140,
       "name": "Simple jewelry making",
       "category": "Creative and Expressive - Visual Arts",
       "status": "quarantined",
       "resolved": true,
-      "reason": "MERGED into Making bead and pasta necklace patterns (124) — same stringing activity and the sequence/pattern concept is 124's. Two distinct angles worth their own future lessons: adornment as one of the oldest human symbolic behaviors (100,000-year-old shell beads), and bilateral symmetry."
+      "reason": "MERGED into Making bead and pasta necklace patterns (124) \u2014 same stringing activity and the sequence/pattern concept is 124's. Two distinct angles worth their own future lessons: adornment as one of the oldest human symbolic behaviors (100,000-year-old shell beads), and bilateral symmetry."
     },
     {
       "id": 142,
@@ -659,7 +1415,7 @@
       "category": "Learning and Growth - Games and Puzzles",
       "status": "quarantined",
       "flagged": "2026-07-14",
-      "reason": "too broad. SPLIT — first slice REPLACED (live) by 1078 Counting, cardinality, and infinity. More math splits pending.",
+      "reason": "too broad. SPLIT \u2014 first slice REPLACED (live) by 1078 Counting, cardinality, and infinity. More math splits pending.",
       "user_flagged": true,
       "partial": true
     },
@@ -970,12 +1726,6 @@
       "status": "quarantined"
     },
     {
-      "id": 1075,
-      "name": "Hotel management",
-      "category": "Practical and Productive - Work and Career",
-      "status": "quarantined"
-    },
-    {
       "id": 292,
       "name": "Fix-it activities and repair play",
       "category": "Practical and Productive - Maintenance and Repair",
@@ -1132,195 +1882,9 @@
       "status": "quarantined"
     },
     {
-      "id": 1,
-      "name": "Time and duration (physical cycles, human experience, sequences, measurement)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 2,
-      "name": "Patterns and systems (mathematical patterns, natural patterns, social patterns, thinking patterns)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 3,
-      "name": "Cause and effect (physical causation, social consequences, logical reasoning)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 4,
-      "name": "Change and adaptation (physical changes, human development, evolution, learning)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 5,
-      "name": "Energy and movement (physical energy, body movement, social dynamics)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 6,
-      "name": "Communication across forms (language, visual symbols, music, body language, information)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 7,
-      "name": "Structure and function (how things are built and what they do - bodies, societies, tools, buildings)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 8,
-      "name": "Interconnections (ecosystems, social networks, global connections, systems thinking)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 9,
-      "name": "Growth and development (biological growth, human development, skill development, societal progress)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 10,
-      "name": "Safety and protection (physical safety, emotional safety, environmental protection, social security)",
-      "category": "Cross-Domain Foundational Concepts",
-      "status": "quarantined"
-    },
-    {
-      "id": 11,
-      "name": "Cell (basic unit of life)",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 12,
-      "name": "Animal behaviors and types",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 13,
-      "name": "Plant growth and types",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 14,
-      "name": "Human body and functions",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 15,
-      "name": "Ecosystems and habitats",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 16,
-      "name": "Life cycles and development",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 17,
-      "name": "Food chains and relationships",
-      "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
       "id": 1072,
       "name": "Photosynthesis",
       "category": "Physical World - Life Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 18,
-      "name": "Chemical elements and reactions",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 19,
-      "name": "Forces and motion",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 20,
-      "name": "Light and sound",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 21,
-      "name": "Heat and cold",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 22,
-      "name": "States of matter (water, ice, steam)",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 23,
-      "name": "Simple machines",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 24,
-      "name": "Fire and combustion",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 1074,
-      "name": "How speakers work",
-      "category": "Physical World - Physical Sciences",
-      "status": "quarantined"
-    },
-    {
-      "id": 25,
-      "name": "Weather and seasons",
-      "category": "Physical World - Earth & Space",
-      "status": "quarantined"
-    },
-    {
-      "id": 26,
-      "name": "Rocks and minerals",
-      "category": "Physical World - Earth & Space",
-      "status": "quarantined"
-    },
-    {
-      "id": 27,
-      "name": "Oceans and rivers",
-      "category": "Physical World - Earth & Space",
-      "status": "quarantined"
-    },
-    {
-      "id": 28,
-      "name": "Day and night cycles",
-      "category": "Physical World - Earth & Space",
-      "status": "quarantined"
-    },
-    {
-      "id": 29,
-      "name": "Planets and stars",
-      "category": "Physical World - Earth & Space",
-      "status": "quarantined"
-    },
-    {
-      "id": 30,
-      "name": "Natural phenomena",
-      "category": "Physical World - Earth & Space",
       "status": "quarantined"
     },
     {
@@ -1330,531 +1894,15 @@
       "status": "quarantined"
     },
     {
-      "id": 31,
-      "name": "Different environments (forest, desert, ocean, mountains)",
-      "category": "Physical World - Geography",
+      "id": 1074,
+      "name": "How speakers work",
+      "category": "Physical World - Physical Sciences",
       "status": "quarantined"
     },
     {
-      "id": 32,
-      "name": "Maps and directions",
-      "category": "Physical World - Geography",
-      "status": "quarantined"
-    },
-    {
-      "id": 33,
-      "name": "Countries and continents",
-      "category": "Physical World - Geography",
-      "status": "quarantined"
-    },
-    {
-      "id": 34,
-      "name": "Cities and rural areas",
-      "category": "Physical World - Geography",
-      "status": "quarantined"
-    },
-    {
-      "id": 35,
-      "name": "Climate zones",
-      "category": "Physical World - Geography",
-      "status": "quarantined"
-    },
-    {
-      "id": 36,
-      "name": "Natural landmarks",
-      "category": "Physical World - Geography",
-      "status": "quarantined"
-    },
-    {
-      "id": 37,
-      "name": "Human impact on nature",
-      "category": "Physical World - Environmental Science",
-      "status": "quarantined"
-    },
-    {
-      "id": 38,
-      "name": "Conservation and recycling",
-      "category": "Physical World - Environmental Science",
-      "status": "quarantined"
-    },
-    {
-      "id": 39,
-      "name": "Clean vs. polluted environments",
-      "category": "Physical World - Environmental Science",
-      "status": "quarantined"
-    },
-    {
-      "id": 40,
-      "name": "Sustainability basics",
-      "category": "Physical World - Environmental Science",
-      "status": "quarantined"
-    },
-    {
-      "id": 41,
-      "name": "Emotions and feelings",
-      "category": "Human Experience - Individual",
-      "status": "quarantined"
-    },
-    {
-      "id": 42,
-      "name": "Senses and perception",
-      "category": "Human Experience - Individual",
-      "status": "quarantined"
-    },
-    {
-      "id": 43,
-      "name": "Health and nutrition",
-      "category": "Human Experience - Individual",
-      "status": "quarantined"
-    },
-    {
-      "id": 44,
-      "name": "Sleep and rest",
-      "category": "Human Experience - Individual",
-      "status": "quarantined"
-    },
-    {
-      "id": 45,
-      "name": "Brain and nervous system",
-      "category": "Human Experience - Individual",
-      "status": "quarantined"
-    },
-    {
-      "id": 46,
-      "name": "Personal identity",
-      "category": "Human Experience - Individual",
-      "status": "quarantined"
-    },
-    {
-      "id": 47,
-      "name": "Family and relationships",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 48,
-      "name": "Community and helpers",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 49,
-      "name": "Rules and cooperation",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 50,
-      "name": "Different cultures and peoples",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 51,
-      "name": "Government and leadership",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 52,
-      "name": "Conflict and resolution",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 53,
-      "name": "Laws and fairness",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 54,
-      "name": "How societies develop",
-      "category": "Human Experience - Social",
-      "status": "quarantined"
-    },
-    {
-      "id": 55,
-      "name": "Stories and literature",
-      "category": "Human Experience - Cultural",
-      "status": "quarantined"
-    },
-    {
-      "id": 56,
-      "name": "Traditions and celebrations",
-      "category": "Human Experience - Cultural",
-      "status": "quarantined"
-    },
-    {
-      "id": 57,
-      "name": "Religious and spiritual practices",
-      "category": "Human Experience - Cultural",
-      "status": "quarantined"
-    },
-    {
-      "id": 58,
-      "name": "Folklore and myths",
-      "category": "Human Experience - Cultural",
-      "status": "quarantined"
-    },
-    {
-      "id": 59,
-      "name": "Cultural diversity and inclusion",
-      "category": "Human Experience - Cultural",
-      "status": "quarantined"
-    },
-    {
-      "id": 60,
-      "name": "Work and occupations",
-      "category": "Human Experience - Economic",
-      "status": "quarantined"
-    },
-    {
-      "id": 61,
-      "name": "Money and trade",
-      "category": "Human Experience - Economic",
-      "status": "quarantined"
-    },
-    {
-      "id": 62,
-      "name": "Buying and selling",
-      "category": "Human Experience - Economic",
-      "status": "quarantined"
-    },
-    {
-      "id": 63,
-      "name": "Farming and food production",
-      "category": "Human Experience - Economic",
-      "status": "quarantined"
-    },
-    {
-      "id": 64,
-      "name": "Manufacturing and making things",
-      "category": "Human Experience - Economic",
-      "status": "quarantined"
-    },
-    {
-      "id": 65,
-      "name": "Services and helping others",
-      "category": "Human Experience - Economic",
-      "status": "quarantined"
-    },
-    {
-      "id": 66,
-      "name": "How languages are structured",
-      "category": "Human Experience - Linguistic",
-      "status": "quarantined"
-    },
-    {
-      "id": 67,
-      "name": "Grammar and word patterns",
-      "category": "Human Experience - Linguistic",
-      "status": "quarantined"
-    },
-    {
-      "id": 68,
-      "name": "Different languages around the world",
-      "category": "Human Experience - Linguistic",
-      "status": "quarantined"
-    },
-    {
-      "id": 69,
-      "name": "How language develops",
-      "category": "Human Experience - Linguistic",
-      "status": "quarantined"
-    },
-    {
-      "id": 70,
-      "name": "Language and thought",
-      "category": "Human Experience - Linguistic",
-      "status": "quarantined"
-    },
-    {
-      "id": 71,
-      "name": "Counting and numbers",
-      "category": "Systems and Activities - Mathematical",
-      "status": "quarantined"
-    },
-    {
-      "id": 72,
-      "name": "Shapes and geometry",
-      "category": "Systems and Activities - Mathematical",
-      "status": "quarantined"
-    },
-    {
-      "id": 73,
-      "name": "Size and measurement",
-      "category": "Systems and Activities - Mathematical",
-      "status": "quarantined"
-    },
-    {
-      "id": 74,
-      "name": "Sorting and grouping",
-      "category": "Systems and Activities - Mathematical",
-      "status": "quarantined"
-    },
-    {
-      "id": 75,
-      "name": "Simple calculations",
-      "category": "Systems and Activities - Mathematical",
-      "status": "quarantined"
-    },
-    {
-      "id": 76,
-      "name": "Data and statistics",
-      "category": "Systems and Activities - Mathematical",
-      "status": "quarantined"
-    },
-    {
-      "id": 77,
-      "name": "Simple tools and their uses",
-      "category": "Systems and Activities - Technological",
-      "status": "quarantined"
-    },
-    {
-      "id": 78,
-      "name": "How things work",
-      "category": "Systems and Activities - Technological",
-      "status": "quarantined"
-    },
-    {
-      "id": 79,
-      "name": "Building and construction",
-      "category": "Systems and Activities - Technological",
-      "status": "quarantined"
-    },
-    {
-      "id": 80,
-      "name": "Transportation methods",
-      "category": "Systems and Activities - Technological",
-      "status": "quarantined"
-    },
-    {
-      "id": 81,
-      "name": "Basic engineering concepts",
-      "category": "Systems and Activities - Technological",
-      "status": "quarantined"
-    },
-    {
-      "id": 82,
-      "name": "Computers and machines",
-      "category": "Systems and Activities - Technological",
-      "status": "quarantined"
-    },
-    {
-      "id": 83,
-      "name": "Sports and physical games",
-      "category": "Systems and Activities - Recreational",
-      "status": "quarantined"
-    },
-    {
-      "id": 84,
-      "name": "Board games and puzzles",
-      "category": "Systems and Activities - Recreational",
-      "status": "quarantined"
-    },
-    {
-      "id": 85,
-      "name": "Hobbies and collections",
-      "category": "Systems and Activities - Recreational",
-      "status": "quarantined"
-    },
-    {
-      "id": 86,
-      "name": "Outdoor activities",
-      "category": "Systems and Activities - Recreational",
-      "status": "quarantined"
-    },
-    {
-      "id": 87,
-      "name": "Imaginative play",
-      "category": "Systems and Activities - Recreational",
-      "status": "quarantined"
-    },
-    {
-      "id": 88,
-      "name": "Visual arts and design",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 89,
-      "name": "Architecture and building design",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 90,
-      "name": "Fashion and clothing",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 91,
-      "name": "Theater and drama",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 92,
-      "name": "Dance and movement",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 93,
-      "name": "Innovation and invention",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 94,
-      "name": "Beauty and aesthetics",
-      "category": "Systems and Activities - Creative",
-      "status": "quarantined"
-    },
-    {
-      "id": 95,
-      "name": "Critical thinking and questioning",
-      "category": "Skills and Development - Cognitive",
-      "status": "quarantined"
-    },
-    {
-      "id": 96,
-      "name": "Learning how to learn",
-      "category": "Skills and Development - Cognitive",
-      "status": "quarantined"
-    },
-    {
-      "id": 97,
-      "name": "Memory strategies",
-      "category": "Skills and Development - Cognitive",
-      "status": "quarantined"
-    },
-    {
-      "id": 98,
-      "name": "Making good decisions",
-      "category": "Skills and Development - Cognitive",
-      "status": "quarantined"
-    },
-    {
-      "id": 99,
-      "name": "Evaluating information",
-      "category": "Skills and Development - Cognitive",
-      "status": "quarantined"
-    },
-    {
-      "id": 100,
-      "name": "Creative problem-solving",
-      "category": "Skills and Development - Cognitive",
-      "status": "quarantined"
-    },
-    {
-      "id": 101,
-      "name": "Body awareness and coordination",
-      "category": "Skills and Development - Physical",
-      "status": "quarantined"
-    },
-    {
-      "id": 102,
-      "name": "Fine and gross motor skills",
-      "category": "Skills and Development - Physical",
-      "status": "quarantined"
-    },
-    {
-      "id": 103,
-      "name": "Sensory exploration (taste, smell, touch, proprioception)",
-      "category": "Skills and Development - Physical",
-      "status": "quarantined"
-    },
-    {
-      "id": 104,
-      "name": "Spatial awareness and navigation",
-      "category": "Skills and Development - Physical",
-      "status": "quarantined"
-    },
-    {
-      "id": 105,
-      "name": "Physical fitness and strength",
-      "category": "Skills and Development - Physical",
-      "status": "quarantined"
-    },
-    {
-      "id": 106,
-      "name": "Balance and movement",
-      "category": "Skills and Development - Physical",
-      "status": "quarantined"
-    },
-    {
-      "id": 107,
-      "name": "Personal hygiene and self-care",
-      "category": "Skills and Development - Practical",
-      "status": "quarantined"
-    },
-    {
-      "id": 108,
-      "name": "Food preparation and cooking",
-      "category": "Skills and Development - Practical",
-      "status": "quarantined"
-    },
-    {
-      "id": 109,
-      "name": "Household tasks and organization",
-      "category": "Skills and Development - Practical",
-      "status": "quarantined"
-    },
-    {
-      "id": 110,
-      "name": "Tool use and maintenance",
-      "category": "Skills and Development - Practical",
-      "status": "quarantined"
-    },
-    {
-      "id": 111,
-      "name": "Finding your way around",
-      "category": "Skills and Development - Practical",
-      "status": "quarantined"
-    },
-    {
-      "id": 112,
-      "name": "Making and keeping friends",
-      "category": "Skills and Development - Social-Emotional",
-      "status": "quarantined"
-    },
-    {
-      "id": 113,
-      "name": "Understanding others' feelings (empathy)",
-      "category": "Skills and Development - Social-Emotional",
-      "status": "quarantined"
-    },
-    {
-      "id": 114,
-      "name": "Leading and following",
-      "category": "Skills and Development - Social-Emotional",
-      "status": "quarantined"
-    },
-    {
-      "id": 115,
-      "name": "Social rules and manners",
-      "category": "Skills and Development - Social-Emotional",
-      "status": "quarantined"
-    },
-    {
-      "id": 116,
-      "name": "Cooperating and sharing",
-      "category": "Skills and Development - Social-Emotional",
-      "status": "quarantined"
-    },
-    {
-      "id": 117,
-      "name": "Managing emotions",
-      "category": "Skills and Development - Social-Emotional",
-      "status": "quarantined"
-    },
-    {
-      "id": 118,
-      "name": "Perspective-taking",
-      "category": "Skills and Development - Social-Emotional",
+      "id": 1075,
+      "name": "Hotel management",
+      "category": "Practical and Productive - Work and Career",
       "status": "quarantined"
     }
   ]

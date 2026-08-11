@@ -7,17 +7,15 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
         "Bug hunting and magnifying glass observation",
         "Learning to tie knots and bows",
         "Making a picture diary or journal",
-        "Sink or float experiments",
         "Making bead and pasta necklace patterns",
         "Sorting a treasure box of buttons, shells, and stones",
-        "Show and tell presentations",
-        "Creating a nature display from a walk",
-        "Painting a group mural together",
-        "Building a blanket fort"
+        "Creating a nature display from a walk"
     ],
     "Cross-Domain Foundational Concepts": [
         "Mirror neurons and learning by watching",
-        "Pretend play and symbolic thinking"
+        "Pretend play and symbolic thinking",
+        "Theory of mind and knowing what others know",
+        "Pareidolia and seeing faces in clouds"
     ],
     "Human Experience - Social": [
         "Attachment and the biology of caregiving"
@@ -26,8 +24,8 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
         "Rhythm and entrainment"
     ],
     "Creative and Expressive - Visual Arts": [
-        "Drawing, sketching, and scribbling",
-        "Painting with various materials",
+        "Pigments and where color comes from",
+        "Murals and painting on walls",
         "Sculpture and 3D art with clay/playdough",
         "Photography and picture-taking",
         "Printmaking and stamping",
@@ -37,6 +35,9 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     "Physical World - Life Sciences": [
         "Seeds and germination",
         "Decomposition and compost"
+    ],
+    "Physical World - Physical Sciences": [
+        "Buoyancy and why things float"
     ],
     "Systems and Activities - Mathematical": [
         "Counting, cardinality, and infinity"
@@ -48,7 +49,8 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
         "Phonemes and the sounds of language"
     ],
     "Human Experience - Cultural": [
-        "How conversation differs across cultures"
+        "How conversation differs across cultures",
+        "Fortifications and choke points"
     ]
 }
 
