@@ -47,9 +47,9 @@
         "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 123,
-        "name": "Sink or float experiments",
-        "category": "Cross-Domain Foundational Activities"
+        "id": 1090,
+        "name": "Buoyancy and why things float",
+        "category": "Physical World - Physical Sciences"
       },
       {
         "id": 124,
@@ -62,9 +62,9 @@
         "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 129,
-        "name": "Show and tell presentations",
-        "category": "Cross-Domain Foundational Activities"
+        "id": 1085,
+        "name": "Theory of mind and knowing what others know",
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
         "id": 130,
@@ -72,14 +72,14 @@
         "category": "Cross-Domain Foundational Activities"
       },
       {
-        "id": 132,
-        "name": "Painting a group mural together",
-        "category": "Cross-Domain Foundational Activities"
+        "id": 1089,
+        "name": "Murals and painting on walls",
+        "category": "Creative and Expressive - Visual Arts"
       },
       {
-        "id": 133,
-        "name": "Building a blanket fort",
-        "category": "Cross-Domain Foundational Activities"
+        "id": 1088,
+        "name": "Fortifications and choke points",
+        "category": "Human Experience - Cultural"
       },
       {
         "id": 1081,
@@ -102,13 +102,13 @@
         "category": "Creative and Expressive - Performing Arts"
       },
       {
-        "id": 134,
-        "name": "Drawing, sketching, and scribbling",
-        "category": "Creative and Expressive - Visual Arts"
+        "id": 1086,
+        "name": "Pareidolia and seeing faces in clouds",
+        "category": "Cross-Domain Foundational Concepts"
       },
       {
-        "id": 135,
-        "name": "Painting with various materials",
+        "id": 1087,
+        "name": "Pigments and where color comes from",
         "category": "Creative and Expressive - Visual Arts"
       },
       {
@@ -3179,19 +3179,19 @@
       120,
       121,
       122,
-      123,
+      1090,
       124,
       127,
-      129,
+      1085,
       130,
-      132,
-      133,
+      1089,
+      1088,
       1081,
       1082,
       1083,
       1084,
-      134,
-      135,
+      1086,
+      1087,
       136,
       137,
       138,
