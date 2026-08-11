@@ -61,8 +61,13 @@ lesson-plans/
 │       ├── knowledge/         # Knowledge, Skills & Culture lesson plans
 │       ├── physical/          # Physical Activities lesson plans
 │       └── songs/             # Song lesson plans (lyrics, ASL, cultural notes)
-├── topics.py                  # Source topic data (Python)
-├── convert_topics.py          # Data conversion script
+│       └── ...
+├── topics.py                  # Live topic names by category (source of truth for verification)
+├── verify-lessons.py          # Checks topics.py matches the lesson files on disk
+├── scripts/
+│   └── build-materials-index.py  # Rebuilds docs/materials-index.json for search
+├── planning/lesson-standard.md   # The quality bar for lesson plans + review workflow
+├── quarantine/                # Topics awaiting review (not served)
 └── CLAUDE.md                  # Claude Code documentation
 ```
 
@@ -82,10 +87,14 @@ Manual sync via export/import:
 
 ## Development
 
-### Regenerate Data from topics.py
+### After changing topics or lessons
+
+`docs/initial-data.json` is edited directly (it is the data the app loads); `topics.py` is
+the parallel list used for verification. After changing either, run:
 
 ```bash
-python3 convert_topics.py
+python3 verify-lessons.py                  # topics.py <-> lesson files must match exactly
+python3 scripts/build-materials-index.py   # rebuild the materials search index
 ```
 
 ### Modify UI
