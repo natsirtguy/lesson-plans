@@ -112,24 +112,24 @@
         "category": "Creative and Expressive - Visual Arts"
       },
       {
-        "id": 136,
-        "name": "Sculpture and 3D art with clay/playdough",
-        "category": "Creative and Expressive - Visual Arts"
+        "id": 1091,
+        "name": "Molds and casting",
+        "category": "Systems and Activities - Technological"
       },
       {
-        "id": 137,
-        "name": "Photography and picture-taking",
-        "category": "Creative and Expressive - Visual Arts"
+        "id": 1092,
+        "name": "Camera obscura and how light draws pictures",
+        "category": "Physical World - Physical Sciences"
       },
       {
-        "id": 138,
-        "name": "Printmaking and stamping",
-        "category": "Creative and Expressive - Visual Arts"
+        "id": 1093,
+        "name": "Movable type and copying by machine",
+        "category": "Systems and Activities - Technological"
       },
       {
-        "id": 139,
-        "name": "Pottery and clay work",
-        "category": "Creative and Expressive - Visual Arts"
+        "id": 1094,
+        "name": "Why fire turns clay into stone",
+        "category": "Physical World - Physical Sciences"
       },
       {
         "id": 141,
@@ -3192,10 +3192,10 @@
       1084,
       1086,
       1087,
-      136,
-      137,
-      138,
-      139,
+      1091,
+      1092,
+      1093,
+      1094,
       141
     ],
     "songs": [
