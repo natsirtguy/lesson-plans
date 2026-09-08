@@ -140,12 +140,12 @@ name, and the caregiver's `reason`. Sort them before working: some reasons are a
 ("good", "pretty good actually") and need no change at all; the rest name the specific
 defect and usually the fix. Treat the reason as the spec.
 
-## Status (2026-08-11, batches 4-5)
+## Status (2026-09-08, batches 4-5 plus one new lesson)
 
 **Scope:** the knowledge queue only. Physical activities and songs are untouched (their
 content is inherently activity/performance and outside this quality bar for now).
 
-**Live knowledge lessons: 27** — the authoritative list is `topics.py` /
+**Live knowledge lessons: 28** — the authoritative list is `topics.py` /
 `docs/initial-data.json` (masterLists.knowledge). How they got there:
 - Original 6: sensory-system idiosyncrasies (247), seeds/germination + decomposition
   (1076/1077, split from "Community garden"), counting/cardinality/infinity (1078),
@@ -168,6 +168,12 @@ content is inherently activity/performance and outside this quality bar for now)
   (1092←137), movable type (1093←138), and why fire turns clay into stone (1094←139).
   Their categories moved with them, out of Visual Arts into physical sciences and
   technology.
+- New lesson, written to request rather than promoted from quarantine: keratin and why
+  hair is a rope (1095, Life Sciences). Hierarchical twisting — a keratin chain coils into
+  an alpha helix, two helices into a coiled coil, and five more levels of the same trick
+  produce a visible hair. The activity plies sewing thread up the same ladder and
+  break-tests each level, so the strength that appears out of nothing *is* the concept.
+  Cuticle scales/felting and disulfide bonds/perms are kept subordinate as extensions.
 
 **Quarantined:** 294 knowledge topics await review (`quarantine/quarantine.json`;
 `resolved: true` entries are review decisions already made — replaced or merged).

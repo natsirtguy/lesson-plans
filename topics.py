@@ -34,7 +34,8 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     ],
     "Physical World - Life Sciences": [
         "Seeds and germination",
-        "Decomposition and compost"
+        "Decomposition and compost",
+        "Keratin and why hair is a rope"
     ],
     "Physical World - Physical Sciences": [
         "Buoyancy and why things float",
