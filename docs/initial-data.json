@@ -135,6 +135,11 @@
         "id": 141,
         "name": "Art installation and display",
         "category": "Creative and Expressive - Visual Arts"
+      },
+      {
+        "id": 1095,
+        "name": "Keratin and why hair is a rope",
+        "category": "Physical World - Life Sciences"
       }
     ],
     "physical": [
@@ -3196,7 +3201,8 @@
       1092,
       1093,
       1094,
-      141
+      141,
+      1095
     ],
     "songs": [
       1001,
