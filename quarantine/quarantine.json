@@ -4,8 +4,8 @@
   "policy": "Default state is quarantined. A topic goes live (added to topics.py + docs/initial-data.json, lesson moved back to docs/lessons/knowledge/) only after its lesson is reviewed and meets the standard. Review batch by batch, typically by category.",
   "counts": {
     "quarantined_knowledge": 294,
-    "resolved_knowledge": 19,
-    "live_knowledge": 27
+    "resolved_knowledge": 20,
+    "live_knowledge": 28
   },
   "knowledge": [
     {
@@ -763,6 +763,14 @@
       "status": "quarantined",
       "resolved": true,
       "reason": "REPLACED (live) by Theory of mind and knowing what others know (1085). Show-and-tell is an activity, not a topic; the real concept underneath is theory of mind, so the lesson now runs the false-belief and broccoli/crackers experiments and keeps show-and-tell as the applied exercise."
+    },
+    {
+      "id": 130,
+      "name": "Creating a nature display from a walk",
+      "category": "Cross-Domain Foundational Activities",
+      "status": "quarantined",
+      "resolved": true,
+      "reason": "REPLACED (live) by Abscission and why trees drop their leaves (1096). The old lesson was a nature walk plus a craft display with a grab-bag of facts (erosion, leaf veins, decomposers, pine cones) attached. The sharpest of those, abscission, is now the whole lesson: tug-test a green leaf against a ready one, find the sealed leaf scar and next year's bud, lay out the leaves in shutdown order, and rerun the ethylene leaf-drop experiment with a ripe banana. The collecting/display angle overlaps quarantined 268-270; pebble erosion is a candidate lesson of its own."
     },
     {
       "id": 131,
