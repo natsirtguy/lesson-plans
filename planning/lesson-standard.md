@@ -93,6 +93,7 @@ examples from batch 4:
 | Photography and picture-taking | The camera obscura — light travels in straight lines |
 | Printmaking and stamping | Movable type — mirror reversal, and set once print many |
 | Pottery and clay work | Why fire turns clay into stone — irreversibility |
+| Creating a nature display from a walk | Abscission — the tree cuts its own leaves off |
 
 One activity often contains several good topics (drawing yields both pigments *and*
 pareidolia). Split them rather than cramming.
@@ -140,7 +141,7 @@ name, and the caregiver's `reason`. Sort them before working: some reasons are a
 ("good", "pretty good actually") and need no change at all; the rest name the specific
 defect and usually the fix. Treat the reason as the spec.
 
-## Status (2026-09-08, batches 4-5 plus one new lesson)
+## Status (2026-10-15, batches 4-5 plus later single-lesson rework)
 
 **Scope:** the knowledge queue only. Physical activities and songs are untouched (their
 content is inherently activity/performance and outside this quality bar for now).
@@ -174,6 +175,15 @@ content is inherently activity/performance and outside this quality bar for now)
   produce a visible hair. The activity plies sewing thread up the same ladder and
   break-tests each level, so the strength that appears out of nothing *is* the concept.
   Cuticle scales/felting and disulfide bonds/perms are kept subordinate as extensions.
+- Re-read against the direction rule: creating a nature display from a walk (130) failed
+  it — a walk and a craft display with five unrelated facts (erosion, veins, decomposers,
+  abscission, pine cones) attached. Replaced by abscission and why trees drop their leaves
+  (1096, Life Sciences), the follow-up already listed below. The walk survives as the
+  vehicle; the activity is now the tug test (green leaf tears, ready leaf pops off clean),
+  the hunt for the sealed leaf scar and next year's bud, the leaves laid out in shutdown
+  order, and the banana-bag ethylene experiment that echoes the gas-lamp defoliation
+  story. Leaf colour stays subordinate (it is 1087's), and the collecting/display angle
+  is left to quarantined 268-270.
 
 **Quarantined:** 294 knowledge topics await review (`quarantine/quarantine.json`;
 `resolved: true` entries are review decisions already made — replaced or merged).
@@ -183,14 +193,17 @@ content is inherently activity/performance and outside this quality bar for now)
   collective intelligence* content as a pure knowledge topic.
 - **239 Math games** → further math splits beyond 1078 and 124 (patterns as proto-algebra
   is live via the bead-necklace lesson; still open: shapes/symmetry, measurement).
-- **Abscission / why leaves change color** → currently a supporting idea inside 130
-  (nature display) and 1087 (pigments); wonderful enough to deserve its own lesson.
+- **Why leaves change color** → abscission is now its own lesson (1096); the colour
+  side (chlorophyll salvage revealing carotenoids, anthocyanins made fresh in autumn)
+  still lives only inside 1087 (pigments) and could be a lesson of its own.
+- **Erosion and why pebbles are round** → dropped from the 130 rewrite; a strong
+  stand-alone topic (shake angular gravel in a jar and watch it round off).
 - **Material dictates the pose** → dropped from the 136 rewrite to keep it focused, but
   it is a strong topic on its own: marble is weak in tension so Roman marble copies of
   Greek bronzes need tree-stump struts under the limbs, while bronze can rear a horse on
   two legs. Structural forces (load-bearing, tension, compression) also lost their home
   when the blanket-fort lesson became fortifications, so this would cover both.
-- **The remaining Cross-Domain Foundational Activities** (120, 121, 122, 124, 127, 130)
+- **The remaining Cross-Domain Foundational Activities** (120, 121, 122, 124, 127)
   were promoted in batch 2 as already-refocused lessons. They have not been re-read since
   the direction rule was written down; several of their titles still name procedures
-  ("Making a picture diary or journal", "Creating a nature display from a walk").
+  ("Making a picture diary or journal"). 130 has since been re-read and replaced (1096).

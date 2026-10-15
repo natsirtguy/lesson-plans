@@ -8,8 +8,7 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
         "Learning to tie knots and bows",
         "Making a picture diary or journal",
         "Making bead and pasta necklace patterns",
-        "Sorting a treasure box of buttons, shells, and stones",
-        "Creating a nature display from a walk"
+        "Sorting a treasure box of buttons, shells, and stones"
     ],
     "Cross-Domain Foundational Concepts": [
         "Mirror neurons and learning by watching",
@@ -35,7 +34,8 @@ KNOWLEDGE_AND_CULTURE_CATEGORIES = {
     "Physical World - Life Sciences": [
         "Seeds and germination",
         "Decomposition and compost",
-        "Keratin and why hair is a rope"
+        "Keratin and why hair is a rope",
+        "Abscission and why trees drop their leaves"
     ],
     "Physical World - Physical Sciences": [
         "Buoyancy and why things float",
